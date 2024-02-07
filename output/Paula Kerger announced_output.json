@@ -1,0 +1,878 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Paula Kerger announced\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Paula+Kerger+announced&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "PBS CEO Paula Kerger learned the importance of stakeholder management by overseeing 330 independent stations - Fortune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8xOS9wYnMtY2VvLXBhdWxhLWtlcmdlci1zdGF0aW9ucy1zdGFrZWhvbGRlci1tYW5hZ2VtZW50L9IBWGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8xOS9wYnMtY2VvLXBhdWxhLWtlcmdlci1zdGF0aW9ucy1zdGFrZWhvbGRlci1tYW5hZ2VtZW50L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8xOS9wYnMtY2VvLXBhdWxhLWtlcmdlci1zdGF0aW9ucy1zdGFrZWhvbGRlci1tYW5hZ2VtZW50L9IBWGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8xOS9wYnMtY2VvLXBhdWxhLWtlcmdlci1zdGF0aW9ucy1zdGFrZWhvbGRlci1tYW5hZ2VtZW50L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8xOS9wYnMtY2VvLXBhdWxhLWtlcmdlci1zdGF0aW9ucy1zdGFrZWhvbGRlci1tYW5hZ2VtZW50L9IBWGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8xOS9wYnMtY2VvLXBhdWxhLWtlcmdlci1zdGF0aW9ucy1zdGFrZWhvbGRlci1tYW5hZ2VtZW50L2FtcC8?oc=5\" target=\"_blank\">PBS CEO Paula Kerger learned the importance of stakeholder management by overseeing 330 independent stations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+            ],
+            "source": [
+              {
+                "_": "Fortune",
+                "$": {
+                  "url": "https://fortune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS CEO Paula Kerger on How the New Republican-Led House Might Impact Public Broadcasting Funding - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3Bicy1jZW8tcGF1bGEta2VyZ2VyLW5ldy1jb25ncmVzcy1mdW5kaW5nLTEyMzU0OTA5OTMv0gFaaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL3R2L25ld3MvcGJzLWNlby1wYXVsYS1rZXJnZXItbmV3LWNvbmdyZXNzLWZ1bmRpbmctMTIzNTQ5MDk5My9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3Bicy1jZW8tcGF1bGEta2VyZ2VyLW5ldy1jb25ncmVzcy1mdW5kaW5nLTEyMzU0OTA5OTMv0gFaaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL3R2L25ld3MvcGJzLWNlby1wYXVsYS1rZXJnZXItbmV3LWNvbmdyZXNzLWZ1bmRpbmctMTIzNTQ5MDk5My9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3Bicy1jZW8tcGF1bGEta2VyZ2VyLW5ldy1jb25ncmVzcy1mdW5kaW5nLTEyMzU0OTA5OTMv0gFaaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL3R2L25ld3MvcGJzLWNlby1wYXVsYS1rZXJnZXItbmV3LWNvbmdyZXNzLWZ1bmRpbmctMTIzNTQ5MDk5My9hbXAv?oc=5\" target=\"_blank\">PBS CEO Paula Kerger on How the New Republican-Led House Might Impact Public Broadcasting Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS ANNOUNCES NEW PROGRAMMING AT WINTER 2023 TCA PRESS TOUR - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvcGJzLWFubm91bmNlcy1uZXctcHJvZ3JhbW1pbmctYXQtd2ludGVyLTIwMjMtdGNhLXByZXNzLXRvdXItMzAxNzIyNjM0Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvcGJzLWFubm91bmNlcy1uZXctcHJvZ3JhbW1pbmctYXQtd2ludGVyLTIwMjMtdGNhLXByZXNzLXRvdXItMzAxNzIyNjM0Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvcGJzLWFubm91bmNlcy1uZXctcHJvZ3JhbW1pbmctYXQtd2ludGVyLTIwMjMtdGNhLXByZXNzLXRvdXItMzAxNzIyNjM0Lmh0bWzSAQA?oc=5\" target=\"_blank\">PBS ANNOUNCES NEW PROGRAMMING AT WINTER 2023 TCA PRESS TOUR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "VPM president and CEO elected to PBS board - Virginia Business Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnZpcmdpbmlhYnVzaW5lc3MuY29tL2FydGljbGUvdnBtLXByZXNpZGVudC1hbmQtY2VvLWVsZWN0ZWQtdG8tcGJzLWJvYXJkL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LnZpcmdpbmlhYnVzaW5lc3MuY29tL2FydGljbGUvdnBtLXByZXNpZGVudC1hbmQtY2VvLWVsZWN0ZWQtdG8tcGJzLWJvYXJkL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Sep 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnZpcmdpbmlhYnVzaW5lc3MuY29tL2FydGljbGUvdnBtLXByZXNpZGVudC1hbmQtY2VvLWVsZWN0ZWQtdG8tcGJzLWJvYXJkL9IBAA?oc=5\" target=\"_blank\">VPM president and CEO elected to PBS board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Virginia Business Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Virginia Business Magazine",
+                "$": {
+                  "url": "https://www.virginiabusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS Chief Paula Kerger Re-ups for 5 More Years - Hollywood Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3Bicy1jaGllZi1wYXVsYS1rZXJnZXItdXBzLTUtbW9yZS15ZWFycy0xMjI3NTgxL9IBYWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3Bicy1jaGllZi1wYXVsYS1rZXJnZXItdXBzLTUtbW9yZS15ZWFycy0xMjI3NTgxL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3Bicy1jaGllZi1wYXVsYS1rZXJnZXItdXBzLTUtbW9yZS15ZWFycy0xMjI3NTgxL9IBYWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3Bicy1jaGllZi1wYXVsYS1rZXJnZXItdXBzLTUtbW9yZS15ZWFycy0xMjI3NTgxL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jul 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3Bicy1jaGllZi1wYXVsYS1rZXJnZXItdXBzLTUtbW9yZS15ZWFycy0xMjI3NTgxL9IBYWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3Bicy1jaGllZi1wYXVsYS1rZXJnZXItdXBzLTUtbW9yZS15ZWFycy0xMjI3NTgxL2FtcC8?oc=5\" target=\"_blank\">PBS Chief Paula Kerger Re-ups for 5 More Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hollywood Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Hollywood Reporter",
+                "$": {
+                  "url": "https://www.hollywoodreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Paula Kerger, PBS CEO, protests Donald Trump's proposed budget cuts, touts 'high-quality content' - Washington Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDE4L2ZlYi8xMi9wYXVsYS1rZXJnZXItcGJzLWNlby1wcm90ZXN0cy1kb25hbGQtdHJ1bXBzLXByb3Bvcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDE4L2ZlYi8xMi9wYXVsYS1rZXJnZXItcGJzLWNlby1wcm90ZXN0cy1kb25hbGQtdHJ1bXBzLXByb3Bvcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 12 Feb 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDE4L2ZlYi8xMi9wYXVsYS1rZXJnZXItcGJzLWNlby1wcm90ZXN0cy1kb25hbGQtdHJ1bXBzLXByb3Bvcy_SAQA?oc=5\" target=\"_blank\">Paula Kerger, PBS CEO, protests Donald Trump's proposed budget cuts, touts 'high-quality content'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Times",
+                "$": {
+                  "url": "https://www.washingtontimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS unveils climate programming, new docs from Ken Burns, John Leguizamo - Realscreen"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vcmVhbHNjcmVlbi5jb20vMjAyMy8wMS8xNi90Y2EtcHJlc3MtdG91ci1wYnMtdW52ZWlscy1jbGltYXRlLXByb2dyYW1taW5nLW5ldy1kb2MtdGl0bGVzLWZyb20ta2VuLWJ1cm5zLWpvaG4tbGVndWl6YW1vL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vcmVhbHNjcmVlbi5jb20vMjAyMy8wMS8xNi90Y2EtcHJlc3MtdG91ci1wYnMtdW52ZWlscy1jbGltYXRlLXByb2dyYW1taW5nLW5ldy1kb2MtdGl0bGVzLWZyb20ta2VuLWJ1cm5zLWpvaG4tbGVndWl6YW1vL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vcmVhbHNjcmVlbi5jb20vMjAyMy8wMS8xNi90Y2EtcHJlc3MtdG91ci1wYnMtdW52ZWlscy1jbGltYXRlLXByb2dyYW1taW5nLW5ldy1kb2MtdGl0bGVzLWZyb20ta2VuLWJ1cm5zLWpvaG4tbGVndWl6YW1vL9IBAA?oc=5\" target=\"_blank\">PBS unveils climate programming, new docs from Ken Burns, John Leguizamo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realscreen</font>"
+            ],
+            "source": [
+              {
+                "_": "Realscreen",
+                "$": {
+                  "url": "https://realscreen.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WFYI Press Room - Indianapolis - WFYI"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LndmeWkub3JnL3dmeWktcHJlc3Mtcm9vbdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiJGh0dHBzOi8vd3d3LndmeWkub3JnL3dmeWktcHJlc3Mtcm9vbdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LndmeWkub3JnL3dmeWktcHJlc3Mtcm9vbdIBAA?oc=5\" target=\"_blank\">WFYI Press Room - Indianapolis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFYI</font>"
+            ],
+            "source": [
+              {
+                "_": "WFYI",
+                "$": {
+                  "url": "https://www.wfyi.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS chief Paula Kerger says 'anything can happen' to public broadcasting in Trump era - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9saWZlL3R2LzIwMTcvMDcvMzAvcGJzLWNoaWVmLXBlcmlscy1mYWNpbmctcHVibGljLWJyb2FkY2FzdGVyLzUyMzczODAwMS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9saWZlL3R2LzIwMTcvMDcvMzAvcGJzLWNoaWVmLXBlcmlscy1mYWNpbmctcHVibGljLWJyb2FkY2FzdGVyLzUyMzczODAwMS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 30 Jul 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9saWZlL3R2LzIwMTcvMDcvMzAvcGJzLWNoaWVmLXBlcmlscy1mYWNpbmctcHVibGljLWJyb2FkY2FzdGVyLzUyMzczODAwMS_SAQA?oc=5\" target=\"_blank\">PBS chief Paula Kerger says 'anything can happen' to public broadcasting in Trump era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS Is Creating a Channel Exclusively for Children (Published 2016) - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTYvMDIvMjMvYnVzaW5lc3MvbWVkaWEvcGJzLWlzLWNyZWF0aW5nLWEtY2hhbm5lbC1leGNsdXNpdmVseS1mb3ItY2hpbGRyZW4uaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTYvMDIvMjMvYnVzaW5lc3MvbWVkaWEvcGJzLWlzLWNyZWF0aW5nLWEtY2hhbm5lbC1leGNsdXNpdmVseS1mb3ItY2hpbGRyZW4uaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Feb 2016 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTYvMDIvMjMvYnVzaW5lc3MvbWVkaWEvcGJzLWlzLWNyZWF0aW5nLWEtY2hhbm5lbC1leGNsdXNpdmVseS1mb3ItY2hpbGRyZW4uaHRtbNIBAA?oc=5\" target=\"_blank\">PBS Is Creating a Channel Exclusively for Children (Published 2016)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS to launch round-the-clock children's TV, online service - The Florida Times-Union"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3N0b3J5L2VudGVydGFpbm1lbnQvbG9jYWwvMjAxNi8wMi8yMy9wYnMtbGF1bmNoLXJvdW5kLWNsb2NrLWNoaWxkcmVucy10di1vbmxpbmUtc2VydmljZS8xNTcwMTE0ODAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3N0b3J5L2VudGVydGFpbm1lbnQvbG9jYWwvMjAxNi8wMi8yMy9wYnMtbGF1bmNoLXJvdW5kLWNsb2NrLWNoaWxkcmVucy10di1vbmxpbmUtc2VydmljZS8xNTcwMTE0ODAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Dec 2021 12:09:19 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3N0b3J5L2VudGVydGFpbm1lbnQvbG9jYWwvMjAxNi8wMi8yMy9wYnMtbGF1bmNoLXJvdW5kLWNsb2NrLWNoaWxkcmVucy10di1vbmxpbmUtc2VydmljZS8xNTcwMTE0ODAwNy_SAQA?oc=5\" target=\"_blank\">PBS to launch round-the-clock children's TV, online service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Florida Times-Union</font>"
+            ],
+            "source": [
+              {
+                "_": "The Florida Times-Union",
+                "$": {
+                  "url": "https://www.jacksonville.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Paula Kerger Signs 5-Year Contract Extension as PBS CEO - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdmFyaWV0eS5jb20vMjAxOS90di9uZXdzL3BhdWxhLWtlcmdlci1wYnMtcHJlc2lkZW50LWNvbnRyYWN0LWV4dGVuc2lvbi0xMjAzMjgyODk1L9IBXmh0dHBzOi8vdmFyaWV0eS5jb20vMjAxOS90di9uZXdzL3BhdWxhLWtlcmdlci1wYnMtcHJlc2lkZW50LWNvbnRyYWN0LWV4dGVuc2lvbi0xMjAzMjgyODk1L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vdmFyaWV0eS5jb20vMjAxOS90di9uZXdzL3BhdWxhLWtlcmdlci1wYnMtcHJlc2lkZW50LWNvbnRyYWN0LWV4dGVuc2lvbi0xMjAzMjgyODk1L9IBXmh0dHBzOi8vdmFyaWV0eS5jb20vMjAxOS90di9uZXdzL3BhdWxhLWtlcmdlci1wYnMtcHJlc2lkZW50LWNvbnRyYWN0LWV4dGVuc2lvbi0xMjAzMjgyODk1L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jul 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdmFyaWV0eS5jb20vMjAxOS90di9uZXdzL3BhdWxhLWtlcmdlci1wYnMtcHJlc2lkZW50LWNvbnRyYWN0LWV4dGVuc2lvbi0xMjAzMjgyODk1L9IBXmh0dHBzOi8vdmFyaWV0eS5jb20vMjAxOS90di9uZXdzL3BhdWxhLWtlcmdlci1wYnMtcHJlc2lkZW50LWNvbnRyYWN0LWV4dGVuc2lvbi0xMjAzMjgyODk1L2FtcC8?oc=5\" target=\"_blank\">Paula Kerger Signs 5-Year Contract Extension as PBS CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS Announces Five-Part Series On #MeToo Movement Debuting February 2 – TCA - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTgvMDEvcGJzLW1ldG9vLXNlcmllcy1zZXh1YWwtaGFyYXNzbWVudC16YWluYWItc2FsYmktdGNhLTEyMDIyNDM4OTUv0gFgaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAxOC8wMS9wYnMtbWV0b28tc2VyaWVzLXNleHVhbC1oYXJhc3NtZW50LXphaW5hYi1zYWxiaS10Y2EtMTIwMjI0Mzg5NS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTgvMDEvcGJzLW1ldG9vLXNlcmllcy1zZXh1YWwtaGFyYXNzbWVudC16YWluYWItc2FsYmktdGNhLTEyMDIyNDM4OTUv0gFgaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAxOC8wMS9wYnMtbWV0b28tc2VyaWVzLXNleHVhbC1oYXJhc3NtZW50LXphaW5hYi1zYWxiaS10Y2EtMTIwMjI0Mzg5NS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTgvMDEvcGJzLW1ldG9vLXNlcmllcy1zZXh1YWwtaGFyYXNzbWVudC16YWluYWItc2FsYmktdGNhLTEyMDIyNDM4OTUv0gFgaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAxOC8wMS9wYnMtbWV0b28tc2VyaWVzLXNleHVhbC1oYXJhc3NtZW50LXphaW5hYi1zYWxiaS10Y2EtMTIwMjI0Mzg5NS9hbXAv?oc=5\" target=\"_blank\">PBS Announces Five-Part Series On #MeToo Movement Debuting February 2 – TCA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS Names Perry Simon as Its New Programming Chief - TheWrap"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3Bicy1uYW1lcy1wZXJyeS1zaW1vbi1hcy1pdHMtbmV3LXByb2dyYW1taW5nLWNoaWVmL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3Bicy1uYW1lcy1wZXJyeS1zaW1vbi1hcy1pdHMtbmV3LXByb2dyYW1taW5nLWNoaWVmL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Jul 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3Bicy1uYW1lcy1wZXJyeS1zaW1vbi1hcy1pdHMtbmV3LXByb2dyYW1taW5nLWNoaWVmL9IBAA?oc=5\" target=\"_blank\">PBS Names Perry Simon as Its New Programming Chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWrap</font>"
+            ],
+            "source": [
+              {
+                "_": "TheWrap",
+                "$": {
+                  "url": "https://www.thewrap.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS Stations Head to YouTube TV | TV Tech - TV Technology"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnR2dGVjaG5vbG9neS5jb20vbmV3cy9wYnMtc3RhdGlvbnMtaGVhZC10by15b3V0dWJlLXR20gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8vd3d3LnR2dGVjaG5vbG9neS5jb20vbmV3cy9wYnMtc3RhdGlvbnMtaGVhZC10by15b3V0dWJlLXR20gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jul 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnR2dGVjaG5vbG9neS5jb20vbmV3cy9wYnMtc3RhdGlvbnMtaGVhZC10by15b3V0dWJlLXR20gEA?oc=5\" target=\"_blank\">PBS Stations Head to YouTube TV | TV Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV Technology</font>"
+            ],
+            "source": [
+              {
+                "_": "TV Technology",
+                "$": {
+                  "url": "https://www.tvtechnology.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS will move headquarters to smaller space nearby - Current"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vY3VycmVudC5vcmcvMjAxOS8wMS9wYnMtd2lsbC1tb3ZlLWhlYWRxdWFydGVycy10by1zbWFsbGVyLXNwYWNlLW5lYXJieS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vY3VycmVudC5vcmcvMjAxOS8wMS9wYnMtd2lsbC1tb3ZlLWhlYWRxdWFydGVycy10by1zbWFsbGVyLXNwYWNlLW5lYXJieS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 18 Jan 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vY3VycmVudC5vcmcvMjAxOS8wMS9wYnMtd2lsbC1tb3ZlLWhlYWRxdWFydGVycy10by1zbWFsbGVyLXNwYWNlLW5lYXJieS_SAQA?oc=5\" target=\"_blank\">PBS will move headquarters to smaller space nearby</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Current</font>"
+            ],
+            "source": [
+              {
+                "_": "Current",
+                "$": {
+                  "url": "https://current.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dr. Fauci, Roberta Flack and Zora Neale Hurston Documentaries on the Way, PBS Boss Announces - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3ZhcmlldHkuY29tLzIwMjIvdHYvbmV3cy9hbnRob255LWZhdWNpLXBicy1wYXVsYS1rZXJnZXItcHJlc2lkZW50LWNlby10ZWxldmlzaW9uLWNyaXRpY3MtYXNzb2NpYXRpb24tcHJlc3MtdG91ci1zdW1tZXItMjAyMi0xMjM1MzI3MTQ3L9IBkwFodHRwczovL3ZhcmlldHkuY29tLzIwMjIvdHYvbmV3cy9hbnRob255LWZhdWNpLXBicy1wYXVsYS1rZXJnZXItcHJlc2lkZW50LWNlby10ZWxldmlzaW9uLWNyaXRpY3MtYXNzb2NpYXRpb24tcHJlc3MtdG91ci1zdW1tZXItMjAyMi0xMjM1MzI3MTQ3L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3ZhcmlldHkuY29tLzIwMjIvdHYvbmV3cy9hbnRob255LWZhdWNpLXBicy1wYXVsYS1rZXJnZXItcHJlc2lkZW50LWNlby10ZWxldmlzaW9uLWNyaXRpY3MtYXNzb2NpYXRpb24tcHJlc3MtdG91ci1zdW1tZXItMjAyMi0xMjM1MzI3MTQ3L9IBkwFodHRwczovL3ZhcmlldHkuY29tLzIwMjIvdHYvbmV3cy9hbnRob255LWZhdWNpLXBicy1wYXVsYS1rZXJnZXItcHJlc2lkZW50LWNlby10ZWxldmlzaW9uLWNyaXRpY3MtYXNzb2NpYXRpb24tcHJlc3MtdG91ci1zdW1tZXItMjAyMi0xMjM1MzI3MTQ3L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3ZhcmlldHkuY29tLzIwMjIvdHYvbmV3cy9hbnRob255LWZhdWNpLXBicy1wYXVsYS1rZXJnZXItcHJlc2lkZW50LWNlby10ZWxldmlzaW9uLWNyaXRpY3MtYXNzb2NpYXRpb24tcHJlc3MtdG91ci1zdW1tZXItMjAyMi0xMjM1MzI3MTQ3L9IBkwFodHRwczovL3ZhcmlldHkuY29tLzIwMjIvdHYvbmV3cy9hbnRob255LWZhdWNpLXBicy1wYXVsYS1rZXJnZXItcHJlc2lkZW50LWNlby10ZWxldmlzaW9uLWNyaXRpY3MtYXNzb2NpYXRpb24tcHJlc3MtdG91ci1zdW1tZXItMjAyMi0xMjM1MzI3MTQ3L2FtcC8?oc=5\" target=\"_blank\">Dr. Fauci, Roberta Flack and Zora Neale Hurston Documentaries on the Way, PBS Boss Announces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former BBC America Exec Perry Simon Tapped as PBS Programming Chief - Hollywood Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9uZXdzL2dlbmVyYWwtbmV3cy9wZXJyeS1zaW1vbi1uZXctcGJzLXByb2dyYW1taW5nLWNoaWVmLXJlcGxhY2VzLWJldGgtaG9wcGUtdGNhLTIwMTgtMTEzMDY4OC_SAYMBaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL25ld3MvZ2VuZXJhbC1uZXdzL3BlcnJ5LXNpbW9uLW5ldy1wYnMtcHJvZ3JhbW1pbmctY2hpZWYtcmVwbGFjZXMtYmV0aC1ob3BwZS10Y2EtMjAxOC0xMTMwNjg4L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9uZXdzL2dlbmVyYWwtbmV3cy9wZXJyeS1zaW1vbi1uZXctcGJzLXByb2dyYW1taW5nLWNoaWVmLXJlcGxhY2VzLWJldGgtaG9wcGUtdGNhLTIwMTgtMTEzMDY4OC_SAYMBaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL25ld3MvZ2VuZXJhbC1uZXdzL3BlcnJ5LXNpbW9uLW5ldy1wYnMtcHJvZ3JhbW1pbmctY2hpZWYtcmVwbGFjZXMtYmV0aC1ob3BwZS10Y2EtMjAxOC0xMTMwNjg4L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Jul 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9uZXdzL2dlbmVyYWwtbmV3cy9wZXJyeS1zaW1vbi1uZXctcGJzLXByb2dyYW1taW5nLWNoaWVmLXJlcGxhY2VzLWJldGgtaG9wcGUtdGNhLTIwMTgtMTEzMDY4OC_SAYMBaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL25ld3MvZ2VuZXJhbC1uZXdzL3BlcnJ5LXNpbW9uLW5ldy1wYnMtcHJvZ3JhbW1pbmctY2hpZWYtcmVwbGFjZXMtYmV0aC1ob3BwZS10Y2EtMjAxOC0xMTMwNjg4L2FtcC8?oc=5\" target=\"_blank\">Former BBC America Exec Perry Simon Tapped as PBS Programming Chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hollywood Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Hollywood Reporter",
+                "$": {
+                  "url": "https://www.hollywoodreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS Names Ira Rubenstein Chief Digital and Marketing Officer - Hollywood Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2lyYS1ydWJlbnN0ZWluLW5hbWVkLXBicy1jaGllZi05MzExOTgv0gFXaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL3R2L3R2LW5ld3MvaXJhLXJ1YmVuc3RlaW4tbmFtZWQtcGJzLWNoaWVmLTkzMTE5OC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2lyYS1ydWJlbnN0ZWluLW5hbWVkLXBicy1jaGllZi05MzExOTgv0gFXaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL3R2L3R2LW5ld3MvaXJhLXJ1YmVuc3RlaW4tbmFtZWQtcGJzLWNoaWVmLTkzMTE5OC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 20 Sep 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2lyYS1ydWJlbnN0ZWluLW5hbWVkLXBicy1jaGllZi05MzExOTgv0gFXaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL3R2L3R2LW5ld3MvaXJhLXJ1YmVuc3RlaW4tbmFtZWQtcGJzLWNoaWVmLTkzMTE5OC9hbXAv?oc=5\" target=\"_blank\">PBS Names Ira Rubenstein Chief Digital and Marketing Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hollywood Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Hollywood Reporter",
+                "$": {
+                  "url": "https://www.hollywoodreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS, Hollywood & New York Denounce Trump’s Proposed Cultural Budget Cuts - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTcvMDMvcGJzLXJlc3BvbnNlLWRvbmFsZC10cnVtcC1idWRnZXQtcHJvcG9zYWwtMTIwMjA0NDUyNi_SAVZodHRwczovL2RlYWRsaW5lLmNvbS8yMDE3LzAzL3Bicy1yZXNwb25zZS1kb25hbGQtdHJ1bXAtYnVkZ2V0LXByb3Bvc2FsLTEyMDIwNDQ1MjYvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTcvMDMvcGJzLXJlc3BvbnNlLWRvbmFsZC10cnVtcC1idWRnZXQtcHJvcG9zYWwtMTIwMjA0NDUyNi_SAVZodHRwczovL2RlYWRsaW5lLmNvbS8yMDE3LzAzL3Bicy1yZXNwb25zZS1kb25hbGQtdHJ1bXAtYnVkZ2V0LXByb3Bvc2FsLTEyMDIwNDQ1MjYvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Mar 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTcvMDMvcGJzLXJlc3BvbnNlLWRvbmFsZC10cnVtcC1idWRnZXQtcHJvcG9zYWwtMTIwMjA0NDUyNi_SAVZodHRwczovL2RlYWRsaW5lLmNvbS8yMDE3LzAzL3Bicy1yZXNwb25zZS1kb25hbGQtdHJ1bXAtYnVkZ2V0LXByb3Bvc2FsLTEyMDIwNDQ1MjYvYW1wLw?oc=5\" target=\"_blank\">PBS, Hollywood & New York Denounce Trump’s Proposed Cultural Budget Cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS Launches National 24/7 PBS Kids Channel – TCA - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTcvMDEvcGJzLWtpZHMtY2hhbm5lbC1sYXVuY2gtdGNzLTEyMDE4ODczNDcv0gFIaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAxNy8wMS9wYnMta2lkcy1jaGFubmVsLWxhdW5jaC10Y3MtMTIwMTg4NzM0Ny9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTcvMDEvcGJzLWtpZHMtY2hhbm5lbC1sYXVuY2gtdGNzLTEyMDE4ODczNDcv0gFIaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAxNy8wMS9wYnMta2lkcy1jaGFubmVsLWxhdW5jaC10Y3MtMTIwMTg4NzM0Ny9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 15 Jan 2017 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTcvMDEvcGJzLWtpZHMtY2hhbm5lbC1sYXVuY2gtdGNzLTEyMDE4ODczNDcv0gFIaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAxNy8wMS9wYnMta2lkcy1jaGFubmVsLWxhdW5jaC10Y3MtMTIwMTg4NzM0Ny9hbXAv?oc=5\" target=\"_blank\">PBS Launches National 24/7 PBS Kids Channel – TCA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lin-Manuel Miranda will host 6th Annual PBS Arts Fall Festival - Entertainment Weekly News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZXcuY29tL2FydGljbGUvMjAxNi8wNy8yOC9saW4tbWFudWVsLW1pcmFuZGEtd2lsbC1ob3N0LTZ0aC1hbm51YWwtcGJzLWFydHMtZmFsbC1mZXN0aXZhbC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vZXcuY29tL2FydGljbGUvMjAxNi8wNy8yOC9saW4tbWFudWVsLW1pcmFuZGEtd2lsbC1ob3N0LTZ0aC1hbm51YWwtcGJzLWFydHMtZmFsbC1mZXN0aXZhbC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Jul 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZXcuY29tL2FydGljbGUvMjAxNi8wNy8yOC9saW4tbWFudWVsLW1pcmFuZGEtd2lsbC1ob3N0LTZ0aC1hbm51YWwtcGJzLWFydHMtZmFsbC1mZXN0aXZhbC_SAQA?oc=5\" target=\"_blank\">Lin-Manuel Miranda will host 6th Annual PBS Arts Fall Festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Entertainment Weekly News</font>"
+            ],
+            "source": [
+              {
+                "_": "Entertainment Weekly News",
+                "$": {
+                  "url": "https://ew.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gwen Ifill and Judy Woodruff Named Co-Anchors, Managing Editors of PBS NewsHour - PBS NewsHour"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvbmF0aW9uL2d3ZW4taWZpbGwtYW5kLWp1ZHktd29vZHJ1ZmYtbmFtZWQtY28tYW5jaG9ycy1tYW5hZ2luZy1lZGl0b3JzLW9mLXBicy1uZXdzaG91ctIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvbmF0aW9uL2d3ZW4taWZpbGwtYW5kLWp1ZHktd29vZHJ1ZmYtbmFtZWQtY28tYW5jaG9ycy1tYW5hZ2luZy1lZGl0b3JzLW9mLXBicy1uZXdzaG91ctIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Aug 2013 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvbmF0aW9uL2d3ZW4taWZpbGwtYW5kLWp1ZHktd29vZHJ1ZmYtbmFtZWQtY28tYW5jaG9ycy1tYW5hZ2luZy1lZGl0b3JzLW9mLXBicy1uZXdzaG91ctIBAA?oc=5\" target=\"_blank\">Gwen Ifill and Judy Woodruff Named Co-Anchors, Managing Editors of PBS NewsHour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS NewsHour</font>"
+            ],
+            "source": [
+              {
+                "_": "PBS NewsHour",
+                "$": {
+                  "url": "https://www.pbs.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Longtime GM of WGVU announces retirement - mlive.com - MLive.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm1saXZlLmNvbS9uZXdzL2dyYW5kLXJhcGlkcy8yMDE4LzA1L2xvbmd0aW1lX2dtX29mX3dndnVfYW5ub3VuY2VzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3Lm1saXZlLmNvbS9uZXdzL2dyYW5kLXJhcGlkcy8yMDE4LzA1L2xvbmd0aW1lX2dtX29mX3dndnVfYW5ub3VuY2VzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 May 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm1saXZlLmNvbS9uZXdzL2dyYW5kLXJhcGlkcy8yMDE4LzA1L2xvbmd0aW1lX2dtX29mX3dndnVfYW5ub3VuY2VzLmh0bWzSAQA?oc=5\" target=\"_blank\">Longtime GM of WGVU announces retirement - mlive.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>"
+            ],
+            "source": [
+              {
+                "_": "MLive.com",
+                "$": {
+                  "url": "https://www.mlive.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "When can you watch 'A Charlie Brown Thanksgiving' on PBS? - AppleInsider"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9hcnRpY2xlcy8yMS8xMS8wOC9wYnMtcmV2ZWFscy1mcmVlLXRvLWFpci1icm9hZGNhc3QtZGF0ZS1mb3ItYS1jaGFybGllLWJyb3duLXRoYW5rc2dpdmluZ9IBd2h0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9hcnRpY2xlcy8yMS8xMS8wOC9wYnMtcmV2ZWFscy1mcmVlLXRvLWFpci1icm9hZGNhc3QtZGF0ZS1mb3ItYS1jaGFybGllLWJyb3duLXRoYW5rc2dpdmluZy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9hcnRpY2xlcy8yMS8xMS8wOC9wYnMtcmV2ZWFscy1mcmVlLXRvLWFpci1icm9hZGNhc3QtZGF0ZS1mb3ItYS1jaGFybGllLWJyb3duLXRoYW5rc2dpdmluZ9IBd2h0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9hcnRpY2xlcy8yMS8xMS8wOC9wYnMtcmV2ZWFscy1mcmVlLXRvLWFpci1icm9hZGNhc3QtZGF0ZS1mb3ItYS1jaGFybGllLWJyb3duLXRoYW5rc2dpdmluZy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Nov 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9hcnRpY2xlcy8yMS8xMS8wOC9wYnMtcmV2ZWFscy1mcmVlLXRvLWFpci1icm9hZGNhc3QtZGF0ZS1mb3ItYS1jaGFybGllLWJyb3duLXRoYW5rc2dpdmluZ9IBd2h0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9hcnRpY2xlcy8yMS8xMS8wOC9wYnMtcmV2ZWFscy1mcmVlLXRvLWFpci1icm9hZGNhc3QtZGF0ZS1mb3ItYS1jaGFybGllLWJyb3duLXRoYW5rc2dpdmluZy9hbXAv?oc=5\" target=\"_blank\">When can you watch 'A Charlie Brown Thanksgiving' on PBS?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>"
+            ],
+            "source": [
+              {
+                "_": "AppleInsider",
+                "$": {
+                  "url": "https://appleinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBS Announces New Shows Including \"Alma's Way\" and DEI Initiatives - - Laughing Place"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmxhdWdoaW5ncGxhY2UuY29tL3cvbmV3cy8yMDIxLzA4LzEwL3Bicy1uZXctcHJvZ3JhbW1pbmctYW5ub3VuY2VtZW50cy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3LmxhdWdoaW5ncGxhY2UuY29tL3cvbmV3cy8yMDIxLzA4LzEwL3Bicy1uZXctcHJvZ3JhbW1pbmctYW5ub3VuY2VtZW50cy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 10 Aug 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmxhdWdoaW5ncGxhY2UuY29tL3cvbmV3cy8yMDIxLzA4LzEwL3Bicy1uZXctcHJvZ3JhbW1pbmctYW5ub3VuY2VtZW50cy_SAQA?oc=5\" target=\"_blank\">PBS Announces New Shows Including \"Alma's Way\" and DEI Initiatives -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Laughing Place</font>"
+            ],
+            "source": [
+              {
+                "_": "Laughing Place",
+                "$": {
+                  "url": "https://www.laughingplace.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Great American Read: Celebrities and Authors Booked for PBS Reading Competition - TV Series Finale"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vdHZzZXJpZXNmaW5hbGUuY29tL3R2LXNob3cvZ3JlYXQtYW1lcmljYW4tcmVhZC1jZWxlYnJpdGllcy1hdXRob3JzLWJvb2tlZC1wYnMtcmVhZGluZy1jb21wZXRpdGlvbi_SAW5odHRwczovL3R2c2VyaWVzZmluYWxlLmNvbS90di1zaG93L2dyZWF0LWFtZXJpY2FuLXJlYWQtY2VsZWJyaXRpZXMtYXV0aG9ycy1ib29rZWQtcGJzLXJlYWRpbmctY29tcGV0aXRpb24vYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vdHZzZXJpZXNmaW5hbGUuY29tL3R2LXNob3cvZ3JlYXQtYW1lcmljYW4tcmVhZC1jZWxlYnJpdGllcy1hdXRob3JzLWJvb2tlZC1wYnMtcmVhZGluZy1jb21wZXRpdGlvbi_SAW5odHRwczovL3R2c2VyaWVzZmluYWxlLmNvbS90di1zaG93L2dyZWF0LWFtZXJpY2FuLXJlYWQtY2VsZWJyaXRpZXMtYXV0aG9ycy1ib29rZWQtcGJzLXJlYWRpbmctY29tcGV0aXRpb24vYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vdHZzZXJpZXNmaW5hbGUuY29tL3R2LXNob3cvZ3JlYXQtYW1lcmljYW4tcmVhZC1jZWxlYnJpdGllcy1hdXRob3JzLWJvb2tlZC1wYnMtcmVhZGluZy1jb21wZXRpdGlvbi_SAW5odHRwczovL3R2c2VyaWVzZmluYWxlLmNvbS90di1zaG93L2dyZWF0LWFtZXJpY2FuLXJlYWQtY2VsZWJyaXRpZXMtYXV0aG9ycy1ib29rZWQtcGJzLXJlYWRpbmctY29tcGV0aXRpb24vYW1wLw?oc=5\" target=\"_blank\">The Great American Read: Celebrities and Authors Booked for PBS Reading Competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV Series Finale</font>"
+            ],
+            "source": [
+              {
+                "_": "TV Series Finale",
+                "$": {
+                  "url": "https://tvseriesfinale.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Native America: PBS Series to Look at Indigenous Cultures and Traditions - TV Series Finale"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdHZzZXJpZXNmaW5hbGUuY29tL3R2LXNob3cvbmF0aXZlLWFtZXJpY2EtcGJzLXNlcmllcy1sb29rLWluZGlnZW5vdXMtY3VsdHVyZXMtdHJhZGl0aW9ucy_SAWVodHRwczovL3R2c2VyaWVzZmluYWxlLmNvbS90di1zaG93L25hdGl2ZS1hbWVyaWNhLXBicy1zZXJpZXMtbG9vay1pbmRpZ2Vub3VzLWN1bHR1cmVzLXRyYWRpdGlvbnMvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vdHZzZXJpZXNmaW5hbGUuY29tL3R2LXNob3cvbmF0aXZlLWFtZXJpY2EtcGJzLXNlcmllcy1sb29rLWluZGlnZW5vdXMtY3VsdHVyZXMtdHJhZGl0aW9ucy_SAWVodHRwczovL3R2c2VyaWVzZmluYWxlLmNvbS90di1zaG93L25hdGl2ZS1hbWVyaWNhLXBicy1zZXJpZXMtbG9vay1pbmRpZ2Vub3VzLWN1bHR1cmVzLXRyYWRpdGlvbnMvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdHZzZXJpZXNmaW5hbGUuY29tL3R2LXNob3cvbmF0aXZlLWFtZXJpY2EtcGJzLXNlcmllcy1sb29rLWluZGlnZW5vdXMtY3VsdHVyZXMtdHJhZGl0aW9ucy_SAWVodHRwczovL3R2c2VyaWVzZmluYWxlLmNvbS90di1zaG93L25hdGl2ZS1hbWVyaWNhLXBicy1zZXJpZXMtbG9vay1pbmRpZ2Vub3VzLWN1bHR1cmVzLXRyYWRpdGlvbnMvYW1wLw?oc=5\" target=\"_blank\">Native America: PBS Series to Look at Indigenous Cultures and Traditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV Series Finale</font>"
+            ],
+            "source": [
+              {
+                "_": "TV Series Finale",
+                "$": {
+                  "url": "https://tvseriesfinale.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

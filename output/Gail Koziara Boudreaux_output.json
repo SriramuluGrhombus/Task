@@ -1,0 +1,548 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Gail Koziara Boudreaux\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Gail+Koziara+Boudreaux&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Gail K. Boudreaux, President and Chief Executive Officer, Elevance Health, President and Chief Executive Officer ... - Business Roundtable"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmJ1c2luZXNzcm91bmR0YWJsZS5vcmcvYWJvdXQtdXMvbWVtYmVycy9nYWlsLWstYm91ZHJlYXV4LXByZXNpZGVudC1hbmQtY2hpZWYtZXhlY3V0aXZlLW9mZmljZXItZWxldmFuY2UtaGVhbHRo0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LmJ1c2luZXNzcm91bmR0YWJsZS5vcmcvYWJvdXQtdXMvbWVtYmVycy9nYWlsLWstYm91ZHJlYXV4LXByZXNpZGVudC1hbmQtY2hpZWYtZXhlY3V0aXZlLW9mZmljZXItZWxldmFuY2UtaGVhbHRo0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 05 Jan 2024 16:15:43 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmJ1c2luZXNzcm91bmR0YWJsZS5vcmcvYWJvdXQtdXMvbWVtYmVycy9nYWlsLWstYm91ZHJlYXV4LXByZXNpZGVudC1hbmQtY2hpZWYtZXhlY3V0aXZlLW9mZmljZXItZWxldmFuY2UtaGVhbHRo0gEA?oc=5\" target=\"_blank\">Gail K. Boudreaux, President and Chief Executive Officer, Elevance Health, President and Chief Executive Officer ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Roundtable</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Roundtable",
+                "$": {
+                  "url": "https://www.businessroundtable.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Views From the Green: March 2023 - Dartmouth News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vaG9tZS5kYXJ0bW91dGguZWR1L25ld3MvMjAyMy8wMy92aWV3cy1ncmVlbi1tYXJjaC0yMDIz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPmh0dHBzOi8vaG9tZS5kYXJ0bW91dGguZWR1L25ld3MvMjAyMy8wMy92aWV3cy1ncmVlbi1tYXJjaC0yMDIz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 02 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vaG9tZS5kYXJ0bW91dGguZWR1L25ld3MvMjAyMy8wMy92aWV3cy1ncmVlbi1tYXJjaC0yMDIz0gEA?oc=5\" target=\"_blank\">Views From the Green: March 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dartmouth News</font>"
+            ],
+            "source": [
+              {
+                "_": "Dartmouth News",
+                "$": {
+                  "url": "https://home.dartmouth.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Here's what the CEOs of major national payers earned last year - FierceHealthcare"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZpZXJjZWhlYWx0aGNhcmUuY29tL3NwZWNpYWwtcmVwb3J0cy9oZXJlcy13aGF0LWNlb3MtbWFqb3ItbmF0aW9uYWwtcGF5ZXJzLWVhcm5lZC1sYXN0LXllYXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmZpZXJjZWhlYWx0aGNhcmUuY29tL3NwZWNpYWwtcmVwb3J0cy9oZXJlcy13aGF0LWNlb3MtbWFqb3ItbmF0aW9uYWwtcGF5ZXJzLWVhcm5lZC1sYXN0LXllYXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 01 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZpZXJjZWhlYWx0aGNhcmUuY29tL3NwZWNpYWwtcmVwb3J0cy9oZXJlcy13aGF0LWNlb3MtbWFqb3ItbmF0aW9uYWwtcGF5ZXJzLWVhcm5lZC1sYXN0LXllYXLSAQA?oc=5\" target=\"_blank\">Here's what the CEOs of major national payers earned last year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FierceHealthcare</font>"
+            ],
+            "source": [
+              {
+                "_": "FierceHealthcare",
+                "$": {
+                  "url": "https://www.fiercehealthcare.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gail Boudreaux's Got Game - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vMjAxMC8wMi8yMy9nYWlsLWJvdWRyZWF1eC11bml0ZWQtaGVhbHRoY2FyZS1sZWFkZXJzaGlwLWZvcmJlcy13b21hbi1wb3dlci13b21lbi1iYXNrZXRiYWxsLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vMjAxMC8wMi8yMy9nYWlsLWJvdWRyZWF1eC11bml0ZWQtaGVhbHRoY2FyZS1sZWFkZXJzaGlwLWZvcmJlcy13b21hbi1wb3dlci13b21lbi1iYXNrZXRiYWxsLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Feb 2010 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vMjAxMC8wMi8yMy9nYWlsLWJvdWRyZWF1eC11bml0ZWQtaGVhbHRoY2FyZS1sZWFkZXJzaGlwLWZvcmJlcy13b21hbi1wb3dlci13b21lbi1iYXNrZXRiYWxsLmh0bWzSAQA?oc=5\" target=\"_blank\">Gail Boudreaux's Got Game</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UnitedHealth Group’s Gail Boudreaux: “I’m definitely not retiring” - Fortune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vZm9ydHVuZS5jb20vMjAxNC8xMS8xMy9nYWlsLWJvdWRyZWF1eC_SATJodHRwczovL2ZvcnR1bmUuY29tLzIwMTQvMTEvMTMvZ2FpbC1ib3VkcmVhdXgvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiLmh0dHBzOi8vZm9ydHVuZS5jb20vMjAxNC8xMS8xMy9nYWlsLWJvdWRyZWF1eC_SATJodHRwczovL2ZvcnR1bmUuY29tLzIwMTQvMTEvMTMvZ2FpbC1ib3VkcmVhdXgvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Nov 2014 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vZm9ydHVuZS5jb20vMjAxNC8xMS8xMy9nYWlsLWJvdWRyZWF1eC_SATJodHRwczovL2ZvcnR1bmUuY29tLzIwMTQvMTEvMTMvZ2FpbC1ib3VkcmVhdXgvYW1wLw?oc=5\" target=\"_blank\">UnitedHealth Group’s Gail Boudreaux: “I’m definitely not retiring”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+            ],
+            "source": [
+              {
+                "_": "Fortune",
+                "$": {
+                  "url": "https://fortune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Anthem names industry veteran Gail Boudreaux as new CEO - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTcvMTEvMDYvYW50aGVtLW5hbWVzLWluZHVzdHJ5LXZldGVyYW4tZ2FpbC1ib3VkcmVhdXgtYXMtbmV3LWNlby5odG1s0gFgaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMTcvMTEvMDYvYW50aGVtLW5hbWVzLWluZHVzdHJ5LXZldGVyYW4tZ2FpbC1ib3VkcmVhdXgtYXMtbmV3LWNlby5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTcvMTEvMDYvYW50aGVtLW5hbWVzLWluZHVzdHJ5LXZldGVyYW4tZ2FpbC1ib3VkcmVhdXgtYXMtbmV3LWNlby5odG1s0gFgaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMTcvMTEvMDYvYW50aGVtLW5hbWVzLWluZHVzdHJ5LXZldGVyYW4tZ2FpbC1ib3VkcmVhdXgtYXMtbmV3LWNlby5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Nov 2017 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTcvMTEvMDYvYW50aGVtLW5hbWVzLWluZHVzdHJ5LXZldGVyYW4tZ2FpbC1ib3VkcmVhdXgtYXMtbmV3LWNlby5odG1s0gFgaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMTcvMTEvMDYvYW50aGVtLW5hbWVzLWluZHVzdHJ5LXZldGVyYW4tZ2FpbC1ib3VkcmVhdXgtYXMtbmV3LWNlby5odG1s?oc=5\" target=\"_blank\">Anthem names industry veteran Gail Boudreaux as new CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dartmouth Women's Basketball Staff Update - Women's HoopDirt - Women's HoopDirt"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd2hvb3BkaXJ0LmNvbS9kYXJ0bW91dGgtd29tZW5zLWJhc2tldGJhbGwtc3RhZmYtdXBkYXRlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd2hvb3BkaXJ0LmNvbS9kYXJ0bW91dGgtd29tZW5zLWJhc2tldGJhbGwtc3RhZmYtdXBkYXRlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd2hvb3BkaXJ0LmNvbS9kYXJ0bW91dGgtd29tZW5zLWJhc2tldGJhbGwtc3RhZmYtdXBkYXRlL9IBAA?oc=5\" target=\"_blank\">Dartmouth Women's Basketball Staff Update - Women's HoopDirt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Women's HoopDirt</font>"
+            ],
+            "source": [
+              {
+                "_": "Women's HoopDirt",
+                "$": {
+                  "url": "https://whoopdirt.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Anthem Inc. CEO Gail Boudreaux Cares About People - Chief Executive"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2FudGhlbS1pbmMtY2VvLWdhaWwtYm91ZHJlYXV4LWNhcmVzLWFib3V0LXBlb3BsZS_SAVBodHRwczovL2NoaWVmZXhlY3V0aXZlLm5ldC9hbnRoZW0taW5jLWNlby1nYWlsLWJvdWRyZWF1eC1jYXJlcy1hYm91dC1wZW9wbGUvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2FudGhlbS1pbmMtY2VvLWdhaWwtYm91ZHJlYXV4LWNhcmVzLWFib3V0LXBlb3BsZS_SAVBodHRwczovL2NoaWVmZXhlY3V0aXZlLm5ldC9hbnRoZW0taW5jLWNlby1nYWlsLWJvdWRyZWF1eC1jYXJlcy1hYm91dC1wZW9wbGUvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Jul 2018 12:53:22 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2FudGhlbS1pbmMtY2VvLWdhaWwtYm91ZHJlYXV4LWNhcmVzLWFib3V0LXBlb3BsZS_SAVBodHRwczovL2NoaWVmZXhlY3V0aXZlLm5ldC9hbnRoZW0taW5jLWNlby1nYWlsLWJvdWRyZWF1eC1jYXJlcy1hYm91dC1wZW9wbGUvYW1wLw?oc=5\" target=\"_blank\">Anthem Inc. CEO Gail Boudreaux Cares About People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chief Executive</font>"
+            ],
+            "source": [
+              {
+                "_": "Chief Executive",
+                "$": {
+                  "url": "https://chiefexecutive.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Leadership lessons learned from team sports - HousingWire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmhvdXNpbmd3aXJlLmNvbS9hcnRpY2xlcy9sZWFkZXJzaGlwLWxlc3NvbnMtbGVhcm5lZC1mcm9tLXRlYW0tc3BvcnRzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LmhvdXNpbmd3aXJlLmNvbS9hcnRpY2xlcy9sZWFkZXJzaGlwLWxlc3NvbnMtbGVhcm5lZC1mcm9tLXRlYW0tc3BvcnRzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 15 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmhvdXNpbmd3aXJlLmNvbS9hcnRpY2xlcy9sZWFkZXJzaGlwLWxlc3NvbnMtbGVhcm5lZC1mcm9tLXRlYW0tc3BvcnRzL9IBAA?oc=5\" target=\"_blank\">Leadership lessons learned from team sports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HousingWire</font>"
+            ],
+            "source": [
+              {
+                "_": "HousingWire",
+                "$": {
+                  "url": "https://www.housingwire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Women in Business: Top Companies with Female CEOs - MarketBeat"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm1hcmtldGJlYXQuY29tL29yaWdpbmFscy90b3AtY29tcGFuaWVzLXdpdGgtd29tZW4tY2Vvcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vd3d3Lm1hcmtldGJlYXQuY29tL29yaWdpbmFscy90b3AtY29tcGFuaWVzLXdpdGgtd29tZW4tY2Vvcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Jan 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm1hcmtldGJlYXQuY29tL29yaWdpbmFscy90b3AtY29tcGFuaWVzLXdpdGgtd29tZW4tY2Vvcy_SAQA?oc=5\" target=\"_blank\">Women in Business: Top Companies with Female CEOs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>"
+            ],
+            "source": [
+              {
+                "_": "MarketBeat",
+                "$": {
+                  "url": "https://www.marketbeat.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Anthem CEO Joseph Swedish to step down, will be replaced by Gail Boudreaux - FierceHealthcare"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZpZXJjZWhlYWx0aGNhcmUuY29tL3BheWVyL2FudGhlbS1jZW8tam9zZXBoLXN3ZWRpc2gtdG8tc3RlcC1kb3duLXdpbGwtYmUtcmVwbGFjZWQtYnktZ2FpbC1ib3VkcmVhdXjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmZpZXJjZWhlYWx0aGNhcmUuY29tL3BheWVyL2FudGhlbS1jZW8tam9zZXBoLXN3ZWRpc2gtdG8tc3RlcC1kb3duLXdpbGwtYmUtcmVwbGFjZWQtYnktZ2FpbC1ib3VkcmVhdXjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Nov 2017 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZpZXJjZWhlYWx0aGNhcmUuY29tL3BheWVyL2FudGhlbS1jZW8tam9zZXBoLXN3ZWRpc2gtdG8tc3RlcC1kb3duLXdpbGwtYmUtcmVwbGFjZWQtYnktZ2FpbC1ib3VkcmVhdXjSAQA?oc=5\" target=\"_blank\">Anthem CEO Joseph Swedish to step down, will be replaced by Gail Boudreaux</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FierceHealthcare</font>"
+            ],
+            "source": [
+              {
+                "_": "FierceHealthcare",
+                "$": {
+                  "url": "https://www.fiercehealthcare.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evan Boudreaux: 6 things to know about the Purdue basketball forward - Journal & Courier"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5qY29ubGluZS5jb20vc3Rvcnkvc3BvcnRzLzIwMTgvMTIvMTMvZXZhbi1ib3VkcmVhdXgtcHVyZHVlLWJvaWxlcm1ha2Vycy1kYXJ0bW91dGgtYmFza2V0YmFsbC1mb3J3YXJkLWZhY3RzLzIyNzczOTYwMDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5qY29ubGluZS5jb20vc3Rvcnkvc3BvcnRzLzIwMTgvMTIvMTMvZXZhbi1ib3VkcmVhdXgtcHVyZHVlLWJvaWxlcm1ha2Vycy1kYXJ0bW91dGgtYmFza2V0YmFsbC1mb3J3YXJkLWZhY3RzLzIyNzczOTYwMDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Dec 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5qY29ubGluZS5jb20vc3Rvcnkvc3BvcnRzLzIwMTgvMTIvMTMvZXZhbi1ib3VkcmVhdXgtcHVyZHVlLWJvaWxlcm1ha2Vycy1kYXJ0bW91dGgtYmFza2V0YmFsbC1mb3J3YXJkLWZhY3RzLzIyNzczOTYwMDIv0gEA?oc=5\" target=\"_blank\">Evan Boudreaux: 6 things to know about the Purdue basketball forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Journal & Courier</font>"
+            ],
+            "source": [
+              {
+                "_": "Journal & Courier",
+                "$": {
+                  "url": "https://www.jconline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2018 WOMAN OF INFLUENCE: Gail K. Boudreaux – Indianapolis Business Journal - Indianapolis Business Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lmliai5jb20vYXJ0aWNsZXMvNzExMzctd29tYW4tb2YtaW5mbHVlbmNlLWdhaWwtay1ib3VkcmVhdXjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3Lmliai5jb20vYXJ0aWNsZXMvNzExMzctd29tYW4tb2YtaW5mbHVlbmNlLWdhaWwtay1ib3VkcmVhdXjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Nov 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lmliai5jb20vYXJ0aWNsZXMvNzExMzctd29tYW4tb2YtaW5mbHVlbmNlLWdhaWwtay1ib3VkcmVhdXjSAQA?oc=5\" target=\"_blank\">2018 WOMAN OF INFLUENCE: Gail K. Boudreaux – Indianapolis Business Journal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indianapolis Business Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Indianapolis Business Journal",
+                "$": {
+                  "url": "https://www.ibj.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Title IX propelled women from college courts to CEO offices - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3Nwb3J0cy1jb2xsZWdlLWJhc2tldGJhbGwtbWVucy1yb3dpbmctMTBiNDdjYzQ0MzJkZGIxNGZiNzQ1YTgxNDk3NDYxYzLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3Nwb3J0cy1jb2xsZWdlLWJhc2tldGJhbGwtbWVucy1yb3dpbmctMTBiNDdjYzQ0MzJkZGIxNGZiNzQ1YTgxNDk3NDYxYzLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3Nwb3J0cy1jb2xsZWdlLWJhc2tldGJhbGwtbWVucy1yb3dpbmctMTBiNDdjYzQ0MzJkZGIxNGZiNzQ1YTgxNDk3NDYxYzLSAQA?oc=5\" target=\"_blank\">Title IX propelled women from college courts to CEO offices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Under the Lights: Dartmouth recruit has huge shoes to fill - Eagle-Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5lYWdsZXRyaWJ1bmUuY29tL3Nwb3J0cy91bmRlci10aGUtbGlnaHRzLWRhcnRtb3V0aC1yZWNydWl0LWhhcy1odWdlLXNob2VzLXRvLWZpbGwvYXJ0aWNsZV9lZTYwMThmNy02ODBiLTU2YTAtYTcwMi02M2NhYjIyOTJlZGQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy5lYWdsZXRyaWJ1bmUuY29tL3Nwb3J0cy91bmRlci10aGUtbGlnaHRzLWRhcnRtb3V0aC1yZWNydWl0LWhhcy1odWdlLXNob2VzLXRvLWZpbGwvYXJ0aWNsZV9lZTYwMThmNy02ODBiLTU2YTAtYTcwMi02M2NhYjIyOTJlZGQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 26 Apr 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5lYWdsZXRyaWJ1bmUuY29tL3Nwb3J0cy91bmRlci10aGUtbGlnaHRzLWRhcnRtb3V0aC1yZWNydWl0LWhhcy1odWdlLXNob2VzLXRvLWZpbGwvYXJ0aWNsZV9lZTYwMThmNy02ODBiLTU2YTAtYTcwMi02M2NhYjIyOTJlZGQuaHRtbNIBAA?oc=5\" target=\"_blank\">Under the Lights: Dartmouth recruit has huge shoes to fill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eagle-Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Eagle-Tribune",
+                "$": {
+                  "url": "https://www.eagletribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Health insurer Anthem has hired a bunch of Apple employees to help it modernize - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTkvMDcvMDkvYW50aGVtLWhhcy1oaXJlZC1tYW55LWhlYWx0aC10ZWNoLWV4cGVydHMtZnJvbS1hcHBsZS5odG1s0gFdaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMTkvMDcvMDkvYW50aGVtLWhhcy1oaXJlZC1tYW55LWhlYWx0aC10ZWNoLWV4cGVydHMtZnJvbS1hcHBsZS5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTkvMDcvMDkvYW50aGVtLWhhcy1oaXJlZC1tYW55LWhlYWx0aC10ZWNoLWV4cGVydHMtZnJvbS1hcHBsZS5odG1s0gFdaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMTkvMDcvMDkvYW50aGVtLWhhcy1oaXJlZC1tYW55LWhlYWx0aC10ZWNoLWV4cGVydHMtZnJvbS1hcHBsZS5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Jul 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTkvMDcvMDkvYW50aGVtLWhhcy1oaXJlZC1tYW55LWhlYWx0aC10ZWNoLWV4cGVydHMtZnJvbS1hcHBsZS5odG1s0gFdaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMTkvMDcvMDkvYW50aGVtLWhhcy1oaXJlZC1tYW55LWhlYWx0aC10ZWNoLWV4cGVydHMtZnJvbS1hcHBsZS5odG1s?oc=5\" target=\"_blank\">Health insurer Anthem has hired a bunch of Apple employees to help it modernize</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Beyond tough:' Purdue grad transfer Evan Boudreaux driven to prove he belongs in Big Ten - Journal & Courier"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5qY29ubGluZS5jb20vc3Rvcnkvc3BvcnRzL2NvbGxlZ2UvcHVyZHVlL2Jhc2tldGJhbGwvMjAxOC8wNS8xMi9wdXJkdWUtZ3JhZC10cmFuc2Zlci1ldmFuLWJvdWRyZWF1eC1kcml2ZW4tcHJvdmUtaGUtYmVsb25ncy81ODExMTUwMDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3d3dy5qY29ubGluZS5jb20vc3Rvcnkvc3BvcnRzL2NvbGxlZ2UvcHVyZHVlL2Jhc2tldGJhbGwvMjAxOC8wNS8xMi9wdXJkdWUtZ3JhZC10cmFuc2Zlci1ldmFuLWJvdWRyZWF1eC1kcml2ZW4tcHJvdmUtaGUtYmVsb25ncy81ODExMTUwMDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 12 May 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5qY29ubGluZS5jb20vc3Rvcnkvc3BvcnRzL2NvbGxlZ2UvcHVyZHVlL2Jhc2tldGJhbGwvMjAxOC8wNS8xMi9wdXJkdWUtZ3JhZC10cmFuc2Zlci1ldmFuLWJvdWRyZWF1eC1kcml2ZW4tcHJvdmUtaGUtYmVsb25ncy81ODExMTUwMDIv0gEA?oc=5\" target=\"_blank\">'Beyond tough:' Purdue grad transfer Evan Boudreaux driven to prove he belongs in Big Ten</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Journal & Courier</font>"
+            ],
+            "source": [
+              {
+                "_": "Journal & Courier",
+                "$": {
+                  "url": "https://www.jconline.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

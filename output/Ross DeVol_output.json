@@ -1,0 +1,938 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Ross DeVol\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Ross+DeVol&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Heartland Forward announces nonpartisan group to tackle healthcare challenges - talkbusiness.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDIzLzExL2hlYXJ0bGFuZC1mb3J3YXJkLWFubm91bmNlcy1ub25wYXJ0aXNhbi1ncm91cC10by10YWNrbGUtaGVhbHRoY2FyZS1jaGFsbGVuZ2VzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDIzLzExL2hlYXJ0bGFuZC1mb3J3YXJkLWFubm91bmNlcy1ub25wYXJ0aXNhbi1ncm91cC10by10YWNrbGUtaGVhbHRoY2FyZS1jaGFsbGVuZ2VzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDIzLzExL2hlYXJ0bGFuZC1mb3J3YXJkLWFubm91bmNlcy1ub25wYXJ0aXNhbi1ncm91cC10by10YWNrbGUtaGVhbHRoY2FyZS1jaGFsbGVuZ2VzL9IBAA?oc=5\" target=\"_blank\">Heartland Forward announces nonpartisan group to tackle healthcare challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">talkbusiness.net</font>"
+            ],
+            "source": [
+              {
+                "_": "talkbusiness.net",
+                "$": {
+                  "url": "https://talkbusiness.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Heartland Summit organizers hope gathering ignites change - talkbusiness.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDIzLzExL2hlYXJ0bGFuZC1zdW1taXQtb3JnYW5pemVycy1ob3BlLWdhdGhlcmluZy1pZ25pdGVzLWNoYW5nZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDIzLzExL2hlYXJ0bGFuZC1zdW1taXQtb3JnYW5pemVycy1ob3BlLWdhdGhlcmluZy1pZ25pdGVzLWNoYW5nZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDIzLzExL2hlYXJ0bGFuZC1zdW1taXQtb3JnYW5pemVycy1ob3BlLWdhdGhlcmluZy1pZ25pdGVzLWNoYW5nZS_SAQA?oc=5\" target=\"_blank\">Heartland Summit organizers hope gathering ignites change</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">talkbusiness.net</font>"
+            ],
+            "source": [
+              {
+                "_": "talkbusiness.net",
+                "$": {
+                  "url": "https://talkbusiness.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Walton Family Foundation Fellow Visits UM, Oxford - Ole Miss News - Ole Miss News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbmV3cy5vbGVtaXNzLmVkdS93YWx0b24tZmFtaWx5LWZvdW5kYXRpb24tZmVsbG93LXZpc2l0cy11bS1veGZvcmQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vbmV3cy5vbGVtaXNzLmVkdS93YWx0b24tZmFtaWx5LWZvdW5kYXRpb24tZmVsbG93LXZpc2l0cy11bS1veGZvcmQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Apr 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbmV3cy5vbGVtaXNzLmVkdS93YWx0b24tZmFtaWx5LWZvdW5kYXRpb24tZmVsbG93LXZpc2l0cy11bS1veGZvcmQv0gEA?oc=5\" target=\"_blank\">Walton Family Foundation Fellow Visits UM, Oxford - Ole Miss News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ole Miss News</font>"
+            ],
+            "source": [
+              {
+                "_": "Ole Miss News",
+                "$": {
+                  "url": "https://news.olemiss.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UMN Celebrates 200th Startup Company and Top Ranking for Technology Transfer - UMN News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdHdpbi1jaXRpZXMudW1uLmVkdS9uZXdzLWV2ZW50cy91bW4tY2VsZWJyYXRlcy0yMDB0aC1zdGFydHVwLWNvbXBhbnktYW5kLXRvcC1yYW5raW5nLXRlY2hub2xvZ3ktdHJhbnNmZXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vdHdpbi1jaXRpZXMudW1uLmVkdS9uZXdzLWV2ZW50cy91bW4tY2VsZWJyYXRlcy0yMDB0aC1zdGFydHVwLWNvbXBhbnktYW5kLXRvcC1yYW5raW5nLXRlY2hub2xvZ3ktdHJhbnNmZXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 13 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdHdpbi1jaXRpZXMudW1uLmVkdS9uZXdzLWV2ZW50cy91bW4tY2VsZWJyYXRlcy0yMDB0aC1zdGFydHVwLWNvbXBhbnktYW5kLXRvcC1yYW5raW5nLXRlY2hub2xvZ3ktdHJhbnNmZXLSAQA?oc=5\" target=\"_blank\">UMN Celebrates 200th Startup Company and Top Ranking for Technology Transfer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UMN News</font>"
+            ],
+            "source": [
+              {
+                "_": "UMN News",
+                "$": {
+                  "url": "https://twin-cities.umn.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Michael Milken to Be Featured Speaker for 24th Business Forecast Luncheon - University of Arkansas Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbmV3cy51YXJrLmVkdS9hcnRpY2xlcy80MDQ0My9taWNoYWVsLW1pbGtlbi10by1iZS1mZWF0dXJlZC1zcGVha2VyLWZvci0yNHRoLWJ1c2luZXNzLWZvcmVjYXN0LWx1bmNoZW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vbmV3cy51YXJrLmVkdS9hcnRpY2xlcy80MDQ0My9taWNoYWVsLW1pbGtlbi10by1iZS1mZWF0dXJlZC1zcGVha2VyLWZvci0yNHRoLWJ1c2luZXNzLWZvcmVjYXN0LWx1bmNoZW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2017 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbmV3cy51YXJrLmVkdS9hcnRpY2xlcy80MDQ0My9taWNoYWVsLW1pbGtlbi10by1iZS1mZWF0dXJlZC1zcGVha2VyLWZvci0yNHRoLWJ1c2luZXNzLWZvcmVjYXN0LWx1bmNoZW9u0gEA?oc=5\" target=\"_blank\">Michael Milken to Be Featured Speaker for 24th Business Forecast Luncheon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Arkansas Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "University of Arkansas Newswire",
+                "$": {
+                  "url": "https://news.uark.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Catalyzing economic growth in the Heartland starts with research universities - Brookings Institution"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvY2F0YWx5emluZy1lY29ub21pYy1ncm93dGgtaW4tdGhlLWhlYXJ0bGFuZC1zdGFydHMtd2l0aC1yZXNlYXJjaC11bml2ZXJzaXRpZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvY2F0YWx5emluZy1lY29ub21pYy1ncm93dGgtaW4tdGhlLWhlYXJ0bGFuZC1zdGFydHMtd2l0aC1yZXNlYXJjaC11bml2ZXJzaXRpZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Dec 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvY2F0YWx5emluZy1lY29ub21pYy1ncm93dGgtaW4tdGhlLWhlYXJ0bGFuZC1zdGFydHMtd2l0aC1yZXNlYXJjaC11bml2ZXJzaXRpZXMv0gEA?oc=5\" target=\"_blank\">Catalyzing economic growth in the Heartland starts with research universities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brookings Institution</font>"
+            ],
+            "source": [
+              {
+                "_": "Brookings Institution",
+                "$": {
+                  "url": "https://www.brookings.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The 8 Best Innovation Ideas From Around the World - The Atlantic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9idXNpbmVzcy9hcmNoaXZlLzIwMTEvMTEvdGhlLTgtYmVzdC1pbm5vdmF0aW9uLWlkZWFzLWZyb20tYXJvdW5kLXRoZS13b3JsZC8yNDg2OTUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9idXNpbmVzcy9hcmNoaXZlLzIwMTEvMTEvdGhlLTgtYmVzdC1pbm5vdmF0aW9uLWlkZWFzLWZyb20tYXJvdW5kLXRoZS13b3JsZC8yNDg2OTUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 18 Nov 2011 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9idXNpbmVzcy9hcmNoaXZlLzIwMTEvMTEvdGhlLTgtYmVzdC1pbm5vdmF0aW9uLWlkZWFzLWZyb20tYXJvdW5kLXRoZS13b3JsZC8yNDg2OTUv0gEA?oc=5\" target=\"_blank\">The 8 Best Innovation Ideas From Around the World</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Atlantic",
+                "$": {
+                  "url": "https://www.theatlantic.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Heartland Forward Launches As \"Think And Do\" Tank Dedicated To U.S. Heartland - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2hlYXJ0bGFuZC1mb3J3YXJkLWxhdW5jaGVzLWFzLXRoaW5rLWFuZC1kby10YW5rLWRlZGljYXRlZC10by11cy1oZWFydGxhbmQtMzAwOTQyMzU4Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2hlYXJ0bGFuZC1mb3J3YXJkLWxhdW5jaGVzLWFzLXRoaW5rLWFuZC1kby10YW5rLWRlZGljYXRlZC10by11cy1oZWFydGxhbmQtMzAwOTQyMzU4Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 22 Oct 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2hlYXJ0bGFuZC1mb3J3YXJkLWxhdW5jaGVzLWFzLXRoaW5rLWFuZC1kby10YW5rLWRlZGljYXRlZC10by11cy1oZWFydGxhbmQtMzAwOTQyMzU4Lmh0bWzSAQA?oc=5\" target=\"_blank\">Heartland Forward Launches As \"Think And Do\" Tank Dedicated To U.S. Heartland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Are you an entrepreneur who would like to help kick-start economic growth in West Tennessee? - WATN - Local 24"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy5sb2NhbG1lbXBoaXMuY29tL2FydGljbGUvbmV3cy9sb2NhbC9hcmUteW91LWFuLWVudHJlcHJlbmV1ci13aG8td291bGQtbGlrZS10by1oZWxwLWtpY2stc3RhcnQtZWNvbm9taWMtZ3Jvd3RoLWluLXdlc3QtdGVubmVzc2VlLzUyMi1jYjE5ZGYwNC02OThmLTRkYzEtOWYwNC0zYThhNWYwYTYyMWXSAbgBaHR0cHM6Ly93d3cubG9jYWxtZW1waGlzLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL2xvY2FsL2FyZS15b3UtYW4tZW50cmVwcmVuZXVyLXdoby13b3VsZC1saWtlLXRvLWhlbHAta2ljay1zdGFydC1lY29ub21pYy1ncm93dGgtaW4td2VzdC10ZW5uZXNzZWUvNTIyLWNiMTlkZjA0LTY5OGYtNGRjMS05ZjA0LTNhOGE1ZjBhNjIxZQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitAFodHRwczovL3d3dy5sb2NhbG1lbXBoaXMuY29tL2FydGljbGUvbmV3cy9sb2NhbC9hcmUteW91LWFuLWVudHJlcHJlbmV1ci13aG8td291bGQtbGlrZS10by1oZWxwLWtpY2stc3RhcnQtZWNvbm9taWMtZ3Jvd3RoLWluLXdlc3QtdGVubmVzc2VlLzUyMi1jYjE5ZGYwNC02OThmLTRkYzEtOWYwNC0zYThhNWYwYTYyMWXSAbgBaHR0cHM6Ly93d3cubG9jYWxtZW1waGlzLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL2xvY2FsL2FyZS15b3UtYW4tZW50cmVwcmVuZXVyLXdoby13b3VsZC1saWtlLXRvLWhlbHAta2ljay1zdGFydC1lY29ub21pYy1ncm93dGgtaW4td2VzdC10ZW5uZXNzZWUvNTIyLWNiMTlkZjA0LTY5OGYtNGRjMS05ZjA0LTNhOGE1ZjBhNjIxZQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 16 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy5sb2NhbG1lbXBoaXMuY29tL2FydGljbGUvbmV3cy9sb2NhbC9hcmUteW91LWFuLWVudHJlcHJlbmV1ci13aG8td291bGQtbGlrZS10by1oZWxwLWtpY2stc3RhcnQtZWNvbm9taWMtZ3Jvd3RoLWluLXdlc3QtdGVubmVzc2VlLzUyMi1jYjE5ZGYwNC02OThmLTRkYzEtOWYwNC0zYThhNWYwYTYyMWXSAbgBaHR0cHM6Ly93d3cubG9jYWxtZW1waGlzLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL2xvY2FsL2FyZS15b3UtYW4tZW50cmVwcmVuZXVyLXdoby13b3VsZC1saWtlLXRvLWhlbHAta2ljay1zdGFydC1lY29ub21pYy1ncm93dGgtaW4td2VzdC10ZW5uZXNzZWUvNTIyLWNiMTlkZjA0LTY5OGYtNGRjMS05ZjA0LTNhOGE1ZjBhNjIxZQ?oc=5\" target=\"_blank\">Are you an entrepreneur who would like to help kick-start economic growth in West Tennessee?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WATN - Local 24</font>"
+            ],
+            "source": [
+              {
+                "_": "WATN - Local 24",
+                "$": {
+                  "url": "https://www.localmemphis.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Arkansas Economic Recovery Strategy report seeks to guide Arkansas in economic endeavors - Southwest Times Record"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnN3dGltZXMuY29tL3N0b3J5L25ld3MvMjAyMS8wNy8wOS9hcmthbnNhcy1lY29ub21pYy1yZWNvdmVyeS1zdHJhdGVneS1yZXBvcnQtc2Vla3MtZ3VpZGUtc3RhdGUvNzg0NzE1MzAwMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LnN3dGltZXMuY29tL3N0b3J5L25ld3MvMjAyMS8wNy8wOS9hcmthbnNhcy1lY29ub21pYy1yZWNvdmVyeS1zdHJhdGVneS1yZXBvcnQtc2Vla3MtZ3VpZGUtc3RhdGUvNzg0NzE1MzAwMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 09 Jul 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnN3dGltZXMuY29tL3N0b3J5L25ld3MvMjAyMS8wNy8wOS9hcmthbnNhcy1lY29ub21pYy1yZWNvdmVyeS1zdHJhdGVneS1yZXBvcnQtc2Vla3MtZ3VpZGUtc3RhdGUvNzg0NzE1MzAwMi_SAQA?oc=5\" target=\"_blank\">Arkansas Economic Recovery Strategy report seeks to guide Arkansas in economic endeavors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southwest Times Record</font>"
+            ],
+            "source": [
+              {
+                "_": "Southwest Times Record",
+                "$": {
+                  "url": "https://www.swtimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Google's birth, Purdue's startups strategy are examples for UW-Madison - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lmpzb25saW5lLmNvbS9zdG9yeS9vcGluaW9uL2NvbnRyaWJ1dG9ycy8yMDE4LzA0LzA2L2dvb2dsZS1wdXJkdWUtc2hvdy11bml2ZXJzaXR5LXJlc2VhcmNoLWNhbi1wYXktb2ZmLzQ4NjE2NzAwMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3Lmpzb25saW5lLmNvbS9zdG9yeS9vcGluaW9uL2NvbnRyaWJ1dG9ycy8yMDE4LzA0LzA2L2dvb2dsZS1wdXJkdWUtc2hvdy11bml2ZXJzaXR5LXJlc2VhcmNoLWNhbi1wYXktb2ZmLzQ4NjE2NzAwMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 06 Apr 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lmpzb25saW5lLmNvbS9zdG9yeS9vcGluaW9uL2NvbnRyaWJ1dG9ycy8yMDE4LzA0LzA2L2dvb2dsZS1wdXJkdWUtc2hvdy11bml2ZXJzaXR5LXJlc2VhcmNoLWNhbi1wYXktb2ZmLzQ4NjE2NzAwMi_SAQA?oc=5\" target=\"_blank\">Google's birth, Purdue's startups strategy are examples for UW-Madison</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Perspectives on Defining the American Heartland - newgeography.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld2dlb2dyYXBoeS5jb20vY29udGVudC8wMDYwMjEtcGVyc3BlY3RpdmVzLWRlZmluaW5nLWFtZXJpY2FuLWhlYXJ0bGFuZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3Lm5ld2dlb2dyYXBoeS5jb20vY29udGVudC8wMDYwMjEtcGVyc3BlY3RpdmVzLWRlZmluaW5nLWFtZXJpY2FuLWhlYXJ0bGFuZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 01 Jul 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld2dlb2dyYXBoeS5jb20vY29udGVudC8wMDYwMjEtcGVyc3BlY3RpdmVzLWRlZmluaW5nLWFtZXJpY2FuLWhlYXJ0bGFuZNIBAA?oc=5\" target=\"_blank\">Perspectives on Defining the American Heartland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newgeography.com</font>"
+            ],
+            "source": [
+              {
+                "_": "newgeography.com",
+                "$": {
+                  "url": "https://www.newgeography.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Addiction, mental health, housing among critical issues to be covered at IU Rural Conference - IU Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbmV3cy5pdS5lZHUvbGl2ZS9uZXdzLzI4MjU3LWFkZGljdGlvbi1tZW50YWwtaGVhbHRoLWhvdXNpbmctYW1vbmctY3JpdGljYWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vbmV3cy5pdS5lZHUvbGl2ZS9uZXdzLzI4MjU3LWFkZGljdGlvbi1tZW50YWwtaGVhbHRoLWhvdXNpbmctYW1vbmctY3JpdGljYWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbmV3cy5pdS5lZHUvbGl2ZS9uZXdzLzI4MjU3LWFkZGljdGlvbi1tZW50YWwtaGVhbHRoLWhvdXNpbmctYW1vbmctY3JpdGljYWzSAQA?oc=5\" target=\"_blank\">Addiction, mental health, housing among critical issues to be covered at IU Rural Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IU Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "IU Newsroom",
+                "$": {
+                  "url": "https://news.iu.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Knowledge-based economy key to cities' success - Tennessean"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L29waW5pb24vMjAxOS8wNi8yNS9rbm93bGVkZ2UtYmFzZWQtZWNvbm9teS1rZXktY2l0aWVzLXN1Y2Nlc3MvMTU2NDkyMzAwMS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L29waW5pb24vMjAxOS8wNi8yNS9rbm93bGVkZ2UtYmFzZWQtZWNvbm9teS1rZXktY2l0aWVzLXN1Y2Nlc3MvMTU2NDkyMzAwMS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 25 Jun 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L29waW5pb24vMjAxOS8wNi8yNS9rbm93bGVkZ2UtYmFzZWQtZWNvbm9teS1rZXktY2l0aWVzLXN1Y2Nlc3MvMTU2NDkyMzAwMS_SAQA?oc=5\" target=\"_blank\">Knowledge-based economy key to cities' success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessean</font>"
+            ],
+            "source": [
+              {
+                "_": "Tennessean",
+                "$": {
+                  "url": "https://www.tennessean.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How immigration can power the future of America's heartland - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9udy1hcmthbnNhcy8yMDIxLzA1LzI2L2ltbWlncmF0aW9uLWhlYXJ0bGFuZC1hbWVyaWNhLWltbWlncmFudHMtam9icy1hcmthbnNhc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9udy1hcmthbnNhcy8yMDIxLzA1LzI2L2ltbWlncmF0aW9uLWhlYXJ0bGFuZC1hbWVyaWNhLWltbWlncmFudHMtam9icy1hcmthbnNhc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 May 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9udy1hcmthbnNhcy8yMDIxLzA1LzI2L2ltbWlncmF0aW9uLWhlYXJ0bGFuZC1hbWVyaWNhLWltbWlncmFudHMtam9icy1hcmthbnNhc9IBAA?oc=5\" target=\"_blank\">How immigration can power the future of America's heartland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Career Technical Education: What It Can and Cannot Do in Building a Next Middle Class - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL21pY2hhZWxiZXJuaWNrLzIwMTYvMDkvMjgvY2FyZWVyLXRlY2huaWNhbC1lZHVjYXRpb24td2hhdC1pdC1jYW4tYW5kLWNhbm5vdC1kby1pbi1idWlsZGluZy1hLW5leHQtbWlkZGxlLWNsYXNzL9IBkAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL21pY2hhZWxiZXJuaWNrLzIwMTYvMDkvMjgvY2FyZWVyLXRlY2huaWNhbC1lZHVjYXRpb24td2hhdC1pdC1jYW4tYW5kLWNhbm5vdC1kby1pbi1idWlsZGluZy1hLW5leHQtbWlkZGxlLWNsYXNzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL21pY2hhZWxiZXJuaWNrLzIwMTYvMDkvMjgvY2FyZWVyLXRlY2huaWNhbC1lZHVjYXRpb24td2hhdC1pdC1jYW4tYW5kLWNhbm5vdC1kby1pbi1idWlsZGluZy1hLW5leHQtbWlkZGxlLWNsYXNzL9IBkAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL21pY2hhZWxiZXJuaWNrLzIwMTYvMDkvMjgvY2FyZWVyLXRlY2huaWNhbC1lZHVjYXRpb24td2hhdC1pdC1jYW4tYW5kLWNhbm5vdC1kby1pbi1idWlsZGluZy1hLW5leHQtbWlkZGxlLWNsYXNzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 28 Sep 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL21pY2hhZWxiZXJuaWNrLzIwMTYvMDkvMjgvY2FyZWVyLXRlY2huaWNhbC1lZHVjYXRpb24td2hhdC1pdC1jYW4tYW5kLWNhbm5vdC1kby1pbi1idWlsZGluZy1hLW5leHQtbWlkZGxlLWNsYXNzL9IBkAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL21pY2hhZWxiZXJuaWNrLzIwMTYvMDkvMjgvY2FyZWVyLXRlY2huaWNhbC1lZHVjYXRpb24td2hhdC1pdC1jYW4tYW5kLWNhbm5vdC1kby1pbi1idWlsZGluZy1hLW5leHQtbWlkZGxlLWNsYXNzL2FtcC8?oc=5\" target=\"_blank\">Career Technical Education: What It Can and Cannot Do in Building a Next Middle Class</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The $110 Effect: What Higher Gas Prices Could Really Do to the Economy - The Atlantic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGVhdGxhbnRpYy5jb20vYnVzaW5lc3MvYXJjaGl2ZS8yMDEyLzAzL3RoZS0xMTAtZWZmZWN0LXdoYXQtaGlnaGVyLWdhcy1wcmljZXMtY291bGQtcmVhbGx5LWRvLXRvLXRoZS1lY29ub215LzI1NDM4Ni_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy50aGVhdGxhbnRpYy5jb20vYnVzaW5lc3MvYXJjaGl2ZS8yMDEyLzAzL3RoZS0xMTAtZWZmZWN0LXdoYXQtaGlnaGVyLWdhcy1wcmljZXMtY291bGQtcmVhbGx5LWRvLXRvLXRoZS1lY29ub215LzI1NDM4Ni_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Mar 2012 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGVhdGxhbnRpYy5jb20vYnVzaW5lc3MvYXJjaGl2ZS8yMDEyLzAzL3RoZS0xMTAtZWZmZWN0LXdoYXQtaGlnaGVyLWdhcy1wcmljZXMtY291bGQtcmVhbGx5LWRvLXRvLXRoZS1lY29ub215LzI1NDM4Ni_SAQA?oc=5\" target=\"_blank\">The $110 Effect: What Higher Gas Prices Could Really Do to the Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Atlantic",
+                "$": {
+                  "url": "https://www.theatlantic.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Experts Set to Discuss Economy at 25th Business Forecast Luncheon - University of Arkansas Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbmV3cy51YXJrLmVkdS9hcnRpY2xlcy80NTY3Ny9leHBlcnRzLXNldC10by1kaXNjdXNzLWVjb25vbXktYXQtMjV0aC1idXNpbmVzcy1mb3JlY2FzdC1sdW5jaGVvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vbmV3cy51YXJrLmVkdS9hcnRpY2xlcy80NTY3Ny9leHBlcnRzLXNldC10by1kaXNjdXNzLWVjb25vbXktYXQtMjV0aC1idXNpbmVzcy1mb3JlY2FzdC1sdW5jaGVvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Dec 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbmV3cy51YXJrLmVkdS9hcnRpY2xlcy80NTY3Ny9leHBlcnRzLXNldC10by1kaXNjdXNzLWVjb25vbXktYXQtMjV0aC1idXNpbmVzcy1mb3JlY2FzdC1sdW5jaGVvbtIBAA?oc=5\" target=\"_blank\">Experts Set to Discuss Economy at 25th Business Forecast Luncheon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Arkansas Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "University of Arkansas Newswire",
+                "$": {
+                  "url": "https://news.uark.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Heartland Forward Names Angie Cooper Executive Vice President - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvaGVhcnRsYW5kLWZvcndhcmQtbmFtZXMtYW5naWUtY29vcGVyLWV4ZWN1dGl2ZS12aWNlLXByZXNpZGVudC0zMDE3MjQwNDQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvaGVhcnRsYW5kLWZvcndhcmQtbmFtZXMtYW5naWUtY29vcGVyLWV4ZWN1dGl2ZS12aWNlLXByZXNpZGVudC0zMDE3MjQwNDQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvaGVhcnRsYW5kLWZvcndhcmQtbmFtZXMtYW5naWUtY29vcGVyLWV4ZWN1dGl2ZS12aWNlLXByZXNpZGVudC0zMDE3MjQwNDQuaHRtbNIBAA?oc=5\" target=\"_blank\">Heartland Forward Names Angie Cooper Executive Vice President</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Entrepreneurs key to Tennessee's economic recovery - Tennessean"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L29waW5pb24vMjAyMC8wNi8wMS9lbnRyZXByZW5ldXJzLWtleS10ZW5uZXNzZWVzLWVjb25vbWljLXJlY292ZXJ5LzUzMTExNjcwMDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L29waW5pb24vMjAyMC8wNi8wMS9lbnRyZXByZW5ldXJzLWtleS10ZW5uZXNzZWVzLWVjb25vbWljLXJlY292ZXJ5LzUzMTExNjcwMDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 01 Jun 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L29waW5pb24vMjAyMC8wNi8wMS9lbnRyZXByZW5ldXJzLWtleS10ZW5uZXNzZWVzLWVjb25vbWljLXJlY292ZXJ5LzUzMTExNjcwMDIv0gEA?oc=5\" target=\"_blank\">Entrepreneurs key to Tennessee's economic recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessean</font>"
+            ],
+            "source": [
+              {
+                "_": "Tennessean",
+                "$": {
+                  "url": "https://www.tennessean.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The key to recovery - talkbusiness.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDIwLzA3L3RoZS1rZXktdG8tcmVjb3Zlcnkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiNWh0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDIwLzA3L3RoZS1rZXktdG8tcmVjb3Zlcnkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Jul 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDIwLzA3L3RoZS1rZXktdG8tcmVjb3Zlcnkv0gEA?oc=5\" target=\"_blank\">The key to recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">talkbusiness.net</font>"
+            ],
+            "source": [
+              {
+                "_": "talkbusiness.net",
+                "$": {
+                  "url": "https://talkbusiness.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The American Heartland is doing better than prevailing narratives, but serious challenges remain | Brookings - Brookings Institution"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvdHJlbmRzLWluLXRoZS1oZWFydGxhbmQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiO2h0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvdHJlbmRzLWluLXRoZS1oZWFydGxhbmQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvdHJlbmRzLWluLXRoZS1oZWFydGxhbmQv0gEA?oc=5\" target=\"_blank\">The American Heartland is doing better than prevailing narratives, but serious challenges remain | Brookings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brookings Institution</font>"
+            ],
+            "source": [
+              {
+                "_": "Brookings Institution",
+                "$": {
+                  "url": "https://www.brookings.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Walton Family Foundation: With Room to Grow, Heartland States Lag behind Coastal States in the Innovation Economy - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDE4MDczMTAwNTI4NC9lbi9XYWx0b24tRmFtaWx5LUZvdW5kYXRpb24tV2l0aC1Sb29tLXRvLUdyb3ctSGVhcnRsYW5kLVN0YXRlcy1MYWctYmVoaW5kLUNvYXN0YWwtU3RhdGVzLWluLXRoZS1Jbm5vdmF0aW9uLUVjb25vbXnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqAFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDE4MDczMTAwNTI4NC9lbi9XYWx0b24tRmFtaWx5LUZvdW5kYXRpb24tV2l0aC1Sb29tLXRvLUdyb3ctSGVhcnRsYW5kLVN0YXRlcy1MYWctYmVoaW5kLUNvYXN0YWwtU3RhdGVzLWluLXRoZS1Jbm5vdmF0aW9uLUVjb25vbXnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Jul 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDE4MDczMTAwNTI4NC9lbi9XYWx0b24tRmFtaWx5LUZvdW5kYXRpb24tV2l0aC1Sb29tLXRvLUdyb3ctSGVhcnRsYW5kLVN0YXRlcy1MYWctYmVoaW5kLUNvYXN0YWwtU3RhdGVzLWluLXRoZS1Jbm5vdmF0aW9uLUVjb25vbXnSAQA?oc=5\" target=\"_blank\">Walton Family Foundation: With Room to Grow, Heartland States Lag behind Coastal States in the Innovation Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North America’s High Tech Economy: The Geography of Knowledge-Based Industries - newgeography.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5ld2dlb2dyYXBoeS5jb20vY29udGVudC8wMDgyMi1ub3J0aC1hbWVyaWNhJUUyJTgwJTk5cy1oaWdoLXRlY2gtZWNvbm9teS10aGUtZ2VvZ3JhcGh5LWtub3dsZWRnZS1iYXNlZC1pbmR1c3RyaWVz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3Lm5ld2dlb2dyYXBoeS5jb20vY29udGVudC8wMDgyMi1ub3J0aC1hbWVyaWNhJUUyJTgwJTk5cy1oaWdoLXRlY2gtZWNvbm9teS10aGUtZ2VvZ3JhcGh5LWtub3dsZWRnZS1iYXNlZC1pbmR1c3RyaWVz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 Jun 2009 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5ld2dlb2dyYXBoeS5jb20vY29udGVudC8wMDgyMi1ub3J0aC1hbWVyaWNhJUUyJTgwJTk5cy1oaWdoLXRlY2gtZWNvbm9teS10aGUtZ2VvZ3JhcGh5LWtub3dsZWRnZS1iYXNlZC1pbmR1c3RyaWVz0gEA?oc=5\" target=\"_blank\">North America’s High Tech Economy: The Geography of Knowledge-Based Industries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newgeography.com</font>"
+            ],
+            "source": [
+              {
+                "_": "newgeography.com",
+                "$": {
+                  "url": "https://www.newgeography.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Millennials choose Heartland: Des Moines is 'flyover country' no more - Des Moines Register"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3Rvcnkvb3Bpbmlvbi9jb2x1bW5pc3RzL2lvd2Etdmlldy8yMDIwLzAzLzIyL21pbGxlbm5pYWxzLWNob29zZS1oZWFydGxhbmQtZGVzLW1vaW5lcy1mbHlvdmVyLWNvdW50cnktbm8tbW9yZS8yODg0NjExMDAxL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3Rvcnkvb3Bpbmlvbi9jb2x1bW5pc3RzL2lvd2Etdmlldy8yMDIwLzAzLzIyL21pbGxlbm5pYWxzLWNob29zZS1oZWFydGxhbmQtZGVzLW1vaW5lcy1mbHlvdmVyLWNvdW50cnktbm8tbW9yZS8yODg0NjExMDAxL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 22 Mar 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3Rvcnkvb3Bpbmlvbi9jb2x1bW5pc3RzL2lvd2Etdmlldy8yMDIwLzAzLzIyL21pbGxlbm5pYWxzLWNob29zZS1oZWFydGxhbmQtZGVzLW1vaW5lcy1mbHlvdmVyLWNvdW50cnktbm8tbW9yZS8yODg0NjExMDAxL9IBAA?oc=5\" target=\"_blank\">Millennials choose Heartland: Des Moines is 'flyover country' no more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Des Moines Register</font>"
+            ],
+            "source": [
+              {
+                "_": "Des Moines Register",
+                "$": {
+                  "url": "https://www.desmoinesregister.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Northwest Arkansas ranks no. 21 for most dynamic U.S. metros - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9udy1hcmthbnNhcy8yMDIyLzA0LzA1L25vcnRod2VzdC1hcmthbnNhcy1tb3N0LWR5bmFtaWMtdXMtbWV0cm9z0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9udy1hcmthbnNhcy8yMDIyLzA0LzA1L25vcnRod2VzdC1hcmthbnNhcy1tb3N0LWR5bmFtaWMtdXMtbWV0cm9z0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9udy1hcmthbnNhcy8yMDIyLzA0LzA1L25vcnRod2VzdC1hcmthbnNhcy1tb3N0LWR5bmFtaWMtdXMtbWV0cm9z0gEA?oc=5\" target=\"_blank\">Northwest Arkansas ranks no. 21 for most dynamic U.S. metros</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Nebraska immigrant and refugee population on the rise - KMTV 3 News Now Omaha"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LjNuZXdzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvbmVicmFza2EtaW1taWdyYW50LWFuZC1yZWZ1Z2VlLXBvcHVsYXRpb24tb24tdGhlLXJpc2XSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LjNuZXdzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvbmVicmFza2EtaW1taWdyYW50LWFuZC1yZWZ1Z2VlLXBvcHVsYXRpb24tb24tdGhlLXJpc2XSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 May 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LjNuZXdzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvbmVicmFza2EtaW1taWdyYW50LWFuZC1yZWZ1Z2VlLXBvcHVsYXRpb24tb24tdGhlLXJpc2XSAQA?oc=5\" target=\"_blank\">Nebraska immigrant and refugee population on the rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KMTV 3 News Now Omaha</font>"
+            ],
+            "source": [
+              {
+                "_": "KMTV 3 News Now Omaha",
+                "$": {
+                  "url": "https://www.3newsnow.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Americans' Obesity Weighs Down U.S. Economy by $1.4 Trillion - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHA6Ly9maW5hbmNlLnlhaG9vLmNvbS9uZXdzL2FtZXJpY2Fucy1vYmVzaXR5LXdlaWdocy1kb3duLXUtMTQzMDAwNDA3Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHA6Ly9maW5hbmNlLnlhaG9vLmNvbS9uZXdzL2FtZXJpY2Fucy1vYmVzaXR5LXdlaWdocy1kb3duLXUtMTQzMDAwNDA3Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 30 Nov 2016 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHA6Ly9maW5hbmNlLnlhaG9vLmNvbS9uZXdzL2FtZXJpY2Fucy1vYmVzaXR5LXdlaWdocy1kb3duLXUtMTQzMDAwNDA3Lmh0bWzSAQA?oc=5\" target=\"_blank\">Americans' Obesity Weighs Down U.S. Economy by $1.4 Trillion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "http://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The 10 States Leading in Science and Technology - The Atlantic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9idXNpbmVzcy9hcmNoaXZlLzIwMTEvMDEvdGhlLTEwLXN0YXRlcy1sZWFkaW5nLWluLXNjaWVuY2UtYW5kLXRlY2hub2xvZ3kvNzAxODIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9idXNpbmVzcy9hcmNoaXZlLzIwMTEvMDEvdGhlLTEwLXN0YXRlcy1sZWFkaW5nLWluLXNjaWVuY2UtYW5kLXRlY2hub2xvZ3kvNzAxODIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jan 2011 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9idXNpbmVzcy9hcmNoaXZlLzIwMTEvMDEvdGhlLTEwLXN0YXRlcy1sZWFkaW5nLWluLXNjaWVuY2UtYW5kLXRlY2hub2xvZ3kvNzAxODIv0gEA?oc=5\" target=\"_blank\">The 10 States Leading in Science and Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Atlantic",
+                "$": {
+                  "url": "https://www.theatlantic.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Texas' most dynamic economy isn't in Dallas, Houston or even Austin - The Dallas Morning News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmRhbGxhc25ld3MuY29tL2J1c2luZXNzL2Vjb25vbXkvMjAxOS8wNi8xMC90ZXhhcy1tb3N0LWR5bmFtaWMtZWNvbm9teS1pc24tdC1pbi1kYWxsYXMtaG91c3Rvbi1vci1ldmVuLWF1c3Rpbi_SAYgBaHR0cHM6Ly93d3cuZGFsbGFzbmV3cy5jb20vYnVzaW5lc3MvZWNvbm9teS8yMDE5LzA2LzEwL3RleGFzLW1vc3QtZHluYW1pYy1lY29ub215LWlzbi10LWluLWRhbGxhcy1ob3VzdG9uLW9yLWV2ZW4tYXVzdGluLz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vd3d3LmRhbGxhc25ld3MuY29tL2J1c2luZXNzL2Vjb25vbXkvMjAxOS8wNi8xMC90ZXhhcy1tb3N0LWR5bmFtaWMtZWNvbm9teS1pc24tdC1pbi1kYWxsYXMtaG91c3Rvbi1vci1ldmVuLWF1c3Rpbi_SAYgBaHR0cHM6Ly93d3cuZGFsbGFzbmV3cy5jb20vYnVzaW5lc3MvZWNvbm9teS8yMDE5LzA2LzEwL3RleGFzLW1vc3QtZHluYW1pYy1lY29ub215LWlzbi10LWluLWRhbGxhcy1ob3VzdG9uLW9yLWV2ZW4tYXVzdGluLz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 10 Jun 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmRhbGxhc25ld3MuY29tL2J1c2luZXNzL2Vjb25vbXkvMjAxOS8wNi8xMC90ZXhhcy1tb3N0LWR5bmFtaWMtZWNvbm9teS1pc24tdC1pbi1kYWxsYXMtaG91c3Rvbi1vci1ldmVuLWF1c3Rpbi_SAYgBaHR0cHM6Ly93d3cuZGFsbGFzbmV3cy5jb20vYnVzaW5lc3MvZWNvbm9teS8yMDE5LzA2LzEwL3RleGFzLW1vc3QtZHluYW1pYy1lY29ub215LWlzbi10LWluLWRhbGxhcy1ob3VzdG9uLW9yLWV2ZW4tYXVzdGluLz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">Texas' most dynamic economy isn't in Dallas, Houston or even Austin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dallas Morning News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Dallas Morning News",
+                "$": {
+                  "url": "https://www.dallasnews.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

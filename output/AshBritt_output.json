@@ -1,0 +1,2108 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"AshBritt\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=AshBritt&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "AshBritt lands FEPA Award for Excellence in Emergency Management - Florida Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NTcyNDEtYXNoYnJpdHQtbGFuZHMtZmVwYS1hd2FyZC1mb3ItZXhjZWxsZW5jZS1pbi1lbWVyZ2VuY3ktbWFuYWdlbWVudC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NTcyNDEtYXNoYnJpdHQtbGFuZHMtZmVwYS1hd2FyZC1mb3ItZXhjZWxsZW5jZS1pbi1lbWVyZ2VuY3ktbWFuYWdlbWVudC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 17:37:27 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NTcyNDEtYXNoYnJpdHQtbGFuZHMtZmVwYS1hd2FyZC1mb3ItZXhjZWxsZW5jZS1pbi1lbWVyZ2VuY3ktbWFuYWdlbWVudC_SAQA?oc=5\" target=\"_blank\">AshBritt lands FEPA Award for Excellence in Emergency Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "Florida Politics",
+                "$": {
+                  "url": "https://floridapolitics.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "One Year Later: AshBritt Honors Local Partners Crucial to Eastern Kentucky Flood Recovery - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMDgwMjk0MDM2Ny9lbi9PbmUtWWVhci1MYXRlci1Bc2hCcml0dC1Ib25vcnMtTG9jYWwtUGFydG5lcnMtQ3J1Y2lhbC10by1FYXN0ZXJuLUtlbnR1Y2t5LUZsb29kLVJlY292ZXJ50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMDgwMjk0MDM2Ny9lbi9PbmUtWWVhci1MYXRlci1Bc2hCcml0dC1Ib25vcnMtTG9jYWwtUGFydG5lcnMtQ3J1Y2lhbC10by1FYXN0ZXJuLUtlbnR1Y2t5LUZsb29kLVJlY292ZXJ50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMDgwMjk0MDM2Ny9lbi9PbmUtWWVhci1MYXRlci1Bc2hCcml0dC1Ib25vcnMtTG9jYWwtUGFydG5lcnMtQ3J1Y2lhbC10by1FYXN0ZXJuLUtlbnR1Y2t5LUZsb29kLVJlY292ZXJ50gEA?oc=5\" target=\"_blank\">One Year Later: AshBritt Honors Local Partners Crucial to Eastern Kentucky Flood Recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Boys and Girls Club celebrates 'AshBritt Day' - Valdosta Daily Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy52YWxkb3N0YWRhaWx5dGltZXMuY29tL3Nwb3J0cy9ib3lzLWFuZC1naXJscy1jbHViLWNlbGVicmF0ZXMtYXNoYnJpdHQtZGF5L2FydGljbGVfOTdkYzZiOTQtOWFiYS0xMWVlLThlMTAtOWY3YTRiNmViMDdhLmh0bWzSAYsBaHR0cHM6Ly93d3cudmFsZG9zdGFkYWlseXRpbWVzLmNvbS9zcG9ydHMvYm95cy1hbmQtZ2lybHMtY2x1Yi1jZWxlYnJhdGVzLWFzaGJyaXR0LWRheS9hcnRpY2xlXzk3ZGM2Yjk0LTlhYmEtMTFlZS04ZTEwLTlmN2E0YjZlYjA3YS5hbXAuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy52YWxkb3N0YWRhaWx5dGltZXMuY29tL3Nwb3J0cy9ib3lzLWFuZC1naXJscy1jbHViLWNlbGVicmF0ZXMtYXNoYnJpdHQtZGF5L2FydGljbGVfOTdkYzZiOTQtOWFiYS0xMWVlLThlMTAtOWY3YTRiNmViMDdhLmh0bWzSAYsBaHR0cHM6Ly93d3cudmFsZG9zdGFkYWlseXRpbWVzLmNvbS9zcG9ydHMvYm95cy1hbmQtZ2lybHMtY2x1Yi1jZWxlYnJhdGVzLWFzaGJyaXR0LWRheS9hcnRpY2xlXzk3ZGM2Yjk0LTlhYmEtMTFlZS04ZTEwLTlmN2E0YjZlYjA3YS5hbXAuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy52YWxkb3N0YWRhaWx5dGltZXMuY29tL3Nwb3J0cy9ib3lzLWFuZC1naXJscy1jbHViLWNlbGVicmF0ZXMtYXNoYnJpdHQtZGF5L2FydGljbGVfOTdkYzZiOTQtOWFiYS0xMWVlLThlMTAtOWY3YTRiNmViMDdhLmh0bWzSAYsBaHR0cHM6Ly93d3cudmFsZG9zdGFkYWlseXRpbWVzLmNvbS9zcG9ydHMvYm95cy1hbmQtZ2lybHMtY2x1Yi1jZWxlYnJhdGVzLWFzaGJyaXR0LWRheS9hcnRpY2xlXzk3ZGM2Yjk0LTlhYmEtMTFlZS04ZTEwLTlmN2E0YjZlYjA3YS5hbXAuaHRtbA?oc=5\" target=\"_blank\">Boys and Girls Club celebrates 'AshBritt Day'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Valdosta Daily Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Valdosta Daily Times",
+                "$": {
+                  "url": "https://www.valdostadailytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt Named 15th of 50 Fastest Growing Women-Led Companies - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hc2hicml0dC1uYW1lZC0xNXRoLTUwLWZhc3Rlc3QtMTYwNDAwMTM1Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hc2hicml0dC1uYW1lZC0xNXRoLTUwLWZhc3Rlc3QtMTYwNDAwMTM1Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hc2hicml0dC1uYW1lZC0xNXRoLTUwLWZhc3Rlc3QtMTYwNDAwMTM1Lmh0bWzSAQA?oc=5\" target=\"_blank\">AshBritt Named 15th of 50 Fastest Growing Women-Led Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt Foundation Supports Nancy J. Cotterman Center - StreetInsider.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnN0cmVldGluc2lkZXIuY29tL0J1c2luZXNzK1dpcmUvQXNoQnJpdHQrRm91bmRhdGlvbitTdXBwb3J0cytOYW5jeStKLitDb3R0ZXJtYW4rQ2VudGVyLzIyNTk5NTYwLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LnN0cmVldGluc2lkZXIuY29tL0J1c2luZXNzK1dpcmUvQXNoQnJpdHQrRm91bmRhdGlvbitTdXBwb3J0cytOYW5jeStKLitDb3R0ZXJtYW4rQ2VudGVyLzIyNTk5NTYwLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 05 Jan 2024 13:05:47 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnN0cmVldGluc2lkZXIuY29tL0J1c2luZXNzK1dpcmUvQXNoQnJpdHQrRm91bmRhdGlvbitTdXBwb3J0cytOYW5jeStKLitDb3R0ZXJtYW4rQ2VudGVyLzIyNTk5NTYwLmh0bWzSAQA?oc=5\" target=\"_blank\">AshBritt Foundation Supports Nancy J. Cotterman Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider.com</font>"
+            ],
+            "source": [
+              {
+                "_": "StreetInsider.com",
+                "$": {
+                  "url": "https://www.streetinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The eastern Kentucky flood cleanup project is officially done, but debris and lawsuits remain - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5scG0ub3JnL25ld3MvMjAyMy0xMC0yMy90aGUtZWFzdGVybi1rZW50dWNreS1mbG9vZC1jbGVhbnVwLXByb2plY3QtaXMtb2ZmaWNpYWxseS1kb25lLWJ1dC1kZWJyaXMtYW5kLWxhd3N1aXRzLXJlbWFpbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy5scG0ub3JnL25ld3MvMjAyMy0xMC0yMy90aGUtZWFzdGVybi1rZW50dWNreS1mbG9vZC1jbGVhbnVwLXByb2plY3QtaXMtb2ZmaWNpYWxseS1kb25lLWJ1dC1kZWJyaXMtYW5kLWxhd3N1aXRzLXJlbWFpbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5scG0ub3JnL25ld3MvMjAyMy0xMC0yMy90aGUtZWFzdGVybi1rZW50dWNreS1mbG9vZC1jbGVhbnVwLXByb2plY3QtaXMtb2ZmaWNpYWxseS1kb25lLWJ1dC1kZWJyaXMtYW5kLWxhd3N1aXRzLXJlbWFpbtIBAA?oc=5\" target=\"_blank\">The eastern Kentucky flood cleanup project is officially done, but debris and lawsuits remain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt donates $20K to Toys for Tots in honor of Mount Pleasant - WCBD News 2"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNvdW50b24yLmNvbS90b3lzLWZvci10b3RzL2FzaGJyaXR0LWRvbmF0ZXMtMjBrLXRvLXRveXMtZm9yLXRvdHMtaW4taG9ub3Itb2YtbW91bnQtcGxlYXNhbnQv0gFsaHR0cHM6Ly93d3cuY291bnRvbjIuY29tL3RveXMtZm9yLXRvdHMvYXNoYnJpdHQtZG9uYXRlcy0yMGstdG8tdG95cy1mb3ItdG90cy1pbi1ob25vci1vZi1tb3VudC1wbGVhc2FudC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LmNvdW50b24yLmNvbS90b3lzLWZvci10b3RzL2FzaGJyaXR0LWRvbmF0ZXMtMjBrLXRvLXRveXMtZm9yLXRvdHMtaW4taG9ub3Itb2YtbW91bnQtcGxlYXNhbnQv0gFsaHR0cHM6Ly93d3cuY291bnRvbjIuY29tL3RveXMtZm9yLXRvdHMvYXNoYnJpdHQtZG9uYXRlcy0yMGstdG8tdG95cy1mb3ItdG90cy1pbi1ob25vci1vZi1tb3VudC1wbGVhc2FudC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNvdW50b24yLmNvbS90b3lzLWZvci10b3RzL2FzaGJyaXR0LWRvbmF0ZXMtMjBrLXRvLXRveXMtZm9yLXRvdHMtaW4taG9ub3Itb2YtbW91bnQtcGxlYXNhbnQv0gFsaHR0cHM6Ly93d3cuY291bnRvbjIuY29tL3RveXMtZm9yLXRvdHMvYXNoYnJpdHQtZG9uYXRlcy0yMGstdG8tdG95cy1mb3ItdG90cy1pbi1ob25vci1vZi1tb3VudC1wbGVhc2FudC9hbXAv?oc=5\" target=\"_blank\">AshBritt donates $20K to Toys for Tots in honor of Mount Pleasant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCBD News 2</font>"
+            ],
+            "source": [
+              {
+                "_": "WCBD News 2",
+                "$": {
+                  "url": "https://www.counton2.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "An American Dream Story: Brittany Castillo, CEO Of Emergency Management And Logistics Contractor AshBritt - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3JvYmVydHJlaXNzLzIwMjIvMDYvMDIvYW4tYW1lcmljYW4tZHJlYW0tc3RvcnktYnJpdHRhbnktY2FzdGlsbG8tY2VvLW9mLWVtZXJnZW5jeS1tYW5hZ2VtZW50LWFuZC1sb2dpc3RpY3MtY29udHJhY3Rvci1hc2hicml0dC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3JvYmVydHJlaXNzLzIwMjIvMDYvMDIvYW4tYW1lcmljYW4tZHJlYW0tc3RvcnktYnJpdHRhbnktY2FzdGlsbG8tY2VvLW9mLWVtZXJnZW5jeS1tYW5hZ2VtZW50LWFuZC1sb2dpc3RpY3MtY29udHJhY3Rvci1hc2hicml0dC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 02 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3JvYmVydHJlaXNzLzIwMjIvMDYvMDIvYW4tYW1lcmljYW4tZHJlYW0tc3RvcnktYnJpdHRhbnktY2FzdGlsbG8tY2VvLW9mLWVtZXJnZW5jeS1tYW5hZ2VtZW50LWFuZC1sb2dpc3RpY3MtY29udHJhY3Rvci1hc2hicml0dC_SAQA?oc=5\" target=\"_blank\">An American Dream Story: Brittany Castillo, CEO Of Emergency Management And Logistics Contractor AshBritt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "6 Companies Secure Positions on $5B Army Power Stabilization Project in Puerto Rico - GovCon Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmdvdmNvbndpcmUuY29tLzIwMjMvMDkvNi1jb21wYW5pZXMtc2VjdXJlLXBvc2l0aW9ucy1vbi01Yi1hcm15LXBvd2VyLXN0YWJpbGl6YXRpb24tcHJvamVjdC1pbi1wdWVydG8tcmljby_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmdvdmNvbndpcmUuY29tLzIwMjMvMDkvNi1jb21wYW5pZXMtc2VjdXJlLXBvc2l0aW9ucy1vbi01Yi1hcm15LXBvd2VyLXN0YWJpbGl6YXRpb24tcHJvamVjdC1pbi1wdWVydG8tcmljby_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmdvdmNvbndpcmUuY29tLzIwMjMvMDkvNi1jb21wYW5pZXMtc2VjdXJlLXBvc2l0aW9ucy1vbi01Yi1hcm15LXBvd2VyLXN0YWJpbGl6YXRpb24tcHJvamVjdC1pbi1wdWVydG8tcmljby_SAQA?oc=5\" target=\"_blank\">6 Companies Secure Positions on $5B Army Power Stabilization Project in Puerto Rico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovCon Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "GovCon Wire",
+                "$": {
+                  "url": "https://www.govconwire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How a Hurricane Idalia cleanup crew helped solve a decades-old mystery - Tallahassee Democrat"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy50YWxsYWhhc3NlZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzEyLzEyL2h1cnJpY2FuZS1pZGFsaWEtY2xlYW51cC1jcmV3LXVud2l0dGluZ2x5LXNvbHZlZC1kZWNhZGVzLW9sZC1teXN0ZXJ5LzcxNzY1NTE2MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy50YWxsYWhhc3NlZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzEyLzEyL2h1cnJpY2FuZS1pZGFsaWEtY2xlYW51cC1jcmV3LXVud2l0dGluZ2x5LXNvbHZlZC1kZWNhZGVzLW9sZC1teXN0ZXJ5LzcxNzY1NTE2MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy50YWxsYWhhc3NlZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzEyLzEyL2h1cnJpY2FuZS1pZGFsaWEtY2xlYW51cC1jcmV3LXVud2l0dGluZ2x5LXNvbHZlZC1kZWNhZGVzLW9sZC1teXN0ZXJ5LzcxNzY1NTE2MDA3L9IBAA?oc=5\" target=\"_blank\">How a Hurricane Idalia cleanup crew helped solve a decades-old mystery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tallahassee Democrat</font>"
+            ],
+            "source": [
+              {
+                "_": "Tallahassee Democrat",
+                "$": {
+                  "url": "https://www.tallahassee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Arizona shipping container wall raises questions about state spending, oversight - Cronkite News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vY3JvbmtpdGVuZXdzLmF6cGJzLm9yZy8yMDIzLzA2LzE5L2FyaXpvbmEtc2hpcHBpbmctY29udGFpbmVyLXdhbGwtcmFpc2VzLXNwZW5kaW5nLW92ZXJzaWdodC1xdWVzdGlvbnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vY3JvbmtpdGVuZXdzLmF6cGJzLm9yZy8yMDIzLzA2LzE5L2FyaXpvbmEtc2hpcHBpbmctY29udGFpbmVyLXdhbGwtcmFpc2VzLXNwZW5kaW5nLW92ZXJzaWdodC1xdWVzdGlvbnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 19 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vY3JvbmtpdGVuZXdzLmF6cGJzLm9yZy8yMDIzLzA2LzE5L2FyaXpvbmEtc2hpcHBpbmctY29udGFpbmVyLXdhbGwtcmFpc2VzLXNwZW5kaW5nLW92ZXJzaWdodC1xdWVzdGlvbnMv0gEA?oc=5\" target=\"_blank\">Arizona shipping container wall raises questions about state spending, oversight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cronkite News</font>"
+            ],
+            "source": [
+              {
+                "_": "Cronkite News",
+                "$": {
+                  "url": "https://cronkitenews.azpbs.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Workers remove debris, boats from waterways in St. James City after Ian - News-Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5uZXdzLXByZXNzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjMvMDUvMDIvd29ya2Vycy1yZW1vdmUtZGVicmlzLWJvYXRzLWZyb20td2F0ZXJ3YXlzLWluLXN0LWphbWVzLWNpdHktYWZ0ZXItaWFuLzcwMTcxMzM3MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5uZXdzLXByZXNzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjMvMDUvMDIvd29ya2Vycy1yZW1vdmUtZGVicmlzLWJvYXRzLWZyb20td2F0ZXJ3YXlzLWluLXN0LWphbWVzLWNpdHktYWZ0ZXItaWFuLzcwMTcxMzM3MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5uZXdzLXByZXNzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjMvMDUvMDIvd29ya2Vycy1yZW1vdmUtZGVicmlzLWJvYXRzLWZyb20td2F0ZXJ3YXlzLWluLXN0LWphbWVzLWNpdHktYWZ0ZXItaWFuLzcwMTcxMzM3MDA3L9IBAA?oc=5\" target=\"_blank\">Workers remove debris, boats from waterways in St. James City after Ian</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Press</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Press",
+                "$": {
+                  "url": "https://www.news-press.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Six firms awarded spots on $5B Puerto Rico power project contract - newsismybusiness.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmV3c2lzbXlidXNpbmVzcy5jb20vc2l4LWZpcm1zLWF3YXJkZWQtc3BvdHMtb24tNWItcHVlcnRvLXJpY28tcG93ZXItcHJvamVjdC1jb250cmFjdC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vbmV3c2lzbXlidXNpbmVzcy5jb20vc2l4LWZpcm1zLWF3YXJkZWQtc3BvdHMtb24tNWItcHVlcnRvLXJpY28tcG93ZXItcHJvamVjdC1jb250cmFjdC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 02 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmV3c2lzbXlidXNpbmVzcy5jb20vc2l4LWZpcm1zLWF3YXJkZWQtc3BvdHMtb24tNWItcHVlcnRvLXJpY28tcG93ZXItcHJvamVjdC1jb250cmFjdC_SAQA?oc=5\" target=\"_blank\">Six firms awarded spots on $5B Puerto Rico power project contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsismybusiness.com</font>"
+            ],
+            "source": [
+              {
+                "_": "newsismybusiness.com",
+                "$": {
+                  "url": "https://newsismybusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt receives largest pre-positioned federal debris management contracts in history with recent awards from Dept ... - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FzaGJyaXR0LXJlY2VpdmVzLWxhcmdlc3QtcHJlLXBvc2l0aW9uZWQtZmVkZXJhbC1kZWJyaXMtbWFuYWdlbWVudC1jb250cmFjdHMtaW4taGlzdG9yeS13aXRoLXJlY2VudC1hd2FyZHMtZnJvbS1kZXB0LW9mLWRlZmVuc2UtMzAxNDIzMjM2Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FzaGJyaXR0LXJlY2VpdmVzLWxhcmdlc3QtcHJlLXBvc2l0aW9uZWQtZmVkZXJhbC1kZWJyaXMtbWFuYWdlbWVudC1jb250cmFjdHMtaW4taGlzdG9yeS13aXRoLXJlY2VudC1hd2FyZHMtZnJvbS1kZXB0LW9mLWRlZmVuc2UtMzAxNDIzMjM2Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Nov 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FzaGJyaXR0LXJlY2VpdmVzLWxhcmdlc3QtcHJlLXBvc2l0aW9uZWQtZmVkZXJhbC1kZWJyaXMtbWFuYWdlbWVudC1jb250cmFjdHMtaW4taGlzdG9yeS13aXRoLXJlY2VudC1hd2FyZHMtZnJvbS1kZXB0LW9mLWRlZmVuc2UtMzAxNDIzMjM2Lmh0bWzSAQA?oc=5\" target=\"_blank\">AshBritt receives largest pre-positioned federal debris management contracts in history with recent awards from Dept ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Personnel note: Brittany Perkins Castillo named to FEMA National Advisory Council - Florida Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NTE2MDgtcGVyc29ubmVsLW5vdGUtYnJpdHRhbnktcGVya2lucy1jYXN0aWxsby1uYW1lZC10by1mZW1hLW5hdGlvbmFsLWFkdmlzb3J5LWNvdW5jaWwv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NTE2MDgtcGVyc29ubmVsLW5vdGUtYnJpdHRhbnktcGVya2lucy1jYXN0aWxsby1uYW1lZC10by1mZW1hLW5hdGlvbmFsLWFkdmlzb3J5LWNvdW5jaWwv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NTE2MDgtcGVyc29ubmVsLW5vdGUtYnJpdHRhbnktcGVya2lucy1jYXN0aWxsby1uYW1lZC10by1mZW1hLW5hdGlvbmFsLWFkdmlzb3J5LWNvdW5jaWwv0gEA?oc=5\" target=\"_blank\">Personnel note: Brittany Perkins Castillo named to FEMA National Advisory Council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "Florida Politics",
+                "$": {
+                  "url": "https://floridapolitics.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Local crews launch operation to clear historic flood damage - WPLG Local 10"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmxvY2FsMTAuY29tL25ld3MvbG9jYWwvMjAyMy8wNC8yMS9sb2NhbC1jcmV3cy1sYXVuY2gtb3BlcmF0aW9uLXRvLWNsZWFyLWhpc3RvcmljLWZsb29kLWRhbWFnZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmxvY2FsMTAuY29tL25ld3MvbG9jYWwvMjAyMy8wNC8yMS9sb2NhbC1jcmV3cy1sYXVuY2gtb3BlcmF0aW9uLXRvLWNsZWFyLWhpc3RvcmljLWZsb29kLWRhbWFnZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 21 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmxvY2FsMTAuY29tL25ld3MvbG9jYWwvMjAyMy8wNC8yMS9sb2NhbC1jcmV3cy1sYXVuY2gtb3BlcmF0aW9uLXRvLWNsZWFyLWhpc3RvcmljLWZsb29kLWRhbWFnZS_SAQA?oc=5\" target=\"_blank\">Local crews launch operation to clear historic flood damage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPLG Local 10</font>"
+            ],
+            "source": [
+              {
+                "_": "WPLG Local 10",
+                "$": {
+                  "url": "https://www.local10.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky flood cleanup nets big payday for debris removal industry - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmxwbS5vcmcvaW52ZXN0aWdhdGUvMjAyMy0wNy0xOC9rZW50dWNreS1mbG9vZC1jbGVhbnVwLW5ldHMtYmlnLXBheWRheS1mb3ItZGVicmlzLXJlbW92YWwtaW5kdXN0cnnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmxwbS5vcmcvaW52ZXN0aWdhdGUvMjAyMy0wNy0xOC9rZW50dWNreS1mbG9vZC1jbGVhbnVwLW5ldHMtYmlnLXBheWRheS1mb3ItZGVicmlzLXJlbW92YWwtaW5kdXN0cnnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmxwbS5vcmcvaW52ZXN0aWdhdGUvMjAyMy0wNy0xOC9rZW50dWNreS1mbG9vZC1jbGVhbnVwLW5ldHMtYmlnLXBheWRheS1mb3ItZGVicmlzLXJlbW92YWwtaW5kdXN0cnnSAQA?oc=5\" target=\"_blank\">Kentucky flood cleanup nets big payday for debris removal industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fishermen join disaster response effort - News-Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5ld3MtcHJlc3MuY29tL3N0b3J5L29waW5pb24vMjAyMy8wNS8yMS9maXNoZXJtZW4tam9pbi1kaXNhc3Rlci1yZXNwb25zZS1lZmZvcnQvNzAyMjg0MTYwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3Lm5ld3MtcHJlc3MuY29tL3N0b3J5L29waW5pb24vMjAyMy8wNS8yMS9maXNoZXJtZW4tam9pbi1kaXNhc3Rlci1yZXNwb25zZS1lZmZvcnQvNzAyMjg0MTYwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 21 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5ld3MtcHJlc3MuY29tL3N0b3J5L29waW5pb24vMjAyMy8wNS8yMS9maXNoZXJtZW4tam9pbi1kaXNhc3Rlci1yZXNwb25zZS1lZmZvcnQvNzAyMjg0MTYwMDcv0gEA?oc=5\" target=\"_blank\">Fishermen join disaster response effort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Press</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Press",
+                "$": {
+                  "url": "https://www.news-press.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt Foundation Donates Sprinter Van to Support Save the Children's Flood Response in Eastern Kentucky - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDkyMDAwNTMyMi9lbi9Bc2hCcml0dC1Gb3VuZGF0aW9uLURvbmF0ZXMtU3ByaW50ZXItVmFuLXRvLVN1cHBvcnQtU2F2ZS10aGUtQ2hpbGRyZW4lRTIlODAlOTlzLUZsb29kLVJlc3BvbnNlLWluLUVhc3Rlcm4tS2VudHVja3nSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDkyMDAwNTMyMi9lbi9Bc2hCcml0dC1Gb3VuZGF0aW9uLURvbmF0ZXMtU3ByaW50ZXItVmFuLXRvLVN1cHBvcnQtU2F2ZS10aGUtQ2hpbGRyZW4lRTIlODAlOTlzLUZsb29kLVJlc3BvbnNlLWluLUVhc3Rlcm4tS2VudHVja3nSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 20 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDkyMDAwNTMyMi9lbi9Bc2hCcml0dC1Gb3VuZGF0aW9uLURvbmF0ZXMtU3ByaW50ZXItVmFuLXRvLVN1cHBvcnQtU2F2ZS10aGUtQ2hpbGRyZW4lRTIlODAlOTlzLUZsb29kLVJlc3BvbnNlLWluLUVhc3Rlcm4tS2VudHVja3nSAQA?oc=5\" target=\"_blank\">AshBritt Foundation Donates Sprinter Van to Support Save the Children's Flood Response in Eastern Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lobbying compensation: Ron Book and Co. once again post Top 10 report - Florida Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NDYyNzQtbG9iYnlpbmctY29tcGVuc2F0aW9uLXJvbi1ib29rLWFuZC1jby1vbmNlLWFnYWluLXBvc3QtdG9wLTEwLXJlcG9ydC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NDYyNzQtbG9iYnlpbmctY29tcGVuc2F0aW9uLXJvbi1ib29rLWFuZC1jby1vbmNlLWFnYWluLXBvc3QtdG9wLTEwLXJlcG9ydC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NDYyNzQtbG9iYnlpbmctY29tcGVuc2F0aW9uLXJvbi1ib29rLWFuZC1jby1vbmNlLWFnYWluLXBvc3QtdG9wLTEwLXJlcG9ydC_SAQA?oc=5\" target=\"_blank\">Lobbying compensation: Ron Book and Co. once again post Top 10 report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "Florida Politics",
+                "$": {
+                  "url": "https://floridapolitics.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "MONROE COUNTY COMMISSION AWARDS DEBRIS COLLECTION CONTRACT TO LAWSUIT OPPONENT ... - Florida Keys Weekly"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL2tleXN3ZWVrbHkuY29tLzQyL21vbnJvZS1jb3VudHktY29tbWlzc2lvbi1hd2FyZHMtZGVicmlzLWNvbGxlY3Rpb24tY29udHJhY3QtdG8tbGF3c3VpdC1vcHBvbmVudC1hZGRyZXNzZXMtZG93bnN0YWlycy1lbmNsb3N1cmUtY2FwL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL2tleXN3ZWVrbHkuY29tLzQyL21vbnJvZS1jb3VudHktY29tbWlzc2lvbi1hd2FyZHMtZGVicmlzLWNvbGxlY3Rpb24tY29udHJhY3QtdG8tbGF3c3VpdC1vcHBvbmVudC1hZGRyZXNzZXMtZG93bnN0YWlycy1lbmNsb3N1cmUtY2FwL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL2tleXN3ZWVrbHkuY29tLzQyL21vbnJvZS1jb3VudHktY29tbWlzc2lvbi1hd2FyZHMtZGVicmlzLWNvbGxlY3Rpb24tY29udHJhY3QtdG8tbGF3c3VpdC1vcHBvbmVudC1hZGRyZXNzZXMtZG93bnN0YWlycy1lbmNsb3N1cmUtY2FwL9IBAA?oc=5\" target=\"_blank\">MONROE COUNTY COMMISSION AWARDS DEBRIS COLLECTION CONTRACT TO LAWSUIT OPPONENT ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Keys Weekly</font>"
+            ],
+            "source": [
+              {
+                "_": "Florida Keys Weekly",
+                "$": {
+                  "url": "https://keysweekly.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Government Contractor Pays FEC $125,000 Penalty After Donating To Pro-Trump Super PAC - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3phY2hldmVyc29uLzIwMjEvMDgvMjQvZ292ZXJubWVudC1jb250cmFjdG9yLXBheXMtZmVjLS0xMjUwMDAtcGVuYWx0eS1hZnRlci1kb25hdGluZy10by1wcm8tdHJ1bXAtc3VwZXItcGFjL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3phY2hldmVyc29uLzIwMjEvMDgvMjQvZ292ZXJubWVudC1jb250cmFjdG9yLXBheXMtZmVjLS0xMjUwMDAtcGVuYWx0eS1hZnRlci1kb25hdGluZy10by1wcm8tdHJ1bXAtc3VwZXItcGFjL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3phY2hldmVyc29uLzIwMjEvMDgvMjQvZ292ZXJubWVudC1jb250cmFjdG9yLXBheXMtZmVjLS0xMjUwMDAtcGVuYWx0eS1hZnRlci1kb25hdGluZy10by1wcm8tdHJ1bXAtc3VwZXItcGFjL9IBAA?oc=5\" target=\"_blank\">Government Contractor Pays FEC $125,000 Penalty After Donating To Pro-Trump Super PAC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt Senior Vice President, Charles “Dow” Knight, Earns Promotion to Captain in the U.S. Navy Reserve - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDYyODAwNTI1OC9lbi9Bc2hCcml0dC1TZW5pb3ItVmljZS1QcmVzaWRlbnQtQ2hhcmxlcy0lRTIlODAlOUNEb3clRTIlODAlOUQtS25pZ2h0LUVhcm5zLVByb21vdGlvbi10by1DYXB0YWluLWluLXRoZS1VLlMuLU5hdnktUmVzZXJ2ZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMisAFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDYyODAwNTI1OC9lbi9Bc2hCcml0dC1TZW5pb3ItVmljZS1QcmVzaWRlbnQtQ2hhcmxlcy0lRTIlODAlOUNEb3clRTIlODAlOUQtS25pZ2h0LUVhcm5zLVByb21vdGlvbi10by1DYXB0YWluLWluLXRoZS1VLlMuLU5hdnktUmVzZXJ2ZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDYyODAwNTI1OC9lbi9Bc2hCcml0dC1TZW5pb3ItVmljZS1QcmVzaWRlbnQtQ2hhcmxlcy0lRTIlODAlOUNEb3clRTIlODAlOUQtS25pZ2h0LUVhcm5zLVByb21vdGlvbi10by1DYXB0YWluLWluLXRoZS1VLlMuLU5hdnktUmVzZXJ2ZdIBAA?oc=5\" target=\"_blank\">AshBritt Senior Vice President, Charles “Dow” Knight, Earns Promotion to Captain in the U.S. Navy Reserve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sara Perkins joins AshBritt as Vice President, Business Affairs - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjIwOTI3MDA1NDU4L2VuL1NhcmEtUGVya2lucy1qb2lucy1Bc2hCcml0dC1hcy1WaWNlLVByZXNpZGVudC1CdXNpbmVzcy1BZmZhaXJz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjIwOTI3MDA1NDU4L2VuL1NhcmEtUGVya2lucy1qb2lucy1Bc2hCcml0dC1hcy1WaWNlLVByZXNpZGVudC1CdXNpbmVzcy1BZmZhaXJz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 27 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjIwOTI3MDA1NDU4L2VuL1NhcmEtUGVya2lucy1qb2lucy1Bc2hCcml0dC1hcy1WaWNlLVByZXNpZGVudC1CdXNpbmVzcy1BZmZhaXJz0gEA?oc=5\" target=\"_blank\">Sara Perkins joins AshBritt as Vice President, Business Affairs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt Ranked 2nd Out of 100 for Top Women-Led Businesses at the 17th Annual Commonwealth Institute of Florida ... - Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2FzaGJyaXR0LXJhbmtlZC0ybmQtb3V0LW9mLTEwMC1mb3ItdG9wLXdvbWVuLWxlZC1idXNpbmVzc2VzLWF0LXRoZS0yMTc0MTcwOdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2FzaGJyaXR0LXJhbmtlZC0ybmQtb3V0LW9mLTEwMC1mb3ItdG9wLXdvbWVuLWxlZC1idXNpbmVzc2VzLWF0LXRoZS0yMTc0MTcwOdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2FzaGJyaXR0LXJhbmtlZC0ybmQtb3V0LW9mLTEwMC1mb3ItdG9wLXdvbWVuLWxlZC1idXNpbmVzc2VzLWF0LXRoZS0yMTc0MTcwOdIBAA?oc=5\" target=\"_blank\">AshBritt Ranked 2nd Out of 100 for Top Women-Led Businesses at the 17th Annual Commonwealth Institute of Florida ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "Newswire",
+                "$": {
+                  "url": "https://www.newswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Donalds turns out to aid in marine cleanup in St. James City - Cape Coral Breeze"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNhcGVjb3JhbGJyZWV6ZS5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDUvMDIvZG9uYWxkcy10dXJucy1vdXQtdG8taXNsYW5kLWRlYnJpcy1jbGVhbnVwL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmNhcGVjb3JhbGJyZWV6ZS5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDUvMDIvZG9uYWxkcy10dXJucy1vdXQtdG8taXNsYW5kLWRlYnJpcy1jbGVhbnVwL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNhcGVjb3JhbGJyZWV6ZS5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDUvMDIvZG9uYWxkcy10dXJucy1vdXQtdG8taXNsYW5kLWRlYnJpcy1jbGVhbnVwL9IBAA?oc=5\" target=\"_blank\">Donalds turns out to aid in marine cleanup in St. James City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cape Coral Breeze</font>"
+            ],
+            "source": [
+              {
+                "_": "Cape Coral Breeze",
+                "$": {
+                  "url": "https://www.capecoralbreeze.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tim Mooney joins AshBritt team as Director, AshBritt Foundation and Community Relations - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDgxMDAwNTEwMS9lbi9UaW0tTW9vbmV5LWpvaW5zLUFzaEJyaXR0LXRlYW0tYXMtRGlyZWN0b3ItQXNoQnJpdHQtRm91bmRhdGlvbi1hbmQtQ29tbXVuaXR5LVJlbGF0aW9uc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDgxMDAwNTEwMS9lbi9UaW0tTW9vbmV5LWpvaW5zLUFzaEJyaXR0LXRlYW0tYXMtRGlyZWN0b3ItQXNoQnJpdHQtRm91bmRhdGlvbi1hbmQtQ29tbXVuaXR5LVJlbGF0aW9uc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDgxMDAwNTEwMS9lbi9UaW0tTW9vbmV5LWpvaW5zLUFzaEJyaXR0LXRlYW0tYXMtRGlyZWN0b3ItQXNoQnJpdHQtRm91bmRhdGlvbi1hbmQtQ29tbXVuaXR5LVJlbGF0aW9uc9IBAA?oc=5\" target=\"_blank\">Tim Mooney joins AshBritt team as Director, AshBritt Foundation and Community Relations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt CEO Says It's Time to Get More Women into High-paying Jobs in the Field - For Construction Pros"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5mb3Jjb25zdHJ1Y3Rpb25wcm9zLmNvbS9idXNpbmVzcy9sYWJvci13b3JrZm9yY2UtZGV2ZWxvcG1lbnQvYXJ0aWNsZS8yMTM0MjM5Ny9hc2hicml0dC1jZW8tc2F5cy1pdHMtdGltZS10by1nZXQtbW9yZS13b21lbi1pbnRvLWhpZ2hwYXlpbmctam9icy1pbi10aGUtZmllbGTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqAFodHRwczovL3d3dy5mb3Jjb25zdHJ1Y3Rpb25wcm9zLmNvbS9idXNpbmVzcy9sYWJvci13b3JrZm9yY2UtZGV2ZWxvcG1lbnQvYXJ0aWNsZS8yMTM0MjM5Ny9hc2hicml0dC1jZW8tc2F5cy1pdHMtdGltZS10by1nZXQtbW9yZS13b21lbi1pbnRvLWhpZ2hwYXlpbmctam9icy1pbi10aGUtZmllbGTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Mar 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5mb3Jjb25zdHJ1Y3Rpb25wcm9zLmNvbS9idXNpbmVzcy9sYWJvci13b3JrZm9yY2UtZGV2ZWxvcG1lbnQvYXJ0aWNsZS8yMTM0MjM5Ny9hc2hicml0dC1jZW8tc2F5cy1pdHMtdGltZS10by1nZXQtbW9yZS13b21lbi1pbnRvLWhpZ2hwYXlpbmctam9icy1pbi10aGUtZmllbGTSAQA?oc=5\" target=\"_blank\">AshBritt CEO Says It's Time to Get More Women into High-paying Jobs in the Field</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">For Construction Pros</font>"
+            ],
+            "source": [
+              {
+                "_": "For Construction Pros",
+                "$": {
+                  "url": "https://www.forconstructionpros.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt Executive joins DeSantis Leadership Team - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvYXNoYnJpdHQtZXhlY3V0aXZlLWpvaW5zLWRlc2FudGlzLWxlYWRlcnNoaXAtdGVhbS0zMDA3Nzg2MTIuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvYXNoYnJpdHQtZXhlY3V0aXZlLWpvaW5zLWRlc2FudGlzLWxlYWRlcnNoaXAtdGVhbS0zMDA3Nzg2MTIuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 15 Jan 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvYXNoYnJpdHQtZXhlY3V0aXZlLWpvaW5zLWRlc2FudGlzLWxlYWRlcnNoaXAtdGVhbS0zMDA3Nzg2MTIuaHRtbNIBAA?oc=5\" target=\"_blank\">AshBritt Executive joins DeSantis Leadership Team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A federal suit is challenging Ducey's container wall. Protesters already shut construction down - Fronteras: The Changing America Desk"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vZnJvbnRlcmFzZGVzay5vcmcvY29udGVudC8xODMzNzMzL2ZlZGVyYWwtc3VpdC1jaGFsbGVuZ2luZy1kdWNleXMtY29udGFpbmVyLXdhbGwtcHJvdGVzdGVycy1hbHJlYWR5LXNodXQtY29uc3RydWN0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vZnJvbnRlcmFzZGVzay5vcmcvY29udGVudC8xODMzNzMzL2ZlZGVyYWwtc3VpdC1jaGFsbGVuZ2luZy1kdWNleXMtY29udGFpbmVyLXdhbGwtcHJvdGVzdGVycy1hbHJlYWR5LXNodXQtY29uc3RydWN0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 20 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vZnJvbnRlcmFzZGVzay5vcmcvY29udGVudC8xODMzNzMzL2ZlZGVyYWwtc3VpdC1jaGFsbGVuZ2luZy1kdWNleXMtY29udGFpbmVyLXdhbGwtcHJvdGVzdGVycy1hbHJlYWR5LXNodXQtY29uc3RydWN0aW9u0gEA?oc=5\" target=\"_blank\">A federal suit is challenging Ducey's container wall. Protesters already shut construction down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fronteras: The Changing America Desk</font>"
+            ],
+            "source": [
+              {
+                "_": "Fronteras: The Changing America Desk",
+                "$": {
+                  "url": "https://fronterasdesk.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt hits Arizona jackpot: no-bid contracts for border wall - Florida Bulldog"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZsb3JpZGFidWxsZG9nLm9yZy8yMDIzLzAxL2FzaGJyaXR0LWhpdHMtYXJpem9uYS1qYWNrcG90LW5vLWJpZC1jb250cmFjdHMtZm9yLWJvcmRlci13YWxsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmZsb3JpZGFidWxsZG9nLm9yZy8yMDIzLzAxL2FzaGJyaXR0LWhpdHMtYXJpem9uYS1qYWNrcG90LW5vLWJpZC1jb250cmFjdHMtZm9yLWJvcmRlci13YWxsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 14 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZsb3JpZGFidWxsZG9nLm9yZy8yMDIzLzAxL2FzaGJyaXR0LWhpdHMtYXJpem9uYS1qYWNrcG90LW5vLWJpZC1jb250cmFjdHMtZm9yLWJvcmRlci13YWxsL9IBAA?oc=5\" target=\"_blank\">AshBritt hits Arizona jackpot: no-bid contracts for border wall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Bulldog</font>"
+            ],
+            "source": [
+              {
+                "_": "Florida Bulldog",
+                "$": {
+                  "url": "https://www.floridabulldog.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt CEO Brittany Perkins Provides Key Insights on Emergency Disaster Recovery - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FzaGJyaXR0LWNlby1icml0dGFueS1wZXJraW5zLXByb3ZpZGVzLWtleS1pbnNpZ2h0cy1vbi1lbWVyZ2VuY3ktZGlzYXN0ZXItcmVjb3ZlcnktMzAwODE5Nzc5Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FzaGJyaXR0LWNlby1icml0dGFueS1wZXJraW5zLXByb3ZpZGVzLWtleS1pbnNpZ2h0cy1vbi1lbWVyZ2VuY3ktZGlzYXN0ZXItcmVjb3ZlcnktMzAwODE5Nzc5Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Mar 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FzaGJyaXR0LWNlby1icml0dGFueS1wZXJraW5zLXByb3ZpZGVzLWtleS1pbnNpZ2h0cy1vbi1lbWVyZ2VuY3ktZGlzYXN0ZXItcmVjb3ZlcnktMzAwODE5Nzc5Lmh0bWzSAQA?oc=5\" target=\"_blank\">AshBritt CEO Brittany Perkins Provides Key Insights on Emergency Disaster Recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Company cleans up Florida waterways after Hurricane Ian - Wink News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd2lua25ld3MuY29tLzIwMjMvMDUvMDIvY2xlYW5pbmctdXAtZGVicmlzLWZyb20tc3dmbC13YXRlcndheXMtYWZ0ZXItaHVycmljYW5lLWlhbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd2lua25ld3MuY29tLzIwMjMvMDUvMDIvY2xlYW5pbmctdXAtZGVicmlzLWZyb20tc3dmbC13YXRlcndheXMtYWZ0ZXItaHVycmljYW5lLWlhbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd2lua25ld3MuY29tLzIwMjMvMDUvMDIvY2xlYW5pbmctdXAtZGVicmlzLWZyb20tc3dmbC13YXRlcndheXMtYWZ0ZXItaHVycmljYW5lLWlhbi_SAQA?oc=5\" target=\"_blank\">Company cleans up Florida waterways after Hurricane Ian</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wink News</font>"
+            ],
+            "source": [
+              {
+                "_": "Wink News",
+                "$": {
+                  "url": "https://winknews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt's CEO Perkins Castillo Spearheads Women-Focused Initiatives - waste360"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy53YXN0ZTM2MC5jb20vaW5kdXN0cnktaW5zaWdodHMvYXNoYnJpdHQtcy1jZW8tYnJpdHRhbnktcGVya2lucy1jYXN0aWxsby1zcGVhcmhlYWRzLXdvbWVuLWZvY3VzZWQtaW5kdXN0cnktaW5pdGlhdGl2ZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy53YXN0ZTM2MC5jb20vaW5kdXN0cnktaW5zaWdodHMvYXNoYnJpdHQtcy1jZW8tYnJpdHRhbnktcGVya2lucy1jYXN0aWxsby1zcGVhcmhlYWRzLXdvbWVuLWZvY3VzZWQtaW5kdXN0cnktaW5pdGlhdGl2ZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Mar 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy53YXN0ZTM2MC5jb20vaW5kdXN0cnktaW5zaWdodHMvYXNoYnJpdHQtcy1jZW8tYnJpdHRhbnktcGVya2lucy1jYXN0aWxsby1zcGVhcmhlYWRzLXdvbWVuLWZvY3VzZWQtaW5kdXN0cnktaW5pdGlhdGl2ZXPSAQA?oc=5\" target=\"_blank\">AshBritt's CEO Perkins Castillo Spearheads Women-Focused Initiatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waste360</font>"
+            ],
+            "source": [
+              {
+                "_": "waste360",
+                "$": {
+                  "url": "https://www.waste360.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican attack ads blast Randy Perkins' company - TCPalm"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRjcGFsbS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAxNi8xMC8yNy9yYW5keS1wZXJraW5zLWNvbXBhbnktYXNoYnJpdHQvOTEyMTQ3NDQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LnRjcGFsbS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAxNi8xMC8yNy9yYW5keS1wZXJraW5zLWNvbXBhbnktYXNoYnJpdHQvOTEyMTQ3NDQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Oct 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRjcGFsbS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAxNi8xMC8yNy9yYW5keS1wZXJraW5zLWNvbXBhbnktYXNoYnJpdHQvOTEyMTQ3NDQv0gEA?oc=5\" target=\"_blank\">Republican attack ads blast Randy Perkins' company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TCPalm</font>"
+            ],
+            "source": [
+              {
+                "_": "TCPalm",
+                "$": {
+                  "url": "https://www.tcpalm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt under investigation - TCPalm"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy50Y3BhbG0uY29tL3N0b3J5L25ld3MvaW52ZXN0aWdhdGlvbnMvMjAxNy8xMC8wMy9hdHRvcm5leS1nZW5lcmFsLWludmVzdGlnYXRpbmctcmFuZHktcGVya2lucy1jb21wYW55LWFzaGJyaXR0LXByaWNlLWdvdWdpbmctYWxsZWdhdGlvbnMvNzI2NDc5MDAxL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMingFodHRwczovL3d3dy50Y3BhbG0uY29tL3N0b3J5L25ld3MvaW52ZXN0aWdhdGlvbnMvMjAxNy8xMC8wMy9hdHRvcm5leS1nZW5lcmFsLWludmVzdGlnYXRpbmctcmFuZHktcGVya2lucy1jb21wYW55LWFzaGJyaXR0LXByaWNlLWdvdWdpbmctYWxsZWdhdGlvbnMvNzI2NDc5MDAxL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Oct 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy50Y3BhbG0uY29tL3N0b3J5L25ld3MvaW52ZXN0aWdhdGlvbnMvMjAxNy8xMC8wMy9hdHRvcm5leS1nZW5lcmFsLWludmVzdGlnYXRpbmctcmFuZHktcGVya2lucy1jb21wYW55LWFzaGJyaXR0LXByaWNlLWdvdWdpbmctYWxsZWdhdGlvbnMvNzI2NDc5MDAxL9IBAA?oc=5\" target=\"_blank\">AshBritt under investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TCPalm</font>"
+            ],
+            "source": [
+              {
+                "_": "TCPalm",
+                "$": {
+                  "url": "https://www.tcpalm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "As complaints mount about fire clean-up, disaster contractor gives big money to California Dems - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL2NhbG1hdHRlcnMub3JnL3BvbGl0aWNzLzIwMTgvMTAvYXMtY29tcGxhaW50cy1tb3VudC1hYm91dC1maXJlLWNsZWFuLXVwLWRpc2FzdGVyLWNvbnRyYWN0b3ItZ2l2ZXMtYmlnLW1vbmV5LXRvLWNhbGlmb3JuaWEtZGVtcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL2NhbG1hdHRlcnMub3JnL3BvbGl0aWNzLzIwMTgvMTAvYXMtY29tcGxhaW50cy1tb3VudC1hYm91dC1maXJlLWNsZWFuLXVwLWRpc2FzdGVyLWNvbnRyYWN0b3ItZ2l2ZXMtYmlnLW1vbmV5LXRvLWNhbGlmb3JuaWEtZGVtcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL2NhbG1hdHRlcnMub3JnL3BvbGl0aWNzLzIwMTgvMTAvYXMtY29tcGxhaW50cy1tb3VudC1hYm91dC1maXJlLWNsZWFuLXVwLWRpc2FzdGVyLWNvbnRyYWN0b3ItZ2l2ZXMtYmlnLW1vbmV5LXRvLWNhbGlmb3JuaWEtZGVtcy_SAQA?oc=5\" target=\"_blank\">As complaints mount about fire clean-up, disaster contractor gives big money to California Dems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Local man joins AshBritt - The Suffolk News-Herald - Suffolk News-Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnN1ZmZvbGtuZXdzaGVyYWxkLmNvbS8yMDIxLzA1LzExL2xvY2FsLW1hbi1qb2lucy1hc2hicml0dC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3LnN1ZmZvbGtuZXdzaGVyYWxkLmNvbS8yMDIxLzA1LzExL2xvY2FsLW1hbi1qb2lucy1hc2hicml0dC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 May 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnN1ZmZvbGtuZXdzaGVyYWxkLmNvbS8yMDIxLzA1LzExL2xvY2FsLW1hbi1qb2lucy1hc2hicml0dC_SAQA?oc=5\" target=\"_blank\">Local man joins AshBritt - The Suffolk News-Herald</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Suffolk News-Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "Suffolk News-Herald",
+                "$": {
+                  "url": "https://www.suffolknewsherald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lauren's Kids, AshBritt celebrate completed renovations at child trauma center ravaged by Hurricane Michael - Florida Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy80MDM2NjQtbGF1cmVucy1raWRzLWFzaGJyaXR0LWNoaWxkLXRyYXVtYS1jZW50ZXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy80MDM2NjQtbGF1cmVucy1raWRzLWFzaGJyaXR0LWNoaWxkLXRyYXVtYS1jZW50ZXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 15 Feb 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy80MDM2NjQtbGF1cmVucy1raWRzLWFzaGJyaXR0LWNoaWxkLXRyYXVtYS1jZW50ZXIv0gEA?oc=5\" target=\"_blank\">Lauren's Kids, AshBritt celebrate completed renovations at child trauma center ravaged by Hurricane Michael</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "Florida Politics",
+                "$": {
+                  "url": "https://floridapolitics.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "ASHBRITT, INC. CLEARS IAN DEBRIS BEFORE KEY WEST'S BIG EVENTS - Florida Keys Weekly"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8va2V5c3dlZWtseS5jb20vNDIvYXNoYnJpdHQtaW5jLWNsZWFycy1pYW4tZGVicmlzLWJlZm9yZS1rZXktd2VzdHMtYmlnLWV2ZW50cy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8va2V5c3dlZWtseS5jb20vNDIvYXNoYnJpdHQtaW5jLWNsZWFycy1pYW4tZGVicmlzLWJlZm9yZS1rZXktd2VzdHMtYmlnLWV2ZW50cy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 06 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8va2V5c3dlZWtseS5jb20vNDIvYXNoYnJpdHQtaW5jLWNsZWFycy1pYW4tZGVicmlzLWJlZm9yZS1rZXktd2VzdHMtYmlnLWV2ZW50cy_SAQA?oc=5\" target=\"_blank\">ASHBRITT, INC. CLEARS IAN DEBRIS BEFORE KEY WEST'S BIG EVENTS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Keys Weekly</font>"
+            ],
+            "source": [
+              {
+                "_": "Florida Keys Weekly",
+                "$": {
+                  "url": "https://keysweekly.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Out-of-State Companies Battle for Hundreds of Millions of Dollars to Clean Up Oregon's Wildfires - Willamette Week"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy53d2Vlay5jb20vbmV3cy9zdGF0ZS8yMDIwLzExLzI1L291dC1vZi1zdGF0ZS1jb21wYW5pZXMtYmF0dGxlLWZvci1odW5kcmVkcy1vZi1taWxsaW9ucy1vZi1kb2xsYXJzLXRvLWNsZWFuLXVwLW9yZWdvbnMtd2lsZGZpcmVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy53d2Vlay5jb20vbmV3cy9zdGF0ZS8yMDIwLzExLzI1L291dC1vZi1zdGF0ZS1jb21wYW5pZXMtYmF0dGxlLWZvci1odW5kcmVkcy1vZi1taWxsaW9ucy1vZi1kb2xsYXJzLXRvLWNsZWFuLXVwLW9yZWdvbnMtd2lsZGZpcmVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 Nov 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy53d2Vlay5jb20vbmV3cy9zdGF0ZS8yMDIwLzExLzI1L291dC1vZi1zdGF0ZS1jb21wYW5pZXMtYmF0dGxlLWZvci1odW5kcmVkcy1vZi1taWxsaW9ucy1vZi1kb2xsYXJzLXRvLWNsZWFuLXVwLW9yZWdvbnMtd2lsZGZpcmVzL9IBAA?oc=5\" target=\"_blank\">Out-of-State Companies Battle for Hundreds of Millions of Dollars to Clean Up Oregon's Wildfires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Willamette Week</font>"
+            ],
+            "source": [
+              {
+                "_": "Willamette Week",
+                "$": {
+                  "url": "https://www.wweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lawsuit accuses AshBritt International, Tetra Tech of profiting from 2017 wildfires by removing too much soil during ... - North Bay Business Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5ub3J0aGJheWJ1c2luZXNzam91cm5hbC5jb20vYXJ0aWNsZS9pbmR1c3RyeS1uZXdzL2xhd3N1aXQtYWNjdXNlcy1hc2hicml0dC1pbnRlcm5hdGlvbmFsLXRldHJhLXRlY2gtb2YtcHJvZml0aW5nLWZyb20tMjAxNy13L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5ub3J0aGJheWJ1c2luZXNzam91cm5hbC5jb20vYXJ0aWNsZS9pbmR1c3RyeS1uZXdzL2xhd3N1aXQtYWNjdXNlcy1hc2hicml0dC1pbnRlcm5hdGlvbmFsLXRldHJhLXRlY2gtb2YtcHJvZml0aW5nLWZyb20tMjAxNy13L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Mar 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5ub3J0aGJheWJ1c2luZXNzam91cm5hbC5jb20vYXJ0aWNsZS9pbmR1c3RyeS1uZXdzL2xhd3N1aXQtYWNjdXNlcy1hc2hicml0dC1pbnRlcm5hdGlvbmFsLXRldHJhLXRlY2gtb2YtcHJvZml0aW5nLWZyb20tMjAxNy13L9IBAA?oc=5\" target=\"_blank\">Lawsuit accuses AshBritt International, Tetra Tech of profiting from 2017 wildfires by removing too much soil during ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North Bay Business Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "North Bay Business Journal",
+                "$": {
+                  "url": "https://www.northbaybusinessjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US Sues Arizona for Gov. Doug Ducey’s Shipping Containers Border Wall - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTIvMTkvdXMvYXJpem9uYS1ib3JkZXItc2hpcHBpbmctY29udGFpbmVycy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTIvMTkvdXMvYXJpem9uYS1ib3JkZXItc2hpcHBpbmctY29udGFpbmVycy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 19 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTIvMTkvdXMvYXJpem9uYS1ib3JkZXItc2hpcHBpbmctY29udGFpbmVycy5odG1s0gEA?oc=5\" target=\"_blank\">US Sues Arizona for Gov. Doug Ducey’s Shipping Containers Border Wall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cleaning Up: Inside the Wildfire Debris Removal Job That Cost Taxpayers $1.3 Billion - KQED"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE2ODEyODAvY2xlYW5pbmctdXAtaW5zaWRlLXRoZS13aWxkZmlyZS1kZWJyaXMtcmVtb3ZhbC1qb2ItdGhhdC1jb3N0LXRheHBheWVycy0xLTMtYmlsbGlvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE2ODEyODAvY2xlYW5pbmctdXAtaW5zaWRlLXRoZS13aWxkZmlyZS1kZWJyaXMtcmVtb3ZhbC1qb2ItdGhhdC1jb3N0LXRheHBheWVycy0xLTMtYmlsbGlvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 Jul 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE2ODEyODAvY2xlYW5pbmctdXAtaW5zaWRlLXRoZS13aWxkZmlyZS1kZWJyaXMtcmVtb3ZhbC1qb2ItdGhhdC1jb3N0LXRheHBheWVycy0xLTMtYmlsbGlvbtIBAA?oc=5\" target=\"_blank\">Cleaning Up: Inside the Wildfire Debris Removal Job That Cost Taxpayers $1.3 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>"
+            ],
+            "source": [
+              {
+                "_": "KQED",
+                "$": {
+                  "url": "https://www.kqed.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Pro-Trump Super PAC at the Center of the Ukraine Scandal Has Faced Multiple Campaign Finance Complaints - ProPublica"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5wcm9wdWJsaWNhLm9yZy9hcnRpY2xlL3RoZS1wcm8tdHJ1bXAtc3VwZXItcGFjLWF0LXRoZS1jZW50ZXItb2YtdGhlLXVrcmFpbmUtc2NhbmRhbC1oYXMtZmFjZWQtbXVsdGlwbGUtY2FtcGFpZ24tZmluYW5jZS1jb21wbGFpbnRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL3d3dy5wcm9wdWJsaWNhLm9yZy9hcnRpY2xlL3RoZS1wcm8tdHJ1bXAtc3VwZXItcGFjLWF0LXRoZS1jZW50ZXItb2YtdGhlLXVrcmFpbmUtc2NhbmRhbC1oYXMtZmFjZWQtbXVsdGlwbGUtY2FtcGFpZ24tZmluYW5jZS1jb21wbGFpbnRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 18 Oct 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5wcm9wdWJsaWNhLm9yZy9hcnRpY2xlL3RoZS1wcm8tdHJ1bXAtc3VwZXItcGFjLWF0LXRoZS1jZW50ZXItb2YtdGhlLXVrcmFpbmUtc2NhbmRhbC1oYXMtZmFjZWQtbXVsdGlwbGUtY2FtcGFpZ24tZmluYW5jZS1jb21wbGFpbnRz0gEA?oc=5\" target=\"_blank\">The Pro-Trump Super PAC at the Center of the Ukraine Scandal Has Faced Multiple Campaign Finance Complaints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ProPublica</font>"
+            ],
+            "source": [
+              {
+                "_": "ProPublica",
+                "$": {
+                  "url": "https://www.propublica.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Escambia's Hurricane Sally debris collections cost increases by $20 million - Pensacola News Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5wbmouY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMC8xMi8xMC9lc2NhbWJpYXMtaHVycmljYW5lLXNhbGx5LWRlYnJpcy1jb2xsZWN0aW9ucy1jb3N0LWluY3JlYXNlcy0yMC1taWxsaW9uLzM4NjgwMzIwMDEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5wbmouY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMC8xMi8xMC9lc2NhbWJpYXMtaHVycmljYW5lLXNhbGx5LWRlYnJpcy1jb2xsZWN0aW9ucy1jb3N0LWluY3JlYXNlcy0yMC1taWxsaW9uLzM4NjgwMzIwMDEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Dec 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5wbmouY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMC8xMi8xMC9lc2NhbWJpYXMtaHVycmljYW5lLXNhbGx5LWRlYnJpcy1jb2xsZWN0aW9ucy1jb3N0LWluY3JlYXNlcy0yMC1taWxsaW9uLzM4NjgwMzIwMDEv0gEA?oc=5\" target=\"_blank\">Escambia's Hurricane Sally debris collections cost increases by $20 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pensacola News Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Pensacola News Journal",
+                "$": {
+                  "url": "https://www.pnj.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AshBritt CEO Perkins' company buys oceanfront Delray Beach mansion - South Florida Business Journal - The Business Journals"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zb3V0aGZsb3JpZGEvbmV3cy8yMDE1LzA1LzAxL2FzaGJyaXR0LWNlby1wZXJraW5zLWNvbXBhbnktYnV5cy1vY2VhbmZyb250Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zb3V0aGZsb3JpZGEvbmV3cy8yMDE1LzA1LzAxL2FzaGJyaXR0LWNlby1wZXJraW5zLWNvbXBhbnktYnV5cy1vY2VhbmZyb250Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 May 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zb3V0aGZsb3JpZGEvbmV3cy8yMDE1LzA1LzAxL2FzaGJyaXR0LWNlby1wZXJraW5zLWNvbXBhbnktYnV5cy1vY2VhbmZyb250Lmh0bWzSAQA?oc=5\" target=\"_blank\">AshBritt CEO Perkins' company buys oceanfront Delray Beach mansion - South Florida Business Journal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>"
+            ],
+            "source": [
+              {
+                "_": "The Business Journals",
+                "$": {
+                  "url": "https://www.bizjournals.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The stench from Gov. Doug Ducey's $200 million border stunt is growing - The Arizona Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L29waW5pb24vb3AtZWQvbGF1cmllcm9iZXJ0cy8yMDIzLzAxLzEwL3RoZS1zdGVuY2gtZnJvbS1nb3YtZG91Zy1kdWNleXMtMjAwLW1pbGxpb24tYm9yZGVyLXN0dW50LWlzLWdyb3dpbmcvNjk3OTU1MDIwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilwFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L29waW5pb24vb3AtZWQvbGF1cmllcm9iZXJ0cy8yMDIzLzAxLzEwL3RoZS1zdGVuY2gtZnJvbS1nb3YtZG91Zy1kdWNleXMtMjAwLW1pbGxpb24tYm9yZGVyLXN0dW50LWlzLWdyb3dpbmcvNjk3OTU1MDIwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 10 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L29waW5pb24vb3AtZWQvbGF1cmllcm9iZXJ0cy8yMDIzLzAxLzEwL3RoZS1zdGVuY2gtZnJvbS1nb3YtZG91Zy1kdWNleXMtMjAwLW1pbGxpb24tYm9yZGVyLXN0dW50LWlzLWdyb3dpbmcvNjk3OTU1MDIwMDcv0gEA?oc=5\" target=\"_blank\">The stench from Gov. Doug Ducey's $200 million border stunt is growing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Arizona Republic",
+                "$": {
+                  "url": "https://www.azcentral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Firm of Randal Perkins of AshBritt Environmental sells Delray Beach home - South Florida Business Journal - The Business Journals"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zb3V0aGZsb3JpZGEvbmV3cy8yMDIxLzA3LzEzL2RlbHJheS1iZWFjaC1ob21lLWZsaXBwZWQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zb3V0aGZsb3JpZGEvbmV3cy8yMDIxLzA3LzEzL2RlbHJheS1iZWFjaC1ob21lLWZsaXBwZWQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Jul 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zb3V0aGZsb3JpZGEvbmV3cy8yMDIxLzA3LzEzL2RlbHJheS1iZWFjaC1ob21lLWZsaXBwZWQuaHRtbNIBAA?oc=5\" target=\"_blank\">Firm of Randal Perkins of AshBritt Environmental sells Delray Beach home - South Florida Business Journal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>"
+            ],
+            "source": [
+              {
+                "_": "The Business Journals",
+                "$": {
+                  "url": "https://www.bizjournals.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Quogue Capital affiliate sells Delray Beach home to AshBritt affiliate - South Florida Business Journal - The Business Journals"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zb3V0aGZsb3JpZGEvbmV3cy8yMDIxLzExLzEwL29jZWFuZnJvbnQtbWFuc2lvbi1pbi1kZWxyYXktYmVhY2gtc29sZC1mb3ItMThtLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zb3V0aGZsb3JpZGEvbmV3cy8yMDIxLzExLzEwL29jZWFuZnJvbnQtbWFuc2lvbi1pbi1kZWxyYXktYmVhY2gtc29sZC1mb3ItMThtLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 Nov 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zb3V0aGZsb3JpZGEvbmV3cy8yMDIxLzExLzEwL29jZWFuZnJvbnQtbWFuc2lvbi1pbi1kZWxyYXktYmVhY2gtc29sZC1mb3ItMThtLmh0bWzSAQA?oc=5\" target=\"_blank\">Quogue Capital affiliate sells Delray Beach home to AshBritt affiliate - South Florida Business Journal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>"
+            ],
+            "source": [
+              {
+                "_": "The Business Journals",
+                "$": {
+                  "url": "https://www.bizjournals.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cleanup firm's claim to speed Sandy funds proves false - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDEzLzAyLzI4L25ldy1qZXJzZXktY29tcGFueS1mZW1hLXJlaW1idXJzZW1lbnQvMTk1Mzg2NS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDEzLzAyLzI4L25ldy1qZXJzZXktY29tcGFueS1mZW1hLXJlaW1idXJzZW1lbnQvMTk1Mzg2NS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Feb 2013 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDEzLzAyLzI4L25ldy1qZXJzZXktY29tcGFueS1mZW1hLXJlaW1idXJzZW1lbnQvMTk1Mzg2NS_SAQA?oc=5\" target=\"_blank\">Cleanup firm's claim to speed Sandy funds proves false</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lauren’s Kids and AshBritt reveal New Gulf Coast Children’s Advocacy Center Therapy Building - WJHG"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LndqaGcuY29tLzIwMjEvMDIvMTMvbGF1cmVucy1raWRzLWFuZC1hc2hicml0dC1yZXZlYWwtbmV3LWd1bGYtY29hc3QtY2hpbGRyZW5zLWFkdm9jYWN5LWNlbnRlci10aGVyYXB5LWJ1aWxkaW5nL9IBigFodHRwczovL3d3dy53amhnLmNvbS8yMDIxLzAyLzEzL2xhdXJlbnMta2lkcy1hbmQtYXNoYnJpdHQtcmV2ZWFsLW5ldy1ndWxmLWNvYXN0LWNoaWxkcmVucy1hZHZvY2FjeS1jZW50ZXItdGhlcmFweS1idWlsZGluZy8_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LndqaGcuY29tLzIwMjEvMDIvMTMvbGF1cmVucy1raWRzLWFuZC1hc2hicml0dC1yZXZlYWwtbmV3LWd1bGYtY29hc3QtY2hpbGRyZW5zLWFkdm9jYWN5LWNlbnRlci10aGVyYXB5LWJ1aWxkaW5nL9IBigFodHRwczovL3d3dy53amhnLmNvbS8yMDIxLzAyLzEzL2xhdXJlbnMta2lkcy1hbmQtYXNoYnJpdHQtcmV2ZWFsLW5ldy1ndWxmLWNvYXN0LWNoaWxkcmVucy1hZHZvY2FjeS1jZW50ZXItdGhlcmFweS1idWlsZGluZy8_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Feb 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LndqaGcuY29tLzIwMjEvMDIvMTMvbGF1cmVucy1raWRzLWFuZC1hc2hicml0dC1yZXZlYWwtbmV3LWd1bGYtY29hc3QtY2hpbGRyZW5zLWFkdm9jYWN5LWNlbnRlci10aGVyYXB5LWJ1aWxkaW5nL9IBigFodHRwczovL3d3dy53amhnLmNvbS8yMDIxLzAyLzEzL2xhdXJlbnMta2lkcy1hbmQtYXNoYnJpdHQtcmV2ZWFsLW5ldy1ndWxmLWNvYXN0LWNoaWxkcmVucy1hZHZvY2FjeS1jZW50ZXItdGhlcmFweS1idWlsZGluZy8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Lauren’s Kids and AshBritt reveal New Gulf Coast Children’s Advocacy Center Therapy Building</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJHG</font>"
+            ],
+            "source": [
+              {
+                "_": "WJHG",
+                "$": {
+                  "url": "https://www.wjhg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WTFC receives video interpreter machine - The Suffolk News-Herald - Suffolk News-Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnN1ZmZvbGtuZXdzaGVyYWxkLmNvbS8yMDIxLzA2LzEwL3d0ZmMtcmVjZWl2ZXMtdmlkZW8taW50ZXJwcmV0ZXItbWFjaGluZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3LnN1ZmZvbGtuZXdzaGVyYWxkLmNvbS8yMDIxLzA2LzEwL3d0ZmMtcmVjZWl2ZXMtdmlkZW8taW50ZXJwcmV0ZXItbWFjaGluZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnN1ZmZvbGtuZXdzaGVyYWxkLmNvbS8yMDIxLzA2LzEwL3d0ZmMtcmVjZWl2ZXMtdmlkZW8taW50ZXJwcmV0ZXItbWFjaGluZS_SAQA?oc=5\" target=\"_blank\">WTFC receives video interpreter machine - The Suffolk News-Herald</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Suffolk News-Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "Suffolk News-Herald",
+                "$": {
+                  "url": "https://www.suffolknewsherald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Shipping container border wall removal begins in Cochise County - KGUN 9 Tucson News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmtndW45LmNvbS9uZXdzL2xvY2FsLW5ld3Mvc2hpcHBpbmctY29udGFpbmVyLWJvcmRlci13YWxsLXJlbW92YWwtYmVnaW5zLWluLWNvY2hpc2UtY291bnR50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmtndW45LmNvbS9uZXdzL2xvY2FsLW5ld3Mvc2hpcHBpbmctY29udGFpbmVyLWJvcmRlci13YWxsLXJlbW92YWwtYmVnaW5zLWluLWNvY2hpc2UtY291bnR50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmtndW45LmNvbS9uZXdzL2xvY2FsLW5ld3Mvc2hpcHBpbmctY29udGFpbmVyLWJvcmRlci13YWxsLXJlbW92YWwtYmVnaW5zLWluLWNvY2hpc2UtY291bnR50gEA?oc=5\" target=\"_blank\">Shipping container border wall removal begins in Cochise County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGUN 9 Tucson News</font>"
+            ],
+            "source": [
+              {
+                "_": "KGUN 9 Tucson News",
+                "$": {
+                  "url": "https://www.kgun9.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Debris contractor ditches Volusia County, cities - Daytona Beach News-Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L25ld3MvbG9jYWwvdm9sdXNpYS8yMDE3LzA5LzI0L2RlYnJpcy1jb250cmFjdG9yLWRpdGNoZXMtdm9sdXNpYS1jb3VudHktY2l0aWVzLzE4NzM4NTYyMDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L25ld3MvbG9jYWwvdm9sdXNpYS8yMDE3LzA5LzI0L2RlYnJpcy1jb250cmFjdG9yLWRpdGNoZXMtdm9sdXNpYS1jb3VudHktY2l0aWVzLzE4NzM4NTYyMDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 24 Sep 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L25ld3MvbG9jYWwvdm9sdXNpYS8yMDE3LzA5LzI0L2RlYnJpcy1jb250cmFjdG9yLWRpdGNoZXMtdm9sdXNpYS1jb3VudHktY2l0aWVzLzE4NzM4NTYyMDA3L9IBAA?oc=5\" target=\"_blank\">Debris contractor ditches Volusia County, cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Daytona Beach News-Journal",
+                "$": {
+                  "url": "https://www.news-journalonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Allegations against debris haulers after October 2017 fires dismissed in federal court - The Santa Rosa Press Democrat"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnByZXNzZGVtb2NyYXQuY29tL2FydGljbGUvbmV3cy9hbGxlZ2F0aW9ucy1hZ2FpbnN0LWRlYnJpcy1oYXVsZXJzLWFmdGVyLW9jdG9iZXItMjAxNy1maXJlcy1kaXNtaXNzZWQtaW4tZmUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LnByZXNzZGVtb2NyYXQuY29tL2FydGljbGUvbmV3cy9hbGxlZ2F0aW9ucy1hZ2FpbnN0LWRlYnJpcy1oYXVsZXJzLWFmdGVyLW9jdG9iZXItMjAxNy1maXJlcy1kaXNtaXNzZWQtaW4tZmUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 26 Oct 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnByZXNzZGVtb2NyYXQuY29tL2FydGljbGUvbmV3cy9hbGxlZ2F0aW9ucy1hZ2FpbnN0LWRlYnJpcy1oYXVsZXJzLWFmdGVyLW9jdG9iZXItMjAxNy1maXJlcy1kaXNtaXNzZWQtaW4tZmUv0gEA?oc=5\" target=\"_blank\">Allegations against debris haulers after October 2017 fires dismissed in federal court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Santa Rosa Press Democrat</font>"
+            ],
+            "source": [
+              {
+                "_": "The Santa Rosa Press Democrat",
+                "$": {
+                  "url": "https://www.pressdemocrat.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "County, cities join in debris pickup - The Record Newspapers - TheRecordLive.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRoZXJlY29yZGxpdmUuY29tL3N0b3J5LzIwMTcvMDkvMjIvbmV3cy9jb3VudHktY2l0aWVzLWpvaW4taW4tZGVicmlzLXBpY2t1cC8yNjA0MS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3LnRoZXJlY29yZGxpdmUuY29tL3N0b3J5LzIwMTcvMDkvMjIvbmV3cy9jb3VudHktY2l0aWVzLWpvaW4taW4tZGVicmlzLXBpY2t1cC8yNjA0MS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Sep 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRoZXJlY29yZGxpdmUuY29tL3N0b3J5LzIwMTcvMDkvMjIvbmV3cy9jb3VudHktY2l0aWVzLWpvaW4taW4tZGVicmlzLXBpY2t1cC8yNjA0MS5odG1s0gEA?oc=5\" target=\"_blank\">County, cities join in debris pickup - The Record Newspapers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheRecordLive.com</font>"
+            ],
+            "source": [
+              {
+                "_": "TheRecordLive.com",
+                "$": {
+                  "url": "https://www.therecordlive.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "State Probes Shore Town's No-Bid Sandy Cleanup Contract - NBC 10 Philadelphia"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vbmV3cy9sb2NhbC9zdGF0ZS1wcm9iZXMtYmVsbWFyLXNhbmR5LWNsZWFudXAtY29udHJhY3QvMjEwNTMxNC_SAWRodHRwczovL3d3dy5uYmNwaGlsYWRlbHBoaWEuY29tL25ld3MvbG9jYWwvc3RhdGUtcHJvYmVzLWJlbG1hci1zYW5keS1jbGVhbnVwLWNvbnRyYWN0LzIxMDUzMTQvP2FtcD0x?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vbmV3cy9sb2NhbC9zdGF0ZS1wcm9iZXMtYmVsbWFyLXNhbmR5LWNsZWFudXAtY29udHJhY3QvMjEwNTMxNC_SAWRodHRwczovL3d3dy5uYmNwaGlsYWRlbHBoaWEuY29tL25ld3MvbG9jYWwvc3RhdGUtcHJvYmVzLWJlbG1hci1zYW5keS1jbGVhbnVwLWNvbnRyYWN0LzIxMDUzMTQvP2FtcD0x",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 10 Sep 2013 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vbmV3cy9sb2NhbC9zdGF0ZS1wcm9iZXMtYmVsbWFyLXNhbmR5LWNsZWFudXAtY29udHJhY3QvMjEwNTMxNC_SAWRodHRwczovL3d3dy5uYmNwaGlsYWRlbHBoaWEuY29tL25ld3MvbG9jYWwvc3RhdGUtcHJvYmVzLWJlbG1hci1zYW5keS1jbGVhbnVwLWNvbnRyYWN0LzIxMDUzMTQvP2FtcD0x?oc=5\" target=\"_blank\">State Probes Shore Town's No-Bid Sandy Cleanup Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC 10 Philadelphia</font>"
+            ],
+            "source": [
+              {
+                "_": "NBC 10 Philadelphia",
+                "$": {
+                  "url": "https://www.nbcphiladelphia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Federal Contractors Made Illegal Pro-Trump Super PAC Contributions, Complaint Says - Roll Call "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMTgvMDgvMDEvZmVkZXJhbC1jb250cmFjdG9ycy1tYWRlLWlsbGVnYWwtcHJvLXRydW1wLXN1cGVyLXBhYy1jb250cmlidXRpb25zLWNvbXBsYWludC1zYXlzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMTgvMDgvMDEvZmVkZXJhbC1jb250cmFjdG9ycy1tYWRlLWlsbGVnYWwtcHJvLXRydW1wLXN1cGVyLXBhYy1jb250cmlidXRpb25zLWNvbXBsYWludC1zYXlzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 01 Aug 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMTgvMDgvMDEvZmVkZXJhbC1jb250cmFjdG9ycy1tYWRlLWlsbGVnYWwtcHJvLXRydW1wLXN1cGVyLXBhYy1jb250cmlidXRpb25zLWNvbXBsYWludC1zYXlzL9IBAA?oc=5\" target=\"_blank\">Federal Contractors Made Illegal Pro-Trump Super PAC Contributions, Complaint Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roll Call </font>"
+            ],
+            "source": [
+              {
+                "_": "Roll Call ",
+                "$": {
+                  "url": "https://rollcall.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lawsuit accuses AshBritt International, Tetra Tech of profiting from 2017 wildfires by removing too much soil during ... - Sonoma Index-Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnNvbm9tYW5ld3MuY29tL2FydGljbGUvbmV3cy9sYXdzdWl0LWFjY3VzZXMtYXNoYnJpdHQtaW50ZXJuYXRpb25hbC10ZXRyYS10ZWNoLW9mLXByb2ZpdGluZy1mcm9tLTIwMTctdy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LnNvbm9tYW5ld3MuY29tL2FydGljbGUvbmV3cy9sYXdzdWl0LWFjY3VzZXMtYXNoYnJpdHQtaW50ZXJuYXRpb25hbC10ZXRyYS10ZWNoLW9mLXByb2ZpdGluZy1mcm9tLTIwMTctdy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Mar 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnNvbm9tYW5ld3MuY29tL2FydGljbGUvbmV3cy9sYXdzdWl0LWFjY3VzZXMtYXNoYnJpdHQtaW50ZXJuYXRpb25hbC10ZXRyYS10ZWNoLW9mLXByb2ZpdGluZy1mcm9tLTIwMTctdy_SAQA?oc=5\" target=\"_blank\">Lawsuit accuses AshBritt International, Tetra Tech of profiting from 2017 wildfires by removing too much soil during ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sonoma Index-Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Sonoma Index-Tribune",
+                "$": {
+                  "url": "https://www.sonomanews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Debris clean-up may not be done until Thanksgiving - Tallahassee Democrat"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRhbGxhaGFzc2VlLmNvbS9zdG9yeS9uZXdzLzIwMTgvMTAvMjIvaHVycmljYW5lLW1pY2hhZWwtZGVicmlzLWNsZWFuLXVwLW1heS1ub3QtZG9uZS11bnRpbC10aGFua3NnaXZpbmcvMTcyNzY1OTAwMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3LnRhbGxhaGFzc2VlLmNvbS9zdG9yeS9uZXdzLzIwMTgvMTAvMjIvaHVycmljYW5lLW1pY2hhZWwtZGVicmlzLWNsZWFuLXVwLW1heS1ub3QtZG9uZS11bnRpbC10aGFua3NnaXZpbmcvMTcyNzY1OTAwMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRhbGxhaGFzc2VlLmNvbS9zdG9yeS9uZXdzLzIwMTgvMTAvMjIvaHVycmljYW5lLW1pY2hhZWwtZGVicmlzLWNsZWFuLXVwLW1heS1ub3QtZG9uZS11bnRpbC10aGFua3NnaXZpbmcvMTcyNzY1OTAwMi_SAQA?oc=5\" target=\"_blank\">Debris clean-up may not be done until Thanksgiving</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tallahassee Democrat</font>"
+            ],
+            "source": [
+              {
+                "_": "Tallahassee Democrat",
+                "$": {
+                  "url": "https://www.tallahassee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hurricane Irma: Debris remover promises more trucks for Collier County - Naples Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5hcGxlc25ld3MuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAxNy8xMC8xMC9kZWJyaXMtcmVtb3Zlci1wcm9taXNlcy1tb3JlLXRydWNrcy1jb2xsaWVyLWNvdW50eS83NDk4NTYwMDEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3Lm5hcGxlc25ld3MuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAxNy8xMC8xMC9kZWJyaXMtcmVtb3Zlci1wcm9taXNlcy1tb3JlLXRydWNrcy1jb2xsaWVyLWNvdW50eS83NDk4NTYwMDEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 10 Oct 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5hcGxlc25ld3MuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAxNy8xMC8xMC9kZWJyaXMtcmVtb3Zlci1wcm9taXNlcy1tb3JlLXRydWNrcy1jb2xsaWVyLWNvdW50eS83NDk4NTYwMDEv0gEA?oc=5\" target=\"_blank\">Hurricane Irma: Debris remover promises more trucks for Collier County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Naples Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "Naples Daily News",
+                "$": {
+                  "url": "https://www.naplesnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Will California pay too much for Camp Fire cleanup? Why didn’t it choose lowest bidder? - Sacramento Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbGF0ZXN0LW5ld3MvYXJ0aWNsZTIyNTM2NzI0MC5odG1s0gE4aHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9sYXRlc3QtbmV3cy9hcnRpY2xlMjI1MzY3MjQwLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOGh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbGF0ZXN0LW5ld3MvYXJ0aWNsZTIyNTM2NzI0MC5odG1s0gE4aHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9sYXRlc3QtbmV3cy9hcnRpY2xlMjI1MzY3MjQwLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 02 Feb 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbGF0ZXN0LW5ld3MvYXJ0aWNsZTIyNTM2NzI0MC5odG1s0gE4aHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9sYXRlc3QtbmV3cy9hcnRpY2xlMjI1MzY3MjQwLmh0bWw?oc=5\" target=\"_blank\">Will California pay too much for Camp Fire cleanup? Why didn’t it choose lowest bidder?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Sacramento Bee",
+                "$": {
+                  "url": "https://www.sacbee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hurricane Ian debris removal at record pace in Collier County - Naples Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5uYXBsZXNuZXdzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjIvMTEvMDIvY29sbGllci1jb3VudHktZGVicmlzLXJlbW92YWwtaHVycmljYW5lLWlhbi1mbG9yaWRhLXJlY29yZC1wYWNlLzEwNjUwODQ3MDAyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5uYXBsZXNuZXdzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjIvMTEvMDIvY29sbGllci1jb3VudHktZGVicmlzLXJlbW92YWwtaHVycmljYW5lLWlhbi1mbG9yaWRhLXJlY29yZC1wYWNlLzEwNjUwODQ3MDAyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5uYXBsZXNuZXdzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjIvMTEvMDIvY29sbGllci1jb3VudHktZGVicmlzLXJlbW92YWwtaHVycmljYW5lLWlhbi1mbG9yaWRhLXJlY29yZC1wYWNlLzEwNjUwODQ3MDAyL9IBAA?oc=5\" target=\"_blank\">Hurricane Ian debris removal at record pace in Collier County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Naples Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "Naples Daily News",
+                "$": {
+                  "url": "https://www.naplesnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Florida's Emergency Management Director is stepping down, DeSantis says - FOX 13 Tampa"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmZveDEzbmV3cy5jb20vbmV3cy9mbG9yaWRhcy1lbWVyZ2VuY3ktbWFuYWdlbWVudC1kaXJlY3Rvci1pcy1zdGVwcGluZy1kb3duLWRlc2FudGlzLXNheXPSAWhodHRwczovL3d3dy5mb3gxM25ld3MuY29tL25ld3MvZmxvcmlkYXMtZW1lcmdlbmN5LW1hbmFnZW1lbnQtZGlyZWN0b3ItaXMtc3RlcHBpbmctZG93bi1kZXNhbnRpcy1zYXlzLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LmZveDEzbmV3cy5jb20vbmV3cy9mbG9yaWRhcy1lbWVyZ2VuY3ktbWFuYWdlbWVudC1kaXJlY3Rvci1pcy1zdGVwcGluZy1kb3duLWRlc2FudGlzLXNheXPSAWhodHRwczovL3d3dy5mb3gxM25ld3MuY29tL25ld3MvZmxvcmlkYXMtZW1lcmdlbmN5LW1hbmFnZW1lbnQtZGlyZWN0b3ItaXMtc3RlcHBpbmctZG93bi1kZXNhbnRpcy1zYXlzLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 15 Feb 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmZveDEzbmV3cy5jb20vbmV3cy9mbG9yaWRhcy1lbWVyZ2VuY3ktbWFuYWdlbWVudC1kaXJlY3Rvci1pcy1zdGVwcGluZy1kb3duLWRlc2FudGlzLXNheXPSAWhodHRwczovL3d3dy5mb3gxM25ld3MuY29tL25ld3MvZmxvcmlkYXMtZW1lcmdlbmN5LW1hbmFnZW1lbnQtZGlyZWN0b3ItaXMtc3RlcHBpbmctZG93bi1kZXNhbnRpcy1zYXlzLmFtcA?oc=5\" target=\"_blank\">Florida's Emergency Management Director is stepping down, DeSantis says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 Tampa</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX 13 Tampa",
+                "$": {
+                  "url": "https://www.fox13news.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Leaked DCCC Memo Offers Window into Committee's Candidate Research - Roll Call "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMTYvMDgvMTQvbGVha2VkLWRjY2MtbWVtby1vZmZlcnMtd2luZG93LWludG8tY29tbWl0dGVlcy1jYW5kaWRhdGUtcmVzZWFyY2gv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMTYvMDgvMTQvbGVha2VkLWRjY2MtbWVtby1vZmZlcnMtd2luZG93LWludG8tY29tbWl0dGVlcy1jYW5kaWRhdGUtcmVzZWFyY2gv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 14 Aug 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMTYvMDgvMTQvbGVha2VkLWRjY2MtbWVtby1vZmZlcnMtd2luZG93LWludG8tY29tbWl0dGVlcy1jYW5kaWRhdGUtcmVzZWFyY2gv0gEA?oc=5\" target=\"_blank\">Leaked DCCC Memo Offers Window into Committee's Candidate Research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roll Call </font>"
+            ],
+            "source": [
+              {
+                "_": "Roll Call ",
+                "$": {
+                  "url": "https://rollcall.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democratic self-funder preps U.S. House run in Florida - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9zdG9yeS8yMDE1LzA3L2RlbW9jcmF0aWMtc2VsZi1mdW5kZXItcHJlcHMtZmwtMTgtcnVuLTEyMDM0M9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9zdG9yeS8yMDE1LzA3L2RlbW9jcmF0aWMtc2VsZi1mdW5kZXItcHJlcHMtZmwtMTgtcnVuLTEyMDM0M9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Jul 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9zdG9yeS8yMDE1LzA3L2RlbW9jcmF0aWMtc2VsZi1mdW5kZXItcHJlcHMtZmwtMTgtcnVuLTEyMDM0M9IBAA?oc=5\" target=\"_blank\">Democratic self-funder preps U.S. House run in Florida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Western Massachusetts communities deal with cleanup costs in wake of October snowstorm - MassLive.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9uZXdzLzIwMTEvMTIvd2VzdGVybl9tYXNzYWNodXNldHRzX2NvbW11bml0XzQxLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9uZXdzLzIwMTEvMTIvd2VzdGVybl9tYXNzYWNodXNldHRzX2NvbW11bml0XzQxLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 27 Dec 2011 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9uZXdzLzIwMTEvMTIvd2VzdGVybl9tYXNzYWNodXNldHRzX2NvbW11bml0XzQxLmh0bWzSAQA?oc=5\" target=\"_blank\">Western Massachusetts communities deal with cleanup costs in wake of October snowstorm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MassLive.com</font>"
+            ],
+            "source": [
+              {
+                "_": "MassLive.com",
+                "$": {
+                  "url": "https://www.masslive.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "With Irma debris gone, counties, cities grapple with financial fallout - Naples Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5hcGxlc25ld3MuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAxOC8wOS8xMS9pcm1hLWRlYnJpcy1nb25lLWNvdW50aWVzLWNpdGllcy1ncmFwcGxlLWZpbmFuY2lhbC1mYWxsb3V0LzExNDM5MDEwMDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3Lm5hcGxlc25ld3MuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAxOC8wOS8xMS9pcm1hLWRlYnJpcy1nb25lLWNvdW50aWVzLWNpdGllcy1ncmFwcGxlLWZpbmFuY2lhbC1mYWxsb3V0LzExNDM5MDEwMDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Sep 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5hcGxlc25ld3MuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAxOC8wOS8xMS9pcm1hLWRlYnJpcy1nb25lLWNvdW50aWVzLWNpdGllcy1ncmFwcGxlLWZpbmFuY2lhbC1mYWxsb3V0LzExNDM5MDEwMDIv0gEA?oc=5\" target=\"_blank\">With Irma debris gone, counties, cities grapple with financial fallout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Naples Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "Naples Daily News",
+                "$": {
+                  "url": "https://www.naplesnews.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

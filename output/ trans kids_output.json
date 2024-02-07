@@ -1,0 +1,2828 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\" trans kids\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=+trans+kids&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Gender-Affirming Care Access Laws Affect 38% of Trans Youth - PatientEngagementHIT.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vcGF0aWVudGVuZ2FnZW1lbnRoaXQuY29tL25ld3MvZ2VuZGVyLWFmZmlybWluZy1jYXJlLWFjY2Vzcy1sYXdzLWFmZmVjdC0zOC1vZi10cmFucy15b3V0aNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vcGF0aWVudGVuZ2FnZW1lbnRoaXQuY29tL25ld3MvZ2VuZGVyLWFmZmlybWluZy1jYXJlLWFjY2Vzcy1sYXdzLWFmZmVjdC0zOC1vZi10cmFucy15b3V0aNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 12:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vcGF0aWVudGVuZ2FnZW1lbnRoaXQuY29tL25ld3MvZ2VuZGVyLWFmZmlybWluZy1jYXJlLWFjY2Vzcy1sYXdzLWFmZmVjdC0zOC1vZi10cmFucy15b3V0aNIBAA?oc=5\" target=\"_blank\">Gender-Affirming Care Access Laws Affect 38% of Trans Youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PatientEngagementHIT.com</font>"
+            ],
+            "source": [
+              {
+                "_": "PatientEngagementHIT.com",
+                "$": {
+                  "url": "https://patientengagementhit.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Helping Parents and Trans Kids Translate, Traverse and Grow to Understand Each Other - The Good Men Project"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL2dvb2RtZW5wcm9qZWN0LmNvbS9mZWF0dXJlZC1jb250ZW50L2hlbHBpbmctcGFyZW50cy1hbmQtdHJhbnMta2lkcy10cmFuc2xhdGUtdHJhdmVyc2UtYW5kLWdyb3ctdG8tdW5kZXJzdGFuZC1lYWNoLW90aGVyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL2dvb2RtZW5wcm9qZWN0LmNvbS9mZWF0dXJlZC1jb250ZW50L2hlbHBpbmctcGFyZW50cy1hbmQtdHJhbnMta2lkcy10cmFuc2xhdGUtdHJhdmVyc2UtYW5kLWdyb3ctdG8tdW5kZXJzdGFuZC1lYWNoLW90aGVyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:35:42 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL2dvb2RtZW5wcm9qZWN0LmNvbS9mZWF0dXJlZC1jb250ZW50L2hlbHBpbmctcGFyZW50cy1hbmQtdHJhbnMta2lkcy10cmFuc2xhdGUtdHJhdmVyc2UtYW5kLWdyb3ctdG8tdW5kZXJzdGFuZC1lYWNoLW90aGVyL9IBAA?oc=5\" target=\"_blank\">Helping Parents and Trans Kids Translate, Traverse and Grow to Understand Each Other</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Good Men Project</font>"
+            ],
+            "source": [
+              {
+                "_": "The Good Men Project",
+                "$": {
+                  "url": "https://goodmenproject.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | As Kids, They Thought They Were Trans. They No Longer Do. - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDIvb3Bpbmlvbi90cmFuc2dlbmRlci1jaGlsZHJlbi1nZW5kZXItZHlzcGhvcmlhLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDIvb3Bpbmlvbi90cmFuc2dlbmRlci1jaGlsZHJlbi1nZW5kZXItZHlzcGhvcmlhLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 10:02:48 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDIvb3Bpbmlvbi90cmFuc2dlbmRlci1jaGlsZHJlbi1nZW5kZXItZHlzcGhvcmlhLmh0bWzSAQA?oc=5\" target=\"_blank\">Opinion | As Kids, They Thought They Were Trans. They No Longer Do.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Danielle Smith unveils sweeping changes to Alberta's student gender identity, sports and surgery policies - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5jYmMuY2EvbmV3cy9jYW5hZGEvZWRtb250b24vZGFuaWVsbGUtc21pdGgtdW52ZWlscy1zd2VlcGluZy1jaGFuZ2VzLXRvLWFsYmVydGEtcy1zdHVkZW50LWdlbmRlci1pZGVudGl0eS1zcG9ydHMtYW5kLXN1cmdlcnktcG9saWNpZXMtMS43MTAxMDUz0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDEwNTM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimgFodHRwczovL3d3dy5jYmMuY2EvbmV3cy9jYW5hZGEvZWRtb250b24vZGFuaWVsbGUtc21pdGgtdW52ZWlscy1zd2VlcGluZy1jaGFuZ2VzLXRvLWFsYmVydGEtcy1zdHVkZW50LWdlbmRlci1pZGVudGl0eS1zcG9ydHMtYW5kLXN1cmdlcnktcG9saWNpZXMtMS43MTAxMDUz0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDEwNTM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 23:13:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5jYmMuY2EvbmV3cy9jYW5hZGEvZWRtb250b24vZGFuaWVsbGUtc21pdGgtdW52ZWlscy1zd2VlcGluZy1jaGFuZ2VzLXRvLWFsYmVydGEtcy1zdHVkZW50LWdlbmRlci1pZGVudGl0eS1zcG9ydHMtYW5kLXN1cmdlcnktcG9saWNpZXMtMS43MTAxMDUz0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDEwNTM?oc=5\" target=\"_blank\">Danielle Smith unveils sweeping changes to Alberta's student gender identity, sports and surgery policies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta's new policies are not only anti-trans, they are anti-evidence - The Conversation Indonesia"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9hbGJlcnRhcy1uZXctcG9saWNpZXMtYXJlLW5vdC1vbmx5LWFudGktdHJhbnMtdGhleS1hcmUtYW50aS1ldmlkZW5jZS0yMjI1NznSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9hbGJlcnRhcy1uZXctcG9saWNpZXMtYXJlLW5vdC1vbmx5LWFudGktdHJhbnMtdGhleS1hcmUtYW50aS1ldmlkZW5jZS0yMjI1NznSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 18:51:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9hbGJlcnRhcy1uZXctcG9saWNpZXMtYXJlLW5vdC1vbmx5LWFudGktdHJhbnMtdGhleS1hcmUtYW50aS1ldmlkZW5jZS0yMjI1NznSAQA?oc=5\" target=\"_blank\">Alberta's new policies are not only anti-trans, they are anti-evidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation Indonesia</font>"
+            ],
+            "source": [
+              {
+                "_": "The Conversation Indonesia",
+                "$": {
+                  "url": "https://theconversation.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Danielle Smith believes Alberta UCP policies on trans youth are ‘supportive’ - Global News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2Mzg4L2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcGFyZW50YWwtcmlnaHRzLXRyYW5zZ2VuZGVyLWtpZHMtcG9saWN5L9IBZ2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2Mzg4L2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcGFyZW50YWwtcmlnaHRzLXRyYW5zZ2VuZGVyLWtpZHMtcG9saWN5L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2Mzg4L2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcGFyZW50YWwtcmlnaHRzLXRyYW5zZ2VuZGVyLWtpZHMtcG9saWN5L9IBZ2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2Mzg4L2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcGFyZW50YWwtcmlnaHRzLXRyYW5zZ2VuZGVyLWtpZHMtcG9saWN5L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 22:09:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2Mzg4L2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcGFyZW50YWwtcmlnaHRzLXRyYW5zZ2VuZGVyLWtpZHMtcG9saWN5L9IBZ2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2Mzg4L2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcGFyZW50YWwtcmlnaHRzLXRyYW5zZ2VuZGVyLWtpZHMtcG9saWN5L2FtcC8?oc=5\" target=\"_blank\">Danielle Smith believes Alberta UCP policies on trans youth are ‘supportive’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
+            ],
+            "source": [
+              {
+                "_": "Global News",
+                "$": {
+                  "url": "https://globalnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans Reveal Their Endgame in the Fight Over Trans Kids - The New Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vbmV3cmVwdWJsaWMuY29tL2FydGljbGUvMTc4NTc2L3JlcHVibGljYW5zLXJldmVhbC1lbmQtZ2FtZS1maWdodC10cmFucy1raWRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vbmV3cmVwdWJsaWMuY29tL2FydGljbGUvMTc4NTc2L3JlcHVibGljYW5zLXJldmVhbC1lbmQtZ2FtZS1maWdodC10cmFucy1raWRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 11:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vbmV3cmVwdWJsaWMuY29tL2FydGljbGUvMTc4NTc2L3JlcHVibGljYW5zLXJldmVhbC1lbmQtZ2FtZS1maWdodC10cmFucy1raWRz0gEA?oc=5\" target=\"_blank\">Republicans Reveal Their Endgame in the Fight Over Trans Kids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The New Republic",
+                "$": {
+                  "url": "https://newrepublic.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Danielle Smith bids to transcend politics with Canada's toughest trans youth rules - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9jYWxnYXJ5L3RyYW5zLXlvdXRoLXJlc3RyaWN0aW9ucy1jYW5hZGFzLXRvdWdoZXN0LWRhbmllbGxlLXNtaXRoLXBvbGl0aWNpemVkLWFuYWx5c2lzLTEuNzEwMjU5MNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTAyNTkw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9jYWxnYXJ5L3RyYW5zLXlvdXRoLXJlc3RyaWN0aW9ucy1jYW5hZGFzLXRvdWdoZXN0LWRhbmllbGxlLXNtaXRoLXBvbGl0aWNpemVkLWFuYWx5c2lzLTEuNzEwMjU5MNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTAyNTkw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 09:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9jYWxnYXJ5L3RyYW5zLXlvdXRoLXJlc3RyaWN0aW9ucy1jYW5hZGFzLXRvdWdoZXN0LWRhbmllbGxlLXNtaXRoLXBvbGl0aWNpemVkLWFuYWx5c2lzLTEuNzEwMjU5MNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTAyNTkw?oc=5\" target=\"_blank\">Danielle Smith bids to transcend politics with Canada's toughest trans youth rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Texas asks Georgia clinic for transgender youths’ records - The Texas Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wMS8yNi90ZXhhcy1hdHRvcm5leS1nZW5lcmFsLXRyYW5zLWRvY3VtZW50cy1nZW9yZ2lhLWtlbi1wYXh0b24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wMS8yNi90ZXhhcy1hdHRvcm5leS1nZW5lcmFsLXRyYW5zLWRvY3VtZW50cy1nZW9yZ2lhLWtlbi1wYXh0b24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wMS8yNi90ZXhhcy1hdHRvcm5leS1nZW5lcmFsLXRyYW5zLWRvY3VtZW50cy1nZW9yZ2lhLWtlbi1wYXh0b24v0gEA?oc=5\" target=\"_blank\">Texas asks Georgia clinic for transgender youths’ records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Texas Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "The Texas Tribune",
+                "$": {
+                  "url": "https://www.texastribune.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UK Parliament hosts first all-trans panel on trans children in school - PinkNews"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnRoZXBpbmtuZXdzLmNvbS8yMDI0LzAyLzA3L3VrLWdvdmVybm1lbnQtdHJhbnMtZ3VpZGFuY2Uv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3LnRoZXBpbmtuZXdzLmNvbS8yMDI0LzAyLzA3L3VrLWdvdmVybm1lbnQtdHJhbnMtZ3VpZGFuY2Uv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 00:36:20 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnRoZXBpbmtuZXdzLmNvbS8yMDI0LzAyLzA3L3VrLWdvdmVybm1lbnQtdHJhbnMtZ3VpZGFuY2Uv0gEA?oc=5\" target=\"_blank\">UK Parliament hosts first all-trans panel on trans children in school</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PinkNews</font>"
+            ],
+            "source": [
+              {
+                "_": "PinkNews",
+                "$": {
+                  "url": "https://www.thepinknews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "“No trans children feels safe” says Thunder Alliance GSA member - Town and Country TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRvd25hbmRjb3VudHJ5dG9kYXkuY29tL3dlc3Rsb2NrLW5ld3Mvbm8tdHJhbnMtY2hpbGRyZW4tZmVlbHMtc2FmZS1zYXlzLXRodW5kZXItYWxsaWFuY2UtZ3NhLW1lbWJlci04MTk4MjA00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LnRvd25hbmRjb3VudHJ5dG9kYXkuY29tL3dlc3Rsb2NrLW5ld3Mvbm8tdHJhbnMtY2hpbGRyZW4tZmVlbHMtc2FmZS1zYXlzLXRodW5kZXItYWxsaWFuY2UtZ3NhLW1lbWJlci04MTk4MjA00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 16:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRvd25hbmRjb3VudHJ5dG9kYXkuY29tL3dlc3Rsb2NrLW5ld3Mvbm8tdHJhbnMtY2hpbGRyZW4tZmVlbHMtc2FmZS1zYXlzLXRodW5kZXItYWxsaWFuY2UtZ3NhLW1lbWJlci04MTk4MjA00gEA?oc=5\" target=\"_blank\">“No trans children feels safe” says Thunder Alliance GSA member</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Town and Country TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "Town and Country TODAY",
+                "$": {
+                  "url": "https://www.townandcountrytoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "An appeal to parents of trans kids: Accept them, give best of education - Times of India"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvbmFncHVyL2FuLWFwcGVhbC10by1wYXJlbnRzLW9mLXRyYW5zLWtpZHMtYWNjZXB0LXRoZW0vYXJ0aWNsZXNob3cvMTA1Nzk2OTExLmNtc9IBfGh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvbmFncHVyL2FuLWFwcGVhbC10by1wYXJlbnRzLW9mLXRyYW5zLWtpZHMtYWNjZXB0LXRoZW0vYW1wX2FydGljbGVzaG93LzEwNTc5NjkxMS5jbXM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvbmFncHVyL2FuLWFwcGVhbC10by1wYXJlbnRzLW9mLXRyYW5zLWtpZHMtYWNjZXB0LXRoZW0vYXJ0aWNsZXNob3cvMTA1Nzk2OTExLmNtc9IBfGh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvbmFncHVyL2FuLWFwcGVhbC10by1wYXJlbnRzLW9mLXRyYW5zLWtpZHMtYWNjZXB0LXRoZW0vYW1wX2FydGljbGVzaG93LzEwNTc5NjkxMS5jbXM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvbmFncHVyL2FuLWFwcGVhbC10by1wYXJlbnRzLW9mLXRyYW5zLWtpZHMtYWNjZXB0LXRoZW0vYXJ0aWNsZXNob3cvMTA1Nzk2OTExLmNtc9IBfGh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvbmFncHVyL2FuLWFwcGVhbC10by1wYXJlbnRzLW9mLXRyYW5zLWtpZHMtYWNjZXB0LXRoZW0vYW1wX2FydGljbGVzaG93LzEwNTc5NjkxMS5jbXM?oc=5\" target=\"_blank\">An appeal to parents of trans kids: Accept them, give best of education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>"
+            ],
+            "source": [
+              {
+                "_": "Times of India",
+                "$": {
+                  "url": "https://timesofindia.indiatimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta transgender restrictions draw more fire from Edmonton 2SLGBTQIA+ leaders - Edmonton Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9uZXdzL3BvbGl0aWNzL2FsYmVydGEtdHJhbnNnZW5kZXItcmVzdHJpY3Rpb25zLWRyYXctbW9yZS1maXJlLWZyb20tZWRtb250b24tMnNsZ2J0cWlhLWxlYWRlcnPSAacBaHR0cHM6Ly9lZG1vbnRvbmpvdXJuYWwuY29tL25ld3MvcG9saXRpY3MvYWxiZXJ0YS10cmFuc2dlbmRlci1yZXN0cmljdGlvbnMtZHJhdy1tb3JlLWZpcmUtZnJvbS1lZG1vbnRvbi0yc2xnYnRxaWEtbGVhZGVycy93Y20vZTUzMzhjMDktMTY4Ny00MWE0LWE2NTUtYzdlNzg5YjBiNWJhL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9uZXdzL3BvbGl0aWNzL2FsYmVydGEtdHJhbnNnZW5kZXItcmVzdHJpY3Rpb25zLWRyYXctbW9yZS1maXJlLWZyb20tZWRtb250b24tMnNsZ2J0cWlhLWxlYWRlcnPSAacBaHR0cHM6Ly9lZG1vbnRvbmpvdXJuYWwuY29tL25ld3MvcG9saXRpY3MvYWxiZXJ0YS10cmFuc2dlbmRlci1yZXN0cmljdGlvbnMtZHJhdy1tb3JlLWZpcmUtZnJvbS1lZG1vbnRvbi0yc2xnYnRxaWEtbGVhZGVycy93Y20vZTUzMzhjMDktMTY4Ny00MWE0LWE2NTUtYzdlNzg5YjBiNWJhL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:56:58 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9uZXdzL3BvbGl0aWNzL2FsYmVydGEtdHJhbnNnZW5kZXItcmVzdHJpY3Rpb25zLWRyYXctbW9yZS1maXJlLWZyb20tZWRtb250b24tMnNsZ2J0cWlhLWxlYWRlcnPSAacBaHR0cHM6Ly9lZG1vbnRvbmpvdXJuYWwuY29tL25ld3MvcG9saXRpY3MvYWxiZXJ0YS10cmFuc2dlbmRlci1yZXN0cmljdGlvbnMtZHJhdy1tb3JlLWZpcmUtZnJvbS1lZG1vbnRvbi0yc2xnYnRxaWEtbGVhZGVycy93Y20vZTUzMzhjMDktMTY4Ny00MWE0LWE2NTUtYzdlNzg5YjBiNWJhL2FtcC8?oc=5\" target=\"_blank\">Alberta transgender restrictions draw more fire from Edmonton 2SLGBTQIA+ leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Edmonton Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Edmonton Journal",
+                "$": {
+                  "url": "https://edmontonjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alice Cooper slams gender-affirming care for trans kids, calls it 'fad' - Hindustan Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9tdXNpYy9hbGljZS1jb29wZXItc2xhbXMtZ2VuZGVyLWFmZmlybWluZy1jYXJlLWZvci10cmFucy1raWRzLWNhbGxzLWl0LWZhZC0xMDE2OTI4OTQyNjcwMDIuaHRtbNIBkAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9tdXNpYy9hbGljZS1jb29wZXItc2xhbXMtZ2VuZGVyLWFmZmlybWluZy1jYXJlLWZvci10cmFucy1raWRzLWNhbGxzLWl0LWZhZC0xMDE2OTI4OTQyNjcwMDItYW1wLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9tdXNpYy9hbGljZS1jb29wZXItc2xhbXMtZ2VuZGVyLWFmZmlybWluZy1jYXJlLWZvci10cmFucy1raWRzLWNhbGxzLWl0LWZhZC0xMDE2OTI4OTQyNjcwMDIuaHRtbNIBkAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9tdXNpYy9hbGljZS1jb29wZXItc2xhbXMtZ2VuZGVyLWFmZmlybWluZy1jYXJlLWZvci10cmFucy1raWRzLWNhbGxzLWl0LWZhZC0xMDE2OTI4OTQyNjcwMDItYW1wLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 24 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9tdXNpYy9hbGljZS1jb29wZXItc2xhbXMtZ2VuZGVyLWFmZmlybWluZy1jYXJlLWZvci10cmFucy1raWRzLWNhbGxzLWl0LWZhZC0xMDE2OTI4OTQyNjcwMDIuaHRtbNIBkAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9tdXNpYy9hbGljZS1jb29wZXItc2xhbXMtZ2VuZGVyLWFmZmlybWluZy1jYXJlLWZvci10cmFucy1raWRzLWNhbGxzLWl0LWZhZC0xMDE2OTI4OTQyNjcwMDItYW1wLmh0bWw?oc=5\" target=\"_blank\">Alice Cooper slams gender-affirming care for trans kids, calls it 'fad'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Hindustan Times",
+                "$": {
+                  "url": "https://www.hindustantimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | The Complexities of Transgender Care for Kids - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDIvb3Bpbmlvbi90cmFuc2dlbmRlci1jYXJlLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDIvb3Bpbmlvbi90cmFuc2dlbmRlci1jYXJlLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 13:01:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDIvb3Bpbmlvbi90cmFuc2dlbmRlci1jYXJlLmh0bWzSAQA?oc=5\" target=\"_blank\">Opinion | The Complexities of Transgender Care for Kids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta premier says there’s ‘evolving discussion’ on pronouns, trans kids - Global News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MzY0L2RhbmllbGxlLXNtaXRoLWFsYmVydGEtdHJhbnMtcG9saWNpZXMv0gFOaHR0cHM6Ly9nbG9iYWxuZXdzLmNhL25ld3MvMTAyNjkzNjQvZGFuaWVsbGUtc21pdGgtYWxiZXJ0YS10cmFucy1wb2xpY2llcy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MzY0L2RhbmllbGxlLXNtaXRoLWFsYmVydGEtdHJhbnMtcG9saWNpZXMv0gFOaHR0cHM6Ly9nbG9iYWxuZXdzLmNhL25ld3MvMTAyNjkzNjQvZGFuaWVsbGUtc21pdGgtYWxiZXJ0YS10cmFucy1wb2xpY2llcy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 16:30:54 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MzY0L2RhbmllbGxlLXNtaXRoLWFsYmVydGEtdHJhbnMtcG9saWNpZXMv0gFOaHR0cHM6Ly9nbG9iYWxuZXdzLmNhL25ld3MvMTAyNjkzNjQvZGFuaWVsbGUtc21pdGgtYWxiZXJ0YS10cmFucy1wb2xpY2llcy9hbXAv?oc=5\" target=\"_blank\">Alberta premier says there’s ‘evolving discussion’ on pronouns, trans kids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
+            ],
+            "source": [
+              {
+                "_": "Global News",
+                "$": {
+                  "url": "https://globalnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Stop pretending that trans persecution is helping kids – New Hampshire Bulletin - New Hampshire Bulletin"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmV3aGFtcHNoaXJlYnVsbGV0aW4uY29tLzIwMjQvMDIvMDIvc3RvcC1wcmV0ZW5kaW5nLXRoYXQtdHJhbnMtcGVyc2VjdXRpb24taXMtaGVscGluZy1raWRzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vbmV3aGFtcHNoaXJlYnVsbGV0aW4uY29tLzIwMjQvMDIvMDIvc3RvcC1wcmV0ZW5kaW5nLXRoYXQtdHJhbnMtcGVyc2VjdXRpb24taXMtaGVscGluZy1raWRzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 10:00:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmV3aGFtcHNoaXJlYnVsbGV0aW4uY29tLzIwMjQvMDIvMDIvc3RvcC1wcmV0ZW5kaW5nLXRoYXQtdHJhbnMtcGVyc2VjdXRpb24taXMtaGVscGluZy1raWRzL9IBAA?oc=5\" target=\"_blank\">Stop pretending that trans persecution is helping kids – New Hampshire Bulletin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Hampshire Bulletin</font>"
+            ],
+            "source": [
+              {
+                "_": "New Hampshire Bulletin",
+                "$": {
+                  "url": "https://newhampshirebulletin.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Danielle Smith Declares War on Trans Kids - TheTyee.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoZXR5ZWUuY2EvT3Bpbmlvbi8yMDI0LzAyLzAyL0RhbmllbGxlLVNtaXRoLURlY2xhcmVzLVdhci1UcmFucy1LaWRzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LnRoZXR5ZWUuY2EvT3Bpbmlvbi8yMDI0LzAyLzAyL0RhbmllbGxlLVNtaXRoLURlY2xhcmVzLVdhci1UcmFucy1LaWRzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 05:04:13 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoZXR5ZWUuY2EvT3Bpbmlvbi8yMDI0LzAyLzAyL0RhbmllbGxlLVNtaXRoLURlY2xhcmVzLVdhci1UcmFucy1LaWRzL9IBAA?oc=5\" target=\"_blank\">Danielle Smith Declares War on Trans Kids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheTyee.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "TheTyee.ca",
+                "$": {
+                  "url": "https://www.thetyee.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rally for trans youth being held in Ottawa Monday - Ottawa.CityNews.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vb3R0YXdhLmNpdHluZXdzLmNhLzIwMjQvMDIvMDUvcmFsbHktYmVpbmctaGVsZC1pbi1zdXBwb3J0LW9mLXRyYW5zZ2VuZGVyLXlvdXRoLWluLW90dGF3YS1tb25kYXkv0gFsaHR0cHM6Ly9vdHRhd2EuY2l0eW5ld3MuY2EvMjAyNC8wMi8wNS9yYWxseS1iZWluZy1oZWxkLWluLXN1cHBvcnQtb2YtdHJhbnNnZW5kZXIteW91dGgtaW4tb3R0YXdhLW1vbmRheS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vb3R0YXdhLmNpdHluZXdzLmNhLzIwMjQvMDIvMDUvcmFsbHktYmVpbmctaGVsZC1pbi1zdXBwb3J0LW9mLXRyYW5zZ2VuZGVyLXlvdXRoLWluLW90dGF3YS1tb25kYXkv0gFsaHR0cHM6Ly9vdHRhd2EuY2l0eW5ld3MuY2EvMjAyNC8wMi8wNS9yYWxseS1iZWluZy1oZWxkLWluLXN1cHBvcnQtb2YtdHJhbnNnZW5kZXIteW91dGgtaW4tb3R0YXdhLW1vbmRheS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 15:02:24 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vb3R0YXdhLmNpdHluZXdzLmNhLzIwMjQvMDIvMDUvcmFsbHktYmVpbmctaGVsZC1pbi1zdXBwb3J0LW9mLXRyYW5zZ2VuZGVyLXlvdXRoLWluLW90dGF3YS1tb25kYXkv0gFsaHR0cHM6Ly9vdHRhd2EuY2l0eW5ld3MuY2EvMjAyNC8wMi8wNS9yYWxseS1iZWluZy1oZWxkLWluLXN1cHBvcnQtb2YtdHJhbnNnZW5kZXIteW91dGgtaW4tb3R0YXdhLW1vbmRheS9hbXAv?oc=5\" target=\"_blank\">Rally for trans youth being held in Ottawa Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ottawa.CityNews.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "Ottawa.CityNews.ca",
+                "$": {
+                  "url": "https://ottawa.citynews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta restrictions for transgender youth 'extremely dangerous' -Canada minister - Reuters Canada"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2FsYmVydGEtcmVzdHJpY3Rpb25zLXRyYW5zZ2VuZGVyLXlvdXRoLWV4dHJlbWVseS1kYW5nZXJvdXMtY2FuYWRhLW1pbmlzdGVyLTIwMjQtMDItMDEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2FsYmVydGEtcmVzdHJpY3Rpb25zLXRyYW5zZ2VuZGVyLXlvdXRoLWV4dHJlbWVseS1kYW5nZXJvdXMtY2FuYWRhLW1pbmlzdGVyLTIwMjQtMDItMDEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 21:24:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2FsYmVydGEtcmVzdHJpY3Rpb25zLXRyYW5zZ2VuZGVyLXlvdXRoLWV4dHJlbWVseS1kYW5nZXJvdXMtY2FuYWRhLW1pbmlzdGVyLTIwMjQtMDItMDEv0gEA?oc=5\" target=\"_blank\">Alberta restrictions for transgender youth 'extremely dangerous' -Canada minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters Canada</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters Canada",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A day in the life of working with trans youth: Navigating the fallout of harmful media coverage - Advocate.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmFkdm9jYXRlLmNvbS92b2ljZXMvbmF2aWdhdGluZy1hbnRpLXRyYW5zLW1pc2luZm9ybWF0aW9uLWNvdmVyYWdl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3LmFkdm9jYXRlLmNvbS92b2ljZXMvbmF2aWdhdGluZy1hbnRpLXRyYW5zLW1pc2luZm9ybWF0aW9uLWNvdmVyYWdl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 20:40:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmFkdm9jYXRlLmNvbS92b2ljZXMvbmF2aWdhdGluZy1hbnRpLXRyYW5zLW1pc2luZm9ybWF0aW9uLWNvdmVyYWdl0gEA?oc=5\" target=\"_blank\">A day in the life of working with trans youth: Navigating the fallout of harmful media coverage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Advocate.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Advocate.com",
+                "$": {
+                  "url": "https://www.advocate.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Parents of transgender kids want Alberta government to stay out of medical decisions - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jYmMuY2EvbmV3cy9jYW5hZGEvZWRtb250b24vcGFyZW50cy1vZi10cmFuc2dlbmRlci1raWRzLXdhbnQtYWxiZXJ0YS1nb3Zlcm5tZW50LXRvLXN0YXktb3V0LW9mLW1lZGljYWwtZGVjaXNpb25zLTEuNzEwMzg3ONIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTAzODc4?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5jYmMuY2EvbmV3cy9jYW5hZGEvZWRtb250b24vcGFyZW50cy1vZi10cmFuc2dlbmRlci1raWRzLXdhbnQtYWxiZXJ0YS1nb3Zlcm5tZW50LXRvLXN0YXktb3V0LW9mLW1lZGljYWwtZGVjaXNpb25zLTEuNzEwMzg3ONIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTAzODc4",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 00:26:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jYmMuY2EvbmV3cy9jYW5hZGEvZWRtb250b24vcGFyZW50cy1vZi10cmFuc2dlbmRlci1raWRzLXdhbnQtYWxiZXJ0YS1nb3Zlcm5tZW50LXRvLXN0YXktb3V0LW9mLW1lZGljYWwtZGVjaXNpb25zLTEuNzEwMzg3ONIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTAzODc4?oc=5\" target=\"_blank\">Parents of transgender kids want Alberta government to stay out of medical decisions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta’s New Policies: Anti-trans, Anti-evidence - TheTyee.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdGhldHllZS5jYS9PcGluaW9uLzIwMjQvMDIvMDUvQWxiZXJ0YS1OZXctUG9saWNpZXMtQW50aS1UcmFucy1BbnRpLUV2aWRlbmNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vdGhldHllZS5jYS9PcGluaW9uLzIwMjQvMDIvMDUvQWxiZXJ0YS1OZXctUG9saWNpZXMtQW50aS1UcmFucy1BbnRpLUV2aWRlbmNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 05:14:34 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdGhldHllZS5jYS9PcGluaW9uLzIwMjQvMDIvMDUvQWxiZXJ0YS1OZXctUG9saWNpZXMtQW50aS1UcmFucy1BbnRpLUV2aWRlbmNlL9IBAA?oc=5\" target=\"_blank\">Alberta’s New Policies: Anti-trans, Anti-evidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheTyee.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "TheTyee.ca",
+                "$": {
+                  "url": "https://thetyee.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion: Danielle Smith's sex-ed policy changes are putting all Alberta teenagers at risk - The Globe and Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vcG9saXRpY3Mvb3Bpbmlvbi9hcnRpY2xlLWRhbmllbGxlLXNtaXRocy1zZXgtZWQtcG9saWN5LWNoYW5nZXMtYXJlLXB1dHRpbmctYWxsLWFsYmVydGEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vcG9saXRpY3Mvb3Bpbmlvbi9hcnRpY2xlLWRhbmllbGxlLXNtaXRocy1zZXgtZWQtcG9saWN5LWNoYW5nZXMtYXJlLXB1dHRpbmctYWxsLWFsYmVydGEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 11:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vcG9saXRpY3Mvb3Bpbmlvbi9hcnRpY2xlLWRhbmllbGxlLXNtaXRocy1zZXgtZWQtcG9saWN5LWNoYW5nZXMtYXJlLXB1dHRpbmctYWxsLWFsYmVydGEv0gEA?oc=5\" target=\"_blank\">Opinion: Danielle Smith's sex-ed policy changes are putting all Alberta teenagers at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "The Globe and Mail",
+                "$": {
+                  "url": "https://www.theglobeandmail.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Albertans rally in support of trans rights at the legislature Sunday - Global News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcxNzg2L2FsYmVydGFucy1yYWxseS1pbi1zdXBwb3J0LW9mLXRyYW5zLXJpZ2h0cy1hdC10aGUtbGVnaXNsYXR1cmUtc3VuZGF5L9IBbWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcxNzg2L2FsYmVydGFucy1yYWxseS1pbi1zdXBwb3J0LW9mLXRyYW5zLXJpZ2h0cy1hdC10aGUtbGVnaXNsYXR1cmUtc3VuZGF5L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcxNzg2L2FsYmVydGFucy1yYWxseS1pbi1zdXBwb3J0LW9mLXRyYW5zLXJpZ2h0cy1hdC10aGUtbGVnaXNsYXR1cmUtc3VuZGF5L9IBbWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcxNzg2L2FsYmVydGFucy1yYWxseS1pbi1zdXBwb3J0LW9mLXRyYW5zLXJpZ2h0cy1hdC10aGUtbGVnaXNsYXR1cmUtc3VuZGF5L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 00:42:02 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcxNzg2L2FsYmVydGFucy1yYWxseS1pbi1zdXBwb3J0LW9mLXRyYW5zLXJpZ2h0cy1hdC10aGUtbGVnaXNsYXR1cmUtc3VuZGF5L9IBbWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcxNzg2L2FsYmVydGFucy1yYWxseS1pbi1zdXBwb3J0LW9mLXRyYW5zLXJpZ2h0cy1hdC10aGUtbGVnaXNsYXR1cmUtc3VuZGF5L2FtcC8?oc=5\" target=\"_blank\">Albertans rally in support of trans rights at the legislature Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
+            ],
+            "source": [
+              {
+                "_": "Global News",
+                "$": {
+                  "url": "https://globalnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "When 'rights' divide: Trans kids need supportive families - The Conversation Indonesia"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS93aGVuLXJpZ2h0cy1kaXZpZGUtdHJhbnMta2lkcy1uZWVkLXN1cHBvcnRpdmUtZmFtaWxpZXMtMjE2NzI00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS93aGVuLXJpZ2h0cy1kaXZpZGUtdHJhbnMta2lkcy1uZWVkLXN1cHBvcnRpdmUtZmFtaWxpZXMtMjE2NzI00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS93aGVuLXJpZ2h0cy1kaXZpZGUtdHJhbnMta2lkcy1uZWVkLXN1cHBvcnRpdmUtZmFtaWxpZXMtMjE2NzI00gEA?oc=5\" target=\"_blank\">When 'rights' divide: Trans kids need supportive families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation Indonesia</font>"
+            ],
+            "source": [
+              {
+                "_": "The Conversation Indonesia",
+                "$": {
+                  "url": "https://theconversation.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "State House Dispatch: Feb. 5, 2024 - ACLU of South Carolina"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmFjbHVzYy5vcmcvZW4vbmV3cy9zdGF0ZS1ob3VzZS1kaXNwYXRjaC1mZWItNS0yMDI00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPmh0dHBzOi8vd3d3LmFjbHVzYy5vcmcvZW4vbmV3cy9zdGF0ZS1ob3VzZS1kaXNwYXRjaC1mZWItNS0yMDI00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 20:13:38 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmFjbHVzYy5vcmcvZW4vbmV3cy9zdGF0ZS1ob3VzZS1kaXNwYXRjaC1mZWItNS0yMDI00gEA?oc=5\" target=\"_blank\">State House Dispatch: Feb. 5, 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ACLU of South Carolina</font>"
+            ],
+            "source": [
+              {
+                "_": "ACLU of South Carolina",
+                "$": {
+                  "url": "https://www.aclusc.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Anguish lingers as transgender kids’ families seek medical care outside Texas — and fight a state ban - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yNy91cy90ZXhhcy1mYW1pbGllcy10cmFuc2dlbmRlci15b3V0aC1nZW5kZXItYWZmaXJtaW5nLWNhcmUtYmFuL2luZGV4Lmh0bWzSAWtodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzI3L3VzL3RleGFzLWZhbWlsaWVzLXRyYW5zZ2VuZGVyLXlvdXRoLWdlbmRlci1hZmZpcm1pbmctY2FyZS1iYW4vaW5kZXguaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yNy91cy90ZXhhcy1mYW1pbGllcy10cmFuc2dlbmRlci15b3V0aC1nZW5kZXItYWZmaXJtaW5nLWNhcmUtYmFuL2luZGV4Lmh0bWzSAWtodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzI3L3VzL3RleGFzLWZhbWlsaWVzLXRyYW5zZ2VuZGVyLXlvdXRoLWdlbmRlci1hZmZpcm1pbmctY2FyZS1iYW4vaW5kZXguaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 27 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yNy91cy90ZXhhcy1mYW1pbGllcy10cmFuc2dlbmRlci15b3V0aC1nZW5kZXItYWZmaXJtaW5nLWNhcmUtYmFuL2luZGV4Lmh0bWzSAWtodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzI3L3VzL3RleGFzLWZhbWlsaWVzLXRyYW5zZ2VuZGVyLXlvdXRoLWdlbmRlci1hZmZpcm1pbmctY2FyZS1iYW4vaW5kZXguaHRtbA?oc=5\" target=\"_blank\">Anguish lingers as transgender kids’ families seek medical care outside Texas — and fight a state ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pierre Poilievre defends Alberta Premier Smith on transgender policies - CBC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL3BpZXJyZS1wb2lsaWV2cmUtZGFuaWVsbGUtc21pdGgtdHJhbnNnZW5kZXItMS43MTA2Mjgz0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDYyODM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL3BpZXJyZS1wb2lsaWV2cmUtZGFuaWVsbGUtc21pdGgtdHJhbnNnZW5kZXItMS43MTA2Mjgz0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDYyODM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:48:42 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL3BpZXJyZS1wb2lsaWV2cmUtZGFuaWVsbGUtc21pdGgtdHJhbnNnZW5kZXItMS43MTA2Mjgz0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDYyODM?oc=5\" target=\"_blank\">Pierre Poilievre defends Alberta Premier Smith on transgender policies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC News",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | We Aren’t Failing Trans Kids by Giving Them the Freedom to Choose - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMDEvb3Bpbmlvbi9wb2xpdGljcy9saWZlLXdpdGhvdXQtcmVncmV0Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMDEvb3Bpbmlvbi9wb2xpdGljcy9saWZlLXdpdGhvdXQtcmVncmV0Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMDEvb3Bpbmlvbi9wb2xpdGljcy9saWZlLXdpdGhvdXQtcmVncmV0Lmh0bWzSAQA?oc=5\" target=\"_blank\">Opinion | We Aren’t Failing Trans Kids by Giving Them the Freedom to Choose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion: Alberta's unproven gender-identity rules don't have kids' well-being at heart - Edmonton Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vb3Bpbmlvbi9jb2x1bW5pc3RzL29waW5pb24tYWxiZXJ0YXMtdW5wcm92ZW4tZ2VuZGVyLWlkZW50aXR5LXJ1bGVzLWRvbnQtaGF2ZS1raWRzLXdlbGwtYmVpbmctYXQtaGVhcnTSAa8BaHR0cHM6Ly9lZG1vbnRvbmpvdXJuYWwuY29tL29waW5pb24vY29sdW1uaXN0cy9vcGluaW9uLWFsYmVydGFzLXVucHJvdmVuLWdlbmRlci1pZGVudGl0eS1ydWxlcy1kb250LWhhdmUta2lkcy13ZWxsLWJlaW5nLWF0LWhlYXJ0L3djbS9mZTI2ZWU3NC1kM2ZlLTRjZjItODg1NC1mYWM3MTFhYjVjNzAvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vb3Bpbmlvbi9jb2x1bW5pc3RzL29waW5pb24tYWxiZXJ0YXMtdW5wcm92ZW4tZ2VuZGVyLWlkZW50aXR5LXJ1bGVzLWRvbnQtaGF2ZS1raWRzLXdlbGwtYmVpbmctYXQtaGVhcnTSAa8BaHR0cHM6Ly9lZG1vbnRvbmpvdXJuYWwuY29tL29waW5pb24vY29sdW1uaXN0cy9vcGluaW9uLWFsYmVydGFzLXVucHJvdmVuLWdlbmRlci1pZGVudGl0eS1ydWxlcy1kb250LWhhdmUta2lkcy13ZWxsLWJlaW5nLWF0LWhlYXJ0L3djbS9mZTI2ZWU3NC1kM2ZlLTRjZjItODg1NC1mYWM3MTFhYjVjNzAvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 21:22:10 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vb3Bpbmlvbi9jb2x1bW5pc3RzL29waW5pb24tYWxiZXJ0YXMtdW5wcm92ZW4tZ2VuZGVyLWlkZW50aXR5LXJ1bGVzLWRvbnQtaGF2ZS1raWRzLXdlbGwtYmVpbmctYXQtaGVhcnTSAa8BaHR0cHM6Ly9lZG1vbnRvbmpvdXJuYWwuY29tL29waW5pb24vY29sdW1uaXN0cy9vcGluaW9uLWFsYmVydGFzLXVucHJvdmVuLWdlbmRlci1pZGVudGl0eS1ydWxlcy1kb250LWhhdmUta2lkcy13ZWxsLWJlaW5nLWF0LWhlYXJ0L3djbS9mZTI2ZWU3NC1kM2ZlLTRjZjItODg1NC1mYWM3MTFhYjVjNzAvYW1wLw?oc=5\" target=\"_blank\">Opinion: Alberta's unproven gender-identity rules don't have kids' well-being at heart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Edmonton Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Edmonton Journal",
+                "$": {
+                  "url": "https://edmontonjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Federal justice minister accuses Alberta Premier Danielle Smith of 'demonizing' trans kids - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL2ZlZGVyYWwtcmVhY3Rpb24tZGFuaWVsbGUtc21pdGgtdHJhbnMtMS43MTAxNjcz0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDE2NzM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL2ZlZGVyYWwtcmVhY3Rpb24tZGFuaWVsbGUtc21pdGgtdHJhbnMtMS43MTAxNjcz0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDE2NzM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 23:39:42 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL2ZlZGVyYWwtcmVhY3Rpb24tZGFuaWVsbGUtc21pdGgtdHJhbnMtMS43MTAxNjcz0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDE2NzM?oc=5\" target=\"_blank\">Federal justice minister accuses Alberta Premier Danielle Smith of 'demonizing' trans kids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "N.W.T. parents of transgender kids fear Alberta health care changes will make it hard to access care - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jYmMuY2EvbmV3cy9jYW5hZGEvbm9ydGgvbi13LXQtcGFyZW50cy10cmFuc2dlbmRlci1raWRzLWZlYXJmdWwtY2hhbmdlcy1pbi1hbGJlcnRhLXdpbGwtbWFrZS1pdC1oYXJkZXItZm9yLXlvdXRoLTEuNzEwNTAzOdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTA1MDM5?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5jYmMuY2EvbmV3cy9jYW5hZGEvbm9ydGgvbi13LXQtcGFyZW50cy10cmFuc2dlbmRlci1raWRzLWZlYXJmdWwtY2hhbmdlcy1pbi1hbGJlcnRhLXdpbGwtbWFrZS1pdC1oYXJkZXItZm9yLXlvdXRoLTEuNzEwNTAzOdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTA1MDM5",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 17:57:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jYmMuY2EvbmV3cy9jYW5hZGEvbm9ydGgvbi13LXQtcGFyZW50cy10cmFuc2dlbmRlci1raWRzLWZlYXJmdWwtY2hhbmdlcy1pbi1hbGJlcnRhLXdpbGwtbWFrZS1pdC1oYXJkZXItZm9yLXlvdXRoLTEuNzEwNTAzOdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTA1MDM5?oc=5\" target=\"_blank\">N.W.T. parents of transgender kids fear Alberta health care changes will make it hard to access care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'We're terrified': Hundreds rally in support of Alberta trans community, opposition to coming government gender policies - Edmonton Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinQFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy93ZXJlLXRlcnJpZmllZC1odW5kcmVkcy1yYWxseS1pbi1zdXBwb3J0LW9mLWFsYmVydGEtdHJhbnMtY29tbXVuaXR5LW9wcG9zaXRpb24tdG8tY29taW5nLWdvdmVybm1lbnQtZ2VuZGVyLXBvbGljaWVz0gHLAWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9uZXdzL3BvbGl0aWNzL3dlcmUtdGVycmlmaWVkLWh1bmRyZWRzLXJhbGx5LWluLXN1cHBvcnQtb2YtYWxiZXJ0YS10cmFucy1jb21tdW5pdHktb3Bwb3NpdGlvbi10by1jb21pbmctZ292ZXJubWVudC1nZW5kZXItcG9saWNpZXMvd2NtLzNmMGVlNTgzLTQwOGUtNDg0NC04MzhkLWJmNjE4ZTM1MGM0Yy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinQFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy93ZXJlLXRlcnJpZmllZC1odW5kcmVkcy1yYWxseS1pbi1zdXBwb3J0LW9mLWFsYmVydGEtdHJhbnMtY29tbXVuaXR5LW9wcG9zaXRpb24tdG8tY29taW5nLWdvdmVybm1lbnQtZ2VuZGVyLXBvbGljaWVz0gHLAWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9uZXdzL3BvbGl0aWNzL3dlcmUtdGVycmlmaWVkLWh1bmRyZWRzLXJhbGx5LWluLXN1cHBvcnQtb2YtYWxiZXJ0YS10cmFucy1jb21tdW5pdHktb3Bwb3NpdGlvbi10by1jb21pbmctZ292ZXJubWVudC1nZW5kZXItcG9saWNpZXMvd2NtLzNmMGVlNTgzLTQwOGUtNDg0NC04MzhkLWJmNjE4ZTM1MGM0Yy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 22:13:39 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinQFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy93ZXJlLXRlcnJpZmllZC1odW5kcmVkcy1yYWxseS1pbi1zdXBwb3J0LW9mLWFsYmVydGEtdHJhbnMtY29tbXVuaXR5LW9wcG9zaXRpb24tdG8tY29taW5nLWdvdmVybm1lbnQtZ2VuZGVyLXBvbGljaWVz0gHLAWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9uZXdzL3BvbGl0aWNzL3dlcmUtdGVycmlmaWVkLWh1bmRyZWRzLXJhbGx5LWluLXN1cHBvcnQtb2YtYWxiZXJ0YS10cmFucy1jb21tdW5pdHktb3Bwb3NpdGlvbi10by1jb21pbmctZ292ZXJubWVudC1nZW5kZXItcG9saWNpZXMvd2NtLzNmMGVlNTgzLTQwOGUtNDg0NC04MzhkLWJmNjE4ZTM1MGM0Yy9hbXAv?oc=5\" target=\"_blank\">'We're terrified': Hundreds rally in support of Alberta trans community, opposition to coming government gender policies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Edmonton Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Edmonton Journal",
+                "$": {
+                  "url": "https://edmontonjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Smith defends Alberta trans policy after federal Liberal minister says it 'puts lives at risk' - Edmonton Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy9zbWl0aC1kZWZlbmRzLWFsYmVydGEtdHJhbnMtcG9saWN5LWFmdGVyLWZlZGVyYWwtbGliZXJhbC1taW5pc3Rlci1zYXlzLWl0LXB1dHMtbGl2ZXMtYXQtcmlza9IBtAFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy9zbWl0aC1kZWZlbmRzLWFsYmVydGEtdHJhbnMtcG9saWN5LWFmdGVyLWZlZGVyYWwtbGliZXJhbC1taW5pc3Rlci1zYXlzLWl0LXB1dHMtbGl2ZXMtYXQtcmlzay93Y20vYmM3NWZlZDMtZWJjNy00ZjMzLTk1M2QtODI2MGQzYmQwNzhhL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy9zbWl0aC1kZWZlbmRzLWFsYmVydGEtdHJhbnMtcG9saWN5LWFmdGVyLWZlZGVyYWwtbGliZXJhbC1taW5pc3Rlci1zYXlzLWl0LXB1dHMtbGl2ZXMtYXQtcmlza9IBtAFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy9zbWl0aC1kZWZlbmRzLWFsYmVydGEtdHJhbnMtcG9saWN5LWFmdGVyLWZlZGVyYWwtbGliZXJhbC1taW5pc3Rlci1zYXlzLWl0LXB1dHMtbGl2ZXMtYXQtcmlzay93Y20vYmM3NWZlZDMtZWJjNy00ZjMzLTk1M2QtODI2MGQzYmQwNzhhL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 01:47:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy9zbWl0aC1kZWZlbmRzLWFsYmVydGEtdHJhbnMtcG9saWN5LWFmdGVyLWZlZGVyYWwtbGliZXJhbC1taW5pc3Rlci1zYXlzLWl0LXB1dHMtbGl2ZXMtYXQtcmlza9IBtAFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy9zbWl0aC1kZWZlbmRzLWFsYmVydGEtdHJhbnMtcG9saWN5LWFmdGVyLWZlZGVyYWwtbGliZXJhbC1taW5pc3Rlci1zYXlzLWl0LXB1dHMtbGl2ZXMtYXQtcmlzay93Y20vYmM3NWZlZDMtZWJjNy00ZjMzLTk1M2QtODI2MGQzYmQwNzhhL2FtcC8?oc=5\" target=\"_blank\">Smith defends Alberta trans policy after federal Liberal minister says it 'puts lives at risk'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Edmonton Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Edmonton Journal",
+                "$": {
+                  "url": "https://edmontonjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wednesday briefing: What the government advice on trans children in schools is really saying - The Guardian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIzL2RlYy8yMC9maXJzdC1lZGl0aW9uLXRyYW5zZ2VuZGVyLXNjaG9vbHMtZ3VpZGFuY2XSAVhodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvMjAyMy9kZWMvMjAvZmlyc3QtZWRpdGlvbi10cmFuc2dlbmRlci1zY2hvb2xzLWd1aWRhbmNl?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIzL2RlYy8yMC9maXJzdC1lZGl0aW9uLXRyYW5zZ2VuZGVyLXNjaG9vbHMtZ3VpZGFuY2XSAVhodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvMjAyMy9kZWMvMjAvZmlyc3QtZWRpdGlvbi10cmFuc2dlbmRlci1zY2hvb2xzLWd1aWRhbmNl",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIzL2RlYy8yMC9maXJzdC1lZGl0aW9uLXRyYW5zZ2VuZGVyLXNjaG9vbHMtZ3VpZGFuY2XSAVhodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvMjAyMy9kZWMvMjAvZmlyc3QtZWRpdGlvbi10cmFuc2dlbmRlci1zY2hvb2xzLWd1aWRhbmNl?oc=5\" target=\"_blank\">Wednesday briefing: What the government advice on trans children in schools is really saying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+            ],
+            "source": [
+              {
+                "_": "The Guardian",
+                "$": {
+                  "url": "https://www.theguardian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Local groups react to government's proposed policies regarding transgender youth - rdnewsnow.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vcmRuZXdzbm93LmNvbS8yMDI0LzAyLzA1L2xvY2FsLWdyb3Vwcy1yZWFjdC10by1nb3Zlcm5tZW50cy1wcm9wb3NlZC1wb2xpY2llcy1yZWdhcmRpbmctdHJhbnNnZW5kZXIteW91dGgv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vcmRuZXdzbm93LmNvbS8yMDI0LzAyLzA1L2xvY2FsLWdyb3Vwcy1yZWFjdC10by1nb3Zlcm5tZW50cy1wcm9wb3NlZC1wb2xpY2llcy1yZWdhcmRpbmctdHJhbnNnZW5kZXIteW91dGgv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:03:36 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vcmRuZXdzbm93LmNvbS8yMDI0LzAyLzA1L2xvY2FsLWdyb3Vwcy1yZWFjdC10by1nb3Zlcm5tZW50cy1wcm9wb3NlZC1wb2xpY2llcy1yZWdhcmRpbmctdHJhbnNnZW5kZXIteW91dGgv0gEA?oc=5\" target=\"_blank\">Local groups react to government's proposed policies regarding transgender youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rdnewsnow.com</font>"
+            ],
+            "source": [
+              {
+                "_": "rdnewsnow.com",
+                "$": {
+                  "url": "https://rdnewsnow.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opponents of Alberta's proposals for transgender youth rally over weekend - The Globe and Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vY2FuYWRhL2FsYmVydGEvYXJ0aWNsZS1vcHBvbmVudHMtb2YtYWxiZXJ0YXMtcHJvcG9zYWxzLWZvci10cmFuc2dlbmRlci15b3V0aC1yYWxseS1vdmVyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vY2FuYWRhL2FsYmVydGEvYXJ0aWNsZS1vcHBvbmVudHMtb2YtYWxiZXJ0YXMtcHJvcG9zYWxzLWZvci10cmFuc2dlbmRlci15b3V0aC1yYWxseS1vdmVyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 22:31:08 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vY2FuYWRhL2FsYmVydGEvYXJ0aWNsZS1vcHBvbmVudHMtb2YtYWxiZXJ0YXMtcHJvcG9zYWxzLWZvci10cmFuc2dlbmRlci15b3V0aC1yYWxseS1vdmVyL9IBAA?oc=5\" target=\"_blank\">Opponents of Alberta's proposals for transgender youth rally over weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "The Globe and Mail",
+                "$": {
+                  "url": "https://www.theglobeandmail.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trans youth ‘terrified’ of what Louisiana’s new health care ban will mean - PBS NewsHour"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvbmF0aW9uL3RyYW5zLXlvdXRoLXRlcnJpZmllZC1vZi13aGF0LWxvdWlzaWFuYXMtbmV3LWhlYWx0aC1jYXJlLWJhbi13aWxsLW1lYW7SAW5odHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL2FtcC9uYXRpb24vdHJhbnMteW91dGgtdGVycmlmaWVkLW9mLXdoYXQtbG91aXNpYW5hcy1uZXctaGVhbHRoLWNhcmUtYmFuLXdpbGwtbWVhbg?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvbmF0aW9uL3RyYW5zLXlvdXRoLXRlcnJpZmllZC1vZi13aGF0LWxvdWlzaWFuYXMtbmV3LWhlYWx0aC1jYXJlLWJhbi13aWxsLW1lYW7SAW5odHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL2FtcC9uYXRpb24vdHJhbnMteW91dGgtdGVycmlmaWVkLW9mLXdoYXQtbG91aXNpYW5hcy1uZXctaGVhbHRoLWNhcmUtYmFuLXdpbGwtbWVhbg",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvbmF0aW9uL3RyYW5zLXlvdXRoLXRlcnJpZmllZC1vZi13aGF0LWxvdWlzaWFuYXMtbmV3LWhlYWx0aC1jYXJlLWJhbi13aWxsLW1lYW7SAW5odHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL2FtcC9uYXRpb24vdHJhbnMteW91dGgtdGVycmlmaWVkLW9mLXdoYXQtbG91aXNpYW5hcy1uZXctaGVhbHRoLWNhcmUtYmFuLXdpbGwtbWVhbg?oc=5\" target=\"_blank\">Trans youth ‘terrified’ of what Louisiana’s new health care ban will mean</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS NewsHour</font>"
+            ],
+            "source": [
+              {
+                "_": "PBS NewsHour",
+                "$": {
+                  "url": "https://www.pbs.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Protesters rally for trans youth during Alberta premier's trip to capital - Ottawa Citizen"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vb3R0YXdhY2l0aXplbi5jb20vbmV3cy9sb2NhbC1uZXdzL3Byb3Rlc3RlcnMtcmFsbHktZm9yLXRyYW5zLXlvdXRoLWR1cmluZy1hbGJlcnRhLXByZW1pZXJzLXRyaXAtdG8tY2FwaXRhbNIBoAFodHRwczovL290dGF3YWNpdGl6ZW4uY29tL25ld3MvbG9jYWwtbmV3cy9wcm90ZXN0ZXJzLXJhbGx5LWZvci10cmFucy15b3V0aC1kdXJpbmctYWxiZXJ0YS1wcmVtaWVycy10cmlwLXRvLWNhcGl0YWwvd2NtLzA4NGVjYzU4LTI3NGQtNDY1NC04MjA0LTg0YzkzMDViZmIyMC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vb3R0YXdhY2l0aXplbi5jb20vbmV3cy9sb2NhbC1uZXdzL3Byb3Rlc3RlcnMtcmFsbHktZm9yLXRyYW5zLXlvdXRoLWR1cmluZy1hbGJlcnRhLXByZW1pZXJzLXRyaXAtdG8tY2FwaXRhbNIBoAFodHRwczovL290dGF3YWNpdGl6ZW4uY29tL25ld3MvbG9jYWwtbmV3cy9wcm90ZXN0ZXJzLXJhbGx5LWZvci10cmFucy15b3V0aC1kdXJpbmctYWxiZXJ0YS1wcmVtaWVycy10cmlwLXRvLWNhcGl0YWwvd2NtLzA4NGVjYzU4LTI3NGQtNDY1NC04MjA0LTg0YzkzMDViZmIyMC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vb3R0YXdhY2l0aXplbi5jb20vbmV3cy9sb2NhbC1uZXdzL3Byb3Rlc3RlcnMtcmFsbHktZm9yLXRyYW5zLXlvdXRoLWR1cmluZy1hbGJlcnRhLXByZW1pZXJzLXRyaXAtdG8tY2FwaXRhbNIBoAFodHRwczovL290dGF3YWNpdGl6ZW4uY29tL25ld3MvbG9jYWwtbmV3cy9wcm90ZXN0ZXJzLXJhbGx5LWZvci10cmFucy15b3V0aC1kdXJpbmctYWxiZXJ0YS1wcmVtaWVycy10cmlwLXRvLWNhcGl0YWwvd2NtLzA4NGVjYzU4LTI3NGQtNDY1NC04MjA0LTg0YzkzMDViZmIyMC9hbXAv?oc=5\" target=\"_blank\">Protesters rally for trans youth during Alberta premier's trip to capital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ottawa Citizen</font>"
+            ],
+            "source": [
+              {
+                "_": "Ottawa Citizen",
+                "$": {
+                  "url": "https://ottawacitizen.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta, Canada to block gender care and forcibly out trans kids - Los Angeles Blade"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lmxvc2FuZ2VsZXNibGFkZS5jb20vMjAyNC8wMi8wMS9hbGJlcnRhLWNhbmFkYS10by1ibG9jay1nZW5kZXItY2FyZS1hbmQtZm9yY2libHktb3V0LXRyYW5zLWtpZHMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3Lmxvc2FuZ2VsZXNibGFkZS5jb20vMjAyNC8wMi8wMS9hbGJlcnRhLWNhbmFkYS10by1ibG9jay1nZW5kZXItY2FyZS1hbmQtZm9yY2libHktb3V0LXRyYW5zLWtpZHMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 22:58:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lmxvc2FuZ2VsZXNibGFkZS5jb20vMjAyNC8wMi8wMS9hbGJlcnRhLWNhbmFkYS10by1ibG9jay1nZW5kZXItY2FyZS1hbmQtZm9yY2libHktb3V0LXRyYW5zLWtpZHMv0gEA?oc=5\" target=\"_blank\">Alberta, Canada to block gender care and forcibly out trans kids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Blade</font>"
+            ],
+            "source": [
+              {
+                "_": "Los Angeles Blade",
+                "$": {
+                  "url": "https://www.losangelesblade.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Puberty, gender transitioning and reversibility: Fact checking Danielle Smith’s claims - Global News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwNDQ4L3B1YmVydHktZ2VuZGVyLXRyYW5zaXRpb25pbmctcmV2ZXJzaWJpbGl0eS1mYWN0LWNoZWNraW5nLWRhbmllbGxlLXNtaXRoL9IBcGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwNDQ4L3B1YmVydHktZ2VuZGVyLXRyYW5zaXRpb25pbmctcmV2ZXJzaWJpbGl0eS1mYWN0LWNoZWNraW5nLWRhbmllbGxlLXNtaXRoL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwNDQ4L3B1YmVydHktZ2VuZGVyLXRyYW5zaXRpb25pbmctcmV2ZXJzaWJpbGl0eS1mYWN0LWNoZWNraW5nLWRhbmllbGxlLXNtaXRoL9IBcGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwNDQ4L3B1YmVydHktZ2VuZGVyLXRyYW5zaXRpb25pbmctcmV2ZXJzaWJpbGl0eS1mYWN0LWNoZWNraW5nLWRhbmllbGxlLXNtaXRoL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 21:07:19 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwNDQ4L3B1YmVydHktZ2VuZGVyLXRyYW5zaXRpb25pbmctcmV2ZXJzaWJpbGl0eS1mYWN0LWNoZWNraW5nLWRhbmllbGxlLXNtaXRoL9IBcGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwNDQ4L3B1YmVydHktZ2VuZGVyLXRyYW5zaXRpb25pbmctcmV2ZXJzaWJpbGl0eS1mYWN0LWNoZWNraW5nLWRhbmllbGxlLXNtaXRoL2FtcC8?oc=5\" target=\"_blank\">Puberty, gender transitioning and reversibility: Fact checking Danielle Smith’s claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
+            ],
+            "source": [
+              {
+                "_": "Global News",
+                "$": {
+                  "url": "https://globalnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "After 1 Million March, LGBTQ2S+ youth face rise in bullying and fear of outing - Xtra Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9wb3dlci9wb2xpdGljcy9xdWVlci10cmFucy15b3V0aC1oYXJhc3NtZW50LTI2MjcyN9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9wb3dlci9wb2xpdGljcy9xdWVlci10cmFucy15b3V0aC1oYXJhc3NtZW50LTI2MjcyN9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:52:09 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9wb3dlci9wb2xpdGljcy9xdWVlci10cmFucy15b3V0aC1oYXJhc3NtZW50LTI2MjcyN9IBAA?oc=5\" target=\"_blank\">After 1 Million March, LGBTQ2S+ youth face rise in bullying and fear of outing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xtra Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Xtra Magazine",
+                "$": {
+                  "url": "https://xtramagazine.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Therapist whistleblower quits job after being 'bullied' into affirming kids' trans identities - The Christian Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNocmlzdGlhbnBvc3QuY29tL25ld3MvdGhlcmFwaXN0LWJ1bGxpZWQtaW50by1hZmZpcm1pbmcta2lkcy10cmFucy1pZGVudGl0aWVzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmNocmlzdGlhbnBvc3QuY29tL25ld3MvdGhlcmFwaXN0LWJ1bGxpZWQtaW50by1hZmZpcm1pbmcta2lkcy10cmFucy1pZGVudGl0aWVzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:07:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNocmlzdGlhbnBvc3QuY29tL25ld3MvdGhlcmFwaXN0LWJ1bGxpZWQtaW50by1hZmZpcm1pbmcta2lkcy10cmFucy1pZGVudGl0aWVzLmh0bWzSAQA?oc=5\" target=\"_blank\">Therapist whistleblower quits job after being 'bullied' into affirming kids' trans identities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Christian Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Christian Post",
+                "$": {
+                  "url": "https://www.christianpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pamela Paul's NYT article on gender transitioning: more than an op-ed, and guaranteed to raise a ruckus - Why Evolution Is True"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd2h5ZXZvbHV0aW9uaXN0cnVlLmNvbS8yMDI0LzAyLzA0L21vcmUtb24tcGFtZWxhLXBhdWxzLW55dC1hcnRpY2xlLW1vcmUtdGhhbi1hbi1vcC1lZC1hbmQtZ3VhcmFudGVlZC10by1yYWlzZS1hLXJ1Y2t1cy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd2h5ZXZvbHV0aW9uaXN0cnVlLmNvbS8yMDI0LzAyLzA0L21vcmUtb24tcGFtZWxhLXBhdWxzLW55dC1hcnRpY2xlLW1vcmUtdGhhbi1hbi1vcC1lZC1hbmQtZ3VhcmFudGVlZC10by1yYWlzZS1hLXJ1Y2t1cy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 03:11:42 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd2h5ZXZvbHV0aW9uaXN0cnVlLmNvbS8yMDI0LzAyLzA0L21vcmUtb24tcGFtZWxhLXBhdWxzLW55dC1hcnRpY2xlLW1vcmUtdGhhbi1hbi1vcC1lZC1hbmQtZ3VhcmFudGVlZC10by1yYWlzZS1hLXJ1Y2t1cy_SAQA?oc=5\" target=\"_blank\">Pamela Paul's NYT article on gender transitioning: more than an op-ed, and guaranteed to raise a ruckus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Why Evolution Is True</font>"
+            ],
+            "source": [
+              {
+                "_": "Why Evolution Is True",
+                "$": {
+                  "url": "https://whyevolutionistrue.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Justin Trudeau says Danielle Smith is fighting against trans youth - CTV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5jdHZuZXdzLmNhL3BvbGl0aWNzL3RydWRlYXUtY2FsbHMtYWxiZXJ0YS1wcmVtaWVyLWRhbmllbGxlLXNtaXRoLXMtdHJhbnNnZW5kZXItcG9saWNpZXMtdGhlLW1vc3QtYW50aS1sZ2J0cTJzLWluLWNhbmFkYS0xLjY3NTMzMzDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5jdHZuZXdzLmNhL3BvbGl0aWNzL3RydWRlYXUtY2FsbHMtYWxiZXJ0YS1wcmVtaWVyLWRhbmllbGxlLXNtaXRoLXMtdHJhbnNnZW5kZXItcG9saWNpZXMtdGhlLW1vc3QtYW50aS1sZ2J0cTJzLWluLWNhbmFkYS0xLjY3NTMzMzDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 18:07:02 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5jdHZuZXdzLmNhL3BvbGl0aWNzL3RydWRlYXUtY2FsbHMtYWxiZXJ0YS1wcmVtaWVyLWRhbmllbGxlLXNtaXRoLXMtdHJhbnNnZW5kZXItcG9saWNpZXMtdGhlLW1vc3QtYW50aS1sZ2J0cTJzLWluLWNhbmFkYS0xLjY3NTMzMzDSAQA?oc=5\" target=\"_blank\">Justin Trudeau says Danielle Smith is fighting against trans youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News",
+                "$": {
+                  "url": "https://www.ctvnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "School Boards Are Requiring Staff to Out Trans Kids - TIME"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGltZS5jb20vNjMxNjAwNi9zY2hvb2wtYm9hcmRzLXBvbGljaWVzLW91dGluZy10cmFuc2dlbmRlci1zdHVkZW50cy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vdGltZS5jb20vNjMxNjAwNi9zY2hvb2wtYm9hcmRzLXBvbGljaWVzLW91dGluZy10cmFuc2dlbmRlci1zdHVkZW50cy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGltZS5jb20vNjMxNjAwNi9zY2hvb2wtYm9hcmRzLXBvbGljaWVzLW91dGluZy10cmFuc2dlbmRlci1zdHVkZW50cy_SAQA?oc=5\" target=\"_blank\">School Boards Are Requiring Staff to Out Trans Kids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIME</font>"
+            ],
+            "source": [
+              {
+                "_": "TIME",
+                "$": {
+                  "url": "https://time.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta's 2SLGBTQ+ safe spaces must be preserved: advocate - CityNews Calgary"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vY2FsZ2FyeS5jaXR5bmV3cy5jYS8yMDI0LzAyLzA2L2FsYmVydGEtMnNsZ2J0cS1zYWZlc3BhY2VzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQmh0dHBzOi8vY2FsZ2FyeS5jaXR5bmV3cy5jYS8yMDI0LzAyLzA2L2FsYmVydGEtMnNsZ2J0cS1zYWZlc3BhY2VzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 19:31:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vY2FsZ2FyeS5jaXR5bmV3cy5jYS8yMDI0LzAyLzA2L2FsYmVydGEtMnNsZ2J0cS1zYWZlc3BhY2VzL9IBAA?oc=5\" target=\"_blank\">Alberta's 2SLGBTQ+ safe spaces must be preserved: advocate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityNews Calgary</font>"
+            ],
+            "source": [
+              {
+                "_": "CityNews Calgary",
+                "$": {
+                  "url": "https://calgary.citynews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opponents of Alberta's proposals for transgender youth protest in weekend rallies - Winnipeg Free Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy53aW5uaXBlZ2ZyZWVwcmVzcy5jb20vYXJ0cy1hbmQtbGlmZS9saWZlL2hlYWx0aC8yMDI0LzAyLzA0L29wcG9uZW50cy1vZi1hbGJlcnRhcy1wcm9wb3NhbHMtZm9yLXRyYW5zZ2VuZGVyLXlvdXRoLXJhbGx5LW92ZXItd2Vla2VuZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy53aW5uaXBlZ2ZyZWVwcmVzcy5jb20vYXJ0cy1hbmQtbGlmZS9saWZlL2hlYWx0aC8yMDI0LzAyLzA0L29wcG9uZW50cy1vZi1hbGJlcnRhcy1wcm9wb3NhbHMtZm9yLXRyYW5zZ2VuZGVyLXlvdXRoLXJhbGx5LW92ZXItd2Vla2VuZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 22:25:28 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy53aW5uaXBlZ2ZyZWVwcmVzcy5jb20vYXJ0cy1hbmQtbGlmZS9saWZlL2hlYWx0aC8yMDI0LzAyLzA0L29wcG9uZW50cy1vZi1hbGJlcnRhcy1wcm9wb3NhbHMtZm9yLXRyYW5zZ2VuZGVyLXlvdXRoLXJhbGx5LW92ZXItd2Vla2VuZNIBAA?oc=5\" target=\"_blank\">Opponents of Alberta's proposals for transgender youth protest in weekend rallies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Winnipeg Free Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Winnipeg Free Press",
+                "$": {
+                  "url": "https://www.winnipegfreepress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Horror as Scottish Parents Could Reportedly Be Jailed For Refusing Kids' Gender Transitions - Faithwire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mYWl0aHdpcmUuY29tLzIwMjQvMDIvMDYvaG9ycm9yLWFzLXNjb3R0aXNoLXBhcmVudHMtY291bGQtcmVwb3J0ZWRseS1iZS1qYWlsZWQtZm9yLXJlZnVzaW5nLWtpZHMtZ2VuZGVyLXRyYW5zaXRpb25zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy5mYWl0aHdpcmUuY29tLzIwMjQvMDIvMDYvaG9ycm9yLWFzLXNjb3R0aXNoLXBhcmVudHMtY291bGQtcmVwb3J0ZWRseS1iZS1qYWlsZWQtZm9yLXJlZnVzaW5nLWtpZHMtZ2VuZGVyLXRyYW5zaXRpb25zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 18:25:24 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mYWl0aHdpcmUuY29tLzIwMjQvMDIvMDYvaG9ycm9yLWFzLXNjb3R0aXNoLXBhcmVudHMtY291bGQtcmVwb3J0ZWRseS1iZS1qYWlsZWQtZm9yLXJlZnVzaW5nLWtpZHMtZ2VuZGVyLXRyYW5zaXRpb25zL9IBAA?oc=5\" target=\"_blank\">Horror as Scottish Parents Could Reportedly Be Jailed For Refusing Kids' Gender Transitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Faithwire</font>"
+            ],
+            "source": [
+              {
+                "_": "Faithwire",
+                "$": {
+                  "url": "https://www.faithwire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Texas AG's pursuit of transgender medical records stirs privacy concerns - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNC8wMi8wMi9wYXh0b24tdGV4YXMtYXR0b3JuZXktZ2VuZXJhbC10cmFuc2dlbmRlci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNC8wMi8wMi9wYXh0b24tdGV4YXMtYXR0b3JuZXktZ2VuZXJhbC10cmFuc2dlbmRlci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 15:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNC8wMi8wMi9wYXh0b24tdGV4YXMtYXR0b3JuZXktZ2VuZXJhbC10cmFuc2dlbmRlci_SAQA?oc=5\" target=\"_blank\">Texas AG's pursuit of transgender medical records stirs privacy concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Butt out': Poilievre criticizes Trudeau, feds on Alberta's planned transgender rules - CTV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3MvYnV0dC1vdXQtcG9pbGlldnJlLWNyaXRpY2l6ZXMtdHJ1ZGVhdS1mZWRzLW9uLWFsYmVydGEtcy1wbGFubmVkLXRyYW5zZ2VuZGVyLXJ1bGVzLTEuNjc1ODUyONIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3MvYnV0dC1vdXQtcG9pbGlldnJlLWNyaXRpY2l6ZXMtdHJ1ZGVhdS1mZWRzLW9uLWFsYmVydGEtcy1wbGFubmVkLXRyYW5zZ2VuZGVyLXJ1bGVzLTEuNjc1ODUyONIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:51:56 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3MvYnV0dC1vdXQtcG9pbGlldnJlLWNyaXRpY2l6ZXMtdHJ1ZGVhdS1mZWRzLW9uLWFsYmVydGEtcy1wbGFubmVkLXRyYW5zZ2VuZGVyLXJ1bGVzLTEuNjc1ODUyONIBAA?oc=5\" target=\"_blank\">'Butt out': Poilievre criticizes Trudeau, feds on Alberta's planned transgender rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News",
+                "$": {
+                  "url": "https://www.ctvnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alta. gov't misinformed in proposed transgender guidelines: doctor - CTV News Calgary"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vY2FsZ2FyeS5jdHZuZXdzLmNhL2EtZGlyZWN0LWF0dGFjay1hbGJlcnRhLXMtdHJhbnMtaGVhbHRoLWxlYWQtcHJvdGVzdHMtbmV3LWd1aWRlbGluZXMtMS42NzUzMTQ10gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vY2FsZ2FyeS5jdHZuZXdzLmNhL2EtZGlyZWN0LWF0dGFjay1hbGJlcnRhLXMtdHJhbnMtaGVhbHRoLWxlYWQtcHJvdGVzdHMtbmV3LWd1aWRlbGluZXMtMS42NzUzMTQ10gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 16:32:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vY2FsZ2FyeS5jdHZuZXdzLmNhL2EtZGlyZWN0LWF0dGFjay1hbGJlcnRhLXMtdHJhbnMtaGVhbHRoLWxlYWQtcHJvdGVzdHMtbmV3LWd1aWRlbGluZXMtMS42NzUzMTQ10gEA?oc=5\" target=\"_blank\">Alta. gov't misinformed in proposed transgender guidelines: doctor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News Calgary</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News Calgary",
+                "$": {
+                  "url": "https://calgary.ctvnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New UCP gender policies expected to hurt trans youth, advocates say | CTV News - CTV News Edmonton"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9pdC1zLXRlcnJpZnlpbmctYWR2b2NhdGVzLXNheS1uZXctZ2VuZGVyLXBvbGljaWVzLXdpbGwtaHVydC12dWxuZXJhYmxlLXlvdXRoLTEuNjc1MjQxMtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9pdC1zLXRlcnJpZnlpbmctYWR2b2NhdGVzLXNheS1uZXctZ2VuZGVyLXBvbGljaWVzLXdpbGwtaHVydC12dWxuZXJhYmxlLXlvdXRoLTEuNjc1MjQxMtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 00:21:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9pdC1zLXRlcnJpZnlpbmctYWR2b2NhdGVzLXNheS1uZXctZ2VuZGVyLXBvbGljaWVzLXdpbGwtaHVydC12dWxuZXJhYmxlLXlvdXRoLTEuNjc1MjQxMtIBAA?oc=5\" target=\"_blank\">New UCP gender policies expected to hurt trans youth, advocates say | CTV News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News Edmonton</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News Edmonton",
+                "$": {
+                  "url": "https://edmonton.ctvnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Danielle Smith, Liberals trade shots over transgender policies during her trip to Ottawa - CBC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL2RhbmllbGxlLXNtaXRoLWxpYmVyYWwtZ292ZXJubWVudC10cmFkZS1iYXJicy10cmFucy0xLjcxMDUxNzXSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzEwNTE3NQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL2RhbmllbGxlLXNtaXRoLWxpYmVyYWwtZ292ZXJubWVudC10cmFkZS1iYXJicy10cmFucy0xLjcxMDUxNzXSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzEwNTE3NQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 20:55:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL2RhbmllbGxlLXNtaXRoLWxpYmVyYWwtZ292ZXJubWVudC10cmFkZS1iYXJicy10cmFucy0xLjcxMDUxNzXSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzEwNTE3NQ?oc=5\" target=\"_blank\">Danielle Smith, Liberals trade shots over transgender policies during her trip to Ottawa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC News",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Transgender allies gather in Calgary and Edmonton to rally against proposed government policies - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9jYWxnYXJ5L2FsYmVydGEtdHJhbnNnZW5kZXItc3VwcG9ydC1yYWxsaWVzLTEuNzEwNDM2NtIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTA0MzY2?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9jYWxnYXJ5L2FsYmVydGEtdHJhbnNnZW5kZXItc3VwcG9ydC1yYWxsaWVzLTEuNzEwNDM2NtIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTA0MzY2",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 22:05:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9jYWxnYXJ5L2FsYmVydGEtdHJhbnNnZW5kZXItc3VwcG9ydC1yYWxsaWVzLTEuNzEwNDM2NtIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTA0MzY2?oc=5\" target=\"_blank\">Transgender allies gather in Calgary and Edmonton to rally against proposed government policies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "So your child is queer: A guide to finding a safe school - TucsonSentinel.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnR1Y3NvbnNlbnRpbmVsLmNvbS9sb2NhbC9yZXBvcnQvMDIwNTI0X2xnYnRxX3NjaG9vbHMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8vd3d3LnR1Y3NvbnNlbnRpbmVsLmNvbS9sb2NhbC9yZXBvcnQvMDIwNTI0X2xnYnRxX3NjaG9vbHMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 19:11:59 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnR1Y3NvbnNlbnRpbmVsLmNvbS9sb2NhbC9yZXBvcnQvMDIwNTI0X2xnYnRxX3NjaG9vbHMv0gEA?oc=5\" target=\"_blank\">So your child is queer: A guide to finding a safe school</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TucsonSentinel.com</font>"
+            ],
+            "source": [
+              {
+                "_": "TucsonSentinel.com",
+                "$": {
+                  "url": "https://www.tucsonsentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Families of trans kids, activists say they're angered, scared, disgusted by Sask.'s pronoun law - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9zYXNrYXRvb24vcHJvbm91bi1sYXctYmlsbC0xMzctcmVhY3Rpb24tdHJhbnNnZW5kZXItb3V0aC1mYW1pbGllcy0xLjcwMDM5MzjSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzAwMzkzOA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9zYXNrYXRvb24vcHJvbm91bi1sYXctYmlsbC0xMzctcmVhY3Rpb24tdHJhbnNnZW5kZXItb3V0aC1mYW1pbGllcy0xLjcwMDM5MzjSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzAwMzkzOA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9zYXNrYXRvb24vcHJvbm91bi1sYXctYmlsbC0xMzctcmVhY3Rpb24tdHJhbnNnZW5kZXItb3V0aC1mYW1pbGllcy0xLjcwMDM5MzjSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzAwMzkzOA?oc=5\" target=\"_blank\">Families of trans kids, activists say they're angered, scared, disgusted by Sask.'s pronoun law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'The community feels very scared': Hundreds rally in Calgary against proposed transgender policies - Calgary Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vY2FsZ2FyeWhlcmFsZC5jb20vbmV3cy90aGUtY29tbXVuaXR5LWZlZWxzLXZlcnktc2NhcmVkLWh1bmRyZWRzLXJhbGx5LWluLWNhbGdhcnktYWdhaW5zdC1wcm9wb3NlZC10cmFuc2dlbmRlci1wb2xpY2llc9IBrAFodHRwczovL2NhbGdhcnloZXJhbGQuY29tL25ld3MvdGhlLWNvbW11bml0eS1mZWVscy12ZXJ5LXNjYXJlZC1odW5kcmVkcy1yYWxseS1pbi1jYWxnYXJ5LWFnYWluc3QtcHJvcG9zZWQtdHJhbnNnZW5kZXItcG9saWNpZXMvd2NtLzI3NmYyNjBmLTk5NGMtNGIwZS1hZWJmLTFhM2FiNWQ5MDk2NS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vY2FsZ2FyeWhlcmFsZC5jb20vbmV3cy90aGUtY29tbXVuaXR5LWZlZWxzLXZlcnktc2NhcmVkLWh1bmRyZWRzLXJhbGx5LWluLWNhbGdhcnktYWdhaW5zdC1wcm9wb3NlZC10cmFuc2dlbmRlci1wb2xpY2llc9IBrAFodHRwczovL2NhbGdhcnloZXJhbGQuY29tL25ld3MvdGhlLWNvbW11bml0eS1mZWVscy12ZXJ5LXNjYXJlZC1odW5kcmVkcy1yYWxseS1pbi1jYWxnYXJ5LWFnYWluc3QtcHJvcG9zZWQtdHJhbnNnZW5kZXItcG9saWNpZXMvd2NtLzI3NmYyNjBmLTk5NGMtNGIwZS1hZWJmLTFhM2FiNWQ5MDk2NS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 01:14:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vY2FsZ2FyeWhlcmFsZC5jb20vbmV3cy90aGUtY29tbXVuaXR5LWZlZWxzLXZlcnktc2NhcmVkLWh1bmRyZWRzLXJhbGx5LWluLWNhbGdhcnktYWdhaW5zdC1wcm9wb3NlZC10cmFuc2dlbmRlci1wb2xpY2llc9IBrAFodHRwczovL2NhbGdhcnloZXJhbGQuY29tL25ld3MvdGhlLWNvbW11bml0eS1mZWVscy12ZXJ5LXNjYXJlZC1odW5kcmVkcy1yYWxseS1pbi1jYWxnYXJ5LWFnYWluc3QtcHJvcG9zZWQtdHJhbnNnZW5kZXItcG9saWNpZXMvd2NtLzI3NmYyNjBmLTk5NGMtNGIwZS1hZWJmLTFhM2FiNWQ5MDk2NS9hbXAv?oc=5\" target=\"_blank\">'The community feels very scared': Hundreds rally in Calgary against proposed transgender policies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Calgary Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "Calgary Herald",
+                "$": {
+                  "url": "https://calgaryherald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Detransitioners open up to NY Times about feeling abandoned, harm of 'gender-affirming care:' 'It's a mess' - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2RldHJhbnNpdGlvbmVycy1vcGVuLW55LXRpbWVzLWZlZWxpbmctYWJhbmRvbmVkLWhhcm0tZ2VuZGVyLWFmZmlybWluZy1jYXJlLW1lc3PSAXFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9kZXRyYW5zaXRpb25lcnMtb3Blbi1ueS10aW1lcy1mZWVsaW5nLWFiYW5kb25lZC1oYXJtLWdlbmRlci1hZmZpcm1pbmctY2FyZS1tZXNzLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2RldHJhbnNpdGlvbmVycy1vcGVuLW55LXRpbWVzLWZlZWxpbmctYWJhbmRvbmVkLWhhcm0tZ2VuZGVyLWFmZmlybWluZy1jYXJlLW1lc3PSAXFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9kZXRyYW5zaXRpb25lcnMtb3Blbi1ueS10aW1lcy1mZWVsaW5nLWFiYW5kb25lZC1oYXJtLWdlbmRlci1hZmZpcm1pbmctY2FyZS1tZXNzLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 23:32:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2RldHJhbnNpdGlvbmVycy1vcGVuLW55LXRpbWVzLWZlZWxpbmctYWJhbmRvbmVkLWhhcm0tZ2VuZGVyLWFmZmlybWluZy1jYXJlLW1lc3PSAXFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9kZXRyYW5zaXRpb25lcnMtb3Blbi1ueS10aW1lcy1mZWVsaW5nLWFiYW5kb25lZC1oYXJtLWdlbmRlci1hZmZpcm1pbmctY2FyZS1tZXNzLmFtcA?oc=5\" target=\"_blank\">Detransitioners open up to NY Times about feeling abandoned, harm of 'gender-affirming care:' 'It's a mess'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Conversation: Alberta’s new policies are not only anti-trans, they are anti-evidence - Montreal Gazette"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL25hdGlvbmFsL3RoZS1jb252ZXJzYXRpb24tYWxiZXJ0YXMtbmV3LXBvbGljaWVzLWFyZS1ub3Qtb25seS1hbnRpLXRyYW5zLXRoZXktYXJlLWFudGktZXZpZGVuY2XSAa0BaHR0cHM6Ly9tb250cmVhbGdhemV0dGUuY29tL25ld3MvbmF0aW9uYWwvdGhlLWNvbnZlcnNhdGlvbi1hbGJlcnRhcy1uZXctcG9saWNpZXMtYXJlLW5vdC1vbmx5LWFudGktdHJhbnMtdGhleS1hcmUtYW50aS1ldmlkZW5jZS93Y20vY2Q0N2E5NTMtZjFiNS00Y2I2LTkzODQtMWM1YzRlNWFhNmQwL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL25hdGlvbmFsL3RoZS1jb252ZXJzYXRpb24tYWxiZXJ0YXMtbmV3LXBvbGljaWVzLWFyZS1ub3Qtb25seS1hbnRpLXRyYW5zLXRoZXktYXJlLWFudGktZXZpZGVuY2XSAa0BaHR0cHM6Ly9tb250cmVhbGdhemV0dGUuY29tL25ld3MvbmF0aW9uYWwvdGhlLWNvbnZlcnNhdGlvbi1hbGJlcnRhcy1uZXctcG9saWNpZXMtYXJlLW5vdC1vbmx5LWFudGktdHJhbnMtdGhleS1hcmUtYW50aS1ldmlkZW5jZS93Y20vY2Q0N2E5NTMtZjFiNS00Y2I2LTkzODQtMWM1YzRlNWFhNmQwL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 00:04:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL25hdGlvbmFsL3RoZS1jb252ZXJzYXRpb24tYWxiZXJ0YXMtbmV3LXBvbGljaWVzLWFyZS1ub3Qtb25seS1hbnRpLXRyYW5zLXRoZXktYXJlLWFudGktZXZpZGVuY2XSAa0BaHR0cHM6Ly9tb250cmVhbGdhemV0dGUuY29tL25ld3MvbmF0aW9uYWwvdGhlLWNvbnZlcnNhdGlvbi1hbGJlcnRhcy1uZXctcG9saWNpZXMtYXJlLW5vdC1vbmx5LWFudGktdHJhbnMtdGhleS1hcmUtYW50aS1ldmlkZW5jZS93Y20vY2Q0N2E5NTMtZjFiNS00Y2I2LTkzODQtMWM1YzRlNWFhNmQwL2FtcC8?oc=5\" target=\"_blank\">The Conversation: Alberta’s new policies are not only anti-trans, they are anti-evidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montreal Gazette</font>"
+            ],
+            "source": [
+              {
+                "_": "Montreal Gazette",
+                "$": {
+                  "url": "https://montrealgazette.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "National Center for Lesbian Rights unveils touching PSA about trans youth & their families - The Drum"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZWRydW0uY29tL25ld3MvMjAyMy8xMS8xMy9uYXRpb25hbC1jZW50ZXItbGVzYmlhbi1yaWdodHMtdW52ZWlscy10b3VjaGluZy1wc2EtYWJvdXQtdHJhbnMteW91dGgtdGhlaXItZmFtaWxpZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LnRoZWRydW0uY29tL25ld3MvMjAyMy8xMS8xMy9uYXRpb25hbC1jZW50ZXItbGVzYmlhbi1yaWdodHMtdW52ZWlscy10b3VjaGluZy1wc2EtYWJvdXQtdHJhbnMteW91dGgtdGhlaXItZmFtaWxpZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZWRydW0uY29tL25ld3MvMjAyMy8xMS8xMy9uYXRpb25hbC1jZW50ZXItbGVzYmlhbi1yaWdodHMtdW52ZWlscy10b3VjaGluZy1wc2EtYWJvdXQtdHJhbnMteW91dGgtdGhlaXItZmFtaWxpZXPSAQA?oc=5\" target=\"_blank\">National Center for Lesbian Rights unveils touching PSA about trans youth & their families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Drum</font>"
+            ],
+            "source": [
+              {
+                "_": "The Drum",
+                "$": {
+                  "url": "https://www.thedrum.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion: Support for trans kids and parent-child relationships are not mutually exclusive - The Globe and Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vb3Bpbmlvbi9hcnRpY2xlLXN1cHBvcnQtZm9yLXRyYW5zLWtpZHMtYW5kLXBhcmVudC1jaGlsZC1yZWxhdGlvbnNoaXBzLWFyZS1ub3QtbXV0dWFsbHkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vb3Bpbmlvbi9hcnRpY2xlLXN1cHBvcnQtZm9yLXRyYW5zLWtpZHMtYW5kLXBhcmVudC1jaGlsZC1yZWxhdGlvbnNoaXBzLWFyZS1ub3QtbXV0dWFsbHkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vb3Bpbmlvbi9hcnRpY2xlLXN1cHBvcnQtZm9yLXRyYW5zLWtpZHMtYW5kLXBhcmVudC1jaGlsZC1yZWxhdGlvbnNoaXBzLWFyZS1ub3QtbXV0dWFsbHkv0gEA?oc=5\" target=\"_blank\">Opinion: Support for trans kids and parent-child relationships are not mutually exclusive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "The Globe and Mail",
+                "$": {
+                  "url": "https://www.theglobeandmail.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta’s new trans policies continue to raise issues of rights and harm: expert - Global News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL9IBUmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL9IBUmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 20:51:46 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL9IBUmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL2FtcC8?oc=5\" target=\"_blank\">Alberta’s new trans policies continue to raise issues of rights and harm: expert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
+            ],
+            "source": [
+              {
+                "_": "Global News",
+                "$": {
+                  "url": "https://globalnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta premier says legislation on gender policies for children, youth coming this fall - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9kYW5pZWxsZS1zbWl0aC0xLjcxMDE1OTXSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzEwMTU5NQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9kYW5pZWxsZS1zbWl0aC0xLjcxMDE1OTXSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzEwMTU5NQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 16:59:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9kYW5pZWxsZS1zbWl0aC0xLjcxMDE1OTXSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzEwMTU5NQ?oc=5\" target=\"_blank\">Alberta premier says legislation on gender policies for children, youth coming this fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What Trans Youth Want You to Know | ACLU - ACLU"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmFjbHUub3JnL25ld3MvbGdidHEtcmlnaHRzL3doYXQtdHJhbnMteW91dGgtd2FudC15b3UtdG8ta25vd9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vd3d3LmFjbHUub3JnL25ld3MvbGdidHEtcmlnaHRzL3doYXQtdHJhbnMteW91dGgtd2FudC15b3UtdG8ta25vd9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 30 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmFjbHUub3JnL25ld3MvbGdidHEtcmlnaHRzL3doYXQtdHJhbnMteW91dGgtd2FudC15b3UtdG8ta25vd9IBAA?oc=5\" target=\"_blank\">What Trans Youth Want You to Know | ACLU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ACLU</font>"
+            ],
+            "source": [
+              {
+                "_": "ACLU",
+                "$": {
+                  "url": "https://www.aclu.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Conservatives Found a New Way to Stop Trans Kids From Being Kids - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vb3Bpbmlvbi9hcnRpY2xlcy8yMDIzLTExLTIxL2NvbnNlcnZhdGl2ZXMtZm91bmQtYS1uZXctd2F5LXRvLXN0b3AtdHJhbnMta2lkcy1mcm9tLWJlaW5nLWtpZHPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vb3Bpbmlvbi9hcnRpY2xlcy8yMDIzLTExLTIxL2NvbnNlcnZhdGl2ZXMtZm91bmQtYS1uZXctd2F5LXRvLXN0b3AtdHJhbnMta2lkcy1mcm9tLWJlaW5nLWtpZHPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vb3Bpbmlvbi9hcnRpY2xlcy8yMDIzLTExLTIxL2NvbnNlcnZhdGl2ZXMtZm91bmQtYS1uZXctd2F5LXRvLXN0b3AtdHJhbnMta2lkcy1mcm9tLWJlaW5nLWtpZHPSAQA?oc=5\" target=\"_blank\">Conservatives Found a New Way to Stop Trans Kids From Being Kids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How ‘opt-in’ sex ed could impact Alberta youth, parents and schools - Global News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MDM5L2FsYmVydGEtc21pdGgtb3B0LWluLXNleC1lZC15b3V0aC1wYXJlbnRhbC1yaWdodHMtc2Nob29scy_SAWJodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy8xMDI2OTAzOS9hbGJlcnRhLXNtaXRoLW9wdC1pbi1zZXgtZWQteW91dGgtcGFyZW50YWwtcmlnaHRzLXNjaG9vbHMvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MDM5L2FsYmVydGEtc21pdGgtb3B0LWluLXNleC1lZC15b3V0aC1wYXJlbnRhbC1yaWdodHMtc2Nob29scy_SAWJodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy8xMDI2OTAzOS9hbGJlcnRhLXNtaXRoLW9wdC1pbi1zZXgtZWQteW91dGgtcGFyZW50YWwtcmlnaHRzLXNjaG9vbHMvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 23:59:59 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MDM5L2FsYmVydGEtc21pdGgtb3B0LWluLXNleC1lZC15b3V0aC1wYXJlbnRhbC1yaWdodHMtc2Nob29scy_SAWJodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy8xMDI2OTAzOS9hbGJlcnRhLXNtaXRoLW9wdC1pbi1zZXgtZWQteW91dGgtcGFyZW50YWwtcmlnaHRzLXNjaG9vbHMvYW1wLw?oc=5\" target=\"_blank\">How ‘opt-in’ sex ed could impact Alberta youth, parents and schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
+            ],
+            "source": [
+              {
+                "_": "Global News",
+                "$": {
+                  "url": "https://globalnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Some Trans Kids Are Being Forced To Flee America For Their Safety - HuffPost"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS90cmFucy1raWRzLWZsZWUtdW5pdGVkLXN0YXRlcy1zYWZldHlfbl82NTRjNDRjN2U0YjA4OGQ5YTc0ZDIwMjjSAWJodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvdHJhbnMta2lkcy1mbGVlLXVuaXRlZC1zdGF0ZXMtc2FmZXR5X25fNjU0YzQ0YzdlNGIwODhkOWE3NGQyMDI4L2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS90cmFucy1raWRzLWZsZWUtdW5pdGVkLXN0YXRlcy1zYWZldHlfbl82NTRjNDRjN2U0YjA4OGQ5YTc0ZDIwMjjSAWJodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvdHJhbnMta2lkcy1mbGVlLXVuaXRlZC1zdGF0ZXMtc2FmZXR5X25fNjU0YzQ0YzdlNGIwODhkOWE3NGQyMDI4L2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 12 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS90cmFucy1raWRzLWZsZWUtdW5pdGVkLXN0YXRlcy1zYWZldHlfbl82NTRjNDRjN2U0YjA4OGQ5YTc0ZDIwMjjSAWJodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvdHJhbnMta2lkcy1mbGVlLXVuaXRlZC1zdGF0ZXMtc2FmZXR5X25fNjU0YzQ0YzdlNGIwODhkOWE3NGQyMDI4L2FtcA?oc=5\" target=\"_blank\">Some Trans Kids Are Being Forced To Flee America For Their Safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>"
+            ],
+            "source": [
+              {
+                "_": "HuffPost",
+                "$": {
+                  "url": "https://www.huffpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta’s new policies will put trans kids at risk, says teenager | The Current with Matt Galloway | Live Radio - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmNiYy5jYS9saXN0ZW4vbGl2ZS1yYWRpby8xLTYzLXRoZS1jdXJyZW50L2NsaXAvMTYwMzk2NzgtYWxiZXJ0YXMtcG9saWNpZXMtcHV0LXRyYW5zLWtpZHMtcmlzay1zYXlzLXRlZW5hZ2Vy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmNiYy5jYS9saXN0ZW4vbGl2ZS1yYWRpby8xLTYzLXRoZS1jdXJyZW50L2NsaXAvMTYwMzk2NzgtYWxiZXJ0YXMtcG9saWNpZXMtcHV0LXRyYW5zLWtpZHMtcmlzay1zYXlzLXRlZW5hZ2Vy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 15:58:37 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmNiYy5jYS9saXN0ZW4vbGl2ZS1yYWRpby8xLTYzLXRoZS1jdXJyZW50L2NsaXAvMTYwMzk2NzgtYWxiZXJ0YXMtcG9saWNpZXMtcHV0LXRyYW5zLWtpZHMtcmlzay1zYXlzLXRlZW5hZ2Vy0gEA?oc=5\" target=\"_blank\">Alberta’s new policies will put trans kids at risk, says teenager | The Current with Matt Galloway | Live Radio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘Committed to preventing every preventable’ child death? I asked about trans kids. - Colorado Newsline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vY29sb3JhZG9uZXdzbGluZS5jb20vMjAyMy8xMC8yMy9jb21taXR0ZWQtcHJldmVudGluZy1jaGlsZC1kZWF0aC10cmFucy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vY29sb3JhZG9uZXdzbGluZS5jb20vMjAyMy8xMC8yMy9jb21taXR0ZWQtcHJldmVudGluZy1jaGlsZC1kZWF0aC10cmFucy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vY29sb3JhZG9uZXdzbGluZS5jb20vMjAyMy8xMC8yMy9jb21taXR0ZWQtcHJldmVudGluZy1jaGlsZC1kZWF0aC10cmFucy_SAQA?oc=5\" target=\"_blank\">‘Committed to preventing every preventable’ child death? I asked about trans kids.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Colorado Newsline</font>"
+            ],
+            "source": [
+              {
+                "_": "Colorado Newsline",
+                "$": {
+                  "url": "https://coloradonewsline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ohio GOP lawmakers bully trans kids for Christmas, shedding themselves of any basic human decency - Ohio Capital Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL29oaW9jYXBpdGFsam91cm5hbC5jb20vMjAyMy8xMi8xNS9vaGlvLWdvcC1sYXdtYWtlcnMtYnVsbHktdHJhbnMta2lkcy1mb3ItY2hyaXN0bWFzLXNoZWRkaW5nLXRoZW1zZWx2ZXMtb2YtYW55LWJhc2ljLWh1bWFuLWRlY2VuY3kv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL29oaW9jYXBpdGFsam91cm5hbC5jb20vMjAyMy8xMi8xNS9vaGlvLWdvcC1sYXdtYWtlcnMtYnVsbHktdHJhbnMta2lkcy1mb3ItY2hyaXN0bWFzLXNoZWRkaW5nLXRoZW1zZWx2ZXMtb2YtYW55LWJhc2ljLWh1bWFuLWRlY2VuY3kv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL29oaW9jYXBpdGFsam91cm5hbC5jb20vMjAyMy8xMi8xNS9vaGlvLWdvcC1sYXdtYWtlcnMtYnVsbHktdHJhbnMta2lkcy1mb3ItY2hyaXN0bWFzLXNoZWRkaW5nLXRoZW1zZWx2ZXMtb2YtYW55LWJhc2ljLWh1bWFuLWRlY2VuY3kv0gEA?oc=5\" target=\"_blank\">Ohio GOP lawmakers bully trans kids for Christmas, shedding themselves of any basic human decency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ohio Capital Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Ohio Capital Journal",
+                "$": {
+                  "url": "https://ohiocapitaljournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Michigan GOP lawmaker defends trans health care discussion ⋆ Michigan Advance - Michigan Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vbWljaGlnYW5hZHZhbmNlLmNvbS8yMDI0LzAxLzMwL21pY2hpZ2FuLWdvcC1sYXdtYWtlci1kZWZlbmRzLXRyYW5zLWhlYWx0aC1jYXJlLWRpc2N1c3Npb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vbWljaGlnYW5hZHZhbmNlLmNvbS8yMDI0LzAxLzMwL21pY2hpZ2FuLWdvcC1sYXdtYWtlci1kZWZlbmRzLXRyYW5zLWhlYWx0aC1jYXJlLWRpc2N1c3Npb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 20:27:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vbWljaGlnYW5hZHZhbmNlLmNvbS8yMDI0LzAxLzMwL21pY2hpZ2FuLWdvcC1sYXdtYWtlci1kZWZlbmRzLXRyYW5zLWhlYWx0aC1jYXJlLWRpc2N1c3Npb24v0gEA?oc=5\" target=\"_blank\">Michigan GOP lawmaker defends trans health care discussion ⋆ Michigan Advance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "Michigan Advance",
+                "$": {
+                  "url": "https://michiganadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Doctors warn new rules on Alberta trans medical care will increase risk of suicide and self-harm - Edmonton Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy9kb2N0b3JzLXdhcm4tbmV3LXJ1bGVzLW9uLWFsYmVydGEtdHJhbnMtbWVkaWNhbC1jYXJlLXdpbGwtaW5jcmVhc2Utcmlzay1vZi1zdWljaWRlLWFuZC1zZWxmLWhhcm3SAbgBaHR0cHM6Ly9lZG1vbnRvbmpvdXJuYWwuY29tL25ld3MvcG9saXRpY3MvZG9jdG9ycy13YXJuLW5ldy1ydWxlcy1vbi1hbGJlcnRhLXRyYW5zLW1lZGljYWwtY2FyZS13aWxsLWluY3JlYXNlLXJpc2stb2Ytc3VpY2lkZS1hbmQtc2VsZi1oYXJtL3djbS9kYThjYjA3YS1iMTM3LTRlMzctOTc0Yi1mODhlMmY3NzMzMDkvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy9kb2N0b3JzLXdhcm4tbmV3LXJ1bGVzLW9uLWFsYmVydGEtdHJhbnMtbWVkaWNhbC1jYXJlLXdpbGwtaW5jcmVhc2Utcmlzay1vZi1zdWljaWRlLWFuZC1zZWxmLWhhcm3SAbgBaHR0cHM6Ly9lZG1vbnRvbmpvdXJuYWwuY29tL25ld3MvcG9saXRpY3MvZG9jdG9ycy13YXJuLW5ldy1ydWxlcy1vbi1hbGJlcnRhLXRyYW5zLW1lZGljYWwtY2FyZS13aWxsLWluY3JlYXNlLXJpc2stb2Ytc3VpY2lkZS1hbmQtc2VsZi1oYXJtL3djbS9kYThjYjA3YS1iMTM3LTRlMzctOTc0Yi1mODhlMmY3NzMzMDkvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 00:12:45 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vbmV3cy9wb2xpdGljcy9kb2N0b3JzLXdhcm4tbmV3LXJ1bGVzLW9uLWFsYmVydGEtdHJhbnMtbWVkaWNhbC1jYXJlLXdpbGwtaW5jcmVhc2Utcmlzay1vZi1zdWljaWRlLWFuZC1zZWxmLWhhcm3SAbgBaHR0cHM6Ly9lZG1vbnRvbmpvdXJuYWwuY29tL25ld3MvcG9saXRpY3MvZG9jdG9ycy13YXJuLW5ldy1ydWxlcy1vbi1hbGJlcnRhLXRyYW5zLW1lZGljYWwtY2FyZS13aWxsLWluY3JlYXNlLXJpc2stb2Ytc3VpY2lkZS1hbmQtc2VsZi1oYXJtL3djbS9kYThjYjA3YS1iMTM3LTRlMzctOTc0Yi1mODhlMmY3NzMzMDkvYW1wLw?oc=5\" target=\"_blank\">Doctors warn new rules on Alberta trans medical care will increase risk of suicide and self-harm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Edmonton Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Edmonton Journal",
+                "$": {
+                  "url": "https://edmontonjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Athletes, advocates push back against Alberta's new transgender policies - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9hbGJlcnRhLXRyYW5zZ2VuZGVyLXdvbWVuLWFuZC1naXJscy1hdGhsZXRlcy1zcG9ydHMtMS43MTA0MTE20gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDQxMTY?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9hbGJlcnRhLXRyYW5zZ2VuZGVyLXdvbWVuLWFuZC1naXJscy1hdGhsZXRlcy1zcG9ydHMtMS43MTA0MTE20gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDQxMTY",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 14:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9hbGJlcnRhLXRyYW5zZ2VuZGVyLXdvbWVuLWFuZC1naXJscy1hdGhsZXRlcy1zcG9ydHMtMS43MTA0MTE20gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDQxMTY?oc=5\" target=\"_blank\">Athletes, advocates push back against Alberta's new transgender policies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta Opposition leader, federal ministers react to premier’s policy affecting transgender youth - Global News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2MDYzL2FsYmVydGEtc21pdGgtcG9saWN5LXBvbGl0aWNpYW5zLXJlYWN0LXRyYW5zZ2VuZGVyL9IBW2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2MDYzL2FsYmVydGEtc21pdGgtcG9saWN5LXBvbGl0aWNpYW5zLXJlYWN0LXRyYW5zZ2VuZGVyL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2MDYzL2FsYmVydGEtc21pdGgtcG9saWN5LXBvbGl0aWNpYW5zLXJlYWN0LXRyYW5zZ2VuZGVyL9IBW2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2MDYzL2FsYmVydGEtc21pdGgtcG9saWN5LXBvbGl0aWNpYW5zLXJlYWN0LXRyYW5zZ2VuZGVyL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 23:01:08 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2MDYzL2FsYmVydGEtc21pdGgtcG9saWN5LXBvbGl0aWNpYW5zLXJlYWN0LXRyYW5zZ2VuZGVyL9IBW2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY2MDYzL2FsYmVydGEtc21pdGgtcG9saWN5LXBvbGl0aWNpYW5zLXJlYWN0LXRyYW5zZ2VuZGVyL2FtcC8?oc=5\" target=\"_blank\">Alberta Opposition leader, federal ministers react to premier’s policy affecting transgender youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
+            ],
+            "source": [
+              {
+                "_": "Global News",
+                "$": {
+                  "url": "https://globalnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Texas Attorney General Expands Pursuit Of Medical Records For Trans Youth - HuffPost"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS90ZXhhcy1hZy10cmFucy15b3V0aC1tZWRpY2FsLXJlY29yZHNfbl82NWI4MTc4NWU0YjAxYzVjM2EzN2M3MTPSAWJodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvdGV4YXMtYWctdHJhbnMteW91dGgtbWVkaWNhbC1yZWNvcmRzX25fNjViODE3ODVlNGIwMWM1YzNhMzdjNzEzL2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS90ZXhhcy1hZy10cmFucy15b3V0aC1tZWRpY2FsLXJlY29yZHNfbl82NWI4MTc4NWU0YjAxYzVjM2EzN2M3MTPSAWJodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvdGV4YXMtYWctdHJhbnMteW91dGgtbWVkaWNhbC1yZWNvcmRzX25fNjViODE3ODVlNGIwMWM1YzNhMzdjNzEzL2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jan 2024 23:13:40 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS90ZXhhcy1hZy10cmFucy15b3V0aC1tZWRpY2FsLXJlY29yZHNfbl82NWI4MTc4NWU0YjAxYzVjM2EzN2M3MTPSAWJodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvdGV4YXMtYWctdHJhbnMteW91dGgtbWVkaWNhbC1yZWNvcmRzX25fNjViODE3ODVlNGIwMWM1YzNhMzdjNzEzL2FtcA?oc=5\" target=\"_blank\">Texas Attorney General Expands Pursuit Of Medical Records For Trans Youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>"
+            ],
+            "source": [
+              {
+                "_": "HuffPost",
+                "$": {
+                  "url": "https://www.huffpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The cruelty and calm of Alberta's attack on trans rights - Xtra Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9oZWFsdGgvdHJhbnMtaGVhbHRoL2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcG9saWN5LXRyYW5zLTI2MjUwMNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9oZWFsdGgvdHJhbnMtaGVhbHRoL2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcG9saWN5LXRyYW5zLTI2MjUwMNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 21:15:27 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9oZWFsdGgvdHJhbnMtaGVhbHRoL2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcG9saWN5LXRyYW5zLTI2MjUwMNIBAA?oc=5\" target=\"_blank\">The cruelty and calm of Alberta's attack on trans rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xtra Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Xtra Magazine",
+                "$": {
+                  "url": "https://xtramagazine.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "47 groups issue joint statement against Alberta’s new trans policy, rallies held - Global News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwOTEyL2FsYmVydGEtdHJhbnMtcG9saWN5LXN0YXRlbWVudC1yYWxsaWVzL9IBT2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwOTEyL2FsYmVydGEtdHJhbnMtcG9saWN5LXN0YXRlbWVudC1yYWxsaWVzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwOTEyL2FsYmVydGEtdHJhbnMtcG9saWN5LXN0YXRlbWVudC1yYWxsaWVzL9IBT2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwOTEyL2FsYmVydGEtdHJhbnMtcG9saWN5LXN0YXRlbWVudC1yYWxsaWVzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 23:29:20 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwOTEyL2FsYmVydGEtdHJhbnMtcG9saWN5LXN0YXRlbWVudC1yYWxsaWVzL9IBT2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjcwOTEyL2FsYmVydGEtdHJhbnMtcG9saWN5LXN0YXRlbWVudC1yYWxsaWVzL2FtcC8?oc=5\" target=\"_blank\">47 groups issue joint statement against Alberta’s new trans policy, rallies held</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
+            ],
+            "source": [
+              {
+                "_": "Global News",
+                "$": {
+                  "url": "https://globalnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Families with trans kids flee to Colorado as other states ban gender-affirming care - Colorado Public Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNwci5vcmcvMjAyNC8wMS8wMy9mYW1pbGllcy13aXRoLXRyYW5zLWNob29zZS1jb2xvcmFkby1hcy1vdGhlci1zdGF0ZXMtYmFuLWdlbmRlci1hZmZpcm1pbmctY2FyZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmNwci5vcmcvMjAyNC8wMS8wMy9mYW1pbGllcy13aXRoLXRyYW5zLWNob29zZS1jb2xvcmFkby1hcy1vdGhlci1zdGF0ZXMtYmFuLWdlbmRlci1hZmZpcm1pbmctY2FyZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNwci5vcmcvMjAyNC8wMS8wMy9mYW1pbGllcy13aXRoLXRyYW5zLWNob29zZS1jb2xvcmFkby1hcy1vdGhlci1zdGF0ZXMtYmFuLWdlbmRlci1hZmZpcm1pbmctY2FyZS_SAQA?oc=5\" target=\"_blank\">Families with trans kids flee to Colorado as other states ban gender-affirming care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Colorado Public Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "Colorado Public Radio",
+                "$": {
+                  "url": "https://www.cpr.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trans policies out of 'concern of what will happen': Smith - CTV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5jdHZuZXdzLmNhL3BvbGl0aWNzL3ByZW1pZXItc21pdGgtc2F5cy1hbGJlcnRhLXMtZ2VuZGVyLWlkZW50aXR5LXBvbGljaWVzLWFyZS1iYXNlZC1vbi1hLWNvbmNlcm4tYWJvdXQtd2hhdC13aWxsLWhhcHBlbi0xLjY3NTY5NTnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5jdHZuZXdzLmNhL3BvbGl0aWNzL3ByZW1pZXItc21pdGgtc2F5cy1hbGJlcnRhLXMtZ2VuZGVyLWlkZW50aXR5LXBvbGljaWVzLWFyZS1iYXNlZC1vbi1hLWNvbmNlcm4tYWJvdXQtd2hhdC13aWxsLWhhcHBlbi0xLjY3NTY5NTnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 23:30:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5jdHZuZXdzLmNhL3BvbGl0aWNzL3ByZW1pZXItc21pdGgtc2F5cy1hbGJlcnRhLXMtZ2VuZGVyLWlkZW50aXR5LXBvbGljaWVzLWFyZS1iYXNlZC1vbi1hLWNvbmNlcm4tYWJvdXQtd2hhdC13aWxsLWhhcHBlbi0xLjY3NTY5NTnSAQA?oc=5\" target=\"_blank\">Trans policies out of 'concern of what will happen': Smith</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News",
+                "$": {
+                  "url": "https://www.ctvnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Over 100 community members gathered across from City Hall to protest proposed parental rights policy in Alberta ... - Castanet.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5jYXN0YW5ldC5uZXQvbmV3cy9LZWxvd25hLzQ3MDcyNy9PdmVyLTEwMC1jb21tdW5pdHktbWVtYmVycy1nYXRoZXJlZC1hY3Jvc3MtZnJvbS1DaXR5LUhhbGwtdG8tcHJvdGVzdC1wcm9wb3NlZC1wYXJlbnRhbC1yaWdodHMtcG9saWN5LWluLUFsYmVydGEtaW1wYWN0aW5nLXRyYW5zZ2VuZGVyLXlvdXRo0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiuAFodHRwczovL3d3dy5jYXN0YW5ldC5uZXQvbmV3cy9LZWxvd25hLzQ3MDcyNy9PdmVyLTEwMC1jb21tdW5pdHktbWVtYmVycy1nYXRoZXJlZC1hY3Jvc3MtZnJvbS1DaXR5LUhhbGwtdG8tcHJvdGVzdC1wcm9wb3NlZC1wYXJlbnRhbC1yaWdodHMtcG9saWN5LWluLUFsYmVydGEtaW1wYWN0aW5nLXRyYW5zZ2VuZGVyLXlvdXRo0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 00:05:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5jYXN0YW5ldC5uZXQvbmV3cy9LZWxvd25hLzQ3MDcyNy9PdmVyLTEwMC1jb21tdW5pdHktbWVtYmVycy1nYXRoZXJlZC1hY3Jvc3MtZnJvbS1DaXR5LUhhbGwtdG8tcHJvdGVzdC1wcm9wb3NlZC1wYXJlbnRhbC1yaWdodHMtcG9saWN5LWluLUFsYmVydGEtaW1wYWN0aW5nLXRyYW5zZ2VuZGVyLXlvdXRo0gEA?oc=5\" target=\"_blank\">Over 100 community members gathered across from City Hall to protest proposed parental rights policy in Alberta ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Castanet.net</font>"
+            ],
+            "source": [
+              {
+                "_": "Castanet.net",
+                "$": {
+                  "url": "https://www.castanet.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rahim Mohamed: Nope, Alberta's gender policy isn't a matter of 'life and death' - National Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmF0aW9uYWxwb3N0LmNvbS9vcGluaW9uL3JhaGltLW1vaGFtZWQtbm9wZS1hbGJlcnRhcy1nZW5kZXItcG9saWN5LWlzbnQtYS1tYXR0ZXItb2YtbGlmZS1hbmQtZGVhdGjSAZgBaHR0cHM6Ly9uYXRpb25hbHBvc3QuY29tL29waW5pb24vcmFoaW0tbW9oYW1lZC1ub3BlLWFsYmVydGFzLWdlbmRlci1wb2xpY3ktaXNudC1hLW1hdHRlci1vZi1saWZlLWFuZC1kZWF0aC93Y20vYTMzMjRkMTQtNDNkYi00NjE0LTk0NmQtYTZiZWY2M2QzZmYwL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vbmF0aW9uYWxwb3N0LmNvbS9vcGluaW9uL3JhaGltLW1vaGFtZWQtbm9wZS1hbGJlcnRhcy1nZW5kZXItcG9saWN5LWlzbnQtYS1tYXR0ZXItb2YtbGlmZS1hbmQtZGVhdGjSAZgBaHR0cHM6Ly9uYXRpb25hbHBvc3QuY29tL29waW5pb24vcmFoaW0tbW9oYW1lZC1ub3BlLWFsYmVydGFzLWdlbmRlci1wb2xpY3ktaXNudC1hLW1hdHRlci1vZi1saWZlLWFuZC1kZWF0aC93Y20vYTMzMjRkMTQtNDNkYi00NjE0LTk0NmQtYTZiZWY2M2QzZmYwL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 17:43:49 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmF0aW9uYWxwb3N0LmNvbS9vcGluaW9uL3JhaGltLW1vaGFtZWQtbm9wZS1hbGJlcnRhcy1nZW5kZXItcG9saWN5LWlzbnQtYS1tYXR0ZXItb2YtbGlmZS1hbmQtZGVhdGjSAZgBaHR0cHM6Ly9uYXRpb25hbHBvc3QuY29tL29waW5pb24vcmFoaW0tbW9oYW1lZC1ub3BlLWFsYmVydGFzLWdlbmRlci1wb2xpY3ktaXNudC1hLW1hdHRlci1vZi1saWZlLWFuZC1kZWF0aC93Y20vYTMzMjRkMTQtNDNkYi00NjE0LTk0NmQtYTZiZWY2M2QzZmYwL2FtcC8?oc=5\" target=\"_blank\">Rahim Mohamed: Nope, Alberta's gender policy isn't a matter of 'life and death'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Post</font>"
+            ],
+            "source": [
+              {
+                "_": "National Post",
+                "$": {
+                  "url": "https://nationalpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What would Jesus do about trans kids? (Opinion) - Houston Chronicle "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL29waW5pb24vb3V0bG9vay9hcnRpY2xlL2NocmlzdGlhbml0eS10cmFucy1raWRzLTE4MzAzNzI4LnBocNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL29waW5pb24vb3V0bG9vay9hcnRpY2xlL2NocmlzdGlhbml0eS10cmFucy1raWRzLTE4MzAzNzI4LnBocNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 20 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL29waW5pb24vb3V0bG9vay9hcnRpY2xlL2NocmlzdGlhbml0eS10cmFucy1raWRzLTE4MzAzNzI4LnBocNIBAA?oc=5\" target=\"_blank\">What would Jesus do about trans kids? (Opinion)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Houston Chronicle </font>"
+            ],
+            "source": [
+              {
+                "_": "Houston Chronicle ",
+                "$": {
+                  "url": "https://www.houstonchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Doctors, nurses and medical groups urge province to walk back plans to limit gender-affirming care - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9jYWxnYXJ5L21lZGljYWwtZ3JvdXBzLWFsYmVydGEtZ292ZXJubWVudC1nZW5kZXItYWZmaXJtaW5nLWNhcmUtcG9saWNpZXMtMS43MTAzMDk50gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDMwOTk?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9jYWxnYXJ5L21lZGljYWwtZ3JvdXBzLWFsYmVydGEtZ292ZXJubWVudC1nZW5kZXItYWZmaXJtaW5nLWNhcmUtcG9saWNpZXMtMS43MTAzMDk50gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDMwOTk",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 23:17:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9jYWxnYXJ5L21lZGljYWwtZ3JvdXBzLWFsYmVydGEtZ292ZXJubWVudC1nZW5kZXItYWZmaXJtaW5nLWNhcmUtcG9saWNpZXMtMS43MTAzMDk50gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDMwOTk?oc=5\" target=\"_blank\">Doctors, nurses and medical groups urge province to walk back plans to limit gender-affirming care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Doctors Working With Trans Kids Oppose 'Unsafe' State Bans - HealthDay"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmhlYWx0aGRheS5jb20vaGVhbHRoLW5ld3Mvc2V4dWFsLWhlYWx0aC90cmFuc2dlbmRlci0yNjY1NDQwMjE3Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LmhlYWx0aGRheS5jb20vaGVhbHRoLW5ld3Mvc2V4dWFsLWhlYWx0aC90cmFuc2dlbmRlci0yNjY1NDQwMjE3Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmhlYWx0aGRheS5jb20vaGVhbHRoLW5ld3Mvc2V4dWFsLWhlYWx0aC90cmFuc2dlbmRlci0yNjY1NDQwMjE3Lmh0bWzSAQA?oc=5\" target=\"_blank\">Doctors Working With Trans Kids Oppose 'Unsafe' State Bans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HealthDay</font>"
+            ],
+            "source": [
+              {
+                "_": "HealthDay",
+                "$": {
+                  "url": "https://www.healthday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Federal politicians react to Danielle Smith's trans restrictions - CTV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5jdHZuZXdzLmNhL3BvbGl0aWNzL3RydWRlYXUtbWluaXN0ZXItc2F5cy1hbGJlcnRhLXMtdHJhbnMtcG9saWN5LXByb3Bvc2FsLWVxdWFsLXRvLW5hdG8tbW9tZW50LWZvci1sZ2J0cTJzLWNvbW11bml0eS0xLjY3NTE1OTfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy5jdHZuZXdzLmNhL3BvbGl0aWNzL3RydWRlYXUtbWluaXN0ZXItc2F5cy1hbGJlcnRhLXMtdHJhbnMtcG9saWN5LXByb3Bvc2FsLWVxdWFsLXRvLW5hdG8tbW9tZW50LWZvci1sZ2J0cTJzLWNvbW11bml0eS0xLjY3NTE1OTfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 18:45:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5jdHZuZXdzLmNhL3BvbGl0aWNzL3RydWRlYXUtbWluaXN0ZXItc2F5cy1hbGJlcnRhLXMtdHJhbnMtcG9saWN5LXByb3Bvc2FsLWVxdWFsLXRvLW5hdG8tbW9tZW50LWZvci1sZ2J0cTJzLWNvbW11bml0eS0xLjY3NTE1OTfSAQA?oc=5\" target=\"_blank\">Federal politicians react to Danielle Smith's trans restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News",
+                "$": {
+                  "url": "https://www.ctvnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Preserving kids' choices': Alberta premier says transgender rules coming in fall - CTV News Calgary"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vY2FsZ2FyeS5jdHZuZXdzLmNhL3ByZXNlcnZpbmcta2lkcy1jaG9pY2VzLWFsYmVydGEtcHJlbWllci1zYXlzLXRyYW5zZ2VuZGVyLXJ1bGVzLWNvbWluZy1pbi1mYWxsLTEuNjc1MjE2ONIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vY2FsZ2FyeS5jdHZuZXdzLmNhL3ByZXNlcnZpbmcta2lkcy1jaG9pY2VzLWFsYmVydGEtcHJlbWllci1zYXlzLXRyYW5zZ2VuZGVyLXJ1bGVzLWNvbWluZy1pbi1mYWxsLTEuNjc1MjE2ONIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 22:59:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vY2FsZ2FyeS5jdHZuZXdzLmNhL3ByZXNlcnZpbmcta2lkcy1jaG9pY2VzLWFsYmVydGEtcHJlbWllci1zYXlzLXRyYW5zZ2VuZGVyLXJ1bGVzLWNvbWluZy1pbi1mYWxsLTEuNjc1MjE2ONIBAA?oc=5\" target=\"_blank\">'Preserving kids' choices': Alberta premier says transgender rules coming in fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News Calgary</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News Calgary",
+                "$": {
+                  "url": "https://calgary.ctvnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trudeau says Premier Smith's new transgender policies target 'vulnerable' youth - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL3RydWRlYXUtcmVzcG9uZHMtZGFuaWVsbGUtc21pdGgtdHJhbnMtcG9saWNpZXMtMS43MTAzMjUw0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDMyNTA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL3RydWRlYXUtcmVzcG9uZHMtZGFuaWVsbGUtc21pdGgtdHJhbnMtcG9saWNpZXMtMS43MTAzMjUw0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDMyNTA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 20:22:45 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL3RydWRlYXUtcmVzcG9uZHMtZGFuaWVsbGUtc21pdGgtdHJhbnMtcG9saWNpZXMtMS43MTAzMjUw0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMDMyNTA?oc=5\" target=\"_blank\">Trudeau says Premier Smith's new transgender policies target 'vulnerable' youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kobach says he's 'committed to preventing every preventable' child death. I asked about trans kids. - Kansas Reflector"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimAFodHRwczovL2thbnNhc3JlZmxlY3Rvci5jb20vMjAyMy8xMC8xNi9rYW5zYXMtYWcta29iYWNoLWNsYWltcy1oZXMtY29tbWl0dGVkLXRvLXByZXZlbnRpbmctZXZlcnktcHJldmVudGFibGUtY2hpbGQtZGVhdGgtc28td2hhdC1hYm91dC10cmFuc2dlbmRlci1raWRzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimAFodHRwczovL2thbnNhc3JlZmxlY3Rvci5jb20vMjAyMy8xMC8xNi9rYW5zYXMtYWcta29iYWNoLWNsYWltcy1oZXMtY29tbWl0dGVkLXRvLXByZXZlbnRpbmctZXZlcnktcHJldmVudGFibGUtY2hpbGQtZGVhdGgtc28td2hhdC1hYm91dC10cmFuc2dlbmRlci1raWRzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL2thbnNhc3JlZmxlY3Rvci5jb20vMjAyMy8xMC8xNi9rYW5zYXMtYWcta29iYWNoLWNsYWltcy1oZXMtY29tbWl0dGVkLXRvLXByZXZlbnRpbmctZXZlcnktcHJldmVudGFibGUtY2hpbGQtZGVhdGgtc28td2hhdC1hYm91dC10cmFuc2dlbmRlci1raWRzL9IBAA?oc=5\" target=\"_blank\">Kobach says he's 'committed to preventing every preventable' child death. I asked about trans kids.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas Reflector</font>"
+            ],
+            "source": [
+              {
+                "_": "Kansas Reflector",
+                "$": {
+                  "url": "https://kansasreflector.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ohio lawmakers stealing sense of belonging away from stressed trans kids - The Columbus Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5kaXNwYXRjaC5jb20vc3Rvcnkvb3Bpbmlvbi9jb2x1bW5zL2d1ZXN0LzIwMjQvMDEvMjQvb2hpby1ob3VzZS1iaWxsLTY4LXZldG8tb3ZlcnJpZGUtdW5uZWNlc3NhcnktaHVydGluZy10cmFucy1raWRzLzcyMTkzNjMzMDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5kaXNwYXRjaC5jb20vc3Rvcnkvb3Bpbmlvbi9jb2x1bW5zL2d1ZXN0LzIwMjQvMDEvMjQvb2hpby1ob3VzZS1iaWxsLTY4LXZldG8tb3ZlcnJpZGUtdW5uZWNlc3NhcnktaHVydGluZy10cmFucy1raWRzLzcyMTkzNjMzMDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 11:11:35 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5kaXNwYXRjaC5jb20vc3Rvcnkvb3Bpbmlvbi9jb2x1bW5zL2d1ZXN0LzIwMjQvMDEvMjQvb2hpby1ob3VzZS1iaWxsLTY4LXZldG8tb3ZlcnJpZGUtdW5uZWNlc3NhcnktaHVydGluZy10cmFucy1raWRzLzcyMTkzNjMzMDA3L9IBAA?oc=5\" target=\"_blank\">Ohio lawmakers stealing sense of belonging away from stressed trans kids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Columbus Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "The Columbus Dispatch",
+                "$": {
+                  "url": "https://www.dispatch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "David Staples: It's too much for children and teachers to deal with gender dysphoria on their own - Edmonton Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vb3Bpbmlvbi9jb2x1bW5pc3RzL2RhdmlkLXN0YXBsZXMtaXRzLXRvby1tdWNoLWZvci1jaGlsZHJlbi1hbmQtdGVhY2hlcnMtdG8tZGVhbC13aXRoLWdlbmRlci1keXNwaG9yaWEtb24tdGhlaXItb3du0gG8AWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2NvbHVtbmlzdHMvZGF2aWQtc3RhcGxlcy1pdHMtdG9vLW11Y2gtZm9yLWNoaWxkcmVuLWFuZC10ZWFjaGVycy10by1kZWFsLXdpdGgtZ2VuZGVyLWR5c3Bob3JpYS1vbi10aGVpci1vd24vd2NtLzYzZWM3ZTc4LWMwYzItNGQ1MC1iYTY5LTdiOTU2YzdlZTFhZS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vb3Bpbmlvbi9jb2x1bW5pc3RzL2RhdmlkLXN0YXBsZXMtaXRzLXRvby1tdWNoLWZvci1jaGlsZHJlbi1hbmQtdGVhY2hlcnMtdG8tZGVhbC13aXRoLWdlbmRlci1keXNwaG9yaWEtb24tdGhlaXItb3du0gG8AWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2NvbHVtbmlzdHMvZGF2aWQtc3RhcGxlcy1pdHMtdG9vLW11Y2gtZm9yLWNoaWxkcmVuLWFuZC10ZWFjaGVycy10by1kZWFsLXdpdGgtZ2VuZGVyLWR5c3Bob3JpYS1vbi10aGVpci1vd24vd2NtLzYzZWM3ZTc4LWMwYzItNGQ1MC1iYTY5LTdiOTU2YzdlZTFhZS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 14:22:13 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vb3Bpbmlvbi9jb2x1bW5pc3RzL2RhdmlkLXN0YXBsZXMtaXRzLXRvby1tdWNoLWZvci1jaGlsZHJlbi1hbmQtdGVhY2hlcnMtdG8tZGVhbC13aXRoLWdlbmRlci1keXNwaG9yaWEtb24tdGhlaXItb3du0gG8AWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2NvbHVtbmlzdHMvZGF2aWQtc3RhcGxlcy1pdHMtdG9vLW11Y2gtZm9yLWNoaWxkcmVuLWFuZC10ZWFjaGVycy10by1kZWFsLXdpdGgtZ2VuZGVyLWR5c3Bob3JpYS1vbi10aGVpci1vd24vd2NtLzYzZWM3ZTc4LWMwYzItNGQ1MC1iYTY5LTdiOTU2YzdlZTFhZS9hbXAv?oc=5\" target=\"_blank\">David Staples: It's too much for children and teachers to deal with gender dysphoria on their own</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Edmonton Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Edmonton Journal",
+                "$": {
+                  "url": "https://edmontonjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Targeting Trans Kids, Florida School Board Requires Parental Approval for Nicknames - The Intercept"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIzLzA4LzA5L2Zsb3JpZGEtc2Nob29sLWJvYXJkLWFudGktdHJhbnMtcG9saWN5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIzLzA4LzA5L2Zsb3JpZGEtc2Nob29sLWJvYXJkLWFudGktdHJhbnMtcG9saWN5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIzLzA4LzA5L2Zsb3JpZGEtc2Nob29sLWJvYXJkLWFudGktdHJhbnMtcG9saWN5L9IBAA?oc=5\" target=\"_blank\">Targeting Trans Kids, Florida School Board Requires Parental Approval for Nicknames</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Intercept</font>"
+            ],
+            "source": [
+              {
+                "_": "The Intercept",
+                "$": {
+                  "url": "https://theintercept.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Alfonso Gambone\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Alfonso+Gambone&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Burlington Dems hold three county offices - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA?oc=5\" target=\"_blank\">Burlington Dems hold three county offices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democratic County Commissioners Singh, Pullion Seeking Re-election in Face of Challenge from Moorestown ... - Pine Barrens Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWNvdW50eS1jb21taXNzaW9uZXJzLXNpbmdoLXB1bGxpb24tc2Vla2luZy1yZWVsZWN0aW9uLWluLWZhY2UtcDU0MDMtMTY1Lmh0bdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWNvdW50eS1jb21taXNzaW9uZXJzLXNpbmdoLXB1bGxpb24tc2Vla2luZy1yZWVsZWN0aW9uLWluLWZhY2UtcDU0MDMtMTY1Lmh0bdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 04 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWNvdW50eS1jb21taXNzaW9uZXJzLXNpbmdoLXB1bGxpb24tc2Vla2luZy1yZWVsZWN0aW9uLWluLWZhY2UtcDU0MDMtMTY1Lmh0bdIBAA?oc=5\" target=\"_blank\">Democratic County Commissioners Singh, Pullion Seeking Re-election in Face of Challenge from Moorestown ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pine Barrens Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Pine Barrens Tribune",
+                "$": {
+                  "url": "https://pinebarrenstribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election Day In Moorestown: Who's On The Ballot, Where To Vote - Patch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA?oc=5\" target=\"_blank\">Election Day In Moorestown: Who's On The Ballot, Where To Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
+            ],
+            "source": [
+              {
+                "_": "Patch",
+                "$": {
+                  "url": "https://patch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election 2023: Clean Sweep for Democrats at County, State Legislative Levels - TAPinto.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9tb3VudC1sYXVyZWwvc2VjdGlvbnMvZWxlY3Rpb25zL2FydGljbGVzL2VsZWN0aW9uLTIwMjMtY2xlYW4tc3dlZXAtZm9yLWRlbW9jcmF0cy1hdC1jb3VudHktc3RhdGUtbGVnaXNsYXRpdmUtbGV2ZWxz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9tb3VudC1sYXVyZWwvc2VjdGlvbnMvZWxlY3Rpb25zL2FydGljbGVzL2VsZWN0aW9uLTIwMjMtY2xlYW4tc3dlZXAtZm9yLWRlbW9jcmF0cy1hdC1jb3VudHktc3RhdGUtbGVnaXNsYXRpdmUtbGV2ZWxz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9tb3VudC1sYXVyZWwvc2VjdGlvbnMvZWxlY3Rpb25zL2FydGljbGVzL2VsZWN0aW9uLTIwMjMtY2xlYW4tc3dlZXAtZm9yLWRlbW9jcmF0cy1hdC1jb3VudHktc3RhdGUtbGVnaXNsYXRpdmUtbGV2ZWxz0gEA?oc=5\" target=\"_blank\">Election 2023: Clean Sweep for Democrats at County, State Legislative Levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TAPinto.net</font>"
+            ],
+            "source": [
+              {
+                "_": "TAPinto.net",
+                "$": {
+                  "url": "https://www.tapinto.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Driver indicted on 18 counts in Wildwood car rally crash that killed 2 - NJ.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5qLmNvbS9jYXBlLW1heS1jb3VudHkvMjAyMi8xMi9kcml2ZXItaW5kaWN0ZWQtb24tMTgtY291bnRzLWluLXdpbGR3b29kLWNhci1yYWxseS1jcmFzaC10aGF0LWtpbGxlZC0yLmh0bWzSAYUBaHR0cHM6Ly93d3cubmouY29tL2NhcGUtbWF5LWNvdW50eS8yMDIyLzEyL2RyaXZlci1pbmRpY3RlZC1vbi0xOC1jb3VudHMtaW4td2lsZHdvb2QtY2FyLXJhbGx5LWNyYXNoLXRoYXQta2lsbGVkLTIuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3Lm5qLmNvbS9jYXBlLW1heS1jb3VudHkvMjAyMi8xMi9kcml2ZXItaW5kaWN0ZWQtb24tMTgtY291bnRzLWluLXdpbGR3b29kLWNhci1yYWxseS1jcmFzaC10aGF0LWtpbGxlZC0yLmh0bWzSAYUBaHR0cHM6Ly93d3cubmouY29tL2NhcGUtbWF5LWNvdW50eS8yMDIyLzEyL2RyaXZlci1pbmRpY3RlZC1vbi0xOC1jb3VudHMtaW4td2lsZHdvb2QtY2FyLXJhbGx5LWNyYXNoLXRoYXQta2lsbGVkLTIuaHRtbD9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5qLmNvbS9jYXBlLW1heS1jb3VudHkvMjAyMi8xMi9kcml2ZXItaW5kaWN0ZWQtb24tMTgtY291bnRzLWluLXdpbGR3b29kLWNhci1yYWxseS1jcmFzaC10aGF0LWtpbGxlZC0yLmh0bWzSAYUBaHR0cHM6Ly93d3cubmouY29tL2NhcGUtbWF5LWNvdW50eS8yMDIyLzEyL2RyaXZlci1pbmRpY3RlZC1vbi0xOC1jb3VudHMtaW4td2lsZHdvb2QtY2FyLXJhbGx5LWNyYXNoLXRoYXQta2lsbGVkLTIuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">Driver indicted on 18 counts in Wildwood car rally crash that killed 2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJ.com</font>"
+            ],
+            "source": [
+              {
+                "_": "NJ.com",
+                "$": {
+                  "url": "https://www.nj.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Some South Jersey candidates cruised, but others faced fierce fights - Courier Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzExLzA3L3NvdXRoLWplcnNleS12b3RlcnMtMjAyMy1wb2xscy1vcGVuLXR1ZXNkYXktZWxlY3Rpb25zLWxlZ2lzbGF0dXJlLWNvbW1pc3Npb25lci1tdW5pY2lwYWwtZWxlY3Rpb25zLzcxMzc5MDY0MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirQFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzExLzA3L3NvdXRoLWplcnNleS12b3RlcnMtMjAyMy1wb2xscy1vcGVuLXR1ZXNkYXktZWxlY3Rpb25zLWxlZ2lzbGF0dXJlLWNvbW1pc3Npb25lci1tdW5pY2lwYWwtZWxlY3Rpb25zLzcxMzc5MDY0MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzExLzA3L3NvdXRoLWplcnNleS12b3RlcnMtMjAyMy1wb2xscy1vcGVuLXR1ZXNkYXktZWxlY3Rpb25zLWxlZ2lzbGF0dXJlLWNvbW1pc3Npb25lci1tdW5pY2lwYWwtZWxlY3Rpb25zLzcxMzc5MDY0MDA3L9IBAA?oc=5\" target=\"_blank\">Some South Jersey candidates cruised, but others faced fierce fights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courier Post</font>"
+            ],
+            "source": [
+              {
+                "_": "Courier Post",
+                "$": {
+                  "url": "https://www.courierpostonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Know what you're voting on with South Jersey's election primer - Courier Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzA5LzE5L2dlbmVyYWwtZWxlY3Rpb24tMjAyMy1iYWxsb3RzLWNhbmRpZGF0ZXMtbGVnaXNsYXR1cmUtY291bnR5LWNvbW1pc3Npb25lcnMtY2xlcmstc3Vycm9nYXRlLW5vdi03LzcwODc2MjIyMDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqgFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzA5LzE5L2dlbmVyYWwtZWxlY3Rpb24tMjAyMy1iYWxsb3RzLWNhbmRpZGF0ZXMtbGVnaXNsYXR1cmUtY291bnR5LWNvbW1pc3Npb25lcnMtY2xlcmstc3Vycm9nYXRlLW5vdi03LzcwODc2MjIyMDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzA5LzE5L2dlbmVyYWwtZWxlY3Rpb24tMjAyMy1iYWxsb3RzLWNhbmRpZGF0ZXMtbGVnaXNsYXR1cmUtY291bnR5LWNvbW1pc3Npb25lcnMtY2xlcmstc3Vycm9nYXRlLW5vdi03LzcwODc2MjIyMDA3L9IBAA?oc=5\" target=\"_blank\">Know what you're voting on with South Jersey's election primer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courier Post</font>"
+            ],
+            "source": [
+              {
+                "_": "Courier Post",
+                "$": {
+                  "url": "https://www.courierpostonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington GOP backs Tiver for Senate - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xlZ2lzbGF0dXJlLzExNzM0OS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiLmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xlZ2lzbGF0dXJlLzExNzM0OS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 04 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xlZ2lzbGF0dXJlLzExNzM0OS_SAQA?oc=5\" target=\"_blank\">Burlington GOP backs Tiver for Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Town pays $500K in alleged beating over honking horn - The Daily Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRoZWRhaWx5am91cm5hbC5jb20vc3RvcnkvbmV3cy8yMDE1LzEwLzI3L2JyaWRnZXRvbi1zZXR0bGVzLXBvbGljZS1icnV0YWxpdHktY2FzZS83NDY4MTk3Mi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LnRoZWRhaWx5am91cm5hbC5jb20vc3RvcnkvbmV3cy8yMDE1LzEwLzI3L2JyaWRnZXRvbi1zZXR0bGVzLXBvbGljZS1icnV0YWxpdHktY2FzZS83NDY4MTk3Mi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 27 Oct 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRoZWRhaWx5am91cm5hbC5jb20vc3RvcnkvbmV3cy8yMDE1LzEwLzI3L2JyaWRnZXRvbi1zZXR0bGVzLXBvbGljZS1icnV0YWxpdHktY2FzZS83NDY4MTk3Mi_SAQA?oc=5\" target=\"_blank\">Town pays $500K in alleged beating over honking horn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Journal",
+                "$": {
+                  "url": "https://www.thedailyjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election 2023: Clean Sweep for Democrats in Bordentown Township, Fieldsboro, County, Legislature - TAPinto.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2VsZWN0aW9ucy9hcnRpY2xlcy9lbGVjdGlvbi0yMDIzLWNsZWFuLXN3ZWVwLWZvci1kZW1vY3JhdHMtaW4tYm9yZGVudG93bi10b3duc2hpcC1maWVsZHNib3JvLWNvdW50eS1sZWdpc2xhdHVyZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2VsZWN0aW9ucy9hcnRpY2xlcy9lbGVjdGlvbi0yMDIzLWNsZWFuLXN3ZWVwLWZvci1kZW1vY3JhdHMtaW4tYm9yZGVudG93bi10b3duc2hpcC1maWVsZHNib3JvLWNvdW50eS1sZWdpc2xhdHVyZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2VsZWN0aW9ucy9hcnRpY2xlcy9lbGVjdGlvbi0yMDIzLWNsZWFuLXN3ZWVwLWZvci1kZW1vY3JhdHMtaW4tYm9yZGVudG93bi10b3duc2hpcC1maWVsZHNib3JvLWNvdW50eS1sZWdpc2xhdHVyZdIBAA?oc=5\" target=\"_blank\">Election 2023: Clean Sweep for Democrats in Bordentown Township, Fieldsboro, County, Legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TAPinto.net</font>"
+            ],
+            "source": [
+              {
+                "_": "TAPinto.net",
+                "$": {
+                  "url": "https://www.tapinto.net"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

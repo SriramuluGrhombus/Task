@@ -1,0 +1,1208 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Shane Schoeller\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Shane+Schoeller&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Greene County to add new polling places for 2024 election - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8xMS8zMC9ncmVlbmUtY291bnR5LWFkZGluZy1uZXctcG9sbGluZy1wbGFjZXMtMjAyNC1lbGVjdGlvbi83MTc0MzAxNzAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8xMS8zMC9ncmVlbmUtY291bnR5LWFkZGluZy1uZXctcG9sbGluZy1wbGFjZXMtMjAyNC1lbGVjdGlvbi83MTc0MzAxNzAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8xMS8zMC9ncmVlbmUtY291bnR5LWFkZGluZy1uZXctcG9sbGluZy1wbGFjZXMtMjAyNC1lbGVjdGlvbi83MTc0MzAxNzAwNy_SAQA?oc=5\" target=\"_blank\">Greene County to add new polling places for 2024 election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Watch your mailbox for new Greene County voter registration cards, which are expected to arrive soon - KSMU Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5rc211Lm9yZy9uZXdzLzIwMjQtMDEtMzAvd2F0Y2gteW91ci1tYWlsYm94LWZvci1uZXctZ3JlZW5lLWNvdW50eS12b3Rlci1yZWdpc3RyYXRpb24tY2FyZHMtd2hpY2gtYXJlLWV4cGVjdGVkLXRvLWFycml2ZS1zb29u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL3d3dy5rc211Lm9yZy9uZXdzLzIwMjQtMDEtMzAvd2F0Y2gteW91ci1tYWlsYm94LWZvci1uZXctZ3JlZW5lLWNvdW50eS12b3Rlci1yZWdpc3RyYXRpb24tY2FyZHMtd2hpY2gtYXJlLWV4cGVjdGVkLXRvLWFycml2ZS1zb29u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 18:45:08 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5rc211Lm9yZy9uZXdzLzIwMjQtMDEtMzAvd2F0Y2gteW91ci1tYWlsYm94LWZvci1uZXctZ3JlZW5lLWNvdW50eS12b3Rlci1yZWdpc3RyYXRpb24tY2FyZHMtd2hpY2gtYXJlLWV4cGVjdGVkLXRvLWFycml2ZS1zb29u0gEA?oc=5\" target=\"_blank\">Watch your mailbox for new Greene County voter registration cards, which are expected to arrive soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSMU Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "KSMU Radio",
+                "$": {
+                  "url": "https://www.ksmu.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rowden jumps into Missouri Secretary of State race - Missourinet.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzIzL3Jvd2Rlbi1qdW1wcy1pbnRvLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1yYWNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzIzL3Jvd2Rlbi1qdW1wcy1pbnRvLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1yYWNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzIzL3Jvd2Rlbi1qdW1wcy1pbnRvLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1yYWNlL9IBAA?oc=5\" target=\"_blank\">Rowden jumps into Missouri Secretary of State race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missourinet.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Missourinet.com",
+                "$": {
+                  "url": "https://www.missourinet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Greene County clerk voices government funding concerns for Springfield’s Pridefest - KY3"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wNi8wNC9ncmVlbmUtY291bnR5LWNsZXJrLXZvaWNlcy1nb3Zlcm5tZW50LWZ1bmRpbmctY29uY2VybnMtc3ByaW5nZmllbGRzLXByaWRlZmVzdC_SAXxodHRwczovL3d3dy5reTMuY29tLzIwMjMvMDYvMDQvZ3JlZW5lLWNvdW50eS1jbGVyay12b2ljZXMtZ292ZXJubWVudC1mdW5kaW5nLWNvbmNlcm5zLXNwcmluZ2ZpZWxkcy1wcmlkZWZlc3QvP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wNi8wNC9ncmVlbmUtY291bnR5LWNsZXJrLXZvaWNlcy1nb3Zlcm5tZW50LWZ1bmRpbmctY29uY2VybnMtc3ByaW5nZmllbGRzLXByaWRlZmVzdC_SAXxodHRwczovL3d3dy5reTMuY29tLzIwMjMvMDYvMDQvZ3JlZW5lLWNvdW50eS1jbGVyay12b2ljZXMtZ292ZXJubWVudC1mdW5kaW5nLWNvbmNlcm5zLXNwcmluZ2ZpZWxkcy1wcmlkZWZlc3QvP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wNi8wNC9ncmVlbmUtY291bnR5LWNsZXJrLXZvaWNlcy1nb3Zlcm5tZW50LWZ1bmRpbmctY29uY2VybnMtc3ByaW5nZmllbGRzLXByaWRlZmVzdC_SAXxodHRwczovL3d3dy5reTMuY29tLzIwMjMvMDYvMDQvZ3JlZW5lLWNvdW50eS1jbGVyay12b2ljZXMtZ292ZXJubWVudC1mdW5kaW5nLWNvbmNlcm5zLXNwcmluZ2ZpZWxkcy1wcmlkZWZlc3QvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">Greene County clerk voices government funding concerns for Springfield’s Pridefest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KY3</font>"
+            ],
+            "source": [
+              {
+                "_": "KY3",
+                "$": {
+                  "url": "https://www.ky3.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican state rep from St. Charles announces bid for secretary of state - St. Louis Post-Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL3JlcHVibGljYW4tc3RhdGUtcmVwLWZyb20tc3QtY2hhcmxlcy1hbm5vdW5jZXMtYmlkLWZvci1zZWNyZXRhcnktb2Ytc3RhdGUvYXJ0aWNsZV9kYmU3ZDE3YS02OWQyLTExZWUtODdlZC1lZjBhNzEwMmRhMjUuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiswFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL3JlcHVibGljYW4tc3RhdGUtcmVwLWZyb20tc3QtY2hhcmxlcy1hbm5vdW5jZXMtYmlkLWZvci1zZWNyZXRhcnktb2Ytc3RhdGUvYXJ0aWNsZV9kYmU3ZDE3YS02OWQyLTExZWUtODdlZC1lZjBhNzEwMmRhMjUuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 13 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL3JlcHVibGljYW4tc3RhdGUtcmVwLWZyb20tc3QtY2hhcmxlcy1hbm5vdW5jZXMtYmlkLWZvci1zZWNyZXRhcnktb2Ytc3RhdGUvYXJ0aWNsZV9kYmU3ZDE3YS02OWQyLTExZWUtODdlZC1lZjBhNzEwMmRhMjUuaHRtbNIBAA?oc=5\" target=\"_blank\">Republican state rep from St. Charles announces bid for secretary of state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis Post-Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Louis Post-Dispatch",
+                "$": {
+                  "url": "https://www.stltoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Abortion rights initiative petition moves forward with Greene County’s lone cost estimate included - Springfield Daily Citizen"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3NnZmNpdGl6ZW4ub3JnL2dvdmVybm1lbnQvc29jaWFsLWlzc3Vlcy9hYm9ydGlvbi1yaWdodHMtaW5pdGlhdGl2ZS1wZXRpdGlvbi1tb3Zlcy1mb3J3YXJkLXdpdGgtZ3JlZW5lLWNvdW50eXMtbG9uZS1jb3N0LWVzdGltYXRlLWluY2x1ZGVkL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3NnZmNpdGl6ZW4ub3JnL2dvdmVybm1lbnQvc29jaWFsLWlzc3Vlcy9hYm9ydGlvbi1yaWdodHMtaW5pdGlhdGl2ZS1wZXRpdGlvbi1tb3Zlcy1mb3J3YXJkLXdpdGgtZ3JlZW5lLWNvdW50eXMtbG9uZS1jb3N0LWVzdGltYXRlLWluY2x1ZGVkL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3NnZmNpdGl6ZW4ub3JnL2dvdmVybm1lbnQvc29jaWFsLWlzc3Vlcy9hYm9ydGlvbi1yaWdodHMtaW5pdGlhdGl2ZS1wZXRpdGlvbi1tb3Zlcy1mb3J3YXJkLXdpdGgtZ3JlZW5lLWNvdW50eXMtbG9uZS1jb3N0LWVzdGltYXRlLWluY2x1ZGVkL9IBAA?oc=5\" target=\"_blank\">Abortion rights initiative petition moves forward with Greene County’s lone cost estimate included</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Springfield Daily Citizen</font>"
+            ],
+            "source": [
+              {
+                "_": "Springfield Daily Citizen",
+                "$": {
+                  "url": "https://sgfcitizen.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Field of GOP candidates grows in 2024 Missouri Secretary of State race - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzEwLzI5L2NhbmRpZGF0ZXMtZmllbGQtZ3Jvd3MtMjAyNC1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS83MTMwNDkzODAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzEwLzI5L2NhbmRpZGF0ZXMtZmllbGQtZ3Jvd3MtMjAyNC1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS83MTMwNDkzODAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 29 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzEwLzI5L2NhbmRpZGF0ZXMtZmllbGQtZ3Jvd3MtMjAyNC1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS83MTMwNDkzODAwNy_SAQA?oc=5\" target=\"_blank\">Field of GOP candidates grows in 2024 Missouri Secretary of State race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "(AUDIO) Greene County clerk who narrowly lost Missouri's 2012 secretary of state race is trying again - 939theeagle.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2F1ZGlvLWdyZWVuZS1jb3VudHktY2xlcmstd2hvLW5hcnJvd2x5LWxvc3QtbWlzc291cmlzLTIwMTItc2VjcmV0YXJ5LW9mLXN0YXRlLXJhY2UtaXMtdHJ5aW5nLWFnYWluL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2F1ZGlvLWdyZWVuZS1jb3VudHktY2xlcmstd2hvLW5hcnJvd2x5LWxvc3QtbWlzc291cmlzLTIwMTItc2VjcmV0YXJ5LW9mLXN0YXRlLXJhY2UtaXMtdHJ5aW5nLWFnYWluL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 19 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2F1ZGlvLWdyZWVuZS1jb3VudHktY2xlcmstd2hvLW5hcnJvd2x5LWxvc3QtbWlzc291cmlzLTIwMTItc2VjcmV0YXJ5LW9mLXN0YXRlLXJhY2UtaXMtdHJ5aW5nLWFnYWluL9IBAA?oc=5\" target=\"_blank\">(AUDIO) Greene County clerk who narrowly lost Missouri's 2012 secretary of state race is trying again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
+            ],
+            "source": [
+              {
+                "_": "939theeagle.com",
+                "$": {
+                  "url": "https://939theeagle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Greene County's Schoeller running for Missouri secretary of state - Springfield Business Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vc2JqLm5ldC9zdG9yaWVzL2dyZWVuZS1jb3VudHlzLXNjaG9lbGxlci1ydW5uaW5nLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUsODMyNjDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vc2JqLm5ldC9zdG9yaWVzL2dyZWVuZS1jb3VudHlzLXNjaG9lbGxlci1ydW5uaW5nLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUsODMyNjDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vc2JqLm5ldC9zdG9yaWVzL2dyZWVuZS1jb3VudHlzLXNjaG9lbGxlci1ydW5uaW5nLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUsODMyNjDSAQA?oc=5\" target=\"_blank\">Greene County's Schoeller running for Missouri secretary of state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Springfield Business Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Springfield Business Journal",
+                "$": {
+                  "url": "https://sbj.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Greene County Clerk Shane Schoeller announces run for Missouri secretary of state - KSMU Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmtzbXUub3JnL25ld3MvMjAyMy0wMi0xMS9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1hbm5vdW5jZXMtcnVuLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmtzbXUub3JnL25ld3MvMjAyMy0wMi0xMS9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1hbm5vdW5jZXMtcnVuLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 11 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmtzbXUub3JnL25ld3MvMjAyMy0wMi0xMS9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1hbm5vdW5jZXMtcnVuLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGXSAQA?oc=5\" target=\"_blank\">Greene County Clerk Shane Schoeller announces run for Missouri secretary of state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSMU Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "KSMU Radio",
+                "$": {
+                  "url": "https://www.ksmu.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Greene County Clerk Shane Schoeller is running for Missouri Secretary of State - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8wMi8xMC9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1ydW5uaW5nLWZvci1tby1zZWNyZXRhcnktb2Ytc3RhdGUvNjk4OTI1ODIwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8wMi8xMC9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1ydW5uaW5nLWZvci1tby1zZWNyZXRhcnktb2Ytc3RhdGUvNjk4OTI1ODIwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8wMi8xMC9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1ydW5uaW5nLWZvci1tby1zZWNyZXRhcnktb2Ytc3RhdGUvNjk4OTI1ODIwMDcv0gEA?oc=5\" target=\"_blank\">Greene County Clerk Shane Schoeller is running for Missouri Secretary of State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Greene County Clerk Shane Schoeller launches secretary of state campaign - KY3"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wMi8xMS9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1sYXVuY2hlcy1zZWNyZXRhcnktc3RhdGUtY2FtcGFpZ24v0gF0aHR0cHM6Ly93d3cua3kzLmNvbS8yMDIzLzAyLzExL2dyZWVuZS1jb3VudHktY2xlcmstc2hhbmUtc2Nob2VsbGVyLWxhdW5jaGVzLXNlY3JldGFyeS1zdGF0ZS1jYW1wYWlnbi8_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wMi8xMS9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1sYXVuY2hlcy1zZWNyZXRhcnktc3RhdGUtY2FtcGFpZ24v0gF0aHR0cHM6Ly93d3cua3kzLmNvbS8yMDIzLzAyLzExL2dyZWVuZS1jb3VudHktY2xlcmstc2hhbmUtc2Nob2VsbGVyLWxhdW5jaGVzLXNlY3JldGFyeS1zdGF0ZS1jYW1wYWlnbi8_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wMi8xMS9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1sYXVuY2hlcy1zZWNyZXRhcnktc3RhdGUtY2FtcGFpZ24v0gF0aHR0cHM6Ly93d3cua3kzLmNvbS8yMDIzLzAyLzExL2dyZWVuZS1jb3VudHktY2xlcmstc2hhbmUtc2Nob2VsbGVyLWxhdW5jaGVzLXNlY3JldGFyeS1zdGF0ZS1jYW1wYWlnbi8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Greene County Clerk Shane Schoeller launches secretary of state campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KY3</font>"
+            ],
+            "source": [
+              {
+                "_": "KY3",
+                "$": {
+                  "url": "https://www.ky3.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "(LISTEN): State Rep. Adam Schwadron (R-St. Charles) discusses his run for Missouri secretary of state and Israel - 939theeagle.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL3N0YXRlLXJlcC1hZGFtLXNjaHdhZHJvbi1yLXN0LWNoYXJsZXMtZGlzY3Vzc2VzLWhpcy1ydW4tZm9yLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1hbmQtaXNyYWVsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL3N0YXRlLXJlcC1hZGFtLXNjaHdhZHJvbi1yLXN0LWNoYXJsZXMtZGlzY3Vzc2VzLWhpcy1ydW4tZm9yLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1hbmQtaXNyYWVsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL3N0YXRlLXJlcC1hZGFtLXNjaHdhZHJvbi1yLXN0LWNoYXJsZXMtZGlzY3Vzc2VzLWhpcy1ydW4tZm9yLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1hbmQtaXNyYWVsL9IBAA?oc=5\" target=\"_blank\">(LISTEN): State Rep. Adam Schwadron (R-St. Charles) discusses his run for Missouri secretary of state and Israel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
+            ],
+            "source": [
+              {
+                "_": "939theeagle.com",
+                "$": {
+                  "url": "https://939theeagle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Are your taxpayer dollars paying for Ozarks Pridefest? Not quite. - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMy8wNi8wNS9hcmUteW91ci10YXhwYXllci1kb2xsYXJzLXBheWluZy1mb3Itb3phcmtzLXByaWRlZmVzdC1ub3QtcXVpdGUvNzAyODg3OTMwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMy8wNi8wNS9hcmUteW91ci10YXhwYXllci1kb2xsYXJzLXBheWluZy1mb3Itb3phcmtzLXByaWRlZmVzdC1ub3QtcXVpdGUvNzAyODg3OTMwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMy8wNi8wNS9hcmUteW91ci10YXhwYXllci1kb2xsYXJzLXBheWluZy1mb3Itb3phcmtzLXByaWRlZmVzdC1ub3QtcXVpdGUvNzAyODg3OTMwMDcv0gEA?oc=5\" target=\"_blank\">Are your taxpayer dollars paying for Ozarks Pridefest? Not quite.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "County clerk: MAGA hat-wearing election judge created disruption due to 'misunderstanding' - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8wNC8wNi9tYWdhLWhhdC13ZWFyaW5nLWVsZWN0aW9uLWp1ZGdlLWNyZWF0ZWQtZGlzcnVwdGlvbi1pbi1zcHJpbmdmaWVsZC83MDA4Nzg5NjAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8wNC8wNi9tYWdhLWhhdC13ZWFyaW5nLWVsZWN0aW9uLWp1ZGdlLWNyZWF0ZWQtZGlzcnVwdGlvbi1pbi1zcHJpbmdmaWVsZC83MDA4Nzg5NjAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 06 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8wNC8wNi9tYWdhLWhhdC13ZWFyaW5nLWVsZWN0aW9uLWp1ZGdlLWNyZWF0ZWQtZGlzcnVwdGlvbi1pbi1zcHJpbmdmaWVsZC83MDA4Nzg5NjAwNy_SAQA?oc=5\" target=\"_blank\">County clerk: MAGA hat-wearing election judge created disruption due to 'misunderstanding'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Homophobic harassment, threats lead Greene County employee to resign - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMy8wOC8zMC9ob21vcGhvYmljLWhhcmFzc21lbnQtdGhyZWF0cy1sZWFkLWdyZWVuZS1jb3VudHktZW1wbG95ZWUtdG8tcmVzaWduLzcwNzAxNjU4MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMy8wOC8zMC9ob21vcGhvYmljLWhhcmFzc21lbnQtdGhyZWF0cy1sZWFkLWdyZWVuZS1jb3VudHktZW1wbG95ZWUtdG8tcmVzaWduLzcwNzAxNjU4MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 30 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMy8wOC8zMC9ob21vcGhvYmljLWhhcmFzc21lbnQtdGhyZWF0cy1sZWFkLWdyZWVuZS1jb3VudHktZW1wbG95ZWUtdG8tcmVzaWduLzcwNzAxNjU4MDA3L9IBAA?oc=5\" target=\"_blank\">Homophobic harassment, threats lead Greene County employee to resign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Judge orders hand recount of votes in Ash Grove school bond election - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9lZHVjYXRpb24vMjAyMy8wNi8xNC9qdWRnZS1vcmRlcnMtaGFuZC1yZWNvdW50LW9mLXZvdGVzLWluLWFzaC1ncm92ZS1zY2hvb2wtYm9uZC1lbGVjdGlvbi83MDMxNzYzMzAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9lZHVjYXRpb24vMjAyMy8wNi8xNC9qdWRnZS1vcmRlcnMtaGFuZC1yZWNvdW50LW9mLXZvdGVzLWluLWFzaC1ncm92ZS1zY2hvb2wtYm9uZC1lbGVjdGlvbi83MDMxNzYzMzAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 14 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9lZHVjYXRpb24vMjAyMy8wNi8xNC9qdWRnZS1vcmRlcnMtaGFuZC1yZWNvdW50LW9mLXZvdGVzLWluLWFzaC1ncm92ZS1zY2hvb2wtYm9uZC1lbGVjdGlvbi83MDMxNzYzMzAwNy_SAQA?oc=5\" target=\"_blank\">Judge orders hand recount of votes in Ash Grove school bond election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri politicians make appearances at Mike Lindell's Election Crime Bureau event - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzA4LzE3L21pc3NvdXJpLXBvbGl0aWNpYW5zLWFwcGVhci1hdC1taWtlLWxpbmRlbGxzLWVsZWN0aW9uLWNyaW1lLWJ1cmVhdS83MDYxMDg4MDAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzA4LzE3L21pc3NvdXJpLXBvbGl0aWNpYW5zLWFwcGVhci1hdC1taWtlLWxpbmRlbGxzLWVsZWN0aW9uLWNyaW1lLWJ1cmVhdS83MDYxMDg4MDAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 17 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzA4LzE3L21pc3NvdXJpLXBvbGl0aWNpYW5zLWFwcGVhci1hdC1taWtlLWxpbmRlbGxzLWVsZWN0aW9uLWNyaW1lLWJ1cmVhdS83MDYxMDg4MDAwNy_SAQA?oc=5\" target=\"_blank\">Missouri politicians make appearances at Mike Lindell's Election Crime Bureau event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Greene County Clerk named 'Sunshine Hero' for government transparency - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA3LzMxL2dyZWVuZS1jb3VudHktY2xlcmstc2hhbmUtc2Nob2VsbGVyLW5hbWVkLXN1bnNoaW5lLWhlcm8tZ292ZXJubWVudC10cmFuc3BhcmVuY3kvMTAxODgwNzcwMDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA3LzMxL2dyZWVuZS1jb3VudHktY2xlcmstc2hhbmUtc2Nob2VsbGVyLW5hbWVkLXN1bnNoaW5lLWhlcm8tZ292ZXJubWVudC10cmFuc3BhcmVuY3kvMTAxODgwNzcwMDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 31 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA3LzMxL2dyZWVuZS1jb3VudHktY2xlcmstc2hhbmUtc2Nob2VsbGVyLW5hbWVkLXN1bnNoaW5lLWhlcm8tZ292ZXJubWVudC10cmFuc3BhcmVuY3kvMTAxODgwNzcwMDIv0gEA?oc=5\" target=\"_blank\">Greene County Clerk named 'Sunshine Hero' for government transparency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Greene County Clerk asks judge to rule on release of data sought by 2020 election deniers - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMi8xMS8yMS9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1hc2tzLWp1ZGdlLXRvLXJ1bGUtb24tcmVsZWFzaW5nLTIwMjAtZWxlY3Rpb24tZGF0YS82OTY1MTkxMTAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiogFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMi8xMS8yMS9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1hc2tzLWp1ZGdlLXRvLXJ1bGUtb24tcmVsZWFzaW5nLTIwMjAtZWxlY3Rpb24tZGF0YS82OTY1MTkxMTAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 21 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMi8xMS8yMS9ncmVlbmUtY291bnR5LWNsZXJrLXNoYW5lLXNjaG9lbGxlci1hc2tzLWp1ZGdlLXRvLXJ1bGUtb24tcmVsZWFzaW5nLTIwMjAtZWxlY3Rpb24tZGF0YS82OTY1MTkxMTAwNy_SAQA?oc=5\" target=\"_blank\">Greene County Clerk asks judge to rule on release of data sought by 2020 election deniers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "As Missouri Republicans gather in Springfield, 2024 primary fights begin piling up • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMi8xMC9hcy1taXNzb3VyaS1yZXB1YmxpY2Fucy1nYXRoZXItaW4tc3ByaW5nZmllbGQtMjAyNC1wcmltYXJ5LWZpZ2h0cy1iZWdpbi1waWxpbmctdXAv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMi8xMC9hcy1taXNzb3VyaS1yZXB1YmxpY2Fucy1nYXRoZXItaW4tc3ByaW5nZmllbGQtMjAyNC1wcmltYXJ5LWZpZ2h0cy1iZWdpbi1waWxpbmctdXAv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMi8xMC9hcy1taXNzb3VyaS1yZXB1YmxpY2Fucy1nYXRoZXItaW4tc3ByaW5nZmllbGQtMjAyNC1wcmltYXJ5LWZpZ2h0cy1iZWdpbi1waWxpbmctdXAv0gEA?oc=5\" target=\"_blank\">As Missouri Republicans gather in Springfield, 2024 primary fights begin piling up • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Blunt, Schoeller praise Voting Rights Act failure, urge local input - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzAxLzI3L3JveS1ibHVudC1zaGFuZS1zY2hvZWxsZXItcHJhaXNlLWZhaWx1cmUtdm90aW5nLXJpZ2h0cy1hY3QtZGVueS1lbGVjdGlvbi1mcmF1ZC11cmdlLWxvY2FsLWlucHV0LzkyMzE4MzIwMDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipgFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzAxLzI3L3JveS1ibHVudC1zaGFuZS1zY2hvZWxsZXItcHJhaXNlLWZhaWx1cmUtdm90aW5nLXJpZ2h0cy1hY3QtZGVueS1lbGVjdGlvbi1mcmF1ZC11cmdlLWxvY2FsLWlucHV0LzkyMzE4MzIwMDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzAxLzI3L3JveS1ibHVudC1zaGFuZS1zY2hvZWxsZXItcHJhaXNlLWZhaWx1cmUtdm90aW5nLXJpZ2h0cy1hY3QtZGVueS1lbGVjdGlvbi1mcmF1ZC11cmdlLWxvY2FsLWlucHV0LzkyMzE4MzIwMDIv0gEA?oc=5\" target=\"_blank\">Blunt, Schoeller praise Voting Rights Act failure, urge local input</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri election law has changed. Here's what voters need to know to cast a ballot • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8xMC8wNC9taXNzb3VyaS1lbGVjdGlvbnMtbGF3LWhhcy1jaGFuZ2VkLWhlcmVzLXdoYXQtdm90ZXJzLW5lZWQtdG8ta25vdy10by1jYXN0LWEtYmFsbG90L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8xMC8wNC9taXNzb3VyaS1lbGVjdGlvbnMtbGF3LWhhcy1jaGFuZ2VkLWhlcmVzLXdoYXQtdm90ZXJzLW5lZWQtdG8ta25vdy10by1jYXN0LWEtYmFsbG90L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8xMC8wNC9taXNzb3VyaS1lbGVjdGlvbnMtbGF3LWhhcy1jaGFuZ2VkLWhlcmVzLXdoYXQtdm90ZXJzLW5lZWQtdG8ta25vdy10by1jYXN0LWEtYmFsbG90L9IBAA?oc=5\" target=\"_blank\">Missouri election law has changed. Here's what voters need to know to cast a ballot • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election 2020 Q&A: Greene County Clerk on the November election - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMC8xMC8wNS9lbGVjdGlvbi0yMDIwLWdyZWVuZS1jb3VudHktY2xlcmstc2hhbmUtc2Nob2VsbGVyLXEtYS81ODY4OTEyMDAyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMC8xMC8wNS9lbGVjdGlvbi0yMDIwLWdyZWVuZS1jb3VudHktY2xlcmstc2hhbmUtc2Nob2VsbGVyLXEtYS81ODY4OTEyMDAyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Oct 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMC8xMC8wNS9lbGVjdGlvbi0yMDIwLWdyZWVuZS1jb3VudHktY2xlcmstc2hhbmUtc2Nob2VsbGVyLXEtYS81ODY4OTEyMDAyL9IBAA?oc=5\" target=\"_blank\">Election 2020 Q&A: Greene County Clerk on the November election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Polling locations across Missouri are officially open - KOLR - OzarksFirst.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm96YXJrc2ZpcnN0LmNvbS9lbGVjdGlvbi9wb2xsaW5nLWxvY2F0aW9ucy1hY3Jvc3MtbWlzc291cmktYXJlLW9mZmljaWFsbHktb3Blbi_SAV9odHRwczovL3d3dy5vemFya3NmaXJzdC5jb20vZWxlY3Rpb24vcG9sbGluZy1sb2NhdGlvbnMtYWNyb3NzLW1pc3NvdXJpLWFyZS1vZmZpY2lhbGx5LW9wZW4vYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3Lm96YXJrc2ZpcnN0LmNvbS9lbGVjdGlvbi9wb2xsaW5nLWxvY2F0aW9ucy1hY3Jvc3MtbWlzc291cmktYXJlLW9mZmljaWFsbHktb3Blbi_SAV9odHRwczovL3d3dy5vemFya3NmaXJzdC5jb20vZWxlY3Rpb24vcG9sbGluZy1sb2NhdGlvbnMtYWNyb3NzLW1pc3NvdXJpLWFyZS1vZmZpY2lhbGx5LW9wZW4vYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm96YXJrc2ZpcnN0LmNvbS9lbGVjdGlvbi9wb2xsaW5nLWxvY2F0aW9ucy1hY3Jvc3MtbWlzc291cmktYXJlLW9mZmljaWFsbHktb3Blbi_SAV9odHRwczovL3d3dy5vemFya3NmaXJzdC5jb20vZWxlY3Rpb24vcG9sbGluZy1sb2NhdGlvbnMtYWNyb3NzLW1pc3NvdXJpLWFyZS1vZmZpY2lhbGx5LW9wZW4vYW1wLw?oc=5\" target=\"_blank\">Polling locations across Missouri are officially open</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOLR - OzarksFirst.com</font>"
+            ],
+            "source": [
+              {
+                "_": "KOLR - OzarksFirst.com",
+                "$": {
+                  "url": "https://www.ozarksfirst.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election deniers ramp up public records requests in Missouri, across the country • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8xMC8yNC9lbGVjdGlvbi1kZW5pZXJzLXJhbXAtdXAtcHVibGljLXJlY29yZHMtcmVxdWVzdHMtaW4tbWlzc291cmktYWNyb3NzLXRoZS1jb3VudHJ5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8xMC8yNC9lbGVjdGlvbi1kZW5pZXJzLXJhbXAtdXAtcHVibGljLXJlY29yZHMtcmVxdWVzdHMtaW4tbWlzc291cmktYWNyb3NzLXRoZS1jb3VudHJ5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8xMC8yNC9lbGVjdGlvbi1kZW5pZXJzLXJhbXAtdXAtcHVibGljLXJlY29yZHMtcmVxdWVzdHMtaW4tbWlzc291cmktYWNyb3NzLXRoZS1jb3VudHJ5L9IBAA?oc=5\" target=\"_blank\">Election deniers ramp up public records requests in Missouri, across the country • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Supreme Court guts voter ID law in 5-2 decision - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIwLzAxLzE5L21pc3NvdXJpLXN1cHJlbWUtY291cnQtdm90ZXItaWQtaWRlbnRpZmljYXRpb24tbGF3LXJlcHVibGljYW5zLWdyZWVuZS1jb3VudHkvNDUwNTE1MjAwMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIwLzAxLzE5L21pc3NvdXJpLXN1cHJlbWUtY291cnQtdm90ZXItaWQtaWRlbnRpZmljYXRpb24tbGF3LXJlcHVibGljYW5zLWdyZWVuZS1jb3VudHkvNDUwNTE1MjAwMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Jan 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIwLzAxLzE5L21pc3NvdXJpLXN1cHJlbWUtY291cnQtdm90ZXItaWQtaWRlbnRpZmljYXRpb24tbGF3LXJlcHVibGljYW5zLWdyZWVuZS1jb3VudHkvNDUwNTE1MjAwMi_SAQA?oc=5\" target=\"_blank\">Missouri Supreme Court guts voter ID law in 5-2 decision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Political Donor Thrives With ‘No-Limits’ Giving - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTIvMTAvMTkvdXMvcG9saXRpY3MvbWlzc291cmktcG9saXRpY2FsLWRvbm9yLXRocml2ZXMtd2l0aC1uby1saW1pdHMtZ2l2aW5nLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTIvMTAvMTkvdXMvcG9saXRpY3MvbWlzc291cmktcG9saXRpY2FsLWRvbm9yLXRocml2ZXMtd2l0aC1uby1saW1pdHMtZ2l2aW5nLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Oct 2012 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTIvMTAvMTkvdXMvcG9saXRpY3MvbWlzc291cmktcG9saXRpY2FsLWRvbm9yLXRocml2ZXMtd2l0aC1uby1saW1pdHMtZ2l2aW5nLmh0bWzSAQA?oc=5\" target=\"_blank\">Missouri Political Donor Thrives With ‘No-Limits’ Giving</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New voting equipment to cost $850K over five years, Greene County clerk says - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAxNy8xMi8wOC9uZXctdm90aW5nLWVxdWlwbWVudC1jb3N0LTg1MC1rLW92ZXItZml2ZS15ZWFycy1zYXlzLWdyZWVuZS1jb3VudHktY2xlcmsvOTA1ODkzMDAxL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAxNy8xMi8wOC9uZXctdm90aW5nLWVxdWlwbWVudC1jb3N0LTg1MC1rLW92ZXItZml2ZS15ZWFycy1zYXlzLWdyZWVuZS1jb3VudHktY2xlcmsvOTA1ODkzMDAxL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Dec 2017 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAxNy8xMi8wOC9uZXctdm90aW5nLWVxdWlwbWVudC1jb3N0LTg1MC1rLW92ZXItZml2ZS15ZWFycy1zYXlzLWdyZWVuZS1jb3VudHktY2xlcmsvOTA1ODkzMDAxL9IBAA?oc=5\" target=\"_blank\">New voting equipment to cost $850K over five years, Greene County clerk says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Greene County officials sworn-in during ceremony New Year's Eve - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMS8wMS8wMi9ncmVlbmUtY291bnR5LW1pc3NvdXJpLW9mZmljaWFscy1zd29ybi1jZXJlbW9ueS1uZXcteWVhcnMtZXZlLzQwOTk4MzUwMDEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMS8wMS8wMi9ncmVlbmUtY291bnR5LW1pc3NvdXJpLW9mZmljaWFscy1zd29ybi1jZXJlbW9ueS1uZXcteWVhcnMtZXZlLzQwOTk4MzUwMDEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 02 Jan 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9sb2NhbC9vemFya3MvMjAyMS8wMS8wMi9ncmVlbmUtY291bnR5LW1pc3NvdXJpLW9mZmljaWFscy1zd29ybi1jZXJlbW9ueS1uZXcteWVhcnMtZXZlLzQwOTk4MzUwMDEv0gEA?oc=5\" target=\"_blank\">Greene County officials sworn-in during ceremony New Year's Eve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Elected Greene County officeholders take oath of office - KY3"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMi8xMi8yOS9lbGVjdGVkLWdyZWVuZS1jb3VudHktb2ZmaWNlaG9sZGVycy10YWtlLW9hdGgtb2ZmaWNlL9IBY2h0dHBzOi8vd3d3Lmt5My5jb20vMjAyMi8xMi8yOS9lbGVjdGVkLWdyZWVuZS1jb3VudHktb2ZmaWNlaG9sZGVycy10YWtlLW9hdGgtb2ZmaWNlLz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMi8xMi8yOS9lbGVjdGVkLWdyZWVuZS1jb3VudHktb2ZmaWNlaG9sZGVycy10YWtlLW9hdGgtb2ZmaWNlL9IBY2h0dHBzOi8vd3d3Lmt5My5jb20vMjAyMi8xMi8yOS9lbGVjdGVkLWdyZWVuZS1jb3VudHktb2ZmaWNlaG9sZGVycy10YWtlLW9hdGgtb2ZmaWNlLz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 29 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMi8xMi8yOS9lbGVjdGVkLWdyZWVuZS1jb3VudHktb2ZmaWNlaG9sZGVycy10YWtlLW9hdGgtb2ZmaWNlL9IBY2h0dHBzOi8vd3d3Lmt5My5jb20vMjAyMi8xMi8yOS9lbGVjdGVkLWdyZWVuZS1jb3VudHktb2ZmaWNlaG9sZGVycy10YWtlLW9hdGgtb2ZmaWNlLz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">Elected Greene County officeholders take oath of office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KY3</font>"
+            ],
+            "source": [
+              {
+                "_": "KY3",
+                "$": {
+                  "url": "https://www.ky3.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Signs of conflict: Candidate, clerk spar outside polling place - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm5ld3MtbGVhZGVyLmNvbS9zdG9yeS9uZXdzLzIwMTYvMDgvMDIvc2lnbnMtY29uZmxpY3QtY2FuZGlkYXRlLWNsZXJrLXNwYXItb3V0c2lkZS1wb2xsaW5nLXBsYWNlLzg3OTY5MTY2L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3Lm5ld3MtbGVhZGVyLmNvbS9zdG9yeS9uZXdzLzIwMTYvMDgvMDIvc2lnbnMtY29uZmxpY3QtY2FuZGlkYXRlLWNsZXJrLXNwYXItb3V0c2lkZS1wb2xsaW5nLXBsYWNlLzg3OTY5MTY2L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 Aug 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm5ld3MtbGVhZGVyLmNvbS9zdG9yeS9uZXdzLzIwMTYvMDgvMDIvc2lnbnMtY29uZmxpY3QtY2FuZGlkYXRlLWNsZXJrLXNwYXItb3V0c2lkZS1wb2xsaW5nLXBsYWNlLzg3OTY5MTY2L9IBAA?oc=5\" target=\"_blank\">Signs of conflict: Candidate, clerk spar outside polling place</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Untried candidates hope to bring diversity to Greene County offices - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAxOC8wNC8xOS92ZXRlcmFucy1ibGFjay1saXZlcy1tYXR0ZXItYWN0aXZpc3RzLW5ld2NvbWVycy1hbW9uZy1jaGFsbGVuZ2Vycy1ncmVlbmUtY291bnR5LWluY3VtYmVudHMtdXBjb21pbmcvNDY1NjY4MDAyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiswFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAxOC8wNC8xOS92ZXRlcmFucy1ibGFjay1saXZlcy1tYXR0ZXItYWN0aXZpc3RzLW5ld2NvbWVycy1hbW9uZy1jaGFsbGVuZ2Vycy1ncmVlbmUtY291bnR5LWluY3VtYmVudHMtdXBjb21pbmcvNDY1NjY4MDAyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 Apr 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAxOC8wNC8xOS92ZXRlcmFucy1ibGFjay1saXZlcy1tYXR0ZXItYWN0aXZpc3RzLW5ld2NvbWVycy1hbW9uZy1jaGFsbGVuZ2Vycy1ncmVlbmUtY291bnR5LWluY3VtYmVudHMtdXBjb21pbmcvNDY1NjY4MDAyL9IBAA?oc=5\" target=\"_blank\">Untried candidates hope to bring diversity to Greene County offices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Judge removes Independent candidate for Missouri House 132nd District following lawsuit - KY3"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lmt5My5jb20vMjAyMi8wOS8xNC9qdWRnZS1yZW1vdmVzLWluZGVwZW5kZW50LWNhbmRpZGF0ZS1taXNzb3VyaS1ob3VzZS0xMzJuZC1kaXN0cmljdC1mb2xsb3dpbmctbGF3c3VpdC_SAYIBaHR0cHM6Ly93d3cua3kzLmNvbS8yMDIyLzA5LzE0L2p1ZGdlLXJlbW92ZXMtaW5kZXBlbmRlbnQtY2FuZGlkYXRlLW1pc3NvdXJpLWhvdXNlLTEzMm5kLWRpc3RyaWN0LWZvbGxvd2luZy1sYXdzdWl0Lz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3Lmt5My5jb20vMjAyMi8wOS8xNC9qdWRnZS1yZW1vdmVzLWluZGVwZW5kZW50LWNhbmRpZGF0ZS1taXNzb3VyaS1ob3VzZS0xMzJuZC1kaXN0cmljdC1mb2xsb3dpbmctbGF3c3VpdC_SAYIBaHR0cHM6Ly93d3cua3kzLmNvbS8yMDIyLzA5LzE0L2p1ZGdlLXJlbW92ZXMtaW5kZXBlbmRlbnQtY2FuZGlkYXRlLW1pc3NvdXJpLWhvdXNlLTEzMm5kLWRpc3RyaWN0LWZvbGxvd2luZy1sYXdzdWl0Lz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lmt5My5jb20vMjAyMi8wOS8xNC9qdWRnZS1yZW1vdmVzLWluZGVwZW5kZW50LWNhbmRpZGF0ZS1taXNzb3VyaS1ob3VzZS0xMzJuZC1kaXN0cmljdC1mb2xsb3dpbmctbGF3c3VpdC_SAYIBaHR0cHM6Ly93d3cua3kzLmNvbS8yMDIyLzA5LzE0L2p1ZGdlLXJlbW92ZXMtaW5kZXBlbmRlbnQtY2FuZGlkYXRlLW1pc3NvdXJpLWhvdXNlLTEzMm5kLWRpc3RyaWN0LWZvbGxvd2luZy1sYXdzdWl0Lz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">Judge removes Independent candidate for Missouri House 132nd District following lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KY3</font>"
+            ],
+            "source": [
+              {
+                "_": "KY3",
+                "$": {
+                  "url": "https://www.ky3.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alex Zumsteg: Climbing the statehouse ladder - The Missouri Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vYWxleC16dW1zdGVnLWNsaW1iaW5nLXN0YXRlaG91c2UtbGFkZGVyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vYWxleC16dW1zdGVnLWNsaW1iaW5nLXN0YXRlaG91c2UtbGFkZGVyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 16 Dec 2016 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vYWxleC16dW1zdGVnLWNsaW1iaW5nLXN0YXRlaG91c2UtbGFkZGVyL9IBAA?oc=5\" target=\"_blank\">Alex Zumsteg: Climbing the statehouse ladder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Missouri Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Missouri Times",
+                "$": {
+                  "url": "https://themissouritimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Monroe County, Mo. clerk accused of violating election laws - ktvo.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8va3R2by5jb20vbmV3cy9sb2NhbC9tb25yb2UtY291bnR5LW1vLWNsZXJrLWFjY3VzZWQtb2YtdmlvbGF0aW5nLWVsZWN0aW9uLWxhd3PSAVlodHRwczovL2t0dm8uY29tL2FtcC9uZXdzL2xvY2FsL21vbnJvZS1jb3VudHktbW8tY2xlcmstYWNjdXNlZC1vZi12aW9sYXRpbmctZWxlY3Rpb24tbGF3cw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8va3R2by5jb20vbmV3cy9sb2NhbC9tb25yb2UtY291bnR5LW1vLWNsZXJrLWFjY3VzZWQtb2YtdmlvbGF0aW5nLWVsZWN0aW9uLWxhd3PSAVlodHRwczovL2t0dm8uY29tL2FtcC9uZXdzL2xvY2FsL21vbnJvZS1jb3VudHktbW8tY2xlcmstYWNjdXNlZC1vZi12aW9sYXRpbmctZWxlY3Rpb24tbGF3cw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8va3R2by5jb20vbmV3cy9sb2NhbC9tb25yb2UtY291bnR5LW1vLWNsZXJrLWFjY3VzZWQtb2YtdmlvbGF0aW5nLWVsZWN0aW9uLWxhd3PSAVlodHRwczovL2t0dm8uY29tL2FtcC9uZXdzL2xvY2FsL21vbnJvZS1jb3VudHktbW8tY2xlcmstYWNjdXNlZC1vZi12aW9sYXRpbmctZWxlY3Rpb24tbGF3cw?oc=5\" target=\"_blank\">Monroe County, Mo. clerk accused of violating election laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ktvo.com</font>"
+            ],
+            "source": [
+              {
+                "_": "ktvo.com",
+                "$": {
+                  "url": "https://ktvo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The 15 HB 253 Republican \"no\" votes plan a meeting with Grow Missouri, state Republican Party - The Missouri Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vaGItMjUzLXJlcHVibGljYW4tdm90ZXMtcGxhbi1tZWV0aW5nLWdyb3ctbWlzc291cmktc3RhdGUtcmVwdWJsaWNhbi1wYXJ0eS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vaGItMjUzLXJlcHVibGljYW4tdm90ZXMtcGxhbi1tZWV0aW5nLWdyb3ctbWlzc291cmktc3RhdGUtcmVwdWJsaWNhbi1wYXJ0eS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Sep 2013 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vaGItMjUzLXJlcHVibGljYW4tdm90ZXMtcGxhbi1tZWV0aW5nLWdyb3ctbWlzc291cmktc3RhdGUtcmVwdWJsaWNhbi1wYXJ0eS_SAQA?oc=5\" target=\"_blank\">The 15 HB 253 Republican \"no\" votes plan a meeting with Grow Missouri, state Republican Party</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Missouri Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Missouri Times",
+                "$": {
+                  "url": "https://themissouritimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Get to Know Greene County Clerk Candidates Tonight - KSMU Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmtzbXUub3JnL3BvbGl0aWNzLzIwMTQtMTAtMjEvZ2V0LXRvLWtub3ctZ3JlZW5lLWNvdW50eS1jbGVyay1jYW5kaWRhdGVzLXRvbmlnaHTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3LmtzbXUub3JnL3BvbGl0aWNzLzIwMTQtMTAtMjEvZ2V0LXRvLWtub3ctZ3JlZW5lLWNvdW50eS1jbGVyay1jYW5kaWRhdGVzLXRvbmlnaHTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Oct 2014 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmtzbXUub3JnL3BvbGl0aWNzLzIwMTQtMTAtMjEvZ2V0LXRvLWtub3ctZ3JlZW5lLWNvdW50eS1jbGVyay1jYW5kaWRhdGVzLXRvbmlnaHTSAQA?oc=5\" target=\"_blank\">Get to Know Greene County Clerk Candidates Tonight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSMU Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "KSMU Radio",
+                "$": {
+                  "url": "https://www.ksmu.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Plain clothes deputies to be at Greene County polling places - KTVI Fox 2 St. Louis"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9wbGFpbi1jbG90aGVzLWRlcHV0aWVzLXRvLWJlLWF0LWdyZWVuZS1jb3VudHktcG9sbGluZy1wbGFjZXMv0gFaaHR0cHM6Ly9mb3gybm93LmNvbS9uZXdzL3BsYWluLWNsb3RoZXMtZGVwdXRpZXMtdG8tYmUtYXQtZ3JlZW5lLWNvdW50eS1wb2xsaW5nLXBsYWNlcy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9wbGFpbi1jbG90aGVzLWRlcHV0aWVzLXRvLWJlLWF0LWdyZWVuZS1jb3VudHktcG9sbGluZy1wbGFjZXMv0gFaaHR0cHM6Ly9mb3gybm93LmNvbS9uZXdzL3BsYWluLWNsb3RoZXMtZGVwdXRpZXMtdG8tYmUtYXQtZ3JlZW5lLWNvdW50eS1wb2xsaW5nLXBsYWNlcy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 06 Nov 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9wbGFpbi1jbG90aGVzLWRlcHV0aWVzLXRvLWJlLWF0LWdyZWVuZS1jb3VudHktcG9sbGluZy1wbGFjZXMv0gFaaHR0cHM6Ly9mb3gybm93LmNvbS9uZXdzL3BsYWluLWNsb3RoZXMtZGVwdXRpZXMtdG8tYmUtYXQtZ3JlZW5lLWNvdW50eS1wb2xsaW5nLXBsYWNlcy9hbXAv?oc=5\" target=\"_blank\">Plain clothes deputies to be at Greene County polling places</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVI Fox 2 St. Louis</font>"
+            ],
+            "source": [
+              {
+                "_": "KTVI Fox 2 St. Louis",
+                "$": {
+                  "url": "https://fox2now.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

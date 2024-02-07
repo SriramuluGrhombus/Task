@@ -1,0 +1,578 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Doc. Reddy’s Laboratories\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Doc.+Reddy%E2%80%99s+Laboratories&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Dr Reddy's Bachupally biologics facility gets USFDA Form 483 with 9 observations - IndiaTimes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9ob21lL3NjaWVuY2UvZHItcmVkZHlzLWJhY2h1cGFsbHktYmlvbG9naWNzLWZhY2lsaXR5LWdldHMtdXNmZGEtZm9ybS00ODMtd2l0aC05LW9ic2VydmF0aW9ucy9hcnRpY2xlc2hvdy8xMDQzNzk3NjcuY21z0gGVAWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2hvbWUvc2NpZW5jZS9kci1yZWRkeXMtYmFjaHVwYWxseS1iaW9sb2dpY3MtZmFjaWxpdHktZ2V0cy11c2ZkYS1mb3JtLTQ4My13aXRoLTktb2JzZXJ2YXRpb25zL2FtcF9hcnRpY2xlc2hvdy8xMDQzNzk3NjcuY21z?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9ob21lL3NjaWVuY2UvZHItcmVkZHlzLWJhY2h1cGFsbHktYmlvbG9naWNzLWZhY2lsaXR5LWdldHMtdXNmZGEtZm9ybS00ODMtd2l0aC05LW9ic2VydmF0aW9ucy9hcnRpY2xlc2hvdy8xMDQzNzk3NjcuY21z0gGVAWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2hvbWUvc2NpZW5jZS9kci1yZWRkeXMtYmFjaHVwYWxseS1iaW9sb2dpY3MtZmFjaWxpdHktZ2V0cy11c2ZkYS1mb3JtLTQ4My13aXRoLTktb2JzZXJ2YXRpb25zL2FtcF9hcnRpY2xlc2hvdy8xMDQzNzk3NjcuY21z",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9ob21lL3NjaWVuY2UvZHItcmVkZHlzLWJhY2h1cGFsbHktYmlvbG9naWNzLWZhY2lsaXR5LWdldHMtdXNmZGEtZm9ybS00ODMtd2l0aC05LW9ic2VydmF0aW9ucy9hcnRpY2xlc2hvdy8xMDQzNzk3NjcuY21z0gGVAWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2hvbWUvc2NpZW5jZS9kci1yZWRkeXMtYmFjaHVwYWxseS1iaW9sb2dpY3MtZmFjaWxpdHktZ2V0cy11c2ZkYS1mb3JtLTQ4My13aXRoLTktb2JzZXJ2YXRpb25zL2FtcF9hcnRpY2xlc2hvdy8xMDQzNzk3NjcuY21z?oc=5\" target=\"_blank\">Dr Reddy's Bachupally biologics facility gets USFDA Form 483 with 9 observations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndiaTimes</font>"
+            ],
+            "source": [
+              {
+                "_": "IndiaTimes",
+                "$": {
+                  "url": "https://m.timesofindia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Doc in Preethi case appeals order - Deccan Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmRlY2NhbmNocm9uaWNsZS5jb20vbmF0aW9uL2luLW90aGVyLW5ld3MvMjIwNjIzL2RvYy1pbi1wcmVldGhpLWNhc2UtYXBwZWFscy1vcmRlci5odG1s0gFmaHR0cHM6Ly93d3cuZGVjY2FuY2hyb25pY2xlLmNvbS9hbXAvbmF0aW9uL2luLW90aGVyLW5ld3MvMjIwNjIzL2RvYy1pbi1wcmVldGhpLWNhc2UtYXBwZWFscy1vcmRlci5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3LmRlY2NhbmNocm9uaWNsZS5jb20vbmF0aW9uL2luLW90aGVyLW5ld3MvMjIwNjIzL2RvYy1pbi1wcmVldGhpLWNhc2UtYXBwZWFscy1vcmRlci5odG1s0gFmaHR0cHM6Ly93d3cuZGVjY2FuY2hyb25pY2xlLmNvbS9hbXAvbmF0aW9uL2luLW90aGVyLW5ld3MvMjIwNjIzL2RvYy1pbi1wcmVldGhpLWNhc2UtYXBwZWFscy1vcmRlci5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmRlY2NhbmNocm9uaWNsZS5jb20vbmF0aW9uL2luLW90aGVyLW5ld3MvMjIwNjIzL2RvYy1pbi1wcmVldGhpLWNhc2UtYXBwZWFscy1vcmRlci5odG1s0gFmaHR0cHM6Ly93d3cuZGVjY2FuY2hyb25pY2xlLmNvbS9hbXAvbmF0aW9uL2luLW90aGVyLW5ld3MvMjIwNjIzL2RvYy1pbi1wcmVldGhpLWNhc2UtYXBwZWFscy1vcmRlci5odG1s?oc=5\" target=\"_blank\">Doc in Preethi case appeals order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "Deccan Chronicle",
+                "$": {
+                  "url": "https://www.deccanchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indian pharma cos speed up anti-obesity drug development amid high demand, surge in Ozempic’s sales - Business Today"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5idXNpbmVzc3RvZGF5LmluL2luZHVzdHJ5L3BoYXJtYS9zdG9yeS9pbmRpYW4tcGhhcm1hLWRyLXJlZGR5cy1sdXBpbi16eWR1cy1zdW4tcGhhcm1hLXNwZWVkLXVwLWFudGktb2Jlc2l0eS1kcnVnLWRldmVsb3BtZW50LWFzLWRlbWFuZC1zdXJnZXMtNDA2NTkwLTIwMjMtMTEtMjHSAa8BaHR0cHM6Ly93d3cuYnVzaW5lc3N0b2RheS5pbi9hbXAvaW5kdXN0cnkvcGhhcm1hL3N0b3J5L2luZGlhbi1waGFybWEtZHItcmVkZHlzLWx1cGluLXp5ZHVzLXN1bi1waGFybWEtc3BlZWQtdXAtYW50aS1vYmVzaXR5LWRydWctZGV2ZWxvcG1lbnQtYXMtZGVtYW5kLXN1cmdlcy00MDY1OTAtMjAyMy0xMS0yMQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqwFodHRwczovL3d3dy5idXNpbmVzc3RvZGF5LmluL2luZHVzdHJ5L3BoYXJtYS9zdG9yeS9pbmRpYW4tcGhhcm1hLWRyLXJlZGR5cy1sdXBpbi16eWR1cy1zdW4tcGhhcm1hLXNwZWVkLXVwLWFudGktb2Jlc2l0eS1kcnVnLWRldmVsb3BtZW50LWFzLWRlbWFuZC1zdXJnZXMtNDA2NTkwLTIwMjMtMTEtMjHSAa8BaHR0cHM6Ly93d3cuYnVzaW5lc3N0b2RheS5pbi9hbXAvaW5kdXN0cnkvcGhhcm1hL3N0b3J5L2luZGlhbi1waGFybWEtZHItcmVkZHlzLWx1cGluLXp5ZHVzLXN1bi1waGFybWEtc3BlZWQtdXAtYW50aS1vYmVzaXR5LWRydWctZGV2ZWxvcG1lbnQtYXMtZGVtYW5kLXN1cmdlcy00MDY1OTAtMjAyMy0xMS0yMQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5idXNpbmVzc3RvZGF5LmluL2luZHVzdHJ5L3BoYXJtYS9zdG9yeS9pbmRpYW4tcGhhcm1hLWRyLXJlZGR5cy1sdXBpbi16eWR1cy1zdW4tcGhhcm1hLXNwZWVkLXVwLWFudGktb2Jlc2l0eS1kcnVnLWRldmVsb3BtZW50LWFzLWRlbWFuZC1zdXJnZXMtNDA2NTkwLTIwMjMtMTEtMjHSAa8BaHR0cHM6Ly93d3cuYnVzaW5lc3N0b2RheS5pbi9hbXAvaW5kdXN0cnkvcGhhcm1hL3N0b3J5L2luZGlhbi1waGFybWEtZHItcmVkZHlzLWx1cGluLXp5ZHVzLXN1bi1waGFybWEtc3BlZWQtdXAtYW50aS1vYmVzaXR5LWRydWctZGV2ZWxvcG1lbnQtYXMtZGVtYW5kLXN1cmdlcy00MDY1OTAtMjAyMy0xMS0yMQ?oc=5\" target=\"_blank\">Indian pharma cos speed up anti-obesity drug development amid high demand, surge in Ozempic’s sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Today",
+                "$": {
+                  "url": "https://www.businesstoday.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "O2 Power Steps up Supply to Dr. Reddy's Laboratories with 17.82 MW Solar, 27 MW Wind - Saurenergy"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnNhdXJlbmVyZ3kuY29tL3NvbGFyLWVuZXJneS1uZXdzL28yLXBvd2VyLXN0ZXBzLXVwLXN1cHBseS10by1kci1yZWRkeXMtbGFib3JhdG9yaWVzLXdpdGgtMTctODItbXctc29sYXItMjctbXctd2luZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LnNhdXJlbmVyZ3kuY29tL3NvbGFyLWVuZXJneS1uZXdzL28yLXBvd2VyLXN0ZXBzLXVwLXN1cHBseS10by1kci1yZWRkeXMtbGFib3JhdG9yaWVzLXdpdGgtMTctODItbXctc29sYXItMjctbXctd2luZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnNhdXJlbmVyZ3kuY29tL3NvbGFyLWVuZXJneS1uZXdzL28yLXBvd2VyLXN0ZXBzLXVwLXN1cHBseS10by1kci1yZWRkeXMtbGFib3JhdG9yaWVzLXdpdGgtMTctODItbXctc29sYXItMjctbXctd2luZNIBAA?oc=5\" target=\"_blank\">O2 Power Steps up Supply to Dr. Reddy's Laboratories with 17.82 MW Solar, 27 MW Wind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Saurenergy</font>"
+            ],
+            "source": [
+              {
+                "_": "Saurenergy",
+                "$": {
+                  "url": "https://www.saurenergy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CPHI Barcelona Announces Pharma Award Finalists - BioProcess Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmJpb3Byb2Nlc3NvbmxpbmUuY29tL2RvYy9jcGhpLWJhcmNlbG9uYS1hbm5vdW5jZXMtcGhhcm1hLWF3YXJkLWZpbmFsaXN0cy0wMDAx0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmJpb3Byb2Nlc3NvbmxpbmUuY29tL2RvYy9jcGhpLWJhcmNlbG9uYS1hbm5vdW5jZXMtcGhhcm1hLWF3YXJkLWZpbmFsaXN0cy0wMDAx0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmJpb3Byb2Nlc3NvbmxpbmUuY29tL2RvYy9jcGhpLWJhcmNlbG9uYS1hbm5vdW5jZXMtcGhhcm1hLWF3YXJkLWZpbmFsaXN0cy0wMDAx0gEA?oc=5\" target=\"_blank\">CPHI Barcelona Announces Pharma Award Finalists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioProcess Online</font>"
+            ],
+            "source": [
+              {
+                "_": "BioProcess Online",
+                "$": {
+                  "url": "https://www.bioprocessonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dr Reddy’s Revealed More About 2-DG, and Its Approval Is More Confusing Now - The Wire Science"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vc2NpZW5jZS50aGV3aXJlLmluL2hlYWx0aC9kci1yZWRkeXMtZG9jLXZpZHlhLXdlYmluYXItMi1kZy1jbGluaWNhbC10cmlhbHMtcHJpbWFyeS1lbmRwb2ludHMtcHJvYmxlbXMv0gFyaHR0cHM6Ly9zY2llbmNlLnRoZXdpcmUuaW4vaGVhbHRoL2RyLXJlZGR5cy1kb2MtdmlkeWEtd2ViaW5hci0yLWRnLWNsaW5pY2FsLXRyaWFscy1wcmltYXJ5LWVuZHBvaW50cy1wcm9ibGVtcy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vc2NpZW5jZS50aGV3aXJlLmluL2hlYWx0aC9kci1yZWRkeXMtZG9jLXZpZHlhLXdlYmluYXItMi1kZy1jbGluaWNhbC10cmlhbHMtcHJpbWFyeS1lbmRwb2ludHMtcHJvYmxlbXMv0gFyaHR0cHM6Ly9zY2llbmNlLnRoZXdpcmUuaW4vaGVhbHRoL2RyLXJlZGR5cy1kb2MtdmlkeWEtd2ViaW5hci0yLWRnLWNsaW5pY2FsLXRyaWFscy1wcmltYXJ5LWVuZHBvaW50cy1wcm9ibGVtcy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vc2NpZW5jZS50aGV3aXJlLmluL2hlYWx0aC9kci1yZWRkeXMtZG9jLXZpZHlhLXdlYmluYXItMi1kZy1jbGluaWNhbC10cmlhbHMtcHJpbWFyeS1lbmRwb2ludHMtcHJvYmxlbXMv0gFyaHR0cHM6Ly9zY2llbmNlLnRoZXdpcmUuaW4vaGVhbHRoL2RyLXJlZGR5cy1kb2MtdmlkeWEtd2ViaW5hci0yLWRnLWNsaW5pY2FsLXRyaWFscy1wcmltYXJ5LWVuZHBvaW50cy1wcm9ibGVtcy9hbXAv?oc=5\" target=\"_blank\">Dr Reddy’s Revealed More About 2-DG, and Its Approval Is More Confusing Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wire Science</font>"
+            ],
+            "source": [
+              {
+                "_": "The Wire Science",
+                "$": {
+                  "url": "https://science.thewire.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Eris Shares Fall 4% in 2-Days After Buying 9 Derma Brands from Dr Reddy's - EquityPandit"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVxdWl0eXBhbmRpdC5jb20vZXJpcy1zaGFyZXMtZmFsbC00LWluLTItZGF5cy1hZnRlci1idXlpbmctOS1kZXJtYS1icmFuZHMtZnJvbS1kci1yZWRkeXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmVxdWl0eXBhbmRpdC5jb20vZXJpcy1zaGFyZXMtZmFsbC00LWluLTItZGF5cy1hZnRlci1idXlpbmctOS1kZXJtYS1icmFuZHMtZnJvbS1kci1yZWRkeXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVxdWl0eXBhbmRpdC5jb20vZXJpcy1zaGFyZXMtZmFsbC00LWluLTItZGF5cy1hZnRlci1idXlpbmctOS1kZXJtYS1icmFuZHMtZnJvbS1kci1yZWRkeXMv0gEA?oc=5\" target=\"_blank\">Eris Shares Fall 4% in 2-Days After Buying 9 Derma Brands from Dr Reddy's</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EquityPandit</font>"
+            ],
+            "source": [
+              {
+                "_": "EquityPandit",
+                "$": {
+                  "url": "https://www.equitypandit.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Top Healthcare Stocks for June 2023 - Investopedia"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdG9wLWhlYWx0aGNhcmUtc3RvY2tzLWp1bmUtMjAyMy03NTA5NDAx0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdG9wLWhlYWx0aGNhcmUtc3RvY2tzLWp1bmUtMjAyMy03NTA5NDAx0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdG9wLWhlYWx0aGNhcmUtc3RvY2tzLWp1bmUtMjAyMy03NTA5NDAx0gEA?oc=5\" target=\"_blank\">Top Healthcare Stocks for June 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>"
+            ],
+            "source": [
+              {
+                "_": "Investopedia",
+                "$": {
+                  "url": "https://www.investopedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mukesh Rathi uses digital to give Dr. Reddy’s a competitive edge - ETCIO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL2Npby5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvY29ycG9yYXRlLW5ld3MvbXVrZXNoLXJhdGhpLXVzZXMtZGlnaXRhbC10by1naXZlLWRyLXJlZGR5cy1hLW5ldy1sZWFzZS1vZi1saWZlLzY1ODgwNjIx0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL2Npby5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvY29ycG9yYXRlLW5ld3MvbXVrZXNoLXJhdGhpLXVzZXMtZGlnaXRhbC10by1naXZlLWRyLXJlZGR5cy1hLW5ldy1sZWFzZS1vZi1saWZlLzY1ODgwNjIx0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Sep 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL2Npby5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvY29ycG9yYXRlLW5ld3MvbXVrZXNoLXJhdGhpLXVzZXMtZGlnaXRhbC10by1naXZlLWRyLXJlZGR5cy1hLW5ldy1sZWFzZS1vZi1saWZlLzY1ODgwNjIx0gEA?oc=5\" target=\"_blank\">Mukesh Rathi uses digital to give Dr. Reddy’s a competitive edge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETCIO</font>"
+            ],
+            "source": [
+              {
+                "_": "ETCIO",
+                "$": {
+                  "url": "https://cio.economictimes.indiatimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Health Care Week in Review: House E&C Committee Held Mark-Up of 44 Bills, Biden Administration Announced ... - JD Supra"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9oZWFsdGgtY2FyZS13ZWVrLWluLXJldmlldy1ob3VzZS1lLWMtMTE0MDg1Ni_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9oZWFsdGgtY2FyZS13ZWVrLWluLXJldmlldy1ob3VzZS1lLWMtMTE0MDg1Ni_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9oZWFsdGgtY2FyZS13ZWVrLWluLXJldmlldy1ob3VzZS1lLWMtMTE0MDg1Ni_SAQA?oc=5\" target=\"_blank\">Health Care Week in Review: House E&C Committee Held Mark-Up of 44 Bills, Biden Administration Announced ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>"
+            ],
+            "source": [
+              {
+                "_": "JD Supra",
+                "$": {
+                  "url": "https://www.jdsupra.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Andhra Pradesh has potential to be bulk drug capital of world: Experts - The New Indian Express"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9zdGF0ZXMvYW5kaHJhLXByYWRlc2gvMjAyMy9NYXIvMDUvYW5kaHJhLXByYWRlc2gtaGFzLXBvdGVudGlhbC10by1iZS1idWxrLWRydWctY2FwaXRhbC1vZi13b3JsZC1leHBlcnRzLTI1NTMzMjAuaHRtbNIBnwFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9hbXAvc3Rvcnkvc3RhdGVzL2FuZGhyYS1wcmFkZXNoLzIwMjMvTWFyLzA1L2FuZGhyYS1wcmFkZXNoLWhhcy1wb3RlbnRpYWwtdG8tYmUtYnVsay1kcnVnLWNhcGl0YWwtb2Ytd29ybGQtZXhwZXJ0cy0yNTUzMzIwLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilQFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9zdGF0ZXMvYW5kaHJhLXByYWRlc2gvMjAyMy9NYXIvMDUvYW5kaHJhLXByYWRlc2gtaGFzLXBvdGVudGlhbC10by1iZS1idWxrLWRydWctY2FwaXRhbC1vZi13b3JsZC1leHBlcnRzLTI1NTMzMjAuaHRtbNIBnwFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9hbXAvc3Rvcnkvc3RhdGVzL2FuZGhyYS1wcmFkZXNoLzIwMjMvTWFyLzA1L2FuZGhyYS1wcmFkZXNoLWhhcy1wb3RlbnRpYWwtdG8tYmUtYnVsay1kcnVnLWNhcGl0YWwtb2Ytd29ybGQtZXhwZXJ0cy0yNTUzMzIwLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 05 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9zdGF0ZXMvYW5kaHJhLXByYWRlc2gvMjAyMy9NYXIvMDUvYW5kaHJhLXByYWRlc2gtaGFzLXBvdGVudGlhbC10by1iZS1idWxrLWRydWctY2FwaXRhbC1vZi13b3JsZC1leHBlcnRzLTI1NTMzMjAuaHRtbNIBnwFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9hbXAvc3Rvcnkvc3RhdGVzL2FuZGhyYS1wcmFkZXNoLzIwMjMvTWFyLzA1L2FuZGhyYS1wcmFkZXNoLWhhcy1wb3RlbnRpYWwtdG8tYmUtYnVsay1kcnVnLWNhcGl0YWwtb2Ytd29ybGQtZXhwZXJ0cy0yNTUzMzIwLmh0bWw?oc=5\" target=\"_blank\">Andhra Pradesh has potential to be bulk drug capital of world: Experts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>"
+            ],
+            "source": [
+              {
+                "_": "The New Indian Express",
+                "$": {
+                  "url": "https://www.newindianexpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dr. Reddy's India plant slammed by EMA for lax testing, dirty conditions - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9kci1yZWRkeS1zLWluZGlhLXBsYW50LXNsYW1tZWQtYnktZW1hLWZvci1sYXgtdGVzdGluZy1kaXJ0eS1jb25kaXRpb25z0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9kci1yZWRkeS1zLWluZGlhLXBsYW50LXNsYW1tZWQtYnktZW1hLWZvci1sYXgtdGVzdGluZy1kaXJ0eS1jb25kaXRpb25z0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9kci1yZWRkeS1zLWluZGlhLXBsYW50LXNsYW1tZWQtYnktZW1hLWZvci1sYXgtdGVzdGluZy1kaXJ0eS1jb25kaXRpb25z0gEA?oc=5\" target=\"_blank\">Dr. Reddy's India plant slammed by EMA for lax testing, dirty conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Uzbekistan cough syrup row: Here is all you need to know about Marion Biotech - The Financial Express"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL25ld3MtaGVhbHRoY2FyZS91emJla2lzdGFuLWNvdWdoLXN5cnVwLXJvdy1oZXJlLWlzLWFsbC15b3UtbmVlZC10by1rbm93LWFib3V0LW1hcmlvbi1iaW90ZWNoLzI5MzE2MzAv0gGWAWh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4cHJlc3MuY29tL2hlYWx0aGNhcmUvbmV3cy1oZWFsdGhjYXJlL3V6YmVraXN0YW4tY291Z2gtc3lydXAtcm93LWhlcmUtaXMtYWxsLXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtbWFyaW9uLWJpb3RlY2gvMjkzMTYzMC9saXRlLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL25ld3MtaGVhbHRoY2FyZS91emJla2lzdGFuLWNvdWdoLXN5cnVwLXJvdy1oZXJlLWlzLWFsbC15b3UtbmVlZC10by1rbm93LWFib3V0LW1hcmlvbi1iaW90ZWNoLzI5MzE2MzAv0gGWAWh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4cHJlc3MuY29tL2hlYWx0aGNhcmUvbmV3cy1oZWFsdGhjYXJlL3V6YmVraXN0YW4tY291Z2gtc3lydXAtcm93LWhlcmUtaXMtYWxsLXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtbWFyaW9uLWJpb3RlY2gvMjkzMTYzMC9saXRlLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 30 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL25ld3MtaGVhbHRoY2FyZS91emJla2lzdGFuLWNvdWdoLXN5cnVwLXJvdy1oZXJlLWlzLWFsbC15b3UtbmVlZC10by1rbm93LWFib3V0LW1hcmlvbi1iaW90ZWNoLzI5MzE2MzAv0gGWAWh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4cHJlc3MuY29tL2hlYWx0aGNhcmUvbmV3cy1oZWFsdGhjYXJlL3V6YmVraXN0YW4tY291Z2gtc3lydXAtcm93LWhlcmUtaXMtYWxsLXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtbWFyaW9uLWJpb3RlY2gvMjkzMTYzMC9saXRlLw?oc=5\" target=\"_blank\">Uzbekistan cough syrup row: Here is all you need to know about Marion Biotech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Financial Express</font>"
+            ],
+            "source": [
+              {
+                "_": "The Financial Express",
+                "$": {
+                  "url": "https://www.financialexpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Army Public School Delhi Recruitment 2018: 30 Teaching Posts, Apply Before September 4 - Zee Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnplZWJpei5jb20vaW5kaWEvbmV3cy1hcm15LXB1YmxpYy1zY2hvb2wtZGVsaGktcmVjcnVpdG1lbnQtMjAxOC0zMC10ZWFjaGluZy1wb3N0cy1hcHBseS1iZWZvcmUtc2VwdGVtYmVyLTQtNjEwODDSAYABaHR0cHM6Ly93d3cuemVlYml6LmNvbS9pbmRpYS9uZXdzLWFybXktcHVibGljLXNjaG9vbC1kZWxoaS1yZWNydWl0bWVudC0yMDE4LTMwLXRlYWNoaW5nLXBvc3RzLWFwcGx5LWJlZm9yZS1zZXB0ZW1iZXItNC02MTA4MC9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LnplZWJpei5jb20vaW5kaWEvbmV3cy1hcm15LXB1YmxpYy1zY2hvb2wtZGVsaGktcmVjcnVpdG1lbnQtMjAxOC0zMC10ZWFjaGluZy1wb3N0cy1hcHBseS1iZWZvcmUtc2VwdGVtYmVyLTQtNjEwODDSAYABaHR0cHM6Ly93d3cuemVlYml6LmNvbS9pbmRpYS9uZXdzLWFybXktcHVibGljLXNjaG9vbC1kZWxoaS1yZWNydWl0bWVudC0yMDE4LTMwLXRlYWNoaW5nLXBvc3RzLWFwcGx5LWJlZm9yZS1zZXB0ZW1iZXItNC02MTA4MC9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Aug 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnplZWJpei5jb20vaW5kaWEvbmV3cy1hcm15LXB1YmxpYy1zY2hvb2wtZGVsaGktcmVjcnVpdG1lbnQtMjAxOC0zMC10ZWFjaGluZy1wb3N0cy1hcHBseS1iZWZvcmUtc2VwdGVtYmVyLTQtNjEwODDSAYABaHR0cHM6Ly93d3cuemVlYml6LmNvbS9pbmRpYS9uZXdzLWFybXktcHVibGljLXNjaG9vbC1kZWxoaS1yZWNydWl0bWVudC0yMDE4LTMwLXRlYWNoaW5nLXBvc3RzLWFwcGx5LWJlZm9yZS1zZXB0ZW1iZXItNC02MTA4MC9hbXA?oc=5\" target=\"_blank\">Army Public School Delhi Recruitment 2018: 30 Teaching Posts, Apply Before September 4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zee Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Zee Business",
+                "$": {
+                  "url": "https://www.zeebiz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "We asked docs: Do Favipiravir and Remdesivir work against Covid-19? - Deccan Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5kZWNjYW5jaHJvbmljbGUuY29tL2xpZmVzdHlsZS9oZWFsdGgtYW5kLXdlbGxiZWluZy8wNTA3MjAvd2UtYXNrZWQtZG9jcy1kby1mYXZpcGlyYXZpci1hbmQtcmVtZGVzaXZpci13b3JrLWFnYWluc3QtY292aWQtMTkuaHRtbNIBkAFodHRwczovL3d3dy5kZWNjYW5jaHJvbmljbGUuY29tL2FtcC9saWZlc3R5bGUvaGVhbHRoLWFuZC13ZWxsYmVpbmcvMDUwNzIwL3dlLWFza2VkLWRvY3MtZG8tZmF2aXBpcmF2aXItYW5kLXJlbWRlc2l2aXItd29yay1hZ2FpbnN0LWNvdmlkLTE5Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5kZWNjYW5jaHJvbmljbGUuY29tL2xpZmVzdHlsZS9oZWFsdGgtYW5kLXdlbGxiZWluZy8wNTA3MjAvd2UtYXNrZWQtZG9jcy1kby1mYXZpcGlyYXZpci1hbmQtcmVtZGVzaXZpci13b3JrLWFnYWluc3QtY292aWQtMTkuaHRtbNIBkAFodHRwczovL3d3dy5kZWNjYW5jaHJvbmljbGUuY29tL2FtcC9saWZlc3R5bGUvaGVhbHRoLWFuZC13ZWxsYmVpbmcvMDUwNzIwL3dlLWFza2VkLWRvY3MtZG8tZmF2aXBpcmF2aXItYW5kLXJlbWRlc2l2aXItd29yay1hZ2FpbnN0LWNvdmlkLTE5Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 05 Jul 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5kZWNjYW5jaHJvbmljbGUuY29tL2xpZmVzdHlsZS9oZWFsdGgtYW5kLXdlbGxiZWluZy8wNTA3MjAvd2UtYXNrZWQtZG9jcy1kby1mYXZpcGlyYXZpci1hbmQtcmVtZGVzaXZpci13b3JrLWFnYWluc3QtY292aWQtMTkuaHRtbNIBkAFodHRwczovL3d3dy5kZWNjYW5jaHJvbmljbGUuY29tL2FtcC9saWZlc3R5bGUvaGVhbHRoLWFuZC13ZWxsYmVpbmcvMDUwNzIwL3dlLWFza2VkLWRvY3MtZG8tZmF2aXBpcmF2aXItYW5kLXJlbWRlc2l2aXItd29yay1hZ2FpbnN0LWNvdmlkLTE5Lmh0bWw?oc=5\" target=\"_blank\">We asked docs: Do Favipiravir and Remdesivir work against Covid-19?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "Deccan Chronicle",
+                "$": {
+                  "url": "https://www.deccanchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Merck — Making It No Boundaries - Life Science Leader Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmxpZmVzY2llbmNlbGVhZGVyLmNvbS9kb2MvbWVyY2stbWFraW5nLWl0LW5vLWJvdW5kYXJpZXMtMDAwMdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vd3d3LmxpZmVzY2llbmNlbGVhZGVyLmNvbS9kb2MvbWVyY2stbWFraW5nLWl0LW5vLWJvdW5kYXJpZXMtMDAwMdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Apr 2015 01:51:01 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmxpZmVzY2llbmNlbGVhZGVyLmNvbS9kb2MvbWVyY2stbWFraW5nLWl0LW5vLWJvdW5kYXJpZXMtMDAwMdIBAA?oc=5\" target=\"_blank\">Merck — Making It No Boundaries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Life Science Leader Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Life Science Leader Magazine",
+                "$": {
+                  "url": "https://www.lifescienceleader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WHO Comments Signal Support For Compulsory Licensing In Pharma - Pharmaceutical Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnBoYXJtYWNldXRpY2Fsb25saW5lLmNvbS9kb2Mvd2hvLWNvbW1lbnRzLXNpZ25hbC1zdXBwb3J0LWZvci1jb21wdWxzb3J5LWxpY2Vuc2luZy1pbi1waGFybWEtMDAwMdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LnBoYXJtYWNldXRpY2Fsb25saW5lLmNvbS9kb2Mvd2hvLWNvbW1lbnRzLXNpZ25hbC1zdXBwb3J0LWZvci1jb21wdWxzb3J5LWxpY2Vuc2luZy1pbi1waGFybWEtMDAwMdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Nov 2013 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnBoYXJtYWNldXRpY2Fsb25saW5lLmNvbS9kb2Mvd2hvLWNvbW1lbnRzLXNpZ25hbC1zdXBwb3J0LWZvci1jb21wdWxzb3J5LWxpY2Vuc2luZy1pbi1waGFybWEtMDAwMdIBAA?oc=5\" target=\"_blank\">WHO Comments Signal Support For Compulsory Licensing In Pharma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmaceutical Online</font>"
+            ],
+            "source": [
+              {
+                "_": "Pharmaceutical Online",
+                "$": {
+                  "url": "https://www.pharmaceuticalonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Suboxone Market See Incredible Growth 2022-2028 | Indivior PLC, Dr. Reddy's Laboratories Ltd., Amneal ... - Digital Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5kaWdpdGFsam91cm5hbC5jb20vcHIvc3Vib3hvbmUtbWFya2V0LXNlZS1pbmNyZWRpYmxlLWdyb3d0aC0yMDIyLTIwMjgtaW5kaXZpb3ItcGxjLWRyLXJlZGR5cy1sYWJvcmF0b3JpZXMtbHRkLWFtbmVhbC1waGFybWFjZXV0aWNhbHMtbGxjLW15bGFuLW4tdi1ub3ZhcnRpcy1hZ9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqgFodHRwczovL3d3dy5kaWdpdGFsam91cm5hbC5jb20vcHIvc3Vib3hvbmUtbWFya2V0LXNlZS1pbmNyZWRpYmxlLWdyb3d0aC0yMDIyLTIwMjgtaW5kaXZpb3ItcGxjLWRyLXJlZGR5cy1sYWJvcmF0b3JpZXMtbHRkLWFtbmVhbC1waGFybWFjZXV0aWNhbHMtbGxjLW15bGFuLW4tdi1ub3ZhcnRpcy1hZ9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5kaWdpdGFsam91cm5hbC5jb20vcHIvc3Vib3hvbmUtbWFya2V0LXNlZS1pbmNyZWRpYmxlLWdyb3d0aC0yMDIyLTIwMjgtaW5kaXZpb3ItcGxjLWRyLXJlZGR5cy1sYWJvcmF0b3JpZXMtbHRkLWFtbmVhbC1waGFybWFjZXV0aWNhbHMtbGxjLW15bGFuLW4tdi1ub3ZhcnRpcy1hZ9IBAA?oc=5\" target=\"_blank\">Suboxone Market See Incredible Growth 2022-2028 | Indivior PLC, Dr. Reddy's Laboratories Ltd., Amneal ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Digital Journal",
+                "$": {
+                  "url": "https://www.digitaljournal.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

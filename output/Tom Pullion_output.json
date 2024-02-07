@@ -1,0 +1,548 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Tom Pullion\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Tom+Pullion&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Burlington County Reaches Significant Milestone in Expansion of Free Public Wi-Fi - The Trentonian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRyZW50b25pYW4uY29tLzIwMjMvMTAvMzAvYnVybGluZ3Rvbi1jb3VudHktcmVhY2hlcy1zaWduaWZpY2FudC1taWxlc3RvbmUtaW4tZXhwYW5zaW9uLW9mLWZyZWUtcHVibGljLXdpLWZpL9IBfGh0dHBzOi8vd3d3LnRyZW50b25pYW4uY29tLzIwMjMvMTAvMzAvYnVybGluZ3Rvbi1jb3VudHktcmVhY2hlcy1zaWduaWZpY2FudC1taWxlc3RvbmUtaW4tZXhwYW5zaW9uLW9mLWZyZWUtcHVibGljLXdpLWZpL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LnRyZW50b25pYW4uY29tLzIwMjMvMTAvMzAvYnVybGluZ3Rvbi1jb3VudHktcmVhY2hlcy1zaWduaWZpY2FudC1taWxlc3RvbmUtaW4tZXhwYW5zaW9uLW9mLWZyZWUtcHVibGljLXdpLWZpL9IBfGh0dHBzOi8vd3d3LnRyZW50b25pYW4uY29tLzIwMjMvMTAvMzAvYnVybGluZ3Rvbi1jb3VudHktcmVhY2hlcy1zaWduaWZpY2FudC1taWxlc3RvbmUtaW4tZXhwYW5zaW9uLW9mLWZyZWUtcHVibGljLXdpLWZpL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRyZW50b25pYW4uY29tLzIwMjMvMTAvMzAvYnVybGluZ3Rvbi1jb3VudHktcmVhY2hlcy1zaWduaWZpY2FudC1taWxlc3RvbmUtaW4tZXhwYW5zaW9uLW9mLWZyZWUtcHVibGljLXdpLWZpL9IBfGh0dHBzOi8vd3d3LnRyZW50b25pYW4uY29tLzIwMjMvMTAvMzAvYnVybGluZ3Rvbi1jb3VudHktcmVhY2hlcy1zaWduaWZpY2FudC1taWxlc3RvbmUtaW4tZXhwYW5zaW9uLW9mLWZyZWUtcHVibGljLXdpLWZpL2FtcC8?oc=5\" target=\"_blank\">Burlington County Reaches Significant Milestone in Expansion of Free Public Wi-Fi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Trentonian</font>"
+            ],
+            "source": [
+              {
+                "_": "The Trentonian",
+                "$": {
+                  "url": "https://www.trentonian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democratic County Commissioners Singh, Pullion Seeking Re-election in Face of Challenge from Moorestown ... - Pine Barrens Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWNvdW50eS1jb21taXNzaW9uZXJzLXNpbmdoLXB1bGxpb24tc2Vla2luZy1yZWVsZWN0aW9uLWluLWZhY2UtcDU0MDMtMTY1Lmh0bdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWNvdW50eS1jb21taXNzaW9uZXJzLXNpbmdoLXB1bGxpb24tc2Vla2luZy1yZWVsZWN0aW9uLWluLWZhY2UtcDU0MDMtMTY1Lmh0bdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 04 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWNvdW50eS1jb21taXNzaW9uZXJzLXNpbmdoLXB1bGxpb24tc2Vla2luZy1yZWVsZWN0aW9uLWluLWZhY2UtcDU0MDMtMTY1Lmh0bdIBAA?oc=5\" target=\"_blank\">Democratic County Commissioners Singh, Pullion Seeking Re-election in Face of Challenge from Moorestown ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pine Barrens Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Pine Barrens Tribune",
+                "$": {
+                  "url": "https://pinebarrenstribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington Dems hold three county offices - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA?oc=5\" target=\"_blank\">Burlington Dems hold three county offices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "News Flash • Burlington County: Pizza Boxes Are Now Recyclab - Burlington County, NJ - Official Website"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmNvLmJ1cmxpbmd0b24ubmoudXMvQ2l2aWNBbGVydHMuYXNweD9BSUQ9MjEzNtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOWh0dHBzOi8vd3d3LmNvLmJ1cmxpbmd0b24ubmoudXMvQ2l2aWNBbGVydHMuYXNweD9BSUQ9MjEzNtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmNvLmJ1cmxpbmd0b24ubmoudXMvQ2l2aWNBbGVydHMuYXNweD9BSUQ9MjEzNtIBAA?oc=5\" target=\"_blank\">News Flash • Burlington County: Pizza Boxes Are Now Recyclab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Burlington County, NJ - Official Website</font>"
+            ],
+            "source": [
+              {
+                "_": "Burlington County, NJ - Official Website",
+                "$": {
+                  "url": "https://www.co.burlington.nj.us"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington County Residents' Recyclables Helped I-95 Reopen | Moorestown, NJ Patch - Patch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9idXJsaW5ndG9uLWNvdW50eS1yZXNpZGVudHMtcmVjeWNsYWJsZXMtaGVscGVkLWktOTUtcmVvcGVu0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9idXJsaW5ndG9uLWNvdW50eS1yZXNpZGVudHMtcmVjeWNsYWJsZXMtaGVscGVkLWktOTUtcmVvcGVu0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 23 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9idXJsaW5ndG9uLWNvdW50eS1yZXNpZGVudHMtcmVjeWNsYWJsZXMtaGVscGVkLWktOTUtcmVvcGVu0gEA?oc=5\" target=\"_blank\">Burlington County Residents' Recyclables Helped I-95 Reopen | Moorestown, NJ Patch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
+            ],
+            "source": [
+              {
+                "_": "Patch",
+                "$": {
+                  "url": "https://patch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reorganization meeting announces plans for 2022 in Burlington County - Burlington County Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmJ1cmxpbmd0b25jb3VudHl0aW1lcy5jb20vc3RvcnkvbmV3cy8yMDIyLzAxLzA3L2J1cmxpbmd0b24tY291bnR5LWJvYXJkLW9mLWNvbW1pc3Npb25lcnMtZGFuLW9jb25uZWxsLzkxMzAyODAwMDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LmJ1cmxpbmd0b25jb3VudHl0aW1lcy5jb20vc3RvcnkvbmV3cy8yMDIyLzAxLzA3L2J1cmxpbmd0b24tY291bnR5LWJvYXJkLW9mLWNvbW1pc3Npb25lcnMtZGFuLW9jb25uZWxsLzkxMzAyODAwMDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 07 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmJ1cmxpbmd0b25jb3VudHl0aW1lcy5jb20vc3RvcnkvbmV3cy8yMDIyLzAxLzA3L2J1cmxpbmd0b24tY291bnR5LWJvYXJkLW9mLWNvbW1pc3Npb25lcnMtZGFuLW9jb25uZWxsLzkxMzAyODAwMDIv0gEA?oc=5\" target=\"_blank\">Reorganization meeting announces plans for 2022 in Burlington County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Burlington County Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Burlington County Times",
+                "$": {
+                  "url": "https://www.burlingtoncountytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lots more Burlington Dems endorse Conaway, including five countywide officials - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2NvbmdyZXNzL2xvdHMtbW9yZS1idXJsaW5ndG9uLWRlbXMtZW5kb3JzZS1jb25hd2F5LWluY2x1ZGluZy1maXZlLWNvdW50eXdpZGUtb2ZmaWNpYWxzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2NvbmdyZXNzL2xvdHMtbW9yZS1idXJsaW5ndG9uLWRlbXMtZW5kb3JzZS1jb25hd2F5LWluY2x1ZGluZy1maXZlLWNvdW50eXdpZGUtb2ZmaWNpYWxzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2NvbmdyZXNzL2xvdHMtbW9yZS1idXJsaW5ndG9uLWRlbXMtZW5kb3JzZS1jb25hd2F5LWluY2x1ZGluZy1maXZlLWNvdW50eXdpZGUtb2ZmaWNpYWxzL9IBAA?oc=5\" target=\"_blank\">Lots more Burlington Dems endorse Conaway, including five countywide officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New Burlington County Trail Project Will Create Pedestrian-Friendly Crossing on Route 130 - Burlington County, NJ - Official Website"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmNvLmJ1cmxpbmd0b24ubmoudXMvQ2l2aWNBbGVydHMuYXNweD9BSUQ9MjEzONIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOWh0dHBzOi8vd3d3LmNvLmJ1cmxpbmd0b24ubmoudXMvQ2l2aWNBbGVydHMuYXNweD9BSUQ9MjEzONIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 02 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmNvLmJ1cmxpbmd0b24ubmoudXMvQ2l2aWNBbGVydHMuYXNweD9BSUQ9MjEzONIBAA?oc=5\" target=\"_blank\">New Burlington County Trail Project Will Create Pedestrian-Friendly Crossing on Route 130</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Burlington County, NJ - Official Website</font>"
+            ],
+            "source": [
+              {
+                "_": "Burlington County, NJ - Official Website",
+                "$": {
+                  "url": "https://www.co.burlington.nj.us"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Eat Up! Bordentown City Helps Kick Off County Restaurant Week - TAPinto.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2Zvb2QtYW5kLWRyaW5rL2FydGljbGVzL2VhdC11cC1ib3JkZW50b3duLWNpdHktaGVscHMta2ljay1vZmYtY291bnR5LXJlc3RhdXJhbnQtd2Vla9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2Zvb2QtYW5kLWRyaW5rL2FydGljbGVzL2VhdC11cC1ib3JkZW50b3duLWNpdHktaGVscHMta2ljay1vZmYtY291bnR5LXJlc3RhdXJhbnQtd2Vla9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 23 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2Zvb2QtYW5kLWRyaW5rL2FydGljbGVzL2VhdC11cC1ib3JkZW50b3duLWNpdHktaGVscHMta2ljay1vZmYtY291bnR5LXJlc3RhdXJhbnQtd2Vla9IBAA?oc=5\" target=\"_blank\">Eat Up! Bordentown City Helps Kick Off County Restaurant Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TAPinto.net</font>"
+            ],
+            "source": [
+              {
+                "_": "TAPinto.net",
+                "$": {
+                  "url": "https://www.tapinto.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election Day In Moorestown: Who's On The Ballot, Where To Vote - Patch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA?oc=5\" target=\"_blank\">Election Day In Moorestown: Who's On The Ballot, Where To Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
+            ],
+            "source": [
+              {
+                "_": "Patch",
+                "$": {
+                  "url": "https://patch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington freeholder director endorses millionaire's tax - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2dvdmVybm9yL2J1cmxpbmd0b24tZnJlZWhvbGRlci1kaXJlY3Rvci1lbmRvcnNlcy1taWxsaW9uYWlyZXMtdGF4L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2dvdmVybm9yL2J1cmxpbmd0b24tZnJlZWhvbGRlci1kaXJlY3Rvci1lbmRvcnNlcy1taWxsaW9uYWlyZXMtdGF4L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 May 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2dvdmVybm9yL2J1cmxpbmd0b24tZnJlZWhvbGRlci1kaXJlY3Rvci1lbmRvcnNlcy1taWxsaW9uYWlyZXMtdGF4L9IBAA?oc=5\" target=\"_blank\">Burlington freeholder director endorses millionaire's tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington County’s recycled glass bottles and jars used to fix I-95 - The Trentonian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRyZW50b25pYW4uY29tLzIwMjMvMDYvMjkvYnVybGluZ3Rvbi1jb3VudHlzLXJlY3ljbGVkLWdsYXNzLWJvdHRsZXMtYW5kLWphcnMtdXNlZC10by1maXgtaS05NS_SAW5odHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIzLzA2LzI5L2J1cmxpbmd0b24tY291bnR5cy1yZWN5Y2xlZC1nbGFzcy1ib3R0bGVzLWFuZC1qYXJzLXVzZWQtdG8tZml4LWktOTUvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LnRyZW50b25pYW4uY29tLzIwMjMvMDYvMjkvYnVybGluZ3Rvbi1jb3VudHlzLXJlY3ljbGVkLWdsYXNzLWJvdHRsZXMtYW5kLWphcnMtdXNlZC10by1maXgtaS05NS_SAW5odHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIzLzA2LzI5L2J1cmxpbmd0b24tY291bnR5cy1yZWN5Y2xlZC1nbGFzcy1ib3R0bGVzLWFuZC1qYXJzLXVzZWQtdG8tZml4LWktOTUvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 29 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRyZW50b25pYW4uY29tLzIwMjMvMDYvMjkvYnVybGluZ3Rvbi1jb3VudHlzLXJlY3ljbGVkLWdsYXNzLWJvdHRsZXMtYW5kLWphcnMtdXNlZC10by1maXgtaS05NS_SAW5odHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIzLzA2LzI5L2J1cmxpbmd0b24tY291bnR5cy1yZWN5Y2xlZC1nbGFzcy1ib3R0bGVzLWFuZC1qYXJzLXVzZWQtdG8tZml4LWktOTUvYW1wLw?oc=5\" target=\"_blank\">Burlington County’s recycled glass bottles and jars used to fix I-95</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Trentonian</font>"
+            ],
+            "source": [
+              {
+                "_": "The Trentonian",
+                "$": {
+                  "url": "https://www.trentonian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington likely re-elects Democratic county commissioners - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24vYnVybGluZ3Rvbi1saWtlbHktcmUtZWxlY3RzLWRlbW9jcmF0aWMtY291bnR5LWNvbW1pc3Npb25lcnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24vYnVybGluZ3Rvbi1saWtlbHktcmUtZWxlY3RzLWRlbW9jcmF0aWMtY291bnR5LWNvbW1pc3Npb25lcnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Nov 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24vYnVybGluZ3Rvbi1saWtlbHktcmUtZWxlY3RzLWRlbW9jcmF0aWMtY291bnR5LWNvbW1pc3Npb25lcnMv0gEA?oc=5\" target=\"_blank\">Burlington likely re-elects Democratic county commissioners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington County Library System celebrates grand opening of new Pinelands Library Branch - The Trentonian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIyLzAzLzE3L2J1cmxpbmd0b24tY291bnR5LWxpYnJhcnktc3lzdGVtLWNlbGVicmF0ZXMtZ3JhbmQtb3BlbmluZy1vZi1uZXctcGluZWxhbmRzLWxpYnJhcnktYnJhbmNoL9IBhAFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIyLzAzLzE3L2J1cmxpbmd0b24tY291bnR5LWxpYnJhcnktc3lzdGVtLWNlbGVicmF0ZXMtZ3JhbmQtb3BlbmluZy1vZi1uZXctcGluZWxhbmRzLWxpYnJhcnktYnJhbmNoL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIyLzAzLzE3L2J1cmxpbmd0b24tY291bnR5LWxpYnJhcnktc3lzdGVtLWNlbGVicmF0ZXMtZ3JhbmQtb3BlbmluZy1vZi1uZXctcGluZWxhbmRzLWxpYnJhcnktYnJhbmNoL9IBhAFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIyLzAzLzE3L2J1cmxpbmd0b24tY291bnR5LWxpYnJhcnktc3lzdGVtLWNlbGVicmF0ZXMtZ3JhbmQtb3BlbmluZy1vZi1uZXctcGluZWxhbmRzLWxpYnJhcnktYnJhbmNoL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 17 Mar 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIyLzAzLzE3L2J1cmxpbmd0b24tY291bnR5LWxpYnJhcnktc3lzdGVtLWNlbGVicmF0ZXMtZ3JhbmQtb3BlbmluZy1vZi1uZXctcGluZWxhbmRzLWxpYnJhcnktYnJhbmNoL9IBhAFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIyLzAzLzE3L2J1cmxpbmd0b24tY291bnR5LWxpYnJhcnktc3lzdGVtLWNlbGVicmF0ZXMtZ3JhbmQtb3BlbmluZy1vZi1uZXctcGluZWxhbmRzLWxpYnJhcnktYnJhbmNoL2FtcC8?oc=5\" target=\"_blank\">Burlington County Library System celebrates grand opening of new Pinelands Library Branch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Trentonian</font>"
+            ],
+            "source": [
+              {
+                "_": "The Trentonian",
+                "$": {
+                  "url": "https://www.trentonian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington GOP picks freeholder candidates - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsLzI4MjU4L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiJ2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsLzI4MjU4L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 08 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsLzI4MjU4L9IBAA?oc=5\" target=\"_blank\">Burlington GOP picks freeholder candidates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington County honors local veterans and family members during Military Service Medal Presentation Ceremony - The Trentonian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIxLzExLzI2L2J1cmxpbmd0b24tY291bnR5LWhvbm9ycy1sb2NhbC12ZXRlcmFucy1hbmQtZmFtaWx5LW1lbWJlcnMtZHVyaW5nLW1pbGl0YXJ5LXNlcnZpY2UtbWVkYWwtcHJlc2VudGF0aW9uLWNlcmVtb255L9IBmQFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIxLzExLzI2L2J1cmxpbmd0b24tY291bnR5LWhvbm9ycy1sb2NhbC12ZXRlcmFucy1hbmQtZmFtaWx5LW1lbWJlcnMtZHVyaW5nLW1pbGl0YXJ5LXNlcnZpY2UtbWVkYWwtcHJlc2VudGF0aW9uLWNlcmVtb255L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilQFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIxLzExLzI2L2J1cmxpbmd0b24tY291bnR5LWhvbm9ycy1sb2NhbC12ZXRlcmFucy1hbmQtZmFtaWx5LW1lbWJlcnMtZHVyaW5nLW1pbGl0YXJ5LXNlcnZpY2UtbWVkYWwtcHJlc2VudGF0aW9uLWNlcmVtb255L9IBmQFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIxLzExLzI2L2J1cmxpbmd0b24tY291bnR5LWhvbm9ycy1sb2NhbC12ZXRlcmFucy1hbmQtZmFtaWx5LW1lbWJlcnMtZHVyaW5nLW1pbGl0YXJ5LXNlcnZpY2UtbWVkYWwtcHJlc2VudGF0aW9uLWNlcmVtb255L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Nov 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIxLzExLzI2L2J1cmxpbmd0b24tY291bnR5LWhvbm9ycy1sb2NhbC12ZXRlcmFucy1hbmQtZmFtaWx5LW1lbWJlcnMtZHVyaW5nLW1pbGl0YXJ5LXNlcnZpY2UtbWVkYWwtcHJlc2VudGF0aW9uLWNlcmVtb255L9IBmQFodHRwczovL3d3dy50cmVudG9uaWFuLmNvbS8yMDIxLzExLzI2L2J1cmxpbmd0b24tY291bnR5LWhvbm9ycy1sb2NhbC12ZXRlcmFucy1hbmQtZmFtaWx5LW1lbWJlcnMtZHVyaW5nLW1pbGl0YXJ5LXNlcnZpY2UtbWVkYWwtcHJlc2VudGF0aW9uLWNlcmVtb255L2FtcC8?oc=5\" target=\"_blank\">Burlington County honors local veterans and family members during Military Service Medal Presentation Ceremony</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Trentonian</font>"
+            ],
+            "source": [
+              {
+                "_": "The Trentonian",
+                "$": {
+                  "url": "https://www.trentonian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrats take control of Burlington Freeholder Board - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24vZGVtb2NyYXRzLXRha2UtY29udHJvbC1vZi1idXJsaW5ndG9uLWZyZWVob2xkZXItYm9hcmQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24vZGVtb2NyYXRzLXRha2UtY29udHJvbC1vZi1idXJsaW5ndG9uLWZyZWVob2xkZXItYm9hcmQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Jan 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24vZGVtb2NyYXRzLXRha2UtY29udHJvbC1vZi1idXJsaW5ndG9uLWZyZWVob2xkZXItYm9hcmQv0gEA?oc=5\" target=\"_blank\">Democrats take control of Burlington Freeholder Board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

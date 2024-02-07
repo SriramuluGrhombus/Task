@@ -1,0 +1,3038 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"PhRMA\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=PhRMA&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "PhRMA Statement on CMS' Initial Price-Setting “Offer” to Biopharmaceutical Companies - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5waHJtYS5vcmcvcmVzb3VyY2UtY2VudGVyL1RvcGljcy9BY2Nlc3MtdG8tTWVkaWNpbmVzL1BoUk1BLVN0YXRlbWVudC1vbi1DTVMtSW5pdGlhbC1QcmljZS1TZXR0aW5nLU9mZmVyLXRvLUJpb3BoYXJtYWNldXRpY2FsLUNvbXBhbmllc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3d3dy5waHJtYS5vcmcvcmVzb3VyY2UtY2VudGVyL1RvcGljcy9BY2Nlc3MtdG8tTWVkaWNpbmVzL1BoUk1BLVN0YXRlbWVudC1vbi1DTVMtSW5pdGlhbC1QcmljZS1TZXR0aW5nLU9mZmVyLXRvLUJpb3BoYXJtYWNldXRpY2FsLUNvbXBhbmllc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 13:01:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5waHJtYS5vcmcvcmVzb3VyY2UtY2VudGVyL1RvcGljcy9BY2Nlc3MtdG8tTWVkaWNpbmVzL1BoUk1BLVN0YXRlbWVudC1vbi1DTVMtSW5pdGlhbC1QcmljZS1TZXR0aW5nLU9mZmVyLXRvLUJpb3BoYXJtYWNldXRpY2FsLUNvbXBhbmllc9IBAA?oc=5\" target=\"_blank\">PhRMA Statement on CMS' Initial Price-Setting “Offer” to Biopharmaceutical Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://www.phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AstraZeneca is third member to leave PhRMA in five months - STAT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA1LzE2L2FzdHJhemVuZWNhLWxlYXZlcy1waHJtYS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPWh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA1LzE2L2FzdHJhemVuZWNhLWxlYXZlcy1waHJtYS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA1LzE2L2FzdHJhemVuZWNhLWxlYXZlcy1waHJtYS_SAQA?oc=5\" target=\"_blank\">AstraZeneca is third member to leave PhRMA in five months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STAT</font>"
+            ],
+            "source": [
+              {
+                "_": "STAT",
+                "$": {
+                  "url": "https://www.statnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US pharmacy benefit lobby group ramps up spending as lawmakers close in - ETHealthWorld"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimQFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcGhhcm1hL3BoYXJtYS1pbmR1c3RyeS91cy1waGFybWFjeS1iZW5lZml0LWxvYmJ5LWdyb3VwLXJhbXBzLXVwLXNwZW5kaW5nLWFzLWxhd21ha2Vycy1jbG9zZS1pbi8xMDcxNTEzNzPSAZ0BaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9waGFybWEvcGhhcm1hLWluZHVzdHJ5L3VzLXBoYXJtYWN5LWJlbmVmaXQtbG9iYnktZ3JvdXAtcmFtcHMtdXAtc3BlbmRpbmctYXMtbGF3bWFrZXJzLWNsb3NlLWluLzEwNzE1MTM3Mw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimQFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcGhhcm1hL3BoYXJtYS1pbmR1c3RyeS91cy1waGFybWFjeS1iZW5lZml0LWxvYmJ5LWdyb3VwLXJhbXBzLXVwLXNwZW5kaW5nLWFzLWxhd21ha2Vycy1jbG9zZS1pbi8xMDcxNTEzNzPSAZ0BaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9waGFybWEvcGhhcm1hLWluZHVzdHJ5L3VzLXBoYXJtYWN5LWJlbmVmaXQtbG9iYnktZ3JvdXAtcmFtcHMtdXAtc3BlbmRpbmctYXMtbGF3bWFrZXJzLWNsb3NlLWluLzEwNzE1MTM3Mw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimQFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcGhhcm1hL3BoYXJtYS1pbmR1c3RyeS91cy1waGFybWFjeS1iZW5lZml0LWxvYmJ5LWdyb3VwLXJhbXBzLXVwLXNwZW5kaW5nLWFzLWxhd21ha2Vycy1jbG9zZS1pbi8xMDcxNTEzNzPSAZ0BaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9waGFybWEvcGhhcm1hLWluZHVzdHJ5L3VzLXBoYXJtYWN5LWJlbmVmaXQtbG9iYnktZ3JvdXAtcmFtcHMtdXAtc3BlbmRpbmctYXMtbGF3bWFrZXJzLWNsb3NlLWluLzEwNzE1MTM3Mw?oc=5\" target=\"_blank\">US pharmacy benefit lobby group ramps up spending as lawmakers close in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETHealthWorld</font>"
+            ],
+            "source": [
+              {
+                "_": "ETHealthWorld",
+                "$": {
+                  "url": "https://health.economictimes.indiatimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AstraZeneca hits the exit from trade group PhRMA - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2FzdHJhemVuZWNhLWZvbGxvd3MtYWJidmllLXRldmEtc3VycHJpc2luZy1leGl0LXRvcC1sb2JieWluZy1ncm91cC1waHJtYdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2FzdHJhemVuZWNhLWZvbGxvd3MtYWJidmllLXRldmEtc3VycHJpc2luZy1leGl0LXRvcC1sb2JieWluZy1ncm91cC1waHJtYdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2FzdHJhemVuZWNhLWZvbGxvd3MtYWJidmllLXRldmEtc3VycHJpc2luZy1leGl0LXRvcC1sb2JieWluZy1ncm91cC1waHJtYdIBAA?oc=5\" target=\"_blank\">AstraZeneca hits the exit from trade group PhRMA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Three things to know about antibody-drug conjugates - The Pharma Letter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS90aHJlZS10aGluZ3MtdG8ta25vdy1hYm91dC1hbnRpYm9keS1kcnVnLWNvbmp1Z2F0ZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS90aHJlZS10aGluZ3MtdG8ta25vdy1hYm91dC1hbnRpYm9keS1kcnVnLWNvbmp1Z2F0ZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 10:13:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS90aHJlZS10aGluZ3MtdG8ta25vdy1hYm91dC1hbnRpYm9keS1kcnVnLWNvbmp1Z2F0ZXPSAQA?oc=5\" target=\"_blank\">Three things to know about antibody-drug conjugates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pharma Letter</font>"
+            ],
+            "source": [
+              {
+                "_": "The Pharma Letter",
+                "$": {
+                  "url": "https://www.thepharmaletter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBMs are driving up drug prices through fees, PhRMA report claims - Healthcare Finance News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhlYWx0aGNhcmVmaW5hbmNlbmV3cy5jb20vbmV3cy9wYm1zLWFyZS1kcml2aW5nLWRydWctcHJpY2VzLXRocm91Z2gtZmVlcy1waHJtYS1yZXBvcnQtY2xhaW1z0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LmhlYWx0aGNhcmVmaW5hbmNlbmV3cy5jb20vbmV3cy9wYm1zLWFyZS1kcml2aW5nLWRydWctcHJpY2VzLXRocm91Z2gtZmVlcy1waHJtYS1yZXBvcnQtY2xhaW1z0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhlYWx0aGNhcmVmaW5hbmNlbmV3cy5jb20vbmV3cy9wYm1zLWFyZS1kcml2aW5nLWRydWctcHJpY2VzLXRocm91Z2gtZmVlcy1waHJtYS1yZXBvcnQtY2xhaW1z0gEA?oc=5\" target=\"_blank\">PBMs are driving up drug prices through fees, PhRMA report claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthcare Finance News</font>"
+            ],
+            "source": [
+              {
+                "_": "Healthcare Finance News",
+                "$": {
+                  "url": "https://www.healthcarefinancenews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Statement on Proposed March-In Framework - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tUHJvcG9zZWQtTWFyY2gtSW4tRnJhbWV3b3Jr0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tUHJvcG9zZWQtTWFyY2gtSW4tRnJhbWV3b3Jr0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tUHJvcG9zZWQtTWFyY2gtSW4tRnJhbWV3b3Jr0gEA?oc=5\" target=\"_blank\">PhRMA Statement on Proposed March-In Framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA, industry players urge Supreme Court to overturn abortion pill restrictions - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2h1bmRyZWRzLWluZHVzdHJ5LXBsYXllcnMtcGx1cy1waHJtYS11cmdlLXNjb3R1cy1vdmVydHVybi1hYm9ydGlvbi1waWxsLXJlc3RyaWN0aW9uLXR3b9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2h1bmRyZWRzLWluZHVzdHJ5LXBsYXllcnMtcGx1cy1waHJtYS11cmdlLXNjb3R1cy1vdmVydHVybi1hYm9ydGlvbi1waWxsLXJlc3RyaWN0aW9uLXR3b9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 17 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2h1bmRyZWRzLWluZHVzdHJ5LXBsYXllcnMtcGx1cy1waHJtYS11cmdlLXNjb3R1cy1vdmVydHVybi1hYm9ydGlvbi1waWxsLXJlc3RyaWN0aW9uLXR3b9IBAA?oc=5\" target=\"_blank\">PhRMA, industry players urge Supreme Court to overturn abortion pill restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Avalere's Elizabeth Carpenter to Join PhRMA as EVP for Policy & Research - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9BdmFsZXJlcy1FbGl6YWJldGgtQ2FycGVudGVyLXRvLUpvaW4tUGhSTUEtYXMtRVZQLWZvci1Qb2xpY3ktYW5kLVJlc2VhcmNo0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9BdmFsZXJlcy1FbGl6YWJldGgtQ2FycGVudGVyLXRvLUpvaW4tUGhSTUEtYXMtRVZQLWZvci1Qb2xpY3ktYW5kLVJlc2VhcmNo0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9BdmFsZXJlcy1FbGl6YWJldGgtQ2FycGVudGVyLXRvLUpvaW4tUGhSTUEtYXMtRVZQLWZvci1Qb2xpY3ktYW5kLVJlc2VhcmNo0gEA?oc=5\" target=\"_blank\">Avalere's Elizabeth Carpenter to Join PhRMA as EVP for Policy & Research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA keeps pummeling PBMs, launching fresh attack on power over pharmacy choice - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3Bocm1hLWtlZXBzLXB1bW1lbGluZy1wYm1zLWxhdW5jaGluZy1mcmVzaC1hdHRhY2stcG93ZXItb3Zlci1waGFybWFjeS1jaG9pY2XSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3Bocm1hLWtlZXBzLXB1bW1lbGluZy1wYm1zLWxhdW5jaGluZy1mcmVzaC1hdHRhY2stcG93ZXItb3Zlci1waGFybWFjeS1jaG9pY2XSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3Bocm1hLWtlZXBzLXB1bW1lbGluZy1wYm1zLWxhdW5jaGluZy1mcmVzaC1hdHRhY2stcG93ZXItb3Zlci1waGFybWFjeS1jaG9pY2XSAQA?oc=5\" target=\"_blank\">PhRMA keeps pummeling PBMs, launching fresh attack on power over pharmacy choice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Statement on First List of Medicines Subject to Government Price-Setting - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtU3RhdGVtZW50LW9uLUZpcnN0LUxpc3Qtb2YtTWVkaWNpbmVzLVN1YmplY3QtdG8tR292ZXJubWVudC1QcmljZS1TZXR0aW5n0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtU3RhdGVtZW50LW9uLUZpcnN0LUxpc3Qtb2YtTWVkaWNpbmVzLVN1YmplY3QtdG8tR292ZXJubWVudC1QcmljZS1TZXR0aW5n0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 29 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtU3RhdGVtZW50LW9uLUZpcnN0LUxpc3Qtb2YtTWVkaWNpbmVzLVN1YmplY3QtdG8tR292ZXJubWVudC1QcmljZS1TZXR0aW5n0gEA?oc=5\" target=\"_blank\">PhRMA Statement on First List of Medicines Subject to Government Price-Setting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New Analysis: Inflation Reduction Act Undermines Cancer Medicine Development - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvTmV3LUFuYWx5c2lzLUluZmxhdGlvbi1SZWR1Y3Rpb24tQWN0LVVuZGVybWluZXMtQ2FuY2VyLU1lZGljaW5lLURldmVsb3BtZW500gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvTmV3LUFuYWx5c2lzLUluZmxhdGlvbi1SZWR1Y3Rpb24tQWN0LVVuZGVybWluZXMtQ2FuY2VyLU1lZGljaW5lLURldmVsb3BtZW500gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvTmV3LUFuYWx5c2lzLUluZmxhdGlvbi1SZWR1Y3Rpb24tQWN0LVVuZGVybWluZXMtQ2FuY2VyLU1lZGljaW5lLURldmVsb3BtZW500gEA?oc=5\" target=\"_blank\">New Analysis: Inflation Reduction Act Undermines Cancer Medicine Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Welcomes Genmab to the Association - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9QaFJNQS1XZWxjb21lcy1HZW5tYWItdG8tdGhlLUFzc29jaWF0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9QaFJNQS1XZWxjb21lcy1HZW5tYWItdG8tdGhlLUFzc29jaWF0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9QaFJNQS1XZWxjb21lcy1HZW5tYWItdG8tdGhlLUFzc29jaWF0aW9u0gEA?oc=5\" target=\"_blank\">PhRMA Welcomes Genmab to the Association</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Statement on U.S. International Trade Commission Report on Expanding the TRIPS Waiver - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilgFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtU3RhdGVtZW50LW9uLVVTLUludGVybmF0aW9uYWwtVHJhZGUtQ29tbWlzc2lvbi1SZXBvcnQtb24tRXhwYW5kaW5nLXRoZS1UUklQUy1XYWl2ZXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilgFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtU3RhdGVtZW50LW9uLVVTLUludGVybmF0aW9uYWwtVHJhZGUtQ29tbWlzc2lvbi1SZXBvcnQtb24tRXhwYW5kaW5nLXRoZS1UUklQUy1XYWl2ZXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 17 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilgFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtU3RhdGVtZW50LW9uLVVTLUludGVybmF0aW9uYWwtVHJhZGUtQ29tbWlzc2lvbi1SZXBvcnQtb24tRXhwYW5kaW5nLXRoZS1UUklQUy1XYWl2ZXLSAQA?oc=5\" target=\"_blank\">PhRMA Statement on U.S. International Trade Commission Report on Expanding the TRIPS Waiver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New Analysis Shows Hospitals Mark Up Medicine Prices 500% - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9OZXctQW5hbHlzaXMtU2hvd3MtSG9zcGl0YWxzLU1hcmstVXAtTWVkaWNpbmUtUHJpY2VzLTUwMC1QZXJjZW500gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9OZXctQW5hbHlzaXMtU2hvd3MtSG9zcGl0YWxzLU1hcmstVXAtTWVkaWNpbmUtUHJpY2VzLTUwMC1QZXJjZW500gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9OZXctQW5hbHlzaXMtU2hvd3MtSG9zcGl0YWxzLU1hcmstVXAtTWVkaWNpbmUtUHJpY2VzLTUwMC1QZXJjZW500gEA?oc=5\" target=\"_blank\">New Analysis Shows Hospitals Mark Up Medicine Prices 500%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Statement on FDA Authorizing Florida's Importation Plan - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tRkRBLUF1dGhvcml6aW5nLUZsb3JpZGFzLUltcG9ydGF0aW9uLVBsYW7SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tRkRBLUF1dGhvcml6aW5nLUZsb3JpZGFzLUltcG9ydGF0aW9uLVBsYW7SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 05 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tRkRBLUF1dGhvcml6aW5nLUZsb3JpZGFzLUltcG9ydGF0aW9uLVBsYW7SAQA?oc=5\" target=\"_blank\">PhRMA Statement on FDA Authorizing Florida's Importation Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Litigation Challenging Constitutionality of Provisions in Arkansas Act 1103 - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzLzM0MEIvU3RhdGVtZW50LW9uLVBoUk1BLUxpdGlnYXRpb24tQ2hhbGxlbmdpbmctQ29uc3RpdHV0aW9uYWxpdHktb2YtUHJvdmlzaW9ucy1pbi1BcmthbnNhcy1BY3QtMTEwM9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzLzM0MEIvU3RhdGVtZW50LW9uLVBoUk1BLUxpdGlnYXRpb24tQ2hhbGxlbmdpbmctQ29uc3RpdHV0aW9uYWxpdHktb2YtUHJvdmlzaW9ucy1pbi1BcmthbnNhcy1BY3QtMTEwM9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 14 Jun 2023 05:33:02 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzLzM0MEIvU3RhdGVtZW50LW9uLVBoUk1BLUxpdGlnYXRpb24tQ2hhbGxlbmdpbmctQ29uc3RpdHV0aW9uYWxpdHktb2YtUHJvdmlzaW9ucy1pbi1BcmthbnNhcy1BY3QtMTEwM9IBAA?oc=5\" target=\"_blank\">PhRMA Litigation Challenging Constitutionality of Provisions in Arkansas Act 1103</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Steve Tilton Returns to PhRMA as Senior Vice President of Federal Advocacy - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9TdGV2ZS1UaWx0b24tUmV0dXJucy10by1QaFJNQS1hcy1TZW5pb3ItVmljZS1QcmVzaWRlbnQtb2YtRmVkZXJhbC1BZHZvY2FjedIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9TdGV2ZS1UaWx0b24tUmV0dXJucy10by1QaFJNQS1hcy1TZW5pb3ItVmljZS1QcmVzaWRlbnQtb2YtRmVkZXJhbC1BZHZvY2FjedIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9TdGV2ZS1UaWx0b24tUmV0dXJucy10by1QaFJNQS1hcy1TZW5pb3ItVmljZS1QcmVzaWRlbnQtb2YtRmVkZXJhbC1BZHZvY2FjedIBAA?oc=5\" target=\"_blank\">Steve Tilton Returns to PhRMA as Senior Vice President of Federal Advocacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Statement on the EU Pharmaceutical Legislation - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLUVVLVBoYXJtYWNldXRpY2FsLUxlZ2lzbGF0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLUVVLVBoYXJtYWNldXRpY2FsLUxlZ2lzbGF0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 20 May 2023 17:30:21 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLUVVLVBoYXJtYWNldXRpY2FsLUxlZ2lzbGF0aW9u0gEA?oc=5\" target=\"_blank\">PhRMA Statement on the EU Pharmaceutical Legislation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Statement on CMS Final Guidance on the Price Setting Provisions in the IRA - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL1ByZXNzLVJlbGVhc2UvUGhSTUEtU3RhdGVtZW50LW9uLUNNUy1GaW5hbC1HdWlkYW5jZS1vbi10aGUtUHJpY2UtU2V0dGluZy1Qcm92aXNpb25zLWluLXRoZS1JUkHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL1ByZXNzLVJlbGVhc2UvUGhSTUEtU3RhdGVtZW50LW9uLUNNUy1GaW5hbC1HdWlkYW5jZS1vbi10aGUtUHJpY2UtU2V0dGluZy1Qcm92aXNpb25zLWluLXRoZS1JUkHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 30 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL1ByZXNzLVJlbGVhc2UvUGhSTUEtU3RhdGVtZW50LW9uLUNNUy1GaW5hbC1HdWlkYW5jZS1vbi10aGUtUHJpY2UtU2V0dGluZy1Qcm92aXNpb25zLWluLXRoZS1JUkHSAQA?oc=5\" target=\"_blank\">PhRMA Statement on CMS Final Guidance on the Price Setting Provisions in the IRA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pharmaceutical trade group sues Biden administration over Medicare drug price negotiations - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDYvMjEvcGhybWEtc3Vlcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vdmVyLW1lZGljYXJlLWRydWctbmVnb3RpYXRpb25zLS5odG1s0gFpaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMDYvMjEvcGhybWEtc3Vlcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vdmVyLW1lZGljYXJlLWRydWctbmVnb3RpYXRpb25zLS5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDYvMjEvcGhybWEtc3Vlcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vdmVyLW1lZGljYXJlLWRydWctbmVnb3RpYXRpb25zLS5odG1s0gFpaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMDYvMjEvcGhybWEtc3Vlcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vdmVyLW1lZGljYXJlLWRydWctbmVnb3RpYXRpb25zLS5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 21 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDYvMjEvcGhybWEtc3Vlcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vdmVyLW1lZGljYXJlLWRydWctbmVnb3RpYXRpb25zLS5odG1s0gFpaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMDYvMjEvcGhybWEtc3Vlcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vdmVyLW1lZGljYXJlLWRydWctbmVnb3RpYXRpb25zLS5odG1s?oc=5\" target=\"_blank\">Pharmaceutical trade group sues Biden administration over Medicare drug price negotiations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Statement on the FDA and Latest U.S. Supreme Court Decision - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLUZEQS1hbmQtTGF0ZXN0LVVTLVN1cHJlbWUtQ291cnQtRGVjaXNpb27SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLUZEQS1hbmQtTGF0ZXN0LVVTLVN1cHJlbWUtQ291cnQtRGVjaXNpb27SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 21 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLUZEQS1hbmQtTGF0ZXN0LVVTLVN1cHJlbWUtQ291cnQtRGVjaXNpb27SAQA?oc=5\" target=\"_blank\">PhRMA Statement on the FDA and Latest U.S. Supreme Court Decision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NICA, GCCA, PhRMA Litigation Asserts Price Setting Provisions in the Inflation Reduction Act are Unconstitutional - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirAFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvTklDQS1HQ0NBLVBoUk1BLUxpdGlnYXRpb24tQXNzZXJ0cy1QcmljZS1TZXR0aW5nLVByb3Zpc2lvbnMtaW4tdGhlLUluZmxhdGlvbi1SZWR1Y3Rpb24tQWN0LWFyZS1VbmNvbnN0aXR1dGlvbmFs0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirAFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvTklDQS1HQ0NBLVBoUk1BLUxpdGlnYXRpb24tQXNzZXJ0cy1QcmljZS1TZXR0aW5nLVByb3Zpc2lvbnMtaW4tdGhlLUluZmxhdGlvbi1SZWR1Y3Rpb24tQWN0LWFyZS1VbmNvbnN0aXR1dGlvbmFs0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 21 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirAFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvTklDQS1HQ0NBLVBoUk1BLUxpdGlnYXRpb24tQXNzZXJ0cy1QcmljZS1TZXR0aW5nLVByb3Zpc2lvbnMtaW4tdGhlLUluZmxhdGlvbi1SZWR1Y3Rpb24tQWN0LWFyZS1VbmNvbnN0aXR1dGlvbmFs0gEA?oc=5\" target=\"_blank\">NICA, GCCA, PhRMA Litigation Asserts Price Setting Provisions in the Inflation Reduction Act are Unconstitutional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Statement on Passage of Prescription Drug Board in the Minnesota Legislature - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtU3RhdGVtZW50LW9uLVBhc3NhZ2Utb2YtUHJlc2NyaXB0aW9uLURydWctQm9hcmQtaW4tdGhlLU1pbm5lc290YS1MZWdpc2xhdHVyZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtU3RhdGVtZW50LW9uLVBhc3NhZ2Utb2YtUHJlc2NyaXB0aW9uLURydWctQm9hcmQtaW4tdGhlLU1pbm5lc290YS1MZWdpc2xhdHVyZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtU3RhdGVtZW50LW9uLVBhc3NhZ2Utb2YtUHJlc2NyaXB0aW9uLURydWctQm9hcmQtaW4tdGhlLU1pbm5lc290YS1MZWdpc2xhdHVyZdIBAA?oc=5\" target=\"_blank\">PhRMA Statement on Passage of Prescription Drug Board in the Minnesota Legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA attacks PBMs for limiting patient access to medicines - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL3Bocm1hLXR1cm5zLWhlYXQtcGJtcy1hdHRhY2stYWQtYWNjdXNpbmctdGhlbS1saW1pdGluZy1hY2Nlc3MtbWVkaWNpbmVz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL3Bocm1hLXR1cm5zLWhlYXQtcGJtcy1hdHRhY2stYWQtYWNjdXNpbmctdGhlbS1saW1pdGluZy1hY2Nlc3MtbWVkaWNpbmVz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL3Bocm1hLXR1cm5zLWhlYXQtcGJtcy1hdHRhY2stYWQtYWNjdXNpbmctdGhlbS1saW1pdGluZy1hY2Nlc3MtbWVkaWNpbmVz0gEA?oc=5\" target=\"_blank\">PhRMA attacks PBMs for limiting patient access to medicines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Files Amicus Brief with the U.S. Supreme Court in Support of FDA - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvRkRBL1BoUk1BLUZpbGVzLUFtaWN1cy1CcmllZi13aXRoLVVTLVN1cHJlbWUtQ291cnQtaW4tU3VwcG9ydC1vZi1GREHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvRkRBL1BoUk1BLUZpbGVzLUFtaWN1cy1CcmllZi13aXRoLVVTLVN1cHJlbWUtQ291cnQtaW4tU3VwcG9ydC1vZi1GREHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 14 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvRkRBL1BoUk1BLUZpbGVzLUFtaWN1cy1CcmllZi13aXRoLVVTLVN1cHJlbWUtQ291cnQtaW4tU3VwcG9ydC1vZi1GREHSAQA?oc=5\" target=\"_blank\">PhRMA Files Amicus Brief with the U.S. Supreme Court in Support of FDA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA presents new reason to disfavor Inflation Reduction Act - The Pharma Letter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS9waHJtYS1wcmVzZW50cy1uZXctcmVhc29uLXRvLWRpc2Zhdm9yLWluZmxhdGlvbi1yZWR1Y3Rpb24tYWN00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS9waHJtYS1wcmVzZW50cy1uZXctcmVhc29uLXRvLWRpc2Zhdm9yLWluZmxhdGlvbi1yZWR1Y3Rpb24tYWN00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS9waHJtYS1wcmVzZW50cy1uZXctcmVhc29uLXRvLWRpc2Zhdm9yLWluZmxhdGlvbi1yZWR1Y3Rpb24tYWN00gEA?oc=5\" target=\"_blank\">PhRMA presents new reason to disfavor Inflation Reduction Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pharma Letter</font>"
+            ],
+            "source": [
+              {
+                "_": "The Pharma Letter",
+                "$": {
+                  "url": "https://www.thepharmaletter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CSL Behring's Bob Lojewski Appointed to Board of Directors of PhRMA - CSL Limited"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNzbC5jb20vd2UtYXJlLWNzbC92aXRhLW9yaWdpbmFsLXN0b3JpZXMvMjAyMy9jc2wtYmVocmluZ3MtYm9iLWxvamV3c2tpLWFwcG9pbnRlZC10by1ib2FyZC1vZi1kaXJlY3RvcnMtb2YtcGhybWHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmNzbC5jb20vd2UtYXJlLWNzbC92aXRhLW9yaWdpbmFsLXN0b3JpZXMvMjAyMy9jc2wtYmVocmluZ3MtYm9iLWxvamV3c2tpLWFwcG9pbnRlZC10by1ib2FyZC1vZi1kaXJlY3RvcnMtb2YtcGhybWHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNzbC5jb20vd2UtYXJlLWNzbC92aXRhLW9yaWdpbmFsLXN0b3JpZXMvMjAyMy9jc2wtYmVocmluZ3MtYm9iLWxvamV3c2tpLWFwcG9pbnRlZC10by1ib2FyZC1vZi1kaXJlY3RvcnMtb2YtcGhybWHSAQA?oc=5\" target=\"_blank\">CSL Behring's Bob Lojewski Appointed to Board of Directors of PhRMA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSL Limited</font>"
+            ],
+            "source": [
+              {
+                "_": "CSL Limited",
+                "$": {
+                  "url": "https://www.csl.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA joins legal battle over Inflation Reduction Act's 'price-setting' measures - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3Bocm1hLWFuZC1vdGhlci10cmFkZS1ncm91cHMtbGF0ZXN0LXRha2UtbGVnYWwtc3RhYi1pcmEtbGF3c3VpdC1jYWxsaW5nLW91dC1jb25zdGl0dXRpb25hbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3Bocm1hLWFuZC1vdGhlci10cmFkZS1ncm91cHMtbGF0ZXN0LXRha2UtbGVnYWwtc3RhYi1pcmEtbGF3c3VpdC1jYWxsaW5nLW91dC1jb25zdGl0dXRpb25hbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3Bocm1hLWFuZC1vdGhlci10cmFkZS1ncm91cHMtbGF0ZXN0LXRha2UtbGVnYWwtc3RhYi1pcmEtbGF3c3VpdC1jYWxsaW5nLW91dC1jb25zdGl0dXRpb25hbNIBAA?oc=5\" target=\"_blank\">PhRMA joins legal battle over Inflation Reduction Act's 'price-setting' measures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pharmacy Middlemen Altering Business Models, PhRMA Report Says - Bloomberg Law"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYWN5LW1pZGRsZW1lbi1hbHRlcmluZy1idXNpbmVzcy1tb2RlbHMtcGhybWEtcmVwb3J0LXNheXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYWN5LW1pZGRsZW1lbi1hbHRlcmluZy1idXNpbmVzcy1tb2RlbHMtcGhybWEtcmVwb3J0LXNheXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYWN5LW1pZGRsZW1lbi1hbHRlcmluZy1idXNpbmVzcy1tb2RlbHMtcGhybWEtcmVwb3J0LXNheXPSAQA?oc=5\" target=\"_blank\">Pharmacy Middlemen Altering Business Models, PhRMA Report Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg Law",
+                "$": {
+                  "url": "https://news.bloomberglaw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA sues Biden administration over Medicare drug price negotiation program - STAT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA2LzIxL3Bocm1hLXN1ZXMtYmlkZW4tYWRtaW5pc3RyYXRpb24tb3Zlci1tZWRpY2FyZS1kcnVnLXByaWNlLW5lZ290aWF0aW9uLXByb2dyYW0v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA2LzIxL3Bocm1hLXN1ZXMtYmlkZW4tYWRtaW5pc3RyYXRpb24tb3Zlci1tZWRpY2FyZS1kcnVnLXByaWNlLW5lZ290aWF0aW9uLXByb2dyYW0v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 21 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA2LzIxL3Bocm1hLXN1ZXMtYmlkZW4tYWRtaW5pc3RyYXRpb24tb3Zlci1tZWRpY2FyZS1kcnVnLXByaWNlLW5lZ290aWF0aW9uLXByb2dyYW0v0gEA?oc=5\" target=\"_blank\">PhRMA sues Biden administration over Medicare drug price negotiation program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STAT</font>"
+            ],
+            "source": [
+              {
+                "_": "STAT",
+                "$": {
+                  "url": "https://www.statnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA hits out at PBMs as lurking middlemen in latest ad - MM+M Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9waHJtYS1oaXRzLW91dC1hdC1wYm1zLWFzLWx1cmtpbmctbWlkZGxlbWVuLWluLWxhdGVzdC1hZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9waHJtYS1oaXRzLW91dC1hdC1wYm1zLWFzLWx1cmtpbmctbWlkZGxlbWVuLWluLWxhdGVzdC1hZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9waHJtYS1oaXRzLW91dC1hdC1wYm1zLWFzLWx1cmtpbmctbWlkZGxlbWVuLWluLWxhdGVzdC1hZC_SAQA?oc=5\" target=\"_blank\">PhRMA hits out at PBMs as lurking middlemen in latest ad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MM+M Online</font>"
+            ],
+            "source": [
+              {
+                "_": "MM+M Online",
+                "$": {
+                  "url": "https://www.mmm-online.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Joins Merck, BMS in Latest Lawsuit Challenging IRA’s Drug Price Negotiations - BioSpace"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmJpb3NwYWNlLmNvbS9hcnRpY2xlL3Bocm1hLWpvaW5zLW1lcmNrLWJtcy1pbi1sYXRlc3QtbGF3c3VpdC1jaGFsbGVuZ2luZy1pcmEtcy1kcnVnLXByaWNlLW5lZ290aWF0aW9ucy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LmJpb3NwYWNlLmNvbS9hcnRpY2xlL3Bocm1hLWpvaW5zLW1lcmNrLWJtcy1pbi1sYXRlc3QtbGF3c3VpdC1jaGFsbGVuZ2luZy1pcmEtcy1kcnVnLXByaWNlLW5lZ290aWF0aW9ucy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 21 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmJpb3NwYWNlLmNvbS9hcnRpY2xlL3Bocm1hLWpvaW5zLW1lcmNrLWJtcy1pbi1sYXRlc3QtbGF3c3VpdC1jaGFsbGVuZ2luZy1pcmEtcy1kcnVnLXByaWNlLW5lZ290aWF0aW9ucy_SAQA?oc=5\" target=\"_blank\">PhRMA Joins Merck, BMS in Latest Lawsuit Challenging IRA’s Drug Price Negotiations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioSpace</font>"
+            ],
+            "source": [
+              {
+                "_": "BioSpace",
+                "$": {
+                  "url": "https://www.biospace.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "U.S. pharmaceutical industry revenue domestic and abroad 2022 - Statista"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnN0YXRpc3RhLmNvbS9zdGF0aXN0aWNzLzI3NTU2MC9kb21lc3RpYy1hbmQtaW50ZXJuYXRpb25hbC1yZXZlbnVlLW9mLXRoZS11cy1waGFybWFjZXV0aWNhbC1pbmR1c3RyeS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LnN0YXRpc3RhLmNvbS9zdGF0aXN0aWNzLzI3NTU2MC9kb21lc3RpYy1hbmQtaW50ZXJuYXRpb25hbC1yZXZlbnVlLW9mLXRoZS11cy1waGFybWFjZXV0aWNhbC1pbmR1c3RyeS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 25 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnN0YXRpc3RhLmNvbS9zdGF0aXN0aWNzLzI3NTU2MC9kb21lc3RpYy1hbmQtaW50ZXJuYXRpb25hbC1yZXZlbnVlLW9mLXRoZS11cy1waGFybWFjZXV0aWNhbC1pbmR1c3RyeS_SAQA?oc=5\" target=\"_blank\">U.S. pharmaceutical industry revenue domestic and abroad 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Statista</font>"
+            ],
+            "source": [
+              {
+                "_": "Statista",
+                "$": {
+                  "url": "https://www.statista.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AstraZeneca leaves PhRMA, following in the footsteps of Teva and AbbVie - MM+M Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9hc3RyYXplbmVjYS1sZWF2ZXMtcGhybWEtZm9sbG93aW5nLWluLXRoZS1mb290c3RlcHMtb2YtdGV2YS1hbmQtYWJidmllL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9hc3RyYXplbmVjYS1sZWF2ZXMtcGhybWEtZm9sbG93aW5nLWluLXRoZS1mb290c3RlcHMtb2YtdGV2YS1hbmQtYWJidmllL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9hc3RyYXplbmVjYS1sZWF2ZXMtcGhybWEtZm9sbG93aW5nLWluLXRoZS1mb290c3RlcHMtb2YtdGV2YS1hbmQtYWJidmllL9IBAA?oc=5\" target=\"_blank\">AstraZeneca leaves PhRMA, following in the footsteps of Teva and AbbVie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MM+M Online</font>"
+            ],
+            "source": [
+              {
+                "_": "MM+M Online",
+                "$": {
+                  "url": "https://www.mmm-online.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New PhRMA-led Coalition Seeks to Dismantle 340B and Undermine Access to Care for Patients | AHA News - American Hospital Association"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmFoYS5vcmcvbmV3cy9ibG9nLzIwMjMtMDQtMDUtbmV3LXBocm1hLWxlZC1jb2FsaXRpb24tc2Vla3MtZGlzbWFudGxlLTM0MGItYW5kLXVuZGVybWluZS1hY2Nlc3MtY2FyZS1wYXRpZW50c9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmFoYS5vcmcvbmV3cy9ibG9nLzIwMjMtMDQtMDUtbmV3LXBocm1hLWxlZC1jb2FsaXRpb24tc2Vla3MtZGlzbWFudGxlLTM0MGItYW5kLXVuZGVybWluZS1hY2Nlc3MtY2FyZS1wYXRpZW50c9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmFoYS5vcmcvbmV3cy9ibG9nLzIwMjMtMDQtMDUtbmV3LXBocm1hLWxlZC1jb2FsaXRpb24tc2Vla3MtZGlzbWFudGxlLTM0MGItYW5kLXVuZGVybWluZS1hY2Nlc3MtY2FyZS1wYXRpZW50c9IBAA?oc=5\" target=\"_blank\">New PhRMA-led Coalition Seeks to Dismantle 340B and Undermine Access to Care for Patients | AHA News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Hospital Association</font>"
+            ],
+            "source": [
+              {
+                "_": "American Hospital Association",
+                "$": {
+                  "url": "https://www.aha.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Analysis | PhRMA CEO: Medicare price negotiations are a 'black box' - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzMxL3Bocm1hLWNlby1tZWRpY2FyZS1wcmljZS1uZWdvdGlhdGlvbnMtYXJlLWJsYWNrLWJveC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzMxL3Bocm1hLWNlby1tZWRpY2FyZS1wcmljZS1uZWdvdGlhdGlvbnMtYXJlLWJsYWNrLWJveC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 15:42:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzMxL3Bocm1hLWNlby1tZWRpY2FyZS1wcmljZS1uZWdvdGlhdGlvbnMtYXJlLWJsYWNrLWJveC_SAQA?oc=5\" target=\"_blank\">Analysis | PhRMA CEO: Medicare price negotiations are a 'black box'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Transcript: Global Women's Summit: What's with the Middlemen? Protecting Medicine Access and Affordability: Content ... - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vd2FzaGluZ3Rvbi1wb3N0LWxpdmUvMjAyMy8xMS8xNC90cmFuc2NyaXB0LWdsb2JhbC13b21lbnMtc3VtbWl0LXdoYXRzLXdpdGgtbWlkZGxlbWVuLXByb3RlY3RpbmctbWVkaWNpbmUtYWNjZXNzLWFmZm9yZGFiaWxpdHktY29udGVudC1waHJtYS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vd2FzaGluZ3Rvbi1wb3N0LWxpdmUvMjAyMy8xMS8xNC90cmFuc2NyaXB0LWdsb2JhbC13b21lbnMtc3VtbWl0LXdoYXRzLXdpdGgtbWlkZGxlbWVuLXByb3RlY3RpbmctbWVkaWNpbmUtYWNjZXNzLWFmZm9yZGFiaWxpdHktY29udGVudC1waHJtYS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vd2FzaGluZ3Rvbi1wb3N0LWxpdmUvMjAyMy8xMS8xNC90cmFuc2NyaXB0LWdsb2JhbC13b21lbnMtc3VtbWl0LXdoYXRzLXdpdGgtbWlkZGxlbWVuLXByb3RlY3RpbmctbWVkaWNpbmUtYWNjZXNzLWFmZm9yZGFiaWxpdHktY29udGVudC1waHJtYS_SAQA?oc=5\" target=\"_blank\">Transcript: Global Women's Summit: What's with the Middlemen? Protecting Medicine Access and Affordability: Content ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New Analysis Shows 340B Hospitals with Highest Operating Margins Provide Lowest Levels Charity Care - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzLzM0MEIvTmV3LUFuYWx5c2lzLVNob3dzLTM0MEItSG9zcGl0YWxzLXdpdGgtSGlnaGVzdC1PcGVyYXRpbmctTWFyZ2lucy1Qcm92aWRlLUxvd2VzdC1MZXZlbHMtQ2hhcml0eS1DYXJl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzLzM0MEIvTmV3LUFuYWx5c2lzLVNob3dzLTM0MEItSG9zcGl0YWxzLXdpdGgtSGlnaGVzdC1PcGVyYXRpbmctTWFyZ2lucy1Qcm92aWRlLUxvd2VzdC1MZXZlbHMtQ2hhcml0eS1DYXJl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzLzM0MEIvTmV3LUFuYWx5c2lzLVNob3dzLTM0MEItSG9zcGl0YWxzLXdpdGgtSGlnaGVzdC1PcGVyYXRpbmctTWFyZ2lucy1Qcm92aWRlLUxvd2VzdC1MZXZlbHMtQ2hhcml0eS1DYXJl0gEA?oc=5\" target=\"_blank\">New Analysis Shows 340B Hospitals with Highest Operating Margins Provide Lowest Levels Charity Care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA slams Medicare's handling of drug price bargaining - STAT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA0LzE5L3Bocm1hLW1lZGljYXJlLW5lZ290aWF0aW9uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA0LzE5L3Bocm1hLW1lZGljYXJlLW5lZ290aWF0aW9uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 19 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA0LzE5L3Bocm1hLW1lZGljYXJlLW5lZ290aWF0aW9uL9IBAA?oc=5\" target=\"_blank\">PhRMA slams Medicare's handling of drug price bargaining</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STAT</font>"
+            ],
+            "source": [
+              {
+                "_": "STAT",
+                "$": {
+                  "url": "https://www.statnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Top federal lobbyist at PhRMA leaves - STAT - STAT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA2LzIwL3RvcC1mZWRlcmFsLWxvYmJ5aXN0LWF0LXBocm1hLWxlYXZlcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA2LzIwL3RvcC1mZWRlcmFsLWxvYmJ5aXN0LWF0LXBocm1hLWxlYXZlcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 20 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA2LzIwL3RvcC1mZWRlcmFsLWxvYmJ5aXN0LWF0LXBocm1hLWxlYXZlcy_SAQA?oc=5\" target=\"_blank\">Top federal lobbyist at PhRMA leaves - STAT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STAT</font>"
+            ],
+            "source": [
+              {
+                "_": "STAT",
+                "$": {
+                  "url": "https://www.statnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Files Amicus Brief with the U.S. Court of Appeals for the Fifth Circuit in Support of FDA - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimgFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtRmlsZXMtQW1pY3VzLUJyaWVmLXdpdGgtdGhlLVVTLUNvdXJ0LW9mLUFwcGVhbHMtZm9yLXRoZS1GaWZ0aC1DaXJjdWl0LWluLVN1cHBvcnQtb2YtRkRB0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimgFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtRmlsZXMtQW1pY3VzLUJyaWVmLXdpdGgtdGhlLVVTLUNvdXJ0LW9mLUFwcGVhbHMtZm9yLXRoZS1GaWZ0aC1DaXJjdWl0LWluLVN1cHBvcnQtb2YtRkRB0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 01 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimgFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0FjY2Vzcy10by1NZWRpY2luZXMvUGhSTUEtRmlsZXMtQW1pY3VzLUJyaWVmLXdpdGgtdGhlLVVTLUNvdXJ0LW9mLUFwcGVhbHMtZm9yLXRoZS1GaWZ0aC1DaXJjdWl0LWluLVN1cHBvcnQtb2YtRkRB0gEA?oc=5\" target=\"_blank\">PhRMA Files Amicus Brief with the U.S. Court of Appeals for the Fifth Circuit in Support of FDA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Companies spend less on lobbying after leaving PhRMA - STAT - STAT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA3LzI0L2xvYmJ5aW5nLXBocm1hLWFiYnZpZS10ZXZhLWFzdHJhemVuZWNhL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA3LzI0L2xvYmJ5aW5nLXBocm1hLWFiYnZpZS10ZXZhLWFzdHJhemVuZWNhL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzA3LzI0L2xvYmJ5aW5nLXBocm1hLWFiYnZpZS10ZXZhLWFzdHJhemVuZWNhL9IBAA?oc=5\" target=\"_blank\">Companies spend less on lobbying after leaving PhRMA - STAT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STAT</font>"
+            ],
+            "source": [
+              {
+                "_": "STAT",
+                "$": {
+                  "url": "https://www.statnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Many insured Americans feel insurance falls short of providing affordable access - Ipsos in Canada"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lmlwc29zLmNvbS9lbi11cy9waHJtYS1pcHNvcy1wYXRpZW50LWV4cGVyaWVuY2Utc3VydmV50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8vd3d3Lmlwc29zLmNvbS9lbi11cy9waHJtYS1pcHNvcy1wYXRpZW50LWV4cGVyaWVuY2Utc3VydmV50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lmlwc29zLmNvbS9lbi11cy9waHJtYS1pcHNvcy1wYXRpZW50LWV4cGVyaWVuY2Utc3VydmV50gEA?oc=5\" target=\"_blank\">Many insured Americans feel insurance falls short of providing affordable access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ipsos in Canada</font>"
+            ],
+            "source": [
+              {
+                "_": "Ipsos in Canada",
+                "$": {
+                  "url": "https://www.ipsos.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AstraZeneca to leave leading U.S. drug lobby group - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL2FzdHJhemVuZWNhLWxlYXZlLWxlYWRpbmctdXMtZHJ1Zy1sb2JieS1ncm91cC0yMDIzLTA1LTE2L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL2FzdHJhemVuZWNhLWxlYXZlLWxlYWRpbmctdXMtZHJ1Zy1sb2JieS1ncm91cC0yMDIzLTA1LTE2L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL2FzdHJhemVuZWNhLWxlYXZlLWxlYWRpbmctdXMtZHJ1Zy1sb2JieS1ncm91cC0yMDIzLTA1LTE2L9IBAA?oc=5\" target=\"_blank\">AstraZeneca to leave leading U.S. drug lobby group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA brings Steve Tilton back into the fold as SVP of federal advocacy - MM+M Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9wZW9wbGUtbW92ZXMvcGhybWEtYnJpbmdzLXN0ZXZlLXRpbHRvbi1iYWNrLWludG8tdGhlLWZvbGQtYXMtc3ZwLW9mLWZlZGVyYWwtYWR2b2NhY3kv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9wZW9wbGUtbW92ZXMvcGhybWEtYnJpbmdzLXN0ZXZlLXRpbHRvbi1iYWNrLWludG8tdGhlLWZvbGQtYXMtc3ZwLW9mLWZlZGVyYWwtYWR2b2NhY3kv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9wZW9wbGUtbW92ZXMvcGhybWEtYnJpbmdzLXN0ZXZlLXRpbHRvbi1iYWNrLWludG8tdGhlLWZvbGQtYXMtc3ZwLW9mLWZlZGVyYWwtYWR2b2NhY3kv0gEA?oc=5\" target=\"_blank\">PhRMA brings Steve Tilton back into the fold as SVP of federal advocacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MM+M Online</font>"
+            ],
+            "source": [
+              {
+                "_": "MM+M Online",
+                "$": {
+                  "url": "https://www.mmm-online.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Drugmaker industry group sues to stop Medicare drug price negotiation - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wNi8yMS9wb2xpdGljcy9tZWRpY2FyZS1kcnVnLXByaWNlLW5lZ290aWF0aW9uLWxhd3N1aXQtcGhybWEvaW5kZXguaHRtbNIBZGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMDYvMjEvcG9saXRpY3MvbWVkaWNhcmUtZHJ1Zy1wcmljZS1uZWdvdGlhdGlvbi1sYXdzdWl0LXBocm1hL2luZGV4Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wNi8yMS9wb2xpdGljcy9tZWRpY2FyZS1kcnVnLXByaWNlLW5lZ290aWF0aW9uLWxhd3N1aXQtcGhybWEvaW5kZXguaHRtbNIBZGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMDYvMjEvcG9saXRpY3MvbWVkaWNhcmUtZHJ1Zy1wcmljZS1uZWdvdGlhdGlvbi1sYXdzdWl0LXBocm1hL2luZGV4Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 21 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wNi8yMS9wb2xpdGljcy9tZWRpY2FyZS1kcnVnLXByaWNlLW5lZ290aWF0aW9uLWxhd3N1aXQtcGhybWEvaW5kZXguaHRtbNIBZGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMDYvMjEvcG9saXRpY3MvbWVkaWNhcmUtZHJ1Zy1wcmljZS1uZWdvdGlhdGlvbi1sYXdzdWl0LXBocm1hL2luZGV4Lmh0bWw?oc=5\" target=\"_blank\">Drugmaker industry group sues to stop Medicare drug price negotiation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "After Pfizer's exit, UCB splits from industry trade group BIO - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3VjYi1zcGxpdHMtaW5kdXN0cnktdHJhZGUtZ3JvdXAtYmlvLWZvbGxvd2luZy1wZml6ZXJzLWV4aXTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3VjYi1zcGxpdHMtaW5kdXN0cnktdHJhZGUtZ3JvdXAtYmlvLWZvbGxvd2luZy1wZml6ZXJzLWV4aXTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 05 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3VjYi1zcGxpdHMtaW5kdXN0cnktdHJhZGUtZ3JvdXAtYmlvLWZvbGxvd2luZy1wZml6ZXJzLWV4aXTSAQA?oc=5\" target=\"_blank\">After Pfizer's exit, UCB splits from industry trade group BIO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA and other groups sue HHS over drug pricing provisions of the IRA - Healthcare Finance News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmhlYWx0aGNhcmVmaW5hbmNlbmV3cy5jb20vbmV3cy9waHJtYS1hbmQtb3RoZXItZ3JvdXBzLXN1ZS1oaHMtb3Zlci1kcnVnLXByaWNpbmctcHJvdmlzaW9ucy1pcmHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmhlYWx0aGNhcmVmaW5hbmNlbmV3cy5jb20vbmV3cy9waHJtYS1hbmQtb3RoZXItZ3JvdXBzLXN1ZS1oaHMtb3Zlci1kcnVnLXByaWNpbmctcHJvdmlzaW9ucy1pcmHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmhlYWx0aGNhcmVmaW5hbmNlbmV3cy5jb20vbmV3cy9waHJtYS1hbmQtb3RoZXItZ3JvdXBzLXN1ZS1oaHMtb3Zlci1kcnVnLXByaWNpbmctcHJvdmlzaW9ucy1pcmHSAQA?oc=5\" target=\"_blank\">PhRMA and other groups sue HHS over drug pricing provisions of the IRA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthcare Finance News</font>"
+            ],
+            "source": [
+              {
+                "_": "Healthcare Finance News",
+                "$": {
+                  "url": "https://www.healthcarefinancenews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA warns over damage of IRA - The Pharma Letter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS9waHJtYS13YXJucy1vdmVyLWRhbWFnZS1vZi1pcmHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS9waHJtYS13YXJucy1vdmVyLWRhbWFnZS1vZi1pcmHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 10 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS9waHJtYS13YXJucy1vdmVyLWRhbWFnZS1vZi1pcmHSAQA?oc=5\" target=\"_blank\">PhRMA warns over damage of IRA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pharma Letter</font>"
+            ],
+            "source": [
+              {
+                "_": "The Pharma Letter",
+                "$": {
+                  "url": "https://www.thepharmaletter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Inflation Reduction Act's Medicare negotiation process kicks off - MM+M Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9yZWd1bGF0b3J5L2luZmxhdGlvbi1yZWR1Y3Rpb24tYWN0LW1lZGljYXJlLW5lZ290aWF0aW9uLWtpY2tzLW9mZi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9yZWd1bGF0b3J5L2luZmxhdGlvbi1yZWR1Y3Rpb24tYWN0LW1lZGljYXJlLW5lZ290aWF0aW9uLWtpY2tzLW9mZi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 17:45:43 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9yZWd1bGF0b3J5L2luZmxhdGlvbi1yZWR1Y3Rpb24tYWN0LW1lZGljYXJlLW5lZ290aWF0aW9uLWtpY2tzLW9mZi_SAQA?oc=5\" target=\"_blank\">The Inflation Reduction Act's Medicare negotiation process kicks off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MM+M Online</font>"
+            ],
+            "source": [
+              {
+                "_": "MM+M Online",
+                "$": {
+                  "url": "https://www.mmm-online.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA cries foul on CMS' registry approach for Alzheimer's drugs - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Ntcy1hbHpoZWltZXItZGlzZWFzZS1kcnVncy1jb3ZlcmFnZS1wbGFucy1zcGFyay1taXhlZC1pbmR1c3RyeS1yZWFjdGlvbnMtcmVnaXN0cnnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Ntcy1hbHpoZWltZXItZGlzZWFzZS1kcnVncy1jb3ZlcmFnZS1wbGFucy1zcGFyay1taXhlZC1pbmR1c3RyeS1yZWFjdGlvbnMtcmVnaXN0cnnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Ntcy1hbHpoZWltZXItZGlzZWFzZS1kcnVncy1jb3ZlcmFnZS1wbGFucy1zcGFyay1taXhlZC1pbmR1c3RyeS1yZWFjdGlvbnMtcmVnaXN0cnnSAQA?oc=5\" target=\"_blank\">PhRMA cries foul on CMS' registry approach for Alzheimer's drugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Robert Zirkelbach Returns to Leadership Role at PhRMA - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9Sb2JlcnQtWmlya2VsYmFjaC1SZXR1cm5zLXRvLUxlYWRlcnNoaXAtUm9sZS1hdC1QaFJNQdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9Sb2JlcnQtWmlya2VsYmFjaC1SZXR1cm5zLXRvLUxlYWRlcnNoaXAtUm9sZS1hdC1QaFJNQdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9Sb2JlcnQtWmlya2VsYmFjaC1SZXR1cm5zLXRvLUxlYWRlcnNoaXAtUm9sZS1hdC1QaFJNQdIBAA?oc=5\" target=\"_blank\">Robert Zirkelbach Returns to Leadership Role at PhRMA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Statement on the President's Budget for Fiscal Year 2024 - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvSW5ub3ZhdGlvbi9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLVByZXNpZGVudHMtQnVkZ2V0LWZvci1GaXNjYWwtWWVhci0yMDI00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvSW5ub3ZhdGlvbi9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLVByZXNpZGVudHMtQnVkZ2V0LWZvci1GaXNjYWwtWWVhci0yMDI00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvSW5ub3ZhdGlvbi9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLVByZXNpZGVudHMtQnVkZ2V0LWZvci1GaXNjYWwtWWVhci0yMDI00gEA?oc=5\" target=\"_blank\">PhRMA Statement on the President's Budget for Fiscal Year 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tax Filing Shows PhRMA Gave $1.2M to Right-Wing Groups Now Demanding Congress Repeal Biden Medicare ... - Accountable.US"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioQFodHRwczovL2FjY291bnRhYmxlLnVzL3RheC1maWxpbmctc2hvd3MtcGhybWEtZ2F2ZS0xLTJtLXRvLXJpZ2h0LXdpbmctZ3JvdXBzLW5vdy1kZW1hbmRpbmctY29uZ3Jlc3MtcmVwZWFsLWJpZGVuLW1lZGljYXJlLW1hbmRhdGUtbG93ZXJpbmctc2VuaW9ycy1yeC1kcnVnLWNvc3RzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioQFodHRwczovL2FjY291bnRhYmxlLnVzL3RheC1maWxpbmctc2hvd3MtcGhybWEtZ2F2ZS0xLTJtLXRvLXJpZ2h0LXdpbmctZ3JvdXBzLW5vdy1kZW1hbmRpbmctY29uZ3Jlc3MtcmVwZWFsLWJpZGVuLW1lZGljYXJlLW1hbmRhdGUtbG93ZXJpbmctc2VuaW9ycy1yeC1kcnVnLWNvc3RzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioQFodHRwczovL2FjY291bnRhYmxlLnVzL3RheC1maWxpbmctc2hvd3MtcGhybWEtZ2F2ZS0xLTJtLXRvLXJpZ2h0LXdpbmctZ3JvdXBzLW5vdy1kZW1hbmRpbmctY29uZ3Jlc3MtcmVwZWFsLWJpZGVuLW1lZGljYXJlLW1hbmRhdGUtbG93ZXJpbmctc2VuaW9ycy1yeC1kcnVnLWNvc3RzL9IBAA?oc=5\" target=\"_blank\">Tax Filing Shows PhRMA Gave $1.2M to Right-Wing Groups Now Demanding Congress Repeal Biden Medicare ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Accountable.US</font>"
+            ],
+            "source": [
+              {
+                "_": "Accountable.US",
+                "$": {
+                  "url": "https://accountable.us"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Biden admin urges Supreme Court to nix mifepristone restrictions - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3NvbGljaXRvci1nZW5lcmFsLXByZWxvZ2FyLWpvaW5zLWNob3J1cy1wcm90ZXN0b3JzLXByZXNzaW5nLXN1cHJlbWUtY291cnQtbml4LW1pZmVwcmlzdG9uZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3NvbGljaXRvci1nZW5lcmFsLXByZWxvZ2FyLWpvaW5zLWNob3J1cy1wcm90ZXN0b3JzLXByZXNzaW5nLXN1cHJlbWUtY291cnQtbml4LW1pZmVwcmlzdG9uZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL3NvbGljaXRvci1nZW5lcmFsLXByZWxvZ2FyLWpvaW5zLWNob3J1cy1wcm90ZXN0b3JzLXByZXNzaW5nLXN1cHJlbWUtY291cnQtbml4LW1pZmVwcmlzdG9uZdIBAA?oc=5\" target=\"_blank\">Biden admin urges Supreme Court to nix mifepristone restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA sues over Medicare drug pricing provisions - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzA2LzIxL3Bocm1hLXN1ZXMtbWVkaWNhcmUtZHJ1Zy1wcmljZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzA2LzIxL3Bocm1hLXN1ZXMtbWVkaWNhcmUtZHJ1Zy1wcmljZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 21 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzA2LzIxL3Bocm1hLXN1ZXMtbWVkaWNhcmUtZHJ1Zy1wcmljZXPSAQA?oc=5\" target=\"_blank\">PhRMA sues over Medicare drug pricing provisions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Judge in PhRMA Drug Price Suit to Rule on HHS Motion to Dismiss - Bloomberg Law"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL2p1ZGdlLWluLXBocm1hLWRydWctcHJpY2Utc3VpdC10by1ydWxlLW9uLWhocy1tb3Rpb24tdG8tZGlzbWlzc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL2p1ZGdlLWluLXBocm1hLWRydWctcHJpY2Utc3VpdC10by1ydWxlLW9uLWhocy1tb3Rpb24tdG8tZGlzbWlzc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL2p1ZGdlLWluLXBocm1hLWRydWctcHJpY2Utc3VpdC10by1ydWxlLW9uLWhocy1tb3Rpb24tdG8tZGlzbWlzc9IBAA?oc=5\" target=\"_blank\">Judge in PhRMA Drug Price Suit to Rule on HHS Motion to Dismiss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg Law",
+                "$": {
+                  "url": "https://news.bloomberglaw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pharma Group Sues Medicare to Stop Drug Price Negotiations (1) - Bloomberg Law"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS10cmFkZS1ncm91cC1zdWVzLW1lZGljYXJlLXRvLXN0b3AtZHJ1Zy1wcmljZS1uZWdvdGlhdGlvbnPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS10cmFkZS1ncm91cC1zdWVzLW1lZGljYXJlLXRvLXN0b3AtZHJ1Zy1wcmljZS1uZWdvdGlhdGlvbnPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 21 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS10cmFkZS1ncm91cC1zdWVzLW1lZGljYXJlLXRvLXN0b3AtZHJ1Zy1wcmljZS1uZWdvdGlhdGlvbnPSAQA?oc=5\" target=\"_blank\">Pharma Group Sues Medicare to Stop Drug Price Negotiations (1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg Law",
+                "$": {
+                  "url": "https://news.bloomberglaw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bottom Line: PhRMA adds lobbying firepower for PBM reform fight - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdGhlaGlsbC5jb20vYnVzaW5lc3MvNDM4NTAwMi1ib3R0b20tbGluZS1waHJtYS1hZGRzLWxvYmJ5aW5nLWZpcmVwb3dlci1mb3ItcGJtLXJlZm9ybS1maWdodC_SAWhodHRwczovL3RoZWhpbGwuY29tL2J1c2luZXNzLzQzODUwMDItYm90dG9tLWxpbmUtcGhybWEtYWRkcy1sb2JieWluZy1maXJlcG93ZXItZm9yLXBibS1yZWZvcm0tZmlnaHQvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vdGhlaGlsbC5jb20vYnVzaW5lc3MvNDM4NTAwMi1ib3R0b20tbGluZS1waHJtYS1hZGRzLWxvYmJ5aW5nLWZpcmVwb3dlci1mb3ItcGJtLXJlZm9ybS1maWdodC_SAWhodHRwczovL3RoZWhpbGwuY29tL2J1c2luZXNzLzQzODUwMDItYm90dG9tLWxpbmUtcGhybWEtYWRkcy1sb2JieWluZy1maXJlcG93ZXItZm9yLXBibS1yZWZvcm0tZmlnaHQvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdGhlaGlsbC5jb20vYnVzaW5lc3MvNDM4NTAwMi1ib3R0b20tbGluZS1waHJtYS1hZGRzLWxvYmJ5aW5nLWZpcmVwb3dlci1mb3ItcGJtLXJlZm9ybS1maWdodC_SAWhodHRwczovL3RoZWhpbGwuY29tL2J1c2luZXNzLzQzODUwMDItYm90dG9tLWxpbmUtcGhybWEtYWRkcy1sb2JieWluZy1maXJlcG93ZXItZm9yLXBibS1yZWZvcm0tZmlnaHQvYW1wLw?oc=5\" target=\"_blank\">Bottom Line: PhRMA adds lobbying firepower for PBM reform fight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The inescapable ad campaign for a wonky drug policy debate - Roll Call "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjMvMTEvMTcvdGhlLWluZXNjYXBhYmxlLWFkLWNhbXBhaWduLWZvci1hLXdvbmt5LWRydWctcG9saWN5LWRlYmF0ZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjMvMTEvMTcvdGhlLWluZXNjYXBhYmxlLWFkLWNhbXBhaWduLWZvci1hLXdvbmt5LWRydWctcG9saWN5LWRlYmF0ZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjMvMTEvMTcvdGhlLWluZXNjYXBhYmxlLWFkLWNhbXBhaWduLWZvci1hLXdvbmt5LWRydWctcG9saWN5LWRlYmF0ZS_SAQA?oc=5\" target=\"_blank\">The inescapable ad campaign for a wonky drug policy debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roll Call </font>"
+            ],
+            "source": [
+              {
+                "_": "Roll Call ",
+                "$": {
+                  "url": "https://rollcall.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Three drugmakers cut lobbying spend after leaving PhRMA - STAT - STAT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5zdGF0bmV3cy5jb20vcGhhcm1hbG90LzIwMjMvMDcvMjQvcGhybWEtbG9iYnlpbmctZW1hLWNyby1uaHMtY2hpbmEtZ2lsZWFkLWhpdi1wYXRlbnRzLXJvY2hlLWFseW55bGFtLXBvbGx1dGlvbi1jbGltYXRlLXBmaXplci10b3JuYWRvLWluc3VsaW4v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimgFodHRwczovL3d3dy5zdGF0bmV3cy5jb20vcGhhcm1hbG90LzIwMjMvMDcvMjQvcGhybWEtbG9iYnlpbmctZW1hLWNyby1uaHMtY2hpbmEtZ2lsZWFkLWhpdi1wYXRlbnRzLXJvY2hlLWFseW55bGFtLXBvbGx1dGlvbi1jbGltYXRlLXBmaXplci10b3JuYWRvLWluc3VsaW4v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5zdGF0bmV3cy5jb20vcGhhcm1hbG90LzIwMjMvMDcvMjQvcGhybWEtbG9iYnlpbmctZW1hLWNyby1uaHMtY2hpbmEtZ2lsZWFkLWhpdi1wYXRlbnRzLXJvY2hlLWFseW55bGFtLXBvbGx1dGlvbi1jbGltYXRlLXBmaXplci10b3JuYWRvLWluc3VsaW4v0gEA?oc=5\" target=\"_blank\">Three drugmakers cut lobbying spend after leaving PhRMA - STAT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STAT</font>"
+            ],
+            "source": [
+              {
+                "_": "STAT",
+                "$": {
+                  "url": "https://www.statnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA lobbies for manufacturing tax breaks from US government - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Jpb3BoYXJtYS1pbmR1c3RyeS1ob3BpbmctbW9yZS10YXgtYnJlYWtzLXRocm91Z2gtMjgwYi1jaGlwcy1hY3QtZnTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Jpb3BoYXJtYS1pbmR1c3RyeS1ob3BpbmctbW9yZS10YXgtYnJlYWtzLXRocm91Z2gtMjgwYi1jaGlwcy1hY3QtZnTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Jpb3BoYXJtYS1pbmR1c3RyeS1ob3BpbmctbW9yZS10YXgtYnJlYWtzLXRocm91Z2gtMjgwYi1jaGlwcy1hY3QtZnTSAQA?oc=5\" target=\"_blank\">PhRMA lobbies for manufacturing tax breaks from US government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pharma industry attacks prior authorization for Medicaid drugs - The Pharma Letter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS9waGFybWEtaW5kdXN0cnktYXR0YWNrcy1wcmlvci1hdXRob3JpemF0aW9uLWZvci1tZWRpY2FpZC1kcnVnc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS9waGFybWEtaW5kdXN0cnktYXR0YWNrcy1wcmlvci1hdXRob3JpemF0aW9uLWZvci1tZWRpY2FpZC1kcnVnc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS9waGFybWEtaW5kdXN0cnktYXR0YWNrcy1wcmlvci1hdXRob3JpemF0aW9uLWZvci1tZWRpY2FpZC1kcnVnc9IBAA?oc=5\" target=\"_blank\">Pharma industry attacks prior authorization for Medicaid drugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pharma Letter</font>"
+            ],
+            "source": [
+              {
+                "_": "The Pharma Letter",
+                "$": {
+                  "url": "https://www.thepharmaletter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PBMs battle PhRMA in House Oversight Committee hearing - Modern Healthcare"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1vZGVybmhlYWx0aGNhcmUuY29tL2dvdmVybm1lbnQvcGJtcy1waGFybWFjeS1iZW5lZml0LW1hbmFnZXJzLXBocm1hLWNvbmdyZXNzLWpjLXNjb3R0LWxvcmktcmVpbGx50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3Lm1vZGVybmhlYWx0aGNhcmUuY29tL2dvdmVybm1lbnQvcGJtcy1waGFybWFjeS1iZW5lZml0LW1hbmFnZXJzLXBocm1hLWNvbmdyZXNzLWpjLXNjb3R0LWxvcmktcmVpbGx50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1vZGVybmhlYWx0aGNhcmUuY29tL2dvdmVybm1lbnQvcGJtcy1waGFybWFjeS1iZW5lZml0LW1hbmFnZXJzLXBocm1hLWNvbmdyZXNzLWpjLXNjb3R0LWxvcmktcmVpbGx50gEA?oc=5\" target=\"_blank\">PBMs battle PhRMA in House Oversight Committee hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Healthcare</font>"
+            ],
+            "source": [
+              {
+                "_": "Modern Healthcare",
+                "$": {
+                  "url": "https://www.modernhealthcare.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Taking the Pulse, A Health Care and Life Sciences Video Podcast | Episode 168: Christine Harhaj, Senior Director of ... - JD Supra"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy90YWtpbmctdGhlLXB1bHNlLWEtaGVhbHRoLWNhcmUtYW5kLWxpZmUtNDYyOTAv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy90YWtpbmctdGhlLXB1bHNlLWEtaGVhbHRoLWNhcmUtYW5kLWxpZmUtNDYyOTAv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy90YWtpbmctdGhlLXB1bHNlLWEtaGVhbHRoLWNhcmUtYW5kLWxpZmUtNDYyOTAv0gEA?oc=5\" target=\"_blank\">Taking the Pulse, A Health Care and Life Sciences Video Podcast | Episode 168: Christine Harhaj, Senior Director of ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>"
+            ],
+            "source": [
+              {
+                "_": "JD Supra",
+                "$": {
+                  "url": "https://www.jdsupra.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "REPORT: PhRMA Gave Half a Million to Election Denying Fringe Right Groups - Accountable.US"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYWNjb3VudGFibGUudXMvcmVwb3J0LXBocm1hLWdhdmUtaGFsZi1hLW1pbGxpb24tdG8tZWxlY3Rpb24tZGVueWluZy1mcmluZ2UtcmlnaHQtZ3JvdXBzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vYWNjb3VudGFibGUudXMvcmVwb3J0LXBocm1hLWdhdmUtaGFsZi1hLW1pbGxpb24tdG8tZWxlY3Rpb24tZGVueWluZy1mcmluZ2UtcmlnaHQtZ3JvdXBzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 17:14:05 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYWNjb3VudGFibGUudXMvcmVwb3J0LXBocm1hLWdhdmUtaGFsZi1hLW1pbGxpb24tdG8tZWxlY3Rpb24tZGVueWluZy1mcmluZ2UtcmlnaHQtZ3JvdXBzL9IBAA?oc=5\" target=\"_blank\">REPORT: PhRMA Gave Half a Million to Election Denying Fringe Right Groups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Accountable.US</font>"
+            ],
+            "source": [
+              {
+                "_": "Accountable.US",
+                "$": {
+                  "url": "https://accountable.us"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Vas Narasimhan of Novartis Becomes Chair of PhRMA Board - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9WYXMtTmFyYXNpbWhhbi1vZi1Ob3ZhcnRpcy1CZWNvbWVzLUNoYWlyLW9mLVBoUk1BLUJvYXJk0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9WYXMtTmFyYXNpbWhhbi1vZi1Ob3ZhcnRpcy1CZWNvbWVzLUNoYWlyLW9mLVBoUk1BLUJvYXJk0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9WYXMtTmFyYXNpbWhhbi1vZi1Ob3ZhcnRpcy1CZWNvbWVzLUNoYWlyLW9mLVBoUk1BLUJvYXJk0gEA?oc=5\" target=\"_blank\">Vas Narasimhan of Novartis Becomes Chair of PhRMA Board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA lawsuit challenges Biden's drug law in friendly territory - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzA2LzIyL3Bocm1hLWxhd3N1aXQtbWVkaWNhcmUtbmVnb3RpYXRpb25zLWJpZGVu0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzA2LzIyL3Bocm1hLWxhd3N1aXQtbWVkaWNhcmUtbmVnb3RpYXRpb25zLWJpZGVu0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzA2LzIyL3Bocm1hLWxhd3N1aXQtbWVkaWNhcmUtbmVnb3RpYXRpb25zLWJpZGVu0gEA?oc=5\" target=\"_blank\">PhRMA lawsuit challenges Biden's drug law in friendly territory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA and congressional Democrats file briefs to reverse court ruling on mifepristone - Healthcare Finance News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmhlYWx0aGNhcmVmaW5hbmNlbmV3cy5jb20vbmV3cy9waHJtYS1hbmQtY29uZ3Jlc3Npb25hbC1kZW1vY3JhdHMtZmlsZS1icmllZnMtcmV2ZXJzZS1jb3VydC1ydWxpbmctbWlmZXByaXN0b25l0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LmhlYWx0aGNhcmVmaW5hbmNlbmV3cy5jb20vbmV3cy9waHJtYS1hbmQtY29uZ3Jlc3Npb25hbC1kZW1vY3JhdHMtZmlsZS1icmllZnMtcmV2ZXJzZS1jb3VydC1ydWxpbmctbWlmZXByaXN0b25l0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmhlYWx0aGNhcmVmaW5hbmNlbmV3cy5jb20vbmV3cy9waHJtYS1hbmQtY29uZ3Jlc3Npb25hbC1kZW1vY3JhdHMtZmlsZS1icmllZnMtcmV2ZXJzZS1jb3VydC1ydWxpbmctbWlmZXByaXN0b25l0gEA?oc=5\" target=\"_blank\">PhRMA and congressional Democrats file briefs to reverse court ruling on mifepristone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthcare Finance News</font>"
+            ],
+            "source": [
+              {
+                "_": "Healthcare Finance News",
+                "$": {
+                  "url": "https://www.healthcarefinancenews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Elizabeth Carpenter jumps from Avalere to PhRMA - MM+M Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9wZW9wbGUtbW92ZXMvZWxpemFiZXRoLWNhcnBlbnRlci1qdW1wcy1mcm9tLWF2YWxlcmUtdG8tcGhybWEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9wZW9wbGUtbW92ZXMvZWxpemFiZXRoLWNhcnBlbnRlci1qdW1wcy1mcm9tLWF2YWxlcmUtdG8tcGhybWEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1tbS1vbmxpbmUuY29tL2hvbWUvY2hhbm5lbC9wZW9wbGUtbW92ZXMvZWxpemFiZXRoLWNhcnBlbnRlci1qdW1wcy1mcm9tLWF2YWxlcmUtdG8tcGhybWEv0gEA?oc=5\" target=\"_blank\">Elizabeth Carpenter jumps from Avalere to PhRMA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MM+M Online</font>"
+            ],
+            "source": [
+              {
+                "_": "MM+M Online",
+                "$": {
+                  "url": "https://www.mmm-online.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Content from PhRMA - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93YXNoaW5ndG9uLXBvc3QtbGl2ZS8yMDIzLzExLzE0L2NvbnRlbnQtcGhybWEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93YXNoaW5ndG9uLXBvc3QtbGl2ZS8yMDIzLzExLzE0L2NvbnRlbnQtcGhybWEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93YXNoaW5ndG9uLXBvc3QtbGl2ZS8yMDIzLzExLzE0L2NvbnRlbnQtcGhybWEv0gEA?oc=5\" target=\"_blank\">Content from PhRMA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pharma Attack on Drug Distribution Law Tests States' Clout - Bloomberg Law"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS1hdHRhY2stb24tZHJ1Zy1kaXN0cmlidXRpb24tbGF3LXRlc3RzLXN0YXRlcy1jbG91dNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS1hdHRhY2stb24tZHJ1Zy1kaXN0cmlidXRpb24tbGF3LXRlc3RzLXN0YXRlcy1jbG91dNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS1hdHRhY2stb24tZHJ1Zy1kaXN0cmlidXRpb24tbGF3LXRlc3RzLXN0YXRlcy1jbG91dNIBAA?oc=5\" target=\"_blank\">Pharma Attack on Drug Distribution Law Tests States' Clout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg Law",
+                "$": {
+                  "url": "https://news.bloomberglaw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Big Pharma's biggest ally gets trolled on X for attacking Medicare drug pricing list - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3MvYmlnLXBoYXJtYXMtYmlnZ2VzdC1hbGx5LWdldHMtdHJvbGxlZC1vbi14LWZvci1hdHRhY2tpbmctbWVkaWNhcmUtZHJ1Zy1wcmljaW5nLWxpc3QtMTUyMjEyNDIwLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3MvYmlnLXBoYXJtYXMtYmlnZ2VzdC1hbGx5LWdldHMtdHJvbGxlZC1vbi14LWZvci1hdHRhY2tpbmctbWVkaWNhcmUtZHJ1Zy1wcmljaW5nLWxpc3QtMTUyMjEyNDIwLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 31 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3MvYmlnLXBoYXJtYXMtYmlnZ2VzdC1hbGx5LWdldHMtdHJvbGxlZC1vbi14LWZvci1hdHRhY2tpbmctbWVkaWNhcmUtZHJ1Zy1wcmljaW5nLWxpc3QtMTUyMjEyNDIwLmh0bWzSAQA?oc=5\" target=\"_blank\">Big Pharma's biggest ally gets trolled on X for attacking Medicare drug pricing list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Patient Advocates Rap 'Greedy' PhRMA IRA Lawsuits - HealthLeaders Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmhlYWx0aGxlYWRlcnNtZWRpYS5jb20vcGhhcm1hL3BhdGllbnQtYWR2b2NhdGVzLXJhcC1ncmVlZHktcGhybWEtaXJhLWxhd3N1aXRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmhlYWx0aGxlYWRlcnNtZWRpYS5jb20vcGhhcm1hL3BhdGllbnQtYWR2b2NhdGVzLXJhcC1ncmVlZHktcGhybWEtaXJhLWxhd3N1aXRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmhlYWx0aGxlYWRlcnNtZWRpYS5jb20vcGhhcm1hL3BhdGllbnQtYWR2b2NhdGVzLXJhcC1ncmVlZHktcGhybWEtaXJhLWxhd3N1aXRz0gEA?oc=5\" target=\"_blank\">Patient Advocates Rap 'Greedy' PhRMA IRA Lawsuits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HealthLeaders Media</font>"
+            ],
+            "source": [
+              {
+                "_": "HealthLeaders Media",
+                "$": {
+                  "url": "https://www.healthleadersmedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Global trade group taps Pfizer, Roche and Daiichi execs for CEO leadership team - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2lmcG1hLXRhcHMtcGZpemVycy1ib3VybGEtcm9jaGVzLXNjaGluZWNrZXItYW5kLWRhaWljaGlzLW1hbmFiZS1jYXB0YWluLXRyYWRlLWdyb3VwLW92ZXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2lmcG1hLXRhcHMtcGZpemVycy1ib3VybGEtcm9jaGVzLXNjaGluZWNrZXItYW5kLWRhaWljaGlzLW1hbmFiZS1jYXB0YWluLXRyYWRlLWdyb3VwLW92ZXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2lmcG1hLXRhcHMtcGZpemVycy1ib3VybGEtcm9jaGVzLXNjaGluZWNrZXItYW5kLWRhaWljaGlzLW1hbmFiZS1jYXB0YWluLXRyYWRlLWdyb3VwLW92ZXLSAQA?oc=5\" target=\"_blank\">Global trade group taps Pfizer, Roche and Daiichi execs for CEO leadership team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "After IRA, Minnesota's drug affordability proposal draws PhRMA's ire - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL21pbm5lc290YS1kcnVnLWFmZm9yZGFiaWxpdHktcHJvcG9zYWwtcGFzc2VkLWxlZ2lzbGF0dXJlLWJhZC1kZWFsLXBocm1hLXNheXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL21pbm5lc290YS1kcnVnLWFmZm9yZGFiaWxpdHktcHJvcG9zYWwtcGFzc2VkLWxlZ2lzbGF0dXJlLWJhZC1kZWFsLXBocm1hLXNheXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL21pbm5lc290YS1kcnVnLWFmZm9yZGFiaWxpdHktcHJvcG9zYWwtcGFzc2VkLWxlZ2lzbGF0dXJlLWJhZC1kZWFsLXBocm1hLXNheXPSAQA?oc=5\" target=\"_blank\">After IRA, Minnesota's drug affordability proposal draws PhRMA's ire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Other Barks & Bites for Friday, October 20: PhRMA Warns of IRA's Impacts on Cancer Moonshot, VirnetX Dealt Fresh ... - IPWatchdog.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMi5gFodHRwczovL2lwd2F0Y2hkb2cuY29tLzIwMjMvMTAvMjAvb3RoZXItYmFya3MtYml0ZXMtZm9yLWZyaWRheS1vY3RvYmVyLTIwLXBocm1hLXdhcm5zLW9mLWlyYXMtaW1wYWN0cy1vbi1jYW5jZXItbW9vbnNob3QtdmlybmV0eC1kZWFsdC1mcmVzaC1ibG93cy1hdC10aGUtZmVkZXJhbC1jaXJjdWl0LWFuZC1jb3B5cmlnaHQtb2ZmaWNlLWJlZ2lucy1zZWN0aW9uLTEyMDEtcnVsZW1ha2kvaWQ9MTY4NTU1L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMi5gFodHRwczovL2lwd2F0Y2hkb2cuY29tLzIwMjMvMTAvMjAvb3RoZXItYmFya3MtYml0ZXMtZm9yLWZyaWRheS1vY3RvYmVyLTIwLXBocm1hLXdhcm5zLW9mLWlyYXMtaW1wYWN0cy1vbi1jYW5jZXItbW9vbnNob3QtdmlybmV0eC1kZWFsdC1mcmVzaC1ibG93cy1hdC10aGUtZmVkZXJhbC1jaXJjdWl0LWFuZC1jb3B5cmlnaHQtb2ZmaWNlLWJlZ2lucy1zZWN0aW9uLTEyMDEtcnVsZW1ha2kvaWQ9MTY4NTU1L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMi5gFodHRwczovL2lwd2F0Y2hkb2cuY29tLzIwMjMvMTAvMjAvb3RoZXItYmFya3MtYml0ZXMtZm9yLWZyaWRheS1vY3RvYmVyLTIwLXBocm1hLXdhcm5zLW9mLWlyYXMtaW1wYWN0cy1vbi1jYW5jZXItbW9vbnNob3QtdmlybmV0eC1kZWFsdC1mcmVzaC1ibG93cy1hdC10aGUtZmVkZXJhbC1jaXJjdWl0LWFuZC1jb3B5cmlnaHQtb2ZmaWNlLWJlZ2lucy1zZWN0aW9uLTEyMDEtcnVsZW1ha2kvaWQ9MTY4NTU1L9IBAA?oc=5\" target=\"_blank\">Other Barks & Bites for Friday, October 20: PhRMA Warns of IRA's Impacts on Cancer Moonshot, VirnetX Dealt Fresh ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPWatchdog.com</font>"
+            ],
+            "source": [
+              {
+                "_": "IPWatchdog.com",
+                "$": {
+                  "url": "https://ipwatchdog.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Press Room - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvUHJlc3MtUm9vbdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiM2h0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvUHJlc3MtUm9vbdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 11 Aug 2021 18:19:11 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvUHJlc3MtUm9vbdIBAA?oc=5\" target=\"_blank\">Press Room</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bottom Line: PhRMA fights patent waiver expansion for COVID treatments - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vdGhlaGlsbC5jb20vbG9iYnlpbmcvNDExNTgxMi1ib3R0b20tbGluZS1waHJtYS1maWdodHMtd3RvLWludGVsbGVjdHVhbC1wcm9wZXJ0eS13YWl2ZXItZXhwYW5zaW9uLWZvci1jb3ZpZC10cmVhdG1lbnRzL9IBggFodHRwczovL3RoZWhpbGwuY29tL2xvYmJ5aW5nLzQxMTU4MTItYm90dG9tLWxpbmUtcGhybWEtZmlnaHRzLXd0by1pbnRlbGxlY3R1YWwtcHJvcGVydHktd2FpdmVyLWV4cGFuc2lvbi1mb3ItY292aWQtdHJlYXRtZW50cy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vdGhlaGlsbC5jb20vbG9iYnlpbmcvNDExNTgxMi1ib3R0b20tbGluZS1waHJtYS1maWdodHMtd3RvLWludGVsbGVjdHVhbC1wcm9wZXJ0eS13YWl2ZXItZXhwYW5zaW9uLWZvci1jb3ZpZC10cmVhdG1lbnRzL9IBggFodHRwczovL3RoZWhpbGwuY29tL2xvYmJ5aW5nLzQxMTU4MTItYm90dG9tLWxpbmUtcGhybWEtZmlnaHRzLXd0by1pbnRlbGxlY3R1YWwtcHJvcGVydHktd2FpdmVyLWV4cGFuc2lvbi1mb3ItY292aWQtdHJlYXRtZW50cy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 25 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vdGhlaGlsbC5jb20vbG9iYnlpbmcvNDExNTgxMi1ib3R0b20tbGluZS1waHJtYS1maWdodHMtd3RvLWludGVsbGVjdHVhbC1wcm9wZXJ0eS13YWl2ZXItZXhwYW5zaW9uLWZvci1jb3ZpZC10cmVhdG1lbnRzL9IBggFodHRwczovL3RoZWhpbGwuY29tL2xvYmJ5aW5nLzQxMTU4MTItYm90dG9tLWxpbmUtcGhybWEtZmlnaHRzLXd0by1pbnRlbGxlY3R1YWwtcHJvcGVydHktd2FpdmVyLWV4cGFuc2lvbi1mb3ItY292aWQtdHJlYXRtZW50cy9hbXAv?oc=5\" target=\"_blank\">Bottom Line: PhRMA fights patent waiver expansion for COVID treatments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Millions of Dollars Flow From Pharma to Patient Advocacy Groups - KFF Health News - Kaiser Health News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8va2ZmaGVhbHRobmV3cy5vcmcvbmV3cy9hcnRpY2xlL2hlYWx0aC0yMDItcGhhcm1hLW1vbmV5LXBhdGllbnQtYWR2b2NhY3ktZ3JvdXBzLXB1YmxpYy1jaXRpemVuL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8va2ZmaGVhbHRobmV3cy5vcmcvbmV3cy9hcnRpY2xlL2hlYWx0aC0yMDItcGhhcm1hLW1vbmV5LXBhdGllbnQtYWR2b2NhY3ktZ3JvdXBzLXB1YmxpYy1jaXRpemVuL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8va2ZmaGVhbHRobmV3cy5vcmcvbmV3cy9hcnRpY2xlL2hlYWx0aC0yMDItcGhhcm1hLW1vbmV5LXBhdGllbnQtYWR2b2NhY3ktZ3JvdXBzLXB1YmxpYy1jaXRpemVuL9IBAA?oc=5\" target=\"_blank\">Millions of Dollars Flow From Pharma to Patient Advocacy Groups - KFF Health News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kaiser Health News</font>"
+            ],
+            "source": [
+              {
+                "_": "Kaiser Health News",
+                "$": {
+                  "url": "https://kffhealthnews.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pharmaceutical industry wants FDA to extend deadline for testing novel nitrosamines - Regulatory Focus"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJhcHMub3JnL05ld3MtYW5kLUFydGljbGVzL05ld3MtQXJ0aWNsZXMvMjAyMy83L1BoYXJtYWNldXRpY2FsLWluZHVzdHJ5LXdhbnRzLUZEQS10by1leHRlbmQtZGVhZGxp0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LnJhcHMub3JnL05ld3MtYW5kLUFydGljbGVzL05ld3MtQXJ0aWNsZXMvMjAyMy83L1BoYXJtYWNldXRpY2FsLWluZHVzdHJ5LXdhbnRzLUZEQS10by1leHRlbmQtZGVhZGxp0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 14 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJhcHMub3JnL05ld3MtYW5kLUFydGljbGVzL05ld3MtQXJ0aWNsZXMvMjAyMy83L1BoYXJtYWNldXRpY2FsLWluZHVzdHJ5LXdhbnRzLUZEQS10by1leHRlbmQtZGVhZGxp0gEA?oc=5\" target=\"_blank\">Pharmaceutical industry wants FDA to extend deadline for testing novel nitrosamines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Regulatory Focus</font>"
+            ],
+            "source": [
+              {
+                "_": "Regulatory Focus",
+                "$": {
+                  "url": "https://www.raps.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Drug Pricing Lawsuits over the US Inflation Reduction Act Ramp Up - The Medicine Maker"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdGhlbWVkaWNpbmVtYWtlci5jb20vYnVzaW5lc3MtcmVndWxhdGlvbi9kcnVnLXByaWNpbmctbGF3c3VpdHMtb3Zlci10aGUtdXMtaW5mbGF0aW9uLXJlZHVjdGlvbi1hY3QtcmFtcC11cNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vdGhlbWVkaWNpbmVtYWtlci5jb20vYnVzaW5lc3MtcmVndWxhdGlvbi9kcnVnLXByaWNpbmctbGF3c3VpdHMtb3Zlci10aGUtdXMtaW5mbGF0aW9uLXJlZHVjdGlvbi1hY3QtcmFtcC11cNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdGhlbWVkaWNpbmVtYWtlci5jb20vYnVzaW5lc3MtcmVndWxhdGlvbi9kcnVnLXByaWNpbmctbGF3c3VpdHMtb3Zlci10aGUtdXMtaW5mbGF0aW9uLXJlZHVjdGlvbi1hY3QtcmFtcC11cNIBAA?oc=5\" target=\"_blank\">Drug Pricing Lawsuits over the US Inflation Reduction Act Ramp Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Medicine Maker</font>"
+            ],
+            "source": [
+              {
+                "_": "The Medicine Maker",
+                "$": {
+                  "url": "https://themedicinemaker.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Statement on the Inflation Reduction Act Becoming Law - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLUluZmxhdGlvbi1SZWR1Y3Rpb24tQWN0LUJlY29taW5nLUxhd9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLUluZmxhdGlvbi1SZWR1Y3Rpb24tQWN0LUJlY29taW5nLUxhd9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvQWNjZXNzLXRvLU1lZGljaW5lcy9QaFJNQS1TdGF0ZW1lbnQtb24tdGhlLUluZmxhdGlvbi1SZWR1Y3Rpb24tQWN0LUJlY29taW5nLUxhd9IBAA?oc=5\" target=\"_blank\">PhRMA Statement on the Inflation Reduction Act Becoming Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US hospitals mark up medicine prices by an average 500% - The Pharma Letter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS91cy1ob3NwaXRhbHMtbWFyay11cC1tZWRpY2luZS1wcmljZXMtYnktYW4tYXZlcmFnZS01MDDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS91cy1ob3NwaXRhbHMtbWFyay11cC1tZWRpY2luZS1wcmljZXMtYnktYW4tYXZlcmFnZS01MDDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZXBoYXJtYWxldHRlci5jb20vYXJ0aWNsZS91cy1ob3NwaXRhbHMtbWFyay11cC1tZWRpY2luZS1wcmljZXMtYnktYW4tYXZlcmFnZS01MDDSAQA?oc=5\" target=\"_blank\">US hospitals mark up medicine prices by an average 500%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pharma Letter</font>"
+            ],
+            "source": [
+              {
+                "_": "The Pharma Letter",
+                "$": {
+                  "url": "https://www.thepharmaletter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Drug Industry Balks at Biden's 'Partisan Patent Heist' Plan - Bloomberg Law"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL2RydWctaW5kdXN0cnktYmFsa3MtYXQtYmlkZW5zLXBhcnRpc2FuLXBhdGVudC1oZWlzdC1wbGFu0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL2RydWctaW5kdXN0cnktYmFsa3MtYXQtYmlkZW5zLXBhcnRpc2FuLXBhdGVudC1oZWlzdC1wbGFu0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL2RydWctaW5kdXN0cnktYmFsa3MtYXQtYmlkZW5zLXBhcnRpc2FuLXBhdGVudC1oZWlzdC1wbGFu0gEA?oc=5\" target=\"_blank\">Drug Industry Balks at Biden's 'Partisan Patent Heist' Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg Law",
+                "$": {
+                  "url": "https://news.bloomberglaw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Submits Comments on 340B Program Stability - Policy & Medicine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnBvbGljeW1lZC5jb20vMjAyMy8wOS9waHJtYS1zdWJtaXRzLWNvbW1lbnRzLW9uLTM0MGItcHJvZ3JhbS1zdGFiaWxpdHkuaHRtbNIBW2h0dHBzOi8vd3d3LnBvbGljeW1lZC5jb20vYW1wLzIwMjMvMDkvcGhybWEtc3VibWl0cy1jb21tZW50cy1vbi0zNDBiLXByb2dyYW0tc3RhYmlsaXR5Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3LnBvbGljeW1lZC5jb20vMjAyMy8wOS9waHJtYS1zdWJtaXRzLWNvbW1lbnRzLW9uLTM0MGItcHJvZ3JhbS1zdGFiaWxpdHkuaHRtbNIBW2h0dHBzOi8vd3d3LnBvbGljeW1lZC5jb20vYW1wLzIwMjMvMDkvcGhybWEtc3VibWl0cy1jb21tZW50cy1vbi0zNDBiLXByb2dyYW0tc3RhYmlsaXR5Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Sep 2023 08:32:12 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnBvbGljeW1lZC5jb20vMjAyMy8wOS9waHJtYS1zdWJtaXRzLWNvbW1lbnRzLW9uLTM0MGItcHJvZ3JhbS1zdGFiaWxpdHkuaHRtbNIBW2h0dHBzOi8vd3d3LnBvbGljeW1lZC5jb20vYW1wLzIwMjMvMDkvcGhybWEtc3VibWl0cy1jb21tZW50cy1vbi0zNDBiLXByb2dyYW0tc3RhYmlsaXR5Lmh0bWw?oc=5\" target=\"_blank\">PhRMA Submits Comments on 340B Program Stability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Policy & Medicine</font>"
+            ],
+            "source": [
+              {
+                "_": "Policy & Medicine",
+                "$": {
+                  "url": "https://www.policymed.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA official discusses legislative priorities, lessons from the pandemic - Regulatory Focus"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy8yL3Bocm1hLW9mZmljaWFsLWRpc2N1c3Nlcy1sZWdpc2xhdGl2ZS1wcmlvcml0aWVzLWxl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy8yL3Bocm1hLW9mZmljaWFsLWRpc2N1c3Nlcy1sZWdpc2xhdGl2ZS1wcmlvcml0aWVzLWxl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy8yL3Bocm1hLW9mZmljaWFsLWRpc2N1c3Nlcy1sZWdpc2xhdGl2ZS1wcmlvcml0aWVzLWxl0gEA?oc=5\" target=\"_blank\">PhRMA official discusses legislative priorities, lessons from the pandemic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Regulatory Focus</font>"
+            ],
+            "source": [
+              {
+                "_": "Regulatory Focus",
+                "$": {
+                  "url": "https://www.raps.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA's Ubl Calls Senate Passage of Partisan Drug Pricing Plan a “Tragic Loss for Patients” - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0Vjb25vbWljLUltcGFjdC9QaFJNQXMtVWJsLUNhbGxzLVNlbmF0ZS1QYXNzYWdlLW9mLVBhcnRpc2FuLURydWctUHJpY2luZy1QbGFuLWEtVHJhZ2ljLUxvc3MtZm9yLVBhdGllbnRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0Vjb25vbWljLUltcGFjdC9QaFJNQXMtVWJsLUNhbGxzLVNlbmF0ZS1QYXNzYWdlLW9mLVBhcnRpc2FuLURydWctUHJpY2luZy1QbGFuLWEtVHJhZ2ljLUxvc3MtZm9yLVBhdGllbnRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 07 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3Bocm1hLm9yZy9yZXNvdXJjZS1jZW50ZXIvVG9waWNzL0Vjb25vbWljLUltcGFjdC9QaFJNQXMtVWJsLUNhbGxzLVNlbmF0ZS1QYXNzYWdlLW9mLVBhcnRpc2FuLURydWctUHJpY2luZy1QbGFuLWEtVHJhZ2ljLUxvc3MtZm9yLVBhdGllbnRz0gEA?oc=5\" target=\"_blank\">PhRMA's Ubl Calls Senate Passage of Partisan Drug Pricing Plan a “Tragic Loss for Patients”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Takeda's Ramona Sequeira Becomes Board Chair of PhRMA - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9UYWtlZGFzLVJhbW9uYS1TZXF1ZWlyYS1CZWNvbWVzLUJvYXJkLUNoYWlyLW9mLVBoUk1B0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9UYWtlZGFzLVJhbW9uYS1TZXF1ZWlyYS1CZWNvbWVzLUJvYXJkLUNoYWlyLW9mLVBoUk1B0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Feb 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvTGVhZGVycy9UYWtlZGFzLVJhbW9uYS1TZXF1ZWlyYS1CZWNvbWVzLUJvYXJkLUNoYWlyLW9mLVBoUk1B0gEA?oc=5\" target=\"_blank\">Takeda's Ramona Sequeira Becomes Board Chair of PhRMA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pharma's Challenge to Drug Price Excise Tax Sits on Shaky Ground - Bloomberg Law"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYXMtY2hhbGxlbmdlLXRvLWRydWctcHJpY2UtZXhjaXNlLXRheC1zaXRzLW9uLXNoYWt5LWdyb3VuZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYXMtY2hhbGxlbmdlLXRvLWRydWctcHJpY2UtZXhjaXNlLXRheC1zaXRzLW9uLXNoYWt5LWdyb3VuZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 11 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYXMtY2hhbGxlbmdlLXRvLWRydWctcHJpY2UtZXhjaXNlLXRheC1zaXRzLW9uLXNoYWt5LWdyb3VuZNIBAA?oc=5\" target=\"_blank\">Pharma's Challenge to Drug Price Excise Tax Sits on Shaky Ground</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg Law",
+                "$": {
+                  "url": "https://news.bloomberglaw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pharma Industry Readies for Drug Pricing Lawsuit Second Wave (1) - Bloomberg Law"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS1pbmR1c3RyeS1yZWFkaWVzLWZvci1kcnVnLXByaWNpbmctbGF3c3VpdC1zZWNvbmQtd2F2ZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS1pbmR1c3RyeS1yZWFkaWVzLWZvci1kcnVnLXByaWNpbmctbGF3c3VpdC1zZWNvbmQtd2F2ZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS1pbmR1c3RyeS1yZWFkaWVzLWZvci1kcnVnLXByaWNpbmctbGF3c3VpdC1zZWNvbmQtd2F2ZdIBAA?oc=5\" target=\"_blank\">Pharma Industry Readies for Drug Pricing Lawsuit Second Wave (1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg Law",
+                "$": {
+                  "url": "https://news.bloomberglaw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "An unlikely 340B alliance: PhRMA and community health centers - STAT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzAzLzA5LzM0MGItcGhybWEtY29tbXVuaXR5LWhlYWx0aC1jZW50ZXJzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzAzLzA5LzM0MGItcGhybWEtY29tbXVuaXR5LWhlYWx0aC1jZW50ZXJzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS8yMDIzLzAzLzA5LzM0MGItcGhybWEtY29tbXVuaXR5LWhlYWx0aC1jZW50ZXJzL9IBAA?oc=5\" target=\"_blank\">An unlikely 340B alliance: PhRMA and community health centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STAT</font>"
+            ],
+            "source": [
+              {
+                "_": "STAT",
+                "$": {
+                  "url": "https://www.statnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pharma, Medical Groups Rebut Motion to Toss Drug Pricing Suit - Bloomberg Law"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS1tZWRpY2FsLWdyb3Vwcy1yZWJ1dC1tb3Rpb24tdG8tdG9zcy1kcnVnLXByaWNpbmctc3VpdNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS1tZWRpY2FsLWdyb3Vwcy1yZWJ1dC1tb3Rpb24tdG8tdG9zcy1kcnVnLXByaWNpbmctc3VpdNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 25 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2hlYWx0aC1sYXctYW5kLWJ1c2luZXNzL3BoYXJtYS1tZWRpY2FsLWdyb3Vwcy1yZWJ1dC1tb3Rpb24tdG8tdG9zcy1kcnVnLXByaWNpbmctc3VpdNIBAA?oc=5\" target=\"_blank\">Pharma, Medical Groups Rebut Motion to Toss Drug Pricing Suit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg Law",
+                "$": {
+                  "url": "https://news.bloomberglaw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PhRMA Statement on the TRIPS Waiver Agreement - The Catalyst (PhRMA)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvVHJhZGUvUGhSTUEtU3RhdGVtZW50LW9uLXRoZS1UUklQUy1XYWl2ZXItQWdyZWVtZW500gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvVHJhZGUvUGhSTUEtU3RhdGVtZW50LW9uLXRoZS1UUklQUy1XYWl2ZXItQWdyZWVtZW500gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vcGhybWEub3JnL3Jlc291cmNlLWNlbnRlci9Ub3BpY3MvVHJhZGUvUGhSTUEtU3RhdGVtZW50LW9uLXRoZS1UUklQUy1XYWl2ZXItQWdyZWVtZW500gEA?oc=5\" target=\"_blank\">PhRMA Statement on the TRIPS Waiver Agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Catalyst (PhRMA)</font>"
+            ],
+            "source": [
+              {
+                "_": "The Catalyst (PhRMA)",
+                "$": {
+                  "url": "https://phrma.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "As Biden administration eyes 'march-in' rights to lower drug prices, pharma gears up for battle - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL21hcmNoLXJpZ2h0cy1jb3JhbC1kcnVnLXByaWNlcy1nYWluLXN0ZWFtLXVzLWdvdmVybm1lbnQtcmVwb3J0c9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL21hcmNoLXJpZ2h0cy1jb3JhbC1kcnVnLXByaWNlcy1nYWluLXN0ZWFtLXVzLWdvdmVybm1lbnQtcmVwb3J0c9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL21hcmNoLXJpZ2h0cy1jb3JhbC1kcnVnLXByaWNlcy1nYWluLXN0ZWFtLXVzLWdvdmVybm1lbnQtcmVwb3J0c9IBAA?oc=5\" target=\"_blank\">As Biden administration eyes 'march-in' rights to lower drug prices, pharma gears up for battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FTC pauses litigation, mulls settlement as industry rallies around Amgen's $28B Horizon deal - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Z0Yy1tdWxscy1iYWNrLW5lZ290aWF0aW9uLXRhYmxlLWluZHVzdHJ5LXJhbGxpZXMtYmVoaW5kLWFtZ2Vucy0yOGItaG9yaXpvbi1kZWFs0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Z0Yy1tdWxscy1iYWNrLW5lZ290aWF0aW9uLXRhYmxlLWluZHVzdHJ5LXJhbGxpZXMtYmVoaW5kLWFtZ2Vucy0yOGItaG9yaXpvbi1kZWFs0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 28 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Z0Yy1tdWxscy1iYWNrLW5lZ290aWF0aW9uLXRhYmxlLWluZHVzdHJ5LXJhbGxpZXMtYmVoaW5kLWFtZ2Vucy0yOGItaG9yaXpvbi1kZWFs0gEA?oc=5\" target=\"_blank\">FTC pauses litigation, mulls settlement as industry rallies around Amgen's $28B Horizon deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lobbying spending focused on PBM reform in 2023 - Modern Healthcare"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm1vZGVybmhlYWx0aGNhcmUuY29tL3BvbGl0aWNzLXBvbGljeS9sb2JieWluZy1zcGVuZGluZy1wYm0tcmVmb3JtLXBocm1hLWFoYdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3Lm1vZGVybmhlYWx0aGNhcmUuY29tL3BvbGl0aWNzLXBvbGljeS9sb2JieWluZy1zcGVuZGluZy1wYm0tcmVmb3JtLXBocm1hLWFoYdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm1vZGVybmhlYWx0aGNhcmUuY29tL3BvbGl0aWNzLXBvbGljeS9sb2JieWluZy1zcGVuZGluZy1wYm0tcmVmb3JtLXBocm1hLWFoYdIBAA?oc=5\" target=\"_blank\">Lobbying spending focused on PBM reform in 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Healthcare</font>"
+            ],
+            "source": [
+              {
+                "_": "Modern Healthcare",
+                "$": {
+                  "url": "https://www.modernhealthcare.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AstraZeneca To Exit Main US Drug Lobby Group - BW Healthcareworld"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYndoZWFsdGhjYXJld29ybGQuYnVzaW5lc3N3b3JsZC5pbi9hcnRpY2xlL0FzdHJhWmVuZWNhLVRvLUV4aXQtTWFpbi1VUy1EcnVnLUxvYmJ5LUdyb3VwLzE3LTA1LTIwMjMtNDc2ODY3L9IBdGh0dHA6Ly9id2hlYWx0aGNhcmV3b3JsZC5idXNpbmVzc3dvcmxkLmluL2FtcC9hcnRpY2xlL0FzdHJhWmVuZWNhLVRvLUV4aXQtTWFpbi1VUy1EcnVnLUxvYmJ5LUdyb3VwLzE3LTA1LTIwMjMtNDc2ODY3?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vYndoZWFsdGhjYXJld29ybGQuYnVzaW5lc3N3b3JsZC5pbi9hcnRpY2xlL0FzdHJhWmVuZWNhLVRvLUV4aXQtTWFpbi1VUy1EcnVnLUxvYmJ5LUdyb3VwLzE3LTA1LTIwMjMtNDc2ODY3L9IBdGh0dHA6Ly9id2hlYWx0aGNhcmV3b3JsZC5idXNpbmVzc3dvcmxkLmluL2FtcC9hcnRpY2xlL0FzdHJhWmVuZWNhLVRvLUV4aXQtTWFpbi1VUy1EcnVnLUxvYmJ5LUdyb3VwLzE3LTA1LTIwMjMtNDc2ODY3",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYndoZWFsdGhjYXJld29ybGQuYnVzaW5lc3N3b3JsZC5pbi9hcnRpY2xlL0FzdHJhWmVuZWNhLVRvLUV4aXQtTWFpbi1VUy1EcnVnLUxvYmJ5LUdyb3VwLzE3LTA1LTIwMjMtNDc2ODY3L9IBdGh0dHA6Ly9id2hlYWx0aGNhcmV3b3JsZC5idXNpbmVzc3dvcmxkLmluL2FtcC9hcnRpY2xlL0FzdHJhWmVuZWNhLVRvLUV4aXQtTWFpbi1VUy1EcnVnLUxvYmJ5LUdyb3VwLzE3LTA1LTIwMjMtNDc2ODY3?oc=5\" target=\"_blank\">AstraZeneca To Exit Main US Drug Lobby Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BW Healthcareworld</font>"
+            ],
+            "source": [
+              {
+                "_": "BW Healthcareworld",
+                "$": {
+                  "url": "https://bwhealthcareworld.businessworld.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Biogen may follow Merck's IRA lawsuit with its own, CEO says - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Jpb2dlbi1jZW8tdmllaGJhY2hlci1hbmQtb3RoZXJzLWp1bXAtYmFuZHdhZ29uLWZvbGxvd2luZy1tZXJja3Mtc3VpdC1hZ2FpbnN0LWlyYdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Jpb2dlbi1jZW8tdmllaGJhY2hlci1hbmQtb3RoZXJzLWp1bXAtYmFuZHdhZ29uLWZvbGxvd2luZy1tZXJja3Mtc3VpdC1hZ2FpbnN0LWlyYdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2Jpb2dlbi1jZW8tdmllaGJhY2hlci1hbmQtb3RoZXJzLWp1bXAtYmFuZHdhZ29uLWZvbGxvd2luZy1tZXJja3Mtc3VpdC1hZ2FpbnN0LWlyYdIBAA?oc=5\" target=\"_blank\">Biogen may follow Merck's IRA lawsuit with its own, CEO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

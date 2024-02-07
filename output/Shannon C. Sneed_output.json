@@ -1,0 +1,248 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Shannon C. Sneed\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Shannon+C.+Sneed&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Baltimore City Council president race: Zeke Cohen tops incumbent Nick Mosby, challenger Shannon Sneed in ... - Baltimore Sun"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5iYWx0aW1vcmVzdW4uY29tLzIwMjQvMDEvMTkvYmFsdGltb3JlLWNpdHktY291bmNpbC1wcmVzaWRlbnQtcmFjZS16ZWtlLWNvaGVuLXRvcHMtaW5jdW1iZW50LW5pY2stbW9zYnktY2hhbGxlbmdlci1zaGFubm9uLXNuZWVkLWluLWZ1bmRyYWlzaW5nL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimwFodHRwczovL3d3dy5iYWx0aW1vcmVzdW4uY29tLzIwMjQvMDEvMTkvYmFsdGltb3JlLWNpdHktY291bmNpbC1wcmVzaWRlbnQtcmFjZS16ZWtlLWNvaGVuLXRvcHMtaW5jdW1iZW50LW5pY2stbW9zYnktY2hhbGxlbmdlci1zaGFubm9uLXNuZWVkLWluLWZ1bmRyYWlzaW5nL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5iYWx0aW1vcmVzdW4uY29tLzIwMjQvMDEvMTkvYmFsdGltb3JlLWNpdHktY291bmNpbC1wcmVzaWRlbnQtcmFjZS16ZWtlLWNvaGVuLXRvcHMtaW5jdW1iZW50LW5pY2stbW9zYnktY2hhbGxlbmdlci1zaGFubm9uLXNuZWVkLWluLWZ1bmRyYWlzaW5nL9IBAA?oc=5\" target=\"_blank\">Baltimore City Council president race: Zeke Cohen tops incumbent Nick Mosby, challenger Shannon Sneed in ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore Sun</font>"
+            ],
+            "source": [
+              {
+                "_": "Baltimore Sun",
+                "$": {
+                  "url": "https://www.baltimoresun.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Shannon Sneed files for a second run for Baltimore City Council president - The Baltimore Banner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoZWJhbHRpbW9yZWJhbm5lci5jb20vcG9saXRpY3MtcG93ZXIvbG9jYWwtZ292ZXJubWVudC9zaGFubm9uLXNuZWVkLWNvdW5jaWwtcHJlc2lkZW50LTRVTEJWSjZOQVpCS1RGTlJUSlpMVFBHMlJVL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LnRoZWJhbHRpbW9yZWJhbm5lci5jb20vcG9saXRpY3MtcG93ZXIvbG9jYWwtZ292ZXJubWVudC9zaGFubm9uLXNuZWVkLWNvdW5jaWwtcHJlc2lkZW50LTRVTEJWSjZOQVpCS1RGTlJUSlpMVFBHMlJVL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoZWJhbHRpbW9yZWJhbm5lci5jb20vcG9saXRpY3MtcG93ZXIvbG9jYWwtZ292ZXJubWVudC9zaGFubm9uLXNuZWVkLWNvdW5jaWwtcHJlc2lkZW50LTRVTEJWSjZOQVpCS1RGTlJUSlpMVFBHMlJVL9IBAA?oc=5\" target=\"_blank\">Shannon Sneed files for a second run for Baltimore City Council president</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Baltimore Banner</font>"
+            ],
+            "source": [
+              {
+                "_": "The Baltimore Banner",
+                "$": {
+                  "url": "https://www.thebaltimorebanner.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Shannon Sneed to run again for Baltimore City Council President in '24 - WEAA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LndlYWEub3JnL2xvY2FsLW5ld3MvMjAyMy0xMC0yMy9zaGFubm9uLXNuZWVkLXRvLXJ1bi1hZ2Fpbi1mb3ItYmFsdGltb3JlLWNpdHktY291bmNpbC1wcmVzaWRlbnQtaW4tMjTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LndlYWEub3JnL2xvY2FsLW5ld3MvMjAyMy0xMC0yMy9zaGFubm9uLXNuZWVkLXRvLXJ1bi1hZ2Fpbi1mb3ItYmFsdGltb3JlLWNpdHktY291bmNpbC1wcmVzaWRlbnQtaW4tMjTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LndlYWEub3JnL2xvY2FsLW5ld3MvMjAyMy0xMC0yMy9zaGFubm9uLXNuZWVkLXRvLXJ1bi1hZ2Fpbi1mb3ItYmFsdGltb3JlLWNpdHktY291bmNpbC1wcmVzaWRlbnQtaW4tMjTSAQA?oc=5\" target=\"_blank\">Shannon Sneed to run again for Baltimore City Council President in '24</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAA</font>"
+            ],
+            "source": [
+              {
+                "_": "WEAA",
+                "$": {
+                  "url": "https://www.weaa.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sneed officially enters City Council president race - The Baltimore Banner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy50aGViYWx0aW1vcmViYW5uZXIuY29tL3BvbGl0aWNzLXBvd2VyL2xvY2FsLWdvdmVybm1lbnQvc25lZWQtb2ZmaWNpYWxseS1lbnRlcnMtY2l0eS1jb3VuY2lsLXByZXNpZGVudC1yYWNlLUw1MkkyWVBPM1pCVkJCTElXQURPVVpQUVJBL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3d3dy50aGViYWx0aW1vcmViYW5uZXIuY29tL3BvbGl0aWNzLXBvd2VyL2xvY2FsLWdvdmVybm1lbnQvc25lZWQtb2ZmaWNpYWxseS1lbnRlcnMtY2l0eS1jb3VuY2lsLXByZXNpZGVudC1yYWNlLUw1MkkyWVBPM1pCVkJCTElXQURPVVpQUVJBL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy50aGViYWx0aW1vcmViYW5uZXIuY29tL3BvbGl0aWNzLXBvd2VyL2xvY2FsLWdvdmVybm1lbnQvc25lZWQtb2ZmaWNpYWxseS1lbnRlcnMtY2l0eS1jb3VuY2lsLXByZXNpZGVudC1yYWNlLUw1MkkyWVBPM1pCVkJCTElXQURPVVpQUVJBL9IBAA?oc=5\" target=\"_blank\">Sneed officially enters City Council president race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Baltimore Banner</font>"
+            ],
+            "source": [
+              {
+                "_": "The Baltimore Banner",
+                "$": {
+                  "url": "https://www.thebaltimorebanner.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tight Race for Council President Features 'Old-Timer and New-Timers' - Maryland Matters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMC8wNS8yMi90aWdodC1yYWNlLWZvci1jb3VuY2lsLXByZXNpZGVudC1mZWF0dXJlcy1vbGQtdGltZXItYW5kLW5ldy10aW1lcnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMC8wNS8yMi90aWdodC1yYWNlLWZvci1jb3VuY2lsLXByZXNpZGVudC1mZWF0dXJlcy1vbGQtdGltZXItYW5kLW5ldy10aW1lcnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 May 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMC8wNS8yMi90aWdodC1yYWNlLWZvci1jb3VuY2lsLXByZXNpZGVudC1mZWF0dXJlcy1vbGQtdGltZXItYW5kLW5ldy10aW1lcnMv0gEA?oc=5\" target=\"_blank\">Tight Race for Council President Features 'Old-Timer and New-Timers'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maryland Matters</font>"
+            ],
+            "source": [
+              {
+                "_": "Maryland Matters",
+                "$": {
+                  "url": "https://www.marylandmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "At Baltimore City Hall, 1-year-old girl is unofficial 16th council member - Baltimore Sun"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJhbHRpbW9yZXN1bi5jb20vMjAxNy8xMi8xMS9hdC1iYWx0aW1vcmUtY2l0eS1oYWxsLTEteWVhci1vbGQtZ2lybC1pcy11bm9mZmljaWFsLTE2dGgtY291bmNpbC1tZW1iZXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmJhbHRpbW9yZXN1bi5jb20vMjAxNy8xMi8xMS9hdC1iYWx0aW1vcmUtY2l0eS1oYWxsLTEteWVhci1vbGQtZ2lybC1pcy11bm9mZmljaWFsLTE2dGgtY291bmNpbC1tZW1iZXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2017 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJhbHRpbW9yZXN1bi5jb20vMjAxNy8xMi8xMS9hdC1iYWx0aW1vcmUtY2l0eS1oYWxsLTEteWVhci1vbGQtZ2lybC1pcy11bm9mZmljaWFsLTE2dGgtY291bmNpbC1tZW1iZXIv0gEA?oc=5\" target=\"_blank\">At Baltimore City Hall, 1-year-old girl is unofficial 16th council member</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore Sun</font>"
+            ],
+            "source": [
+              {
+                "_": "Baltimore Sun",
+                "$": {
+                  "url": "https://www.baltimoresun.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Henderson-Hopkins School celebrates Black History Month with storytelling night - The Hub at Johns Hopkins"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaHViLmpodS5lZHUvMjAxOS8wMi8yNy9oZW5kZXJzb24taG9wa2lucy1zdG9yeXRlbGxpbmctbmlnaHQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vaHViLmpodS5lZHUvMjAxOS8wMi8yNy9oZW5kZXJzb24taG9wa2lucy1zdG9yeXRlbGxpbmctbmlnaHQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Feb 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaHViLmpodS5lZHUvMjAxOS8wMi8yNy9oZW5kZXJzb24taG9wa2lucy1zdG9yeXRlbGxpbmctbmlnaHQv0gEA?oc=5\" target=\"_blank\">Henderson-Hopkins School celebrates Black History Month with storytelling night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hub at Johns Hopkins</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hub at Johns Hopkins",
+                "$": {
+                  "url": "https://hub.jhu.edu"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

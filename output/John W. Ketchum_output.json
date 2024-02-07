@@ -1,0 +1,1208 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"John W. Ketchum\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=John+W.+Ketchum&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "John W. Ketchum, Chairman, President and Chief Executive Officer, NextEra Energy, Inc., Chairman, President and ... - Business Roundtable"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5idXNpbmVzc3JvdW5kdGFibGUub3JnL2Fib3V0LXVzL21lbWJlcnMvam9obi13LWtldGNodW0tY2hhaXJtYW4tcHJlc2lkZW50LWFuZC1jaGllZi1leGVjdXRpdmUtb2ZmaWNlci1uZXh0ZXJhLWVuZXJneS1pbmPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5idXNpbmVzc3JvdW5kdGFibGUub3JnL2Fib3V0LXVzL21lbWJlcnMvam9obi13LWtldGNodW0tY2hhaXJtYW4tcHJlc2lkZW50LWFuZC1jaGllZi1leGVjdXRpdmUtb2ZmaWNlci1uZXh0ZXJhLWVuZXJneS1pbmPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Jan 2024 18:28:46 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5idXNpbmVzc3JvdW5kdGFibGUub3JnL2Fib3V0LXVzL21lbWJlcnMvam9obi13LWtldGNodW0tY2hhaXJtYW4tcHJlc2lkZW50LWFuZC1jaGllZi1leGVjdXRpdmUtb2ZmaWNlci1uZXh0ZXJhLWVuZXJneS1pbmPSAQA?oc=5\" target=\"_blank\">John W. Ketchum, Chairman, President and Chief Executive Officer, NextEra Energy, Inc., Chairman, President and ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Roundtable</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Roundtable",
+                "$": {
+                  "url": "https://www.businessroundtable.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Top 10: Energy CEOs | Energy Magazine - Energy Digital"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vdG9wMTAvdG9wLTEwLWVuZXJneS1jZW9z0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMmh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vdG9wMTAvdG9wLTEwLWVuZXJneS1jZW9z0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vdG9wMTAvdG9wLTEwLWVuZXJneS1jZW9z0gEA?oc=5\" target=\"_blank\">Top 10: Energy CEOs | Energy Magazine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy Digital</font>"
+            ],
+            "source": [
+              {
+                "_": "Energy Digital",
+                "$": {
+                  "url": "https://energydigital.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Industry leaders to speak at Wood Mackenzie's Energy & - GlobeNewswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9lbi9uZXdzLXJlbGVhc2UvMjAyMy8wOS8xNC8yNzQzNTMwLzAvZW4vSW5kdXN0cnktbGVhZGVycy10by1zcGVhay1hdC1Xb29kLU1hY2tlbnppZS1zLUVuZXJneS1OYXR1cmFsLVJlc291cmNlcy1BbWVyaWNhcy1TdW1taXQtMjAyMy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipgFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9lbi9uZXdzLXJlbGVhc2UvMjAyMy8wOS8xNC8yNzQzNTMwLzAvZW4vSW5kdXN0cnktbGVhZGVycy10by1zcGVhay1hdC1Xb29kLU1hY2tlbnppZS1zLUVuZXJneS1OYXR1cmFsLVJlc291cmNlcy1BbWVyaWNhcy1TdW1taXQtMjAyMy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9lbi9uZXdzLXJlbGVhc2UvMjAyMy8wOS8xNC8yNzQzNTMwLzAvZW4vSW5kdXN0cnktbGVhZGVycy10by1zcGVhay1hdC1Xb29kLU1hY2tlbnppZS1zLUVuZXJneS1OYXR1cmFsLVJlc291cmNlcy1BbWVyaWNhcy1TdW1taXQtMjAyMy5odG1s0gEA?oc=5\" target=\"_blank\">Industry leaders to speak at Wood Mackenzie's Energy &</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>"
+            ],
+            "source": [
+              {
+                "_": "GlobeNewswire",
+                "$": {
+                  "url": "https://www.globenewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CERAWEEK-NextEra CEO says offshore wind a bad bet - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9jZXJhd2Vlay1uZXh0ZXJhLWNlby1zYXlzLW9mZnNob3JlLXdpbmQtYmFkLWJldC0yMDIzLTAzLTA4L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9jZXJhd2Vlay1uZXh0ZXJhLWNlby1zYXlzLW9mZnNob3JlLXdpbmQtYmFkLWJldC0yMDIzLTAzLTA4L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9jZXJhd2Vlay1uZXh0ZXJhLWNlby1zYXlzLW9mZnNob3JlLXdpbmQtYmFkLWJldC0yMDIzLTAzLTA4L9IBAA?oc=5\" target=\"_blank\">CERAWEEK-NextEra CEO says offshore wind a bad bet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Q4 2021 Nextera Energy Inc and Nextera Energy Partners LP Earnings Presentation Transcript - GuruFocus.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5ndXJ1Zm9jdXMuY29tL25ld3MvMjE1MjAwNS9xNC0yMDIxLW5leHRlcmEtZW5lcmd5LWluYy1hbmQtbmV4dGVyYS1lbmVyZ3ktcGFydG5lcnMtbHAtZWFybmluZ3MtcHJlc2VudGF0aW9uLXRyYW5zY3JpcHTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5ndXJ1Zm9jdXMuY29tL25ld3MvMjE1MjAwNS9xNC0yMDIxLW5leHRlcmEtZW5lcmd5LWluYy1hbmQtbmV4dGVyYS1lbmVyZ3ktcGFydG5lcnMtbHAtZWFybmluZ3MtcHJlc2VudGF0aW9uLXRyYW5zY3JpcHTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 22:06:45 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5ndXJ1Zm9jdXMuY29tL25ld3MvMjE1MjAwNS9xNC0yMDIxLW5leHRlcmEtZW5lcmd5LWluYy1hbmQtbmV4dGVyYS1lbmVyZ3ktcGFydG5lcnMtbHAtZWFybmluZ3MtcHJlc2VudGF0aW9uLXRyYW5zY3JpcHTSAQA?oc=5\" target=\"_blank\">Q4 2021 Nextera Energy Inc and Nextera Energy Partners LP Earnings Presentation Transcript</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus.com</font>"
+            ],
+            "source": [
+              {
+                "_": "GuruFocus.com",
+                "$": {
+                  "url": "https://www.gurufocus.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Investors Sue NextEra Execs Over 'Ghost Candidate' Scandal - Law360"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vYXJ0aWNsZXMvMTczMzg3Ny9pbnZlc3RvcnMtc3VlLW5leHRlcmEtZXhlY3Mtb3Zlci1naG9zdC1jYW5kaWRhdGUtc2NhbmRhbNIBK2h0dHBzOi8vd3d3LmxhdzM2MC5jb20vYW1wL2FydGljbGVzLzE3MzM4Nzc?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vYXJ0aWNsZXMvMTczMzg3Ny9pbnZlc3RvcnMtc3VlLW5leHRlcmEtZXhlY3Mtb3Zlci1naG9zdC1jYW5kaWRhdGUtc2NhbmRhbNIBK2h0dHBzOi8vd3d3LmxhdzM2MC5jb20vYW1wL2FydGljbGVzLzE3MzM4Nzc",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vYXJ0aWNsZXMvMTczMzg3Ny9pbnZlc3RvcnMtc3VlLW5leHRlcmEtZXhlY3Mtb3Zlci1naG9zdC1jYW5kaWRhdGUtc2NhbmRhbNIBK2h0dHBzOi8vd3d3LmxhdzM2MC5jb20vYW1wL2FydGljbGVzLzE3MzM4Nzc?oc=5\" target=\"_blank\">Investors Sue NextEra Execs Over 'Ghost Candidate' Scandal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Law360</font>"
+            ],
+            "source": [
+              {
+                "_": "Law360",
+                "$": {
+                  "url": "https://www.law360.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NextEra Energy names John Ketchum president and CEO; Jim Robo to become executive chairman as part of a ... - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMixAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL25leHRlcmEtZW5lcmd5LW5hbWVzLWpvaG4ta2V0Y2h1bS1wcmVzaWRlbnQtYW5kLWNlby1qaW0tcm9iby10by1iZWNvbWUtZXhlY3V0aXZlLWNoYWlybWFuLWFzLXBhcnQtb2YtYS1wbGFubmVkLWxlYWRlcnNoaXAtc3VjY2Vzc2lvbi1wcm9jZXNzLTMwMTQ2NzQ0OS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMixAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL25leHRlcmEtZW5lcmd5LW5hbWVzLWpvaG4ta2V0Y2h1bS1wcmVzaWRlbnQtYW5kLWNlby1qaW0tcm9iby10by1iZWNvbWUtZXhlY3V0aXZlLWNoYWlybWFuLWFzLXBhcnQtb2YtYS1wbGFubmVkLWxlYWRlcnNoaXAtc3VjY2Vzc2lvbi1wcm9jZXNzLTMwMTQ2NzQ0OS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 25 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMixAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL25leHRlcmEtZW5lcmd5LW5hbWVzLWpvaG4ta2V0Y2h1bS1wcmVzaWRlbnQtYW5kLWNlby1qaW0tcm9iby10by1iZWNvbWUtZXhlY3V0aXZlLWNoYWlybWFuLWFzLXBhcnQtb2YtYS1wbGFubmVkLWxlYWRlcnNoaXAtc3VjY2Vzc2lvbi1wcm9jZXNzLTMwMTQ2NzQ0OS5odG1s0gEA?oc=5\" target=\"_blank\">NextEra Energy names John Ketchum president and CEO; Jim Robo to become executive chairman as part of a ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A Suggested Corporate Target For House Hearings On ESG: NextEra Energy - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYm9iZWNjbGVzLzIwMjIvMTIvMTAvYS1zdWdnZXN0ZWQtdGFyZ2V0LWZvci1ob3VzZS1oZWFyaW5ncy1vbi1lc2ctbmV4dGVyYS1lbmVyZ3kv0gFyaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9ib2JlY2NsZXMvMjAyMi8xMi8xMC9hLXN1Z2dlc3RlZC10YXJnZXQtZm9yLWhvdXNlLWhlYXJpbmdzLW9uLWVzZy1uZXh0ZXJhLWVuZXJneS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYm9iZWNjbGVzLzIwMjIvMTIvMTAvYS1zdWdnZXN0ZWQtdGFyZ2V0LWZvci1ob3VzZS1oZWFyaW5ncy1vbi1lc2ctbmV4dGVyYS1lbmVyZ3kv0gFyaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9ib2JlY2NsZXMvMjAyMi8xMi8xMC9hLXN1Z2dlc3RlZC10YXJnZXQtZm9yLWhvdXNlLWhlYXJpbmdzLW9uLWVzZy1uZXh0ZXJhLWVuZXJneS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 10 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYm9iZWNjbGVzLzIwMjIvMTIvMTAvYS1zdWdnZXN0ZWQtdGFyZ2V0LWZvci1ob3VzZS1oZWFyaW5ncy1vbi1lc2ctbmV4dGVyYS1lbmVyZ3kv0gFyaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9ib2JlY2NsZXMvMjAyMi8xMi8xMC9hLXN1Z2dlc3RlZC10YXJnZXQtZm9yLWhvdXNlLWhlYXJpbmdzLW9uLWVzZy1uZXh0ZXJhLWVuZXJneS9hbXAv?oc=5\" target=\"_blank\">A Suggested Corporate Target For House Hearings On ESG: NextEra Energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CEO compensation: Highest paid chief executive officers in the United States in 2022 - CEOWORLD magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vY2Vvd29ybGQuYml6LzIwMjMvMDUvMDYvY2VvLWNvbXBlbnNhdGlvbi1oaWdoZXN0LXBhaWQtY2hpZWYtZXhlY3V0aXZlLW9mZmljZXJzLWluLXRoZS11bml0ZWQtc3RhdGVzLWluLTIwMjIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vY2Vvd29ybGQuYml6LzIwMjMvMDUvMDYvY2VvLWNvbXBlbnNhdGlvbi1oaWdoZXN0LXBhaWQtY2hpZWYtZXhlY3V0aXZlLW9mZmljZXJzLWluLXRoZS11bml0ZWQtc3RhdGVzLWluLTIwMjIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 06 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vY2Vvd29ybGQuYml6LzIwMjMvMDUvMDYvY2VvLWNvbXBlbnNhdGlvbi1oaWdoZXN0LXBhaWQtY2hpZWYtZXhlY3V0aXZlLW9mZmljZXJzLWluLXRoZS11bml0ZWQtc3RhdGVzLWluLTIwMjIv0gEA?oc=5\" target=\"_blank\">CEO compensation: Highest paid chief executive officers in the United States in 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CEOWORLD magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "CEOWORLD magazine",
+                "$": {
+                  "url": "https://ceoworld.biz"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Top 10: Nuclear Energy Companies | Energy Magazine - Energy Digital"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vdG9wMTAvdG9wLTEwLW51Y2xlYXItZW5lcmd5LWNvbXBhbmllc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vdG9wMTAvdG9wLTEwLW51Y2xlYXItZW5lcmd5LWNvbXBhbmllc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vdG9wMTAvdG9wLTEwLW51Y2xlYXItZW5lcmd5LWNvbXBhbmllc9IBAA?oc=5\" target=\"_blank\">Top 10: Nuclear Energy Companies | Energy Magazine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy Digital</font>"
+            ],
+            "source": [
+              {
+                "_": "Energy Digital",
+                "$": {
+                  "url": "https://energydigital.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Providence's New Electricity Supplier's CEO Blasts Offshore Wind—Key Part of RI's Future - GoLocalProv"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdvbG9jYWxwcm92LmNvbS9idXNpbmVzcy9Qcm92aWRlbmNlcy1OZXctRWxlY3RyaWNpdHktU3VwcGxpZXJzLUNFTy1CbGFzdHMtT2Zmc2hvcmUtV2luZC1LZXktUGFy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3LmdvbG9jYWxwcm92LmNvbS9idXNpbmVzcy9Qcm92aWRlbmNlcy1OZXctRWxlY3RyaWNpdHktU3VwcGxpZXJzLUNFTy1CbGFzdHMtT2Zmc2hvcmUtV2luZC1LZXktUGFy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 18 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdvbG9jYWxwcm92LmNvbS9idXNpbmVzcy9Qcm92aWRlbmNlcy1OZXctRWxlY3RyaWNpdHktU3VwcGxpZXJzLUNFTy1CbGFzdHMtT2Zmc2hvcmUtV2luZC1LZXktUGFy0gEA?oc=5\" target=\"_blank\">Providence's New Electricity Supplier's CEO Blasts Offshore Wind—Key Part of RI's Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GoLocalProv</font>"
+            ],
+            "source": [
+              {
+                "_": "GoLocalProv",
+                "$": {
+                  "url": "https://www.golocalprov.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "John Ketchum appointed chairman of NextEra Energy - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvam9obi1rZXRjaHVtLWFwcG9pbnRlZC1jaGFpcm1hbi1vZi1uZXh0ZXJhLWVuZXJneS0zMDE1NTI3MzguaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvam9obi1rZXRjaHVtLWFwcG9pbnRlZC1jaGFpcm1hbi1vZi1uZXh0ZXJhLWVuZXJneS0zMDE1NTI3MzguaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvam9obi1rZXRjaHVtLWFwcG9pbnRlZC1jaGFpcm1hbi1vZi1uZXh0ZXJhLWVuZXJneS0zMDE1NTI3MzguaHRtbNIBAA?oc=5\" target=\"_blank\">John Ketchum appointed chairman of NextEra Energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Blameworthy characters: Three well-paid electricity titans worth watching - Nashua Telegraph"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5uYXNodWF0ZWxlZ3JhcGguY29tL25ld3MvbG9jYWwtbmV3cy8yMDIzLzA0LzAzL2JsYW1ld29ydGh5LWNoYXJhY3RlcnMtdGhyZWUtd2VsbC1wYWlkLWVsZWN0cmljaXR5LXRpdGFucy13b3J0aC13YXRjaGluZy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5uYXNodWF0ZWxlZ3JhcGguY29tL25ld3MvbG9jYWwtbmV3cy8yMDIzLzA0LzAzL2JsYW1ld29ydGh5LWNoYXJhY3RlcnMtdGhyZWUtd2VsbC1wYWlkLWVsZWN0cmljaXR5LXRpdGFucy13b3J0aC13YXRjaGluZy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 03 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5uYXNodWF0ZWxlZ3JhcGguY29tL25ld3MvbG9jYWwtbmV3cy8yMDIzLzA0LzAzL2JsYW1ld29ydGh5LWNoYXJhY3RlcnMtdGhyZWUtd2VsbC1wYWlkLWVsZWN0cmljaXR5LXRpdGFucy13b3J0aC13YXRjaGluZy_SAQA?oc=5\" target=\"_blank\">Blameworthy characters: Three well-paid electricity titans worth watching</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nashua Telegraph</font>"
+            ],
+            "source": [
+              {
+                "_": "Nashua Telegraph",
+                "$": {
+                  "url": "https://www.nashuatelegraph.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Robert Ketchum Obituary - Bramley Funeral Home - 2023 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3JvYmVydC1rZXRjaHVtLW9iaXR1YXJ5P2lkPTUzNjI3MzAw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3JvYmVydC1rZXRjaHVtLW9iaXR1YXJ5P2lkPTUzNjI3MzAw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 18 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3JvYmVydC1rZXRjaHVtLW9iaXR1YXJ5P2lkPTUzNjI3MzAw0gEA?oc=5\" target=\"_blank\">Robert Ketchum Obituary - Bramley Funeral Home - 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "As FPL scandals mount, NextEra board members stay silent, collect big bucks | Opinion - South Florida Sun Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnN1bi1zZW50aW5lbC5jb20vMjAyMi8wOC8zMS9hcy1mcGwtc2NhbmRhbHMtbW91bnQtbmV4dGVyYS1ib2FyZC1tZW1iZXJzLXN0YXktc2lsZW50LWNvbGxlY3QtYmlnLWJ1Y2tzLW9waW5pb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LnN1bi1zZW50aW5lbC5jb20vMjAyMi8wOC8zMS9hcy1mcGwtc2NhbmRhbHMtbW91bnQtbmV4dGVyYS1ib2FyZC1tZW1iZXJzLXN0YXktc2lsZW50LWNvbGxlY3QtYmlnLWJ1Y2tzLW9waW5pb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnN1bi1zZW50aW5lbC5jb20vMjAyMi8wOC8zMS9hcy1mcGwtc2NhbmRhbHMtbW91bnQtbmV4dGVyYS1ib2FyZC1tZW1iZXJzLXN0YXktc2lsZW50LWNvbGxlY3QtYmlnLWJ1Y2tzLW9waW5pb24v0gEA?oc=5\" target=\"_blank\">As FPL scandals mount, NextEra board members stay silent, collect big bucks | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South Florida Sun Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "South Florida Sun Sentinel",
+                "$": {
+                  "url": "https://www.sun-sentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NextEra Energy implements leadership succession plan; names John Ketchum President and CEO - The Capitolist"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vdGhlY2FwaXRvbGlzdC5jb20vbmV4dGVyYS1lbmVyZ3ktaW1wbGVtZW50cy1sZWFkZXJzaGlwLXN1Y2Nlc3Npb24tcGxhbi1uYW1lcy1qb2huLWtldGNodW0tcHJlc2lkZW50LWFuZC1jZW8v0gF4aHR0cHM6Ly90aGVjYXBpdG9saXN0LmNvbS9uZXh0ZXJhLWVuZXJneS1pbXBsZW1lbnRzLWxlYWRlcnNoaXAtc3VjY2Vzc2lvbi1wbGFuLW5hbWVzLWpvaG4ta2V0Y2h1bS1wcmVzaWRlbnQtYW5kLWNlby9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vdGhlY2FwaXRvbGlzdC5jb20vbmV4dGVyYS1lbmVyZ3ktaW1wbGVtZW50cy1sZWFkZXJzaGlwLXN1Y2Nlc3Npb24tcGxhbi1uYW1lcy1qb2huLWtldGNodW0tcHJlc2lkZW50LWFuZC1jZW8v0gF4aHR0cHM6Ly90aGVjYXBpdG9saXN0LmNvbS9uZXh0ZXJhLWVuZXJneS1pbXBsZW1lbnRzLWxlYWRlcnNoaXAtc3VjY2Vzc2lvbi1wbGFuLW5hbWVzLWpvaG4ta2V0Y2h1bS1wcmVzaWRlbnQtYW5kLWNlby9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 25 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vdGhlY2FwaXRvbGlzdC5jb20vbmV4dGVyYS1lbmVyZ3ktaW1wbGVtZW50cy1sZWFkZXJzaGlwLXN1Y2Nlc3Npb24tcGxhbi1uYW1lcy1qb2huLWtldGNodW0tcHJlc2lkZW50LWFuZC1jZW8v0gF4aHR0cHM6Ly90aGVjYXBpdG9saXN0LmNvbS9uZXh0ZXJhLWVuZXJneS1pbXBsZW1lbnRzLWxlYWRlcnNoaXAtc3VjY2Vzc2lvbi1wbGFuLW5hbWVzLWpvaG4ta2V0Y2h1bS1wcmVzaWRlbnQtYW5kLWNlby9hbXAv?oc=5\" target=\"_blank\">NextEra Energy implements leadership succession plan; names John Ketchum President and CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Capitolist</font>"
+            ],
+            "source": [
+              {
+                "_": "The Capitolist",
+                "$": {
+                  "url": "https://thecapitolist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NEP.N - | Stock Price & Latest News - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvY29tcGFuaWVzL05FUC5O0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiL2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvY29tcGFuaWVzL05FUC5O0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Apr 2022 00:31:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvY29tcGFuaWVzL05FUC5O0gEA?oc=5\" target=\"_blank\">NEP.N - | Stock Price & Latest News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NextEra Energy Partners names John Ketchum CEO; Jim Robo to remain board chairman as part of a planned ... - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL25leHRlcmEtZW5lcmd5LXBhcnRuZXJzLW5hbWVzLWpvaG4ta2V0Y2h1bS1jZW8tamltLXJvYm8tdG8tcmVtYWluLWJvYXJkLWNoYWlybWFuLWFzLXBhcnQtb2YtYS1wbGFubmVkLWxlYWRlcnNoaXAtc3VjY2Vzc2lvbi1wcm9jZXNzLTMwMTQ2NzQ1My5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiuwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL25leHRlcmEtZW5lcmd5LXBhcnRuZXJzLW5hbWVzLWpvaG4ta2V0Y2h1bS1jZW8tamltLXJvYm8tdG8tcmVtYWluLWJvYXJkLWNoYWlybWFuLWFzLXBhcnQtb2YtYS1wbGFubmVkLWxlYWRlcnNoaXAtc3VjY2Vzc2lvbi1wcm9jZXNzLTMwMTQ2NzQ1My5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 25 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL25leHRlcmEtZW5lcmd5LXBhcnRuZXJzLW5hbWVzLWpvaG4ta2V0Y2h1bS1jZW8tamltLXJvYm8tdG8tcmVtYWluLWJvYXJkLWNoYWlybWFuLWFzLXBhcnQtb2YtYS1wbGFubmVkLWxlYWRlcnNoaXAtc3VjY2Vzc2lvbi1wcm9jZXNzLTMwMTQ2NzQ1My5odG1s0gEA?oc=5\" target=\"_blank\">NextEra Energy Partners names John Ketchum CEO; Jim Robo to remain board chairman as part of a planned ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Statement by NextEra Energy, Inc. President and CEO and NextEra Energy Partners, LP CEO John Ketchum ... - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMi9gFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL3N0YXRlbWVudC1ieS1uZXh0ZXJhLWVuZXJneS1pbmMtcHJlc2lkZW50LWFuZC1jZW8tYW5kLW5leHRlcmEtZW5lcmd5LXBhcnRuZXJzLWxwLWNlby1qb2huLWtldGNodW0tcmVnYXJkaW5nLXVzLWRlcGFydG1lbnQtb2YtY29tbWVyY2UtZGVjaXNpb24tdG8taW52ZXN0aWdhdGUtdGhlLXNvbGFyLWNpcmN1bXZlbnRpb24tcGV0aXRpb24tMzAxNTEyNzQ1Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMi9gFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL3N0YXRlbWVudC1ieS1uZXh0ZXJhLWVuZXJneS1pbmMtcHJlc2lkZW50LWFuZC1jZW8tYW5kLW5leHRlcmEtZW5lcmd5LXBhcnRuZXJzLWxwLWNlby1qb2huLWtldGNodW0tcmVnYXJkaW5nLXVzLWRlcGFydG1lbnQtb2YtY29tbWVyY2UtZGVjaXNpb24tdG8taW52ZXN0aWdhdGUtdGhlLXNvbGFyLWNpcmN1bXZlbnRpb24tcGV0aXRpb24tMzAxNTEyNzQ1Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 29 Mar 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMi9gFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL3N0YXRlbWVudC1ieS1uZXh0ZXJhLWVuZXJneS1pbmMtcHJlc2lkZW50LWFuZC1jZW8tYW5kLW5leHRlcmEtZW5lcmd5LXBhcnRuZXJzLWxwLWNlby1qb2huLWtldGNodW0tcmVnYXJkaW5nLXVzLWRlcGFydG1lbnQtb2YtY29tbWVyY2UtZGVjaXNpb24tdG8taW52ZXN0aWdhdGUtdGhlLXNvbGFyLWNpcmN1bXZlbnRpb24tcGV0aXRpb24tMzAxNTEyNzQ1Lmh0bWzSAQA?oc=5\" target=\"_blank\">Statement by NextEra Energy, Inc. President and CEO and NextEra Energy Partners, LP CEO John Ketchum ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Florida Power and Light quietly reduces solar, shifting solar to Gulf Power in midst of merger - Energy and Policy Institute"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZW5lcmd5YW5kcG9saWN5Lm9yZy9mbG9yaWRhLXBvd2VyLWFuZC1saWdodC1xdWlldGx5LXJlZHVjZXMtc29sYXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vZW5lcmd5YW5kcG9saWN5Lm9yZy9mbG9yaWRhLXBvd2VyLWFuZC1saWdodC1xdWlldGx5LXJlZHVjZXMtc29sYXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Jul 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZW5lcmd5YW5kcG9saWN5Lm9yZy9mbG9yaWRhLXBvd2VyLWFuZC1saWdodC1xdWlldGx5LXJlZHVjZXMtc29sYXIv0gEA?oc=5\" target=\"_blank\">Florida Power and Light quietly reduces solar, shifting solar to Gulf Power in midst of merger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy and Policy Institute</font>"
+            ],
+            "source": [
+              {
+                "_": "Energy and Policy Institute",
+                "$": {
+                  "url": "https://energyandpolicy.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "John Ketchum Obituary - Higgins Funeral Home at Hunter-Allen-Myhand - 2023 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2pvaG4ta2V0Y2h1bS1vYml0dWFyeT9pZD00NzY4NjAzNtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2pvaG4ta2V0Y2h1bS1vYml0dWFyeT9pZD00NzY4NjAzNtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2pvaG4ta2V0Y2h1bS1vYml0dWFyeT9pZD00NzY4NjAzNtIBAA?oc=5\" target=\"_blank\">John Ketchum Obituary - Higgins Funeral Home at Hunter-Allen-Myhand - 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "U.S. may phase in hydrogen tax credit in bid to balance industry, activists - Press Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnByZXNzaGVyYWxkLmNvbS8yMDIzLzA4LzA3L3Utcy1tYXktcGhhc2UtaW4taHlkcm9nZW4tdGF4LWNyZWRpdC1pbi1iaWQtdG8tYmFsYW5jZS1pbmR1c3RyeS1hY3RpdmlzdHMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LnByZXNzaGVyYWxkLmNvbS8yMDIzLzA4LzA3L3Utcy1tYXktcGhhc2UtaW4taHlkcm9nZW4tdGF4LWNyZWRpdC1pbi1iaWQtdG8tYmFsYW5jZS1pbmR1c3RyeS1hY3RpdmlzdHMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 07 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnByZXNzaGVyYWxkLmNvbS8yMDIzLzA4LzA3L3Utcy1tYXktcGhhc2UtaW4taHlkcm9nZW4tdGF4LWNyZWRpdC1pbi1iaWQtdG8tYmFsYW5jZS1pbmR1c3RyeS1hY3RpdmlzdHMv0gEA?oc=5\" target=\"_blank\">U.S. may phase in hydrogen tax credit in bid to balance industry, activists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Press Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "Press Herald",
+                "$": {
+                  "url": "https://www.pressherald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "More journalists of color become newsroom founders » Nieman Journalism Lab - Nieman Journalism Lab at Harvard"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm5pZW1hbmxhYi5vcmcvMjAyMC8xMi9tb3JlLWpvdXJuYWxpc3RzLW9mLWNvbG9yLWJlY29tZS1uZXdzcm9vbS1mb3VuZGVycy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3Lm5pZW1hbmxhYi5vcmcvMjAyMC8xMi9tb3JlLWpvdXJuYWxpc3RzLW9mLWNvbG9yLWJlY29tZS1uZXdzcm9vbS1mb3VuZGVycy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 11 Dec 2020 20:33:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm5pZW1hbmxhYi5vcmcvMjAyMC8xMi9tb3JlLWpvdXJuYWxpc3RzLW9mLWNvbG9yLWJlY29tZS1uZXdzcm9vbS1mb3VuZGVycy_SAQA?oc=5\" target=\"_blank\">More journalists of color become newsroom founders » Nieman Journalism Lab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nieman Journalism Lab at Harvard</font>"
+            ],
+            "source": [
+              {
+                "_": "Nieman Journalism Lab at Harvard",
+                "$": {
+                  "url": "https://www.niemanlab.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FPL's Eric Silagy to retire as head of Florida's largest utility - South Florida Sun Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnN1bi1zZW50aW5lbC5jb20vMjAyMy8wMS8yNS9mcGwtY2VvLWFubm91bmNlcy1yZXRpcmVtZW50LWluLXdha2Utb2YtcG9saXRpY2FsLXNjYW5kYWxzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LnN1bi1zZW50aW5lbC5jb20vMjAyMy8wMS8yNS9mcGwtY2VvLWFubm91bmNlcy1yZXRpcmVtZW50LWluLXdha2Utb2YtcG9saXRpY2FsLXNjYW5kYWxzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnN1bi1zZW50aW5lbC5jb20vMjAyMy8wMS8yNS9mcGwtY2VvLWFubm91bmNlcy1yZXRpcmVtZW50LWluLXdha2Utb2YtcG9saXRpY2FsLXNjYW5kYWxzL9IBAA?oc=5\" target=\"_blank\">FPL's Eric Silagy to retire as head of Florida's largest utility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South Florida Sun Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "South Florida Sun Sentinel",
+                "$": {
+                  "url": "https://www.sun-sentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hall Estill completes merger with Newton O’Connor - Journal Record"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vam91cm5hbHJlY29yZC5jb20vaGFsbC1lc3RpbGwtY29tcGxldGVzLW1lcmdlci13aXRoLW5ld3Rvbi1vY29ubm9yL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vam91cm5hbHJlY29yZC5jb20vaGFsbC1lc3RpbGwtY29tcGxldGVzLW1lcmdlci13aXRoLW5ld3Rvbi1vY29ubm9yL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Nov 2023 03:24:58 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vam91cm5hbHJlY29yZC5jb20vaGFsbC1lc3RpbGwtY29tcGxldGVzLW1lcmdlci13aXRoLW5ld3Rvbi1vY29ubm9yL9IBAA?oc=5\" target=\"_blank\">Hall Estill completes merger with Newton O’Connor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Journal Record</font>"
+            ],
+            "source": [
+              {
+                "_": "Journal Record",
+                "$": {
+                  "url": "https://journalrecord.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "24/7 Wall St./MyLogIQ CEO Pay For S&P 500 - 24/7 Wall St."
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vMjQ3d2FsbHN0LmNvbS9pbnZlc3RpbmcvMjAyMi8wNS8wMy8yNC03LXdhbGwtc3QtbXlsb2dpcS1jZW8tcGF5LWZvci1zcC01MDAv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vMjQ3d2FsbHN0LmNvbS9pbnZlc3RpbmcvMjAyMi8wNS8wMy8yNC03LXdhbGwtc3QtbXlsb2dpcS1jZW8tcGF5LWZvci1zcC01MDAv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vMjQ3d2FsbHN0LmNvbS9pbnZlc3RpbmcvMjAyMi8wNS8wMy8yNC03LXdhbGwtc3QtbXlsb2dpcS1jZW8tcGF5LWZvci1zcC01MDAv0gEA?oc=5\" target=\"_blank\">24/7 Wall St./MyLogIQ CEO Pay For S&P 500</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>"
+            ],
+            "source": [
+              {
+                "_": "24/7 Wall St.",
+                "$": {
+                  "url": "https://247wallst.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ketchum acquires Icon Singapore | PR - Campaign Asia"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNhbXBhaWduYXNpYS5jb20vYXJ0aWNsZS9rZXRjaHVtLWFjcXVpcmVzLWljb24tc2luZ2Fwb3JlLzM2Mzg2MtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LmNhbXBhaWduYXNpYS5jb20vYXJ0aWNsZS9rZXRjaHVtLWFjcXVpcmVzLWljb24tc2luZ2Fwb3JlLzM2Mzg2MtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Nov 2013 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNhbXBhaWduYXNpYS5jb20vYXJ0aWNsZS9rZXRjaHVtLWFjcXVpcmVzLWljb24tc2luZ2Fwb3JlLzM2Mzg2MtIBAA?oc=5\" target=\"_blank\">Ketchum acquires Icon Singapore | PR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Campaign Asia</font>"
+            ],
+            "source": [
+              {
+                "_": "Campaign Asia",
+                "$": {
+                  "url": "https://www.campaignasia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Norene Ketchum Obituary - Overman-Jones Funeral Home - 2022 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL25vcmVuZS1rZXRjaHVtLW9iaXR1YXJ5P2lkPTM4MjkyMDU30gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL25vcmVuZS1rZXRjaHVtLW9iaXR1YXJ5P2lkPTM4MjkyMDU30gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL25vcmVuZS1rZXRjaHVtLW9iaXR1YXJ5P2lkPTM4MjkyMDU30gEA?oc=5\" target=\"_blank\">Norene Ketchum Obituary - Overman-Jones Funeral Home - 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Why, after 6 years, the N.W.T. gov't still hasn't sold its tungsten mining project - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9ub3J0aC9uLXctdC1nb3Zlcm5tZW50LW1hY3R1bmctY2FudHVuZy1taW5lLTEuNjI2MjU5MNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42MjYyNTkw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9ub3J0aC9uLXctdC1nb3Zlcm5tZW50LW1hY3R1bmctY2FudHVuZy1taW5lLTEuNjI2MjU5MNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42MjYyNTkw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Nov 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9ub3J0aC9uLXctdC1nb3Zlcm5tZW50LW1hY3R1bmctY2FudHVuZy1taW5lLTEuNjI2MjU5MNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42MjYyNTkw?oc=5\" target=\"_blank\">Why, after 6 years, the N.W.T. gov't still hasn't sold its tungsten mining project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UPDATE | Former W.Va. SUPCO justice will not go to prison - WSAZ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LndzYXouY29tL2NvbnRlbnQvbmV3cy9Gb3JtZXItV1ZhLVN1cHJlbWUtQ291cnQtanVzdGljZS1pbmRpY3RlZC1vbi1mZWRlcmFsLWNoYXJnZXMtNDg5NjMwNDYxLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LndzYXouY29tL2NvbnRlbnQvbmV3cy9Gb3JtZXItV1ZhLVN1cHJlbWUtQ291cnQtanVzdGljZS1pbmRpY3RlZC1vbi1mZWRlcmFsLWNoYXJnZXMtNDg5NjMwNDYxLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Jul 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LndzYXouY29tL2NvbnRlbnQvbmV3cy9Gb3JtZXItV1ZhLVN1cHJlbWUtQ291cnQtanVzdGljZS1pbmRpY3RlZC1vbi1mZWRlcmFsLWNoYXJnZXMtNDg5NjMwNDYxLmh0bWzSAQA?oc=5\" target=\"_blank\">UPDATE | Former W.Va. SUPCO justice will not go to prison</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAZ</font>"
+            ],
+            "source": [
+              {
+                "_": "WSAZ",
+                "$": {
+                  "url": "https://www.wsaz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wendy Pesky Obituary (1941 - 2022) - Ketchum, ID - Idaho Statesman - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9pZGFob3N0YXRlc21hbi9uYW1lL3dlbmR5LXBlc2t5LW9iaXR1YXJ5P2lkPTM2OTkwNzMw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9pZGFob3N0YXRlc21hbi9uYW1lL3dlbmR5LXBlc2t5LW9iaXR1YXJ5P2lkPTM2OTkwNzMw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 06 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9pZGFob3N0YXRlc21hbi9uYW1lL3dlbmR5LXBlc2t5LW9iaXR1YXJ5P2lkPTM2OTkwNzMw0gEA?oc=5\" target=\"_blank\">Wendy Pesky Obituary (1941 - 2022) - Ketchum, ID - Idaho Statesman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jesse William Ketchum – NEMOnews Media Group - Nemonews.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm5lbW9uZXdzLm5ldC8yMDE3LzA2LzA3L2plc3NlLXdpbGxpYW0ta2V0Y2h1bS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOmh0dHBzOi8vd3d3Lm5lbW9uZXdzLm5ldC8yMDE3LzA2LzA3L2plc3NlLXdpbGxpYW0ta2V0Y2h1bS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Jun 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm5lbW9uZXdzLm5ldC8yMDE3LzA2LzA3L2plc3NlLXdpbGxpYW0ta2V0Y2h1bS_SAQA?oc=5\" target=\"_blank\">Jesse William Ketchum – NEMOnews Media Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nemonews.net</font>"
+            ],
+            "source": [
+              {
+                "_": "Nemonews.net",
+                "$": {
+                  "url": "https://www.nemonews.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gail Ketchum Obituary (1944 - 2022) - Ocean Springs, MS - The Sun Herald - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9zdW5oZXJhbGQvbmFtZS9nYWlsLWtldGNodW0tb2JpdHVhcnk_aWQ9MzM1NzAxNzHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9zdW5oZXJhbGQvbmFtZS9nYWlsLWtldGNodW0tb2JpdHVhcnk_aWQ9MzM1NzAxNzHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Mar 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9zdW5oZXJhbGQvbmFtZS9nYWlsLWtldGNodW0tb2JpdHVhcnk_aWQ9MzM1NzAxNzHSAQA?oc=5\" target=\"_blank\">Gail Ketchum Obituary (1944 - 2022) - Ocean Springs, MS - The Sun Herald</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former West Virginia Supreme Court Justice Menis Ketchum Avoids Prison, Sentenced to Three Years' Probation - Wheeling Intelligencer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy50aGVpbnRlbGxpZ2VuY2VyLm5ldC9uZXdzL3RvcC1oZWFkbGluZXMvMjAxOS8wMy9mb3JtZXItd2VzdC12aXJnaW5pYS1zdXByZW1lLWNvdXJ0LWp1c3RpY2UtbWVuaXMta2V0Y2h1bS1hdm9pZHMtcHJpc29uLXNlbnRlbmNlZC10by10aHJlZS15ZWFycy1wcm9iYXRpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipgFodHRwczovL3d3dy50aGVpbnRlbGxpZ2VuY2VyLm5ldC9uZXdzL3RvcC1oZWFkbGluZXMvMjAxOS8wMy9mb3JtZXItd2VzdC12aXJnaW5pYS1zdXByZW1lLWNvdXJ0LWp1c3RpY2UtbWVuaXMta2V0Y2h1bS1hdm9pZHMtcHJpc29uLXNlbnRlbmNlZC10by10aHJlZS15ZWFycy1wcm9iYXRpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Mar 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy50aGVpbnRlbGxpZ2VuY2VyLm5ldC9uZXdzL3RvcC1oZWFkbGluZXMvMjAxOS8wMy9mb3JtZXItd2VzdC12aXJnaW5pYS1zdXByZW1lLWNvdXJ0LWp1c3RpY2UtbWVuaXMta2V0Y2h1bS1hdm9pZHMtcHJpc29uLXNlbnRlbmNlZC10by10aHJlZS15ZWFycy1wcm9iYXRpb24v0gEA?oc=5\" target=\"_blank\">Former West Virginia Supreme Court Justice Menis Ketchum Avoids Prison, Sentenced to Three Years' Probation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wheeling Intelligencer</font>"
+            ],
+            "source": [
+              {
+                "_": "Wheeling Intelligencer",
+                "$": {
+                  "url": "https://www.theintelligencer.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WENDY PESKY Obituary (1941 - 2022) - Ketchum, ID - New York Times - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9ueXRpbWVzL25hbWUvd2VuZHktcGVza3ktb2JpdHVhcnk_aWQ9MzcwMTA0OTLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9ueXRpbWVzL25hbWUvd2VuZHktcGVza3ktb2JpdHVhcnk_aWQ9MzcwMTA0OTLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 06 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9ueXRpbWVzL25hbWUvd2VuZHktcGVza3ktb2JpdHVhcnk_aWQ9MzcwMTA0OTLSAQA?oc=5\" target=\"_blank\">WENDY PESKY Obituary (1941 - 2022) - Ketchum, ID - New York Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "John Martinson Obituary (1935 - 2022) - Boise, ID - Houston Chronicle - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9ob3VzdG9uY2hyb25pY2xlL25hbWUvam9obi1tYXJ0aW5zb24tb2JpdHVhcnk_aWQ9MzUxMDQwMjXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9ob3VzdG9uY2hyb25pY2xlL25hbWUvam9obi1tYXJ0aW5zb24tb2JpdHVhcnk_aWQ9MzUxMDQwMjXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9ob3VzdG9uY2hyb25pY2xlL25hbWUvam9obi1tYXJ0aW5zb24tb2JpdHVhcnk_aWQ9MzUxMDQwMjXSAQA?oc=5\" target=\"_blank\">John Martinson Obituary (1935 - 2022) - Boise, ID - Houston Chronicle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "James Ketchum Obituary (2009) - Sacramento, CA - The Sacramento Bee - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9zYWNiZWUvbmFtZS9qYW1lcy1rZXRjaHVtLW9iaXR1YXJ5P2lkPTEyNTcyMDU00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9zYWNiZWUvbmFtZS9qYW1lcy1rZXRjaHVtLW9iaXR1YXJ5P2lkPTEyNTcyMDU00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jun 2009 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9zYWNiZWUvbmFtZS9qYW1lcy1rZXRjaHVtLW9iaXR1YXJ5P2lkPTEyNTcyMDU00gEA?oc=5\" target=\"_blank\">James Ketchum Obituary (2009) - Sacramento, CA - The Sacramento Bee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Take off with NextEra Energy Inc (NEE): Get ready for trading - SETE News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnNldGVuZXdzLmNvbS8yMDI0LzAyLzAxL3Rha2Utb2ZmLXdpdGgtbmV4dGVyYS1lbmVyZ3ktaW5jLW5lZS1nZXQtcmVhZHktZm9yLXRyYWRpbmcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LnNldGVuZXdzLmNvbS8yMDI0LzAyLzAxL3Rha2Utb2ZmLXdpdGgtbmV4dGVyYS1lbmVyZ3ktaW5jLW5lZS1nZXQtcmVhZHktZm9yLXRyYWRpbmcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 22:58:46 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnNldGVuZXdzLmNvbS8yMDI0LzAyLzAxL3Rha2Utb2ZmLXdpdGgtbmV4dGVyYS1lbmVyZ3ktaW5jLW5lZS1nZXQtcmVhZHktZm9yLXRyYWRpbmcv0gEA?oc=5\" target=\"_blank\">Take off with NextEra Energy Inc (NEE): Get ready for trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SETE News</font>"
+            ],
+            "source": [
+              {
+                "_": "SETE News",
+                "$": {
+                  "url": "https://www.setenews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Get in on NextEra Energy Partners LP's (NEP) buy-in window today! - SETE News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnNldGVuZXdzLmNvbS8yMDI0LzAxLzEwL2dldC1pbi1vbi1uZXh0ZXJhLWVuZXJneS1wYXJ0bmVycy1scHMtbmVwLWJ1eS1pbi13aW5kb3ctdG9kYXktMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LnNldGVuZXdzLmNvbS8yMDI0LzAxLzEwL2dldC1pbi1vbi1uZXh0ZXJhLWVuZXJneS1wYXJ0bmVycy1scHMtbmVwLWJ1eS1pbi13aW5kb3ctdG9kYXktMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 Jan 2024 16:48:36 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnNldGVuZXdzLmNvbS8yMDI0LzAxLzEwL2dldC1pbi1vbi1uZXh0ZXJhLWVuZXJneS1wYXJ0bmVycy1scHMtbmVwLWJ1eS1pbi13aW5kb3ctdG9kYXktMi_SAQA?oc=5\" target=\"_blank\">Get in on NextEra Energy Partners LP's (NEP) buy-in window today!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SETE News</font>"
+            ],
+            "source": [
+              {
+                "_": "SETE News",
+                "$": {
+                  "url": "https://www.setenews.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

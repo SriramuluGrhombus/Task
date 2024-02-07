@@ -1,0 +1,2738 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Univision\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Univision&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Super Bowl on Univision: Nissan, Audi, Metro by T-Mobile buy ads - Ad Age"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYWRhZ2UuY29tL2FydGljbGUvc3BlY2lhbC1yZXBvcnQtc3VwZXItYm93bC9zdXBlci1ib3dsLXVuaXZpc2lvbi1uaXNzYW4tYXVkaS1tZXRyby10LW1vYmlsZS1idXktYWRzLzI1MzgwMTHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vYWRhZ2UuY29tL2FydGljbGUvc3BlY2lhbC1yZXBvcnQtc3VwZXItYm93bC9zdXBlci1ib3dsLXVuaXZpc2lvbi1uaXNzYW4tYXVkaS1tZXRyby10LW1vYmlsZS1idXktYWRzLzI1MzgwMTHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYWRhZ2UuY29tL2FydGljbGUvc3BlY2lhbC1yZXBvcnQtc3VwZXItYm93bC9zdXBlci1ib3dsLXVuaXZpc2lvbi1uaXNzYW4tYXVkaS1tZXRyby10LW1vYmlsZS1idXktYWRzLzI1MzgwMTHSAQA?oc=5\" target=\"_blank\">Super Bowl on Univision: Nissan, Audi, Metro by T-Mobile buy ads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad Age</font>"
+            ],
+            "source": [
+              {
+                "_": "Ad Age",
+                "$": {
+                  "url": "https://adage.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision Makes Outreach to Advertisers Amid Coronavirus Confusion - IMDb"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmltZGIuY29tL25ld3Mvbmk2Mjg0MzU1NS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiJWh0dHBzOi8vd3d3LmltZGIuY29tL25ld3Mvbmk2Mjg0MzU1NS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 08:47:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmltZGIuY29tL25ld3Mvbmk2Mjg0MzU1NS_SAQA?oc=5\" target=\"_blank\">Univision Makes Outreach to Advertisers Amid Coronavirus Confusion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IMDb</font>"
+            ],
+            "source": [
+              {
+                "_": "IMDb",
+                "$": {
+                  "url": "https://www.imdb.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision 41 News Brief: Adolescente es apuñalado en escuela en New Jersey - MDJOnline.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitQFodHRwczovL3d3dy5tZGpvbmxpbmUuY29tL25laWdoYm9yX25ld3NwYXBlcnMvbmV3cy9uYXRpb25hbC91bml2aXNpb24tNDEtbmV3cy1icmllZi1hZG9sZXNjZW50ZS1lcy1hcHUtYWxhZG8tZW4tZXNjdWVsYS1lbi1uZXctamVyc2V5L3ZpZGVvXzYzZmIwODFjLWM3OWMtNTJmYi05NGZhLWJjY2Q2NjExOTA0NC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitQFodHRwczovL3d3dy5tZGpvbmxpbmUuY29tL25laWdoYm9yX25ld3NwYXBlcnMvbmV3cy9uYXRpb25hbC91bml2aXNpb24tNDEtbmV3cy1icmllZi1hZG9sZXNjZW50ZS1lcy1hcHUtYWxhZG8tZW4tZXNjdWVsYS1lbi1uZXctamVyc2V5L3ZpZGVvXzYzZmIwODFjLWM3OWMtNTJmYi05NGZhLWJjY2Q2NjExOTA0NC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 16:01:01 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitQFodHRwczovL3d3dy5tZGpvbmxpbmUuY29tL25laWdoYm9yX25ld3NwYXBlcnMvbmV3cy9uYXRpb25hbC91bml2aXNpb24tNDEtbmV3cy1icmllZi1hZG9sZXNjZW50ZS1lcy1hcHUtYWxhZG8tZW4tZXNjdWVsYS1lbi1uZXctamVyc2V5L3ZpZGVvXzYzZmIwODFjLWM3OWMtNTJmYi05NGZhLWJjY2Q2NjExOTA0NC5odG1s0gEA?oc=5\" target=\"_blank\">Univision 41 News Brief: Adolescente es apuñalado en escuela en New Jersey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MDJOnline.com</font>"
+            ],
+            "source": [
+              {
+                "_": "MDJOnline.com",
+                "$": {
+                  "url": "https://www.mdjonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Conundrum of Covering Trump Lands at Univision's Doorstep - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMDgvYnVzaW5lc3MvbWVkaWEvdW5pdmlzaW9uLXRydW1wLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMDgvYnVzaW5lc3MvbWVkaWEvdW5pdmlzaW9uLXRydW1wLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMDgvYnVzaW5lc3MvbWVkaWEvdW5pdmlzaW9uLXRydW1wLmh0bWzSAQA?oc=5\" target=\"_blank\">Conundrum of Covering Trump Lands at Univision's Doorstep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Total by Verizon to Make Advertising Debut During Univision Big Game Telecast - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDEwNDA3NjAzMi9lbi9Ub3RhbC1ieS1WZXJpem9uLXRvLU1ha2UtQWR2ZXJ0aXNpbmctRGVidXQtRHVyaW5nLVVuaXZpc2lvbi1CaWctR2FtZS1UZWxlY2FzdNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDEwNDA3NjAzMi9lbi9Ub3RhbC1ieS1WZXJpem9uLXRvLU1ha2UtQWR2ZXJ0aXNpbmctRGVidXQtRHVyaW5nLVVuaXZpc2lvbi1CaWctR2FtZS1UZWxlY2FzdNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDEwNDA3NjAzMi9lbi9Ub3RhbC1ieS1WZXJpem9uLXRvLU1ha2UtQWR2ZXJ0aXNpbmctRGVidXQtRHVyaW5nLVVuaXZpc2lvbi1CaWctR2FtZS1UZWxlY2FzdNIBAA?oc=5\" target=\"_blank\">Total by Verizon to Make Advertising Debut During Univision Big Game Telecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision, America's Spanish news giant, reaches out to Donald Trump - The Economist"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vdW5pdGVkLXN0YXRlcy8yMDIzLzExLzIzL3VuaXZpc2lvbi1hbWVyaWNhcy1zcGFuaXNoLW5ld3MtZ2lhbnQtcmVhY2hlcy1vdXQtdG8tZG9uYWxkLXRydW1w0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vdW5pdGVkLXN0YXRlcy8yMDIzLzExLzIzL3VuaXZpc2lvbi1hbWVyaWNhcy1zcGFuaXNoLW5ld3MtZ2lhbnQtcmVhY2hlcy1vdXQtdG8tZG9uYWxkLXRydW1w0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vdW5pdGVkLXN0YXRlcy8yMDIzLzExLzIzL3VuaXZpc2lvbi1hbWVyaWNhcy1zcGFuaXNoLW5ld3MtZ2lhbnQtcmVhY2hlcy1vdXQtdG8tZG9uYWxkLXRydW1w0gEA?oc=5\" target=\"_blank\">Univision, America's Spanish news giant, reaches out to Donald Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>"
+            ],
+            "source": [
+              {
+                "_": "The Economist",
+                "$": {
+                  "url": "https://www.economist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision Anchor Jorge Ramos Is Latest to Blast Trump Interview - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL2pvcmdlLXJhbW9zLXVuaXZpc2lvbi10cnVtcC1pbnRlcnZpZXctMTIzNTgwOTI1NS_SAVZodHRwczovL3ZhcmlldHkuY29tLzIwMjMvdHYvbmV3cy9qb3JnZS1yYW1vcy11bml2aXNpb24tdHJ1bXAtaW50ZXJ2aWV3LTEyMzU4MDkyNTUvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL2pvcmdlLXJhbW9zLXVuaXZpc2lvbi10cnVtcC1pbnRlcnZpZXctMTIzNTgwOTI1NS_SAVZodHRwczovL3ZhcmlldHkuY29tLzIwMjMvdHYvbmV3cy9qb3JnZS1yYW1vcy11bml2aXNpb24tdHJ1bXAtaW50ZXJ2aWV3LTEyMzU4MDkyNTUvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 26 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL2pvcmdlLXJhbW9zLXVuaXZpc2lvbi10cnVtcC1pbnRlcnZpZXctMTIzNTgwOTI1NS_SAVZodHRwczovL3ZhcmlldHkuY29tLzIwMjMvdHYvbmV3cy9qb3JnZS1yYW1vcy11bml2aXNpb24tdHJ1bXAtaW50ZXJ2aWV3LTEyMzU4MDkyNTUvYW1wLw?oc=5\" target=\"_blank\">Univision Anchor Jorge Ramos Is Latest to Blast Trump Interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How To Watch The Super Bowl Online & On TV: Livestream, Halftime Show, More - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDIvaG93LXRvLXdhdGNoLTIwMjQtc3VwZXItYm93bC1jaGllZnMtNDllcnMtMTIzNTgwNzc2NS_SAVZodHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzAyL2hvdy10by13YXRjaC0yMDI0LXN1cGVyLWJvd2wtY2hpZWZzLTQ5ZXJzLTEyMzU4MDc3NjUvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDIvaG93LXRvLXdhdGNoLTIwMjQtc3VwZXItYm93bC1jaGllZnMtNDllcnMtMTIzNTgwNzc2NS_SAVZodHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzAyL2hvdy10by13YXRjaC0yMDI0LXN1cGVyLWJvd2wtY2hpZWZzLTQ5ZXJzLTEyMzU4MDc3NjUvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 07:11:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDIvaG93LXRvLXdhdGNoLTIwMjQtc3VwZXItYm93bC1jaGllZnMtNDllcnMtMTIzNTgwNzc2NS_SAVZodHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzAyL2hvdy10by13YXRjaC0yMDI0LXN1cGVyLWJvd2wtY2hpZWZzLTQ5ZXJzLTEyMzU4MDc3NjUvYW1wLw?oc=5\" target=\"_blank\">How To Watch The Super Bowl Online & On TV: Livestream, Halftime Show, More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ana Navarro slams Univision for Donald Trump interview - Entertainment Weekly News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZXcuY29tL2FuYS1uYXZhcnJvLXNsYW1zLWRvbmFsZC10cnVtcC1pbnRlcnZpZXctdW5pdmlzaW9uLTg0MDQ3OTHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vZXcuY29tL2FuYS1uYXZhcnJvLXNsYW1zLWRvbmFsZC10cnVtcC1pbnRlcnZpZXctdW5pdmlzaW9uLTg0MDQ3OTHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZXcuY29tL2FuYS1uYXZhcnJvLXNsYW1zLWRvbmFsZC10cnVtcC1pbnRlcnZpZXctdW5pdmlzaW9uLTg0MDQ3OTHSAQA?oc=5\" target=\"_blank\">Ana Navarro slams Univision for Donald Trump interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Entertainment Weekly News</font>"
+            ],
+            "source": [
+              {
+                "_": "Entertainment Weekly News",
+                "$": {
+                  "url": "https://ew.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Donald Trump's Latino Campaign Begins - The New Yorker"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5ld3lvcmtlci5jb20vbmV3cy9kYWlseS1jb21tZW50L2RvbmFsZC10cnVtcHMtbGF0aW5vLWNhbXBhaWduLWJlZ2luc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3Lm5ld3lvcmtlci5jb20vbmV3cy9kYWlseS1jb21tZW50L2RvbmFsZC10cnVtcHMtbGF0aW5vLWNhbXBhaWduLWJlZ2luc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5ld3lvcmtlci5jb20vbmV3cy9kYWlseS1jb21tZW50L2RvbmFsZC10cnVtcHMtbGF0aW5vLWNhbXBhaWduLWJlZ2luc9IBAA?oc=5\" target=\"_blank\">Donald Trump's Latino Campaign Begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Yorker</font>"
+            ],
+            "source": [
+              {
+                "_": "The New Yorker",
+                "$": {
+                  "url": "https://www.newyorker.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Right-wing media fumes over Univision anchor’s debate questions - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOS8yOC9tZWRpYS91bml2aXNpb24tYW5jaG9yLWRlYmF0ZS1xdWVzdGlvbnMtcmVsaWFibGUtc291cmNlcy9pbmRleC5odG1s0gFmaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wOS8yOC9tZWRpYS91bml2aXNpb24tYW5jaG9yLWRlYmF0ZS1xdWVzdGlvbnMtcmVsaWFibGUtc291cmNlcy9pbmRleC5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOS8yOC9tZWRpYS91bml2aXNpb24tYW5jaG9yLWRlYmF0ZS1xdWVzdGlvbnMtcmVsaWFibGUtc291cmNlcy9pbmRleC5odG1s0gFmaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wOS8yOC9tZWRpYS91bml2aXNpb24tYW5jaG9yLWRlYmF0ZS1xdWVzdGlvbnMtcmVsaWFibGUtc291cmNlcy9pbmRleC5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOS8yOC9tZWRpYS91bml2aXNpb24tYW5jaG9yLWRlYmF0ZS1xdWVzdGlvbnMtcmVsaWFibGUtc291cmNlcy9pbmRleC5odG1s0gFmaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wOS8yOC9tZWRpYS91bml2aXNpb24tYW5jaG9yLWRlYmF0ZS1xdWVzdGlvbnMtcmVsaWFibGUtc291cmNlcy9pbmRleC5odG1s?oc=5\" target=\"_blank\">Right-wing media fumes over Univision anchor’s debate questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Congressional Hispanic Caucus Asks to Meet With TelevisaUnivision CEO Amid Trump Interview Backlash - Hollywood Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy9jb25ncmVzc2lvbmFsLWhpc3BhbmljLWNhdWN1cy1hc2tzLW1lZXRpbmctdW5pdmlzaW9uLWNlby1iYWNrbGFzaC10cnVtcC1pbnRlcnZpZXctMTIzNTY2NjE4NC_SAZoBaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL2J1c2luZXNzL2J1c2luZXNzLW5ld3MvY29uZ3Jlc3Npb25hbC1oaXNwYW5pYy1jYXVjdXMtYXNrcy1tZWV0aW5nLXVuaXZpc2lvbi1jZW8tYmFja2xhc2gtdHJ1bXAtaW50ZXJ2aWV3LTEyMzU2NjYxODQvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilgFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy9jb25ncmVzc2lvbmFsLWhpc3BhbmljLWNhdWN1cy1hc2tzLW1lZXRpbmctdW5pdmlzaW9uLWNlby1iYWNrbGFzaC10cnVtcC1pbnRlcnZpZXctMTIzNTY2NjE4NC_SAZoBaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL2J1c2luZXNzL2J1c2luZXNzLW5ld3MvY29uZ3Jlc3Npb25hbC1oaXNwYW5pYy1jYXVjdXMtYXNrcy1tZWV0aW5nLXVuaXZpc2lvbi1jZW8tYmFja2xhc2gtdHJ1bXAtaW50ZXJ2aWV3LTEyMzU2NjYxODQvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy9jb25ncmVzc2lvbmFsLWhpc3BhbmljLWNhdWN1cy1hc2tzLW1lZXRpbmctdW5pdmlzaW9uLWNlby1iYWNrbGFzaC10cnVtcC1pbnRlcnZpZXctMTIzNTY2NjE4NC_SAZoBaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL2J1c2luZXNzL2J1c2luZXNzLW5ld3MvY29uZ3Jlc3Npb25hbC1oaXNwYW5pYy1jYXVjdXMtYXNrcy1tZWV0aW5nLXVuaXZpc2lvbi1jZW8tYmFja2xhc2gtdHJ1bXAtaW50ZXJ2aWV3LTEyMzU2NjYxODQvYW1wLw?oc=5\" target=\"_blank\">Congressional Hispanic Caucus Asks to Meet With TelevisaUnivision CEO Amid Trump Interview Backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hollywood Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Hollywood Reporter",
+                "$": {
+                  "url": "https://www.hollywoodreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision, the Spanish-language news giant, shifts its approach to Trump - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzE0L3RydW1wLXVuaXZpc2lvbi1iaWRlbi1lbGVjdGlvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzE0L3RydW1wLXVuaXZpc2lvbi1iaWRlbi1lbGVjdGlvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzE0L3RydW1wLXVuaXZpc2lvbi1iaWRlbi1lbGVjdGlvbi_SAQA?oc=5\" target=\"_blank\">Univision, the Spanish-language news giant, shifts its approach to Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Backlash on Univision for interview with Trump - Eight, Arizona PBS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYXpwYnMub3JnL2hvcml6b24vMjAyMy8xMS9iYWNrbGFzaC1vbi11bml2aXNpb24taW50ZXJ2aWV3aW5nLXRydW1wL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vYXpwYnMub3JnL2hvcml6b24vMjAyMy8xMS9iYWNrbGFzaC1vbi11bml2aXNpb24taW50ZXJ2aWV3aW5nLXRydW1wL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYXpwYnMub3JnL2hvcml6b24vMjAyMy8xMS9iYWNrbGFzaC1vbi11bml2aXNpb24taW50ZXJ2aWV3aW5nLXRydW1wL9IBAA?oc=5\" target=\"_blank\">Backlash on Univision for interview with Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eight, Arizona PBS</font>"
+            ],
+            "source": [
+              {
+                "_": "Eight, Arizona PBS",
+                "$": {
+                  "url": "https://azpbs.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Brian Lin On The Unique Ways Univision Uses Streaming To Reach Hispanic Audiences - TVRev"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnR2cmV2LmNvbS9uZXdzL2JyaWFuLWxpbi1vbi10aGUtdW5pcXVlLXdheXMtdW5pdmlzaW9uLXVzZXMtc3RyZWFtaW5nLXRvLXJlYWNoLWhpc3BhbmljLWF1ZGllbmNlc9IBd2h0dHBzOi8vd3d3LnR2cmV2LmNvbS9uZXdzL2JyaWFuLWxpbi1vbi10aGUtdW5pcXVlLXdheXMtdW5pdmlzaW9uLXVzZXMtc3RyZWFtaW5nLXRvLXJlYWNoLWhpc3BhbmljLWF1ZGllbmNlcz9mb3JtYXQ9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LnR2cmV2LmNvbS9uZXdzL2JyaWFuLWxpbi1vbi10aGUtdW5pcXVlLXdheXMtdW5pdmlzaW9uLXVzZXMtc3RyZWFtaW5nLXRvLXJlYWNoLWhpc3BhbmljLWF1ZGllbmNlc9IBd2h0dHBzOi8vd3d3LnR2cmV2LmNvbS9uZXdzL2JyaWFuLWxpbi1vbi10aGUtdW5pcXVlLXdheXMtdW5pdmlzaW9uLXVzZXMtc3RyZWFtaW5nLXRvLXJlYWNoLWhpc3BhbmljLWF1ZGllbmNlcz9mb3JtYXQ9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnR2cmV2LmNvbS9uZXdzL2JyaWFuLWxpbi1vbi10aGUtdW5pcXVlLXdheXMtdW5pdmlzaW9uLXVzZXMtc3RyZWFtaW5nLXRvLXJlYWNoLWhpc3BhbmljLWF1ZGllbmNlc9IBd2h0dHBzOi8vd3d3LnR2cmV2LmNvbS9uZXdzL2JyaWFuLWxpbi1vbi10aGUtdW5pcXVlLXdheXMtdW5pdmlzaW9uLXVzZXMtc3RyZWFtaW5nLXRvLXJlYWNoLWhpc3BhbmljLWF1ZGllbmNlcz9mb3JtYXQ9YW1w?oc=5\" target=\"_blank\">Brian Lin On The Unique Ways Univision Uses Streaming To Reach Hispanic Audiences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TVRev</font>"
+            ],
+            "source": [
+              {
+                "_": "TVRev",
+                "$": {
+                  "url": "https://www.tvrev.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision Interview Was Not Tough Enough On Donald Trump, Says Anchor Jorge Ramos - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdW5pdmlzaW9uLWludGVydmlldy1ub3QtdG91Z2gtZW5vdWdoLW9uLWRvbmFsZC10cnVtcC1zYXlzLWFuY2hvci1qb3JnZS1yYW1vcy0xMjM1NjM3ODUzL9IBeWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdW5pdmlzaW9uLWludGVydmlldy1ub3QtdG91Z2gtZW5vdWdoLW9uLWRvbmFsZC10cnVtcC1zYXlzLWFuY2hvci1qb3JnZS1yYW1vcy0xMjM1NjM3ODUzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdW5pdmlzaW9uLWludGVydmlldy1ub3QtdG91Z2gtZW5vdWdoLW9uLWRvbmFsZC10cnVtcC1zYXlzLWFuY2hvci1qb3JnZS1yYW1vcy0xMjM1NjM3ODUzL9IBeWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdW5pdmlzaW9uLWludGVydmlldy1ub3QtdG91Z2gtZW5vdWdoLW9uLWRvbmFsZC10cnVtcC1zYXlzLWFuY2hvci1qb3JnZS1yYW1vcy0xMjM1NjM3ODUzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 26 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdW5pdmlzaW9uLWludGVydmlldy1ub3QtdG91Z2gtZW5vdWdoLW9uLWRvbmFsZC10cnVtcC1zYXlzLWFuY2hvci1qb3JnZS1yYW1vcy0xMjM1NjM3ODUzL9IBeWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdW5pdmlzaW9uLWludGVydmlldy1ub3QtdG91Z2gtZW5vdWdoLW9uLWRvbmFsZC10cnVtcC1zYXlzLWFuY2hvci1qb3JnZS1yYW1vcy0xMjM1NjM3ODUzL2FtcC8?oc=5\" target=\"_blank\">Univision Interview Was Not Tough Enough On Donald Trump, Says Anchor Jorge Ramos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision Anchor Leon Krauze Exits in Wake of Network’s Controversial Trump Interview - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL2xlb24ta3JhdXplLXVuaXZpc2lvbi1hbmNob3ItZXhpdC1kb25hbGQtdHJ1bXAtaW50ZXJ2aWV3LTEyMzU3OTE5ODcv0gFpaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL3R2L25ld3MvbGVvbi1rcmF1emUtdW5pdmlzaW9uLWFuY2hvci1leGl0LWRvbmFsZC10cnVtcC1pbnRlcnZpZXctMTIzNTc5MTk4Ny9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL2xlb24ta3JhdXplLXVuaXZpc2lvbi1hbmNob3ItZXhpdC1kb25hbGQtdHJ1bXAtaW50ZXJ2aWV3LTEyMzU3OTE5ODcv0gFpaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL3R2L25ld3MvbGVvbi1rcmF1emUtdW5pdmlzaW9uLWFuY2hvci1leGl0LWRvbmFsZC10cnVtcC1pbnRlcnZpZXctMTIzNTc5MTk4Ny9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL2xlb24ta3JhdXplLXVuaXZpc2lvbi1hbmNob3ItZXhpdC1kb25hbGQtdHJ1bXAtaW50ZXJ2aWV3LTEyMzU3OTE5ODcv0gFpaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL3R2L25ld3MvbGVvbi1rcmF1emUtdW5pdmlzaW9uLWFuY2hvci1leGl0LWRvbmFsZC10cnVtcC1pbnRlcnZpZXctMTIzNTc5MTk4Ny9hbXAv?oc=5\" target=\"_blank\">Univision Anchor Leon Krauze Exits in Wake of Network’s Controversial Trump Interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "TelevisaUnivision CEO Defends Trump Interview Despite Backlash - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLWNlby13YWRlLWRhdmlzLWRlZmVuZHMtdHJ1bXAtaW50ZXJ2aWV3LTEyMzU4MDQ4NTIv0gFpaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL3R2L25ld3MvdGVsZXZpc2F1bml2aXNpb24tY2VvLXdhZGUtZGF2aXMtZGVmZW5kcy10cnVtcC1pbnRlcnZpZXctMTIzNTgwNDg1Mi9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLWNlby13YWRlLWRhdmlzLWRlZmVuZHMtdHJ1bXAtaW50ZXJ2aWV3LTEyMzU4MDQ4NTIv0gFpaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL3R2L25ld3MvdGVsZXZpc2F1bml2aXNpb24tY2VvLXdhZGUtZGF2aXMtZGVmZW5kcy10cnVtcC1pbnRlcnZpZXctMTIzNTgwNDg1Mi9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLWNlby13YWRlLWRhdmlzLWRlZmVuZHMtdHJ1bXAtaW50ZXJ2aWV3LTEyMzU4MDQ4NTIv0gFpaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL3R2L25ld3MvdGVsZXZpc2F1bml2aXNpb24tY2VvLXdhZGUtZGF2aXMtZGVmZW5kcy10cnVtcC1pbnRlcnZpZXctMTIzNTgwNDg1Mi9hbXAv?oc=5\" target=\"_blank\">TelevisaUnivision CEO Defends Trump Interview Despite Backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision CEO Defends Trump Interview After Backlash, Says Network Is 'Not a Tool of Any Party' - TheWrap"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3VuaXZpc2lvbi1jZW8td2FkZS1kYXZpcy1kZWZlbmRzLXRydW1wLWludGVydmlldy1zdGFmZi1tZW1vL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3VuaXZpc2lvbi1jZW8td2FkZS1kYXZpcy1kZWZlbmRzLXRydW1wLWludGVydmlldy1zdGFmZi1tZW1vL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3VuaXZpc2lvbi1jZW8td2FkZS1kYXZpcy1kZWZlbmRzLXRydW1wLWludGVydmlldy1zdGFmZi1tZW1vL9IBAA?oc=5\" target=\"_blank\">Univision CEO Defends Trump Interview After Backlash, Says Network Is 'Not a Tool of Any Party'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWrap</font>"
+            ],
+            "source": [
+              {
+                "_": "TheWrap",
+                "$": {
+                  "url": "https://www.thewrap.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gustavo Cisneros Dies: Venezuelan Media Giant & Univision Co-Founder Was 78 - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDEvZ3VzdGF2by1jaXNuZXJvcy1kZWFkLXVuaXZpc2lvbi1jby1mb3VuZGVyLXZlbmV6dWVsYW4tYnVzaW5lc3NtYW4tMTIzNTY5MzcwMi_SAW5odHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzAxL2d1c3Rhdm8tY2lzbmVyb3MtZGVhZC11bml2aXNpb24tY28tZm91bmRlci12ZW5lenVlbGFuLWJ1c2luZXNzbWFuLTEyMzU2OTM3MDIvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDEvZ3VzdGF2by1jaXNuZXJvcy1kZWFkLXVuaXZpc2lvbi1jby1mb3VuZGVyLXZlbmV6dWVsYW4tYnVzaW5lc3NtYW4tMTIzNTY5MzcwMi_SAW5odHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzAxL2d1c3Rhdm8tY2lzbmVyb3MtZGVhZC11bml2aXNpb24tY28tZm91bmRlci12ZW5lenVlbGFuLWJ1c2luZXNzbWFuLTEyMzU2OTM3MDIvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDEvZ3VzdGF2by1jaXNuZXJvcy1kZWFkLXVuaXZpc2lvbi1jby1mb3VuZGVyLXZlbmV6dWVsYW4tYnVzaW5lc3NtYW4tMTIzNTY5MzcwMi_SAW5odHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzAxL2d1c3Rhdm8tY2lzbmVyb3MtZGVhZC11bml2aXNpb24tY28tZm91bmRlci12ZW5lenVlbGFuLWJ1c2luZXNzbWFuLTEyMzU2OTM3MDIvYW1wLw?oc=5\" target=\"_blank\">Gustavo Cisneros Dies: Venezuelan Media Giant & Univision Co-Founder Was 78</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sinclair nixes Univision affiliation, ending local Spanish broadcasts - The Seattle Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL3NpbmNsYWlyLW5peGVzLXVuaXZpc2lvbi1hZmZpbGlhdGlvbi1lbmRpbmctbG9jYWwtc3BhbmlzaC1icm9hZGNhc3RzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL3NpbmNsYWlyLW5peGVzLXVuaXZpc2lvbi1hZmZpbGlhdGlvbi1lbmRpbmctbG9jYWwtc3BhbmlzaC1icm9hZGNhc3RzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL3NpbmNsYWlyLW5peGVzLXVuaXZpc2lvbi1hZmZpbGlhdGlvbi1lbmRpbmctbG9jYWwtc3BhbmlzaC1icm9hZGNhc3RzL9IBAA?oc=5\" target=\"_blank\">Sinclair nixes Univision affiliation, ending local Spanish broadcasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Seattle Times",
+                "$": {
+                  "url": "https://www.seattletimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision CEO Tells Staff We’re “Not a Tool of Any Party” Amid Trump Interview Backlash - Hollywood Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9idXNpbmVzcy9idXNpbmVzcy1uZXdzL3VuaXZpc2lvbi1jZW8tdHJ1bXAtaW50ZXJ2aWV3LW1lbW8tMTIzNTY2OTY1MC_SAWtodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy91bml2aXNpb24tY2VvLXRydW1wLWludGVydmlldy1tZW1vLTEyMzU2Njk2NTAvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9idXNpbmVzcy9idXNpbmVzcy1uZXdzL3VuaXZpc2lvbi1jZW8tdHJ1bXAtaW50ZXJ2aWV3LW1lbW8tMTIzNTY2OTY1MC_SAWtodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy91bml2aXNpb24tY2VvLXRydW1wLWludGVydmlldy1tZW1vLTEyMzU2Njk2NTAvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9idXNpbmVzcy9idXNpbmVzcy1uZXdzL3VuaXZpc2lvbi1jZW8tdHJ1bXAtaW50ZXJ2aWV3LW1lbW8tMTIzNTY2OTY1MC_SAWtodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy91bml2aXNpb24tY2VvLXRydW1wLWludGVydmlldy1tZW1vLTEyMzU2Njk2NTAvYW1wLw?oc=5\" target=\"_blank\">Univision CEO Tells Staff We’re “Not a Tool of Any Party” Amid Trump Interview Backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hollywood Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Hollywood Reporter",
+                "$": {
+                  "url": "https://www.hollywoodreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision Top Anchor Departs Amid Reports Of Media Outlet’s Shift Toward Donald Trump - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdW5pdmlzaW9uLWFuY2hvci1sZW9uLWtyYXV6ZS1kb25hbGQtdHJ1bXAtMTIzNTYxMzA2Ny_SAVZodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzExL3VuaXZpc2lvbi1hbmNob3ItbGVvbi1rcmF1emUtZG9uYWxkLXRydW1wLTEyMzU2MTMwNjcvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdW5pdmlzaW9uLWFuY2hvci1sZW9uLWtyYXV6ZS1kb25hbGQtdHJ1bXAtMTIzNTYxMzA2Ny_SAVZodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzExL3VuaXZpc2lvbi1hbmNob3ItbGVvbi1rcmF1emUtZG9uYWxkLXRydW1wLTEyMzU2MTMwNjcvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdW5pdmlzaW9uLWFuY2hvci1sZW9uLWtyYXV6ZS1kb25hbGQtdHJ1bXAtMTIzNTYxMzA2Ny_SAVZodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzExL3VuaXZpc2lvbi1hbmNob3ItbGVvbi1rcmF1emUtZG9uYWxkLXRydW1wLTEyMzU2MTMwNjcvYW1wLw?oc=5\" target=\"_blank\">Univision Top Anchor Departs Amid Reports Of Media Outlet’s Shift Toward Donald Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Latino backlash grows over Donald Trump's friendly Univision interview - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzE3L3RydW1wLWxhdGluby11bml2aXNpb24tYmFja2xhc2gv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzE3L3RydW1wLWxhdGluby11bml2aXNpb24tYmFja2xhc2gv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzE3L3RydW1wLWxhdGluby11bml2aXNpb24tYmFja2xhc2gv0gEA?oc=5\" target=\"_blank\">Latino backlash grows over Donald Trump's friendly Univision interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former Univision president calls network's \"propaganda\" Trump interview an \"insult\" to Hispanics - Salon"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDIzLzExLzIxL2Zvcm1lci11bml2aXNpb24tY2FsbHMtbmV0d29ya3MtcHJvcGFnYW5kYS1pbnRlcnZpZXctYW4taW5zdWx0LXRvLWhpc3Bhbmljcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDIzLzExLzIxL2Zvcm1lci11bml2aXNpb24tY2FsbHMtbmV0d29ya3MtcHJvcGFnYW5kYS1pbnRlcnZpZXctYW4taW5zdWx0LXRvLWhpc3Bhbmljcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDIzLzExLzIxL2Zvcm1lci11bml2aXNpb24tY2FsbHMtbmV0d29ya3MtcHJvcGFnYW5kYS1pbnRlcnZpZXctYW4taW5zdWx0LXRvLWhpc3Bhbmljcy_SAQA?oc=5\" target=\"_blank\">Former Univision president calls network's \"propaganda\" Trump interview an \"insult\" to Hispanics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salon</font>"
+            ],
+            "source": [
+              {
+                "_": "Salon",
+                "$": {
+                  "url": "https://www.salon.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision anchor Jorge Ramos rebukes network for not challenging Trump - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzI1L3VuaXZpc2lvbi10cnVtcC1qb3JnZS1yYW1vcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzI1L3VuaXZpc2lvbi10cnVtcC1qb3JnZS1yYW1vcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 25 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzI1L3VuaXZpc2lvbi10cnVtcC1qb3JnZS1yYW1vcy_SAQA?oc=5\" target=\"_blank\">Univision anchor Jorge Ramos rebukes network for not challenging Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision anchor joins condemnation of channel's friendly Trump interview - The Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3MvdW5pdmlzaW9uLWpvcmdlLXJhbW9zLXRydW1wLWludGVydmlldy1iMjQ1NDQ4Ny5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3MvdW5pdmlzaW9uLWpvcmdlLXJhbW9zLXRydW1wLWludGVydmlldy1iMjQ1NDQ4Ny5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3MvdW5pdmlzaW9uLWpvcmdlLXJhbW9zLXRydW1wLWludGVydmlldy1iMjQ1NDQ4Ny5odG1s0gEA?oc=5\" target=\"_blank\">Univision anchor joins condemnation of channel's friendly Trump interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "The Independent",
+                "$": {
+                  "url": "https://www.independent.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Kushner Connection - Puck"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vcHVjay5uZXdzL3RoZS1rdXNobmVyLWNvbm5lY3Rpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiKWh0dHBzOi8vcHVjay5uZXdzL3RoZS1rdXNobmVyLWNvbm5lY3Rpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vcHVjay5uZXdzL3RoZS1rdXNobmVyLWNvbm5lY3Rpb24v0gEA?oc=5\" target=\"_blank\">The Kushner Connection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Puck</font>"
+            ],
+            "source": [
+              {
+                "_": "Puck",
+                "$": {
+                  "url": "https://puck.news"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | Enrique Acevedo: Why my Televisa-Univision interview with Trump was so ‘friendly’ - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDIzLzEyLzEzL3RydW1wLXRlbGV2aXNhLXVuaXZpc2lvbi1pbnRlcnZpZXcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDIzLzEyLzEzL3RydW1wLXRlbGV2aXNhLXVuaXZpc2lvbi1pbnRlcnZpZXcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDIzLzEyLzEzL3RydW1wLXRlbGV2aXNhLXVuaXZpc2lvbi1pbnRlcnZpZXcv0gEA?oc=5\" target=\"_blank\">Opinion | Enrique Acevedo: Why my Televisa-Univision interview with Trump was so ‘friendly’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ex-Univision boss slams network's Trump interview as 'propaganda' - The Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3MvdW5pdmlzaW9uLWRvbmFsZC10cnVtcC1pbnRlcnZpZXctcHJvcGFnYW5kYS1iMjQ1MTIwMC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3MvdW5pdmlzaW9uLWRvbmFsZC10cnVtcC1pbnRlcnZpZXctcHJvcGFnYW5kYS1iMjQ1MTIwMC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3MvdW5pdmlzaW9uLWRvbmFsZC10cnVtcC1pbnRlcnZpZXctcHJvcGFnYW5kYS1iMjQ1MTIwMC5odG1s0gEA?oc=5\" target=\"_blank\">Ex-Univision boss slams network's Trump interview as 'propaganda'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "The Independent",
+                "$": {
+                  "url": "https://www.independent.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mexico's Televisa posts big Q2 miss on Univision JV drop, satellite disconnections - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9tZXhpY29zLXRlbGV2aXNhLXBvc3RzLWJpZy1xMi0wMTE1MjUwMTcuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9tZXhpY29zLXRlbGV2aXNhLXBvc3RzLWJpZy1xMi0wMTE1MjUwMTcuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 25 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9tZXhpY29zLXRlbGV2aXNhLXBvc3RzLWJpZy1xMi0wMTE1MjUwMTcuaHRtbNIBAA?oc=5\" target=\"_blank\">Mexico's Televisa posts big Q2 miss on Univision JV drop, satellite disconnections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hispanic conservatives defend Univision amid backlash over Trump interview - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzIwL3VuaXZpc2lvbi10cnVtcC1iYWNrbGFzaC1oaXNwYW5pYy1jb25zZXJ2YXRpdmVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzIwL3VuaXZpc2lvbi10cnVtcC1iYWNrbGFzaC1oaXNwYW5pYy1jb25zZXJ2YXRpdmVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzIwL3VuaXZpc2lvbi10cnVtcC1iYWNrbGFzaC1oaXNwYW5pYy1jb25zZXJ2YXRpdmVzL9IBAA?oc=5\" target=\"_blank\">Hispanic conservatives defend Univision amid backlash over Trump interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ex-Univision President Rips Network's Trump Interview - Yahoo Finance UK"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9leC11bml2aXNpb24tcHJlc2lkZW50LXJpcHMtbmV0d29yay0wNTQxNTQ2NDYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9leC11bml2aXNpb24tcHJlc2lkZW50LXJpcHMtbmV0d29yay0wNTQxNTQ2NDYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9leC11bml2aXNpb24tcHJlc2lkZW50LXJpcHMtbmV0d29yay0wNTQxNTQ2NDYuaHRtbNIBAA?oc=5\" target=\"_blank\">Ex-Univision President Rips Network's Trump Interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance UK",
+                "$": {
+                  "url": "https://uk.finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fox Business And Univision To Telecast Second GOP Debate; Donald Trump Continues To Tease Whether He Will Show To First Event - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDgvcmVwdWJsaWNhbi1kZWJhdGUtZm94LWJ1c2luZXNzLXVuaXZpc2lvbi1kb25hbGQtdHJ1bXAtMTIzNTQ1ODMxMi_SAWJodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzA4L3JlcHVibGljYW4tZGViYXRlLWZveC1idXNpbmVzcy11bml2aXNpb24tZG9uYWxkLXRydW1wLTEyMzU0NTgzMTIvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDgvcmVwdWJsaWNhbi1kZWJhdGUtZm94LWJ1c2luZXNzLXVuaXZpc2lvbi1kb25hbGQtdHJ1bXAtMTIzNTQ1ODMxMi_SAWJodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzA4L3JlcHVibGljYW4tZGViYXRlLWZveC1idXNpbmVzcy11bml2aXNpb24tZG9uYWxkLXRydW1wLTEyMzU0NTgzMTIvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDgvcmVwdWJsaWNhbi1kZWJhdGUtZm94LWJ1c2luZXNzLXVuaXZpc2lvbi1kb25hbGQtdHJ1bXAtMTIzNTQ1ODMxMi_SAWJodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzA4L3JlcHVibGljYW4tZGViYXRlLWZveC1idXNpbmVzcy11bml2aXNpb24tZG9uYWxkLXRydW1wLTEyMzU0NTgzMTIvYW1wLw?oc=5\" target=\"_blank\">Fox Business And Univision To Telecast Second GOP Debate; Donald Trump Continues To Tease Whether He Will Show To First Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trump says on Univision he could weaponize FBI, DOJ against his enemies - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzA5L3RydW1wLWludGVydmlldy11bml2aXNpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzA5L3RydW1wLWludGVydmlldy11bml2aXNpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIzLzExLzA5L3RydW1wLWludGVydmlldy11bml2aXNpb24v0gEA?oc=5\" target=\"_blank\">Trump says on Univision he could weaponize FBI, DOJ against his enemies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trump Univision interview: Key takeaways - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzExLzEwL3RydW1wLWp1c3RpY2UtZGVwYXJ0bWVudC13ZWFwb25pemVkLXVuaXZpc2lvbi1pbnRlcnZpZXfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzExLzEwL3RydW1wLWp1c3RpY2UtZGVwYXJ0bWVudC13ZWFwb25pemVkLXVuaXZpc2lvbi1pbnRlcnZpZXfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzExLzEwL3RydW1wLWp1c3RpY2UtZGVwYXJ0bWVudC13ZWFwb25pemVkLXVuaXZpc2lvbi1pbnRlcnZpZXfSAQA?oc=5\" target=\"_blank\">Trump Univision interview: Key takeaways</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Daily Show': John Leguizamo Calls Univision Trump Interview 'Caca' | Video - TheWrap"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2RhaWx5LXNob3ctam9obi1sZWd1aXphbW8tdW5pdmlzaW9uLXRydW1wLWludGVydmlldy1jYWNhLXZpZGVvL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2RhaWx5LXNob3ctam9obi1sZWd1aXphbW8tdW5pdmlzaW9uLXRydW1wLWludGVydmlldy1jYWNhLXZpZGVvL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2RhaWx5LXNob3ctam9obi1sZWd1aXphbW8tdW5pdmlzaW9uLXRydW1wLWludGVydmlldy1jYWNhLXZpZGVvL9IBAA?oc=5\" target=\"_blank\">'Daily Show': John Leguizamo Calls Univision Trump Interview 'Caca' | Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWrap</font>"
+            ],
+            "source": [
+              {
+                "_": "TheWrap",
+                "$": {
+                  "url": "https://www.thewrap.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision News Anchor Leon Krauze Exits Network Days After Controversial Trump Interview - Hollywood Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3VuaXZpc2lvbi1uZXdzLWFuY2hvci1sZW9uLWtyYXV6ZS1leGl0cy1uZXR3b3JrLTEyMzU2NDgyODIv0gFsaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL3R2L3R2LW5ld3MvdW5pdmlzaW9uLW5ld3MtYW5jaG9yLWxlb24ta3JhdXplLWV4aXRzLW5ldHdvcmstMTIzNTY0ODI4Mi9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3VuaXZpc2lvbi1uZXdzLWFuY2hvci1sZW9uLWtyYXV6ZS1leGl0cy1uZXR3b3JrLTEyMzU2NDgyODIv0gFsaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL3R2L3R2LW5ld3MvdW5pdmlzaW9uLW5ld3MtYW5jaG9yLWxlb24ta3JhdXplLWV4aXRzLW5ldHdvcmstMTIzNTY0ODI4Mi9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3VuaXZpc2lvbi1uZXdzLWFuY2hvci1sZW9uLWtyYXV6ZS1leGl0cy1uZXR3b3JrLTEyMzU2NDgyODIv0gFsaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL3R2L3R2LW5ld3MvdW5pdmlzaW9uLW5ld3MtYW5jaG9yLWxlb24ta3JhdXplLWV4aXRzLW5ldHdvcmstMTIzNTY0ODI4Mi9hbXAv?oc=5\" target=\"_blank\">Univision News Anchor Leon Krauze Exits Network Days After Controversial Trump Interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hollywood Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Hollywood Reporter",
+                "$": {
+                  "url": "https://www.hollywoodreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘The View’s Ana Navarro On Univision Cozying Up To Donald Trump: “What The Hell Is Going On?” - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdGhlLXZpZXctYW5hLW5hdmFycm8tdW5pdmlzaW9uLWRvbmFsZC10cnVtcC0xMjM1NjI3NTQxL9IBWGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdGhlLXZpZXctYW5hLW5hdmFycm8tdW5pdmlzaW9uLWRvbmFsZC10cnVtcC0xMjM1NjI3NTQxL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdGhlLXZpZXctYW5hLW5hdmFycm8tdW5pdmlzaW9uLWRvbmFsZC10cnVtcC0xMjM1NjI3NTQxL9IBWGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdGhlLXZpZXctYW5hLW5hdmFycm8tdW5pdmlzaW9uLWRvbmFsZC10cnVtcC0xMjM1NjI3NTQxL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdGhlLXZpZXctYW5hLW5hdmFycm8tdW5pdmlzaW9uLWRvbmFsZC10cnVtcC0xMjM1NjI3NTQxL9IBWGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvdGhlLXZpZXctYW5hLW5hdmFycm8tdW5pdmlzaW9uLWRvbmFsZC10cnVtcC0xMjM1NjI3NTQxL2FtcC8?oc=5\" target=\"_blank\">‘The View’s Ana Navarro On Univision Cozying Up To Donald Trump: “What The Hell Is Going On?”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision Trump Interview Is 'a Real Insult to the Hispanic Community' Says Former Network President - TheWrap"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3JhY2hlbC1tYWRkb3ctdW5pdmlzaW9uLWpvYXF1aW4tYmxheWEtbXNuYmMtdHJ1bXAtaW50ZXJ2aWV3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3JhY2hlbC1tYWRkb3ctdW5pdmlzaW9uLWpvYXF1aW4tYmxheWEtbXNuYmMtdHJ1bXAtaW50ZXJ2aWV3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3JhY2hlbC1tYWRkb3ctdW5pdmlzaW9uLWpvYXF1aW4tYmxheWEtbXNuYmMtdHJ1bXAtaW50ZXJ2aWV3L9IBAA?oc=5\" target=\"_blank\">Univision Trump Interview Is 'a Real Insult to the Hispanic Community' Says Former Network President</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWrap</font>"
+            ],
+            "source": [
+              {
+                "_": "TheWrap",
+                "$": {
+                  "url": "https://www.thewrap.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision awards Tu Futuro scholarship to two incoming Mavericks - uta.edu"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnV0YS5lZHUvbmV3cy9uZXdzLXJlbGVhc2VzLzIwMjMvMDMvMzAvdW5pdmlzaW9uLWF3YXJkcy10dS1mdXR1cm8tc2Nob2xhcnNoaXAtdG8tdHdvLWluY29taW5nLW1hdmVyaWNrc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LnV0YS5lZHUvbmV3cy9uZXdzLXJlbGVhc2VzLzIwMjMvMDMvMzAvdW5pdmlzaW9uLWF3YXJkcy10dS1mdXR1cm8tc2Nob2xhcnNoaXAtdG8tdHdvLWluY29taW5nLW1hdmVyaWNrc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnV0YS5lZHUvbmV3cy9uZXdzLXJlbGVhc2VzLzIwMjMvMDMvMzAvdW5pdmlzaW9uLWF3YXJkcy10dS1mdXR1cm8tc2Nob2xhcnNoaXAtdG8tdHdvLWluY29taW5nLW1hdmVyaWNrc9IBAA?oc=5\" target=\"_blank\">Univision awards Tu Futuro scholarship to two incoming Mavericks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uta.edu</font>"
+            ],
+            "source": [
+              {
+                "_": "uta.edu",
+                "$": {
+                  "url": "https://www.uta.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Outrage against Univision grows after Trump interview | World/Nation | gwinnettdailypost.com - Gwinnettdailypost.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5nd2lubmV0dGRhaWx5cG9zdC5jb20vbmV3cy93b3JsZF9uYXRpb24vb3V0cmFnZS1hZ2FpbnN0LXVuaXZpc2lvbi1ncm93cy1hZnRlci10cnVtcC1pbnRlcnZpZXcvYXJ0aWNsZV9jYmI4ODRiMi0zOTk3LTUxZWYtOGQwNS1jNjUwZGEwZTJmODQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimwFodHRwczovL3d3dy5nd2lubmV0dGRhaWx5cG9zdC5jb20vbmV3cy93b3JsZF9uYXRpb24vb3V0cmFnZS1hZ2FpbnN0LXVuaXZpc2lvbi1ncm93cy1hZnRlci10cnVtcC1pbnRlcnZpZXcvYXJ0aWNsZV9jYmI4ODRiMi0zOTk3LTUxZWYtOGQwNS1jNjUwZGEwZTJmODQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5nd2lubmV0dGRhaWx5cG9zdC5jb20vbmV3cy93b3JsZF9uYXRpb24vb3V0cmFnZS1hZ2FpbnN0LXVuaXZpc2lvbi1ncm93cy1hZnRlci10cnVtcC1pbnRlcnZpZXcvYXJ0aWNsZV9jYmI4ODRiMi0zOTk3LTUxZWYtOGQwNS1jNjUwZGEwZTJmODQuaHRtbNIBAA?oc=5\" target=\"_blank\">Outrage against Univision grows after Trump interview | World/Nation | gwinnettdailypost.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gwinnettdailypost.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Gwinnettdailypost.com",
+                "$": {
+                  "url": "https://www.gwinnettdailypost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "TelevisaUnivision Reinforces Its Position as Home of Hispanic America, Spotlighting Massive Reach, Culture-Driving ... - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMi8QFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMDUxNTAwNTg1OS9lbi9UZWxldmlzYVVuaXZpc2lvbi1SZWluZm9yY2VzLUl0cy1Qb3NpdGlvbi1hcy1Ib21lLW9mLUhpc3BhbmljLUFtZXJpY2EtU3BvdGxpZ2h0aW5nLU1hc3NpdmUtUmVhY2gtQ3VsdHVyZS1Ecml2aW5nLUNvbnRlbnQtYW5kLU1hcmtldC1MZWFkaW5nLUNhcGFiaWxpdGllcy1hdC0yMDIzLTI0LVVwZnJvbnQtUHJlc2VudGF0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMi8QFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMDUxNTAwNTg1OS9lbi9UZWxldmlzYVVuaXZpc2lvbi1SZWluZm9yY2VzLUl0cy1Qb3NpdGlvbi1hcy1Ib21lLW9mLUhpc3BhbmljLUFtZXJpY2EtU3BvdGxpZ2h0aW5nLU1hc3NpdmUtUmVhY2gtQ3VsdHVyZS1Ecml2aW5nLUNvbnRlbnQtYW5kLU1hcmtldC1MZWFkaW5nLUNhcGFiaWxpdGllcy1hdC0yMDIzLTI0LVVwZnJvbnQtUHJlc2VudGF0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMi8QFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMDUxNTAwNTg1OS9lbi9UZWxldmlzYVVuaXZpc2lvbi1SZWluZm9yY2VzLUl0cy1Qb3NpdGlvbi1hcy1Ib21lLW9mLUhpc3BhbmljLUFtZXJpY2EtU3BvdGxpZ2h0aW5nLU1hc3NpdmUtUmVhY2gtQ3VsdHVyZS1Ecml2aW5nLUNvbnRlbnQtYW5kLU1hcmtldC1MZWFkaW5nLUNhcGFiaWxpdGllcy1hdC0yMDIzLTI0LVVwZnJvbnQtUHJlc2VudGF0aW9u0gEA?oc=5\" target=\"_blank\">TelevisaUnivision Reinforces Its Position as Home of Hispanic America, Spotlighting Massive Reach, Culture-Driving ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision’s Dancing Competition ‘Mira Quien Baila’ Airs First-Ever Dance Between Two Men - GLAAD"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vZ2xhYWQub3JnL3VuaXZpc2lvbnMtZGFuY2luZy1jb21wZXRpdGlvbi1taXJhLXF1aWVuLWJhaWxhLWFpcnMtZmlyc3QtZXZlci1kYW5jZS1iZXR3ZWVuLXR3by1tZW4v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vZ2xhYWQub3JnL3VuaXZpc2lvbnMtZGFuY2luZy1jb21wZXRpdGlvbi1taXJhLXF1aWVuLWJhaWxhLWFpcnMtZmlyc3QtZXZlci1kYW5jZS1iZXR3ZWVuLXR3by1tZW4v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vZ2xhYWQub3JnL3VuaXZpc2lvbnMtZGFuY2luZy1jb21wZXRpdGlvbi1taXJhLXF1aWVuLWJhaWxhLWFpcnMtZmlyc3QtZXZlci1kYW5jZS1iZXR3ZWVuLXR3by1tZW4v0gEA?oc=5\" target=\"_blank\">Univision’s Dancing Competition ‘Mira Quien Baila’ Airs First-Ever Dance Between Two Men</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GLAAD</font>"
+            ],
+            "source": [
+              {
+                "_": "GLAAD",
+                "$": {
+                  "url": "https://glaad.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision anchor questions network’s ‘independence’ after Trump interview - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvbWVkaWEvNDMyNzI0NS11bml2aXNpb24tYW5jaG9yLXF1ZXN0aW9ucy1uZXR3b3Jrcy10cnVtcC1pbnRlcnZpZXcv0gFjaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9tZWRpYS80MzI3MjQ1LXVuaXZpc2lvbi1hbmNob3ItcXVlc3Rpb25zLW5ldHdvcmtzLXRydW1wLWludGVydmlldy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvbWVkaWEvNDMyNzI0NS11bml2aXNpb24tYW5jaG9yLXF1ZXN0aW9ucy1uZXR3b3Jrcy10cnVtcC1pbnRlcnZpZXcv0gFjaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9tZWRpYS80MzI3MjQ1LXVuaXZpc2lvbi1hbmNob3ItcXVlc3Rpb25zLW5ldHdvcmtzLXRydW1wLWludGVydmlldy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 25 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvbWVkaWEvNDMyNzI0NS11bml2aXNpb24tYW5jaG9yLXF1ZXN0aW9ucy1uZXR3b3Jrcy10cnVtcC1pbnRlcnZpZXcv0gFjaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9tZWRpYS80MzI3MjQ1LXVuaXZpc2lvbi1hbmNob3ItcXVlc3Rpb25zLW5ldHdvcmtzLXRydW1wLWludGVydmlldy9hbXAv?oc=5\" target=\"_blank\">Univision anchor questions network’s ‘independence’ after Trump interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision in 'self-inflicted state of disarray' over a month after Trump interview sparked backlash from left - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1zZWxmLWluZmxpY3RlZC1zdGF0ZS1kaXNhcnJheS1tb250aC10cnVtcC1pbnRlcnZpZXctc3BhcmtlZC1iYWNrbGFzaC1sZWZ00gF1aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvdW5pdmlzaW9uLXNlbGYtaW5mbGljdGVkLXN0YXRlLWRpc2FycmF5LW1vbnRoLXRydW1wLWludGVydmlldy1zcGFya2VkLWJhY2tsYXNoLWxlZnQuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1zZWxmLWluZmxpY3RlZC1zdGF0ZS1kaXNhcnJheS1tb250aC10cnVtcC1pbnRlcnZpZXctc3BhcmtlZC1iYWNrbGFzaC1sZWZ00gF1aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvdW5pdmlzaW9uLXNlbGYtaW5mbGljdGVkLXN0YXRlLWRpc2FycmF5LW1vbnRoLXRydW1wLWludGVydmlldy1zcGFya2VkLWJhY2tsYXNoLWxlZnQuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1zZWxmLWluZmxpY3RlZC1zdGF0ZS1kaXNhcnJheS1tb250aC10cnVtcC1pbnRlcnZpZXctc3BhcmtlZC1iYWNrbGFzaC1sZWZ00gF1aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvdW5pdmlzaW9uLXNlbGYtaW5mbGljdGVkLXN0YXRlLWRpc2FycmF5LW1vbnRoLXRydW1wLWludGVydmlldy1zcGFya2VkLWJhY2tsYXNoLWxlZnQuYW1w?oc=5\" target=\"_blank\">Univision in 'self-inflicted state of disarray' over a month after Trump interview sparked backlash from left</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Weird:' Elon Musk Reacts As Univision Stakes Copyright Claim On Tesla's Gen 2 Optimus Video On YouTube - Tesla ... - Benzinga"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5iZW56aW5nYS5jb20vbmV3cy8yMy8xMi8zNjI1NjA5NS93ZWlyZC1lbG9uLW11c2stcmVhY3RzLWFzLXVuaXZpc2lvbi1zdGFrZXMtY29weXJpZ2h0LWNsYWltLW9uLXRlc2xhcy1nZW4tMi1vcHRpbXVzLXZpZGVvLW9uLXlvdXR1YmXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL3d3dy5iZW56aW5nYS5jb20vbmV3cy8yMy8xMi8zNjI1NjA5NS93ZWlyZC1lbG9uLW11c2stcmVhY3RzLWFzLXVuaXZpc2lvbi1zdGFrZXMtY29weXJpZ2h0LWNsYWltLW9uLXRlc2xhcy1nZW4tMi1vcHRpbXVzLXZpZGVvLW9uLXlvdXR1YmXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5iZW56aW5nYS5jb20vbmV3cy8yMy8xMi8zNjI1NjA5NS93ZWlyZC1lbG9uLW11c2stcmVhY3RzLWFzLXVuaXZpc2lvbi1zdGFrZXMtY29weXJpZ2h0LWNsYWltLW9uLXRlc2xhcy1nZW4tMi1vcHRpbXVzLXZpZGVvLW9uLXlvdXR1YmXSAQA?oc=5\" target=\"_blank\">'Weird:' Elon Musk Reacts As Univision Stakes Copyright Claim On Tesla's Gen 2 Optimus Video On YouTube - Tesla ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>"
+            ],
+            "source": [
+              {
+                "_": "Benzinga",
+                "$": {
+                  "url": "https://www.benzinga.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision Anchor Jorge Ramos Says Trump Interview “Put in Doubt the Independence of Our News Department” - Hollywood Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2pvcmdlLXJhbW9zLWNyaXRpY2l6ZXMtdHJ1bXAtdW5pdmlzaW9uLWludGVydmlldy0xMjM1Njc5MzY0L9IBbWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2pvcmdlLXJhbW9zLWNyaXRpY2l6ZXMtdHJ1bXAtdW5pdmlzaW9uLWludGVydmlldy0xMjM1Njc5MzY0L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2pvcmdlLXJhbW9zLWNyaXRpY2l6ZXMtdHJ1bXAtdW5pdmlzaW9uLWludGVydmlldy0xMjM1Njc5MzY0L9IBbWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2pvcmdlLXJhbW9zLWNyaXRpY2l6ZXMtdHJ1bXAtdW5pdmlzaW9uLWludGVydmlldy0xMjM1Njc5MzY0L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 26 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2pvcmdlLXJhbW9zLWNyaXRpY2l6ZXMtdHJ1bXAtdW5pdmlzaW9uLWludGVydmlldy0xMjM1Njc5MzY0L9IBbWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2pvcmdlLXJhbW9zLWNyaXRpY2l6ZXMtdHJ1bXAtdW5pdmlzaW9uLWludGVydmlldy0xMjM1Njc5MzY0L2FtcC8?oc=5\" target=\"_blank\">Univision Anchor Jorge Ramos Says Trump Interview “Put in Doubt the Independence of Our News Department”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hollywood Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Hollywood Reporter",
+                "$": {
+                  "url": "https://www.hollywoodreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "TelevisaUnivision Ready to Do Ad Deals On Nielsen Measurement Data Others Won’t Embrace - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLWRlYWxzLW5pZWxzZW4tbWVhc3VyZW1lbnQtZGF0YS1kb25uYS1zcGVjaWFsZS0xMjM1NjEzOTA0L9IBcGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLWRlYWxzLW5pZWxzZW4tbWVhc3VyZW1lbnQtZGF0YS1kb25uYS1zcGVjaWFsZS0xMjM1NjEzOTA0L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLWRlYWxzLW5pZWxzZW4tbWVhc3VyZW1lbnQtZGF0YS1kb25uYS1zcGVjaWFsZS0xMjM1NjEzOTA0L9IBcGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLWRlYWxzLW5pZWxzZW4tbWVhc3VyZW1lbnQtZGF0YS1kb25uYS1zcGVjaWFsZS0xMjM1NjEzOTA0L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLWRlYWxzLW5pZWxzZW4tbWVhc3VyZW1lbnQtZGF0YS1kb25uYS1zcGVjaWFsZS0xMjM1NjEzOTA0L9IBcGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLWRlYWxzLW5pZWxzZW4tbWVhc3VyZW1lbnQtZGF0YS1kb25uYS1zcGVjaWFsZS0xMjM1NjEzOTA0L2FtcC8?oc=5\" target=\"_blank\">TelevisaUnivision Ready to Do Ad Deals On Nielsen Measurement Data Others Won’t Embrace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "John Leguizamo Writes Scathing Op-Ed After Univision Airs ‘Cozy’ Interview With Trump - HuffPost"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9qb2huLWxlZ3VpemFtby11bml2aXNpb24tdHJ1bXAtb3AtZWRfbl82NTVlMzMyYWU0YjBjOTFkODI3OTY3Y2LSAWJodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvam9obi1sZWd1aXphbW8tdW5pdmlzaW9uLXRydW1wLW9wLWVkX25fNjU1ZTMzMmFlNGIwYzkxZDgyNzk2N2NiL2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9qb2huLWxlZ3VpemFtby11bml2aXNpb24tdHJ1bXAtb3AtZWRfbl82NTVlMzMyYWU0YjBjOTFkODI3OTY3Y2LSAWJodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvam9obi1sZWd1aXphbW8tdW5pdmlzaW9uLXRydW1wLW9wLWVkX25fNjU1ZTMzMmFlNGIwYzkxZDgyNzk2N2NiL2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9qb2huLWxlZ3VpemFtby11bml2aXNpb24tdHJ1bXAtb3AtZWRfbl82NTVlMzMyYWU0YjBjOTFkODI3OTY3Y2LSAWJodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvam9obi1sZWd1aXphbW8tdW5pdmlzaW9uLXRydW1wLW9wLWVkX25fNjU1ZTMzMmFlNGIwYzkxZDgyNzk2N2NiL2FtcA?oc=5\" target=\"_blank\">John Leguizamo Writes Scathing Op-Ed After Univision Airs ‘Cozy’ Interview With Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>"
+            ],
+            "source": [
+              {
+                "_": "HuffPost",
+                "$": {
+                  "url": "https://www.huffpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mirriad Advertising extends 3-year partnership with Univision - Vox Markets"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnZveG1hcmtldHMuY28udWsvYXJ0aWNsZXMvbWlycmlhZC1hZHZlcnRpc2luZy1leHRlbmRzLTMteWVhci1wYXJ0bmVyc2hpcC13aXRoLXVuaXZpc2lvbi0zM2RlYTg2L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LnZveG1hcmtldHMuY28udWsvYXJ0aWNsZXMvbWlycmlhZC1hZHZlcnRpc2luZy1leHRlbmRzLTMteWVhci1wYXJ0bmVyc2hpcC13aXRoLXVuaXZpc2lvbi0zM2RlYTg2L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 15 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnZveG1hcmtldHMuY28udWsvYXJ0aWNsZXMvbWlycmlhZC1hZHZlcnRpc2luZy1leHRlbmRzLTMteWVhci1wYXJ0bmVyc2hpcC13aXRoLXVuaXZpc2lvbi0zM2RlYTg2L9IBAA?oc=5\" target=\"_blank\">Mirriad Advertising extends 3-year partnership with Univision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vox Markets</font>"
+            ],
+            "source": [
+              {
+                "_": "Vox Markets",
+                "$": {
+                  "url": "https://www.voxmarkets.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Celebrating Hispanic Heritage Month with Univision - Felician College"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmVsaWNpYW4uZWR1L25ld3MvY2VsZWJyYXRpbmctaGlzcGFuaWMtaGVyaXRhZ2UtbW9udGgtd2l0aC11bml2aXNpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vZmVsaWNpYW4uZWR1L25ld3MvY2VsZWJyYXRpbmctaGlzcGFuaWMtaGVyaXRhZ2UtbW9udGgtd2l0aC11bml2aXNpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 04 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmVsaWNpYW4uZWR1L25ld3MvY2VsZWJyYXRpbmctaGlzcGFuaWMtaGVyaXRhZ2UtbW9udGgtd2l0aC11bml2aXNpb24v0gEA?oc=5\" target=\"_blank\">Celebrating Hispanic Heritage Month with Univision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Felician College</font>"
+            ],
+            "source": [
+              {
+                "_": "Felician College",
+                "$": {
+                  "url": "https://felician.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Julián Castro Says Biden Needs 'Strong Spanish Language Strategy' | Video - TheWrap"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2p1bGlhbi1jYXN0cm8tdW5pdmlzaW9uLXRydW1wLWludGVydmlldy1iaWRlbi1hZHMtc3BhbmlzaC1sYW5ndWFnZS12aWRlby_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2p1bGlhbi1jYXN0cm8tdW5pdmlzaW9uLXRydW1wLWludGVydmlldy1iaWRlbi1hZHMtc3BhbmlzaC1sYW5ndWFnZS12aWRlby_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 18 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2p1bGlhbi1jYXN0cm8tdW5pdmlzaW9uLXRydW1wLWludGVydmlldy1iaWRlbi1hZHMtc3BhbmlzaC1sYW5ndWFnZS12aWRlby_SAQA?oc=5\" target=\"_blank\">Julián Castro Says Biden Needs 'Strong Spanish Language Strategy' | Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWrap</font>"
+            ],
+            "source": [
+              {
+                "_": "TheWrap",
+                "$": {
+                  "url": "https://www.thewrap.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision CEO defends network's interview with Trump after liberal backlash - Washington Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIzL25vdi8yMi91bml2aXNpb24tY2VvLWRlZmVuZHMtbmV0d29ya3MtaW50ZXJ2aWV3LXdpdGgtdHJ1bS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIzL25vdi8yMi91bml2aXNpb24tY2VvLWRlZmVuZHMtbmV0d29ya3MtaW50ZXJ2aWV3LXdpdGgtdHJ1bS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIzL25vdi8yMi91bml2aXNpb24tY2VvLWRlZmVuZHMtbmV0d29ya3MtaW50ZXJ2aWV3LXdpdGgtdHJ1bS_SAQA?oc=5\" target=\"_blank\">Univision CEO defends network's interview with Trump after liberal backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Times",
+                "$": {
+                  "url": "https://www.washingtontimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "TelevisaUnivision takes ATV's Turkish drama For My Family for Univision, ViX - C21Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmMyMW1lZGlhLm5ldC9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLXRha2VzLWF0dnMtdHVya2lzaC1kcmFtYS1mb3ItbXktZmFtaWx5LWZvci11bml2aXNpb24tdml4L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmMyMW1lZGlhLm5ldC9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLXRha2VzLWF0dnMtdHVya2lzaC1kcmFtYS1mb3ItbXktZmFtaWx5LWZvci11bml2aXNpb24tdml4L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 16 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmMyMW1lZGlhLm5ldC9uZXdzL3RlbGV2aXNhdW5pdmlzaW9uLXRha2VzLWF0dnMtdHVya2lzaC1kcmFtYS1mb3ItbXktZmFtaWx5LWZvci11bml2aXNpb24tdml4L9IBAA?oc=5\" target=\"_blank\">TelevisaUnivision takes ATV's Turkish drama For My Family for Univision, ViX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C21Media</font>"
+            ],
+            "source": [
+              {
+                "_": "C21Media",
+                "$": {
+                  "url": "https://www.c21media.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rita Sibaja promoted to weekend anchor at Univision Las Vegas - Media Moves"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1lZGlhbW92ZXMuY29tLzIwMjQvMDEvcml0YS1zaWJhamEtcHJvbW90ZWQtdG8td2Vla2VuZC1hbmNob3ItYXQtdW5pdmlzaW9uLWxhcy12ZWdhcy5odG1s0gFpaHR0cHM6Ly93d3cubWVkaWFtb3Zlcy5jb20vMjAyNC8wMS9yaXRhLXNpYmFqYS1wcm9tb3RlZC10by13ZWVrZW5kLWFuY2hvci1hdC11bml2aXNpb24tbGFzLXZlZ2FzLmh0bWwvYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3Lm1lZGlhbW92ZXMuY29tLzIwMjQvMDEvcml0YS1zaWJhamEtcHJvbW90ZWQtdG8td2Vla2VuZC1hbmNob3ItYXQtdW5pdmlzaW9uLWxhcy12ZWdhcy5odG1s0gFpaHR0cHM6Ly93d3cubWVkaWFtb3Zlcy5jb20vMjAyNC8wMS9yaXRhLXNpYmFqYS1wcm9tb3RlZC10by13ZWVrZW5kLWFuY2hvci1hdC11bml2aXNpb24tbGFzLXZlZ2FzLmh0bWwvYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1lZGlhbW92ZXMuY29tLzIwMjQvMDEvcml0YS1zaWJhamEtcHJvbW90ZWQtdG8td2Vla2VuZC1hbmNob3ItYXQtdW5pdmlzaW9uLWxhcy12ZWdhcy5odG1s0gFpaHR0cHM6Ly93d3cubWVkaWFtb3Zlcy5jb20vMjAyNC8wMS9yaXRhLXNpYmFqYS1wcm9tb3RlZC10by13ZWVrZW5kLWFuY2hvci1hdC11bml2aXNpb24tbGFzLXZlZ2FzLmh0bWwvYW1w?oc=5\" target=\"_blank\">Rita Sibaja promoted to weekend anchor at Univision Las Vegas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Media Moves</font>"
+            ],
+            "source": [
+              {
+                "_": "Media Moves",
+                "$": {
+                  "url": "https://www.mediamoves.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "León Krauze Suddenly Departs Univision After 12 Years - Adweek"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmFkd2Vlay5jb20vdHZuZXdzZXIvbGVvbi1rcmF1emUtc3VkZGVubHktZGVwYXJ0cy11bml2aXNpb24tYWZ0ZXItMTIteWVhcnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3LmFkd2Vlay5jb20vdHZuZXdzZXIvbGVvbi1rcmF1emUtc3VkZGVubHktZGVwYXJ0cy11bml2aXNpb24tYWZ0ZXItMTIteWVhcnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmFkd2Vlay5jb20vdHZuZXdzZXIvbGVvbi1rcmF1emUtc3VkZGVubHktZGVwYXJ0cy11bml2aXNpb24tYWZ0ZXItMTIteWVhcnMv0gEA?oc=5\" target=\"_blank\">León Krauze Suddenly Departs Univision After 12 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adweek</font>"
+            ],
+            "source": [
+              {
+                "_": "Adweek",
+                "$": {
+                  "url": "https://www.adweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sinclair nixes Univision affiliation, ending local Spanish broadcasts (copy) - wenatcheeworld.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy53ZW5hdGNoZWV3b3JsZC5jb20vbmV3cy9zaW5jbGFpci1uaXhlcy11bml2aXNpb24tYWZmaWxpYXRpb24tZW5kaW5nLWxvY2FsLXNwYW5pc2gtYnJvYWRjYXN0cy1jb3B5L2FydGljbGVfZTY2NDE2MjAtODI3Zi0xMWVlLTlhYWItOTMxZWI2MzhiZTMxLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinwFodHRwczovL3d3dy53ZW5hdGNoZWV3b3JsZC5jb20vbmV3cy9zaW5jbGFpci1uaXhlcy11bml2aXNpb24tYWZmaWxpYXRpb24tZW5kaW5nLWxvY2FsLXNwYW5pc2gtYnJvYWRjYXN0cy1jb3B5L2FydGljbGVfZTY2NDE2MjAtODI3Zi0xMWVlLTlhYWItOTMxZWI2MzhiZTMxLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy53ZW5hdGNoZWV3b3JsZC5jb20vbmV3cy9zaW5jbGFpci1uaXhlcy11bml2aXNpb24tYWZmaWxpYXRpb24tZW5kaW5nLWxvY2FsLXNwYW5pc2gtYnJvYWRjYXN0cy1jb3B5L2FydGljbGVfZTY2NDE2MjAtODI3Zi0xMWVlLTlhYWItOTMxZWI2MzhiZTMxLmh0bWzSAQA?oc=5\" target=\"_blank\">Sinclair nixes Univision affiliation, ending local Spanish broadcasts (copy)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wenatcheeworld.com</font>"
+            ],
+            "source": [
+              {
+                "_": "wenatcheeworld.com",
+                "$": {
+                  "url": "https://www.wenatcheeworld.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision's Jorge Ramos Dings Network's Trump Interview - The Daily Beast"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL3VuaXZpc2lvbnMtam9yZ2UtcmFtb3MtZGluZ3MtbmV0d29ya3MtdHJ1bXAtaW50ZXJ2aWV30gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL3VuaXZpc2lvbnMtam9yZ2UtcmFtb3MtZGluZ3MtbmV0d29ya3MtdHJ1bXAtaW50ZXJ2aWV30gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 26 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL3VuaXZpc2lvbnMtam9yZ2UtcmFtb3MtZGluZ3MtbmV0d29ya3MtdHJ1bXAtaW50ZXJ2aWV30gEA?oc=5\" target=\"_blank\">Univision's Jorge Ramos Dings Network's Trump Interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Beast",
+                "$": {
+                  "url": "https://www.thedailybeast.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How to watch Donald Trump’s interview on Univision - HOLA! USA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmhvbGEuY29tL3VzL2VudGVydGFpbm1lbnQvMjAyMzExMDYzNTIyNzEvaG93LXRvLXdhdGNoLWRvbmFsZC10cnVtcHMtaW50ZXJ2aWV3LW9uLXVuaXZpc2lvbi_SAXJodHRwczovL3d3dy5ob2xhLmNvbS91cy9lbnRlcnRhaW5tZW50LzIwMjMxMTA2MzUyMjcxL2hvdy10by13YXRjaC1kb25hbGQtdHJ1bXBzLWludGVydmlldy1vbi11bml2aXNpb24vP3ZpZXdhcz1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmhvbGEuY29tL3VzL2VudGVydGFpbm1lbnQvMjAyMzExMDYzNTIyNzEvaG93LXRvLXdhdGNoLWRvbmFsZC10cnVtcHMtaW50ZXJ2aWV3LW9uLXVuaXZpc2lvbi_SAXJodHRwczovL3d3dy5ob2xhLmNvbS91cy9lbnRlcnRhaW5tZW50LzIwMjMxMTA2MzUyMjcxL2hvdy10by13YXRjaC1kb25hbGQtdHJ1bXBzLWludGVydmlldy1vbi11bml2aXNpb24vP3ZpZXdhcz1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmhvbGEuY29tL3VzL2VudGVydGFpbm1lbnQvMjAyMzExMDYzNTIyNzEvaG93LXRvLXdhdGNoLWRvbmFsZC10cnVtcHMtaW50ZXJ2aWV3LW9uLXVuaXZpc2lvbi_SAXJodHRwczovL3d3dy5ob2xhLmNvbS91cy9lbnRlcnRhaW5tZW50LzIwMjMxMTA2MzUyMjcxL2hvdy10by13YXRjaC1kb25hbGQtdHJ1bXBzLWludGVydmlldy1vbi11bml2aXNpb24vP3ZpZXdhcz1hbXA?oc=5\" target=\"_blank\">How to watch Donald Trump’s interview on Univision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HOLA! USA</font>"
+            ],
+            "source": [
+              {
+                "_": "HOLA! USA",
+                "$": {
+                  "url": "https://www.hola.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Houston praised for authentic eats in new Univision series - Chron"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNocm9uLmNvbS9mb29kL2FydGljbGUvdW5pdmlzaW9uLWhvdXN0b24tbGF0aW4tcmVzdGF1cmFudHMtMTg0MzU0NzIucGhw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LmNocm9uLmNvbS9mb29kL2FydGljbGUvdW5pdmlzaW9uLWhvdXN0b24tbGF0aW4tcmVzdGF1cmFudHMtMTg0MzU0NzIucGhw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNocm9uLmNvbS9mb29kL2FydGljbGUvdW5pdmlzaW9uLWhvdXN0b24tbGF0aW4tcmVzdGF1cmFudHMtMTg0MzU0NzIucGhw0gEA?oc=5\" target=\"_blank\">Houston praised for authentic eats in new Univision series</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chron</font>"
+            ],
+            "source": [
+              {
+                "_": "Chron",
+                "$": {
+                  "url": "https://www.chron.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision anchor blasts network over Trump interview: 'Question and fact-check everything he says' - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1hbmNob3ItYmxhc3RzLW5ldHdvcmstdHJ1bXAtaW50ZXJ2aWV3LXF1ZXN0aW9uLWZhY3QtY2hlY2stZXZlcnl0aGluZy1oZS1zYXlz0gF4aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvdW5pdmlzaW9uLWFuY2hvci1ibGFzdHMtbmV0d29yay10cnVtcC1pbnRlcnZpZXctcXVlc3Rpb24tZmFjdC1jaGVjay1ldmVyeXRoaW5nLWhlLXNheXMuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1hbmNob3ItYmxhc3RzLW5ldHdvcmstdHJ1bXAtaW50ZXJ2aWV3LXF1ZXN0aW9uLWZhY3QtY2hlY2stZXZlcnl0aGluZy1oZS1zYXlz0gF4aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvdW5pdmlzaW9uLWFuY2hvci1ibGFzdHMtbmV0d29yay10cnVtcC1pbnRlcnZpZXctcXVlc3Rpb24tZmFjdC1jaGVjay1ldmVyeXRoaW5nLWhlLXNheXMuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 26 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1hbmNob3ItYmxhc3RzLW5ldHdvcmstdHJ1bXAtaW50ZXJ2aWV3LXF1ZXN0aW9uLWZhY3QtY2hlY2stZXZlcnl0aGluZy1oZS1zYXlz0gF4aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvdW5pdmlzaW9uLWFuY2hvci1ibGFzdHMtbmV0d29yay10cnVtcC1pbnRlcnZpZXctcXVlc3Rpb24tZmFjdC1jaGVjay1ldmVyeXRoaW5nLWhlLXNheXMuYW1w?oc=5\" target=\"_blank\">Univision anchor blasts network over Trump interview: 'Question and fact-check everything he says'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "TikTok ad measurement change, Univision grows, political advertising up: Datacenter Weekly - Ad Age"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL2FkYWdlLmNvbS9hcnRpY2xlL2RhdGFjZW50ZXIvdGlrdG9rLWFkLW1lYXN1cmVtZW50LWNoYW5nZS11bml2aXNpb24tZ3Jvd3MtcG9saXRpY2FsLWFkdmVydGlzaW5nLWRhdGFjZW50ZXItd2Vla2x5LzI1MTc1MjHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL2FkYWdlLmNvbS9hcnRpY2xlL2RhdGFjZW50ZXIvdGlrdG9rLWFkLW1lYXN1cmVtZW50LWNoYW5nZS11bml2aXNpb24tZ3Jvd3MtcG9saXRpY2FsLWFkdmVydGlzaW5nLWRhdGFjZW50ZXItd2Vla2x5LzI1MTc1MjHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL2FkYWdlLmNvbS9hcnRpY2xlL2RhdGFjZW50ZXIvdGlrdG9rLWFkLW1lYXN1cmVtZW50LWNoYW5nZS11bml2aXNpb24tZ3Jvd3MtcG9saXRpY2FsLWFkdmVydGlzaW5nLWRhdGFjZW50ZXItd2Vla2x5LzI1MTc1MjHSAQA?oc=5\" target=\"_blank\">TikTok ad measurement change, Univision grows, political advertising up: Datacenter Weekly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad Age</font>"
+            ],
+            "source": [
+              {
+                "_": "Ad Age",
+                "$": {
+                  "url": "https://adage.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Liberals are peeved at Univision for offering Trump a platform: ‘A major meltdown’ - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2xpYmVyYWxzLXBlZXZlZC11bml2aXNpb24tb2ZmZXJpbmctdHJ1bXAtcGxhdGZvcm0tbWFqb3ItbWVsdGRvd27SAWJodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9saWJlcmFscy1wZWV2ZWQtdW5pdmlzaW9uLW9mZmVyaW5nLXRydW1wLXBsYXRmb3JtLW1ham9yLW1lbHRkb3duLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2xpYmVyYWxzLXBlZXZlZC11bml2aXNpb24tb2ZmZXJpbmctdHJ1bXAtcGxhdGZvcm0tbWFqb3ItbWVsdGRvd27SAWJodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9saWJlcmFscy1wZWV2ZWQtdW5pdmlzaW9uLW9mZmVyaW5nLXRydW1wLXBsYXRmb3JtLW1ham9yLW1lbHRkb3duLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2xpYmVyYWxzLXBlZXZlZC11bml2aXNpb24tb2ZmZXJpbmctdHJ1bXAtcGxhdGZvcm0tbWFqb3ItbWVsdGRvd27SAWJodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9saWJlcmFscy1wZWV2ZWQtdW5pdmlzaW9uLW9mZmVyaW5nLXRydW1wLXBsYXRmb3JtLW1ham9yLW1lbHRkb3duLmFtcA?oc=5\" target=\"_blank\">Liberals are peeved at Univision for offering Trump a platform: ‘A major meltdown’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision co-founder Gustavo Cisneros dead at 78 - New York Post "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEyLzMwL25ld3MvdW5pdmlzaW9uLWNvLWZvdW5kZXItZ3VzdGF2by1jaXNuZXJvcy1kZWFkLWF0LTc4L9IBWGh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEyLzMwL25ld3MvdW5pdmlzaW9uLWNvLWZvdW5kZXItZ3VzdGF2by1jaXNuZXJvcy1kZWFkLWF0LTc4L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEyLzMwL25ld3MvdW5pdmlzaW9uLWNvLWZvdW5kZXItZ3VzdGF2by1jaXNuZXJvcy1kZWFkLWF0LTc4L9IBWGh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEyLzMwL25ld3MvdW5pdmlzaW9uLWNvLWZvdW5kZXItZ3VzdGF2by1jaXNuZXJvcy1kZWFkLWF0LTc4L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 30 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEyLzMwL25ld3MvdW5pdmlzaW9uLWNvLWZvdW5kZXItZ3VzdGF2by1jaXNuZXJvcy1kZWFkLWF0LTc4L9IBWGh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEyLzMwL25ld3MvdW5pdmlzaW9uLWNvLWZvdW5kZXItZ3VzdGF2by1jaXNuZXJvcy1kZWFkLWF0LTc4L2FtcC8?oc=5\" target=\"_blank\">Univision co-founder Gustavo Cisneros dead at 78</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post </font>"
+            ],
+            "source": [
+              {
+                "_": "New York Post ",
+                "$": {
+                  "url": "https://nypost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Second GOP debate draws 9.5 million viewers across FOX News Media, Univision - Fox Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9zZWNvbmQtZ29wLWRlYmF0ZS1kcmF3cy05LTUtbWlsbGlvbi12aWV3ZXJzLWFjcm9zcy1mb3gtbmV3cy1tZWRpYS11bml2aXNpb27SAXFodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vbWVkaWEvc2Vjb25kLWdvcC1kZWJhdGUtZHJhd3MtOS01LW1pbGxpb24tdmlld2Vycy1hY3Jvc3MtZm94LW5ld3MtbWVkaWEtdW5pdmlzaW9uLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9zZWNvbmQtZ29wLWRlYmF0ZS1kcmF3cy05LTUtbWlsbGlvbi12aWV3ZXJzLWFjcm9zcy1mb3gtbmV3cy1tZWRpYS11bml2aXNpb27SAXFodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vbWVkaWEvc2Vjb25kLWdvcC1kZWJhdGUtZHJhd3MtOS01LW1pbGxpb24tdmlld2Vycy1hY3Jvc3MtZm94LW5ld3MtbWVkaWEtdW5pdmlzaW9uLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9zZWNvbmQtZ29wLWRlYmF0ZS1kcmF3cy05LTUtbWlsbGlvbi12aWV3ZXJzLWFjcm9zcy1mb3gtbmV3cy1tZWRpYS11bml2aXNpb27SAXFodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vbWVkaWEvc2Vjb25kLWdvcC1kZWJhdGUtZHJhd3MtOS01LW1pbGxpb24tdmlld2Vycy1hY3Jvc3MtZm94LW5ld3MtbWVkaWEtdW5pdmlzaW9uLmFtcA?oc=5\" target=\"_blank\">Second GOP debate draws 9.5 million viewers across FOX News Media, Univision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox Business",
+                "$": {
+                  "url": "https://www.foxbusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "John Leguizamo roasts Univision’s ‘softball’ interview of Trump - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvaW4tdGhlLWtub3cvNDMyNjMwNS1qb2huLWxlZ3VpemFtby1yb2FzdHMtdW5pdmlzaW9ucy1zb2Z0YmFsbC1pbnRlcnZpZXctb2YtdHJ1bXAv0gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ibG9ncy9pbi10aGUta25vdy80MzI2MzA1LWpvaG4tbGVndWl6YW1vLXJvYXN0cy11bml2aXNpb25zLXNvZnRiYWxsLWludGVydmlldy1vZi10cnVtcC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvaW4tdGhlLWtub3cvNDMyNjMwNS1qb2huLWxlZ3VpemFtby1yb2FzdHMtdW5pdmlzaW9ucy1zb2Z0YmFsbC1pbnRlcnZpZXctb2YtdHJ1bXAv0gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ibG9ncy9pbi10aGUta25vdy80MzI2MzA1LWpvaG4tbGVndWl6YW1vLXJvYXN0cy11bml2aXNpb25zLXNvZnRiYWxsLWludGVydmlldy1vZi10cnVtcC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvaW4tdGhlLWtub3cvNDMyNjMwNS1qb2huLWxlZ3VpemFtby1yb2FzdHMtdW5pdmlzaW9ucy1zb2Z0YmFsbC1pbnRlcnZpZXctb2YtdHJ1bXAv0gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ibG9ncy9pbi10aGUta25vdy80MzI2MzA1LWpvaG4tbGVndWl6YW1vLXJvYXN0cy11bml2aXNpb25zLXNvZnRiYWxsLWludGVydmlldy1vZi10cnVtcC9hbXAv?oc=5\" target=\"_blank\">John Leguizamo roasts Univision’s ‘softball’ interview of Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision Wins UEFA U.S. Spanish Media Rights in $225M Deal - Yahoo Sports"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS91bml2aXNpb24td2lucy11ZWZhLXUtc3BhbmlzaC0xNTE1MDAzMTMuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS91bml2aXNpb24td2lucy11ZWZhLXUtc3BhbmlzaC0xNTE1MDAzMTMuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS91bml2aXNpb24td2lucy11ZWZhLXUtc3BhbmlzaC0xNTE1MDAzMTMuaHRtbNIBAA?oc=5\" target=\"_blank\">Univision Wins UEFA U.S. Spanish Media Rights in $225M Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Sports",
+                "$": {
+                  "url": "https://sports.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision, Donald Trump Now Best Bros? Anchor Krauze Exits Network - Bleeding Cool News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYmxlZWRpbmdjb29sLmNvbS90di91bml2aXNpb24tZG9uYWxkLXRydW1wLW5vdy1iZXN0LWJyb3MtYW5jaG9yLWtyYXV6ZS1leGl0cy1uZXR3b3JrL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vYmxlZWRpbmdjb29sLmNvbS90di91bml2aXNpb24tZG9uYWxkLXRydW1wLW5vdy1iZXN0LWJyb3MtYW5jaG9yLWtyYXV6ZS1leGl0cy1uZXR3b3JrL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYmxlZWRpbmdjb29sLmNvbS90di91bml2aXNpb24tZG9uYWxkLXRydW1wLW5vdy1iZXN0LWJyb3MtYW5jaG9yLWtyYXV6ZS1leGl0cy1uZXR3b3JrL9IBAA?oc=5\" target=\"_blank\">Univision, Donald Trump Now Best Bros? Anchor Krauze Exits Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bleeding Cool News</font>"
+            ],
+            "source": [
+              {
+                "_": "Bleeding Cool News",
+                "$": {
+                  "url": "https://bleedingcool.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision Anchor Leon Krauze to Exit Following Controversial Trump Interview - TheWrap"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3VuaXZpc2lvbi1hbmNob3ItbGVvbi1rcmF1emUtZXhpdC10cnVtcC1pbnRlcnZpZXcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3VuaXZpc2lvbi1hbmNob3ItbGVvbi1rcmF1emUtZXhpdC10cnVtcC1pbnRlcnZpZXcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3VuaXZpc2lvbi1hbmNob3ItbGVvbi1rcmF1emUtZXhpdC10cnVtcC1pbnRlcnZpZXcv0gEA?oc=5\" target=\"_blank\">Univision Anchor Leon Krauze to Exit Following Controversial Trump Interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWrap</font>"
+            ],
+            "source": [
+              {
+                "_": "TheWrap",
+                "$": {
+                  "url": "https://www.thewrap.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "John Leguizamo explodes on Univision for platforming Trump, compares interview to excrement - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2pvaG4tbGVndWl6YW1vLWV4cGxvZGVzLXVuaXZpc2lvbi1wbGF0Zm9ybWluZy10cnVtcC1jb21wYXJlcy1pbnRlcnZpZXctZXhjcmVtZW500gFyaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvam9obi1sZWd1aXphbW8tZXhwbG9kZXMtdW5pdmlzaW9uLXBsYXRmb3JtaW5nLXRydW1wLWNvbXBhcmVzLWludGVydmlldy1leGNyZW1lbnQuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2pvaG4tbGVndWl6YW1vLWV4cGxvZGVzLXVuaXZpc2lvbi1wbGF0Zm9ybWluZy10cnVtcC1jb21wYXJlcy1pbnRlcnZpZXctZXhjcmVtZW500gFyaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvam9obi1sZWd1aXphbW8tZXhwbG9kZXMtdW5pdmlzaW9uLXBsYXRmb3JtaW5nLXRydW1wLWNvbXBhcmVzLWludGVydmlldy1leGNyZW1lbnQuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2pvaG4tbGVndWl6YW1vLWV4cGxvZGVzLXVuaXZpc2lvbi1wbGF0Zm9ybWluZy10cnVtcC1jb21wYXJlcy1pbnRlcnZpZXctZXhjcmVtZW500gFyaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvam9obi1sZWd1aXphbW8tZXhwbG9kZXMtdW5pdmlzaW9uLXBsYXRmb3JtaW5nLXRydW1wLWNvbXBhcmVzLWludGVydmlldy1leGNyZW1lbnQuYW1w?oc=5\" target=\"_blank\">John Leguizamo explodes on Univision for platforming Trump, compares interview to excrement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hispanic Representatives Demand Answers on Univision's Trump Interview - TheWrap"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2NvbmdyZXNzaW9uYWwtaGlzcGFuaWMtY2F1Y3VzLXVuaXZpc2lvbi10cnVtcC1pbnRlcnZpZXcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2NvbmdyZXNzaW9uYWwtaGlzcGFuaWMtY2F1Y3VzLXVuaXZpc2lvbi10cnVtcC1pbnRlcnZpZXcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2NvbmdyZXNzaW9uYWwtaGlzcGFuaWMtY2F1Y3VzLXVuaXZpc2lvbi10cnVtcC1pbnRlcnZpZXcv0gEA?oc=5\" target=\"_blank\">Hispanic Representatives Demand Answers on Univision's Trump Interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWrap</font>"
+            ],
+            "source": [
+              {
+                "_": "TheWrap",
+                "$": {
+                  "url": "https://www.thewrap.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision CEO defends Trump interview after uproar, says network won't be 'deterred by partisan interests' - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1jZW8tZGVmZW5kcy10cnVtcC1pbnRlcnZpZXctdXByb2FyLW5ldHdvcmstd29udC1kZXRlcnJlZC1wYXJ0aXNhbi1pbnRlcmVzdHPSAXdodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS91bml2aXNpb24tY2VvLWRlZmVuZHMtdHJ1bXAtaW50ZXJ2aWV3LXVwcm9hci1uZXR3b3JrLXdvbnQtZGV0ZXJyZWQtcGFydGlzYW4taW50ZXJlc3RzLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1jZW8tZGVmZW5kcy10cnVtcC1pbnRlcnZpZXctdXByb2FyLW5ldHdvcmstd29udC1kZXRlcnJlZC1wYXJ0aXNhbi1pbnRlcmVzdHPSAXdodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS91bml2aXNpb24tY2VvLWRlZmVuZHMtdHJ1bXAtaW50ZXJ2aWV3LXVwcm9hci1uZXR3b3JrLXdvbnQtZGV0ZXJyZWQtcGFydGlzYW4taW50ZXJlc3RzLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1jZW8tZGVmZW5kcy10cnVtcC1pbnRlcnZpZXctdXByb2FyLW5ldHdvcmstd29udC1kZXRlcnJlZC1wYXJ0aXNhbi1pbnRlcmVzdHPSAXdodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS91bml2aXNpb24tY2VvLWRlZmVuZHMtdHJ1bXAtaW50ZXJ2aWV3LXVwcm9hci1uZXR3b3JrLXdvbnQtZGV0ZXJyZWQtcGFydGlzYW4taW50ZXJlc3RzLmFtcA?oc=5\" target=\"_blank\">Univision CEO defends Trump interview after uproar, says network won't be 'deterred by partisan interests'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "John Leguizamo explodes on Univision for interviewing Trump - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDE3MTM5NTYxMTLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDE3MTM5NTYxMTLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDE3MTM5NTYxMTLSAQA?oc=5\" target=\"_blank\">John Leguizamo explodes on Univision for interviewing Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision CEO Responds to Trump Interview Backlash; Questions Remain - Bleeding Cool News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYmxlZWRpbmdjb29sLmNvbS90di91bml2aXNpb24tY2VvLXJlc3BvbmRzLXRvLXRydW1wLWludGVydmlldy1iYWNrbGFzaC1xdWVzdGlvbnMtcmVtYWluL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vYmxlZWRpbmdjb29sLmNvbS90di91bml2aXNpb24tY2VvLXJlc3BvbmRzLXRvLXRydW1wLWludGVydmlldy1iYWNrbGFzaC1xdWVzdGlvbnMtcmVtYWluL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYmxlZWRpbmdjb29sLmNvbS90di91bml2aXNpb24tY2VvLXJlc3BvbmRzLXRvLXRydW1wLWludGVydmlldy1iYWNrbGFzaC1xdWVzdGlvbnMtcmVtYWluL9IBAA?oc=5\" target=\"_blank\">Univision CEO Responds to Trump Interview Backlash; Questions Remain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bleeding Cool News</font>"
+            ],
+            "source": [
+              {
+                "_": "Bleeding Cool News",
+                "$": {
+                  "url": "https://bleedingcool.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Debt Move Will Give Univision Three More Years To Repay Lenders. - Insideradio.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5pbnNpZGVyYWRpby5jb20vZnJlZS9kZWJ0LW1vdmUtd2lsbC1naXZlLXVuaXZpc2lvbi10aHJlZS1tb3JlLXllYXJzLXRvLXJlcGF5LWxlbmRlcnMvYXJ0aWNsZV8wOGRiMTA2OC05M2JiLTExZWUtOWEzMC1lM2FkZDI5OGJlNGYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3d3dy5pbnNpZGVyYWRpby5jb20vZnJlZS9kZWJ0LW1vdmUtd2lsbC1naXZlLXVuaXZpc2lvbi10aHJlZS1tb3JlLXllYXJzLXRvLXJlcGF5LWxlbmRlcnMvYXJ0aWNsZV8wOGRiMTA2OC05M2JiLTExZWUtOWEzMC1lM2FkZDI5OGJlNGYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5pbnNpZGVyYWRpby5jb20vZnJlZS9kZWJ0LW1vdmUtd2lsbC1naXZlLXVuaXZpc2lvbi10aHJlZS1tb3JlLXllYXJzLXRvLXJlcGF5LWxlbmRlcnMvYXJ0aWNsZV8wOGRiMTA2OC05M2JiLTExZWUtOWEzMC1lM2FkZDI5OGJlNGYuaHRtbNIBAA?oc=5\" target=\"_blank\">Debt Move Will Give Univision Three More Years To Repay Lenders.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insideradio.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Insideradio.com",
+                "$": {
+                  "url": "https://www.insideradio.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Estoy alarmado: Univision Goes in With Trump - The Bulwark"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vcGx1cy50aGVidWx3YXJrLmNvbS9wL2VzdG95LWFsYXJtYWRvLXVuaXZpc2lvbi1nb2VzLWlu0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPmh0dHBzOi8vcGx1cy50aGVidWx3YXJrLmNvbS9wL2VzdG95LWFsYXJtYWRvLXVuaXZpc2lvbi1nb2VzLWlu0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vcGx1cy50aGVidWx3YXJrLmNvbS9wL2VzdG95LWFsYXJtYWRvLXVuaXZpc2lvbi1nb2VzLWlu0gEA?oc=5\" target=\"_blank\">Estoy alarmado: Univision Goes in With Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Bulwark</font>"
+            ],
+            "source": [
+              {
+                "_": "The Bulwark",
+                "$": {
+                  "url": "https://plus.thebulwark.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Prominent Hispanics urge Univision to ‘disregard’ criticism from liberals who object to Trump interview - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3Byb21pbmVudC1oaXNwYW5pY3MtdXJnZS11bml2aXNpb24tZGlzcmVnYXJkLWNyaXRpY2lzbS1saWJlcmFscy1vYmplY3QtdHJ1bXAtaW50ZXJ2aWV30gF4aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvcHJvbWluZW50LWhpc3Bhbmljcy11cmdlLXVuaXZpc2lvbi1kaXNyZWdhcmQtY3JpdGljaXNtLWxpYmVyYWxzLW9iamVjdC10cnVtcC1pbnRlcnZpZXcuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3Byb21pbmVudC1oaXNwYW5pY3MtdXJnZS11bml2aXNpb24tZGlzcmVnYXJkLWNyaXRpY2lzbS1saWJlcmFscy1vYmplY3QtdHJ1bXAtaW50ZXJ2aWV30gF4aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvcHJvbWluZW50LWhpc3Bhbmljcy11cmdlLXVuaXZpc2lvbi1kaXNyZWdhcmQtY3JpdGljaXNtLWxpYmVyYWxzLW9iamVjdC10cnVtcC1pbnRlcnZpZXcuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3Byb21pbmVudC1oaXNwYW5pY3MtdXJnZS11bml2aXNpb24tZGlzcmVnYXJkLWNyaXRpY2lzbS1saWJlcmFscy1vYmplY3QtdHJ1bXAtaW50ZXJ2aWV30gF4aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvcHJvbWluZW50LWhpc3Bhbmljcy11cmdlLXVuaXZpc2lvbi1kaXNyZWdhcmQtY3JpdGljaXNtLWxpYmVyYWxzLW9iamVjdC10cnVtcC1pbnRlcnZpZXcuYW1w?oc=5\" target=\"_blank\">Prominent Hispanics urge Univision to ‘disregard’ criticism from liberals who object to Trump interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision will broadcast the Super Bowl in Spanish - Marketing Brew"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm1hcmtldGluZ2JyZXcuY29tL3N0b3JpZXMvMjAyMy8wNS8xNi91bml2aXNpb24td2lsbC1icm9hZGNhc3QtdGhlLXN1cGVyLWJvd2wtaW4tc3BhbmlzaNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3Lm1hcmtldGluZ2JyZXcuY29tL3N0b3JpZXMvMjAyMy8wNS8xNi91bml2aXNpb24td2lsbC1icm9hZGNhc3QtdGhlLXN1cGVyLWJvd2wtaW4tc3BhbmlzaNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm1hcmtldGluZ2JyZXcuY29tL3N0b3JpZXMvMjAyMy8wNS8xNi91bml2aXNpb24td2lsbC1icm9hZGNhc3QtdGhlLXN1cGVyLWJvd2wtaW4tc3BhbmlzaNIBAA?oc=5\" target=\"_blank\">Univision will broadcast the Super Bowl in Spanish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marketing Brew</font>"
+            ],
+            "source": [
+              {
+                "_": "Marketing Brew",
+                "$": {
+                  "url": "https://www.marketingbrew.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Latino voters move right as Univision cozies up to Trump - The Arizona Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmF6Y2VudHJhbC5jb20vc3Rvcnkvb3Bpbmlvbi9vcC1lZC9waGlsYm9hcy8yMDIzLzExLzE1L2xhdGluby12b3RlcnMtbW92ZS1yaWdodC11bml2aXNpb24tY291cnRzLXRydW1wLzcxNTkwNjAxMDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LmF6Y2VudHJhbC5jb20vc3Rvcnkvb3Bpbmlvbi9vcC1lZC9waGlsYm9hcy8yMDIzLzExLzE1L2xhdGluby12b3RlcnMtbW92ZS1yaWdodC11bml2aXNpb24tY291cnRzLXRydW1wLzcxNTkwNjAxMDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmF6Y2VudHJhbC5jb20vc3Rvcnkvb3Bpbmlvbi9vcC1lZC9waGlsYm9hcy8yMDIzLzExLzE1L2xhdGluby12b3RlcnMtbW92ZS1yaWdodC11bml2aXNpb24tY291cnRzLXRydW1wLzcxNTkwNjAxMDA3L9IBAA?oc=5\" target=\"_blank\">Latino voters move right as Univision cozies up to Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Arizona Republic",
+                "$": {
+                  "url": "https://www.azcentral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Miss Chile 2023 is the daughter of a former Univision host - HOLA! USA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmhvbGEuY29tL3VzL2NlbGVicml0aWVzLzIwMjMwODMwMzQ5NzcwL21pc3MtY2hpbGUtMjAyMy1pcy10aGUtZGF1Z2h0ZXItb2YtYS1mb3JtZXItdW5pdmlzaW9uLWhvc3Qv0gF5aHR0cHM6Ly93d3cuaG9sYS5jb20vdXMvY2VsZWJyaXRpZXMvMjAyMzA4MzAzNDk3NzAvbWlzcy1jaGlsZS0yMDIzLWlzLXRoZS1kYXVnaHRlci1vZi1hLWZvcm1lci11bml2aXNpb24taG9zdC8_dmlld2FzPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmhvbGEuY29tL3VzL2NlbGVicml0aWVzLzIwMjMwODMwMzQ5NzcwL21pc3MtY2hpbGUtMjAyMy1pcy10aGUtZGF1Z2h0ZXItb2YtYS1mb3JtZXItdW5pdmlzaW9uLWhvc3Qv0gF5aHR0cHM6Ly93d3cuaG9sYS5jb20vdXMvY2VsZWJyaXRpZXMvMjAyMzA4MzAzNDk3NzAvbWlzcy1jaGlsZS0yMDIzLWlzLXRoZS1kYXVnaHRlci1vZi1hLWZvcm1lci11bml2aXNpb24taG9zdC8_dmlld2FzPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 30 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmhvbGEuY29tL3VzL2NlbGVicml0aWVzLzIwMjMwODMwMzQ5NzcwL21pc3MtY2hpbGUtMjAyMy1pcy10aGUtZGF1Z2h0ZXItb2YtYS1mb3JtZXItdW5pdmlzaW9uLWhvc3Qv0gF5aHR0cHM6Ly93d3cuaG9sYS5jb20vdXMvY2VsZWJyaXRpZXMvMjAyMzA4MzAzNDk3NzAvbWlzcy1jaGlsZS0yMDIzLWlzLXRoZS1kYXVnaHRlci1vZi1hLWZvcm1lci11bml2aXNpb24taG9zdC8_dmlld2FzPWFtcA?oc=5\" target=\"_blank\">Miss Chile 2023 is the daughter of a former Univision host</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HOLA! USA</font>"
+            ],
+            "source": [
+              {
+                "_": "HOLA! USA",
+                "$": {
+                  "url": "https://www.hola.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Concern in Seattle After Sinclair Drops Univision - Adweek"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmFkd2Vlay5jb20vdHZzcHkvY29uY2Vybi1pbi1zZWF0dGxlLWFmdGVyLXNpbmNsYWlyLWRyb3BzLXVuaXZpc2lvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LmFkd2Vlay5jb20vdHZzcHkvY29uY2Vybi1pbi1zZWF0dGxlLWFmdGVyLXNpbmNsYWlyLWRyb3BzLXVuaXZpc2lvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmFkd2Vlay5jb20vdHZzcHkvY29uY2Vybi1pbi1zZWF0dGxlLWFmdGVyLXNpbmNsYWlyLWRyb3BzLXVuaXZpc2lvbi_SAQA?oc=5\" target=\"_blank\">Concern in Seattle After Sinclair Drops Univision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adweek</font>"
+            ],
+            "source": [
+              {
+                "_": "Adweek",
+                "$": {
+                  "url": "https://www.adweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fresno State football game to be broadcast by Univision in Spanish - The Business Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGhlYnVzaW5lc3Nqb3VybmFsLmNvbS9mcmVzbm8tc3RhdGUtZm9vdGJhbGwtZ2FtZS10by1iZS1icm9hZGNhc3QtYnktdW5pdmlzaW9uLWluLXNwYW5pc2gv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vdGhlYnVzaW5lc3Nqb3VybmFsLmNvbS9mcmVzbm8tc3RhdGUtZm9vdGJhbGwtZ2FtZS10by1iZS1icm9hZGNhc3QtYnktdW5pdmlzaW9uLWluLXNwYW5pc2gv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 24 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGhlYnVzaW5lc3Nqb3VybmFsLmNvbS9mcmVzbm8tc3RhdGUtZm9vdGJhbGwtZ2FtZS10by1iZS1icm9hZGNhc3QtYnktdW5pdmlzaW9uLWluLXNwYW5pc2gv0gEA?oc=5\" target=\"_blank\">Fresno State football game to be broadcast by Univision in Spanish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "The Business Journal",
+                "$": {
+                  "url": "https://thebusinessjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision's Clarissa Molina Shares Swimsuit Photo on \"Happy Birthday\" - Celebwell"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vY2VsZWJ3ZWxsLmNvbS9uZXdzLXVuaXZpc2lvbnMtY2xhcmlzc2EtbW9saW5hLXNoYXJlcy1zd2ltc3VpdC1waG90by1vbi1oYXBweS1iaXJ0aGRheS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vY2VsZWJ3ZWxsLmNvbS9uZXdzLXVuaXZpc2lvbnMtY2xhcmlzc2EtbW9saW5hLXNoYXJlcy1zd2ltc3VpdC1waG90by1vbi1oYXBweS1iaXJ0aGRheS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 26 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vY2VsZWJ3ZWxsLmNvbS9uZXdzLXVuaXZpc2lvbnMtY2xhcmlzc2EtbW9saW5hLXNoYXJlcy1zd2ltc3VpdC1waG90by1vbi1oYXBweS1iaXJ0aGRheS_SAQA?oc=5\" target=\"_blank\">Univision's Clarissa Molina Shares Swimsuit Photo on \"Happy Birthday\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Celebwell</font>"
+            ],
+            "source": [
+              {
+                "_": "Celebwell",
+                "$": {
+                  "url": "https://celebwell.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former Univision journalist fills Spanish-speaking news desert from his home in Lynnwood | MLTnews.com - MLT News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbWx0bmV3cy5jb20vZm9ybWVyLXVuaXZpc2lvbi1qb3VybmFsaXN0LWZpbGxzLXNwYW5pc2gtc3BlYWtpbmctbmV3cy1kZXNlcnQtZnJvbS1oaXMtaG9tZS1pbi1seW5ud29vZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vbWx0bmV3cy5jb20vZm9ybWVyLXVuaXZpc2lvbi1qb3VybmFsaXN0LWZpbGxzLXNwYW5pc2gtc3BlYWtpbmctbmV3cy1kZXNlcnQtZnJvbS1oaXMtaG9tZS1pbi1seW5ud29vZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 28 Jan 2024 02:01:57 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbWx0bmV3cy5jb20vZm9ybWVyLXVuaXZpc2lvbi1qb3VybmFsaXN0LWZpbGxzLXNwYW5pc2gtc3BlYWtpbmctbmV3cy1kZXNlcnQtZnJvbS1oaXMtaG9tZS1pbi1seW5ud29vZC_SAQA?oc=5\" target=\"_blank\">Former Univision journalist fills Spanish-speaking news desert from his home in Lynnwood | MLTnews.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLT News</font>"
+            ],
+            "source": [
+              {
+                "_": "MLT News",
+                "$": {
+                  "url": "https://mltnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "With Univision Seattle gone, this former anchor is filling the Spanish-language news gap - KUOW News and Information"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lmt1b3cub3JnL3N0b3JpZXMvZm9ybWVyLWFuY2hvci1maWxsaW5nLXNwYW5pc2gtbGFuZ3VhZ2UtbmV3cy1nYXDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3Lmt1b3cub3JnL3N0b3JpZXMvZm9ybWVyLWFuY2hvci1maWxsaW5nLXNwYW5pc2gtbGFuZ3VhZ2UtbmV3cy1nYXDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lmt1b3cub3JnL3N0b3JpZXMvZm9ybWVyLWFuY2hvci1maWxsaW5nLXNwYW5pc2gtbGFuZ3VhZ2UtbmV3cy1nYXDSAQA?oc=5\" target=\"_blank\">With Univision Seattle gone, this former anchor is filling the Spanish-language news gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUOW News and Information</font>"
+            ],
+            "source": [
+              {
+                "_": "KUOW News and Information",
+                "$": {
+                  "url": "https://www.kuow.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision journalist defends Trump interview that caused liberal firestorm: We offered 'fair platform' - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1qb3VybmFsaXN0LWRlZmVuZHMtdHJ1bXAtaW50ZXJ2aWV3LWNhdXNlZC1saWJlcmFsLWZpcmVzdG9ybS13ZS1vZmZlcmVkLWZhaXItcGxhdGZvcm3SAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvdW5pdmlzaW9uLWpvdXJuYWxpc3QtZGVmZW5kcy10cnVtcC1pbnRlcnZpZXctY2F1c2VkLWxpYmVyYWwtZmlyZXN0b3JtLXdlLW9mZmVyZWQtZmFpci1wbGF0Zm9ybS5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1qb3VybmFsaXN0LWRlZmVuZHMtdHJ1bXAtaW50ZXJ2aWV3LWNhdXNlZC1saWJlcmFsLWZpcmVzdG9ybS13ZS1vZmZlcmVkLWZhaXItcGxhdGZvcm3SAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvdW5pdmlzaW9uLWpvdXJuYWxpc3QtZGVmZW5kcy10cnVtcC1pbnRlcnZpZXctY2F1c2VkLWxpYmVyYWwtZmlyZXN0b3JtLXdlLW9mZmVyZWQtZmFpci1wbGF0Zm9ybS5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3VuaXZpc2lvbi1qb3VybmFsaXN0LWRlZmVuZHMtdHJ1bXAtaW50ZXJ2aWV3LWNhdXNlZC1saWJlcmFsLWZpcmVzdG9ybS13ZS1vZmZlcmVkLWZhaXItcGxhdGZvcm3SAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvdW5pdmlzaW9uLWpvdXJuYWxpc3QtZGVmZW5kcy10cnVtcC1pbnRlcnZpZXctY2F1c2VkLWxpYmVyYWwtZmlyZXN0b3JtLXdlLW9mZmVyZWQtZmFpci1wbGF0Zm9ybS5hbXA?oc=5\" target=\"_blank\">Univision journalist defends Trump interview that caused liberal firestorm: We offered 'fair platform'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision News Chief Leopoldo Gómez Exits Network - Adweek"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmFkd2Vlay5jb20vdHZuZXdzZXIvdW5pdmlzaW9uLW5ld3MtY2hpZWYtbGVvcG9sZG8tZ29tZXotZXhpdHMtbmV0d29yay81MzQxNTEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmFkd2Vlay5jb20vdHZuZXdzZXIvdW5pdmlzaW9uLW5ld3MtY2hpZWYtbGVvcG9sZG8tZ29tZXotZXhpdHMtbmV0d29yay81MzQxNTEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 10 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmFkd2Vlay5jb20vdHZuZXdzZXIvdW5pdmlzaW9uLW5ld3MtY2hpZWYtbGVvcG9sZG8tZ29tZXotZXhpdHMtbmV0d29yay81MzQxNTEv0gEA?oc=5\" target=\"_blank\">Univision News Chief Leopoldo Gómez Exits Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adweek</font>"
+            ],
+            "source": [
+              {
+                "_": "Adweek",
+                "$": {
+                  "url": "https://www.adweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Univision Anchor Leon Krauze Exits in Wake of Network's Controversial Trump Interview - Yahoo Entertainment"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L3VuaXZpc2lvbi1hbmNob3ItbGVvbi1rcmF1emUtZXhpdHMtMjEzMjI5NDc1Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L3VuaXZpc2lvbi1hbmNob3ItbGVvbi1rcmF1emUtZXhpdHMtMjEzMjI5NDc1Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L3VuaXZpc2lvbi1hbmNob3ItbGVvbi1rcmF1emUtZXhpdHMtMjEzMjI5NDc1Lmh0bWzSAQA?oc=5\" target=\"_blank\">Univision Anchor Leon Krauze Exits in Wake of Network's Controversial Trump Interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Entertainment</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Entertainment",
+                "$": {
+                  "url": "https://www.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Here’s Why People Are Boycotting Univision - Remezcla"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vcmVtZXpjbGEuY29tL2N1bHR1cmUvaGVyZXMtd2h5LXBlb3BsZS1hcmUtYm95Y290dGluZy11bml2aXNpb24tc3BhbmlzaC1lc3Bhbm9sLW5ldHdvcmsv0gFjaHR0cHM6Ly9yZW1lemNsYS5jb20vY3VsdHVyZS9oZXJlcy13aHktcGVvcGxlLWFyZS1ib3ljb3R0aW5nLXVuaXZpc2lvbi1zcGFuaXNoLWVzcGFub2wtbmV0d29yay8_YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vcmVtZXpjbGEuY29tL2N1bHR1cmUvaGVyZXMtd2h5LXBlb3BsZS1hcmUtYm95Y290dGluZy11bml2aXNpb24tc3BhbmlzaC1lc3Bhbm9sLW5ldHdvcmsv0gFjaHR0cHM6Ly9yZW1lemNsYS5jb20vY3VsdHVyZS9oZXJlcy13aHktcGVvcGxlLWFyZS1ib3ljb3R0aW5nLXVuaXZpc2lvbi1zcGFuaXNoLWVzcGFub2wtbmV0d29yay8_YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vcmVtZXpjbGEuY29tL2N1bHR1cmUvaGVyZXMtd2h5LXBlb3BsZS1hcmUtYm95Y290dGluZy11bml2aXNpb24tc3BhbmlzaC1lc3Bhbm9sLW5ldHdvcmsv0gFjaHR0cHM6Ly9yZW1lemNsYS5jb20vY3VsdHVyZS9oZXJlcy13aHktcGVvcGxlLWFyZS1ib3ljb3R0aW5nLXVuaXZpc2lvbi1zcGFuaXNoLWVzcGFub2wtbmV0d29yay8_YW1w?oc=5\" target=\"_blank\">Here’s Why People Are Boycotting Univision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Remezcla</font>"
+            ],
+            "source": [
+              {
+                "_": "Remezcla",
+                "$": {
+                  "url": "https://remezcla.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,638 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Damon T. Hininger\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Damon+T.+Hininger&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "CoreCivic Enters Into New Management Contract With Montana at Saguaro Correctional Facility in Arizona - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtZW50ZXJzLW1hbmFnZW1lbnQtY29udHJhY3QtbW9udGFuYS0xMzAwMDA0OTkuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtZW50ZXJzLW1hbmFnZW1lbnQtY29udHJhY3QtbW9udGFuYS0xMzAwMDA0OTkuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtZW50ZXJzLW1hbmFnZW1lbnQtY29udHJhY3QtbW9udGFuYS0xMzAwMDA0OTkuaHRtbNIBAA?oc=5\" target=\"_blank\">CoreCivic Enters Into New Management Contract With Montana at Saguaro Correctional Facility in Arizona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CoreCivic can help solve tough government problems - Tennessean"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L29waW5pb24vY29udHJpYnV0b3JzLzIwMTYvMTEvMDIvY29yZWNpdmljLWNhbi1oZWxwLXNvbHZlLXRvdWdoLWdvdmVybm1lbnQtcHJvYmxlbXMvOTMxMjEwODIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L29waW5pb24vY29udHJpYnV0b3JzLzIwMTYvMTEvMDIvY29yZWNpdmljLWNhbi1oZWxwLXNvbHZlLXRvdWdoLWdvdmVybm1lbnQtcHJvYmxlbXMvOTMxMjEwODIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Nov 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L29waW5pb24vY29udHJpYnV0b3JzLzIwMTYvMTEvMDIvY29yZWNpdmljLWNhbi1oZWxwLXNvbHZlLXRvdWdoLWdvdmVybm1lbnQtcHJvYmxlbXMvOTMxMjEwODIv0gEA?oc=5\" target=\"_blank\">CoreCivic can help solve tough government problems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessean</font>"
+            ],
+            "source": [
+              {
+                "_": "Tennessean",
+                "$": {
+                  "url": "https://www.tennessean.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "As Alabama debates $700 million prison plan CEO of private prison company shows up. Coincidence? - al.com - AL.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmFsLmNvbS9uZXdzLzIwMTYvMDQvYXNfYWxhYmFtYV9kZWJhdGVzXzcwMF9taWxsaW9uLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vd3d3LmFsLmNvbS9uZXdzLzIwMTYvMDQvYXNfYWxhYmFtYV9kZWJhdGVzXzcwMF9taWxsaW9uLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 26 Apr 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmFsLmNvbS9uZXdzLzIwMTYvMDQvYXNfYWxhYmFtYV9kZWJhdGVzXzcwMF9taWxsaW9uLmh0bWzSAQA?oc=5\" target=\"_blank\">As Alabama debates $700 million prison plan CEO of private prison company shows up. Coincidence? - al.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>"
+            ],
+            "source": [
+              {
+                "_": "AL.com",
+                "$": {
+                  "url": "https://www.al.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "In Pictures: America's 20 Most Powerful CEOs 40 And Under - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vMjAxMS8wMi8xNC9tb3N0LXBvd2VyZnVsLWNlb3MtNDAtdW5kZXItbGVhZGVyc2hpcC1sZWFkZXJzLXlvdW5nX3NsaWRlLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vMjAxMS8wMi8xNC9tb3N0LXBvd2VyZnVsLWNlb3MtNDAtdW5kZXItbGVhZGVyc2hpcC1sZWFkZXJzLXlvdW5nX3NsaWRlLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 14 Feb 2011 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vMjAxMS8wMi8xNC9tb3N0LXBvd2VyZnVsLWNlb3MtNDAtdW5kZXItbGVhZGVyc2hpcC1sZWFkZXJzLXlvdW5nX3NsaWRlLmh0bWzSAQA?oc=5\" target=\"_blank\">In Pictures: America's 20 Most Powerful CEOs 40 And Under</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How Corporate America Uses ESG to Polish Its Image - The Intercept"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIyLzA2LzI3L2VzZy1mdW5kcy1jb3Jwb3JhdGUtcmVzcG9uc2liaWxpdHktZGVpL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIyLzA2LzI3L2VzZy1mdW5kcy1jb3Jwb3JhdGUtcmVzcG9uc2liaWxpdHktZGVpL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIyLzA2LzI3L2VzZy1mdW5kcy1jb3Jwb3JhdGUtcmVzcG9uc2liaWxpdHktZGVpL9IBAA?oc=5\" target=\"_blank\">How Corporate America Uses ESG to Polish Its Image</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Intercept</font>"
+            ],
+            "source": [
+              {
+                "_": "The Intercept",
+                "$": {
+                  "url": "https://theintercept.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CoreCivic Suspends Quarterly Dividend While It Evaluates Corporate Structure and Capital Allocation Alternatives - GlobeNewswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyMC8wNi8xNy8yMDQ5NDQ2LzAvZW4vQ29yZUNpdmljLVN1c3BlbmRzLVF1YXJ0ZXJseS1EaXZpZGVuZC1XaGlsZS1JdC1FdmFsdWF0ZXMtQ29ycG9yYXRlLVN0cnVjdHVyZS1hbmQtQ2FwaXRhbC1BbGxvY2F0aW9uLUFsdGVybmF0aXZlcy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiuAFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyMC8wNi8xNy8yMDQ5NDQ2LzAvZW4vQ29yZUNpdmljLVN1c3BlbmRzLVF1YXJ0ZXJseS1EaXZpZGVuZC1XaGlsZS1JdC1FdmFsdWF0ZXMtQ29ycG9yYXRlLVN0cnVjdHVyZS1hbmQtQ2FwaXRhbC1BbGxvY2F0aW9uLUFsdGVybmF0aXZlcy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jun 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyMC8wNi8xNy8yMDQ5NDQ2LzAvZW4vQ29yZUNpdmljLVN1c3BlbmRzLVF1YXJ0ZXJseS1EaXZpZGVuZC1XaGlsZS1JdC1FdmFsdWF0ZXMtQ29ycG9yYXRlLVN0cnVjdHVyZS1hbmQtQ2FwaXRhbC1BbGxvY2F0aW9uLUFsdGVybmF0aXZlcy5odG1s0gEA?oc=5\" target=\"_blank\">CoreCivic Suspends Quarterly Dividend While It Evaluates Corporate Structure and Capital Allocation Alternatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>"
+            ],
+            "source": [
+              {
+                "_": "GlobeNewswire",
+                "$": {
+                  "url": "https://www.globenewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Escapes, Riots and Beatings. But States Can't Seem to Ditch Private Prisons. (Published 2018) - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTgvMDQvMTAvdXMvcHJpdmF0ZS1wcmlzb25zLWVzY2FwZXMtcmlvdHMuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTgvMDQvMTAvdXMvcHJpdmF0ZS1wcmlzb25zLWVzY2FwZXMtcmlvdHMuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 10 Apr 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTgvMDQvMTAvdXMvcHJpdmF0ZS1wcmlzb25zLWVzY2FwZXMtcmlvdHMuaHRtbNIBAA?oc=5\" target=\"_blank\">Escapes, Riots and Beatings. But States Can't Seem to Ditch Private Prisons. (Published 2018)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CoreCivic Reports Second Quarter 2023 Financial Results - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtcmVwb3J0cy1zZWNvbmQtcXVhcnRlci0yMDIzLTIwMzEwMDAzNy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtcmVwb3J0cy1zZWNvbmQtcXVhcnRlci0yMDIzLTIwMzEwMDAzNy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 07 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtcmVwb3J0cy1zZWNvbmQtcXVhcnRlci0yMDIzLTIwMzEwMDAzNy5odG1s0gEA?oc=5\" target=\"_blank\">CoreCivic Reports Second Quarter 2023 Financial Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Private Prison Company Frees Itself From Its Old Corporate Identity – Mother Jones - Mother Jones"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm1vdGhlcmpvbmVzLmNvbS9wb2xpdGljcy8yMDE2LzEwL2NvcnJlY3Rpb25zLWNvcnBvcmF0aW9uLWFtZXJpY2EtcHJpdmF0ZS1wcmlzb24tcmVicmFuZGluZy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lm1vdGhlcmpvbmVzLmNvbS9wb2xpdGljcy8yMDE2LzEwL2NvcnJlY3Rpb25zLWNvcnBvcmF0aW9uLWFtZXJpY2EtcHJpdmF0ZS1wcmlzb24tcmVicmFuZGluZy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Oct 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm1vdGhlcmpvbmVzLmNvbS9wb2xpdGljcy8yMDE2LzEwL2NvcnJlY3Rpb25zLWNvcnBvcmF0aW9uLWFtZXJpY2EtcHJpdmF0ZS1wcmlzb24tcmVicmFuZGluZy_SAQA?oc=5\" target=\"_blank\">Private Prison Company Frees Itself From Its Old Corporate Identity – Mother Jones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mother Jones</font>"
+            ],
+            "source": [
+              {
+                "_": "Mother Jones",
+                "$": {
+                  "url": "https://www.motherjones.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CoreCivic pivots to new finance strategy, counter negative publicity - Tennessean"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L21vbmV5LzIwMjAvMDgvMTAvY29yZWNpdmljLXBpdm90cy1uZXctZmluYW5jZS1zdHJhdGVneS1jb3VudGVyLW5lZ2F0aXZlLXB1YmxpY2l0eS8zMzEwMDYxMDAxL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L21vbmV5LzIwMjAvMDgvMTAvY29yZWNpdmljLXBpdm90cy1uZXctZmluYW5jZS1zdHJhdGVneS1jb3VudGVyLW5lZ2F0aXZlLXB1YmxpY2l0eS8zMzEwMDYxMDAxL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 10 Aug 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L21vbmV5LzIwMjAvMDgvMTAvY29yZWNpdmljLXBpdm90cy1uZXctZmluYW5jZS1zdHJhdGVneS1jb3VudGVyLW5lZ2F0aXZlLXB1YmxpY2l0eS8zMzEwMDYxMDAxL9IBAA?oc=5\" target=\"_blank\">CoreCivic pivots to new finance strategy, counter negative publicity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessean</font>"
+            ],
+            "source": [
+              {
+                "_": "Tennessean",
+                "$": {
+                  "url": "https://www.tennessean.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Controversies - Methodist Church Pulls Investments from Private Prisons - AllGov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHA6Ly93d3cuYWxsZ292LmNvbS9uZXdzL2NvbnRyb3ZlcnNpZXMvbWV0aG9kaXN0LWNodXJjaC1wdWxscy1pbnZlc3RtZW50cy1mcm9tLXByaXZhdGUtcHJpc29ucz9uZXdzPTg0NDA2M9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHA6Ly93d3cuYWxsZ292LmNvbS9uZXdzL2NvbnRyb3ZlcnNpZXMvbWV0aG9kaXN0LWNodXJjaC1wdWxscy1pbnZlc3RtZW50cy1mcm9tLXByaXZhdGUtcHJpc29ucz9uZXdzPTg0NDA2M9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Feb 2012 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHA6Ly93d3cuYWxsZ292LmNvbS9uZXdzL2NvbnRyb3ZlcnNpZXMvbWV0aG9kaXN0LWNodXJjaC1wdWxscy1pbnZlc3RtZW50cy1mcm9tLXByaXZhdGUtcHJpc29ucz9uZXdzPTg0NDA2M9IBAA?oc=5\" target=\"_blank\">Controversies - Methodist Church Pulls Investments from Private Prisons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AllGov</font>"
+            ],
+            "source": [
+              {
+                "_": "AllGov",
+                "$": {
+                  "url": "http://www.allgov.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Corrections Corporation of America Rebrands as CoreCivic - GlobeNewswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lmdsb2JlbmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZS8yMDE2LzEwLzI4Lzg4NDMzNS8wL2VuL0NvcnJlY3Rpb25zLUNvcnBvcmF0aW9uLW9mLUFtZXJpY2EtUmVicmFuZHMtYXMtQ29yZUNpdmljLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3Lmdsb2JlbmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZS8yMDE2LzEwLzI4Lzg4NDMzNS8wL2VuL0NvcnJlY3Rpb25zLUNvcnBvcmF0aW9uLW9mLUFtZXJpY2EtUmVicmFuZHMtYXMtQ29yZUNpdmljLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Oct 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lmdsb2JlbmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZS8yMDE2LzEwLzI4Lzg4NDMzNS8wL2VuL0NvcnJlY3Rpb25zLUNvcnBvcmF0aW9uLW9mLUFtZXJpY2EtUmVicmFuZHMtYXMtQ29yZUNpdmljLmh0bWzSAQA?oc=5\" target=\"_blank\">Corrections Corporation of America Rebrands as CoreCivic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>"
+            ],
+            "source": [
+              {
+                "_": "GlobeNewswire",
+                "$": {
+                  "url": "https://www.globenewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "ICE Quietly Extends Elizabeth Detention Center Contract With CoreCivic - Documented - Documented NY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vZG9jdW1lbnRlZG55LmNvbS8yMDIxLzA4LzEzL2ljZS1xdWlldGx5LWV4dGVuZHMtZWxpemFiZXRoLWRldGVudGlvbi1jZW50ZXItY29udHJhY3Qtd2l0aC1jb3JlY2l2aWMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vZG9jdW1lbnRlZG55LmNvbS8yMDIxLzA4LzEzL2ljZS1xdWlldGx5LWV4dGVuZHMtZWxpemFiZXRoLWRldGVudGlvbi1jZW50ZXItY29udHJhY3Qtd2l0aC1jb3JlY2l2aWMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 13 Aug 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vZG9jdW1lbnRlZG55LmNvbS8yMDIxLzA4LzEzL2ljZS1xdWlldGx5LWV4dGVuZHMtZWxpemFiZXRoLWRldGVudGlvbi1jZW50ZXItY29udHJhY3Qtd2l0aC1jb3JlY2l2aWMv0gEA?oc=5\" target=\"_blank\">ICE Quietly Extends Elizabeth Detention Center Contract With CoreCivic - Documented</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Documented NY</font>"
+            ],
+            "source": [
+              {
+                "_": "Documented NY",
+                "$": {
+                  "url": "https://documentedny.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CoreCivic Reports Third Quarter 2023 Financial Results - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtcmVwb3J0cy10aGlyZC1xdWFydGVyLTIwMjMtMjExNTAwMjUwLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtcmVwb3J0cy10aGlyZC1xdWFydGVyLTIwMjMtMjExNTAwMjUwLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtcmVwb3J0cy10aGlyZC1xdWFydGVyLTIwMjMtMjExNTAwMjUwLmh0bWzSAQA?oc=5\" target=\"_blank\">CoreCivic Reports Third Quarter 2023 Financial Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Private Prison Giant CCA To 'Rebrand' as CoreCivic - Nashville Scene"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5uYXNodmlsbGVzY2VuZS5jb20vbmV3cy9waXRoaW50aGV3aW5kL3ByaXZhdGUtcHJpc29uLWdpYW50LWNjYS10by1yZWJyYW5kLWFzLWNvcmVjaXZpYy9hcnRpY2xlX2NmMTNmMDFjLTc2ZDEtNTE2OC1iYTIwLWE1ZDMzNDk5MzJkNC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilAFodHRwczovL3d3dy5uYXNodmlsbGVzY2VuZS5jb20vbmV3cy9waXRoaW50aGV3aW5kL3ByaXZhdGUtcHJpc29uLWdpYW50LWNjYS10by1yZWJyYW5kLWFzLWNvcmVjaXZpYy9hcnRpY2xlX2NmMTNmMDFjLTc2ZDEtNTE2OC1iYTIwLWE1ZDMzNDk5MzJkNC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Oct 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5uYXNodmlsbGVzY2VuZS5jb20vbmV3cy9waXRoaW50aGV3aW5kL3ByaXZhdGUtcHJpc29uLWdpYW50LWNjYS10by1yZWJyYW5kLWFzLWNvcmVjaXZpYy9hcnRpY2xlX2NmMTNmMDFjLTc2ZDEtNTE2OC1iYTIwLWE1ZDMzNDk5MzJkNC5odG1s0gEA?oc=5\" target=\"_blank\">Private Prison Giant CCA To 'Rebrand' as CoreCivic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nashville Scene</font>"
+            ],
+            "source": [
+              {
+                "_": "Nashville Scene",
+                "$": {
+                  "url": "https://www.nashvillescene.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CCA changes name to CoreCivic amid ongoing scrutiny - Tennessean"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L25ld3MvMjAxNi8xMC8yOC9jY2EtY2hhbmdlcy1uYW1lLWFtaWQtb25nb2luZy1zY3J1dGlueS85Mjg4MzI3NC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L25ld3MvMjAxNi8xMC8yOC9jY2EtY2hhbmdlcy1uYW1lLWFtaWQtb25nb2luZy1zY3J1dGlueS85Mjg4MzI3NC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Oct 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L25ld3MvMjAxNi8xMC8yOC9jY2EtY2hhbmdlcy1uYW1lLWFtaWQtb25nb2luZy1zY3J1dGlueS85Mjg4MzI3NC_SAQA?oc=5\" target=\"_blank\">CCA changes name to CoreCivic amid ongoing scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessean</font>"
+            ],
+            "source": [
+              {
+                "_": "Tennessean",
+                "$": {
+                  "url": "https://www.tennessean.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CoreCivic Reports Fourth Quarter and Full Year 2022 Financial Results - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtcmVwb3J0cy1mb3VydGgtcXVhcnRlci1mdWxsLTIxMTUwMDQ0Ny5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtcmVwb3J0cy1mb3VydGgtcXVhcnRlci1mdWxsLTIxMTUwMDQ0Ny5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtcmVwb3J0cy1mb3VydGgtcXVhcnRlci1mdWxsLTIxMTUwMDQ0Ny5odG1s0gEA?oc=5\" target=\"_blank\">CoreCivic Reports Fourth Quarter and Full Year 2022 Financial Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CCA to cut staff amid restructuring - Tennessean"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L21vbmV5LzIwMTYvMDkvMjcvY2NhLXN0b2NrLWRpdmVzLWFmdGVyLWNsaW50b25zLXByaXNvbi1jb21tZW50cy1kZWJhdGUvOTExNjI1NDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L21vbmV5LzIwMTYvMDkvMjcvY2NhLXN0b2NrLWRpdmVzLWFmdGVyLWNsaW50b25zLXByaXNvbi1jb21tZW50cy1kZWJhdGUvOTExNjI1NDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 27 Sep 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L21vbmV5LzIwMTYvMDkvMjcvY2NhLXN0b2NrLWRpdmVzLWFmdGVyLWNsaW50b25zLXByaXNvbi1jb21tZW50cy1kZWJhdGUvOTExNjI1NDIv0gEA?oc=5\" target=\"_blank\">CCA to cut staff amid restructuring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessean</font>"
+            ],
+            "source": [
+              {
+                "_": "Tennessean",
+                "$": {
+                  "url": "https://www.tennessean.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CoreCivic Enters Into New Management Contract With Hinds County - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtZW50ZXJzLW1hbmFnZW1lbnQtY29udHJhY3QtaGluZHMtMTIwMDAwMzgxLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtZW50ZXJzLW1hbmFnZW1lbnQtY29udHJhY3QtaGluZHMtMTIwMDAwMzgxLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 25 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtZW50ZXJzLW1hbmFnZW1lbnQtY29udHJhY3QtaGluZHMtMTIwMDAwMzgxLmh0bWzSAQA?oc=5\" target=\"_blank\">CoreCivic Enters Into New Management Contract With Hinds County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Is CoreCivic, Inc. (NYSE:CXW) Excessively Paying Its CEO? - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtaW5jLW55c2UtY3h3LWV4Y2Vzc2l2ZWx5LTE0NDYxNzQ0Ny5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtaW5jLW55c2UtY3h3LWV4Y2Vzc2l2ZWx5LTE0NDYxNzQ0Ny5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 09 Mar 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JlY2l2aWMtaW5jLW55c2UtY3h3LWV4Y2Vzc2l2ZWx5LTE0NDYxNzQ0Ny5odG1s0gEA?oc=5\" target=\"_blank\">Is CoreCivic, Inc. (NYSE:CXW) Excessively Paying Its CEO?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

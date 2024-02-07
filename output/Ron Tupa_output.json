@@ -1,0 +1,308 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Ron Tupa\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Ron+Tupa&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Ron Tupa is Not Going to be the First Person to Do This - Colorado Pols"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNvbG9yYWRvcG9scy5jb20vZGlhcnkvMTkxNjIzL3Jvbi10dXBhLWlzLW5vdC1nb2luZy10by1iZS10aGUtZmlyc3QtcGVyc29uLXRvLWRvLXRoaXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmNvbG9yYWRvcG9scy5jb20vZGlhcnkvMTkxNjIzL3Jvbi10dXBhLWlzLW5vdC1nb2luZy10by1iZS10aGUtZmlyc3QtcGVyc29uLXRvLWRvLXRoaXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 28 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNvbG9yYWRvcG9scy5jb20vZGlhcnkvMTkxNjIzL3Jvbi10dXBhLWlzLW5vdC1nb2luZy10by1iZS10aGUtZmlyc3QtcGVyc29uLXRvLWRvLXRoaXPSAQA?oc=5\" target=\"_blank\">Ron Tupa is Not Going to be the First Person to Do This</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Colorado Pols</font>"
+            ],
+            "source": [
+              {
+                "_": "Colorado Pols",
+                "$": {
+                  "url": "https://www.coloradopols.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Colorado's crop of congressional district switchers makes for Year of the Carpetbagger | TRAIL MIX - coloradopolitics.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMivgFodHRwczovL3d3dy5jb2xvcmFkb3BvbGl0aWNzLmNvbS9jb2x1bW5pc3RzL2NvbG9yYWRvcy1jcm9wLW9mLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3Qtc3dpdGNoZXJzLW1ha2VzLWZvci15ZWFyLW9mLXRoZS1jYXJwZXRiYWdnZXItLXRyYWlsLW1peC9hcnRpY2xlX2QwYWQ0MTg2LWI2OTAtMTFlZS05YTA4LTQzYTU5ZjFmZDRkZS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMivgFodHRwczovL3d3dy5jb2xvcmFkb3BvbGl0aWNzLmNvbS9jb2x1bW5pc3RzL2NvbG9yYWRvcy1jcm9wLW9mLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3Qtc3dpdGNoZXJzLW1ha2VzLWZvci15ZWFyLW9mLXRoZS1jYXJwZXRiYWdnZXItLXRyYWlsLW1peC9hcnRpY2xlX2QwYWQ0MTg2LWI2OTAtMTFlZS05YTA4LTQzYTU5ZjFmZDRkZS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 15:23:41 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMivgFodHRwczovL3d3dy5jb2xvcmFkb3BvbGl0aWNzLmNvbS9jb2x1bW5pc3RzL2NvbG9yYWRvcy1jcm9wLW9mLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3Qtc3dpdGNoZXJzLW1ha2VzLWZvci15ZWFyLW9mLXRoZS1jYXJwZXRiYWdnZXItLXRyYWlsLW1peC9hcnRpY2xlX2QwYWQ0MTg2LWI2OTAtMTFlZS05YTA4LTQzYTU5ZjFmZDRkZS5odG1s0gEA?oc=5\" target=\"_blank\">Colorado's crop of congressional district switchers makes for Year of the Carpetbagger | TRAIL MIX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">coloradopolitics.com</font>"
+            ],
+            "source": [
+              {
+                "_": "coloradopolitics.com",
+                "$": {
+                  "url": "https://www.coloradopolitics.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrats outpace Republicans in Colorado's congressional race cash dash - coloradopolitics.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5jb2xvcmFkb3BvbGl0aWNzLmNvbS9lbGVjdGlvbnMvMjAyNC9kZW1vY3JhdHMtb3V0cGFjZS1yZXB1YmxpY2Fucy1pbi1jb2xvcmFkb3MtY29uZ3Jlc3Npb25hbC1yYWNlLWNhc2gtZGFzaC9hcnRpY2xlXzg2NWY1NTZlLTZlMDctMTFlZS1iNDBmLTA3MGVhNzBiNmRkZi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqQFodHRwczovL3d3dy5jb2xvcmFkb3BvbGl0aWNzLmNvbS9lbGVjdGlvbnMvMjAyNC9kZW1vY3JhdHMtb3V0cGFjZS1yZXB1YmxpY2Fucy1pbi1jb2xvcmFkb3MtY29uZ3Jlc3Npb25hbC1yYWNlLWNhc2gtZGFzaC9hcnRpY2xlXzg2NWY1NTZlLTZlMDctMTFlZS1iNDBmLTA3MGVhNzBiNmRkZi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5jb2xvcmFkb3BvbGl0aWNzLmNvbS9lbGVjdGlvbnMvMjAyNC9kZW1vY3JhdHMtb3V0cGFjZS1yZXB1YmxpY2Fucy1pbi1jb2xvcmFkb3MtY29uZ3Jlc3Npb25hbC1yYWNlLWNhc2gtZGFzaC9hcnRpY2xlXzg2NWY1NTZlLTZlMDctMTFlZS1iNDBmLTA3MGVhNzBiNmRkZi5odG1s0gEA?oc=5\" target=\"_blank\">Democrats outpace Republicans in Colorado's congressional race cash dash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">coloradopolitics.com</font>"
+            ],
+            "source": [
+              {
+                "_": "coloradopolitics.com",
+                "$": {
+                  "url": "https://www.coloradopolitics.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Colorado Senate District 23 primary results: Democrat, Republican race - Coloradoan"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNvbG9yYWRvYW4uY29tL3N0b3J5L25ld3MvMjAyMC8wNy8wMS9jb2xvcmFkby1zZW5hdGUtZGlzdHJpY3QtMjMtcHJpbWFyeS1kZW1vY3JhdC1yZXB1YmxpY2FuLXJlc3VsdHMvMzIwNjg4NjAwMS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmNvbG9yYWRvYW4uY29tL3N0b3J5L25ld3MvMjAyMC8wNy8wMS9jb2xvcmFkby1zZW5hdGUtZGlzdHJpY3QtMjMtcHJpbWFyeS1kZW1vY3JhdC1yZXB1YmxpY2FuLXJlc3VsdHMvMzIwNjg4NjAwMS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 01 Jul 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNvbG9yYWRvYW4uY29tL3N0b3J5L25ld3MvMjAyMC8wNy8wMS9jb2xvcmFkby1zZW5hdGUtZGlzdHJpY3QtMjMtcHJpbWFyeS1kZW1vY3JhdC1yZXB1YmxpY2FuLXJlc3VsdHMvMzIwNjg4NjAwMS_SAQA?oc=5\" target=\"_blank\">Colorado Senate District 23 primary results: Democrat, Republican race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coloradoan</font>"
+            ],
+            "source": [
+              {
+                "_": "Coloradoan",
+                "$": {
+                  "url": "https://www.coloradoan.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "RTD Loses Millions on Parking Because State Legislators Wanted It That Way - Streetsblog Denver"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vZGVudmVyLnN0cmVldHNibG9nLm9yZy8yMDE2LzA1LzI1L3J0ZC1sb3Nlcy1taWxsaW9ucy1vbi1wYXJraW5nLWJlY2F1c2Utc3RhdGUtbGVnaXNsYXRvcnMtd2FudGVkLWl0LXRoYXQtd2F5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vZGVudmVyLnN0cmVldHNibG9nLm9yZy8yMDE2LzA1LzI1L3J0ZC1sb3Nlcy1taWxsaW9ucy1vbi1wYXJraW5nLWJlY2F1c2Utc3RhdGUtbGVnaXNsYXRvcnMtd2FudGVkLWl0LXRoYXQtd2F5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 May 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vZGVudmVyLnN0cmVldHNibG9nLm9yZy8yMDE2LzA1LzI1L3J0ZC1sb3Nlcy1taWxsaW9ucy1vbi1wYXJraW5nLWJlY2F1c2Utc3RhdGUtbGVnaXNsYXRvcnMtd2FudGVkLWl0LXRoYXQtd2F5L9IBAA?oc=5\" target=\"_blank\">RTD Loses Millions on Parking Because State Legislators Wanted It That Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Streetsblog Denver</font>"
+            ],
+            "source": [
+              {
+                "_": "Streetsblog Denver",
+                "$": {
+                  "url": "https://denver.streetsblog.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Plenty of overlap in race for Tupa’s seat - The Denver Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmRlbnZlcnBvc3QuY29tLzIwMDgvMDgvMDEvcGxlbnR5LW9mLW92ZXJsYXAtaW4tcmFjZS1mb3ItdHVwYXMtc2VhdC_SAVNodHRwczovL3d3dy5kZW52ZXJwb3N0LmNvbS8yMDA4LzA4LzAxL3BsZW50eS1vZi1vdmVybGFwLWluLXJhY2UtZm9yLXR1cGFzLXNlYXQvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LmRlbnZlcnBvc3QuY29tLzIwMDgvMDgvMDEvcGxlbnR5LW9mLW92ZXJsYXAtaW4tcmFjZS1mb3ItdHVwYXMtc2VhdC_SAVNodHRwczovL3d3dy5kZW52ZXJwb3N0LmNvbS8yMDA4LzA4LzAxL3BsZW50eS1vZi1vdmVybGFwLWluLXJhY2UtZm9yLXR1cGFzLXNlYXQvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Aug 2008 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmRlbnZlcnBvc3QuY29tLzIwMDgvMDgvMDEvcGxlbnR5LW9mLW92ZXJsYXAtaW4tcmFjZS1mb3ItdHVwYXMtc2VhdC_SAVNodHRwczovL3d3dy5kZW52ZXJwb3N0LmNvbS8yMDA4LzA4LzAxL3BsZW50eS1vZi1vdmVybGFwLWluLXJhY2UtZm9yLXR1cGFzLXNlYXQvYW1wLw?oc=5\" target=\"_blank\">Plenty of overlap in race for Tupa’s seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Denver Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Denver Post",
+                "$": {
+                  "url": "https://www.denverpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Revealing Federal Fundraising Reports for Colorado Candidates - Colorado Pols"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNvbG9yYWRvcG9scy5jb20vZGlhcnkvMTkzMzQ5L3JldmVhbGluZy1mZWRlcmFsLWZ1bmRyYWlzaW5nLXJlcG9ydHMtZm9yLWNvbG9yYWRvLWNhbmRpZGF0ZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmNvbG9yYWRvcG9scy5jb20vZGlhcnkvMTkzMzQ5L3JldmVhbGluZy1mZWRlcmFsLWZ1bmRyYWlzaW5nLXJlcG9ydHMtZm9yLWNvbG9yYWRvLWNhbmRpZGF0ZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNvbG9yYWRvcG9scy5jb20vZGlhcnkvMTkzMzQ5L3JldmVhbGluZy1mZWRlcmFsLWZ1bmRyYWlzaW5nLXJlcG9ydHMtZm9yLWNvbG9yYWRvLWNhbmRpZGF0ZXPSAQA?oc=5\" target=\"_blank\">Revealing Federal Fundraising Reports for Colorado Candidates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Colorado Pols</font>"
+            ],
+            "source": [
+              {
+                "_": "Colorado Pols",
+                "$": {
+                  "url": "https://www.coloradopols.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "15 years after failed effort, former legislators relieved at passage of sex abuse bill - coloradopolitics.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy5jb2xvcmFkb3BvbGl0aWNzLmNvbS9sZWdpc2xhdHVyZS8xNS15ZWFycy1hZnRlci1mYWlsZWQtZWZmb3J0LWZvcm1lci1sZWdpc2xhdG9ycy1yZWxpZXZlZC1hdC1wYXNzYWdlLW9mLXNleC1hYnVzZS1iaWxsL2FydGljbGVfY2ZjNTk1MTQtZDNhNS0xMWViLTlmYWYtNjcwMTE5YjU0OGU1Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitAFodHRwczovL3d3dy5jb2xvcmFkb3BvbGl0aWNzLmNvbS9sZWdpc2xhdHVyZS8xNS15ZWFycy1hZnRlci1mYWlsZWQtZWZmb3J0LWZvcm1lci1sZWdpc2xhdG9ycy1yZWxpZXZlZC1hdC1wYXNzYWdlLW9mLXNleC1hYnVzZS1iaWxsL2FydGljbGVfY2ZjNTk1MTQtZDNhNS0xMWViLTlmYWYtNjcwMTE5YjU0OGU1Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 23 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy5jb2xvcmFkb3BvbGl0aWNzLmNvbS9sZWdpc2xhdHVyZS8xNS15ZWFycy1hZnRlci1mYWlsZWQtZWZmb3J0LWZvcm1lci1sZWdpc2xhdG9ycy1yZWxpZXZlZC1hdC1wYXNzYWdlLW9mLXNleC1hYnVzZS1iaWxsL2FydGljbGVfY2ZjNTk1MTQtZDNhNS0xMWViLTlmYWYtNjcwMTE5YjU0OGU1Lmh0bWzSAQA?oc=5\" target=\"_blank\">15 years after failed effort, former legislators relieved at passage of sex abuse bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">coloradopolitics.com</font>"
+            ],
+            "source": [
+              {
+                "_": "coloradopolitics.com",
+                "$": {
+                  "url": "https://www.coloradopolitics.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Curtain rises on 2008 legislature - The Denver Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmRlbnZlcnBvc3QuY29tLzIwMDgvMDEvMDkvY3VydGFpbi1yaXNlcy1vbi0yMDA4LWxlZ2lzbGF0dXJlL9IBTGh0dHBzOi8vd3d3LmRlbnZlcnBvc3QuY29tLzIwMDgvMDEvMDkvY3VydGFpbi1yaXNlcy1vbi0yMDA4LWxlZ2lzbGF0dXJlL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vd3d3LmRlbnZlcnBvc3QuY29tLzIwMDgvMDEvMDkvY3VydGFpbi1yaXNlcy1vbi0yMDA4LWxlZ2lzbGF0dXJlL9IBTGh0dHBzOi8vd3d3LmRlbnZlcnBvc3QuY29tLzIwMDgvMDEvMDkvY3VydGFpbi1yaXNlcy1vbi0yMDA4LWxlZ2lzbGF0dXJlL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Jan 2008 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmRlbnZlcnBvc3QuY29tLzIwMDgvMDEvMDkvY3VydGFpbi1yaXNlcy1vbi0yMDA4LWxlZ2lzbGF0dXJlL9IBTGh0dHBzOi8vd3d3LmRlbnZlcnBvc3QuY29tLzIwMDgvMDEvMDkvY3VydGFpbi1yaXNlcy1vbi0yMDA4LWxlZ2lzbGF0dXJlL2FtcC8?oc=5\" target=\"_blank\">Curtain rises on 2008 legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Denver Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Denver Post",
+                "$": {
+                  "url": "https://www.denverpost.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

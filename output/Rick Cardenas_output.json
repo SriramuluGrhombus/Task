@@ -1,0 +1,1538 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Rick Cardenas\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Rick+Cardenas&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Olive Garden parent Darden Restaurants bets on fine dining with $715 million Ruth's Chris deal - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDUvMDQvb2xpdmUtZ2FyZGVuLXBhcmVudC1kYXJkZW4tcmVzdGF1cmFudHMtYmV0cy1vbi1maW5lLWRpbmluZy13aXRoLXJ1dGhzLWNocmlzLWRlYWwuaHRtbNIBeWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIzLzA1LzA0L29saXZlLWdhcmRlbi1wYXJlbnQtZGFyZGVuLXJlc3RhdXJhbnRzLWJldHMtb24tZmluZS1kaW5pbmctd2l0aC1ydXRocy1jaHJpcy1kZWFsLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDUvMDQvb2xpdmUtZ2FyZGVuLXBhcmVudC1kYXJkZW4tcmVzdGF1cmFudHMtYmV0cy1vbi1maW5lLWRpbmluZy13aXRoLXJ1dGhzLWNocmlzLWRlYWwuaHRtbNIBeWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIzLzA1LzA0L29saXZlLWdhcmRlbi1wYXJlbnQtZGFyZGVuLXJlc3RhdXJhbnRzLWJldHMtb24tZmluZS1kaW5pbmctd2l0aC1ydXRocy1jaHJpcy1kZWFsLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDUvMDQvb2xpdmUtZ2FyZGVuLXBhcmVudC1kYXJkZW4tcmVzdGF1cmFudHMtYmV0cy1vbi1maW5lLWRpbmluZy13aXRoLXJ1dGhzLWNocmlzLWRlYWwuaHRtbNIBeWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIzLzA1LzA0L29saXZlLWdhcmRlbi1wYXJlbnQtZGFyZGVuLXJlc3RhdXJhbnRzLWJldHMtb24tZmluZS1kaW5pbmctd2l0aC1ydXRocy1jaHJpcy1kZWFsLmh0bWw?oc=5\" target=\"_blank\">Olive Garden parent Darden Restaurants bets on fine dining with $715 million Ruth's Chris deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden Restaurants, Inc. (NYSE:DRI) Q4 2023 Earnings Call Transcript - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kYXJkZW4tcmVzdGF1cmFudHMtaW5jLW55c2UtZHJpLTE3MTIxNjk2NS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kYXJkZW4tcmVzdGF1cmFudHMtaW5jLW55c2UtZHJpLTE3MTIxNjk2NS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 30 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kYXJkZW4tcmVzdGF1cmFudHMtaW5jLW55c2UtZHJpLTE3MTIxNjk2NS5odG1s0gEA?oc=5\" target=\"_blank\">Darden Restaurants, Inc. (NYSE:DRI) Q4 2023 Earnings Call Transcript</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Boss of OIive Garden parent company Darden Restaurants shrugs off concerns that weight loss drug Ozempic could - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI2NzI5ODEvT0lpdmUtR2FyZGVuLU96ZW1waWMtY29uY2VybnMtZGVtYW5kLVdhbG1hcnQuaHRtbNIBZ2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI2NzI5ODEvYW1wL09JaXZlLUdhcmRlbi1PemVtcGljLWNvbmNlcm5zLWRlbWFuZC1XYWxtYXJ0Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI2NzI5ODEvT0lpdmUtR2FyZGVuLU96ZW1waWMtY29uY2VybnMtZGVtYW5kLVdhbG1hcnQuaHRtbNIBZ2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI2NzI5ODEvYW1wL09JaXZlLUdhcmRlbi1PemVtcGljLWNvbmNlcm5zLWRlbWFuZC1XYWxtYXJ0Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 26 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI2NzI5ODEvT0lpdmUtR2FyZGVuLU96ZW1waWMtY29uY2VybnMtZGVtYW5kLVdhbG1hcnQuaHRtbNIBZ2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI2NzI5ODEvYW1wL09JaXZlLUdhcmRlbi1PemVtcGljLWNvbmNlcm5zLWRlbWFuZC1XYWxtYXJ0Lmh0bWw?oc=5\" target=\"_blank\">Boss of OIive Garden parent company Darden Restaurants shrugs off concerns that weight loss drug Ozempic could</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Here’s how many new Darden restaurants are coming & why - WFTV Orlando"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LndmdHYuY29tL25ld3MvbG9jYWwvaGVyZXMtaG93LW1hbnktbmV3LWRhcmRlbi1yZXN0YXVyYW50cy1hcmUtY29taW5nLXdoeS9IVlNBQ1VaSFZCQUpCQUlQVlNDVzJJRkRHRS_SAX9odHRwczovL3d3dy53ZnR2LmNvbS9uZXdzL2xvY2FsL2hlcmVzLWhvdy1tYW55LW5ldy1kYXJkZW4tcmVzdGF1cmFudHMtYXJlLWNvbWluZy13aHkvSFZTQUNVWkhWQkFKQkFJUFZTQ1cySUZER0UvP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LndmdHYuY29tL25ld3MvbG9jYWwvaGVyZXMtaG93LW1hbnktbmV3LWRhcmRlbi1yZXN0YXVyYW50cy1hcmUtY29taW5nLXdoeS9IVlNBQ1VaSFZCQUpCQUlQVlNDVzJJRkRHRS_SAX9odHRwczovL3d3dy53ZnR2LmNvbS9uZXdzL2xvY2FsL2hlcmVzLWhvdy1tYW55LW5ldy1kYXJkZW4tcmVzdGF1cmFudHMtYXJlLWNvbWluZy13aHkvSFZTQUNVWkhWQkFKQkFJUFZTQ1cySUZER0UvP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LndmdHYuY29tL25ld3MvbG9jYWwvaGVyZXMtaG93LW1hbnktbmV3LWRhcmRlbi1yZXN0YXVyYW50cy1hcmUtY29taW5nLXdoeS9IVlNBQ1VaSFZCQUpCQUlQVlNDVzJJRkRHRS_SAX9odHRwczovL3d3dy53ZnR2LmNvbS9uZXdzL2xvY2FsL2hlcmVzLWhvdy1tYW55LW5ldy1kYXJkZW4tcmVzdGF1cmFudHMtYXJlLWNvbWluZy13aHkvSFZTQUNVWkhWQkFKQkFJUFZTQ1cySUZER0UvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">Here’s how many new Darden restaurants are coming & why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFTV Orlando</font>"
+            ],
+            "source": [
+              {
+                "_": "WFTV Orlando",
+                "$": {
+                  "url": "https://www.wftv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden CEO says dining out continues to be 'an affordable luxury' - Nation's Restaurant News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5ybi5jb20vY2FzdWFsLWRpbmluZy9kYXJkZW4tY2VvLXNheXMtZGluaW5nLW91dC1jb250aW51ZXMtYmUtYWZmb3JkYWJsZS1sdXh1cnnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3Lm5ybi5jb20vY2FzdWFsLWRpbmluZy9kYXJkZW4tY2VvLXNheXMtZGluaW5nLW91dC1jb250aW51ZXMtYmUtYWZmb3JkYWJsZS1sdXh1cnnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5ybi5jb20vY2FzdWFsLWRpbmluZy9kYXJkZW4tY2VvLXNheXMtZGluaW5nLW91dC1jb250aW51ZXMtYmUtYWZmb3JkYWJsZS1sdXh1cnnSAQA?oc=5\" target=\"_blank\">Darden CEO says dining out continues to be 'an affordable luxury'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nation's Restaurant News</font>"
+            ],
+            "source": [
+              {
+                "_": "Nation's Restaurant News",
+                "$": {
+                  "url": "https://www.nrn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gene Lee is retiring as Darden chairman - Restaurant Business Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9sZWFkZXJzaGlwL2dlbmUtbGVlLXJldGlyaW5nLWRhcmRlbi1jaGFpcm1hbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9sZWFkZXJzaGlwL2dlbmUtbGVlLXJldGlyaW5nLWRhcmRlbi1jaGFpcm1hbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9sZWFkZXJzaGlwL2dlbmUtbGVlLXJldGlyaW5nLWRhcmRlbi1jaGFpcm1hbtIBAA?oc=5\" target=\"_blank\">Gene Lee is retiring as Darden chairman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Restaurant Business Online</font>"
+            ],
+            "source": [
+              {
+                "_": "Restaurant Business Online",
+                "$": {
+                  "url": "https://restaurantbusinessonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden's fine-dining business weakens, but overall sales grow - Orlando Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMy8wNi8yMi9kYXJkZW5zLWZpbmUtZGluaW5nLWJ1c2luZXNzLXdlYWtlbnMtYnV0LW92ZXJhbGwtc2FsZXMtZ3Jvdy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMy8wNi8yMi9kYXJkZW5zLWZpbmUtZGluaW5nLWJ1c2luZXNzLXdlYWtlbnMtYnV0LW92ZXJhbGwtc2FsZXMtZ3Jvdy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMy8wNi8yMi9kYXJkZW5zLWZpbmUtZGluaW5nLWJ1c2luZXNzLXdlYWtlbnMtYnV0LW92ZXJhbGwtc2FsZXMtZ3Jvdy_SAQA?oc=5\" target=\"_blank\">Darden's fine-dining business weakens, but overall sales grow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orlando Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Orlando Sentinel",
+                "$": {
+                  "url": "https://www.orlandosentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Olive Garden owner's sales grow, but fine dining business falls again - Victoria Advocate"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy52aWN0b3JpYWFkdm9jYXRlLmNvbS9uZXdzL29saXZlLWdhcmRlbi1vd25lci1zLXNhbGVzLWdyb3ctYnV0LWZpbmUtZGluaW5nLWJ1c2luZXNzLWZhbGxzLWFnYWluL2FydGljbGVfYTRiZGQ4NTYtNThkYS0xMWVlLTg2NjktNjdhM2Q1NTM4MWU1Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy52aWN0b3JpYWFkdm9jYXRlLmNvbS9uZXdzL29saXZlLWdhcmRlbi1vd25lci1zLXNhbGVzLWdyb3ctYnV0LWZpbmUtZGluaW5nLWJ1c2luZXNzLWZhbGxzLWFnYWluL2FydGljbGVfYTRiZGQ4NTYtNThkYS0xMWVlLTg2NjktNjdhM2Q1NTM4MWU1Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy52aWN0b3JpYWFkdm9jYXRlLmNvbS9uZXdzL29saXZlLWdhcmRlbi1vd25lci1zLXNhbGVzLWdyb3ctYnV0LWZpbmUtZGluaW5nLWJ1c2luZXNzLWZhbGxzLWFnYWluL2FydGljbGVfYTRiZGQ4NTYtNThkYS0xMWVlLTg2NjktNjdhM2Q1NTM4MWU1Lmh0bWzSAQA?oc=5\" target=\"_blank\">Olive Garden owner's sales grow, but fine dining business falls again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Victoria Advocate</font>"
+            ],
+            "source": [
+              {
+                "_": "Victoria Advocate",
+                "$": {
+                  "url": "https://www.victoriaadvocate.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Seniors have stopped eating at Cracker Barrel, Olive Garden -- and it's not clear when they'll come back - New York Post "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzA5LzIyL3NlbmlvcnMtaGF2ZS1jdXQtYmFjay1vbi1kaW5uZXJzLWF0LWNyYWNrZXItYmFycmVsLW9saXZlLWdhcmRlbi_SAWJodHRwczovL255cG9zdC5jb20vMjAyMy8wOS8yMi9zZW5pb3JzLWhhdmUtY3V0LWJhY2stb24tZGlubmVycy1hdC1jcmFja2VyLWJhcnJlbC1vbGl2ZS1nYXJkZW4vYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzA5LzIyL3NlbmlvcnMtaGF2ZS1jdXQtYmFjay1vbi1kaW5uZXJzLWF0LWNyYWNrZXItYmFycmVsLW9saXZlLWdhcmRlbi_SAWJodHRwczovL255cG9zdC5jb20vMjAyMy8wOS8yMi9zZW5pb3JzLWhhdmUtY3V0LWJhY2stb24tZGlubmVycy1hdC1jcmFja2VyLWJhcnJlbC1vbGl2ZS1nYXJkZW4vYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzA5LzIyL3NlbmlvcnMtaGF2ZS1jdXQtYmFjay1vbi1kaW5uZXJzLWF0LWNyYWNrZXItYmFycmVsLW9saXZlLWdhcmRlbi_SAWJodHRwczovL255cG9zdC5jb20vMjAyMy8wOS8yMi9zZW5pb3JzLWhhdmUtY3V0LWJhY2stb24tZGlubmVycy1hdC1jcmFja2VyLWJhcnJlbC1vbGl2ZS1nYXJkZW4vYW1wLw?oc=5\" target=\"_blank\">Seniors have stopped eating at Cracker Barrel, Olive Garden -- and it's not clear when they'll come back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post </font>"
+            ],
+            "source": [
+              {
+                "_": "New York Post ",
+                "$": {
+                  "url": "https://nypost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Olive Garden parent raises revenue outlook as same-store sales jump - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDMvMjMvZGFyZGVuLXJlc3RhdXJhbnRzLWRyaS1xMy0yMDIzLWVhcm5pbmdzLmh0bWzSAVBodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wMy8yMy9kYXJkZW4tcmVzdGF1cmFudHMtZHJpLXEzLTIwMjMtZWFybmluZ3MuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDMvMjMvZGFyZGVuLXJlc3RhdXJhbnRzLWRyaS1xMy0yMDIzLWVhcm5pbmdzLmh0bWzSAVBodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wMy8yMy9kYXJkZW4tcmVzdGF1cmFudHMtZHJpLXEzLTIwMjMtZWFybmluZ3MuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDMvMjMvZGFyZGVuLXJlc3RhdXJhbnRzLWRyaS1xMy0yMDIzLWVhcm5pbmdzLmh0bWzSAVBodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wMy8yMy9kYXJkZW4tcmVzdGF1cmFudHMtZHJpLXEzLTIwMjMtZWFybmluZ3MuaHRtbA?oc=5\" target=\"_blank\">Olive Garden parent raises revenue outlook as same-store sales jump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden reveals CEO transition | 2021-12-17 - BakingBusiness.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmJha2luZ2J1c2luZXNzLmNvbS9hcnRpY2xlcy81NTM0MS1kYXJkZW4tcmV2ZWFscy1jZW8tdHJhbnNpdGlvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LmJha2luZ2J1c2luZXNzLmNvbS9hcnRpY2xlcy81NTM0MS1kYXJkZW4tcmV2ZWFscy1jZW8tdHJhbnNpdGlvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmJha2luZ2J1c2luZXNzLmNvbS9hcnRpY2xlcy81NTM0MS1kYXJkZW4tcmV2ZWFscy1jZW8tdHJhbnNpdGlvbtIBAA?oc=5\" target=\"_blank\">Darden reveals CEO transition | 2021-12-17</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BakingBusiness.com</font>"
+            ],
+            "source": [
+              {
+                "_": "BakingBusiness.com",
+                "$": {
+                  "url": "https://www.bakingbusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden Ruth's Chris deal to expand fine-dining footprint - Nation's Restaurant News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm5ybi5jb20vY2FzdWFsLWRpbmluZy9kYXJkZW4tcnV0aC1zLWNocmlzLWRlYWwtZXhwYW5kLWZpbmUtZGluaW5nLWZvb3RwcmludNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3Lm5ybi5jb20vY2FzdWFsLWRpbmluZy9kYXJkZW4tcnV0aC1zLWNocmlzLWRlYWwtZXhwYW5kLWZpbmUtZGluaW5nLWZvb3RwcmludNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm5ybi5jb20vY2FzdWFsLWRpbmluZy9kYXJkZW4tcnV0aC1zLWNocmlzLWRlYWwtZXhwYW5kLWZpbmUtZGluaW5nLWZvb3RwcmludNIBAA?oc=5\" target=\"_blank\">Darden Ruth's Chris deal to expand fine-dining footprint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nation's Restaurant News</font>"
+            ],
+            "source": [
+              {
+                "_": "Nation's Restaurant News",
+                "$": {
+                  "url": "https://www.nrn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ruth's Chris deal could bring Darden expansion to Asia - Orlando Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMy8wNS8wNC9ydXRocy1jaHJpcy1kZWFsLWNvdWxkLWJyaW5nLWRhcmRlbi1leHBhbnNpb24tdG8tYXNpYS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMy8wNS8wNC9ydXRocy1jaHJpcy1kZWFsLWNvdWxkLWJyaW5nLWRhcmRlbi1leHBhbnNpb24tdG8tYXNpYS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMy8wNS8wNC9ydXRocy1jaHJpcy1kZWFsLWNvdWxkLWJyaW5nLWRhcmRlbi1leHBhbnNpb24tdG8tYXNpYS_SAQA?oc=5\" target=\"_blank\">Ruth's Chris deal could bring Darden expansion to Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orlando Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Orlando Sentinel",
+                "$": {
+                  "url": "https://www.orlandosentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden buys Ruth's Chris Steak House for about $715 million - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kYXJkZW4tYnV5aW5nLW93bmVyLXJ1dGhzLWNocmlzLTEzNDEwMDQ0OC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kYXJkZW4tYnV5aW5nLW93bmVyLXJ1dGhzLWNocmlzLTEzNDEwMDQ0OC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kYXJkZW4tYnV5aW5nLW93bmVyLXJ1dGhzLWNocmlzLTEzNDEwMDQ0OC5odG1s0gEA?oc=5\" target=\"_blank\">Darden buys Ruth's Chris Steak House for about $715 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden Restaurants names new CEO - Produce Blue Book"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnByb2R1Y2VibHVlYm9vay5jb20vMjAyMS8xMi8xNy9kYXJkZW4tcmVzdGF1cmFudHMtbmFtZXMtbmV3LWNlby_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LnByb2R1Y2VibHVlYm9vay5jb20vMjAyMS8xMi8xNy9kYXJkZW4tcmVzdGF1cmFudHMtbmFtZXMtbmV3LWNlby_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnByb2R1Y2VibHVlYm9vay5jb20vMjAyMS8xMi8xNy9kYXJkZW4tcmVzdGF1cmFudHMtbmFtZXMtbmV3LWNlby_SAQA?oc=5\" target=\"_blank\">Darden Restaurants names new CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Produce Blue Book</font>"
+            ],
+            "source": [
+              {
+                "_": "Produce Blue Book",
+                "$": {
+                  "url": "https://www.producebluebook.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rick Cardenas, ‘Minnesota’s strongest voice for the disabled community,’ dies at 79 - St. Paul Pioneer Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMjEvMDMvMTMvcmljay1jYXJkZW5hcy1vYml0dWFyeS1taW5uZXNvdGEtdm9pY2UtZm9yLWRpc2FibGVkLWNvbW11bml0eS_SAWhodHRwczovL3d3dy50d2luY2l0aWVzLmNvbS8yMDIxLzAzLzEzL3JpY2stY2FyZGVuYXMtb2JpdHVhcnktbWlubmVzb3RhLXZvaWNlLWZvci1kaXNhYmxlZC1jb21tdW5pdHkvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMjEvMDMvMTMvcmljay1jYXJkZW5hcy1vYml0dWFyeS1taW5uZXNvdGEtdm9pY2UtZm9yLWRpc2FibGVkLWNvbW11bml0eS_SAWhodHRwczovL3d3dy50d2luY2l0aWVzLmNvbS8yMDIxLzAzLzEzL3JpY2stY2FyZGVuYXMtb2JpdHVhcnktbWlubmVzb3RhLXZvaWNlLWZvci1kaXNhYmxlZC1jb21tdW5pdHkvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 13 Mar 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMjEvMDMvMTMvcmljay1jYXJkZW5hcy1vYml0dWFyeS1taW5uZXNvdGEtdm9pY2UtZm9yLWRpc2FibGVkLWNvbW11bml0eS_SAWhodHRwczovL3d3dy50d2luY2l0aWVzLmNvbS8yMDIxLzAzLzEzL3JpY2stY2FyZGVuYXMtb2JpdHVhcnktbWlubmVzb3RhLXZvaWNlLWZvci1kaXNhYmxlZC1jb21tdW5pdHkvYW1wLw?oc=5\" target=\"_blank\">Rick Cardenas, ‘Minnesota’s strongest voice for the disabled community,’ dies at 79</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Paul Pioneer Press</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Paul Pioneer Press",
+                "$": {
+                  "url": "https://www.twincities.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'We're ready for it.' Darden's new CEO Rick Cardenas talks challenges, his career and growing the company - Orlando Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5vcmxhbmRvc2VudGluZWwuY29tLzIwMjIvMDcvMTIvd2VyZS1yZWFkeS1mb3ItaXQtZGFyZGVucy1uZXctY2VvLXJpY2stY2FyZGVuYXMtdGFsa3MtY2hhbGxlbmdlcy1oaXMtY2FyZWVyLWFuZC1ncm93aW5nLXRoZS1jb21wYW55L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy5vcmxhbmRvc2VudGluZWwuY29tLzIwMjIvMDcvMTIvd2VyZS1yZWFkeS1mb3ItaXQtZGFyZGVucy1uZXctY2VvLXJpY2stY2FyZGVuYXMtdGFsa3MtY2hhbGxlbmdlcy1oaXMtY2FyZWVyLWFuZC1ncm93aW5nLXRoZS1jb21wYW55L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5vcmxhbmRvc2VudGluZWwuY29tLzIwMjIvMDcvMTIvd2VyZS1yZWFkeS1mb3ItaXQtZGFyZGVucy1uZXctY2VvLXJpY2stY2FyZGVuYXMtdGFsa3MtY2hhbGxlbmdlcy1oaXMtY2FyZWVyLWFuZC1ncm93aW5nLXRoZS1jb21wYW55L9IBAA?oc=5\" target=\"_blank\">'We're ready for it.' Darden's new CEO Rick Cardenas talks challenges, his career and growing the company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orlando Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Orlando Sentinel",
+                "$": {
+                  "url": "https://www.orlandosentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden shares fall as CEO announces plans to retire; Olive Garden parent raises forecast despite planned wage hike - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjEvMTIvMTcvZGFyZGVuLXJlc3RhdXJhbnRzLWRyaS1xMi0yMDIyLWVhcm5pbmdzLmh0bWzSAVBodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMS8xMi8xNy9kYXJkZW4tcmVzdGF1cmFudHMtZHJpLXEyLTIwMjItZWFybmluZ3MuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjEvMTIvMTcvZGFyZGVuLXJlc3RhdXJhbnRzLWRyaS1xMi0yMDIyLWVhcm5pbmdzLmh0bWzSAVBodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMS8xMi8xNy9kYXJkZW4tcmVzdGF1cmFudHMtZHJpLXEyLTIwMjItZWFybmluZ3MuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjEvMTIvMTcvZGFyZGVuLXJlc3RhdXJhbnRzLWRyaS1xMi0yMDIyLWVhcm5pbmdzLmh0bWzSAVBodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMS8xMi8xNy9kYXJkZW4tcmVzdGF1cmFudHMtZHJpLXEyLTIwMjItZWFybmluZ3MuaHRtbA?oc=5\" target=\"_blank\">Darden shares fall as CEO announces plans to retire; Olive Garden parent raises forecast despite planned wage hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Inflation hasn't stopped Olive Garden diners from ordering endless breadsticks, salads - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3MvaW5mbGF0aW9uLWhhc250LXN0b3BwZWQtb2xpdmUtZ2FyZGVuLWRpbmVycy1mcm9tLW9yZGVyaW5nLWVuZGxlc3MtYnJlYWRzdGlja3Mtc2FsYWRzLTE2NTMxMjkyMS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3MvaW5mbGF0aW9uLWhhc250LXN0b3BwZWQtb2xpdmUtZ2FyZGVuLWRpbmVycy1mcm9tLW9yZGVyaW5nLWVuZGxlc3MtYnJlYWRzdGlja3Mtc2FsYWRzLTE2NTMxMjkyMS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 24 Mar 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3MvaW5mbGF0aW9uLWhhc250LXN0b3BwZWQtb2xpdmUtZ2FyZGVuLWRpbmVycy1mcm9tLW9yZGVyaW5nLWVuZGxlc3MtYnJlYWRzdGlja3Mtc2FsYWRzLTE2NTMxMjkyMS5odG1s0gEA?oc=5\" target=\"_blank\">Inflation hasn't stopped Olive Garden diners from ordering endless breadsticks, salads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden Restaurants CEO Gene Lee elected board chair, Rick Cardenas promoted to president and COO, Raj Vennam ... - Nation's Restaurant News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5ybi5jb20vY2FzdWFsLWRpbmluZy9kYXJkZW4tcmVzdGF1cmFudHMtY2VvLWdlbmUtbGVlLWVsZWN0ZWQtYm9hcmQtY2hhaXItcmljay1jYXJkZW5hcy1wcm9tb3RlZC1wcmVzaWRlbnTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3Lm5ybi5jb20vY2FzdWFsLWRpbmluZy9kYXJkZW4tcmVzdGF1cmFudHMtY2VvLWdlbmUtbGVlLWVsZWN0ZWQtYm9hcmQtY2hhaXItcmljay1jYXJkZW5hcy1wcm9tb3RlZC1wcmVzaWRlbnTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 18 Dec 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5ybi5jb20vY2FzdWFsLWRpbmluZy9kYXJkZW4tcmVzdGF1cmFudHMtY2VvLWdlbmUtbGVlLWVsZWN0ZWQtYm9hcmQtY2hhaXItcmljay1jYXJkZW5hcy1wcm9tb3RlZC1wcmVzaWRlbnTSAQA?oc=5\" target=\"_blank\">Darden Restaurants CEO Gene Lee elected board chair, Rick Cardenas promoted to president and COO, Raj Vennam ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nation's Restaurant News</font>"
+            ],
+            "source": [
+              {
+                "_": "Nation's Restaurant News",
+                "$": {
+                  "url": "https://www.nrn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden Restaurants Announces Upcoming CEO Transition; Eugene I. Lee, Jr., Ricardo Cardenas, and Charles M ... - And Now U Know"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMingFodHRwczovL20uYW5kbm93dWtub3cuY29tL3F1aWNrLWRpc2gvZGFyZGVuLXJlc3RhdXJhbnRzLWFubm91bmNlcy11cGNvbWluZy1jZW8tdHJhbnNpdGlvbi1FdWdlbmUtSS1MZWVKci1SaWNhcmRvLUNhcmRlbmFzLUNoYXJsZXMtTS1Tb25zdGVieS9saWxpYW4tZGllcC83NjUwN9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMingFodHRwczovL20uYW5kbm93dWtub3cuY29tL3F1aWNrLWRpc2gvZGFyZGVuLXJlc3RhdXJhbnRzLWFubm91bmNlcy11cGNvbWluZy1jZW8tdHJhbnNpdGlvbi1FdWdlbmUtSS1MZWVKci1SaWNhcmRvLUNhcmRlbmFzLUNoYXJsZXMtTS1Tb25zdGVieS9saWxpYW4tZGllcC83NjUwN9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Dec 2021 06:13:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMingFodHRwczovL20uYW5kbm93dWtub3cuY29tL3F1aWNrLWRpc2gvZGFyZGVuLXJlc3RhdXJhbnRzLWFubm91bmNlcy11cGNvbWluZy1jZW8tdHJhbnNpdGlvbi1FdWdlbmUtSS1MZWVKci1SaWNhcmRvLUNhcmRlbmFzLUNoYXJsZXMtTS1Tb25zdGVieS9saWxpYW4tZGllcC83NjUwN9IBAA?oc=5\" target=\"_blank\">Darden Restaurants Announces Upcoming CEO Transition; Eugene I. Lee, Jr., Ricardo Cardenas, and Charles M ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">And Now U Know</font>"
+            ],
+            "source": [
+              {
+                "_": "And Now U Know",
+                "$": {
+                  "url": "https://m.andnowuknow.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wages and Hiring Weigh on Minds of Company Executives - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDgvMDQvYnVzaW5lc3MvZWNvbm9teS9jb21wYW55LWV4ZWN1dGl2ZXMtd2FnZXMtaGlyaW5nLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDgvMDQvYnVzaW5lc3MvZWNvbm9teS9jb21wYW55LWV4ZWN1dGl2ZXMtd2FnZXMtaGlyaW5nLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDgvMDQvYnVzaW5lc3MvZWNvbm9teS9jb21wYW55LWV4ZWN1dGl2ZXMtd2FnZXMtaGlyaW5nLmh0bWzSAQA?oc=5\" target=\"_blank\">Wages and Hiring Weigh on Minds of Company Executives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden CEO Gene Lee is retiring - Restaurant Business Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9sZWFkZXJzaGlwL2RhcmRlbi1jZW8tZ2VuZS1sZWUtcmV0aXJpbmfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9sZWFkZXJzaGlwL2RhcmRlbi1jZW8tZ2VuZS1sZWUtcmV0aXJpbmfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9sZWFkZXJzaGlwL2RhcmRlbi1jZW8tZ2VuZS1sZWUtcmV0aXJpbmfSAQA?oc=5\" target=\"_blank\">Darden CEO Gene Lee is retiring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Restaurant Business Online</font>"
+            ],
+            "source": [
+              {
+                "_": "Restaurant Business Online",
+                "$": {
+                  "url": "https://restaurantbusinessonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gene Lee to retire as CEO of Darden Restaurants in May; Rick Cardenas to replace him - Orlando Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMS8xMi8xNy9nZW5lLWxlZS10by1yZXRpcmUtYXMtY2VvLW9mLWRhcmRlbi1yZXN0YXVyYW50cy1pbi1tYXktcmljay1jYXJkZW5hcy10by1yZXBsYWNlLWhpbS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMS8xMi8xNy9nZW5lLWxlZS10by1yZXRpcmUtYXMtY2VvLW9mLWRhcmRlbi1yZXN0YXVyYW50cy1pbi1tYXktcmljay1jYXJkZW5hcy10by1yZXBsYWNlLWhpbS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMS8xMi8xNy9nZW5lLWxlZS10by1yZXRpcmUtYXMtY2VvLW9mLWRhcmRlbi1yZXN0YXVyYW50cy1pbi1tYXktcmljay1jYXJkZW5hcy10by1yZXBsYWNlLWhpbS_SAQA?oc=5\" target=\"_blank\">Gene Lee to retire as CEO of Darden Restaurants in May; Rick Cardenas to replace him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orlando Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Orlando Sentinel",
+                "$": {
+                  "url": "https://www.orlandosentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden announces leadership shake-up as sales plummet - SeafoodSource"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnNlYWZvb2Rzb3VyY2UuY29tL25ld3MvYnVzaW5lc3MtZmluYW5jZS9kYXJkZW4tYW5ub3VuY2VzLWxlYWRlcnNoaXAtc2hha2UtdXAtYXMtc2FsZXMtcGx1bW1ldNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LnNlYWZvb2Rzb3VyY2UuY29tL25ld3MvYnVzaW5lc3MtZmluYW5jZS9kYXJkZW4tYW5ub3VuY2VzLWxlYWRlcnNoaXAtc2hha2UtdXAtYXMtc2FsZXMtcGx1bW1ldNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 18 Dec 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnNlYWZvb2Rzb3VyY2UuY29tL25ld3MvYnVzaW5lc3MtZmluYW5jZS9kYXJkZW4tYW5ub3VuY2VzLWxlYWRlcnNoaXAtc2hha2UtdXAtYXMtc2FsZXMtcGx1bW1ldNIBAA?oc=5\" target=\"_blank\">Darden announces leadership shake-up as sales plummet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+            ],
+            "source": [
+              {
+                "_": "SeafoodSource",
+                "$": {
+                  "url": "https://www.seafoodsource.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Several restaurant CEOs have joined the Great Resignation. Here are 6 chains with new leaders - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMDQvMTUvaGVyZS1hcmUtc2l4LXJlc3RhdXJhbnQtY2hhaW5zLXdpdGgtbmV3LWxlYWRlcnMuaHRtbNIBWGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzA0LzE1L2hlcmUtYXJlLXNpeC1yZXN0YXVyYW50LWNoYWlucy13aXRoLW5ldy1sZWFkZXJzLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMDQvMTUvaGVyZS1hcmUtc2l4LXJlc3RhdXJhbnQtY2hhaW5zLXdpdGgtbmV3LWxlYWRlcnMuaHRtbNIBWGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzA0LzE1L2hlcmUtYXJlLXNpeC1yZXN0YXVyYW50LWNoYWlucy13aXRoLW5ldy1sZWFkZXJzLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMDQvMTUvaGVyZS1hcmUtc2l4LXJlc3RhdXJhbnQtY2hhaW5zLXdpdGgtbmV3LWxlYWRlcnMuaHRtbNIBWGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzA0LzE1L2hlcmUtYXJlLXNpeC1yZXN0YXVyYW50LWNoYWlucy13aXRoLW5ldy1sZWFkZXJzLmh0bWw?oc=5\" target=\"_blank\">Several restaurant CEOs have joined the Great Resignation. Here are 6 chains with new leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Olive Garden hints at end of Never-Ending Pasta Bowl - Restaurant Business Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9maW5hbmNpbmcvb2xpdmUtZ2FyZGVuLWhpbnRzLWVuZC1uZXZlci1lbmRpbmctcGFzdGEtYm93bNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9maW5hbmNpbmcvb2xpdmUtZ2FyZGVuLWhpbnRzLWVuZC1uZXZlci1lbmRpbmctcGFzdGEtYm93bNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9maW5hbmNpbmcvb2xpdmUtZ2FyZGVuLWhpbnRzLWVuZC1uZXZlci1lbmRpbmctcGFzdGEtYm93bNIBAA?oc=5\" target=\"_blank\">Olive Garden hints at end of Never-Ending Pasta Bowl</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Restaurant Business Online</font>"
+            ],
+            "source": [
+              {
+                "_": "Restaurant Business Online",
+                "$": {
+                  "url": "https://restaurantbusinessonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UCF Announces Speakers for Spring 2022 Commencement, May 6-7 - UCF"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnVjZi5lZHUvbmV3cy91Y2YtaG9zdHMtc3ByaW5nLTIwMjItY29tbWVuY2VtZW50LW1heS02LTcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3LnVjZi5lZHUvbmV3cy91Y2YtaG9zdHMtc3ByaW5nLTIwMjItY29tbWVuY2VtZW50LW1heS02LTcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnVjZi5lZHUvbmV3cy91Y2YtaG9zdHMtc3ByaW5nLTIwMjItY29tbWVuY2VtZW50LW1heS02LTcv0gEA?oc=5\" target=\"_blank\">UCF Announces Speakers for Spring 2022 Commencement, May 6-7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UCF</font>"
+            ],
+            "source": [
+              {
+                "_": "UCF",
+                "$": {
+                  "url": "https://www.ucf.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Never-ending return? Olive Garden hints that it’s Never-Ending Pasta Bowl is set to come back - KARK"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmthcmsuY29tL2Zvb2QvbmV2ZXItZW5kaW5nLXJldHVybi1vbGl2ZS1nYXJkZW4taGludHMtdGhhdC1pdHMtbmV2ZXItZW5kaW5nLXBhc3RhLWJvd2wtaXMtc2V0LXRvLWNvbWUtYmFjay_SAXpodHRwczovL3d3dy5rYXJrLmNvbS9mb29kL25ldmVyLWVuZGluZy1yZXR1cm4tb2xpdmUtZ2FyZGVuLWhpbnRzLXRoYXQtaXRzLW5ldmVyLWVuZGluZy1wYXN0YS1ib3dsLWlzLXNldC10by1jb21lLWJhY2svYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmthcmsuY29tL2Zvb2QvbmV2ZXItZW5kaW5nLXJldHVybi1vbGl2ZS1nYXJkZW4taGludHMtdGhhdC1pdHMtbmV2ZXItZW5kaW5nLXBhc3RhLWJvd2wtaXMtc2V0LXRvLWNvbWUtYmFjay_SAXpodHRwczovL3d3dy5rYXJrLmNvbS9mb29kL25ldmVyLWVuZGluZy1yZXR1cm4tb2xpdmUtZ2FyZGVuLWhpbnRzLXRoYXQtaXRzLW5ldmVyLWVuZGluZy1wYXN0YS1ib3dsLWlzLXNldC10by1jb21lLWJhY2svYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 26 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmthcmsuY29tL2Zvb2QvbmV2ZXItZW5kaW5nLXJldHVybi1vbGl2ZS1nYXJkZW4taGludHMtdGhhdC1pdHMtbmV2ZXItZW5kaW5nLXBhc3RhLWJvd2wtaXMtc2V0LXRvLWNvbWUtYmFjay_SAXpodHRwczovL3d3dy5rYXJrLmNvbS9mb29kL25ldmVyLWVuZGluZy1yZXR1cm4tb2xpdmUtZ2FyZGVuLWhpbnRzLXRoYXQtaXRzLW5ldmVyLWVuZGluZy1wYXN0YS1ib3dsLWlzLXNldC10by1jb21lLWJhY2svYW1wLw?oc=5\" target=\"_blank\">Never-ending return? Olive Garden hints that it’s Never-Ending Pasta Bowl is set to come back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KARK</font>"
+            ],
+            "source": [
+              {
+                "_": "KARK",
+                "$": {
+                  "url": "https://www.kark.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden wants more restaurants, but finding right chain won't be easy - Orlando Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMy8wMi8wOC9kYXJkZW4td2FudHMtbW9yZS1yZXN0YXVyYW50cy1idXQtZmluZGluZy1yaWdodC1jaGFpbi13b250LWJlLWVhc3kv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMy8wMi8wOC9kYXJkZW4td2FudHMtbW9yZS1yZXN0YXVyYW50cy1idXQtZmluZGluZy1yaWdodC1jaGFpbi13b250LWJlLWVhc3kv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAyMy8wMi8wOC9kYXJkZW4td2FudHMtbW9yZS1yZXN0YXVyYW50cy1idXQtZmluZGluZy1yaWdodC1jaGFpbi13b250LWJlLWVhc3kv0gEA?oc=5\" target=\"_blank\">Darden wants more restaurants, but finding right chain won't be easy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orlando Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Orlando Sentinel",
+                "$": {
+                  "url": "https://www.orlandosentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "10 takeaways from the ICR Conference - Restaurant Business Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9maW5hbmNpbmcvMTAtdGFrZWF3YXlzLWljci1jb25mZXJlbmNl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9maW5hbmNpbmcvMTAtdGFrZWF3YXlzLWljci1jb25mZXJlbmNl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 11 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9maW5hbmNpbmcvMTAtdGFrZWF3YXlzLWljci1jb25mZXJlbmNl0gEA?oc=5\" target=\"_blank\">10 takeaways from the ICR Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Restaurant Business Online</font>"
+            ],
+            "source": [
+              {
+                "_": "Restaurant Business Online",
+                "$": {
+                  "url": "https://restaurantbusinessonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden Restaurants shares plunge on CEO retirement plans, weaker-than-expected sales outlook - Fox Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9idXNpbmVzcy1sZWFkZXJzL2RhcmRlbi1yZXN0YXVyYW50cy1jZW8tcmV0aXJlbWVudC1zYWxlcy1mb3JlY2FzdNIBYWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9idXNpbmVzcy1sZWFkZXJzL2RhcmRlbi1yZXN0YXVyYW50cy1jZW8tcmV0aXJlbWVudC1zYWxlcy1mb3JlY2FzdC5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9idXNpbmVzcy1sZWFkZXJzL2RhcmRlbi1yZXN0YXVyYW50cy1jZW8tcmV0aXJlbWVudC1zYWxlcy1mb3JlY2FzdNIBYWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9idXNpbmVzcy1sZWFkZXJzL2RhcmRlbi1yZXN0YXVyYW50cy1jZW8tcmV0aXJlbWVudC1zYWxlcy1mb3JlY2FzdC5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9idXNpbmVzcy1sZWFkZXJzL2RhcmRlbi1yZXN0YXVyYW50cy1jZW8tcmV0aXJlbWVudC1zYWxlcy1mb3JlY2FzdNIBYWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9idXNpbmVzcy1sZWFkZXJzL2RhcmRlbi1yZXN0YXVyYW50cy1jZW8tcmV0aXJlbWVudC1zYWxlcy1mb3JlY2FzdC5hbXA?oc=5\" target=\"_blank\">Darden Restaurants shares plunge on CEO retirement plans, weaker-than-expected sales outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox Business",
+                "$": {
+                  "url": "https://www.foxbusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Olive Garden gets boost from return of Never Ending Pasta Bowl - Restaurant Business Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9maW5hbmNpbmcvb2xpdmUtZ2FyZGVuLWdldHMtYm9vc3QtcmV0dXJuLW5ldmVyLWVuZGluZy1wYXN0YS1ib3ds0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9maW5hbmNpbmcvb2xpdmUtZ2FyZGVuLWdldHMtYm9vc3QtcmV0dXJuLW5ldmVyLWVuZGluZy1wYXN0YS1ib3ds0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 16 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vcmVzdGF1cmFudGJ1c2luZXNzb25saW5lLmNvbS9maW5hbmNpbmcvb2xpdmUtZ2FyZGVuLWdldHMtYm9vc3QtcmV0dXJuLW5ldmVyLWVuZGluZy1wYXN0YS1ib3ds0gEA?oc=5\" target=\"_blank\">Olive Garden gets boost from return of Never Ending Pasta Bowl</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Restaurant Business Online</font>"
+            ],
+            "source": [
+              {
+                "_": "Restaurant Business Online",
+                "$": {
+                  "url": "https://restaurantbusinessonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Felix Cardenas Obituary - Daniel T Morrill Funeral Home - Southbridge - 2023 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2ZlbGl4LWNhcmRlbmFzLW9iaXR1YXJ5P2lkPTQ4MDU1MDE30gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2ZlbGl4LWNhcmRlbmFzLW9iaXR1YXJ5P2lkPTQ4MDU1MDE30gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2ZlbGl4LWNhcmRlbmFzLW9iaXR1YXJ5P2lkPTQ4MDU1MDE30gEA?oc=5\" target=\"_blank\">Felix Cardenas Obituary - Daniel T Morrill Funeral Home - Southbridge - 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Olive Garden may not bring back Never-Ending Pasta Bowl - Fox Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvb2xpdmUtZ2FyZGVuLW1heS1ub3QtYnJpbmctYmFjay1uZXZlci1lbmRpbmctcGFzdGEtYm93bNIBYWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvb2xpdmUtZ2FyZGVuLW1heS1ub3QtYnJpbmctYmFjay1uZXZlci1lbmRpbmctcGFzdGEtYm93bC5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvb2xpdmUtZ2FyZGVuLW1heS1ub3QtYnJpbmctYmFjay1uZXZlci1lbmRpbmctcGFzdGEtYm93bNIBYWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvb2xpdmUtZ2FyZGVuLW1heS1ub3QtYnJpbmctYmFjay1uZXZlci1lbmRpbmctcGFzdGEtYm93bC5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvb2xpdmUtZ2FyZGVuLW1heS1ub3QtYnJpbmctYmFjay1uZXZlci1lbmRpbmctcGFzdGEtYm93bNIBYWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvb2xpdmUtZ2FyZGVuLW1heS1ub3QtYnJpbmctYmFjay1uZXZlci1lbmRpbmctcGFzdGEtYm93bC5hbXA?oc=5\" target=\"_blank\">Olive Garden may not bring back Never-Ending Pasta Bowl</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox Business",
+                "$": {
+                  "url": "https://www.foxbusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rosario: St. Paul disability rights advocate presses on despite physical setback - St. Paul Pioneer Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMTkvMDgvMDkvcm9zYXJpby1zdC1wYXVsLWRpc2FiaWxpdHktcmlnaHRzLWFkdm9jYXRlLXByZXNzZXMtb24tZGVzcGl0ZS1waHlzaWNhbC1zZXRiYWNrL9IBeWh0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMTkvMDgvMDkvcm9zYXJpby1zdC1wYXVsLWRpc2FiaWxpdHktcmlnaHRzLWFkdm9jYXRlLXByZXNzZXMtb24tZGVzcGl0ZS1waHlzaWNhbC1zZXRiYWNrL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMTkvMDgvMDkvcm9zYXJpby1zdC1wYXVsLWRpc2FiaWxpdHktcmlnaHRzLWFkdm9jYXRlLXByZXNzZXMtb24tZGVzcGl0ZS1waHlzaWNhbC1zZXRiYWNrL9IBeWh0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMTkvMDgvMDkvcm9zYXJpby1zdC1wYXVsLWRpc2FiaWxpdHktcmlnaHRzLWFkdm9jYXRlLXByZXNzZXMtb24tZGVzcGl0ZS1waHlzaWNhbC1zZXRiYWNrL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 09 Aug 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMTkvMDgvMDkvcm9zYXJpby1zdC1wYXVsLWRpc2FiaWxpdHktcmlnaHRzLWFkdm9jYXRlLXByZXNzZXMtb24tZGVzcGl0ZS1waHlzaWNhbC1zZXRiYWNrL9IBeWh0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMTkvMDgvMDkvcm9zYXJpby1zdC1wYXVsLWRpc2FiaWxpdHktcmlnaHRzLWFkdm9jYXRlLXByZXNzZXMtb24tZGVzcGl0ZS1waHlzaWNhbC1zZXRiYWNrL2FtcC8?oc=5\" target=\"_blank\">Rosario: St. Paul disability rights advocate presses on despite physical setback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Paul Pioneer Press</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Paul Pioneer Press",
+                "$": {
+                  "url": "https://www.twincities.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden CEO to Step Down After Leading Olive Garden Parent Through Pandemic - TheStreet"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vaW52ZXN0aW5nL2RhcmRlbi1jZW8tdG8tc3RlcC1kb3duLWFmdGVyLWxlYWRpbmctb2xpdmUtZ2FyZGVuLXBhcmVudC10aHJvdWdoLXBhbmRlbWlj0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vaW52ZXN0aW5nL2RhcmRlbi1jZW8tdG8tc3RlcC1kb3duLWFmdGVyLWxlYWRpbmctb2xpdmUtZ2FyZGVuLXBhcmVudC10aHJvdWdoLXBhbmRlbWlj0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vaW52ZXN0aW5nL2RhcmRlbi1jZW8tdG8tc3RlcC1kb3duLWFmdGVyLWxlYWRpbmctb2xpdmUtZ2FyZGVuLXBhcmVudC10aHJvdWdoLXBhbmRlbWlj0gEA?oc=5\" target=\"_blank\">Darden CEO to Step Down After Leading Olive Garden Parent Through Pandemic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet</font>"
+            ],
+            "source": [
+              {
+                "_": "TheStreet",
+                "$": {
+                  "url": "https://www.thestreet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CEO of Orlando-based Darden Restaurants to retire in May - Tampa Bay Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRhbXBhYmF5LmNvbS9uZXdzL2Zsb3JpZGEvMjAyMS8xMi8xOS9jZW8tb2Ytb3JsYW5kby1iYXNlZC1kYXJkZW4tcmVzdGF1cmFudHMtdG8tcmV0aXJlLWluLW1heS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LnRhbXBhYmF5LmNvbS9uZXdzL2Zsb3JpZGEvMjAyMS8xMi8xOS9jZW8tb2Ytb3JsYW5kby1iYXNlZC1kYXJkZW4tcmVzdGF1cmFudHMtdG8tcmV0aXJlLWluLW1heS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRhbXBhYmF5LmNvbS9uZXdzL2Zsb3JpZGEvMjAyMS8xMi8xOS9jZW8tb2Ytb3JsYW5kby1iYXNlZC1kYXJkZW4tcmVzdGF1cmFudHMtdG8tcmV0aXJlLWluLW1heS_SAQA?oc=5\" target=\"_blank\">CEO of Orlando-based Darden Restaurants to retire in May</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tampa Bay Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Tampa Bay Times",
+                "$": {
+                  "url": "https://www.tampabay.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Coca-Cola 6 Pack Athlete, Olympic Medalist and 200m World Champion Noah Lyles to Serve as Grand Marshal for ... - Daytona International Speedway"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiwgFodHRwczovL3d3dy5kYXl0b25haW50ZXJuYXRpb25hbHNwZWVkd2F5LmNvbS9uZXdzLW1lZGlhLzIwMjEvMDgvMjYvY29jYS1jb2xhLTYtcGFjay1hdGhsZXRlLW9seW1waWMtbWVkYWxpc3QtYW5kLTIwMG0td29ybGQtY2hhbXBpb24tbm9haC1seWxlcy10by1zZXJ2ZS1hcy1ncmFuZC1tYXJzaGFsLWZvci1jb2tlLXplcm8tc3VnYXItNDAwL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiwgFodHRwczovL3d3dy5kYXl0b25haW50ZXJuYXRpb25hbHNwZWVkd2F5LmNvbS9uZXdzLW1lZGlhLzIwMjEvMDgvMjYvY29jYS1jb2xhLTYtcGFjay1hdGhsZXRlLW9seW1waWMtbWVkYWxpc3QtYW5kLTIwMG0td29ybGQtY2hhbXBpb24tbm9haC1seWxlcy10by1zZXJ2ZS1hcy1ncmFuZC1tYXJzaGFsLWZvci1jb2tlLXplcm8tc3VnYXItNDAwL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 26 Aug 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiwgFodHRwczovL3d3dy5kYXl0b25haW50ZXJuYXRpb25hbHNwZWVkd2F5LmNvbS9uZXdzLW1lZGlhLzIwMjEvMDgvMjYvY29jYS1jb2xhLTYtcGFjay1hdGhsZXRlLW9seW1waWMtbWVkYWxpc3QtYW5kLTIwMG0td29ybGQtY2hhbXBpb24tbm9haC1seWxlcy10by1zZXJ2ZS1hcy1ncmFuZC1tYXJzaGFsLWZvci1jb2tlLXplcm8tc3VnYXItNDAwL9IBAA?oc=5\" target=\"_blank\">Coca-Cola 6 Pack Athlete, Olympic Medalist and 200m World Champion Noah Lyles to Serve as Grand Marshal for ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona International Speedway</font>"
+            ],
+            "source": [
+              {
+                "_": "Daytona International Speedway",
+                "$": {
+                  "url": "https://www.daytonainternationalspeedway.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Why Olive Garden Is Seeing Record Sales Right Now - Eat This, Not That"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL29saXZlLWdhcmRlbi1yZWNvcmQtc2FsZXMtcG9wdWxhcml0eS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPWh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL29saXZlLWdhcmRlbi1yZWNvcmQtc2FsZXMtcG9wdWxhcml0eS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL29saXZlLWdhcmRlbi1yZWNvcmQtc2FsZXMtcG9wdWxhcml0eS_SAQA?oc=5\" target=\"_blank\">Why Olive Garden Is Seeing Record Sales Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eat This, Not That</font>"
+            ],
+            "source": [
+              {
+                "_": "Eat This, Not That",
+                "$": {
+                  "url": "https://www.eatthis.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ending unemployment benefits didn't change labor shortage: Darden - Business Insider"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vb2xpdmUtZ2FyZGVuLWxvbmdob3JuLXN0ZWFraG91c2UtdW5lbXBsb3ltZW50LWJlbmVmaXRzLWRpZG50LWNyZWF0ZS1sYWJvci1zaG9ydGFnZS0yMDIxLTnSAX1odHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL29saXZlLWdhcmRlbi1sb25naG9ybi1zdGVha2hvdXNlLXVuZW1wbG95bWVudC1iZW5lZml0cy1kaWRudC1jcmVhdGUtbGFib3Itc2hvcnRhZ2UtMjAyMS05P2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vb2xpdmUtZ2FyZGVuLWxvbmdob3JuLXN0ZWFraG91c2UtdW5lbXBsb3ltZW50LWJlbmVmaXRzLWRpZG50LWNyZWF0ZS1sYWJvci1zaG9ydGFnZS0yMDIxLTnSAX1odHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL29saXZlLWdhcmRlbi1sb25naG9ybi1zdGVha2hvdXNlLXVuZW1wbG95bWVudC1iZW5lZml0cy1kaWRudC1jcmVhdGUtbGFib3Itc2hvcnRhZ2UtMjAyMS05P2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Sep 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vb2xpdmUtZ2FyZGVuLWxvbmdob3JuLXN0ZWFraG91c2UtdW5lbXBsb3ltZW50LWJlbmVmaXRzLWRpZG50LWNyZWF0ZS1sYWJvci1zaG9ydGFnZS0yMDIxLTnSAX1odHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL29saXZlLWdhcmRlbi1sb25naG9ybi1zdGVha2hvdXNlLXVuZW1wbG95bWVudC1iZW5lZml0cy1kaWRudC1jcmVhdGUtbGFib3Itc2hvcnRhZ2UtMjAyMS05P2FtcA?oc=5\" target=\"_blank\">Ending unemployment benefits didn't change labor shortage: Darden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Insider",
+                "$": {
+                  "url": "https://www.businessinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Longhorn Steakhouse Is Skyrocketing in Popularity—Here's Why - Eat This, Not That"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL2xvbmdob3JuLXN0ZWFraG91c2Utc2FsZXMtanVuZS0yMDIzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL2xvbmdob3JuLXN0ZWFraG91c2Utc2FsZXMtanVuZS0yMDIzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL2xvbmdob3JuLXN0ZWFraG91c2Utc2FsZXMtanVuZS0yMDIzL9IBAA?oc=5\" target=\"_blank\">Longhorn Steakhouse Is Skyrocketing in Popularity—Here's Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eat This, Not That</font>"
+            ],
+            "source": [
+              {
+                "_": "Eat This, Not That",
+                "$": {
+                  "url": "https://www.eatthis.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden Restaurants Takes the Low Road Against Inflation - MarketBeat"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1hcmtldGJlYXQuY29tL29yaWdpbmFscy9kYXJkZW4tcmVzdGF1cmFudHMtdGFrZXMtdGhlLWxvdy1yb2FkLWFnYWluc3QtaW5mbGF0aW9uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3Lm1hcmtldGJlYXQuY29tL29yaWdpbmFscy9kYXJkZW4tcmVzdGF1cmFudHMtdGFrZXMtdGhlLWxvdy1yb2FkLWFnYWluc3QtaW5mbGF0aW9uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1hcmtldGJlYXQuY29tL29yaWdpbmFscy9kYXJkZW4tcmVzdGF1cmFudHMtdGFrZXMtdGhlLWxvdy1yb2FkLWFnYWluc3QtaW5mbGF0aW9uL9IBAA?oc=5\" target=\"_blank\">Darden Restaurants Takes the Low Road Against Inflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>"
+            ],
+            "source": [
+              {
+                "_": "MarketBeat",
+                "$": {
+                  "url": "https://www.marketbeat.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Olive Garden's 'Never-Ending Pasta Bowl' promotion may never return - WEAR"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd2VhcnR2LmNvbS9uZXdzL2xvY2FsL29saXZlLWdhcmRlbnMtbmV2ZXItZW5kaW5nLXBhc3RhLWJvd2wtcHJvbW90aW9uLW1heS1uZXZlci1yZXR1cm7SAWJodHRwczovL3dlYXJ0di5jb20vYW1wL25ld3MvbG9jYWwvb2xpdmUtZ2FyZGVucy1uZXZlci1lbmRpbmctcGFzdGEtYm93bC1wcm9tb3Rpb24tbWF5LW5ldmVyLXJldHVybg?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd2VhcnR2LmNvbS9uZXdzL2xvY2FsL29saXZlLWdhcmRlbnMtbmV2ZXItZW5kaW5nLXBhc3RhLWJvd2wtcHJvbW90aW9uLW1heS1uZXZlci1yZXR1cm7SAWJodHRwczovL3dlYXJ0di5jb20vYW1wL25ld3MvbG9jYWwvb2xpdmUtZ2FyZGVucy1uZXZlci1lbmRpbmctcGFzdGEtYm93bC1wcm9tb3Rpb24tbWF5LW5ldmVyLXJldHVybg",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd2VhcnR2LmNvbS9uZXdzL2xvY2FsL29saXZlLWdhcmRlbnMtbmV2ZXItZW5kaW5nLXBhc3RhLWJvd2wtcHJvbW90aW9uLW1heS1uZXZlci1yZXR1cm7SAWJodHRwczovL3dlYXJ0di5jb20vYW1wL25ld3MvbG9jYWwvb2xpdmUtZ2FyZGVucy1uZXZlci1lbmRpbmctcGFzdGEtYm93bC1wcm9tb3Rpb24tbWF5LW5ldmVyLXJldHVybg?oc=5\" target=\"_blank\">Olive Garden's 'Never-Ending Pasta Bowl' promotion may never return</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAR</font>"
+            ],
+            "source": [
+              {
+                "_": "WEAR",
+                "$": {
+                  "url": "https://weartv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Richard CARDENAS Obituary (2021) - St Paul, MN - Pioneer Press - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy90d2luY2l0aWVzL25hbWUvcmljaGFyZC1jYXJkZW5hcy1vYml0dWFyeT9pZD02OTIxODcy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy90d2luY2l0aWVzL25hbWUvcmljaGFyZC1jYXJkZW5hcy1vYml0dWFyeT9pZD02OTIxODcy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 21 Mar 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy90d2luY2l0aWVzL25hbWUvcmljaGFyZC1jYXJkZW5hcy1vYml0dWFyeT9pZD02OTIxODcy0gEA?oc=5\" target=\"_blank\">Richard CARDENAS Obituary (2021) - St Paul, MN - Pioneer Press</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Disabled demand shoveling enforcement after treacherous winter - St. Paul Pioneer Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMTkvMDMvMjUvc3QtcGF1bC1taW5uZWFwb2xpcy1tbi13aW50ZXItZGlzYWJsZWQtc2lkZXdhbGtzLXN0cmVldHMv0gFjaHR0cHM6Ly93d3cudHdpbmNpdGllcy5jb20vMjAxOS8wMy8yNS9zdC1wYXVsLW1pbm5lYXBvbGlzLW1uLXdpbnRlci1kaXNhYmxlZC1zaWRld2Fsa3Mtc3RyZWV0cy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMTkvMDMvMjUvc3QtcGF1bC1taW5uZWFwb2xpcy1tbi13aW50ZXItZGlzYWJsZWQtc2lkZXdhbGtzLXN0cmVldHMv0gFjaHR0cHM6Ly93d3cudHdpbmNpdGllcy5jb20vMjAxOS8wMy8yNS9zdC1wYXVsLW1pbm5lYXBvbGlzLW1uLXdpbnRlci1kaXNhYmxlZC1zaWRld2Fsa3Mtc3RyZWV0cy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 25 Mar 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnR3aW5jaXRpZXMuY29tLzIwMTkvMDMvMjUvc3QtcGF1bC1taW5uZWFwb2xpcy1tbi13aW50ZXItZGlzYWJsZWQtc2lkZXdhbGtzLXN0cmVldHMv0gFjaHR0cHM6Ly93d3cudHdpbmNpdGllcy5jb20vMjAxOS8wMy8yNS9zdC1wYXVsLW1pbm5lYXBvbGlzLW1uLXdpbnRlci1kaXNhYmxlZC1zaWRld2Fsa3Mtc3RyZWV0cy9hbXAv?oc=5\" target=\"_blank\">Disabled demand shoveling enforcement after treacherous winter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Paul Pioneer Press</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Paul Pioneer Press",
+                "$": {
+                  "url": "https://www.twincities.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "These Popular Restaurant Chains Plan On Keeping Prices Competitive, CEO Says - Eat This, Not That"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL25ld3MtcG9wdWxhci1yZXN0YXVyYW50LWNoYWlucy1kb250LXBsYW4tb24tcmFpc2luZy1wcmljZXMtb2xpdmUtZ2FyZGVuL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL25ld3MtcG9wdWxhci1yZXN0YXVyYW50LWNoYWlucy1kb250LXBsYW4tb24tcmFpc2luZy1wcmljZXMtb2xpdmUtZ2FyZGVuL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL25ld3MtcG9wdWxhci1yZXN0YXVyYW50LWNoYWlucy1kb250LXBsYW4tb24tcmFpc2luZy1wcmljZXMtb2xpdmUtZ2FyZGVuL9IBAA?oc=5\" target=\"_blank\">These Popular Restaurant Chains Plan On Keeping Prices Competitive, CEO Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eat This, Not That</font>"
+            ],
+            "source": [
+              {
+                "_": "Eat This, Not That",
+                "$": {
+                  "url": "https://www.eatthis.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Darden buys Ruth's Chris for $715M - Honolulu Star-Advertiser"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnN0YXJhZHZlcnRpc2VyLmNvbS8yMDIzLzA1LzA0L2hhd2FpaS1uZXdzL2RhcmRlbi1idXlzLXJ1dGhzLWNocmlzLWZvci03MTVtL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3LnN0YXJhZHZlcnRpc2VyLmNvbS8yMDIzLzA1LzA0L2hhd2FpaS1uZXdzL2RhcmRlbi1idXlzLXJ1dGhzLWNocmlzLWZvci03MTVtL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnN0YXJhZHZlcnRpc2VyLmNvbS8yMDIzLzA1LzA0L2hhd2FpaS1uZXdzL2RhcmRlbi1idXlzLXJ1dGhzLWNocmlzLWZvci03MTVtL9IBAA?oc=5\" target=\"_blank\">Darden buys Ruth's Chris for $715M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>"
+            ],
+            "source": [
+              {
+                "_": "Honolulu Star-Advertiser",
+                "$": {
+                  "url": "https://www.staradvertiser.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Olive Garden might end ‘Never-Ending’ pasta promotion - KFOR Oklahoma City"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8va2Zvci5jb20vbmV3cy9uYXRpb25hbC9vbGl2ZS1nYXJkZW4tbWlnaHQtZW5kLW5ldmVyLWVuZGluZy1wYXN0YS1wcm9tb3Rpb24v0gFXaHR0cHM6Ly9rZm9yLmNvbS9uZXdzL25hdGlvbmFsL29saXZlLWdhcmRlbi1taWdodC1lbmQtbmV2ZXItZW5kaW5nLXBhc3RhLXByb21vdGlvbi9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8va2Zvci5jb20vbmV3cy9uYXRpb25hbC9vbGl2ZS1nYXJkZW4tbWlnaHQtZW5kLW5ldmVyLWVuZGluZy1wYXN0YS1wcm9tb3Rpb24v0gFXaHR0cHM6Ly9rZm9yLmNvbS9uZXdzL25hdGlvbmFsL29saXZlLWdhcmRlbi1taWdodC1lbmQtbmV2ZXItZW5kaW5nLXBhc3RhLXByb21vdGlvbi9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8va2Zvci5jb20vbmV3cy9uYXRpb25hbC9vbGl2ZS1nYXJkZW4tbWlnaHQtZW5kLW5ldmVyLWVuZGluZy1wYXN0YS1wcm9tb3Rpb24v0gFXaHR0cHM6Ly9rZm9yLmNvbS9uZXdzL25hdGlvbmFsL29saXZlLWdhcmRlbi1taWdodC1lbmQtbmV2ZXItZW5kaW5nLXBhc3RhLXByb21vdGlvbi9hbXAv?oc=5\" target=\"_blank\">Olive Garden might end ‘Never-Ending’ pasta promotion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFOR Oklahoma City</font>"
+            ],
+            "source": [
+              {
+                "_": "KFOR Oklahoma City",
+                "$": {
+                  "url": "https://kfor.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "West Covina murder case dismissed after third mistrial - The San Gabriel Valley Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNndnRyaWJ1bmUuY29tL2dlbmVyYWwtbmV3cy8yMDE1MDMwOC93ZXN0LWNvdmluYS1tdXJkZXItY2FzZS1kaXNtaXNzZWQtYWZ0ZXItdGhpcmQtbWlzdHJpYWwv0gFhaHR0cHM6Ly93d3cuc2d2dHJpYnVuZS5jb20vMjAxNS8wMy8wOC93ZXN0LWNvdmluYS1tdXJkZXItY2FzZS1kaXNtaXNzZWQtYWZ0ZXItdGhpcmQtbWlzdHJpYWwvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LnNndnRyaWJ1bmUuY29tL2dlbmVyYWwtbmV3cy8yMDE1MDMwOC93ZXN0LWNvdmluYS1tdXJkZXItY2FzZS1kaXNtaXNzZWQtYWZ0ZXItdGhpcmQtbWlzdHJpYWwv0gFhaHR0cHM6Ly93d3cuc2d2dHJpYnVuZS5jb20vMjAxNS8wMy8wOC93ZXN0LWNvdmluYS1tdXJkZXItY2FzZS1kaXNtaXNzZWQtYWZ0ZXItdGhpcmQtbWlzdHJpYWwvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 08 Mar 2015 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNndnRyaWJ1bmUuY29tL2dlbmVyYWwtbmV3cy8yMDE1MDMwOC93ZXN0LWNvdmluYS1tdXJkZXItY2FzZS1kaXNtaXNzZWQtYWZ0ZXItdGhpcmQtbWlzdHJpYWwv0gFhaHR0cHM6Ly93d3cuc2d2dHJpYnVuZS5jb20vMjAxNS8wMy8wOC93ZXN0LWNvdmluYS1tdXJkZXItY2FzZS1kaXNtaXNzZWQtYWZ0ZXItdGhpcmQtbWlzdHJpYWwvYW1wLw?oc=5\" target=\"_blank\">West Covina murder case dismissed after third mistrial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The San Gabriel Valley Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "The San Gabriel Valley Tribune",
+                "$": {
+                  "url": "https://www.sgvtribune.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

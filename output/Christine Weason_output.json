@@ -1,0 +1,188 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Christine Weason\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Christine+Weason&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "[Video Report] The 13th running of the Captain Seth Mitchel Hero 5K - Loveland Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbG92ZWxhbmRtYWdhemluZS5jb20vdmlkZW8tcmVwb3J0LXRoZS0xM3RoLXJ1bm5pbmctb2YtdGhlLWNhcHRhaW4tc2V0aC1taXRjaGVsLWhlcm8tNWsv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vbG92ZWxhbmRtYWdhemluZS5jb20vdmlkZW8tcmVwb3J0LXRoZS0xM3RoLXJ1bm5pbmctb2YtdGhlLWNhcHRhaW4tc2V0aC1taXRjaGVsLWhlcm8tNWsv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbG92ZWxhbmRtYWdhemluZS5jb20vdmlkZW8tcmVwb3J0LXRoZS0xM3RoLXJ1bm5pbmctb2YtdGhlLWNhcHRhaW4tc2V0aC1taXRjaGVsLWhlcm8tNWsv0gEA?oc=5\" target=\"_blank\">[Video Report] The 13th running of the Captain Seth Mitchel Hero 5K</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Loveland Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Loveland Magazine",
+                "$": {
+                  "url": "https://lovelandmagazine.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "More choices or more problems? - North Carolina Health News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5vcnRoY2Fyb2xpbmFoZWFsdGhuZXdzLm9yZy8yMDE4LzA5LzA0L21vcmUtY2hvaWNlcy1vci1tb3JlLXByb2JsZW1zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3Lm5vcnRoY2Fyb2xpbmFoZWFsdGhuZXdzLm9yZy8yMDE4LzA5LzA0L21vcmUtY2hvaWNlcy1vci1tb3JlLXByb2JsZW1zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Sep 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5vcnRoY2Fyb2xpbmFoZWFsdGhuZXdzLm9yZy8yMDE4LzA5LzA0L21vcmUtY2hvaWNlcy1vci1tb3JlLXByb2JsZW1zL9IBAA?oc=5\" target=\"_blank\">More choices or more problems?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North Carolina Health News</font>"
+            ],
+            "source": [
+              {
+                "_": "North Carolina Health News",
+                "$": {
+                  "url": "https://www.northcarolinahealthnews.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Carolinas patients pay more for oral chemo - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9saXZpbmcvaGVhbHRoLWZhbWlseS9hcnRpY2xlMjczNjU2MTcuaHRtbNIBS2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9saXZpbmcvaGVhbHRoLWZhbWlseS9hcnRpY2xlMjczNjU2MTcuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9saXZpbmcvaGVhbHRoLWZhbWlseS9hcnRpY2xlMjczNjU2MTcuaHRtbNIBS2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9saXZpbmcvaGVhbHRoLWZhbWlseS9hcnRpY2xlMjczNjU2MTcuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Jul 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9saXZpbmcvaGVhbHRoLWZhbWlseS9hcnRpY2xlMjczNjU2MTcuaHRtbNIBS2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9saXZpbmcvaGVhbHRoLWZhbWlseS9hcnRpY2xlMjczNjU2MTcuaHRtbA?oc=5\" target=\"_blank\">Carolinas patients pay more for oral chemo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "House passes under-18 tanning bed ban - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3N0YXRlLXBvbGl0aWNzL2FydGljbGUxOTE3ODg1Ni5odG1s0gFZaHR0cHM6Ly9hbXAubmV3c29ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvc3RhdGUtcG9saXRpY3MvYXJ0aWNsZTE5MTc4ODU2Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3N0YXRlLXBvbGl0aWNzL2FydGljbGUxOTE3ODg1Ni5odG1s0gFZaHR0cHM6Ly9hbXAubmV3c29ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvc3RhdGUtcG9saXRpY3MvYXJ0aWNsZTE5MTc4ODU2Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Apr 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3N0YXRlLXBvbGl0aWNzL2FydGljbGUxOTE3ODg1Ni5odG1s0gFZaHR0cHM6Ly9hbXAubmV3c29ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvc3RhdGUtcG9saXRpY3MvYXJ0aWNsZTE5MTc4ODU2Lmh0bWw?oc=5\" target=\"_blank\">House passes under-18 tanning bed ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC Senate OKs under-18 tanning bed ban - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3BvbGl0aWNzLWNvbHVtbnMtYmxvZ3MvdW5kZXItdGhlLWRvbWUvYXJ0aWNsZTIwODU3Mzk1Lmh0bWzSAXBodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9wb2xpdGljcy1jb2x1bW5zLWJsb2dzL3VuZGVyLXRoZS1kb21lL2FydGljbGUyMDg1NzM5NS5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3BvbGl0aWNzLWNvbHVtbnMtYmxvZ3MvdW5kZXItdGhlLWRvbWUvYXJ0aWNsZTIwODU3Mzk1Lmh0bWzSAXBodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9wb2xpdGljcy1jb2x1bW5zLWJsb2dzL3VuZGVyLXRoZS1kb21lL2FydGljbGUyMDg1NzM5NS5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 May 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3BvbGl0aWNzLWNvbHVtbnMtYmxvZ3MvdW5kZXItdGhlLWRvbWUvYXJ0aWNsZTIwODU3Mzk1Lmh0bWzSAXBodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9wb2xpdGljcy1jb2x1bW5zLWJsb2dzL3VuZGVyLXRoZS1kb21lL2FydGljbGUyMDg1NzM5NS5odG1s?oc=5\" target=\"_blank\">NC Senate OKs under-18 tanning bed ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

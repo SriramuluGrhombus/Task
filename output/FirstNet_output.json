@@ -1,0 +1,2948 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"FirstNet\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=FirstNet&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "FirstNet board focuses reinvestments on coverage, 5G transition - RCR Wireless News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnJjcndpcmVsZXNzLmNvbS8yMDI0MDEzMC9uZXR3b3JrLWluZnJhc3RydWN0dXJlL2ZpcnN0bmV0LWJvYXJkLWZvY3VzZXMtcmVpbnZlc3RtZW50cy1vbi1jb3ZlcmFnZS01Zy10cmFuc2l0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LnJjcndpcmVsZXNzLmNvbS8yMDI0MDEzMC9uZXR3b3JrLWluZnJhc3RydWN0dXJlL2ZpcnN0bmV0LWJvYXJkLWZvY3VzZXMtcmVpbnZlc3RtZW50cy1vbi1jb3ZlcmFnZS01Zy10cmFuc2l0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 17:31:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnJjcndpcmVsZXNzLmNvbS8yMDI0MDEzMC9uZXR3b3JrLWluZnJhc3RydWN0dXJlL2ZpcnN0bmV0LWJvYXJkLWZvY3VzZXMtcmVpbnZlc3RtZW50cy1vbi1jb3ZlcmFnZS01Zy10cmFuc2l0aW9u0gEA?oc=5\" target=\"_blank\">FirstNet board focuses reinvestments on coverage, 5G transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RCR Wireless News</font>"
+            ],
+            "source": [
+              {
+                "_": "RCR Wireless News",
+                "$": {
+                  "url": "https://www.rcrwireless.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CERCI reiterates opposition to PSSA proposal of nationwide 4.9 GHz license to FirstNet Authority - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjQvMDIvMDcvY2VyY2ktcmVpdGVyYXRlcy1vcHBvc2l0aW9uLXRvLXBzc2EtcHJvcG9zYWwtb2YtbmF0aW9ud2lkZS00LTktZ2h6LWxpY2Vuc2UtdG8tZmlyc3RuZXQtYXV0aG9yaXR5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjQvMDIvMDcvY2VyY2ktcmVpdGVyYXRlcy1vcHBvc2l0aW9uLXRvLXBzc2EtcHJvcG9zYWwtb2YtbmF0aW9ud2lkZS00LTktZ2h6LWxpY2Vuc2UtdG8tZmlyc3RuZXQtYXV0aG9yaXR5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 04:27:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjQvMDIvMDcvY2VyY2ktcmVpdGVyYXRlcy1vcHBvc2l0aW9uLXRvLXBzc2EtcHJvcG9zYWwtb2YtbmF0aW9ud2lkZS00LTktZ2h6LWxpY2Vuc2UtdG8tZmlyc3RuZXQtYXV0aG9yaXR5L9IBAA?oc=5\" target=\"_blank\">CERCI reiterates opposition to PSSA proposal of nationwide 4.9 GHz license to FirstNet Authority - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet Authority Board Approves Investment for 5G Network Evolution - The Critical Communications Review"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5jcml0aWNhbGNvbW11bmljYXRpb25zcmV2aWV3LmNvbS9jY3IvbmV3cy8xMTI2MDMvZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkLWFwcHJvdmVzLWludmVzdG1lbnQtZm9yLTVnLW5ldHdvcmstZXZvbHV0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5jcml0aWNhbGNvbW11bmljYXRpb25zcmV2aWV3LmNvbS9jY3IvbmV3cy8xMTI2MDMvZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkLWFwcHJvdmVzLWludmVzdG1lbnQtZm9yLTVnLW5ldHdvcmstZXZvbHV0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 19:55:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5jcml0aWNhbGNvbW11bmljYXRpb25zcmV2aWV3LmNvbS9jY3IvbmV3cy8xMTI2MDMvZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkLWFwcHJvdmVzLWludmVzdG1lbnQtZm9yLTVnLW5ldHdvcmstZXZvbHV0aW9u0gEA?oc=5\" target=\"_blank\">FirstNet Authority Board Approves Investment for 5G Network Evolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Critical Communications Review</font>"
+            ],
+            "source": [
+              {
+                "_": "The Critical Communications Review",
+                "$": {
+                  "url": "https://www.criticalcommunicationsreview.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Public safety broadband network to expand as FirstNet transitions to full 5G network - Homeland Preparedness News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL2hvbWVsYW5kcHJlcG5ld3MuY29tL3N0b3JpZXMvODE2NzYtcHVibGljLXNhZmV0eS1icm9hZGJhbmQtbmV0d29yay10by1leHBhbmQtYXMtZmlyc3RuZXQtdHJhbnNpdGlvbnMtdG8tZnVsbC01Zy1uZXR3b3JrL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL2hvbWVsYW5kcHJlcG5ld3MuY29tL3N0b3JpZXMvODE2NzYtcHVibGljLXNhZmV0eS1icm9hZGJhbmQtbmV0d29yay10by1leHBhbmQtYXMtZmlyc3RuZXQtdHJhbnNpdGlvbnMtdG8tZnVsbC01Zy1uZXR3b3JrL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 09:49:48 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL2hvbWVsYW5kcHJlcG5ld3MuY29tL3N0b3JpZXMvODE2NzYtcHVibGljLXNhZmV0eS1icm9hZGJhbmQtbmV0d29yay10by1leHBhbmQtYXMtZmlyc3RuZXQtdHJhbnNpdGlvbnMtdG8tZnVsbC01Zy1uZXR3b3JrL9IBAA?oc=5\" target=\"_blank\">Public safety broadband network to expand as FirstNet transitions to full 5G network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Preparedness News</font>"
+            ],
+            "source": [
+              {
+                "_": "Homeland Preparedness News",
+                "$": {
+                  "url": "https://homelandprepnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Confirms Successful Completion of Public Safety Broadband Network FirstNet - The Fast Mode"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy50aGVmYXN0bW9kZS5jb20vdGVjaG5vbG9neS1zb2x1dGlvbnMvMzQzNTYtYXQtdC1jb25maXJtcy1zdWNjZXNzZnVsLWNvbXBsZXRpb24tb2YtcHVibGljLXNhZmV0eS1icm9hZGJhbmQtbmV0d29yay1maXJzdG5ldNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy50aGVmYXN0bW9kZS5jb20vdGVjaG5vbG9neS1zb2x1dGlvbnMvMzQzNTYtYXQtdC1jb25maXJtcy1zdWNjZXNzZnVsLWNvbXBsZXRpb24tb2YtcHVibGljLXNhZmV0eS1icm9hZGJhbmQtbmV0d29yay1maXJzdG5ldNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Dec 2023 01:47:34 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy50aGVmYXN0bW9kZS5jb20vdGVjaG5vbG9neS1zb2x1dGlvbnMvMzQzNTYtYXQtdC1jb25maXJtcy1zdWNjZXNzZnVsLWNvbXBsZXRpb24tb2YtcHVibGljLXNhZmV0eS1icm9hZGJhbmQtbmV0d29yay1maXJzdG5ldNIBAA?oc=5\" target=\"_blank\">AT&T Confirms Successful Completion of Public Safety Broadband Network FirstNet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fast Mode</font>"
+            ],
+            "source": [
+              {
+                "_": "The Fast Mode",
+                "$": {
+                  "url": "https://www.thefastmode.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet MegaRange Provides Strongest Signal for First Responders - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2ZpcnN0bmV0LW1lZ2FyYW5nZS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOGh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2ZpcnN0bmV0LW1lZ2FyYW5nZS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2ZpcnN0bmV0LW1lZ2FyYW5nZS5odG1s0gEA?oc=5\" target=\"_blank\">FirstNet MegaRange Provides Strongest Signal for First Responders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet Authority Board OKs 'Network Evolution' Resolution; Joe Wassel Quoted - Executive Gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDI0LzAxL2ZpcnN0bmV0LWF1dGhvcml0eS1ib2FyZC1va3MtbmV0d29yay1ldm9sdXRpb24tcmVzb2x1dGlvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDI0LzAxL2ZpcnN0bmV0LWF1dGhvcml0eS1ib2FyZC1va3MtbmV0d29yay1ldm9sdXRpb24tcmVzb2x1dGlvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 22:10:03 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDI0LzAxL2ZpcnN0bmV0LWF1dGhvcml0eS1ib2FyZC1va3MtbmV0d29yay1ldm9sdXRpb24tcmVzb2x1dGlvbi_SAQA?oc=5\" target=\"_blank\">FirstNet Authority Board OKs 'Network Evolution' Resolution; Joe Wassel Quoted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Executive Gov</font>"
+            ],
+            "source": [
+              {
+                "_": "Executive Gov",
+                "$": {
+                  "url": "https://executivegov.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What is FirstNet? - Android Police"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2ZpcnN0bmV0LWF0dC1leHBsYWluZXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiNWh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2ZpcnN0bmV0LWF0dC1leHBsYWluZXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2ZpcnN0bmV0LWF0dC1leHBsYWluZXIv0gEA?oc=5\" target=\"_blank\">What is FirstNet?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Android Police</font>"
+            ],
+            "source": [
+              {
+                "_": "Android Police",
+                "$": {
+                  "url": "https://www.androidpolice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A start to stronger oversight of FirstNet | Featured News Story - Verizon"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnZlcml6b24uY29tL2Fib3V0L25ld3Mvc3RhcnQtc3Ryb25nZXItb3ZlcnNpZ2h0LWZpcnN0bmV00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3LnZlcml6b24uY29tL2Fib3V0L25ld3Mvc3RhcnQtc3Ryb25nZXItb3ZlcnNpZ2h0LWZpcnN0bmV00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 06 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnZlcml6b24uY29tL2Fib3V0L25ld3Mvc3RhcnQtc3Ryb25nZXItb3ZlcnNpZ2h0LWZpcnN0bmV00gEA?oc=5\" target=\"_blank\">A start to stronger oversight of FirstNet | Featured News Story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Verizon</font>"
+            ],
+            "source": [
+              {
+                "_": "Verizon",
+                "$": {
+                  "url": "https://www.verizon.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T's sudden move to oust maintenance contractors could threaten FirstNet's resilience - Wireless Estimator"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3dpcmVsZXNzZXN0aW1hdG9yLmNvbS9hcnRpY2xlcy8yMDI0L2F0dHMtc3VkZGVuLW1vdmUtdG8tb3VzdC1tYWludGVuYW5jZS1jb250cmFjdG9ycy1jb3VsZC10aHJlYXRlbi1maXJzdG5ldHMtcmVzaWxpZW5jZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3dpcmVsZXNzZXN0aW1hdG9yLmNvbS9hcnRpY2xlcy8yMDI0L2F0dHMtc3VkZGVuLW1vdmUtdG8tb3VzdC1tYWludGVuYW5jZS1jb250cmFjdG9ycy1jb3VsZC10aHJlYXRlbi1maXJzdG5ldHMtcmVzaWxpZW5jZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3dpcmVsZXNzZXN0aW1hdG9yLmNvbS9hcnRpY2xlcy8yMDI0L2F0dHMtc3VkZGVuLW1vdmUtdG8tb3VzdC1tYWludGVuYW5jZS1jb250cmFjdG9ycy1jb3VsZC10aHJlYXRlbi1maXJzdG5ldHMtcmVzaWxpZW5jZS_SAQA?oc=5\" target=\"_blank\">AT&T's sudden move to oust maintenance contractors could threaten FirstNet's resilience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wireless Estimator</font>"
+            ],
+            "source": [
+              {
+                "_": "Wireless Estimator",
+                "$": {
+                  "url": "https://wirelessestimator.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FCC approves rules expanding network-outage reporting, seeks comments on FirstNet Authority obligations - Urgent ... - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjQvMDIvMDIvZmNjLWFwcHJvdmVzLXJ1bGVzLWV4cGFuZGluZy1uZXR3b3JrLW91dGFnZS1yZXBvcnRpbmctc2Vla3MtY29tbWVudHMtb24tZmlyc3RuZXQtYXV0aG9yaXR5LW9ibGlnYXRpb25zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjQvMDIvMDIvZmNjLWFwcHJvdmVzLXJ1bGVzLWV4cGFuZGluZy1uZXR3b3JrLW91dGFnZS1yZXBvcnRpbmctc2Vla3MtY29tbWVudHMtb24tZmlyc3RuZXQtYXV0aG9yaXR5LW9ibGlnYXRpb25zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 04:11:02 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjQvMDIvMDIvZmNjLWFwcHJvdmVzLXJ1bGVzLWV4cGFuZGluZy1uZXR3b3JrLW91dGFnZS1yZXBvcnRpbmctc2Vla3MtY29tbWVudHMtb24tZmlyc3RuZXQtYXV0aG9yaXR5LW9ibGlnYXRpb25zL9IBAA?oc=5\" target=\"_blank\">FCC approves rules expanding network-outage reporting, seeks comments on FirstNet Authority obligations - Urgent ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet: maturing the network - Critical Communications Today"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXMuY29tL2NvbnRlbnQvZmVhdHVyZXMvZmlyc3RuZXQtbWF0dXJpbmctdGhlLW5ldHdvcmsv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXMuY29tL2NvbnRlbnQvZmVhdHVyZXMvZmlyc3RuZXQtbWF0dXJpbmctdGhlLW5ldHdvcmsv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXMuY29tL2NvbnRlbnQvZmVhdHVyZXMvZmlyc3RuZXQtbWF0dXJpbmctdGhlLW5ldHdvcmsv0gEA?oc=5\" target=\"_blank\">FirstNet: maturing the network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Critical Communications Today</font>"
+            ],
+            "source": [
+              {
+                "_": "Critical Communications Today",
+                "$": {
+                  "url": "https://www.criticalcomms.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Helps Deliver New School Safety Solution - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2ZpcnN0bmV0LXNjaG9vbC1zYWZldHkuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2ZpcnN0bmV0LXNjaG9vbC1zYWZldHkuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2ZpcnN0bmV0LXNjaG9vbC1zYWZldHkuaHRtbNIBAA?oc=5\" target=\"_blank\">AT&T Helps Deliver New School Safety Solution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet Authority approves investment to evolve FirstNet to full 5G capabilities - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8zMC9maXJzdG5ldC1hdXRob3JpdHktYXBwcm92ZXMtaW52ZXN0bWVudC10by1ldm9sdmUtZmlyc3RuZXQtdG8tZnVsbC01Zy1jYXBhYmlsaXRpZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8zMC9maXJzdG5ldC1hdXRob3JpdHktYXBwcm92ZXMtaW52ZXN0bWVudC10by1ldm9sdmUtZmlyc3RuZXQtdG8tZnVsbC01Zy1jYXBhYmlsaXRpZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 04:38:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8zMC9maXJzdG5ldC1hdXRob3JpdHktYXBwcm92ZXMtaW52ZXN0bWVudC10by1ldm9sdmUtZmlyc3RuZXQtdG8tZnVsbC01Zy1jYXBhYmlsaXRpZXMv0gEA?oc=5\" target=\"_blank\">FirstNet Authority approves investment to evolve FirstNet to full 5G capabilities - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How FirstNet is Simplifying Public Safety's Lives - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9ibG9ncy8yMDIzL2ZpcnN0bmV0LWFuZC1mYW1pbHkuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9ibG9ncy8yMDIzL2ZpcnN0bmV0LWFuZC1mYW1pbHkuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 21 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9ibG9ncy8yMDIzL2ZpcnN0bmV0LWFuZC1mYW1pbHkuaHRtbNIBAA?oc=5\" target=\"_blank\">How FirstNet is Simplifying Public Safety's Lives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T says FirstNet provides more than 5.5 million connections to about 27500 agencies - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8yNi9hdHQtc2F5cy1maXJzdG5ldC1wcm92aWRlcy1tb3JlLXRoYW4tNS01LW1pbGxpb24tY29ubmVjdGlvbnMtdG8tYWJvdXQtMjc1MDAtYWdlbmNpZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8yNi9hdHQtc2F5cy1maXJzdG5ldC1wcm92aWRlcy1tb3JlLXRoYW4tNS01LW1pbGxpb24tY29ubmVjdGlvbnMtdG8tYWJvdXQtMjc1MDAtYWdlbmNpZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8yNi9hdHQtc2F5cy1maXJzdG5ldC1wcm92aWRlcy1tb3JlLXRoYW4tNS01LW1pbGxpb24tY29ubmVjdGlvbnMtdG8tYWJvdXQtMjc1MDAtYWdlbmNpZXMv0gEA?oc=5\" target=\"_blank\">AT&T says FirstNet provides more than 5.5 million connections to about 27500 agencies - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Three keys to success for FirstNet 3.0 - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMi8yMS90aHJlZS1rZXlzLXRvLXN1Y2Nlc3MtZm9yLWZpcnN0bmV0LTMtMC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMi8yMS90aHJlZS1rZXlzLXRvLXN1Y2Nlc3MtZm9yLWZpcnN0bmV0LTMtMC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMi8yMS90aHJlZS1rZXlzLXRvLXN1Y2Nlc3MtZm9yLWZpcnN0bmV0LTMtMC_SAQA?oc=5\" target=\"_blank\">Three keys to success for FirstNet 3.0 - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T, Nextivity announce new generation of FirstNet HPUE offerings that include Wi-Fi connectivity - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMDkvMjAvYXR0LW5leHRpdml0eS1hbm5vdW5jZS1uZXctZ2VuZXJhdGlvbi1vZi1maXJzdG5ldC1ocHVlLW9mZmVyaW5ncy10aGF0LWluY2x1ZGUtd2ktZmktY29ubmVjdGl2aXR5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMDkvMjAvYXR0LW5leHRpdml0eS1hbm5vdW5jZS1uZXctZ2VuZXJhdGlvbi1vZi1maXJzdG5ldC1ocHVlLW9mZmVyaW5ncy10aGF0LWluY2x1ZGUtd2ktZmktY29ubmVjdGl2aXR5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMDkvMjAvYXR0LW5leHRpdml0eS1hbm5vdW5jZS1uZXctZ2VuZXJhdGlvbi1vZi1maXJzdG5ldC1ocHVlLW9mZmVyaW5ncy10aGF0LWluY2x1ZGUtd2ktZmktY29ubmVjdGl2aXR5L9IBAA?oc=5\" target=\"_blank\">AT&T, Nextivity announce new generation of FirstNet HPUE offerings that include Wi-Fi connectivity - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PTT over FirstNet still needs to clear multiple barriers for mass adoption, 5x5 attendees say - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNy8wNi9wdHQtb3Zlci1maXJzdG5ldC1zdGlsbC1uZWVkcy10by1jbGVhci1tdWx0aXBsZS1iYXJyaWVycy1mb3ItbWFzcy1hZG9wdGlvbi01eDUtYXR0ZW5kZWVzLXNheS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNy8wNi9wdHQtb3Zlci1maXJzdG5ldC1zdGlsbC1uZWVkcy10by1jbGVhci1tdWx0aXBsZS1iYXJyaWVycy1mb3ItbWFzcy1hZG9wdGlvbi01eDUtYXR0ZW5kZWVzLXNheS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 06 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNy8wNi9wdHQtb3Zlci1maXJzdG5ldC1zdGlsbC1uZWVkcy10by1jbGVhci1tdWx0aXBsZS1iYXJyaWVycy1mb3ItbWFzcy1hZG9wdGlvbi01eDUtYXR0ZW5kZWVzLXNheS_SAQA?oc=5\" target=\"_blank\">PTT over FirstNet still needs to clear multiple barriers for mass adoption, 5x5 attendees say - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet has about 5.3 million connections, 27K agencies, according to AT&T - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMC8yNC9maXJzdG5ldC1oYXMtYWJvdXQtNS0zLW1pbGxpb24tY29ubmVjdGlvbnMtMjdrLWFnZW5jaWVzLWFjY29yZGluZy10by1hdHQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMC8yNC9maXJzdG5ldC1oYXMtYWJvdXQtNS0zLW1pbGxpb24tY29ubmVjdGlvbnMtMjdrLWFnZW5jaWVzLWFjY29yZGluZy10by1hdHQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMC8yNC9maXJzdG5ldC1oYXMtYWJvdXQtNS0zLW1pbGxpb24tY29ubmVjdGlvbnMtMjdrLWFnZW5jaWVzLWFjY29yZGluZy10by1hdHQv0gEA?oc=5\" target=\"_blank\">FirstNet has about 5.3 million connections, 27K agencies, according to AT&T - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cal OES expresses opposition to PSSA proposal of FirstNet Authority 4.9 GHz spectrum license - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8xOS9jYWwtb2VzLWV4cHJlc3Nlcy1vcHBvc2l0aW9uLXRvLXBzc2EtcHJvcG9zYWwtb2YtZmlyc3RuZXQtYXV0aG9yaXR5LTQtOS1naHotc3BlY3RydW0tbGljZW5zZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8xOS9jYWwtb2VzLWV4cHJlc3Nlcy1vcHBvc2l0aW9uLXRvLXBzc2EtcHJvcG9zYWwtb2YtZmlyc3RuZXQtYXV0aG9yaXR5LTQtOS1naHotc3BlY3RydW0tbGljZW5zZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8xOS9jYWwtb2VzLWV4cHJlc3Nlcy1vcHBvc2l0aW9uLXRvLXBzc2EtcHJvcG9zYWwtb2YtZmlyc3RuZXQtYXV0aG9yaXR5LTQtOS1naHotc3BlY3RydW0tbGljZW5zZS_SAQA?oc=5\" target=\"_blank\">Cal OES expresses opposition to PSSA proposal of FirstNet Authority 4.9 GHz spectrum license - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FCC to consider new outage-reporting rules, soliciting comments on FirstNet, deployable usage - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8xMi9mY2MtdG8tY29uc2lkZXItbmV3LW91dGFnZS1yZXBvcnRpbmctcnVsZXMtc29saWNpdGluZy1jb21tZW50cy1vbi1maXJzdG5ldC1kZXBsb3lhYmxlLXVzYWdlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8xMi9mY2MtdG8tY29uc2lkZXItbmV3LW91dGFnZS1yZXBvcnRpbmctcnVsZXMtc29saWNpdGluZy1jb21tZW50cy1vbi1maXJzdG5ldC1kZXBsb3lhYmxlLXVzYWdlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8xMi9mY2MtdG8tY29uc2lkZXItbmV3LW91dGFnZS1yZXBvcnRpbmctcnVsZXMtc29saWNpdGluZy1jb21tZW50cy1vbi1maXJzdG5ldC1kZXBsb3lhYmxlLXVzYWdlL9IBAA?oc=5\" target=\"_blank\">FCC to consider new outage-reporting rules, soliciting comments on FirstNet, deployable usage - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet Authority validates AT&T completion of initial NPSBN five-year buildout - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMi8xMy9maXJzdG5ldC1hdXRob3JpdHktdmFsaWRhdGVzLWF0dC1jb21wbGV0aW9uLW9mLWluaXRpYWwtbnBzYm4tZml2ZS15ZWFyLWJ1aWxkb3V0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMi8xMy9maXJzdG5ldC1hdXRob3JpdHktdmFsaWRhdGVzLWF0dC1jb21wbGV0aW9uLW9mLWluaXRpYWwtbnBzYm4tZml2ZS15ZWFyLWJ1aWxkb3V0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMi8xMy9maXJzdG5ldC1hdXRob3JpdHktdmFsaWRhdGVzLWF0dC1jb21wbGV0aW9uLW9mLWluaXRpYWwtbnBzYm4tZml2ZS15ZWFyLWJ1aWxkb3V0L9IBAA?oc=5\" target=\"_blank\">FirstNet Authority validates AT&T completion of initial NPSBN five-year buildout - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet Authority releases technological Roadmap update - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8yNy9maXJzdG5ldC1hdXRob3JpdHktcmVsZWFzZXMtdGVjaG5vbG9naWNhbC1yb2FkbWFwLXVwZGF0ZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8yNy9maXJzdG5ldC1hdXRob3JpdHktcmVsZWFzZXMtdGVjaG5vbG9naWNhbC1yb2FkbWFwLXVwZGF0ZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 27 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8yNy9maXJzdG5ldC1hdXRob3JpdHktcmVsZWFzZXMtdGVjaG5vbG9naWNhbC1yb2FkbWFwLXVwZGF0ZS_SAQA?oc=5\" target=\"_blank\">FirstNet Authority releases technological Roadmap update - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T and FirstNet Introduce New Tool to Keep Students, Teachers Safer at School - dallasinnovates.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vZGFsbGFzaW5ub3ZhdGVzLmNvbS9hdHQtYW5kLWZpcnN0bmV0LWludHJvZHVjZS1uZXctdG9vbC10by1rZWVwLXN0dWRlbnRzLXRlYWNoZXJzLXNhZmVyLWF0LXNjaG9vbC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vZGFsbGFzaW5ub3ZhdGVzLmNvbS9hdHQtYW5kLWZpcnN0bmV0LWludHJvZHVjZS1uZXctdG9vbC10by1rZWVwLXN0dWRlbnRzLXRlYWNoZXJzLXNhZmVyLWF0LXNjaG9vbC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vZGFsbGFzaW5ub3ZhdGVzLmNvbS9hdHQtYW5kLWZpcnN0bmV0LWludHJvZHVjZS1uZXctdG9vbC10by1rZWVwLXN0dWRlbnRzLXRlYWNoZXJzLXNhZmVyLWF0LXNjaG9vbC_SAQA?oc=5\" target=\"_blank\">AT&T and FirstNet Introduce New Tool to Keep Students, Teachers Safer at School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dallasinnovates.com</font>"
+            ],
+            "source": [
+              {
+                "_": "dallasinnovates.com",
+                "$": {
+                  "url": "https://dallasinnovates.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet Exclusive: AT&T Delivers new suite of MegaRange solutions to strengthen connectivity at the network edge - EMS1.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMi0gFodHRwczovL3d3dy5lbXMxLmNvbS9lbXMtcHJvZHVjdHMvY29tbXVuaWNhdGlvbnMtaW50ZXJvcGVyYWJpbGl0eS9wcmVzcy1yZWxlYXNlcy9maXJzdG5ldC1leGNsdXNpdmUtYXR0LWRlbGl2ZXJzLW5ldy1zdWl0ZS1vZi1tZWdhcmFuZ2Utc29sdXRpb25zLXRvLXN0cmVuZ3RoZW4tY29ubmVjdGl2aXR5LWF0LXRoZS1uZXR3b3JrLWVkZ2Uta1NEbGhyVFB0dUtPOGtHbC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMi0gFodHRwczovL3d3dy5lbXMxLmNvbS9lbXMtcHJvZHVjdHMvY29tbXVuaWNhdGlvbnMtaW50ZXJvcGVyYWJpbGl0eS9wcmVzcy1yZWxlYXNlcy9maXJzdG5ldC1leGNsdXNpdmUtYXR0LWRlbGl2ZXJzLW5ldy1zdWl0ZS1vZi1tZWdhcmFuZ2Utc29sdXRpb25zLXRvLXN0cmVuZ3RoZW4tY29ubmVjdGl2aXR5LWF0LXRoZS1uZXR3b3JrLWVkZ2Uta1NEbGhyVFB0dUtPOGtHbC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMi0gFodHRwczovL3d3dy5lbXMxLmNvbS9lbXMtcHJvZHVjdHMvY29tbXVuaWNhdGlvbnMtaW50ZXJvcGVyYWJpbGl0eS9wcmVzcy1yZWxlYXNlcy9maXJzdG5ldC1leGNsdXNpdmUtYXR0LWRlbGl2ZXJzLW5ldy1zdWl0ZS1vZi1tZWdhcmFuZ2Utc29sdXRpb25zLXRvLXN0cmVuZ3RoZW4tY29ubmVjdGl2aXR5LWF0LXRoZS1uZXR3b3JrLWVkZ2Uta1NEbGhyVFB0dUtPOGtHbC_SAQA?oc=5\" target=\"_blank\">FirstNet Exclusive: AT&T Delivers new suite of MegaRange solutions to strengthen connectivity at the network edge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EMS1.com</font>"
+            ],
+            "source": [
+              {
+                "_": "EMS1.com",
+                "$": {
+                  "url": "https://www.ems1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet 2024 budget approved - Critical Communications Today"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXMuY29tL2NvbnRlbnQvbmV3cy9maXJzdG5ldC0yMDI0LWJ1ZGdldC1hcHByb3ZlZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXMuY29tL2NvbnRlbnQvbmV3cy9maXJzdG5ldC0yMDI0LWJ1ZGdldC1hcHByb3ZlZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 24 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXMuY29tL2NvbnRlbnQvbmV3cy9maXJzdG5ldC0yMDI0LWJ1ZGdldC1hcHByb3ZlZC_SAQA?oc=5\" target=\"_blank\">FirstNet 2024 budget approved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Critical Communications Today</font>"
+            ],
+            "source": [
+              {
+                "_": "Critical Communications Today",
+                "$": {
+                  "url": "https://www.criticalcomms.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T says FirstNet adoption surpasses 5 million connections, 26000 agencies - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNy8yNi9hdHQtc2F5cy1maXJzdG5ldC1hZG9wdGlvbi1zdXJwYXNzZXMtNS1taWxsaW9uLWNvbm5lY3Rpb25zLTI2MDAwLWFnZW5jaWVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNy8yNi9hdHQtc2F5cy1maXJzdG5ldC1hZG9wdGlvbi1zdXJwYXNzZXMtNS1taWxsaW9uLWNvbm5lY3Rpb25zLTI2MDAwLWFnZW5jaWVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNy8yNi9hdHQtc2F5cy1maXJzdG5ldC1hZG9wdGlvbi1zdXJwYXNzZXMtNS1taWxsaW9uLWNvbm5lY3Rpb25zLTI2MDAwLWFnZW5jaWVzL9IBAA?oc=5\" target=\"_blank\">AT&T says FirstNet adoption surpasses 5 million connections, 26000 agencies - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Nextivity supports satellite-direct-to-phone operations on FirstNet spectrum, looks to upgrade HPUE next year - Urgent ... - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMDYvMTQvbmV4dGl2aXR5LXN1cHBvcnRzLXNhdGVsbGl0ZS1kaXJlY3QtdG8tcGhvbmUtb3BlcmF0aW9ucy1vbi1maXJzdG5ldC1zcGVjdHJ1bS1sb29rLXRvLXVwZ3JhZGUtaHB1ZS1uZXh0LXllYXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMDYvMTQvbmV4dGl2aXR5LXN1cHBvcnRzLXNhdGVsbGl0ZS1kaXJlY3QtdG8tcGhvbmUtb3BlcmF0aW9ucy1vbi1maXJzdG5ldC1zcGVjdHJ1bS1sb29rLXRvLXVwZ3JhZGUtaHB1ZS1uZXh0LXllYXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 14 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMDYvMTQvbmV4dGl2aXR5LXN1cHBvcnRzLXNhdGVsbGl0ZS1kaXJlY3QtdG8tcGhvbmUtb3BlcmF0aW9ucy1vbi1maXJzdG5ldC1zcGVjdHJ1bS1sb29rLXRvLXVwZ3JhZGUtaHB1ZS1uZXh0LXllYXIv0gEA?oc=5\" target=\"_blank\">Nextivity supports satellite-direct-to-phone operations on FirstNet spectrum, looks to upgrade HPUE next year - Urgent ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet is Connecting First Responders for Maui Wildfires - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9ibG9ncy8yMDIzL2ZpcnN0bmV0LW1hdWktd2lsZGZpcmVzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9ibG9ncy8yMDIzL2ZpcnN0bmV0LW1hdWktd2lsZGZpcmVzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 11 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9ibG9ncy8yMDIzL2ZpcnN0bmV0LW1hdWktd2lsZGZpcmVzLmh0bWzSAQA?oc=5\" target=\"_blank\">FirstNet is Connecting First Responders for Maui Wildfires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PSCR-FirstNet Authority: Officials highlight key features of new 5x5 event in San Diego - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8yMC9wc2NyLWZpcnN0bmV0LWF1dGhvcml0eS1vZmZpY2lhbHMtaGlnaGxpZ2h0LWtleS1mZWF0dXJlcy1vZi1uZXctNXg1LWV2ZW50LWluLXNhbi1kaWVnby_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8yMC9wc2NyLWZpcnN0bmV0LWF1dGhvcml0eS1vZmZpY2lhbHMtaGlnaGxpZ2h0LWtleS1mZWF0dXJlcy1vZi1uZXctNXg1LWV2ZW50LWluLXNhbi1kaWVnby_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 20 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8yMC9wc2NyLWZpcnN0bmV0LWF1dGhvcml0eS1vZmZpY2lhbHMtaGlnaGxpZ2h0LWtleS1mZWF0dXJlcy1vZi1uZXctNXg1LWV2ZW50LWluLXNhbi1kaWVnby_SAQA?oc=5\" target=\"_blank\">PSCR-FirstNet Authority: Officials highlight key features of new 5x5 event in San Diego - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Heidelberg Materials has launched the worlds first net-zero cement - World Cement"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LndvcmxkY2VtZW50LmNvbS9wcm9kdWN0LW5ld3MvMjkxMTIwMjMvaGVpZGVsYmVyZy1tYXRlcmlhbHMtaGFzLWxhdW5jaGVkLXRoZS13b3JsZHMtZmlyc3QtbmV0LXplcm8tY2VtZW50L9IBeWh0dHBzOi8vd3d3LndvcmxkY2VtZW50LmNvbS9wcm9kdWN0LW5ld3MvMjkxMTIwMjMvaGVpZGVsYmVyZy1tYXRlcmlhbHMtaGFzLWxhdW5jaGVkLXRoZS13b3JsZHMtZmlyc3QtbmV0LXplcm8tY2VtZW50L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LndvcmxkY2VtZW50LmNvbS9wcm9kdWN0LW5ld3MvMjkxMTIwMjMvaGVpZGVsYmVyZy1tYXRlcmlhbHMtaGFzLWxhdW5jaGVkLXRoZS13b3JsZHMtZmlyc3QtbmV0LXplcm8tY2VtZW50L9IBeWh0dHBzOi8vd3d3LndvcmxkY2VtZW50LmNvbS9wcm9kdWN0LW5ld3MvMjkxMTIwMjMvaGVpZGVsYmVyZy1tYXRlcmlhbHMtaGFzLWxhdW5jaGVkLXRoZS13b3JsZHMtZmlyc3QtbmV0LXplcm8tY2VtZW50L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LndvcmxkY2VtZW50LmNvbS9wcm9kdWN0LW5ld3MvMjkxMTIwMjMvaGVpZGVsYmVyZy1tYXRlcmlhbHMtaGFzLWxhdW5jaGVkLXRoZS13b3JsZHMtZmlyc3QtbmV0LXplcm8tY2VtZW50L9IBeWh0dHBzOi8vd3d3LndvcmxkY2VtZW50LmNvbS9wcm9kdWN0LW5ld3MvMjkxMTIwMjMvaGVpZGVsYmVyZy1tYXRlcmlhbHMtaGFzLWxhdW5jaGVkLXRoZS13b3JsZHMtZmlyc3QtbmV0LXplcm8tY2VtZW50L2FtcC8?oc=5\" target=\"_blank\">Heidelberg Materials has launched the worlds first net-zero cement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Cement</font>"
+            ],
+            "source": [
+              {
+                "_": "World Cement",
+                "$": {
+                  "url": "https://www.worldcement.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet Authority board approves $450.8 million budget for 2024 fiscal year, CEO shares priorities - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMDgvMjUvZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkLWFwcHJvdmVzLTQ1MC04LW1pbGxpb24tYnVkZ2V0LWZvci0yMDI0LWZpc2NhbC15ZWFyLWNlby1zaGFyZXMtcHJpb3JpdGllcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMDgvMjUvZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkLWFwcHJvdmVzLTQ1MC04LW1pbGxpb24tYnVkZ2V0LWZvci0yMDI0LWZpc2NhbC15ZWFyLWNlby1zaGFyZXMtcHJpb3JpdGllcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 25 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMDgvMjUvZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkLWFwcHJvdmVzLTQ1MC04LW1pbGxpb24tYnVkZ2V0LWZvci0yMDI0LWZpc2NhbC15ZWFyLWNlby1zaGFyZXMtcHJpb3JpdGllcy_SAQA?oc=5\" target=\"_blank\">FirstNet Authority board approves $450.8 million budget for 2024 fiscal year, CEO shares priorities - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T speakers update status of FirstNet mission-critical services during IWCE - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8xMi9hdHQtc3BlYWtlcnMtdXBkYXRlLXN0YXR1cy1vZi1maXJzdG5ldC1taXNzaW9uLWNyaXRpY2FsLXNlcnZpY2VzLWR1cmluZy1pd2NlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8xMi9hdHQtc3BlYWtlcnMtdXBkYXRlLXN0YXR1cy1vZi1maXJzdG5ldC1taXNzaW9uLWNyaXRpY2FsLXNlcnZpY2VzLWR1cmluZy1pd2NlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8xMi9hdHQtc3BlYWtlcnMtdXBkYXRlLXN0YXR1cy1vZi1maXJzdG5ldC1taXNzaW9uLWNyaXRpY2FsLXNlcnZpY2VzLWR1cmluZy1pd2NlL9IBAA?oc=5\" target=\"_blank\">AT&T speakers update status of FirstNet mission-critical services during IWCE - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NTIA Looking for New FirstNet Authority Board Members - MeriTalk"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9udGlhLWxvb2tpbmctZm9yLW5ldy1maXJzdG5ldC1hdXRob3JpdHktYm9hcmQtbWVtYmVycy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9udGlhLWxvb2tpbmctZm9yLW5ldy1maXJzdG5ldC1hdXRob3JpdHktYm9hcmQtbWVtYmVycy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 Jan 2024 21:00:36 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9udGlhLWxvb2tpbmctZm9yLW5ldy1maXJzdG5ldC1hdXRob3JpdHktYm9hcmQtbWVtYmVycy_SAQA?oc=5\" target=\"_blank\">NTIA Looking for New FirstNet Authority Board Members</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MeriTalk</font>"
+            ],
+            "source": [
+              {
+                "_": "MeriTalk",
+                "$": {
+                  "url": "https://www.meritalk.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T says FirstNet has about 4.7 million connections, 25000 agencies - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8yMS9hdHQtc2F5cy1maXJzdG5ldC10b3BzLTQtNy1taWxsaW9uLWNvbm5lY3Rpb25zLTI1MDAwLWFnZW5jaWVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8yMS9hdHQtc2F5cy1maXJzdG5ldC10b3BzLTQtNy1taWxsaW9uLWNvbm5lY3Rpb25zLTI1MDAwLWFnZW5jaWVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 21 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8yMS9hdHQtc2F5cy1maXJzdG5ldC10b3BzLTQtNy1taWxsaW9uLWNvbm5lY3Rpb25zLTI1MDAwLWFnZW5jaWVzL9IBAA?oc=5\" target=\"_blank\">AT&T says FirstNet has about 4.7 million connections, 25000 agencies - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sean McDevitt appointed to FirstNet Authority board - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wOS8yNy9zZWFuLW1jZGV2aXR0LWFwcG9pbnRlZC10by1maXJzdG5ldC1hdXRob3JpdHktYm9hcmQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wOS8yNy9zZWFuLW1jZGV2aXR0LWFwcG9pbnRlZC10by1maXJzdG5ldC1hdXRob3JpdHktYm9hcmQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wOS8yNy9zZWFuLW1jZGV2aXR0LWFwcG9pbnRlZC10by1maXJzdG5ldC1hdXRob3JpdHktYm9hcmQv0gEA?oc=5\" target=\"_blank\">Sean McDevitt appointed to FirstNet Authority board - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "More First Responders Choose FirstNet to Reliably Communicate - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2NlbGVicmF0aW5nLWZpcnN0bmV0Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOmh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2NlbGVicmF0aW5nLWZpcnN0bmV0Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2NlbGVicmF0aW5nLWZpcnN0bmV0Lmh0bWzSAQA?oc=5\" target=\"_blank\">More First Responders Choose FirstNet to Reliably Communicate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New coalition opposes PSSA proposal for FCC to award 4.9 GHz license to the FirstNet Authority - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMTEvMTcvbmV3LWNvYWxpdGlvbi1vcHBvc2VzLXBzc2EtcHJvcG9zYWwtZm9yLWZjYy10by1hd2FyZC00LTktZ2h6LWxpY2Vuc2UtdG8tdGhlLWZpcnN0bmV0LWF1dGhvcml0eS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMTEvMTcvbmV3LWNvYWxpdGlvbi1vcHBvc2VzLXBzc2EtcHJvcG9zYWwtZm9yLWZjYy10by1hd2FyZC00LTktZ2h6LWxpY2Vuc2UtdG8tdGhlLWZpcnN0bmV0LWF1dGhvcml0eS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3VyZ2VudGNvbW0uY29tLzIwMjMvMTEvMTcvbmV3LWNvYWxpdGlvbi1vcHBvc2VzLXBzc2EtcHJvcG9zYWwtZm9yLWZjYy10by1hd2FyZC00LTktZ2h6LWxpY2Vuc2UtdG8tdGhlLWZpcnN0bmV0LWF1dGhvcml0eS_SAQA?oc=5\" target=\"_blank\">New coalition opposes PSSA proposal for FCC to award 4.9 GHz license to the FirstNet Authority - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bill to permanently reauthorize the FirstNet Authority reintroduced in the House - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNS8xOS9iaWxsLXRvLXBlcm1hbmVudGx5LXJlYXV0aG9yaXplLXRoZS1maXJzdG5ldC1hdXRob3JpdHktcmVpbnRyb2R1Y2VkLWluLXRoZS1ob3VzZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNS8xOS9iaWxsLXRvLXBlcm1hbmVudGx5LXJlYXV0aG9yaXplLXRoZS1maXJzdG5ldC1hdXRob3JpdHktcmVpbnRyb2R1Y2VkLWluLXRoZS1ob3VzZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNS8xOS9iaWxsLXRvLXBlcm1hbmVudGx5LXJlYXV0aG9yaXplLXRoZS1maXJzdG5ldC1hdXRob3JpdHktcmVpbnRyb2R1Y2VkLWluLXRoZS1ob3VzZS_SAQA?oc=5\" target=\"_blank\">Bill to permanently reauthorize the FirstNet Authority reintroduced in the House - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T's FirstNet, Verizon Frontline connect first responders in Maui - FierceWireless"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy9hdHRzLWZpcnN0bmV0LXZlcml6b24tZnJvbnRsaW5lLWNvbm5lY3QtZmlyc3QtcmVzcG9uZGVycy1tYXVp0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy9hdHRzLWZpcnN0bmV0LXZlcml6b24tZnJvbnRsaW5lLWNvbm5lY3QtZmlyc3QtcmVzcG9uZGVycy1tYXVp0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 17 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy9hdHRzLWZpcnN0bmV0LXZlcml6b24tZnJvbnRsaW5lLWNvbm5lY3QtZmlyc3QtcmVzcG9uZGVycy1tYXVp0gEA?oc=5\" target=\"_blank\">AT&T's FirstNet, Verizon Frontline connect first responders in Maui</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FierceWireless</font>"
+            ],
+            "source": [
+              {
+                "_": "FierceWireless",
+                "$": {
+                  "url": "https://www.fiercewireless.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PSSA asks FCC for FirstNet Authority license at 4.9 GHz, opposes CERCI proposal - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMi8wOC9wc3NhLWFza3MtZmNjLWZvci1maXJzdG5ldC1hdXRob3JpdHktbGljZW5zZS1hdC00LTktZ2h6LW9wcG9zZXMtY2VyY2ktcHJvcG9zYWwv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMi8wOC9wc3NhLWFza3MtZmNjLWZvci1maXJzdG5ldC1hdXRob3JpdHktbGljZW5zZS1hdC00LTktZ2h6LW9wcG9zZXMtY2VyY2ktcHJvcG9zYWwv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMi8wOC9wc3NhLWFza3MtZmNjLWZvci1maXJzdG5ldC1hdXRob3JpdHktbGljZW5zZS1hdC00LTktZ2h6LW9wcG9zZXMtY2VyY2ktcHJvcG9zYWwv0gEA?oc=5\" target=\"_blank\">PSSA asks FCC for FirstNet Authority license at 4.9 GHz, opposes CERCI proposal - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "China suffers first net outflow of funds in 5 years in 2023 - Nikkei Asia"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYXNpYS5uaWtrZWkuY29tL0J1c2luZXNzL01hcmtldHMvQ2hpbmEtc3VmZmVycy1maXJzdC1uZXQtb3V0Zmxvdy1vZi1mdW5kcy1pbi01LXllYXJzLWluLTIwMjPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vYXNpYS5uaWtrZWkuY29tL0J1c2luZXNzL01hcmtldHMvQ2hpbmEtc3VmZmVycy1maXJzdC1uZXQtb3V0Zmxvdy1vZi1mdW5kcy1pbi01LXllYXJzLWluLTIwMjPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYXNpYS5uaWtrZWkuY29tL0J1c2luZXNzL01hcmtldHMvQ2hpbmEtc3VmZmVycy1maXJzdC1uZXQtb3V0Zmxvdy1vZi1mdW5kcy1pbi01LXllYXJzLWluLTIwMjPSAQA?oc=5\" target=\"_blank\">China suffers first net outflow of funds in 5 years in 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nikkei Asia</font>"
+            ],
+            "source": [
+              {
+                "_": "Nikkei Asia",
+                "$": {
+                  "url": "https://asia.nikkei.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet Authority names Joe Wassel as its new executive director - VanillaPlus"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnZhbmlsbGFwbHVzLmNvbS8yMDIzLzAzLzE5Lzc3Nzc1LWZpcnN0bmV0LWF1dGhvcml0eS1uYW1lcy1qb2Utd2Fzc2VsLWFzLWl0cy1uZXctZXhlY3V0aXZlLWRpcmVjdG9yL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LnZhbmlsbGFwbHVzLmNvbS8yMDIzLzAzLzE5Lzc3Nzc1LWZpcnN0bmV0LWF1dGhvcml0eS1uYW1lcy1qb2Utd2Fzc2VsLWFzLWl0cy1uZXctZXhlY3V0aXZlLWRpcmVjdG9yL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnZhbmlsbGFwbHVzLmNvbS8yMDIzLzAzLzE5Lzc3Nzc1LWZpcnN0bmV0LWF1dGhvcml0eS1uYW1lcy1qb2Utd2Fzc2VsLWFzLWl0cy1uZXctZXhlY3V0aXZlLWRpcmVjdG9yL9IBAA?oc=5\" target=\"_blank\">FirstNet Authority names Joe Wassel as its new executive director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VanillaPlus</font>"
+            ],
+            "source": [
+              {
+                "_": "VanillaPlus",
+                "$": {
+                  "url": "https://www.vanillaplus.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet®, Built with AT&T: Priority is a promise. - EMS1.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmVtczEuY29tL2Vtcy1wcm9kdWN0cy9jb21tdW5pY2F0aW9ucy92aWRlb3MvZmlyc3RuZXQtYnVpbHQtd2l0aC1hdHQtcHJpb3JpdHktaXMtYS1wcm9taXNlLVhzOWhYYVNwbms0aU50VjAv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmVtczEuY29tL2Vtcy1wcm9kdWN0cy9jb21tdW5pY2F0aW9ucy92aWRlb3MvZmlyc3RuZXQtYnVpbHQtd2l0aC1hdHQtcHJpb3JpdHktaXMtYS1wcm9taXNlLVhzOWhYYVNwbms0aU50VjAv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmVtczEuY29tL2Vtcy1wcm9kdWN0cy9jb21tdW5pY2F0aW9ucy92aWRlb3MvZmlyc3RuZXQtYnVpbHQtd2l0aC1hdHQtcHJpb3JpdHktaXMtYS1wcm9taXNlLVhzOWhYYVNwbms0aU50VjAv0gEA?oc=5\" target=\"_blank\">FirstNet®, Built with AT&T: Priority is a promise.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EMS1.com</font>"
+            ],
+            "source": [
+              {
+                "_": "EMS1.com",
+                "$": {
+                  "url": "https://www.ems1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet Authority CEO reflects on first 100 days, shares vision for future - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8yOS9maXJzdG5ldC1hdXRob3JpdHktY2VvLXJlZmxlY3RzLW9uLWZpcnN0LTEwMC1kYXlzLXNoYXJlcy12aXNpb24tZm9yLWZ1dHVyZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8yOS9maXJzdG5ldC1hdXRob3JpdHktY2VvLXJlZmxlY3RzLW9uLWZpcnN0LTEwMC1kYXlzLXNoYXJlcy12aXNpb24tZm9yLWZ1dHVyZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 29 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8yOS9maXJzdG5ldC1hdXRob3JpdHktY2VvLXJlZmxlY3RzLW9uLWZpcnN0LTEwMC1kYXlzLXNoYXJlcy12aXNpb24tZm9yLWZ1dHVyZS_SAQA?oc=5\" target=\"_blank\">FirstNet Authority CEO reflects on first 100 days, shares vision for future - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet, Built with AT&T announces membership to TCCA - The Critical Communications Review"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXVuaWNhdGlvbnNyZXZpZXcuY29tL2Njci9uZXdzLzExMDk5My9maXJzdG5ldC1idWlsdC13aXRoLWF0LXQtYW5ub3VuY2VzLW1lbWJlcnNoaXAtdG8tdGNjYdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXVuaWNhdGlvbnNyZXZpZXcuY29tL2Njci9uZXdzLzExMDk5My9maXJzdG5ldC1idWlsdC13aXRoLWF0LXQtYW5ub3VuY2VzLW1lbWJlcnNoaXAtdG8tdGNjYdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXVuaWNhdGlvbnNyZXZpZXcuY29tL2Njci9uZXdzLzExMDk5My9maXJzdG5ldC1idWlsdC13aXRoLWF0LXQtYW5ub3VuY2VzLW1lbWJlcnNoaXAtdG8tdGNjYdIBAA?oc=5\" target=\"_blank\">FirstNet, Built with AT&T announces membership to TCCA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Critical Communications Review</font>"
+            ],
+            "source": [
+              {
+                "_": "The Critical Communications Review",
+                "$": {
+                  "url": "https://www.criticalcommunicationsreview.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FCC grants 700 MHz Band 14 license renewal to FirstNet Authority - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNS8yNy9mY2MtZ3JhbnRzLTcwMC1taHotYmFuZC0xNC1saWNlbnNlLXJlbmV3YWwtdG8tZmlyc3RuZXQtYXV0aG9yaXR5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNS8yNy9mY2MtZ3JhbnRzLTcwMC1taHotYmFuZC0xNC1saWNlbnNlLXJlbmV3YWwtdG8tZmlyc3RuZXQtYXV0aG9yaXR5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 27 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNS8yNy9mY2MtZ3JhbnRzLTcwMC1taHotYmFuZC0xNC1saWNlbnNlLXJlbmV3YWwtdG8tZmlyc3RuZXQtYXV0aG9yaXR5L9IBAA?oc=5\" target=\"_blank\">FCC grants 700 MHz Band 14 license renewal to FirstNet Authority - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T debuts portable emergency module for FirstNet - Mobile World Live"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm1vYmlsZXdvcmxkbGl2ZS5jb20vZmVhdHVyZWQtY29udGVudC90b3AtdGhyZWUvYXR0LWRlYnV0cy1wb3J0YWJsZS1lbWVyZ2VuY3ktbW9kdWxlLWZvci1maXJzdG5ldC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3Lm1vYmlsZXdvcmxkbGl2ZS5jb20vZmVhdHVyZWQtY29udGVudC90b3AtdGhyZWUvYXR0LWRlYnV0cy1wb3J0YWJsZS1lbWVyZ2VuY3ktbW9kdWxlLWZvci1maXJzdG5ldC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm1vYmlsZXdvcmxkbGl2ZS5jb20vZmVhdHVyZWQtY29udGVudC90b3AtdGhyZWUvYXR0LWRlYnV0cy1wb3J0YWJsZS1lbWVyZ2VuY3ktbW9kdWxlLWZvci1maXJzdG5ldC_SAQA?oc=5\" target=\"_blank\">AT&T debuts portable emergency module for FirstNet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mobile World Live</font>"
+            ],
+            "source": [
+              {
+                "_": "Mobile World Live",
+                "$": {
+                  "url": "https://www.mobileworldlive.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "T-Mobile, Verizon back new 4.9 GHz public safety coalition - FierceWireless"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy90LW1vYmlsZS12ZXJpem9uLWJhY2stbmV3LWNvYWxpdGlvbi1wcm90ZWN0LTQ5LWdoei1sb2NhbC1jb250cm9s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy90LW1vYmlsZS12ZXJpem9uLWJhY2stbmV3LWNvYWxpdGlvbi1wcm90ZWN0LTQ5LWdoei1sb2NhbC1jb250cm9s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy90LW1vYmlsZS12ZXJpem9uLWJhY2stbmV3LWNvYWxpdGlvbi1wcm90ZWN0LTQ5LWdoei1sb2NhbC1jb250cm9s0gEA?oc=5\" target=\"_blank\">T-Mobile, Verizon back new 4.9 GHz public safety coalition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FierceWireless</font>"
+            ],
+            "source": [
+              {
+                "_": "FierceWireless",
+                "$": {
+                  "url": "https://www.fiercewireless.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet Authority Board OKs $451M Budget Package for FY24; Joe Wassel Quoted - Executive Gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA4L2ZpcnN0bmV0LWF1dGhvcml0eS1ib2FyZC1va3MtNDUxbS1idWRnZXQtcGFja2FnZS1mb3ItZnkyNC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA4L2ZpcnN0bmV0LWF1dGhvcml0eS1ib2FyZC1va3MtNDUxbS1idWRnZXQtcGFja2FnZS1mb3ItZnkyNC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 24 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA4L2ZpcnN0bmV0LWF1dGhvcml0eS1ib2FyZC1va3MtNDUxbS1idWRnZXQtcGFja2FnZS1mb3ItZnkyNC_SAQA?oc=5\" target=\"_blank\">FirstNet Authority Board OKs $451M Budget Package for FY24; Joe Wassel Quoted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Executive Gov</font>"
+            ],
+            "source": [
+              {
+                "_": "Executive Gov",
+                "$": {
+                  "url": "https://executivegov.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cherokee Nation and AT&T Expand 5G and FirstNet Connectivity - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2NoZXJva2VlLW5hdGlvbi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiNWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2NoZXJva2VlLW5hdGlvbi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2NoZXJva2VlLW5hdGlvbi5odG1s0gEA?oc=5\" target=\"_blank\">Cherokee Nation and AT&T Expand 5G and FirstNet Connectivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T says it completed five-year FirstNet buildout by March 30 contractual deadline - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8wNC9hdHQtc2F5cy1pdC1jb21wbGV0ZWQtZml2ZS15ZWFyLWZpcnN0bmV0LWJ1aWxkb3V0LWJ5LW1hcmNoLTMwLWNvbnRyYWN0dWFsLWRlYWRsaW5lL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8wNC9hdHQtc2F5cy1pdC1jb21wbGV0ZWQtZml2ZS15ZWFyLWZpcnN0bmV0LWJ1aWxkb3V0LWJ5LW1hcmNoLTMwLWNvbnRyYWN0dWFsLWRlYWRsaW5lL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8wNC9hdHQtc2F5cy1pdC1jb21wbGV0ZWQtZml2ZS15ZWFyLWZpcnN0bmV0LWJ1aWxkb3V0LWJ5LW1hcmNoLTMwLWNvbnRyYWN0dWFsLWRlYWRsaW5lL9IBAA?oc=5\" target=\"_blank\">AT&T says it completed five-year FirstNet buildout by March 30 contractual deadline - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Renee Gordon named as FirstNet Authority board vice chair - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8xNS9yZW5lZS1nb3Jkb24tbmFtZWQtYXMtZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkLXZpY2UtY2hhaXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8xNS9yZW5lZS1nb3Jkb24tbmFtZWQtYXMtZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkLXZpY2UtY2hhaXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 15 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNi8xNS9yZW5lZS1nb3Jkb24tbmFtZWQtYXMtZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkLXZpY2UtY2hhaXIv0gEA?oc=5\" target=\"_blank\">Renee Gordon named as FirstNet Authority board vice chair - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T claims LTE coverage edge, FirstNet build more than 99% done - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8yNy9hdHQtY2xhaW1zLWx0ZS1jb3ZlcmFnZS1lZGdlLWZpcnN0bmV0LWJ1aWxkLW1vcmUtdGhhbi05OS1kb25lL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8yNy9hdHQtY2xhaW1zLWx0ZS1jb3ZlcmFnZS1lZGdlLWZpcnN0bmV0LWJ1aWxkLW1vcmUtdGhhbi05OS1kb25lL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8yNy9hdHQtY2xhaW1zLWx0ZS1jb3ZlcmFnZS1lZGdlLWZpcnN0bmV0LWJ1aWxkLW1vcmUtdGhhbi05OS1kb25lL9IBAA?oc=5\" target=\"_blank\">AT&T claims LTE coverage edge, FirstNet build more than 99% done - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Integral Coach Factory Achieves Historic Milestone, Becomes India’s First Net Positive Energy Factory - Free Press Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5mcmVlcHJlc3Nqb3VybmFsLmluL2luZGlhL2ludGVncmFsLWNvYWNoLWZhY3RvcnktYWNoaWV2ZXMtaGlzdG9yaWMtbWlsZXN0b25lLWJlY29tZXMtaW5kaWFzLWZpcnN0LW5ldC1wb3NpdGl2ZS1lbmVyZ3ktZmFjdG9yedIBjQFodHRwczovL3d3dy5mcmVlcHJlc3Nqb3VybmFsLmluL2FtcC9pbmRpYS9pbnRlZ3JhbC1jb2FjaC1mYWN0b3J5LWFjaGlldmVzLWhpc3RvcmljLW1pbGVzdG9uZS1iZWNvbWVzLWluZGlhcy1maXJzdC1uZXQtcG9zaXRpdmUtZW5lcmd5LWZhY3Rvcnk?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5mcmVlcHJlc3Nqb3VybmFsLmluL2luZGlhL2ludGVncmFsLWNvYWNoLWZhY3RvcnktYWNoaWV2ZXMtaGlzdG9yaWMtbWlsZXN0b25lLWJlY29tZXMtaW5kaWFzLWZpcnN0LW5ldC1wb3NpdGl2ZS1lbmVyZ3ktZmFjdG9yedIBjQFodHRwczovL3d3dy5mcmVlcHJlc3Nqb3VybmFsLmluL2FtcC9pbmRpYS9pbnRlZ3JhbC1jb2FjaC1mYWN0b3J5LWFjaGlldmVzLWhpc3RvcmljLW1pbGVzdG9uZS1iZWNvbWVzLWluZGlhcy1maXJzdC1uZXQtcG9zaXRpdmUtZW5lcmd5LWZhY3Rvcnk",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 10 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5mcmVlcHJlc3Nqb3VybmFsLmluL2luZGlhL2ludGVncmFsLWNvYWNoLWZhY3RvcnktYWNoaWV2ZXMtaGlzdG9yaWMtbWlsZXN0b25lLWJlY29tZXMtaW5kaWFzLWZpcnN0LW5ldC1wb3NpdGl2ZS1lbmVyZ3ktZmFjdG9yedIBjQFodHRwczovL3d3dy5mcmVlcHJlc3Nqb3VybmFsLmluL2FtcC9pbmRpYS9pbnRlZ3JhbC1jb2FjaC1mYWN0b3J5LWFjaGlldmVzLWhpc3RvcmljLW1pbGVzdG9uZS1iZWNvbWVzLWluZGlhcy1maXJzdC1uZXQtcG9zaXRpdmUtZW5lcmd5LWZhY3Rvcnk?oc=5\" target=\"_blank\">Integral Coach Factory Achieves Historic Milestone, Becomes India’s First Net Positive Energy Factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Free Press Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Free Press Journal",
+                "$": {
+                  "url": "https://www.freepressjournal.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Firefighter Search and Rescue Device from MSA Safety to Be Available on FirstNet - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2ZpcmVmaWdodGVyLXNlYXJjaC1hbmQtcmVzY3VlLWRldmljZS1mcm9tLW1zYS1zYWZldHktdG8tYmUtYXZhaWxhYmxlLW9uLWZpcnN0bmV0LTMwMTgwMjc3MS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2ZpcmVmaWdodGVyLXNlYXJjaC1hbmQtcmVzY3VlLWRldmljZS1mcm9tLW1zYS1zYWZldHktdG8tYmUtYXZhaWxhYmxlLW9uLWZpcnN0bmV0LTMwMTgwMjc3MS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2ZpcmVmaWdodGVyLXNlYXJjaC1hbmQtcmVzY3VlLWRldmljZS1mcm9tLW1zYS1zYWZldHktdG8tYmUtYXZhaWxhYmxlLW9uLWZpcnN0bmV0LTMwMTgwMjc3MS5odG1s0gEA?oc=5\" target=\"_blank\">Firefighter Search and Rescue Device from MSA Safety to Be Available on FirstNet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T, Intrado launch new school-safety solution - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wOC8wNy9hdHQtaW50cmFkby1sYXVuY2gtbmV3LXNjaG9vbC1zYWZldHktc29sdXRpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wOC8wNy9hdHQtaW50cmFkby1sYXVuY2gtbmV3LXNjaG9vbC1zYWZldHktc29sdXRpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 07 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wOC8wNy9hdHQtaW50cmFkby1sYXVuY2gtbmV3LXNjaG9vbC1zYWZldHktc29sdXRpb24v0gEA?oc=5\" target=\"_blank\">AT&T, Intrado launch new school-safety solution - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘World’s first net zero transatlantic flight’ labelled as greenwash - openDemocracy"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm9wZW5kZW1vY3JhY3kubmV0L2VuL3Zpcmdpbi1hdGxhbnRpYy13b3JsZC1maXJzdC10cmFuc2F0bGFudGljLW5ldC16ZXJvLWZsaWdodC1zYWYtc3VzdGFpbmFibGUtYXZpYXRpb24tZnVlbC1jb3AyOC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3Lm9wZW5kZW1vY3JhY3kubmV0L2VuL3Zpcmdpbi1hdGxhbnRpYy13b3JsZC1maXJzdC10cmFuc2F0bGFudGljLW5ldC16ZXJvLWZsaWdodC1zYWYtc3VzdGFpbmFibGUtYXZpYXRpb24tZnVlbC1jb3AyOC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm9wZW5kZW1vY3JhY3kubmV0L2VuL3Zpcmdpbi1hdGxhbnRpYy13b3JsZC1maXJzdC10cmFuc2F0bGFudGljLW5ldC16ZXJvLWZsaWdodC1zYWYtc3VzdGFpbmFibGUtYXZpYXRpb24tZnVlbC1jb3AyOC_SAQA?oc=5\" target=\"_blank\">‘World’s first net zero transatlantic flight’ labelled as greenwash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openDemocracy</font>"
+            ],
+            "source": [
+              {
+                "_": "openDemocracy",
+                "$": {
+                  "url": "https://www.opendemocracy.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NTIA seeks candidates to fill spots on the FirstNet Authority board - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8wNC9udGlhLXNlZWtzLWNhbmRpZGF0ZXMtdG8tZmlsbC1zcG90cy1vbi10aGUtZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8wNC9udGlhLXNlZWtzLWNhbmRpZGF0ZXMtdG8tZmlsbC1zcG90cy1vbi10aGUtZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyNC8wMS8wNC9udGlhLXNlZWtzLWNhbmRpZGF0ZXMtdG8tZmlsbC1zcG90cy1vbi10aGUtZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkL9IBAA?oc=5\" target=\"_blank\">NTIA seeks candidates to fill spots on the FirstNet Authority board - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FCC reauthorizes FirstNet's use of Band 14 - FierceWireless"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy9mY2MtcmVhdXRob3JpemVzLWZpcnN0bmV0cy11c2UtYmFuZC0xNNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy9mY2MtcmVhdXRob3JpemVzLWZpcnN0bmV0cy11c2UtYmFuZC0xNNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy9mY2MtcmVhdXRob3JpemVzLWZpcnN0bmV0cy11c2UtYmFuZC0xNNIBAA?oc=5\" target=\"_blank\">FCC reauthorizes FirstNet's use of Band 14</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FierceWireless</font>"
+            ],
+            "source": [
+              {
+                "_": "FierceWireless",
+                "$": {
+                  "url": "https://www.fiercewireless.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NTIA Seeks Candidates for FirstNet Authority Board - Executive Gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDI0LzAxL250aWEtc2Vla3MtY2FuZGlkYXRlcy1mb3ItZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDI0LzAxL250aWEtc2Vla3MtY2FuZGlkYXRlcy1mb3ItZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDI0LzAxL250aWEtc2Vla3MtY2FuZGlkYXRlcy1mb3ItZmlyc3RuZXQtYXV0aG9yaXR5LWJvYXJkL9IBAA?oc=5\" target=\"_blank\">NTIA Seeks Candidates for FirstNet Authority Board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Executive Gov</font>"
+            ],
+            "source": [
+              {
+                "_": "Executive Gov",
+                "$": {
+                  "url": "https://executivegov.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Column: FirstNet is a critical tool for public safety - Alabama Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vYWxkYWlseW5ld3MuY29tL2NvbHVtbi1maXJzdG5ldC1pcy1hLWNyaXRpY2FsLXRvb2wtZm9yLXB1YmxpYy1zYWZldHkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vYWxkYWlseW5ld3MuY29tL2NvbHVtbi1maXJzdG5ldC1pcy1hLWNyaXRpY2FsLXRvb2wtZm9yLXB1YmxpYy1zYWZldHkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 21 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vYWxkYWlseW5ld3MuY29tL2NvbHVtbi1maXJzdG5ldC1pcy1hLWNyaXRpY2FsLXRvb2wtZm9yLXB1YmxpYy1zYWZldHkv0gEA?oc=5\" target=\"_blank\">Column: FirstNet is a critical tool for public safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "Alabama Daily News",
+                "$": {
+                  "url": "https://aldailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "ZPE Systems keeps first responders mission-ready with FirstNet certification - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMDQxMTAwNTc0MS9lbi9aUEUtU3lzdGVtcy1rZWVwcy1maXJzdC1yZXNwb25kZXJzLW1pc3Npb24tcmVhZHktd2l0aC1GaXJzdE5ldC1jZXJ0aWZpY2F0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMDQxMTAwNTc0MS9lbi9aUEUtU3lzdGVtcy1rZWVwcy1maXJzdC1yZXNwb25kZXJzLW1pc3Npb24tcmVhZHktd2l0aC1GaXJzdE5ldC1jZXJ0aWZpY2F0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMDQxMTAwNTc0MS9lbi9aUEUtU3lzdGVtcy1rZWVwcy1maXJzdC1yZXNwb25kZXJzLW1pc3Npb24tcmVhZHktd2l0aC1GaXJzdE5ldC1jZXJ0aWZpY2F0aW9u0gEA?oc=5\" target=\"_blank\">ZPE Systems keeps first responders mission-ready with FirstNet certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Touts FirstNet Gains, Including New Satellite Option - Telecompetitor"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRlbGVjb21wZXRpdG9yLmNvbS9hdHQtdG91dHMtZmlyc3RuZXQtZ2FpbnMtaW5jbHVkaW5nLW5ldy1zYXRlbGxpdGUtb3B0aW9uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3LnRlbGVjb21wZXRpdG9yLmNvbS9hdHQtdG91dHMtZmlyc3RuZXQtZ2FpbnMtaW5jbHVkaW5nLW5ldy1zYXRlbGxpdGUtb3B0aW9uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRlbGVjb21wZXRpdG9yLmNvbS9hdHQtdG91dHMtZmlyc3RuZXQtZ2FpbnMtaW5jbHVkaW5nLW5ldy1zYXRlbGxpdGUtb3B0aW9uL9IBAA?oc=5\" target=\"_blank\">AT&T Touts FirstNet Gains, Including New Satellite Option</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telecompetitor</font>"
+            ],
+            "source": [
+              {
+                "_": "Telecompetitor",
+                "$": {
+                  "url": "https://www.telecompetitor.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Verizon advisors slam AT&T's influence over FirstNet investments - FierceWireless"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy92ZXJpem9uLWFkdmlzb3JzLXNsYW0tYXR0cy1pbmZsdWVuY2Utb3Zlci1maXJzdG5ldC1pbnZlc3RtZW50c9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy92ZXJpem9uLWFkdmlzb3JzLXNsYW0tYXR0cy1pbmZsdWVuY2Utb3Zlci1maXJzdG5ldC1pbnZlc3RtZW50c9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy92ZXJpem9uLWFkdmlzb3JzLXNsYW0tYXR0cy1pbmZsdWVuY2Utb3Zlci1maXJzdG5ldC1pbnZlc3RtZW50c9IBAA?oc=5\" target=\"_blank\">Verizon advisors slam AT&T's influence over FirstNet investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FierceWireless</font>"
+            ],
+            "source": [
+              {
+                "_": "FierceWireless",
+                "$": {
+                  "url": "https://www.fiercewireless.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T, FirstNet celebrate 6 years, unveil super compact emergency module - FierceWireless"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy9hdHQtZmlyc3RuZXQtY2VsZWJyYXRlLTYteWVhcnMtdW52ZWlsLXN1cGVyLWNvbXBhY3QtZW1lcmdlbmN5LW1vZHVsZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy9hdHQtZmlyc3RuZXQtY2VsZWJyYXRlLTYteWVhcnMtdW52ZWlsLXN1cGVyLWNvbXBhY3QtZW1lcmdlbmN5LW1vZHVsZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS93aXJlbGVzcy9hdHQtZmlyc3RuZXQtY2VsZWJyYXRlLTYteWVhcnMtdW52ZWlsLXN1cGVyLWNvbXBhY3QtZW1lcmdlbmN5LW1vZHVsZdIBAA?oc=5\" target=\"_blank\">AT&T, FirstNet celebrate 6 years, unveil super compact emergency module</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FierceWireless</font>"
+            ],
+            "source": [
+              {
+                "_": "FierceWireless",
+                "$": {
+                  "url": "https://www.fiercewireless.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "5 things you absolutely need when disaster strikes - EMS1.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmVtczEuY29tL2Vtcy1wcm9kdWN0cy9jb21tdW5pY2F0aW9ucy9hcnRpY2xlcy81LXRoaW5ncy15b3UtYWJzb2x1dGVseS1uZWVkLXdoZW4tZGlzYXN0ZXItc3RyaWtlcy1YdERUbmJqa2VqQzdQb3hML9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LmVtczEuY29tL2Vtcy1wcm9kdWN0cy9jb21tdW5pY2F0aW9ucy9hcnRpY2xlcy81LXRoaW5ncy15b3UtYWJzb2x1dGVseS1uZWVkLXdoZW4tZGlzYXN0ZXItc3RyaWtlcy1YdERUbmJqa2VqQzdQb3hML9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 29 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmVtczEuY29tL2Vtcy1wcm9kdWN0cy9jb21tdW5pY2F0aW9ucy9hcnRpY2xlcy81LXRoaW5ncy15b3UtYWJzb2x1dGVseS1uZWVkLXdoZW4tZGlzYXN0ZXItc3RyaWtlcy1YdERUbmJqa2VqQzdQb3hML9IBAA?oc=5\" target=\"_blank\">5 things you absolutely need when disaster strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EMS1.com</font>"
+            ],
+            "source": [
+              {
+                "_": "EMS1.com",
+                "$": {
+                  "url": "https://www.ems1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet technology provides communication for first responders during emergencies - Alaska's News Source"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5hbGFza2FzbmV3c3NvdXJjZS5jb20vdmlkZW8vMjAyMy8wNy8xOS9maXJzdG5ldC10ZWNobm9sb2d5LXByb3ZpZGVzLWNvbW11bmljYXRpb24tZmlyc3QtcmVzcG9uZGVycy1kdXJpbmctZW1lcmdlbmNpZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5hbGFza2FzbmV3c3NvdXJjZS5jb20vdmlkZW8vMjAyMy8wNy8xOS9maXJzdG5ldC10ZWNobm9sb2d5LXByb3ZpZGVzLWNvbW11bmljYXRpb24tZmlyc3QtcmVzcG9uZGVycy1kdXJpbmctZW1lcmdlbmNpZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5hbGFza2FzbmV3c3NvdXJjZS5jb20vdmlkZW8vMjAyMy8wNy8xOS9maXJzdG5ldC10ZWNobm9sb2d5LXByb3ZpZGVzLWNvbW11bmljYXRpb24tZmlyc3QtcmVzcG9uZGVycy1kdXJpbmctZW1lcmdlbmNpZXMv0gEA?oc=5\" target=\"_blank\">FirstNet technology provides communication for first responders during emergencies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alaska's News Source</font>"
+            ],
+            "source": [
+              {
+                "_": "Alaska's News Source",
+                "$": {
+                  "url": "https://www.alaskasnewssource.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Delivers New Suite of MegaRange Solutions to Strengthen Public Safety Connectivity at the Network Edge - Fire Engineering"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZpcmVlbmdpbmVlcmluZy5jb20vaW5kdXN0cnktbmV3cy9hdHQtbWVnYXJhbmdlLXNvbHV0aW9ucy1wdWJsaWMtc2FmZXR5LWNvbm5lY3Rpdml0eS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmZpcmVlbmdpbmVlcmluZy5jb20vaW5kdXN0cnktbmV3cy9hdHQtbWVnYXJhbmdlLXNvbHV0aW9ucy1wdWJsaWMtc2FmZXR5LWNvbm5lY3Rpdml0eS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZpcmVlbmdpbmVlcmluZy5jb20vaW5kdXN0cnktbmV3cy9hdHQtbWVnYXJhbmdlLXNvbHV0aW9ucy1wdWJsaWMtc2FmZXR5LWNvbm5lY3Rpdml0eS_SAQA?oc=5\" target=\"_blank\">AT&T Delivers New Suite of MegaRange Solutions to Strengthen Public Safety Connectivity at the Network Edge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fire Engineering</font>"
+            ],
+            "source": [
+              {
+                "_": "Fire Engineering",
+                "$": {
+                  "url": "https://www.fireengineering.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How FirstNet Helps Superior Ambulance Connect Paramedics and More - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2ZpcnN0bmV0LXN1cGVyaW9yLWFtYnVsYW5jZS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2ZpcnN0bmV0LXN1cGVyaW9yLWFtYnVsYW5jZS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2ZpcnN0bmV0LXN1cGVyaW9yLWFtYnVsYW5jZS5odG1s0gEA?oc=5\" target=\"_blank\">How FirstNet Helps Superior Ambulance Connect Paramedics and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How insecure is America's FirstNet emergency response system? Seriously, anyone know? - The Register"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA0LzEyL2ZpcnN0bmV0X2N5YmVyc2VjdXJpdHlfYXVkaXRfd3lkZW4v0gFOaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA0LzEyL2ZpcnN0bmV0X2N5YmVyc2VjdXJpdHlfYXVkaXRfd3lkZW4v?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA0LzEyL2ZpcnN0bmV0X2N5YmVyc2VjdXJpdHlfYXVkaXRfd3lkZW4v0gFOaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA0LzEyL2ZpcnN0bmV0X2N5YmVyc2VjdXJpdHlfYXVkaXRfd3lkZW4v",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA0LzEyL2ZpcnN0bmV0X2N5YmVyc2VjdXJpdHlfYXVkaXRfd3lkZW4v0gFOaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA0LzEyL2ZpcnN0bmV0X2N5YmVyc2VjdXJpdHlfYXVkaXRfd3lkZW4v?oc=5\" target=\"_blank\">How insecure is America's FirstNet emergency response system? Seriously, anyone know?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font>"
+            ],
+            "source": [
+              {
+                "_": "The Register",
+                "$": {
+                  "url": "https://www.theregister.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New FirstNet Cell Sites in the Black Hills Support First Responders - Fire Engineering"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmZpcmVlbmdpbmVlcmluZy5jb20vYXBwYXJhdHVzLWVxdWlwbWVudC9uZXctZmlyc3RuZXQtY2VsbC1zaXRlcy1pbi10aGUtYmxhY2staGlsbHMtc3VwcG9ydC1maXJzdC1yZXNwb25kZXJzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmZpcmVlbmdpbmVlcmluZy5jb20vYXBwYXJhdHVzLWVxdWlwbWVudC9uZXctZmlyc3RuZXQtY2VsbC1zaXRlcy1pbi10aGUtYmxhY2staGlsbHMtc3VwcG9ydC1maXJzdC1yZXNwb25kZXJzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmZpcmVlbmdpbmVlcmluZy5jb20vYXBwYXJhdHVzLWVxdWlwbWVudC9uZXctZmlyc3RuZXQtY2VsbC1zaXRlcy1pbi10aGUtYmxhY2staGlsbHMtc3VwcG9ydC1maXJzdC1yZXNwb25kZXJzL9IBAA?oc=5\" target=\"_blank\">New FirstNet Cell Sites in the Black Hills Support First Responders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fire Engineering</font>"
+            ],
+            "source": [
+              {
+                "_": "Fire Engineering",
+                "$": {
+                  "url": "https://www.fireengineering.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wassel describes FirstNet Authority CEO post as 'dream job' - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xNi93YXNzZWxsLWRlc2NyaWJlcy1maXJzdG5ldC1hdXRob3JpdHktY2VvLXBvc3QtYXMtZHJlYW0tam9iL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xNi93YXNzZWxsLWRlc2NyaWJlcy1maXJzdG5ldC1hdXRob3JpdHktY2VvLXBvc3QtYXMtZHJlYW0tam9iL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xNi93YXNzZWxsLWRlc2NyaWJlcy1maXJzdG5ldC1hdXRob3JpdHktY2VvLXBvc3QtYXMtZHJlYW0tam9iL9IBAA?oc=5\" target=\"_blank\">Wassel describes FirstNet Authority CEO post as 'dream job' - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Philips' SpeechLive® Earns FirstNet Verified™ Designation - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9waGlsaXBzLXNwZWVjaGxpdmUtZWFybnMtZmlyc3RuZXQtdmVyaWZpZWQtMTMwMDAwMDYxLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9waGlsaXBzLXNwZWVjaGxpdmUtZWFybnMtZmlyc3RuZXQtdmVyaWZpZWQtMTMwMDAwMDYxLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9waGlsaXBzLXNwZWVjaGxpdmUtZWFybnMtZmlyc3RuZXQtdmVyaWZpZWQtMTMwMDAwMDYxLmh0bWzSAQA?oc=5\" target=\"_blank\">Philips' SpeechLive® Earns FirstNet Verified™ Designation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T's Sustainable Growth Strategy Pays off with Strong 2Q Results - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL3EyLWVhcm5pbmdzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL3EyLWVhcm5pbmdzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL3EyLWVhcm5pbmdzLmh0bWzSAQA?oc=5\" target=\"_blank\">AT&T's Sustainable Growth Strategy Pays off with Strong 2Q Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Networks Prepare for Hurricane Idalia - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vYWJvdXQuYXR0LmNvbS9wYWdlcy9kaXNhc3Rlci1yZWNvdmVyeS8yMDIzL3N0b3JtLWlkYWxpYdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vYWJvdXQuYXR0LmNvbS9wYWdlcy9kaXNhc3Rlci1yZWNvdmVyeS8yMDIzL3N0b3JtLWlkYWxpYdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 28 Aug 2023 18:49:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vYWJvdXQuYXR0LmNvbS9wYWdlcy9kaXNhc3Rlci1yZWNvdmVyeS8yMDIzL3N0b3JtLWlkYWxpYdIBAA?oc=5\" target=\"_blank\">AT&T Networks Prepare for Hurricane Idalia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Network Teams Prepare for Hurricane Hilary - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2h1cnJpY2FuZS1oaWxhcnktcHJlcGFyYXRpb24uaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQmh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2h1cnJpY2FuZS1oaWxhcnktcHJlcGFyYXRpb24uaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 18 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2h1cnJpY2FuZS1oaWxhcnktcHJlcGFyYXRpb24uaHRtbNIBAA?oc=5\" target=\"_blank\">AT&T Network Teams Prepare for Hurricane Hilary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T, FirstNet partner to champion 'Safety Shield' in effort to help protect students, teachers - WFAA.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy53ZmFhLmNvbS92aWRlby90ZWNoL2F0dC1maXJzdG5ldC1wYXJ0bmVyLXRvLWNoYW1waW9uLXNhZmV0eS1zaGllbGQtaW4tZWZmb3J0LXRvLWhlbHAtcHJvdGVjdC1zdHVkZW50cy10ZWFjaGVycy8yODctYzc3NzNhYjYtYTdhOS00OGU2LWIxNjktNzdiMTgzOTRhZTEz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiowFodHRwczovL3d3dy53ZmFhLmNvbS92aWRlby90ZWNoL2F0dC1maXJzdG5ldC1wYXJ0bmVyLXRvLWNoYW1waW9uLXNhZmV0eS1zaGllbGQtaW4tZWZmb3J0LXRvLWhlbHAtcHJvdGVjdC1zdHVkZW50cy10ZWFjaGVycy8yODctYzc3NzNhYjYtYTdhOS00OGU2LWIxNjktNzdiMTgzOTRhZTEz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy53ZmFhLmNvbS92aWRlby90ZWNoL2F0dC1maXJzdG5ldC1wYXJ0bmVyLXRvLWNoYW1waW9uLXNhZmV0eS1zaGllbGQtaW4tZWZmb3J0LXRvLWhlbHAtcHJvdGVjdC1zdHVkZW50cy10ZWFjaGVycy8yODctYzc3NzNhYjYtYTdhOS00OGU2LWIxNjktNzdiMTgzOTRhZTEz0gEA?oc=5\" target=\"_blank\">AT&T, FirstNet partner to champion 'Safety Shield' in effort to help protect students, teachers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFAA.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WFAA.com",
+                "$": {
+                  "url": "https://www.wfaa.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Providing Customer Relief for Those Affected by Maui Fires - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9wYWdlcy9kaXNhc3Rlci1yZWNvdmVyeS8yMDIzL21hdWktd2lsZGZpcmVz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9wYWdlcy9kaXNhc3Rlci1yZWNvdmVyeS8yMDIzL21hdWktd2lsZGZpcmVz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Aug 2023 19:17:14 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vYWJvdXQuYXR0LmNvbS9wYWdlcy9kaXNhc3Rlci1yZWNvdmVyeS8yMDIzL21hdWktd2lsZGZpcmVz0gEA?oc=5\" target=\"_blank\">AT&T Providing Customer Relief for Those Affected by Maui Fires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sonim Delivers FirstNet Ready XP3plus for Public Safety - The Critical Communications Review"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXVuaWNhdGlvbnNyZXZpZXcuY29tL2Njci9uZXdzLzExMDAwMC9zb25pbS1kZWxpdmVycy1maXJzdG5ldC1yZWFkeS14cDNwbHVzLWZvci1wdWJsaWMtc2FmZXR50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXVuaWNhdGlvbnNyZXZpZXcuY29tL2Njci9uZXdzLzExMDAwMC9zb25pbS1kZWxpdmVycy1maXJzdG5ldC1yZWFkeS14cDNwbHVzLWZvci1wdWJsaWMtc2FmZXR50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNyaXRpY2FsY29tbXVuaWNhdGlvbnNyZXZpZXcuY29tL2Njci9uZXdzLzExMDAwMC9zb25pbS1kZWxpdmVycy1maXJzdG5ldC1yZWFkeS14cDNwbHVzLWZvci1wdWJsaWMtc2FmZXR50gEA?oc=5\" target=\"_blank\">Sonim Delivers FirstNet Ready XP3plus for Public Safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Critical Communications Review</font>"
+            ],
+            "source": [
+              {
+                "_": "The Critical Communications Review",
+                "$": {
+                  "url": "https://www.criticalcommunicationsreview.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cyber watchdog has 'no confidence' in US emergency cell network security -senator - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWN5YmVyLXdhdGNoZG9nLWhhcy1uby1jb25maWRlbmNlLXNlY3VyaXR5LXVzLWVtZXJnZW5jeS1jZWxsLW5ldHdvcmstc2VuYXRvci0yMDIzLTA0LTEyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWN5YmVyLXdhdGNoZG9nLWhhcy1uby1jb25maWRlbmNlLXNlY3VyaXR5LXVzLWVtZXJnZW5jeS1jZWxsLW5ldHdvcmstc2VuYXRvci0yMDIzLTA0LTEyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWN5YmVyLXdhdGNoZG9nLWhhcy1uby1jb25maWRlbmNlLXNlY3VyaXR5LXVzLWVtZXJnZW5jeS1jZWxsLW5ldHdvcmstc2VuYXRvci0yMDIzLTA0LTEyL9IBAA?oc=5\" target=\"_blank\">Cyber watchdog has 'no confidence' in US emergency cell network security -senator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cell tower installed in Cape Henlopen State Park - CapeGazette.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNhcGVnYXpldHRlLmNvbS9hcnRpY2xlL2NlbGwtdG93ZXItaW5zdGFsbGVkLWNhcGUtaGVubG9wZW4tc3RhdGUtcGFyay8yNzAzMzHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmNhcGVnYXpldHRlLmNvbS9hcnRpY2xlL2NlbGwtdG93ZXItaW5zdGFsbGVkLWNhcGUtaGVubG9wZW4tc3RhdGUtcGFyay8yNzAzMzHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 18:05:13 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNhcGVnYXpldHRlLmNvbS9hcnRpY2xlL2NlbGwtdG93ZXItaW5zdGFsbGVkLWNhcGUtaGVubG9wZW4tc3RhdGUtcGFyay8yNzAzMzHSAQA?oc=5\" target=\"_blank\">Cell tower installed in Cape Henlopen State Park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CapeGazette.com</font>"
+            ],
+            "source": [
+              {
+                "_": "CapeGazette.com",
+                "$": {
+                  "url": "https://www.capegazette.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "MSC Cruises unveils results of world's first net-zero cruise voyage - Riviera Maritime Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5yaXZpZXJhbW0uY29tL25ld3MtY29udGVudC1odWIvbmV3cy1jb250ZW50LWh1Yi9tc2MtY3J1aXNlcy11bnZlaWxzLXJlc3VsdHMtb2YtdGhlLXdvcmxkcy1maXJzdC1uZXQtemVyby1jcnVpc2Utdm95YWdlLTc3NjU50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL3d3dy5yaXZpZXJhbW0uY29tL25ld3MtY29udGVudC1odWIvbmV3cy1jb250ZW50LWh1Yi9tc2MtY3J1aXNlcy11bnZlaWxzLXJlc3VsdHMtb2YtdGhlLXdvcmxkcy1maXJzdC1uZXQtemVyby1jcnVpc2Utdm95YWdlLTc3NjU50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5yaXZpZXJhbW0uY29tL25ld3MtY29udGVudC1odWIvbmV3cy1jb250ZW50LWh1Yi9tc2MtY3J1aXNlcy11bnZlaWxzLXJlc3VsdHMtb2YtdGhlLXdvcmxkcy1maXJzdC1uZXQtemVyby1jcnVpc2Utdm95YWdlLTc3NjU50gEA?oc=5\" target=\"_blank\">MSC Cruises unveils results of world's first net-zero cruise voyage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Riviera Maritime Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Riviera Maritime Media",
+                "$": {
+                  "url": "https://www.rivieramm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fleet Complete Announces its FC Vision AI Fleet Dash Camera has Earned FirstNet Trusted™ Certification - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2ZsZWV0LWNvbXBsZXRlLWFubm91bmNlcy1pdHMtZmMtdmlzaW9uLWFpLWZsZWV0LWRhc2gtY2FtZXJhLWhhcy1lYXJuZWQtZmlyc3RuZXQtdHJ1c3RlZC1jZXJ0aWZpY2F0aW9uLTMwMTc1MzUzNS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2ZsZWV0LWNvbXBsZXRlLWFubm91bmNlcy1pdHMtZmMtdmlzaW9uLWFpLWZsZWV0LWRhc2gtY2FtZXJhLWhhcy1lYXJuZWQtZmlyc3RuZXQtdHJ1c3RlZC1jZXJ0aWZpY2F0aW9uLTMwMTc1MzUzNS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2ZsZWV0LWNvbXBsZXRlLWFubm91bmNlcy1pdHMtZmMtdmlzaW9uLWFpLWZsZWV0LWRhc2gtY2FtZXJhLWhhcy1lYXJuZWQtZmlyc3RuZXQtdHJ1c3RlZC1jZXJ0aWZpY2F0aW9uLTMwMTc1MzUzNS5odG1s0gEA?oc=5\" target=\"_blank\">Fleet Complete Announces its FC Vision AI Fleet Dash Camera has Earned FirstNet Trusted™ Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fleet Complete Announces FC Vision AI Fleet Dash Camera has Earned FirstNet Trusted Certification - DC Velocity"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5kY3ZlbG9jaXR5LmNvbS9hcnRpY2xlcy81NjgwNi1mbGVldC1jb21wbGV0ZS1hbm5vdW5jZXMtZmMtdmlzaW9uLWFpLWZsZWV0LWRhc2gtY2FtZXJhLWhhcy1lYXJuZWQtZmlyc3RuZXQtdHJ1c3RlZC1jZXJ0aWZpY2F0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3d3dy5kY3ZlbG9jaXR5LmNvbS9hcnRpY2xlcy81NjgwNi1mbGVldC1jb21wbGV0ZS1hbm5vdW5jZXMtZmMtdmlzaW9uLWFpLWZsZWV0LWRhc2gtY2FtZXJhLWhhcy1lYXJuZWQtZmlyc3RuZXQtdHJ1c3RlZC1jZXJ0aWZpY2F0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5kY3ZlbG9jaXR5LmNvbS9hcnRpY2xlcy81NjgwNi1mbGVldC1jb21wbGV0ZS1hbm5vdW5jZXMtZmMtdmlzaW9uLWFpLWZsZWV0LWRhc2gtY2FtZXJhLWhhcy1lYXJuZWQtZmlyc3RuZXQtdHJ1c3RlZC1jZXJ0aWZpY2F0aW9u0gEA?oc=5\" target=\"_blank\">Fleet Complete Announces FC Vision AI Fleet Dash Camera has Earned FirstNet Trusted Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DC Velocity</font>"
+            ],
+            "source": [
+              {
+                "_": "DC Velocity",
+                "$": {
+                  "url": "https://www.dcvelocity.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rescue 42 launches miniCRD deployable for FirstNet - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8yOS9yZXNjdWUtNDItbGF1bmNoZXMtbWluaWNyZC1kZXBsb3lhYmxlLWZvci1maXJzdG5ldC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8yOS9yZXNjdWUtNDItbGF1bmNoZXMtbWluaWNyZC1kZXBsb3lhYmxlLWZvci1maXJzdG5ldC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8yOS9yZXNjdWUtNDItbGF1bmNoZXMtbWluaWNyZC1kZXBsb3lhYmxlLWZvci1maXJzdG5ldC_SAQA?oc=5\" target=\"_blank\">Rescue 42 launches miniCRD deployable for FirstNet - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet, Built With AT&T, Teams With First H.E.L.P. to Support New England First Responders With ... - Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2ZpcnN0bmV0LWJ1aWx0LXdpdGgtYXQtdC10ZWFtcy13aXRoLWZpcnN0LWgtZS1sLXAtdG8tc3VwcG9ydC1uZXctMjIwMjYxMDPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2ZpcnN0bmV0LWJ1aWx0LXdpdGgtYXQtdC10ZWFtcy13aXRoLWZpcnN0LWgtZS1sLXAtdG8tc3VwcG9ydC1uZXctMjIwMjYxMDPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 01 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2ZpcnN0bmV0LWJ1aWx0LXdpdGgtYXQtdC10ZWFtcy13aXRoLWZpcnN0LWgtZS1sLXAtdG8tc3VwcG9ydC1uZXctMjIwMjYxMDPSAQA?oc=5\" target=\"_blank\">FirstNet, Built With AT&T, Teams With First H.E.L.P. to Support New England First Responders With ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "Newswire",
+                "$": {
+                  "url": "https://www.newswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LUNAR™ Is First Device Of Its Kind To Be Approved For Use On FirstNet | Fire news - TheBigRedGuide.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy50aGViaWdyZWRndWlkZS5jb20vbmV3cy9maXJlZmlnaHRlci1zZWFyY2gtcmVzY3VlLWRldmljZS1tc2Etc2FmZXR5LWF2YWlsYWJsZS1maXJzdG5ldC1jby0xNTUzMjY3OTQ4LWdhLWNvLTE1Nzk3NzQ5MDQtZ2EuMTY4MzAyMTY1MS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilAFodHRwczovL3d3dy50aGViaWdyZWRndWlkZS5jb20vbmV3cy9maXJlZmlnaHRlci1zZWFyY2gtcmVzY3VlLWRldmljZS1tc2Etc2FmZXR5LWF2YWlsYWJsZS1maXJzdG5ldC1jby0xNTUzMjY3OTQ4LWdhLWNvLTE1Nzk3NzQ5MDQtZ2EuMTY4MzAyMTY1MS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 May 2023 13:00:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy50aGViaWdyZWRndWlkZS5jb20vbmV3cy9maXJlZmlnaHRlci1zZWFyY2gtcmVzY3VlLWRldmljZS1tc2Etc2FmZXR5LWF2YWlsYWJsZS1maXJzdG5ldC1jby0xNTUzMjY3OTQ4LWdhLWNvLTE1Nzk3NzQ5MDQtZ2EuMTY4MzAyMTY1MS5odG1s0gEA?oc=5\" target=\"_blank\">LUNAR™ Is First Device Of Its Kind To Be Approved For Use On FirstNet | Fire news</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheBigRedGuide.com</font>"
+            ],
+            "source": [
+              {
+                "_": "TheBigRedGuide.com",
+                "$": {
+                  "url": "https://www.thebigredguide.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Boston police commissioner Ed Davis reauthorizing FirstNet is critical - MetroWest Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5tZXRyb3dlc3RkYWlseW5ld3MuY29tL3N0b3J5L29waW5pb24vY29sdW1ucy8yMDIzLzA4LzIwL2Jvc3Rvbi1wb2xpY2UtY29tbWlzc2lvbmVyLWVkLWRhdmlzLXJlYXV0aG9yaXppbmctZmlyc3RuZXQtY3JpdGljYWwtcHVibGljLXNhZmV0eS83MDU5NjI3MzAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiogFodHRwczovL3d3dy5tZXRyb3dlc3RkYWlseW5ld3MuY29tL3N0b3J5L29waW5pb24vY29sdW1ucy8yMDIzLzA4LzIwL2Jvc3Rvbi1wb2xpY2UtY29tbWlzc2lvbmVyLWVkLWRhdmlzLXJlYXV0aG9yaXppbmctZmlyc3RuZXQtY3JpdGljYWwtcHVibGljLXNhZmV0eS83MDU5NjI3MzAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 20 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5tZXRyb3dlc3RkYWlseW5ld3MuY29tL3N0b3J5L29waW5pb24vY29sdW1ucy8yMDIzLzA4LzIwL2Jvc3Rvbi1wb2xpY2UtY29tbWlzc2lvbmVyLWVkLWRhdmlzLXJlYXV0aG9yaXppbmctZmlyc3RuZXQtY3JpdGljYWwtcHVibGljLXNhZmV0eS83MDU5NjI3MzAwNy_SAQA?oc=5\" target=\"_blank\">Boston police commissioner Ed Davis reauthorizing FirstNet is critical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MetroWest Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "MetroWest Daily News",
+                "$": {
+                  "url": "https://www.metrowestdailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Nextivity Affirms Support for FirstNet Supplemental Coverage from Space - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9uZXh0aXZpdHktYWZmaXJtcy1zdXBwb3J0LWZpcnN0bmV0LXN1cHBsZW1lbnRhbC0xMzAwMDA5NTkuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9uZXh0aXZpdHktYWZmaXJtcy1zdXBwb3J0LWZpcnN0bmV0LXN1cHBsZW1lbnRhbC0xMzAwMDA5NTkuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9uZXh0aXZpdHktYWZmaXJtcy1zdXBwb3J0LWZpcnN0bmV0LXN1cHBsZW1lbnRhbC0xMzAwMDA5NTkuaHRtbNIBAA?oc=5\" target=\"_blank\">Nextivity Affirms Support for FirstNet Supplemental Coverage from Space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Joe Wassel named as new FirstNet Authority CEO - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xMC9qb2Utd2Fzc2VsLW5hbWVkLWFzLW5ldy1maXJzdG5ldC1hdXRob3JpdHktY2VvL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xMC9qb2Utd2Fzc2VsLW5hbWVkLWFzLW5ldy1maXJzdG5ldC1hdXRob3JpdHktY2VvL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xMC9qb2Utd2Fzc2VsLW5hbWVkLWFzLW5ldy1maXJzdG5ldC1hdXRob3JpdHktY2VvL9IBAA?oc=5\" target=\"_blank\">Joe Wassel named as new FirstNet Authority CEO - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cyber watchdog has 'no confidence' in US emergency cell network security - CyberNews.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vY3liZXJuZXdzLmNvbS9zZWN1cml0eS9jeWJlci13YXRjaGRvZy1uby1jb25maWRlbmNlLXVzLWVtZXJnZW5jeS1jZWxsLW5ldHdvcmsv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vY3liZXJuZXdzLmNvbS9zZWN1cml0eS9jeWJlci13YXRjaGRvZy1uby1jb25maWRlbmNlLXVzLWVtZXJnZW5jeS1jZWxsLW5ldHdvcmsv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vY3liZXJuZXdzLmNvbS9zZWN1cml0eS9jeWJlci13YXRjaGRvZy1uby1jb25maWRlbmNlLXVzLWVtZXJnZW5jeS1jZWxsLW5ldHdvcmsv0gEA?oc=5\" target=\"_blank\">Cyber watchdog has 'no confidence' in US emergency cell network security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CyberNews.com</font>"
+            ],
+            "source": [
+              {
+                "_": "CyberNews.com",
+                "$": {
+                  "url": "https://cybernews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T, FirstNet Debut Intrado Safety Shield Solution with Wearable Panic Button - Campus Safety Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jYW1wdXNzYWZldHltYWdhemluZS5jb20vcHJlc3MtcmVsZWFzZS9hdHQtZmlyc3RuZXQtZGVidXQtaW50cmFkby1zYWZldHktc2hpZWxkLXNvbHV0aW9uLXdpdGgtd2VhcmFibGUtcGFuaWMtYnV0dG9uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy5jYW1wdXNzYWZldHltYWdhemluZS5jb20vcHJlc3MtcmVsZWFzZS9hdHQtZmlyc3RuZXQtZGVidXQtaW50cmFkby1zYWZldHktc2hpZWxkLXNvbHV0aW9uLXdpdGgtd2VhcmFibGUtcGFuaWMtYnV0dG9uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 06 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jYW1wdXNzYWZldHltYWdhemluZS5jb20vcHJlc3MtcmVsZWFzZS9hdHQtZmlyc3RuZXQtZGVidXQtaW50cmFkby1zYWZldHktc2hpZWxkLXNvbHV0aW9uLXdpdGgtd2VhcmFibGUtcGFuaWMtYnV0dG9uL9IBAA?oc=5\" target=\"_blank\">AT&T, FirstNet Debut Intrado Safety Shield Solution with Wearable Panic Button</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Campus Safety Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Campus Safety Magazine",
+                "$": {
+                  "url": "https://www.campussafetymagazine.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T claims the lead in public safety, but Verizon balks - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8xNy9hdHQtY2xhaW1zLXRoZS1sZWFkLWluLXB1YmxpYy1zYWZldHktYnV0LXZlcml6b24tYmFsa3Mv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8xNy9hdHQtY2xhaW1zLXRoZS1sZWFkLWluLXB1YmxpYy1zYWZldHktYnV0LXZlcml6b24tYmFsa3Mv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wNC8xNy9hdHQtY2xhaW1zLXRoZS1sZWFkLWluLXB1YmxpYy1zYWZldHktYnV0LXZlcml6b24tYmFsa3Mv0gEA?oc=5\" target=\"_blank\">AT&T claims the lead in public safety, but Verizon balks - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FirstNet Band 14 Spectrum Secures Reauthorization From FCC - Executive Gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA1L2ZpcnN0bmV0LWJhbmQtMTQtc3BlY3RydW0tc2VjdXJlcy1yZWF1dGhvcml6YXRpb24tZnJvbS1mY2Mv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA1L2ZpcnN0bmV0LWJhbmQtMTQtc3BlY3RydW0tc2VjdXJlcy1yZWF1dGhvcml6YXRpb24tZnJvbS1mY2Mv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA1L2ZpcnN0bmV0LWJhbmQtMTQtc3BlY3RydW0tc2VjdXJlcy1yZWF1dGhvcml6YXRpb24tZnJvbS1mY2Mv0gEA?oc=5\" target=\"_blank\">FirstNet Band 14 Spectrum Secures Reauthorization From FCC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Executive Gov</font>"
+            ],
+            "source": [
+              {
+                "_": "Executive Gov",
+                "$": {
+                  "url": "https://executivegov.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "911 Veteran Renee Gordon Appointed Vice Chair of FirstNet Authority Board - Executive Gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA2LzkxMS12ZXRlcmFuLXJlbmVlLWdvcmRvbi1hcHBvaW50ZWQtdmljZS1jaGFpci1vZi1maXJzdG5ldC1hdXRob3JpdHktYm9hcmQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA2LzkxMS12ZXRlcmFuLXJlbmVlLWdvcmRvbi1hcHBvaW50ZWQtdmljZS1jaGFpci1vZi1maXJzdG5ldC1hdXRob3JpdHktYm9hcmQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 20 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA2LzkxMS12ZXRlcmFuLXJlbmVlLWdvcmRvbi1hcHBvaW50ZWQtdmljZS1jaGFpci1vZi1maXJzdG5ldC1hdXRob3JpdHktYm9hcmQv0gEA?oc=5\" target=\"_blank\">911 Veteran Renee Gordon Appointed Vice Chair of FirstNet Authority Board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Executive Gov</font>"
+            ],
+            "source": [
+              {
+                "_": "Executive Gov",
+                "$": {
+                  "url": "https://executivegov.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1178 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Mariela Roca\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Mariela+Roca&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Mariela Roca makes bid for GOP nod in MD-6 - FOX 5 DC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmZveDVkYy5jb20vdmlkZW8vMTI1MzY1NdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiJGh0dHBzOi8vd3d3LmZveDVkYy5jb20vdmlkZW8vMTI1MzY1NdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 25 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmZveDVkYy5jb20vdmlkZW8vMTI1MzY1NdIBAA?oc=5\" target=\"_blank\">Mariela Roca makes bid for GOP nod in MD-6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 DC</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX 5 DC",
+                "$": {
+                  "url": "https://www.fox5dc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP candidates bash Biden in first forum for Trone's congressional seat - Maryland Matters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMy8wOS8yMS9nb3AtY2FuZGlkYXRlcy1iYXNoLWJpZGVuLWluLWZpcnN0LWZvcnVtLWZvci10cm9uZXMtY29uZ3Jlc3Npb25hbC1zZWF0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMy8wOS8yMS9nb3AtY2FuZGlkYXRlcy1iYXNoLWJpZGVuLWluLWZpcnN0LWZvcnVtLWZvci10cm9uZXMtY29uZ3Jlc3Npb25hbC1zZWF0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMy8wOS8yMS9nb3AtY2FuZGlkYXRlcy1iYXNoLWJpZGVuLWluLWZpcnN0LWZvcnVtLWZvci10cm9uZXMtY29uZ3Jlc3Npb25hbC1zZWF0L9IBAA?oc=5\" target=\"_blank\">GOP candidates bash Biden in first forum for Trone's congressional seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maryland Matters</font>"
+            ],
+            "source": [
+              {
+                "_": "Maryland Matters",
+                "$": {
+                  "url": "https://www.marylandmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dan Cox officially enters race for Congress - wmar2news.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LndtYXIybmV3cy5jb20vbG9jYWwvZGFuLWNveC1vZmZpY2lhbGx5LWVudGVycy1yYWNlLWZvci1jb25ncmVzc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LndtYXIybmV3cy5jb20vbG9jYWwvZGFuLWNveC1vZmZpY2lhbGx5LWVudGVycy1yYWNlLWZvci1jb25ncmVzc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LndtYXIybmV3cy5jb20vbG9jYWwvZGFuLWNveC1vZmZpY2lhbGx5LWVudGVycy1yYWNlLWZvci1jb25ncmVzc9IBAA?oc=5\" target=\"_blank\">Dan Cox officially enters race for Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wmar2news.com</font>"
+            ],
+            "source": [
+              {
+                "_": "wmar2news.com",
+                "$": {
+                  "url": "https://www.wmar2news.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New finance reports in Maryland Sixth Congressional District race - MoCo360"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzEwLzE2L3JveWFscy1hLXJlcHVibGljYW4tbGVhZHMtYWxsLWNhbmRpZGF0ZXMtaW4tdGhpcmQtcXVhcnRlci1jYW1wYWlnbi1mdW5kcmFpc2luZy1mb3ItZGlzdC02L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzEwLzE2L3JveWFscy1hLXJlcHVibGljYW4tbGVhZHMtYWxsLWNhbmRpZGF0ZXMtaW4tdGhpcmQtcXVhcnRlci1jYW1wYWlnbi1mdW5kcmFpc2luZy1mb3ItZGlzdC02L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzEwLzE2L3JveWFscy1hLXJlcHVibGljYW4tbGVhZHMtYWxsLWNhbmRpZGF0ZXMtaW4tdGhpcmQtcXVhcnRlci1jYW1wYWlnbi1mdW5kcmFpc2luZy1mb3ItZGlzdC02L9IBAA?oc=5\" target=\"_blank\">New finance reports in Maryland Sixth Congressional District race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoCo360</font>"
+            ],
+            "source": [
+              {
+                "_": "MoCo360",
+                "$": {
+                  "url": "https://moco360.media"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dr. Mariela Roca Pledges to Support Term Limits on Congress - U.S. Term Limits"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRlcm1saW1pdHMuY29tL21hcmllbGEtcm9jYS1wbGVkZ2VzLXRvLXN1cHBvcnQtdGVybS1saW1pdHMtb24tY29uZ3Jlc3Mv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LnRlcm1saW1pdHMuY29tL21hcmllbGEtcm9jYS1wbGVkZ2VzLXRvLXN1cHBvcnQtdGVybS1saW1pdHMtb24tY29uZ3Jlc3Mv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRlcm1saW1pdHMuY29tL21hcmllbGEtcm9jYS1wbGVkZ2VzLXRvLXN1cHBvcnQtdGVybS1saW1pdHMtb24tY29uZ3Jlc3Mv0gEA?oc=5\" target=\"_blank\">Dr. Mariela Roca Pledges to Support Term Limits on Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Term Limits</font>"
+            ],
+            "source": [
+              {
+                "_": "U.S. Term Limits",
+                "$": {
+                  "url": "https://www.termlimits.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Councilmember Sayles Files Paperwork; May Seek U.S. Congressional Seat - Montgomery Community Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm15bWNtZWRpYS5vcmcvY291bmNpbG1lbWJlci1zYXlsZXMtZmlsZXMtcGFwZXJ3b3JrLW1heS1zZWVrLXUtcy1jb25ncmVzc2lvbmFsLXNlYXQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3Lm15bWNtZWRpYS5vcmcvY291bmNpbG1lbWJlci1zYXlsZXMtZmlsZXMtcGFwZXJ3b3JrLW1heS1zZWVrLXUtcy1jb25ncmVzc2lvbmFsLXNlYXQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm15bWNtZWRpYS5vcmcvY291bmNpbG1lbWJlci1zYXlsZXMtZmlsZXMtcGFwZXJ3b3JrLW1heS1zZWVrLXUtcy1jb25ncmVzc2lvbmFsLXNlYXQv0gEA?oc=5\" target=\"_blank\">Councilmember Sayles Files Paperwork; May Seek U.S. Congressional Seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montgomery Community Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Montgomery Community Media",
+                "$": {
+                  "url": "https://www.mymcmedia.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How do Maryland's Sixth Congressional District candidates think the Israel-Hamas crisis should be handled? - MoCo360"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL21vY28zNjAubWVkaWEvMjAyMy8xMC8zMS9ob3ctZG8tbWFyeWxhbmRzLXNpeHRoLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtY2FuZGlkYXRlcy10aGluay10aGUtaXNyYWVsLWhhbWFzLWNyaXNpcy1zaG91bGQtYmUtaGFuZGxlZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL21vY28zNjAubWVkaWEvMjAyMy8xMC8zMS9ob3ctZG8tbWFyeWxhbmRzLXNpeHRoLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtY2FuZGlkYXRlcy10aGluay10aGUtaXNyYWVsLWhhbWFzLWNyaXNpcy1zaG91bGQtYmUtaGFuZGxlZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL21vY28zNjAubWVkaWEvMjAyMy8xMC8zMS9ob3ctZG8tbWFyeWxhbmRzLXNpeHRoLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtY2FuZGlkYXRlcy10aGluay10aGUtaXNyYWVsLWhhbWFzLWNyaXNpcy1zaG91bGQtYmUtaGFuZGxlZC_SAQA?oc=5\" target=\"_blank\">How do Maryland's Sixth Congressional District candidates think the Israel-Hamas crisis should be handled?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoCo360</font>"
+            ],
+            "source": [
+              {
+                "_": "MoCo360",
+                "$": {
+                  "url": "https://moco360.media"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former combat aviator announces GOP bid for open House seat in Maryland - Washington Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9jYW1wYWlnbnMvY29tYmF0LWF2aWF0b3ItZ29wLWJpZC1vcGVuLWhvdXNlLXNlYXQtbWFyeWxhbmTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9jYW1wYWlnbnMvY29tYmF0LWF2aWF0b3ItZ29wLWJpZC1vcGVuLWhvdXNlLXNlYXQtbWFyeWxhbmTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 19 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9jYW1wYWlnbnMvY29tYmF0LWF2aWF0b3ItZ29wLWJpZC1vcGVuLWhvdXNlLXNlYXQtbWFyeWxhbmTSAQA?oc=5\" target=\"_blank\">Former combat aviator announces GOP bid for open House seat in Maryland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Examiner",
+                "$": {
+                  "url": "https://www.washingtonexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dan Cox calls reports of him running for Congress 'fake news' - wmar2news.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LndtYXIybmV3cy5jb20vbG9jYWwvZm9ybWVyLWd1YmVybmF0b3JpYWwtY2FuZGlkYXRlLWRhbi1jb3gtZmlsZXMtY2FuZGlkYWN5LWZvci1jb25ncmVzc2lvbmFsLWVsZWN0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LndtYXIybmV3cy5jb20vbG9jYWwvZm9ybWVyLWd1YmVybmF0b3JpYWwtY2FuZGlkYXRlLWRhbi1jb3gtZmlsZXMtY2FuZGlkYWN5LWZvci1jb25ncmVzc2lvbmFsLWVsZWN0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 03 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LndtYXIybmV3cy5jb20vbG9jYWwvZm9ybWVyLWd1YmVybmF0b3JpYWwtY2FuZGlkYXRlLWRhbi1jb3gtZmlsZXMtY2FuZGlkYWN5LWZvci1jb25ncmVzc2lvbmFsLWVsZWN0aW9u0gEA?oc=5\" target=\"_blank\">Dan Cox calls reports of him running for Congress 'fake news'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wmar2news.com</font>"
+            ],
+            "source": [
+              {
+                "_": "wmar2news.com",
+                "$": {
+                  "url": "https://www.wmar2news.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Political notes: 6th District updates, personnel moves, Black Caucus members discuss issues at forum - Maryland Matters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5tYXJ5bGFuZG1hdHRlcnMub3JnLzIwMjMvMDkvMDcvcG9saXRpY2FsLW5vdGVzLTZ0aC1kaXN0cmljdC11cGRhdGVzLXBlcnNvbm5lbC1tb3Zlcy1ibGFjay1jYXVjdXMtbWVtYmVycy1kaXNjdXNzLWlzc3Vlcy1hdC1mb3J1bS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5tYXJ5bGFuZG1hdHRlcnMub3JnLzIwMjMvMDkvMDcvcG9saXRpY2FsLW5vdGVzLTZ0aC1kaXN0cmljdC11cGRhdGVzLXBlcnNvbm5lbC1tb3Zlcy1ibGFjay1jYXVjdXMtbWVtYmVycy1kaXNjdXNzLWlzc3Vlcy1hdC1mb3J1bS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5tYXJ5bGFuZG1hdHRlcnMub3JnLzIwMjMvMDkvMDcvcG9saXRpY2FsLW5vdGVzLTZ0aC1kaXN0cmljdC11cGRhdGVzLXBlcnNvbm5lbC1tb3Zlcy1ibGFjay1jYXVjdXMtbWVtYmVycy1kaXNjdXNzLWlzc3Vlcy1hdC1mb3J1bS_SAQA?oc=5\" target=\"_blank\">Political notes: 6th District updates, personnel moves, Black Caucus members discuss issues at forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maryland Matters</font>"
+            ],
+            "source": [
+              {
+                "_": "Maryland Matters",
+                "$": {
+                  "url": "https://www.marylandmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Councilmember Sayles Announces Bid for U.S. Congress - Montgomery Community Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm15bWNtZWRpYS5vcmcvY291bmNpbG1lbWJlci1zYXlsZXMtYW5ub3VuY2VzLWJpZC1mb3ItdS1zLWNvbmdyZXNzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vd3d3Lm15bWNtZWRpYS5vcmcvY291bmNpbG1lbWJlci1zYXlsZXMtYW5ub3VuY2VzLWJpZC1mb3ItdS1zLWNvbmdyZXNzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm15bWNtZWRpYS5vcmcvY291bmNpbG1lbWJlci1zYXlsZXMtYW5ub3VuY2VzLWJpZC1mb3ItdS1zLWNvbmdyZXNzL9IBAA?oc=5\" target=\"_blank\">Councilmember Sayles Announces Bid for U.S. Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montgomery Community Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Montgomery Community Media",
+                "$": {
+                  "url": "https://www.mymcmedia.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP candidates talk at Maryland District 6 Congressional forum - MoCo360"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirQFodHRwczovL21vY28zNjAubWVkaWEvMjAyMy8wOS8yMS9yZXB1YmxpY2FuLWhvcGVmdWxzLWZvci1tYXJ5bGFuZHMtc2l4dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1sYXJnZWx5LWFncmVlLW9uLW5hdGlvbmFsLXNlY3VyaXR5LXBhcmVudGFsLWludm9sdmVtZW50LWluLXNjaG9vbC1jdXJyaWN1bHVtL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirQFodHRwczovL21vY28zNjAubWVkaWEvMjAyMy8wOS8yMS9yZXB1YmxpY2FuLWhvcGVmdWxzLWZvci1tYXJ5bGFuZHMtc2l4dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1sYXJnZWx5LWFncmVlLW9uLW5hdGlvbmFsLXNlY3VyaXR5LXBhcmVudGFsLWludm9sdmVtZW50LWluLXNjaG9vbC1jdXJyaWN1bHVtL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirQFodHRwczovL21vY28zNjAubWVkaWEvMjAyMy8wOS8yMS9yZXB1YmxpY2FuLWhvcGVmdWxzLWZvci1tYXJ5bGFuZHMtc2l4dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1sYXJnZWx5LWFncmVlLW9uLW5hdGlvbmFsLXNlY3VyaXR5LXBhcmVudGFsLWludm9sdmVtZW50LWluLXNjaG9vbC1jdXJyaWN1bHVtL9IBAA?oc=5\" target=\"_blank\">GOP candidates talk at Maryland District 6 Congressional forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoCo360</font>"
+            ],
+            "source": [
+              {
+                "_": "MoCo360",
+                "$": {
+                  "url": "https://moco360.media"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "There's a long list of candidates for Congress from Maryland - Herald-Mail Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3Mvc3RhdGUvMjAyNC8wMS8wOC90aGVyZXMtYS1sb25nLWxpc3Qtb2YtY2FuZGlkYXRlcy1mb3ItY29uZ3Jlc3MtZnJvbS1tYXJ5bGFuZC83MjA4NTY3ODAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3Mvc3RhdGUvMjAyNC8wMS8wOC90aGVyZXMtYS1sb25nLWxpc3Qtb2YtY2FuZGlkYXRlcy1mb3ItY29uZ3Jlc3MtZnJvbS1tYXJ5bGFuZC83MjA4NTY3ODAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3Mvc3RhdGUvMjAyNC8wMS8wOC90aGVyZXMtYS1sb25nLWxpc3Qtb2YtY2FuZGlkYXRlcy1mb3ItY29uZ3Jlc3MtZnJvbS1tYXJ5bGFuZC83MjA4NTY3ODAwNy_SAQA?oc=5\" target=\"_blank\">There's a long list of candidates for Congress from Maryland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herald-Mail Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Herald-Mail Media",
+                "$": {
+                  "url": "https://www.heraldmailmedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Maryland Sixth Congressional District Primary Election Results 2022 - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjIvMDcvMTkvdXMvZWxlY3Rpb25zL3Jlc3VsdHMtbWFyeWxhbmQtdXMtaG91c2UtZGlzdHJpY3QtNi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjIvMDcvMTkvdXMvZWxlY3Rpb25zL3Jlc3VsdHMtbWFyeWxhbmQtdXMtaG91c2UtZGlzdHJpY3QtNi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjIvMDcvMTkvdXMvZWxlY3Rpb25zL3Jlc3VsdHMtbWFyeWxhbmQtdXMtaG91c2UtZGlzdHJpY3QtNi5odG1s0gEA?oc=5\" target=\"_blank\">Maryland Sixth Congressional District Primary Election Results 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "April McClain Delaney joins Democratic crowd in Md.'s 6th District race - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzEwLzI1L2FwcmlsLW1jY2xhaW4tZGVsYW5leS1jb25ncmVzcy1tYXJ5bGFuZC02dGgtZGlzdHJpY3Qv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzEwLzI1L2FwcmlsLW1jY2xhaW4tZGVsYW5leS1jb25ncmVzcy1tYXJ5bGFuZC02dGgtZGlzdHJpY3Qv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzEwLzI1L2FwcmlsLW1jY2xhaW4tZGVsYW5leS1jb25ncmVzcy1tYXJ5bGFuZC02dGgtZGlzdHJpY3Qv0gEA?oc=5\" target=\"_blank\">April McClain Delaney joins Democratic crowd in Md.'s 6th District race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mariela Roca announces campaign for Maryland 6th Congressional District seat - rockvillenights.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHA6Ly93d3cucm9ja3ZpbGxlbmlnaHRzLmNvbS8yMDIyLzA0L21hcmllbGEtcm9jYS1hbm5vdW5jZXMtY2FtcGFpZ24tZm9yLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHA6Ly93d3cucm9ja3ZpbGxlbmlnaHRzLmNvbS8yMDIyLzA0L21hcmllbGEtcm9jYS1hbm5vdW5jZXMtY2FtcGFpZ24tZm9yLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHA6Ly93d3cucm9ja3ZpbGxlbmlnaHRzLmNvbS8yMDIyLzA0L21hcmllbGEtcm9jYS1hbm5vdW5jZXMtY2FtcGFpZ24tZm9yLmh0bWzSAQA?oc=5\" target=\"_blank\">Mariela Roca announces campaign for Maryland 6th Congressional District seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rockvillenights.com</font>"
+            ],
+            "source": [
+              {
+                "_": "rockvillenights.com",
+                "$": {
+                  "url": "http://www.rockvillenights.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Political notes: More candidates in Dist. 6, as the lobbying world turns, MML honorees, personnel news and more - Maryland Matters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5tYXJ5bGFuZG1hdHRlcnMub3JnLzIwMjMvMDYvMjgvcG9saXRpY2FsLW5vdGVzLW1vcmUtY2FuZGlkYXRlcy1pbi1kaXN0LTYtYXMtdGhlLWxvYmJ5aW5nLXdvcmxkLXR1cm5zLW1tbC1ob25vcmVlcy1wZXJzb25uZWwtbmV3cy1hbmQtbW9yZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilgFodHRwczovL3d3dy5tYXJ5bGFuZG1hdHRlcnMub3JnLzIwMjMvMDYvMjgvcG9saXRpY2FsLW5vdGVzLW1vcmUtY2FuZGlkYXRlcy1pbi1kaXN0LTYtYXMtdGhlLWxvYmJ5aW5nLXdvcmxkLXR1cm5zLW1tbC1ob25vcmVlcy1wZXJzb25uZWwtbmV3cy1hbmQtbW9yZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 28 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5tYXJ5bGFuZG1hdHRlcnMub3JnLzIwMjMvMDYvMjgvcG9saXRpY2FsLW5vdGVzLW1vcmUtY2FuZGlkYXRlcy1pbi1kaXN0LTYtYXMtdGhlLWxvYmJ5aW5nLXdvcmxkLXR1cm5zLW1tbC1ob25vcmVlcy1wZXJzb25uZWwtbmV3cy1hbmQtbW9yZS_SAQA?oc=5\" target=\"_blank\">Political notes: More candidates in Dist. 6, as the lobbying world turns, MML honorees, personnel news and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maryland Matters</font>"
+            ],
+            "source": [
+              {
+                "_": "Maryland Matters",
+                "$": {
+                  "url": "https://www.marylandmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former Chevy Chase Vice Mayor Enters Congressional Race - Montgomery Community Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm15bWNtZWRpYS5vcmcvZm9ybWVyLWNoZXZ5LWNoYXNlLXZpY2UtbWF5b3ItZW50ZXJzLWNvbmdyZXNzaW9uYWwtcmFjZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3Lm15bWNtZWRpYS5vcmcvZm9ybWVyLWNoZXZ5LWNoYXNlLXZpY2UtbWF5b3ItZW50ZXJzLWNvbmdyZXNzaW9uYWwtcmFjZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm15bWNtZWRpYS5vcmcvZm9ybWVyLWNoZXZ5LWNoYXNlLXZpY2UtbWF5b3ItZW50ZXJzLWNvbmdyZXNzaW9uYWwtcmFjZS_SAQA?oc=5\" target=\"_blank\">Former Chevy Chase Vice Mayor Enters Congressional Race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montgomery Community Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Montgomery Community Media",
+                "$": {
+                  "url": "https://www.mymcmedia.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Vogel campaign raises $115k in congressional 6th district race - MoCo360"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzA3LzE3L3ZvZ2VsLWNhbXBhaWduLXJhaXNlcy0xMTVrLWluLWNvbmdyZXNzaW9uYWwtNnRoLWRpc3RyaWN0LXJhY2Uv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzA3LzE3L3ZvZ2VsLWNhbXBhaWduLXJhaXNlcy0xMTVrLWluLWNvbmdyZXNzaW9uYWwtNnRoLWRpc3RyaWN0LXJhY2Uv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzA3LzE3L3ZvZ2VsLWNhbXBhaWduLXJhaXNlcy0xMTVrLWluLWNvbmdyZXNzaW9uYWwtNnRoLWRpc3RyaWN0LXJhY2Uv0gEA?oc=5\" target=\"_blank\">Vogel campaign raises $115k in congressional 6th district race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoCo360</font>"
+            ],
+            "source": [
+              {
+                "_": "MoCo360",
+                "$": {
+                  "url": "https://moco360.media"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Political notes: Hagerstown mayor to run for 6th District seat, O's advocacy in D.C. - Maryland Matters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMy8wNy8xMi9wb2xpdGljYWwtbm90ZXMtaGFnZXJzdG93bi1tYXlvci10by1ydW4tZm9yLTZ0aC1kaXN0cmljdC1zZWF0LW9zLWFkdm9jYWN5LWluLWQtYy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMy8wNy8xMi9wb2xpdGljYWwtbm90ZXMtaGFnZXJzdG93bi1tYXlvci10by1ydW4tZm9yLTZ0aC1kaXN0cmljdC1zZWF0LW9zLWFkdm9jYWN5LWluLWQtYy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMy8wNy8xMi9wb2xpdGljYWwtbm90ZXMtaGFnZXJzdG93bi1tYXlvci10by1ydW4tZm9yLTZ0aC1kaXN0cmljdC1zZWF0LW9zLWFkdm9jYWN5LWluLWQtYy_SAQA?oc=5\" target=\"_blank\">Political notes: Hagerstown mayor to run for 6th District seat, O's advocacy in D.C.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maryland Matters</font>"
+            ],
+            "source": [
+              {
+                "_": "Maryland Matters",
+                "$": {
+                  "url": "https://www.marylandmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Stephen McDow launches campaign for Maryland 6th Congressional District - MoCo360"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzA2LzEyL3N0ZXBoZW4tbWNkb3ctbGF1bmNoZXMtY2FtcGFpZ24tZm9yLW1hcnlsYW5kLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3Qtc2l4L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzA2LzEyL3N0ZXBoZW4tbWNkb3ctbGF1bmNoZXMtY2FtcGFpZ24tZm9yLW1hcnlsYW5kLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3Qtc2l4L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 12 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzA2LzEyL3N0ZXBoZW4tbWNkb3ctbGF1bmNoZXMtY2FtcGFpZ24tZm9yLW1hcnlsYW5kLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3Qtc2l4L9IBAA?oc=5\" target=\"_blank\">Stephen McDow launches campaign for Maryland 6th Congressional District</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoCo360</font>"
+            ],
+            "source": [
+              {
+                "_": "MoCo360",
+                "$": {
+                  "url": "https://moco360.media"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sayles latest to join crowded field for 6th Congressional District - Herald-Mail Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDgvMTQvc2F5bGVzLWxhdGVzdC10by1qb2luLWNyb3dkZWQtZmllbGQtZm9yLTZ0aC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LzcwNTc0NjQ5MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimAFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDgvMTQvc2F5bGVzLWxhdGVzdC10by1qb2luLWNyb3dkZWQtZmllbGQtZm9yLTZ0aC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LzcwNTc0NjQ5MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 14 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDgvMTQvc2F5bGVzLWxhdGVzdC10by1qb2luLWNyb3dkZWQtZmllbGQtZm9yLTZ0aC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LzcwNTc0NjQ5MDA3L9IBAA?oc=5\" target=\"_blank\">Sayles latest to join crowded field for 6th Congressional District</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herald-Mail Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Herald-Mail Media",
+                "$": {
+                  "url": "https://www.heraldmailmedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The race to represent the 6th Congressional District in MD - Herald-Mail Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3Mvc3RhdGUvMjAyMi8wNy8xMy90aGUtcmFjZS10by1yZXByZXNlbnQtd2VzdGVybi1tYXJ5bGFuZHMtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC10cm9uZS1wYXJyb3R0LWZvbGRpLzY1MzY2ODI4MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimwFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3Mvc3RhdGUvMjAyMi8wNy8xMy90aGUtcmFjZS10by1yZXByZXNlbnQtd2VzdGVybi1tYXJ5bGFuZHMtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC10cm9uZS1wYXJyb3R0LWZvbGRpLzY1MzY2ODI4MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3Mvc3RhdGUvMjAyMi8wNy8xMy90aGUtcmFjZS10by1yZXByZXNlbnQtd2VzdGVybi1tYXJ5bGFuZHMtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC10cm9uZS1wYXJyb3R0LWZvbGRpLzY1MzY2ODI4MDA3L9IBAA?oc=5\" target=\"_blank\">The race to represent the 6th Congressional District in MD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herald-Mail Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Herald-Mail Media",
+                "$": {
+                  "url": "https://www.heraldmailmedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Md. congressional district used to lots of political spending hasn't seen much so far - Maryland Matters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMy8xMS8wOC9tZC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LXVzZWQtdG8tbG90cy1vZi1wb2xpdGljYWwtc3BlbmRpbmctaGFzbnQtc2Vlbi1tdWNoLXNvLWZhci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMy8xMS8wOC9tZC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LXVzZWQtdG8tbG90cy1vZi1wb2xpdGljYWwtc3BlbmRpbmctaGFzbnQtc2Vlbi1tdWNoLXNvLWZhci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm1hcnlsYW5kbWF0dGVycy5vcmcvMjAyMy8xMS8wOC9tZC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LXVzZWQtdG8tbG90cy1vZi1wb2xpdGljYWwtc3BlbmRpbmctaGFzbnQtc2Vlbi1tdWNoLXNvLWZhci_SAQA?oc=5\" target=\"_blank\">Md. congressional district used to lots of political spending hasn't seen much so far</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maryland Matters</font>"
+            ],
+            "source": [
+              {
+                "_": "Maryland Matters",
+                "$": {
+                  "url": "https://www.marylandmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Maryland 6th Congressional District GOP candidates making moves - Herald-Mail Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8wOS8xOC9tYXJ5bGFuZC02dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1jYW5kaWRhdGVzLW1ha2luZy1tb3Zlcy1icmVuZGEtdGhpYW0tdG9tLXJveWFscy83MDg2MjMwMDAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinwFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8wOS8xOC9tYXJ5bGFuZC02dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1jYW5kaWRhdGVzLW1ha2luZy1tb3Zlcy1icmVuZGEtdGhpYW0tdG9tLXJveWFscy83MDg2MjMwMDAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8wOS8xOC9tYXJ5bGFuZC02dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1jYW5kaWRhdGVzLW1ha2luZy1tb3Zlcy1icmVuZGEtdGhpYW0tdG9tLXJveWFscy83MDg2MjMwMDAwNy_SAQA?oc=5\" target=\"_blank\">Maryland 6th Congressional District GOP candidates making moves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herald-Mail Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Herald-Mail Media",
+                "$": {
+                  "url": "https://www.heraldmailmedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Edwards, Ivey face off Tuesday after tense home stretch in Md. primaries - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIyLzA3LzE2L21hcnlsYW5kLWNvbmdyZXNzLXByaW1hcnktZGVtb2NyYXRzLXJlcHVibGljYW5zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIyLzA3LzE2L21hcnlsYW5kLWNvbmdyZXNzLXByaW1hcnktZGVtb2NyYXRzLXJlcHVibGljYW5zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 16 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIyLzA3LzE2L21hcnlsYW5kLWNvbmdyZXNzLXByaW1hcnktZGVtb2NyYXRzLXJlcHVibGljYW5zL9IBAA?oc=5\" target=\"_blank\">Edwards, Ivey face off Tuesday after tense home stretch in Md. primaries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hagerstown Mayor Tekesha Martinez enters 6th Congressional District race - MoCo360"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzA3LzE3L2hhZ2Vyc3Rvd24tbWF5b3ItdGVrZXNoYS1tYXJ0aW5lei1lbnRlcnMtNnRoLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtcmFjZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzA3LzE3L2hhZ2Vyc3Rvd24tbWF5b3ItdGVrZXNoYS1tYXJ0aW5lei1lbnRlcnMtNnRoLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtcmFjZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbW9jbzM2MC5tZWRpYS8yMDIzLzA3LzE3L2hhZ2Vyc3Rvd24tbWF5b3ItdGVrZXNoYS1tYXJ0aW5lei1lbnRlcnMtNnRoLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtcmFjZS_SAQA?oc=5\" target=\"_blank\">Hagerstown Mayor Tekesha Martinez enters 6th Congressional District race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoCo360</font>"
+            ],
+            "source": [
+              {
+                "_": "MoCo360",
+                "$": {
+                  "url": "https://moco360.media"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Political notes: Moore campaigns in Virginia and more - The Baltimore Banner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoZWJhbHRpbW9yZWJhbm5lci5jb20vcG9saXRpY3MtcG93ZXIvc3RhdGUtZ292ZXJubWVudC9iYW5uZXItcG9saXRpY2FsLW5vdGVzLVBSUUxBNjJKRFpFNEZHWldITTRSVjdOV0FJL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LnRoZWJhbHRpbW9yZWJhbm5lci5jb20vcG9saXRpY3MtcG93ZXIvc3RhdGUtZ292ZXJubWVudC9iYW5uZXItcG9saXRpY2FsLW5vdGVzLVBSUUxBNjJKRFpFNEZHWldITTRSVjdOV0FJL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 04 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoZWJhbHRpbW9yZWJhbm5lci5jb20vcG9saXRpY3MtcG93ZXIvc3RhdGUtZ292ZXJubWVudC9iYW5uZXItcG9saXRpY2FsLW5vdGVzLVBSUUxBNjJKRFpFNEZHWldITTRSVjdOV0FJL9IBAA?oc=5\" target=\"_blank\">Political notes: Moore campaigns in Virginia and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Baltimore Banner</font>"
+            ],
+            "source": [
+              {
+                "_": "The Baltimore Banner",
+                "$": {
+                  "url": "https://www.thebaltimorebanner.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former naval flight officer seeks GOP nod for 6th District - Herald-Mail Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDcvMjQvZm9ybWVyLW5hdmFsLWZsaWdodC1vZmZpY2VyLXRvbS1yb3lhbHMtc2Vla3MtZ29wLW5vZC1mb3ItNnRoLWRpc3RyaWN0LzcwNDMwNDU3MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimwFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDcvMjQvZm9ybWVyLW5hdmFsLWZsaWdodC1vZmZpY2VyLXRvbS1yb3lhbHMtc2Vla3MtZ29wLW5vZC1mb3ItNnRoLWRpc3RyaWN0LzcwNDMwNDU3MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDcvMjQvZm9ybWVyLW5hdmFsLWZsaWdodC1vZmZpY2VyLXRvbS1yb3lhbHMtc2Vla3MtZ29wLW5vZC1mb3ItNnRoLWRpc3RyaWN0LzcwNDMwNDU3MDA3L9IBAA?oc=5\" target=\"_blank\">Former naval flight officer seeks GOP nod for 6th District</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herald-Mail Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Herald-Mail Media",
+                "$": {
+                  "url": "https://www.heraldmailmedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Upper Montgomery Republican Women's Club to host 6th District forum - Herald-Mail Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDkvMTEvdXBwZXItbW9udGdvbWVyeS1yZXB1YmxpY2FuLXdvbWVucy1jbHViLXRvLWhvc3QtNnRoLWRpc3RyaWN0LWZvcnVtLXRla2VzaGEtbWFydGluZXotYXNod2FuaS1qYWluLzcwNzk3NDEyMDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitgFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDkvMTEvdXBwZXItbW9udGdvbWVyeS1yZXB1YmxpY2FuLXdvbWVucy1jbHViLXRvLWhvc3QtNnRoLWRpc3RyaWN0LWZvcnVtLXRla2VzaGEtbWFydGluZXotYXNod2FuaS1qYWluLzcwNzk3NDEyMDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDkvMTEvdXBwZXItbW9udGdvbWVyeS1yZXB1YmxpY2FuLXdvbWVucy1jbHViLXRvLWhvc3QtNnRoLWRpc3RyaWN0LWZvcnVtLXRla2VzaGEtbWFydGluZXotYXNod2FuaS1qYWluLzcwNzk3NDEyMDA3L9IBAA?oc=5\" target=\"_blank\">Upper Montgomery Republican Women's Club to host 6th District forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herald-Mail Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Herald-Mail Media",
+                "$": {
+                  "url": "https://www.heraldmailmedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "With 11 months before election, candidates consider Congress, fewer file state paperwork - Herald-Mail Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3Mvc3RhdGUvMjAyMy8wNi8yOS93aXRoLTExLW1vbnRocy1iZWZvcmUtZWxlY3Rpb24tbWFyeWxhbmQtY2FuZGlkYXRlcy1jb25zaWRlci1jb25ncmVzcy83MDM2NjUxNDAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3Mvc3RhdGUvMjAyMy8wNi8yOS93aXRoLTExLW1vbnRocy1iZWZvcmUtZWxlY3Rpb24tbWFyeWxhbmQtY2FuZGlkYXRlcy1jb25zaWRlci1jb25ncmVzcy83MDM2NjUxNDAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 29 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5oZXJhbGRtYWlsbWVkaWEuY29tL3N0b3J5L25ld3Mvc3RhdGUvMjAyMy8wNi8yOS93aXRoLTExLW1vbnRocy1iZWZvcmUtZWxlY3Rpb24tbWFyeWxhbmQtY2FuZGlkYXRlcy1jb25zaWRlci1jb25ncmVzcy83MDM2NjUxNDAwNy_SAQA?oc=5\" target=\"_blank\">With 11 months before election, candidates consider Congress, fewer file state paperwork</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herald-Mail Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Herald-Mail Media",
+                "$": {
+                  "url": "https://www.heraldmailmedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Overwhelming Support in MD CD-06 Race for Term Limits on Congress - U.S. Term Limits"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRlcm1saW1pdHMuY29tL2JyZW5kYS10aGlhbS1wbGVkZ2VzLXRvLXN1cHBvcnQtdGVybS1saW1pdHMtb24tY29uZ3Jlc3Mv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LnRlcm1saW1pdHMuY29tL2JyZW5kYS10aGlhbS1wbGVkZ2VzLXRvLXN1cHBvcnQtdGVybS1saW1pdHMtb24tY29uZ3Jlc3Mv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRlcm1saW1pdHMuY29tL2JyZW5kYS10aGlhbS1wbGVkZ2VzLXRvLXN1cHBvcnQtdGVybS1saW1pdHMtb24tY29uZ3Jlc3Mv0gEA?oc=5\" target=\"_blank\">Overwhelming Support in MD CD-06 Race for Term Limits on Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Term Limits</font>"
+            ],
+            "source": [
+              {
+                "_": "U.S. Term Limits",
+                "$": {
+                  "url": "https://www.termlimits.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Vogel leads in fundraising, spending in Maryland's US House 6th District race - Baltimore Fishbowl"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYmFsdGltb3JlZmlzaGJvd2wuY29tL3N0b3JpZXMvdm9nZWwtbGVhZHMtaW4tZnVuZHJhaXNpbmctc3BlbmRpbmctaW4tbWFyeWxhbmRzLXVzLWhvdXNlLTZ0aC1kaXN0cmljdC1yYWNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vYmFsdGltb3JlZmlzaGJvd2wuY29tL3N0b3JpZXMvdm9nZWwtbGVhZHMtaW4tZnVuZHJhaXNpbmctc3BlbmRpbmctaW4tbWFyeWxhbmRzLXVzLWhvdXNlLTZ0aC1kaXN0cmljdC1yYWNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYmFsdGltb3JlZmlzaGJvd2wuY29tL3N0b3JpZXMvdm9nZWwtbGVhZHMtaW4tZnVuZHJhaXNpbmctc3BlbmRpbmctaW4tbWFyeWxhbmRzLXVzLWhvdXNlLTZ0aC1kaXN0cmljdC1yYWNlL9IBAA?oc=5\" target=\"_blank\">Vogel leads in fundraising, spending in Maryland's US House 6th District race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore Fishbowl</font>"
+            ],
+            "source": [
+              {
+                "_": "Baltimore Fishbowl",
+                "$": {
+                  "url": "https://baltimorefishbowl.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What to watch in Tuesday’s Maryland contests - Roll Call "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjIvMDcvMTgvd2hhdC10by13YXRjaC1pbi10dWVzZGF5cy1tYXJ5bGFuZC1jb250ZXN0cy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjIvMDcvMTgvd2hhdC10by13YXRjaC1pbi10dWVzZGF5cy1tYXJ5bGFuZC1jb250ZXN0cy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjIvMDcvMTgvd2hhdC10by13YXRjaC1pbi10dWVzZGF5cy1tYXJ5bGFuZC1jb250ZXN0cy_SAQA?oc=5\" target=\"_blank\">What to watch in Tuesday’s Maryland contests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roll Call </font>"
+            ],
+            "source": [
+              {
+                "_": "Roll Call ",
+                "$": {
+                  "url": "https://rollcall.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Top fundraiser Neil Parrott wins Republican primary in Maryland's competitive 6th Congressional District to face Rep ... - Center for Responsive Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm9wZW5zZWNyZXRzLm9yZy9uZXdzLzIwMjIvMDcvbGVhZGluZy1nb3AtZnVuZHJhaXNlci1uZWlsLXBhcnJvdHQtd2lucy1wcmltYXJ5LWluLW1hcnlsYW5kcy02dGgtZGlzdHJpY3Qv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3Lm9wZW5zZWNyZXRzLm9yZy9uZXdzLzIwMjIvMDcvbGVhZGluZy1nb3AtZnVuZHJhaXNlci1uZWlsLXBhcnJvdHQtd2lucy1wcmltYXJ5LWluLW1hcnlsYW5kcy02dGgtZGlzdHJpY3Qv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm9wZW5zZWNyZXRzLm9yZy9uZXdzLzIwMjIvMDcvbGVhZGluZy1nb3AtZnVuZHJhaXNlci1uZWlsLXBhcnJvdHQtd2lucy1wcmltYXJ5LWluLW1hcnlsYW5kcy02dGgtZGlzdHJpY3Qv0gEA?oc=5\" target=\"_blank\">Top fundraiser Neil Parrott wins Republican primary in Maryland's competitive 6th Congressional District to face Rep ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Center for Responsive Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "Center for Responsive Politics",
+                "$": {
+                  "url": "https://www.opensecrets.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Neil Parrott wins GOP nomination to represent Maryland's Sixth Congressional District - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL25laWwtcGFycm90dC13aW5zLWdvcC1ub21pbmF0aW9uLXJlcHJlc2VudC1tYXJ5bGFuZHMtc2l4dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdNIBdmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL25laWwtcGFycm90dC13aW5zLWdvcC1ub21pbmF0aW9uLXJlcHJlc2VudC1tYXJ5bGFuZHMtc2l4dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL25laWwtcGFycm90dC13aW5zLWdvcC1ub21pbmF0aW9uLXJlcHJlc2VudC1tYXJ5bGFuZHMtc2l4dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdNIBdmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL25laWwtcGFycm90dC13aW5zLWdvcC1ub21pbmF0aW9uLXJlcHJlc2VudC1tYXJ5bGFuZHMtc2l4dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL25laWwtcGFycm90dC13aW5zLWdvcC1ub21pbmF0aW9uLXJlcHJlc2VudC1tYXJ5bGFuZHMtc2l4dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdNIBdmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL25laWwtcGFycm90dC13aW5zLWdvcC1ub21pbmF0aW9uLXJlcHJlc2VudC1tYXJ5bGFuZHMtc2l4dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC5hbXA?oc=5\" target=\"_blank\">Neil Parrott wins GOP nomination to represent Maryland's Sixth Congressional District</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "BREAKING: Hagerstown Mayor Tekesha Martinez announces bid for Congress - Tri-State Alert"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vdHJpc3RhdGVhbGVydC5jb20vYnJlYWtpbmctaGFnZXJzdG93bi1tYXlvci10ZWtlc2hhLW1hcnRpbmV6LWFubm91bmNlcy1iaWQtZm9yLWNvbmdyZXNzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vdHJpc3RhdGVhbGVydC5jb20vYnJlYWtpbmctaGFnZXJzdG93bi1tYXlvci10ZWtlc2hhLW1hcnRpbmV6LWFubm91bmNlcy1iaWQtZm9yLWNvbmdyZXNzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 12 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vdHJpc3RhdGVhbGVydC5jb20vYnJlYWtpbmctaGFnZXJzdG93bi1tYXlvci10ZWtlc2hhLW1hcnRpbmV6LWFubm91bmNlcy1iaWQtZm9yLWNvbmdyZXNzL9IBAA?oc=5\" target=\"_blank\">BREAKING: Hagerstown Mayor Tekesha Martinez announces bid for Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tri-State Alert</font>"
+            ],
+            "source": [
+              {
+                "_": "Tri-State Alert",
+                "$": {
+                  "url": "https://tristatealert.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Washington Free Beacon reporter files bid for Congress - Washington Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy8yMDQ5MjQzL3dhc2hpbmd0b24tZnJlZS1iZWFjb24tcmVwb3J0ZXItZmlsZXMtYmlkLWZvci1jb25ncmVzcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy8yMDQ5MjQzL3dhc2hpbmd0b24tZnJlZS1iZWFjb24tcmVwb3J0ZXItZmlsZXMtYmlkLWZvci1jb25ncmVzcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy8yMDQ5MjQzL3dhc2hpbmd0b24tZnJlZS1iZWFjb24tcmVwb3J0ZXItZmlsZXMtYmlkLWZvci1jb25ncmVzcy_SAQA?oc=5\" target=\"_blank\">Washington Free Beacon reporter files bid for Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Examiner",
+                "$": {
+                  "url": "https://www.washingtonexaminer.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

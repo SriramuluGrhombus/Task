@@ -1,0 +1,938 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Terence Everitt\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Terence+Everitt&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "The NC House Speaker banished me to the basement. I know exactly why. | Opinion - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzk2NDYxMDkuaHRtbNIBP2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzk2NDYxMDkuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzk2NDYxMDkuaHRtbNIBP2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzk2NDYxMDkuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 23 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzk2NDYxMDkuaHRtbNIBP2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzk2NDYxMDkuaHRtbA?oc=5\" target=\"_blank\">The NC House Speaker banished me to the basement. I know exactly why. | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wake Democrat exiled to supply closet at NC General Assembly - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3dha2UtZGVtb2NyYXQtZXhpbGVkLXRvLXN1cHBseS1jbG9zZXQtYXQtbmMtZ2VuZXJhbC1hc3NlbWJseS8yMTA2MDQyMy_SASJodHRwczovL3d3dy53cmFsLmNvbS9hbXAvMjEwNjA0MjMv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3dha2UtZGVtb2NyYXQtZXhpbGVkLXRvLXN1cHBseS1jbG9zZXQtYXQtbmMtZ2VuZXJhbC1hc3NlbWJseS8yMTA2MDQyMy_SASJodHRwczovL3d3dy53cmFsLmNvbS9hbXAvMjEwNjA0MjMv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3dha2UtZGVtb2NyYXQtZXhpbGVkLXRvLXN1cHBseS1jbG9zZXQtYXQtbmMtZ2VuZXJhbC1hc3NlbWJseS8yMTA2MDQyMy_SASJodHRwczovL3d3dy53cmFsLmNvbS9hbXAvMjEwNjA0MjMv?oc=5\" target=\"_blank\">Wake Democrat exiled to supply closet at NC General Assembly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC Speaker Tim Moore sends Democrat who crossed him to a basement office - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzk2MTIzOTQuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzk2MTIzOTQuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzk2MTIzOTQuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzk2MTIzOTQuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzk2MTIzOTQuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzk2MTIzOTQuaHRtbA?oc=5\" target=\"_blank\">NC Speaker Tim Moore sends Democrat who crossed him to a basement office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Redistricting recap: Voting has ended on NC election districts favoring the GOP - NC Newsline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbmNuZXdzbGluZS5jb20vYnJpZWZzL3JlZGlzdHJpY3RpbmctcmVjYXAtdm90aW5nLWhhcy1lbmRlZC1vbi1uYy1lbGVjdGlvbi1kaXN0cmljdHMtZmF2b3JpbmctdGhlLWdvcC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vbmNuZXdzbGluZS5jb20vYnJpZWZzL3JlZGlzdHJpY3RpbmctcmVjYXAtdm90aW5nLWhhcy1lbmRlZC1vbi1uYy1lbGVjdGlvbi1kaXN0cmljdHMtZmF2b3JpbmctdGhlLWdvcC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbmNuZXdzbGluZS5jb20vYnJpZWZzL3JlZGlzdHJpY3RpbmctcmVjYXAtdm90aW5nLWhhcy1lbmRlZC1vbi1uYy1lbGVjdGlvbi1kaXN0cmljdHMtZmF2b3JpbmctdGhlLWdvcC_SAQA?oc=5\" target=\"_blank\">Redistricting recap: Voting has ended on NC election districts favoring the GOP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NC Newsline</font>"
+            ],
+            "source": [
+              {
+                "_": "NC Newsline",
+                "$": {
+                  "url": "https://ncnewsline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Triad legislative Democrats involved in spats over bills - Winston-Salem Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiuAFodHRwczovL2pvdXJuYWxub3cuY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy90cmlhZC1kZW1vY3JhdGljLWxlZ2lzbGF0b3JzLWludm9sdmVkLWluLXNwYXRzLW92ZXItYnVkZ2V0LWNhc2luby1iaWxscy9hcnRpY2xlX2JmNTkxMmRhLTViMDQtMTFlZS1hM2ZkLTlmMjljZGI2ODU3Yi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiuAFodHRwczovL2pvdXJuYWxub3cuY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy90cmlhZC1kZW1vY3JhdGljLWxlZ2lzbGF0b3JzLWludm9sdmVkLWluLXNwYXRzLW92ZXItYnVkZ2V0LWNhc2luby1iaWxscy9hcnRpY2xlX2JmNTkxMmRhLTViMDQtMTFlZS1hM2ZkLTlmMjljZGI2ODU3Yi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 25 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiuAFodHRwczovL2pvdXJuYWxub3cuY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy90cmlhZC1kZW1vY3JhdGljLWxlZ2lzbGF0b3JzLWludm9sdmVkLWluLXNwYXRzLW92ZXItYnVkZ2V0LWNhc2luby1iaWxscy9hcnRpY2xlX2JmNTkxMmRhLTViMDQtMTFlZS1hM2ZkLTlmMjljZGI2ODU3Yi5odG1s0gEA?oc=5\" target=\"_blank\">Triad legislative Democrats involved in spats over bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Winston-Salem Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Winston-Salem Journal",
+                "$": {
+                  "url": "https://journalnow.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC Republican House Speaker moves Democrat to basement office - CBS17.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2NhcGl0b2wtcmVwb3J0L25jLXJlcHVibGljYW4taG91c2Utc3BlYWtlci1tb3Zlcy1kZW1vY3JhdC10by1iYXNlbWVudC1vZmZpY2Uv0gFsaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvY2FwaXRvbC1yZXBvcnQvbmMtcmVwdWJsaWNhbi1ob3VzZS1zcGVha2VyLW1vdmVzLWRlbW9jcmF0LXRvLWJhc2VtZW50LW9mZmljZS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2NhcGl0b2wtcmVwb3J0L25jLXJlcHVibGljYW4taG91c2Utc3BlYWtlci1tb3Zlcy1kZW1vY3JhdC10by1iYXNlbWVudC1vZmZpY2Uv0gFsaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvY2FwaXRvbC1yZXBvcnQvbmMtcmVwdWJsaWNhbi1ob3VzZS1zcGVha2VyLW1vdmVzLWRlbW9jcmF0LXRvLWJhc2VtZW50LW9mZmljZS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2NhcGl0b2wtcmVwb3J0L25jLXJlcHVibGljYW4taG91c2Utc3BlYWtlci1tb3Zlcy1kZW1vY3JhdC10by1iYXNlbWVudC1vZmZpY2Uv0gFsaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvY2FwaXRvbC1yZXBvcnQvbmMtcmVwdWJsaWNhbi1ob3VzZS1zcGVha2VyLW1vdmVzLWRlbW9jcmF0LXRvLWJhc2VtZW50LW9mZmljZS9hbXAv?oc=5\" target=\"_blank\">NC Republican House Speaker moves Democrat to basement office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS17.com</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS17.com",
+                "$": {
+                  "url": "https://www.cbs17.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC Senate scramble: Retiring House Democrat files for Senate instead - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25jLXNlbmF0ZS1zY3JhbWJsZS1yZXRpcmluZy1ob3VzZS1kZW1vY3JhdC1maWxlcy1mb3Itc2VuYXRlLWluc3RlYWQvMjExOTU4MzEv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIxMTk1ODMxLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25jLXNlbmF0ZS1zY3JhbWJsZS1yZXRpcmluZy1ob3VzZS1kZW1vY3JhdC1maWxlcy1mb3Itc2VuYXRlLWluc3RlYWQvMjExOTU4MzEv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIxMTk1ODMxLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25jLXNlbmF0ZS1zY3JhbWJsZS1yZXRpcmluZy1ob3VzZS1kZW1vY3JhdC1maWxlcy1mb3Itc2VuYXRlLWluc3RlYWQvMjExOTU4MzEv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIxMTk1ODMxLw?oc=5\" target=\"_blank\">NC Senate scramble: Retiring House Democrat files for Senate instead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Legislative Democrats face backlash for refusing to support Israel resolution - North State Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbnNqb25saW5lLmNvbS9hcnRpY2xlLzIwMjMvMTAvbGVnaXNsYXRpdmUtZGVtb2NyYXRzLWZhY2UtYmFja2xhc2gtZm9yLXJlZnVzaW5nLXRvLXN1cHBvcnQtaXNyYWVsLXJlc29sdXRpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vbnNqb25saW5lLmNvbS9hcnRpY2xlLzIwMjMvMTAvbGVnaXNsYXRpdmUtZGVtb2NyYXRzLWZhY2UtYmFja2xhc2gtZm9yLXJlZnVzaW5nLXRvLXN1cHBvcnQtaXNyYWVsLXJlc29sdXRpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 11 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbnNqb25saW5lLmNvbS9hcnRpY2xlLzIwMjMvMTAvbGVnaXNsYXRpdmUtZGVtb2NyYXRzLWZhY2UtYmFja2xhc2gtZm9yLXJlZnVzaW5nLXRvLXN1cHBvcnQtaXNyYWVsLXJlc29sdXRpb24v0gEA?oc=5\" target=\"_blank\">Legislative Democrats face backlash for refusing to support Israel resolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North State Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "North State Journal",
+                "$": {
+                  "url": "https://nsjonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Petty GOP leader puts Democrat in the NC House basement | Opinion - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vb3Bpbmlvbi9hcnRpY2xlMjc5NjIwNzM0Lmh0bWzSATpodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL29waW5pb24vYXJ0aWNsZTI3OTYyMDczNC5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOmh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vb3Bpbmlvbi9hcnRpY2xlMjc5NjIwNzM0Lmh0bWzSATpodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL29waW5pb24vYXJ0aWNsZTI3OTYyMDczNC5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vb3Bpbmlvbi9hcnRpY2xlMjc5NjIwNzM0Lmh0bWzSATpodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL29waW5pb24vYXJ0aWNsZTI3OTYyMDczNC5odG1s?oc=5\" target=\"_blank\">Petty GOP leader puts Democrat in the NC House basement | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wake County lawmaker in key district won't seek reelection - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3dha2UtY291bnR5LWxhd21ha2VyLWluLWtleS1kaXN0cmljdC13b24tdC1zZWVrLXJlLWVsZWN0aW9uLzIxMTkyNjg4L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMTE5MjY4OC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3dha2UtY291bnR5LWxhd21ha2VyLWluLWtleS1kaXN0cmljdC13b24tdC1zZWVrLXJlLWVsZWN0aW9uLzIxMTkyNjg4L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMTE5MjY4OC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3dha2UtY291bnR5LWxhd21ha2VyLWluLWtleS1kaXN0cmljdC13b24tdC1zZWVrLXJlLWVsZWN0aW9uLzIxMTkyNjg4L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMTE5MjY4OC8?oc=5\" target=\"_blank\">Wake County lawmaker in key district won't seek reelection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sports gambling legislation advances in North Carolina House - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3Nwb3J0cy1nYW1ibGluZy1ub3J0aC1jYXJvbGluYS1sZWdpc2xhdHVyZS1jMThmMWZlYzdiMmVkMzg2YWY1Mzg4NDUxODc0YjA4ZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3Nwb3J0cy1nYW1ibGluZy1ub3J0aC1jYXJvbGluYS1sZWdpc2xhdHVyZS1jMThmMWZlYzdiMmVkMzg2YWY1Mzg4NDUxODc0YjA4ZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3Nwb3J0cy1nYW1ibGluZy1ub3J0aC1jYXJvbGluYS1sZWdpc2xhdHVyZS1jMThmMWZlYzdiMmVkMzg2YWY1Mzg4NDUxODc0YjA4ZNIBAA?oc=5\" target=\"_blank\">Sports gambling legislation advances in North Carolina House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North Carolina Democrats center abortion as GOP eyes a supermajority - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMi8xMS8wMy9ub3J0aC1jYXJvbGluYS1kZW1vY3JhdHMtY2VudGVyLWFib3J0aW9uLWdvcC1leWVzLXN1cGVybWFqb3JpdHkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMi8xMS8wMy9ub3J0aC1jYXJvbGluYS1kZW1vY3JhdHMtY2VudGVyLWFib3J0aW9uLWdvcC1leWVzLXN1cGVybWFqb3JpdHkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 03 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMi8xMS8wMy9ub3J0aC1jYXJvbGluYS1kZW1vY3JhdHMtY2VudGVyLWFib3J0aW9uLWdvcC1leWVzLXN1cGVybWFqb3JpdHkv0gEA?oc=5\" target=\"_blank\">North Carolina Democrats center abortion as GOP eyes a supermajority</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrats walk out as North Carolina House votes for resolution urging Congress to support Israel - Carolina Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vdmlkZW8vbm9ydGgtY2Fyb2xpbmEtaG91c2Utdm90ZXMtMTA0LTAtZm9yLXJlc29sdXRpb24tdXJnaW5nLWNvbmdyZXNzLXRvLXN1cHBvcnQtaXNyYWVsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vdmlkZW8vbm9ydGgtY2Fyb2xpbmEtaG91c2Utdm90ZXMtMTA0LTAtZm9yLXJlc29sdXRpb24tdXJnaW5nLWNvbmdyZXNzLXRvLXN1cHBvcnQtaXNyYWVsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 10 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vdmlkZW8vbm9ydGgtY2Fyb2xpbmEtaG91c2Utdm90ZXMtMTA0LTAtZm9yLXJlc29sdXRpb24tdXJnaW5nLWNvbmdyZXNzLXRvLXN1cHBvcnQtaXNyYWVsL9IBAA?oc=5\" target=\"_blank\">Democrats walk out as North Carolina House votes for resolution urging Congress to support Israel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carolina Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Carolina Journal",
+                "$": {
+                  "url": "https://www.carolinajournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC Democrats push status quo on access to abortion - Charlotte Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoZWNoYXJsb3R0ZXBvc3QuY29tL25ld3MvMjAyMy8wMS8zMS9sb2NhbC1zdGF0ZS9uYy1kZW1vY3JhdHMtcHVzaC1zdGF0dXMtcXVvLW9uLWFjY2Vzcy10by1hYm9ydGlvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LnRoZWNoYXJsb3R0ZXBvc3QuY29tL25ld3MvMjAyMy8wMS8zMS9sb2NhbC1zdGF0ZS9uYy1kZW1vY3JhdHMtcHVzaC1zdGF0dXMtcXVvLW9uLWFjY2Vzcy10by1hYm9ydGlvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoZWNoYXJsb3R0ZXBvc3QuY29tL25ld3MvMjAyMy8wMS8zMS9sb2NhbC1zdGF0ZS9uYy1kZW1vY3JhdHMtcHVzaC1zdGF0dXMtcXVvLW9uLWFjY2Vzcy10by1hYm9ydGlvbi_SAQA?oc=5\" target=\"_blank\">NC Democrats push status quo on access to abortion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Post</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Post",
+                "$": {
+                  "url": "https://www.thecharlottepost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Midterm election results: NC Republicans win Senate supermajority, lose NC-13 - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTEvMDkvcmFsZWlnaC1kdXJoYW0tbm9ydGgtY2Fyb2xpbmEtZWxlY3Rpb24tcmVzdWx0cy1rZXktcmFjZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTEvMDkvcmFsZWlnaC1kdXJoYW0tbm9ydGgtY2Fyb2xpbmEtZWxlY3Rpb24tcmVzdWx0cy1rZXktcmFjZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTEvMDkvcmFsZWlnaC1kdXJoYW0tbm9ydGgtY2Fyb2xpbmEtZWxlY3Rpb24tcmVzdWx0cy1rZXktcmFjZXPSAQA?oc=5\" target=\"_blank\">Midterm election results: NC Republicans win Senate supermajority, lose NC-13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lawmaker wants criminal investigation of NC House Speaker Moore. Why the DA says no. - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzg0ODM3NzkuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzg0ODM3NzkuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzg0ODM3NzkuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzg0ODM3NzkuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 22 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzg0ODM3NzkuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzg0ODM3NzkuaHRtbA?oc=5\" target=\"_blank\">Lawmaker wants criminal investigation of NC House Speaker Moore. Why the DA says no.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wake DA again says no basis for criminal investigation into NC House Speaker Moore - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LndyYWwuY29tL3ZpZGVvL3dha2UtZGEtYWdhaW4tc2F5cy1uby1iYXNpcy1mb3ItY3JpbWluYWwtaW52ZXN0aWdhdGlvbi1pbnRvLW5jLWhvdXNlLXNwZWFrZXItbW9vcmUvMjEwMTMxNzEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LndyYWwuY29tL3ZpZGVvL3dha2UtZGEtYWdhaW4tc2F5cy1uby1iYXNpcy1mb3ItY3JpbWluYWwtaW52ZXN0aWdhdGlvbi1pbnRvLW5jLWhvdXNlLXNwZWFrZXItbW9vcmUvMjEwMTMxNzEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 22 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LndyYWwuY29tL3ZpZGVvL3dha2UtZGEtYWdhaW4tc2F5cy1uby1iYXNpcy1mb3ItY3JpbWluYWwtaW52ZXN0aWdhdGlvbi1pbnRvLW5jLWhvdXNlLXNwZWFrZXItbW9vcmUvMjEwMTMxNzEv0gEA?oc=5\" target=\"_blank\">Wake DA again says no basis for criminal investigation into NC House Speaker Moore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New divide in NC Democratic Party? Democrats walk out on pro-Israel resolution - Carolina Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vbmV3LWRpdmlkZS1pbi1uYy1kZW1vY3JhdGljLXBhcnR5LWRlbW9jcmF0cy13YWxrLW91dC1vbi1wcm8taXNyYWVsLXJlc29sdXRpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vbmV3LWRpdmlkZS1pbi1uYy1kZW1vY3JhdGljLXBhcnR5LWRlbW9jcmF0cy13YWxrLW91dC1vbi1wcm8taXNyYWVsLXJlc29sdXRpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vbmV3LWRpdmlkZS1pbi1uYy1kZW1vY3JhdGljLXBhcnR5LWRlbW9jcmF0cy13YWxrLW91dC1vbi1wcm8taXNyYWVsLXJlc29sdXRpb24v0gEA?oc=5\" target=\"_blank\">New divide in NC Democratic Party? Democrats walk out on pro-Israel resolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carolina Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Carolina Journal",
+                "$": {
+                  "url": "https://www.carolinajournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wake DA again declines to investigate allegations against House Speaker Tim Moore - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3dha2UtZGEtYWdhaW4tZGVjbGluZXMtdG8taW52ZXN0aWdhdGUtYWxsZWdhdGlvbnMtYWdhaW5zdC1ob3VzZS1zcGVha2VyLXRpbS1tb29yZS8yMTAxMjk4NS_SASJodHRwczovL3d3dy53cmFsLmNvbS9hbXAvMjEwMTI5ODUv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3dha2UtZGEtYWdhaW4tZGVjbGluZXMtdG8taW52ZXN0aWdhdGUtYWxsZWdhdGlvbnMtYWdhaW5zdC1ob3VzZS1zcGVha2VyLXRpbS1tb29yZS8yMTAxMjk4NS_SASJodHRwczovL3d3dy53cmFsLmNvbS9hbXAvMjEwMTI5ODUv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 22 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3dha2UtZGEtYWdhaW4tZGVjbGluZXMtdG8taW52ZXN0aWdhdGUtYWxsZWdhdGlvbnMtYWdhaW5zdC1ob3VzZS1zcGVha2VyLXRpbS1tb29yZS8yMTAxMjk4NS_SASJodHRwczovL3d3dy53cmFsLmNvbS9hbXAvMjEwMTI5ODUv?oc=5\" target=\"_blank\">Wake DA again declines to investigate allegations against House Speaker Tim Moore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Terence Everitt, candidate for NC House District 35 - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY1MTU4ODEuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY1MTU4ODEuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY1MTU4ODEuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY1MTU4ODEuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY1MTU4ODEuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY1MTU4ODEuaHRtbA?oc=5\" target=\"_blank\">Terence Everitt, candidate for NC House District 35</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "More than 10 percent of NC lawmakers won't return to state legislature in 2025 - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25vcnRoLWNhcm9saW5hLWxlZ2lzbGF0aXZlLWZpbGluZy1lbGVjdGlvbi0yMDI0LzIxMTk3Mzk0L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMTE5NzM5NC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25vcnRoLWNhcm9saW5hLWxlZ2lzbGF0aXZlLWZpbGluZy1lbGVjdGlvbi0yMDI0LzIxMTk3Mzk0L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMTE5NzM5NC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25vcnRoLWNhcm9saW5hLWxlZ2lzbGF0aXZlLWZpbGluZy1lbGVjdGlvbi0yMDI0LzIxMTk3Mzk0L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMTE5NzM5NC8?oc=5\" target=\"_blank\">More than 10 percent of NC lawmakers won't return to state legislature in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North Carolina speaker calls for congressional term limits - Spectrum News NY1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm55MS5jb20vbnljL2FsbC1ib3JvdWdocy9wb2xpdGljcy8yMDIzLzAzLzAyL25vcnRoLWNhcm9saW5hLWhvdXNlLXNwZWFrZXItY2FsbHMtZm9yLWNvbmdyZXNzaW9uYWwtdGVybXMtbGltaXRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3Lm55MS5jb20vbnljL2FsbC1ib3JvdWdocy9wb2xpdGljcy8yMDIzLzAzLzAyL25vcnRoLWNhcm9saW5hLWhvdXNlLXNwZWFrZXItY2FsbHMtZm9yLWNvbmdyZXNzaW9uYWwtdGVybXMtbGltaXRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 02 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm55MS5jb20vbnljL2FsbC1ib3JvdWdocy9wb2xpdGljcy8yMDIzLzAzLzAyL25vcnRoLWNhcm9saW5hLWhvdXNlLXNwZWFrZXItY2FsbHMtZm9yLWNvbmdyZXNzaW9uYWwtdGVybXMtbGltaXRz0gEA?oc=5\" target=\"_blank\">North Carolina speaker calls for congressional term limits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News NY1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News NY1",
+                "$": {
+                  "url": "https://www.ny1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fred Von Canon, candidate for NC House District 35 - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY0NzcyODYuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY0NzcyODYuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY0NzcyODYuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY0NzcyODYuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY0NzcyODYuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY0NzcyODYuaHRtbA?oc=5\" target=\"_blank\">Fred Von Canon, candidate for NC House District 35</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fact check: Mailers use altered photo to claim NC Democrat supports defunding the police - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjY0MjE4MjYuaHRtbNIBVGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjY0MjE4MjYuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjY0MjE4MjYuaHRtbNIBVGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjY0MjE4MjYuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 27 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjY0MjE4MjYuaHRtbNIBVGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjY0MjE4MjYuaHRtbA?oc=5\" target=\"_blank\">Fact check: Mailers use altered photo to claim NC Democrat supports defunding the police</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Complaint filed against PAC linked to NC Democratic Party - Carolina Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vY29tcGxhaW50LWZpbGVkLWFnYWluc3QtcGFjLWxpbmtlZC10by1uYy1kZW1vY3JhdGljLXBhcnR5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vY29tcGxhaW50LWZpbGVkLWFnYWluc3QtcGFjLWxpbmtlZC10by1uYy1kZW1vY3JhdGljLXBhcnR5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vY29tcGxhaW50LWZpbGVkLWFnYWluc3QtcGFjLWxpbmtlZC10by1uYy1kZW1vY3JhdGljLXBhcnR5L9IBAA?oc=5\" target=\"_blank\">Complaint filed against PAC linked to NC Democratic Party</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carolina Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Carolina Journal",
+                "$": {
+                  "url": "https://www.carolinajournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rachel Maddow thinks Republicans are 'desperate' - Raw Story"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnJhd3N0b3J5LmNvbS9yZXB1YmxpY2FuLXZvdGVyLXN1cHByZXNzaW9uLXRhY3RpY3MtbWFkZG93L9IBU2h0dHBzOi8vd3d3LnJhd3N0b3J5LmNvbS9hbXAvcmVwdWJsaWNhbi12b3Rlci1zdXBwcmVzc2lvbi10YWN0aWNzLW1hZGRvdy0yNjU4NDk5NTY5?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vd3d3LnJhd3N0b3J5LmNvbS9yZXB1YmxpY2FuLXZvdGVyLXN1cHByZXNzaW9uLXRhY3RpY3MtbWFkZG93L9IBU2h0dHBzOi8vd3d3LnJhd3N0b3J5LmNvbS9hbXAvcmVwdWJsaWNhbi12b3Rlci1zdXBwcmVzc2lvbi10YWN0aWNzLW1hZGRvdy0yNjU4NDk5NTY5",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnJhd3N0b3J5LmNvbS9yZXB1YmxpY2FuLXZvdGVyLXN1cHByZXNzaW9uLXRhY3RpY3MtbWFkZG93L9IBU2h0dHBzOi8vd3d3LnJhd3N0b3J5LmNvbS9hbXAvcmVwdWJsaWNhbi12b3Rlci1zdXBwcmVzc2lvbi10YWN0aWNzLW1hZGRvdy0yNjU4NDk5NTY5?oc=5\" target=\"_blank\">Rachel Maddow thinks Republicans are 'desperate'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raw Story</font>"
+            ],
+            "source": [
+              {
+                "_": "Raw Story",
+                "$": {
+                  "url": "https://www.rawstory.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North Carolina lawmakers file bills to waive property taxes for disabled veterans - The Center Square"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vbm9ydGhfY2Fyb2xpbmEvYXJ0aWNsZV8yNDMzMjBiMC1lMTE3LTExZWMtOTIzNy1hZjFiNGYxZDlhMzMuaHRtbNIBZGh0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vbm9ydGhfY2Fyb2xpbmEvYXJ0aWNsZV8yNDMzMjBiMC1lMTE3LTExZWMtOTIzNy1hZjFiNGYxZDlhMzMuYW1wLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vbm9ydGhfY2Fyb2xpbmEvYXJ0aWNsZV8yNDMzMjBiMC1lMTE3LTExZWMtOTIzNy1hZjFiNGYxZDlhMzMuaHRtbNIBZGh0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vbm9ydGhfY2Fyb2xpbmEvYXJ0aWNsZV8yNDMzMjBiMC1lMTE3LTExZWMtOTIzNy1hZjFiNGYxZDlhMzMuYW1wLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vbm9ydGhfY2Fyb2xpbmEvYXJ0aWNsZV8yNDMzMjBiMC1lMTE3LTExZWMtOTIzNy1hZjFiNGYxZDlhMzMuaHRtbNIBZGh0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vbm9ydGhfY2Fyb2xpbmEvYXJ0aWNsZV8yNDMzMjBiMC1lMTE3LTExZWMtOTIzNy1hZjFiNGYxZDlhMzMuYW1wLmh0bWw?oc=5\" target=\"_blank\">North Carolina lawmakers file bills to waive property taxes for disabled veterans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>"
+            ],
+            "source": [
+              {
+                "_": "The Center Square",
+                "$": {
+                  "url": "https://www.thecentersquare.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Holograms and altered images: North Carolina candidates decry attacks that 'fabricate reality' - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy53cmFsLmNvbS9zdG9yeS9kZWVwZmFrZXMtYW5kLWFsdGVyZWQtaW1hZ2VzLW5vcnRoLWNhcm9saW5hLWNhbmRpZGF0ZXMtZGVjcnktYXR0YWNrcy10aGF0LWZhYnJpY2F0ZS1yZWFsaXR5LzIwNTMyMjU1L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMDUzMjI1NS8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy53cmFsLmNvbS9zdG9yeS9kZWVwZmFrZXMtYW5kLWFsdGVyZWQtaW1hZ2VzLW5vcnRoLWNhcm9saW5hLWNhbmRpZGF0ZXMtZGVjcnktYXR0YWNrcy10aGF0LWZhYnJpY2F0ZS1yZWFsaXR5LzIwNTMyMjU1L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMDUzMjI1NS8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy53cmFsLmNvbS9zdG9yeS9kZWVwZmFrZXMtYW5kLWFsdGVyZWQtaW1hZ2VzLW5vcnRoLWNhcm9saW5hLWNhbmRpZGF0ZXMtZGVjcnktYXR0YWNrcy10aGF0LWZhYnJpY2F0ZS1yZWFsaXR5LzIwNTMyMjU1L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMDUzMjI1NS8?oc=5\" target=\"_blank\">Holograms and altered images: North Carolina candidates decry attacks that 'fabricate reality'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrat challenges NC Rep. Chris Malone - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3BvbGl0aWNzLWNvbHVtbnMtYmxvZ3MvdW5kZXItdGhlLWRvbWUvYXJ0aWNsZTQ2MjM4NTQwLmh0bWzSAXBodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9wb2xpdGljcy1jb2x1bW5zLWJsb2dzL3VuZGVyLXRoZS1kb21lL2FydGljbGU0NjIzODU0MC5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3BvbGl0aWNzLWNvbHVtbnMtYmxvZ3MvdW5kZXItdGhlLWRvbWUvYXJ0aWNsZTQ2MjM4NTQwLmh0bWzSAXBodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9wb2xpdGljcy1jb2x1bW5zLWJsb2dzL3VuZGVyLXRoZS1kb21lL2FydGljbGU0NjIzODU0MC5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 Nov 2015 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3BvbGl0aWNzLWNvbHVtbnMtYmxvZ3MvdW5kZXItdGhlLWRvbWUvYXJ0aWNsZTQ2MjM4NTQwLmh0bWzSAXBodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9wb2xpdGljcy1jb2x1bW5zLWJsb2dzL3VuZGVyLXRoZS1kb21lL2FydGljbGU0NjIzODU0MC5odG1s?oc=5\" target=\"_blank\">Democrat challenges NC Rep. Chris Malone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "12 North Carolina Democrats walk out of vote on resolution supporting Israel - Just The News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vanVzdHRoZW5ld3MuY29tL2dvdmVybm1lbnQvc3RhdGUtaG91c2VzLzEyLW5vcnRoLWNhcm9saW5hLWRlbW9jcmF0cy13YWxrLW91dC12b3RlLXJlc29sdXRpb24tc3VwcG9ydGluZy1pc3JhZWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vanVzdHRoZW5ld3MuY29tL2dvdmVybm1lbnQvc3RhdGUtaG91c2VzLzEyLW5vcnRoLWNhcm9saW5hLWRlbW9jcmF0cy13YWxrLW91dC12b3RlLXJlc29sdXRpb24tc3VwcG9ydGluZy1pc3JhZWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 11 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vanVzdHRoZW5ld3MuY29tL2dvdmVybm1lbnQvc3RhdGUtaG91c2VzLzEyLW5vcnRoLWNhcm9saW5hLWRlbW9jcmF0cy13YWxrLW91dC12b3RlLXJlc29sdXRpb24tc3VwcG9ydGluZy1pc3JhZWzSAQA?oc=5\" target=\"_blank\">12 North Carolina Democrats walk out of vote on resolution supporting Israel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Just The News</font>"
+            ],
+            "source": [
+              {
+                "_": "Just The News",
+                "$": {
+                  "url": "https://justthenews.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

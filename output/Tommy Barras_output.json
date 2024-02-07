@@ -1,0 +1,488 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Tommy Barras\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Tommy+Barras&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Reynolds President Chris Walsh leads company's new direction - Automotive News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLXByZXNpZGVudC1jaHJpcy13YWxzaC1sZWFkcy1jb21wYW55cy1uZXctZGlyZWN0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLXByZXNpZGVudC1jaHJpcy13YWxzaC1sZWFkcy1jb21wYW55cy1uZXctZGlyZWN0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLXByZXNpZGVudC1jaHJpcy13YWxzaC1sZWFkcy1jb21wYW55cy1uZXctZGlyZWN0aW9u0gEA?oc=5\" target=\"_blank\">Reynolds President Chris Walsh leads company's new direction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
+            ],
+            "source": [
+              {
+                "_": "Automotive News",
+                "$": {
+                  "url": "https://www.autonews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tommy Tiernan confirms 2 'unrehearsed' gigs in tiny West Cork venues - Cork Beo"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNvcmtiZW8uaWUvbmV3cy9sb2NhbC1uZXdzL3RvbW15LXRpZXJuYW4tY29uZmlybXMtMi11bnJlaGVhcnNlZC0yODU0OTI3OdIBWGh0dHBzOi8vd3d3LmNvcmtiZW8uaWUvbmV3cy9sb2NhbC1uZXdzL3RvbW15LXRpZXJuYW4tY29uZmlybXMtMi11bnJlaGVhcnNlZC0yODU0OTI3OS5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LmNvcmtiZW8uaWUvbmV3cy9sb2NhbC1uZXdzL3RvbW15LXRpZXJuYW4tY29uZmlybXMtMi11bnJlaGVhcnNlZC0yODU0OTI3OdIBWGh0dHBzOi8vd3d3LmNvcmtiZW8uaWUvbmV3cy9sb2NhbC1uZXdzL3RvbW15LXRpZXJuYW4tY29uZmlybXMtMi11bnJlaGVhcnNlZC0yODU0OTI3OS5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 10:35:04 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNvcmtiZW8uaWUvbmV3cy9sb2NhbC1uZXdzL3RvbW15LXRpZXJuYW4tY29uZmlybXMtMi11bnJlaGVhcnNlZC0yODU0OTI3OdIBWGh0dHBzOi8vd3d3LmNvcmtiZW8uaWUvbmV3cy9sb2NhbC1uZXdzL3RvbW15LXRpZXJuYW4tY29uZmlybXMtMi11bnJlaGVhcnNlZC0yODU0OTI3OS5hbXA?oc=5\" target=\"_blank\">Tommy Tiernan confirms 2 'unrehearsed' gigs in tiny West Cork venues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cork Beo</font>"
+            ],
+            "source": [
+              {
+                "_": "Cork Beo",
+                "$": {
+                  "url": "https://www.corkbeo.ie"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds & Reynolds CEO facing federal charges steps down - Dayton Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbmV3cy9yZXlub2xkcy1ib2ItYnJvY2ttYW4tcmVsaW5xdWlzaGVzLWNlby10aXRsZS9KUlNIMkRHQjY1REJGRUFaVzJKREtZQjdEWS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbmV3cy9yZXlub2xkcy1ib2ItYnJvY2ttYW4tcmVsaW5xdWlzaGVzLWNlby10aXRsZS9KUlNIMkRHQjY1REJGRUFaVzJKREtZQjdEWS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 09 Nov 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbmV3cy9yZXlub2xkcy1ib2ItYnJvY2ttYW4tcmVsaW5xdWlzaGVzLWNlby10aXRsZS9KUlNIMkRHQjY1REJGRUFaVzJKREtZQjdEWS_SAQA?oc=5\" target=\"_blank\">Reynolds & Reynolds CEO facing federal charges steps down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "Dayton Daily News",
+                "$": {
+                  "url": "https://www.daytondailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds finalizes executive changes with new president, COO - Auto Remarketing"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtZmluYWxpemVzLWV4ZWN1dGl2ZS1jaGFuZ2VzLW5ldy1wcmVzaWRlbnQtY29vL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtZmluYWxpemVzLWV4ZWN1dGl2ZS1jaGFuZ2VzLW5ldy1wcmVzaWRlbnQtY29vL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtZmluYWxpemVzLWV4ZWN1dGl2ZS1jaGFuZ2VzLW5ldy1wcmVzaWRlbnQtY29vL9IBAA?oc=5\" target=\"_blank\">Reynolds finalizes executive changes with new president, COO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Remarketing</font>"
+            ],
+            "source": [
+              {
+                "_": "Auto Remarketing",
+                "$": {
+                  "url": "https://www.autoremarketing.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Melba Ownby Obituary (1926 - 2023) - Nederland, TX - The Beaumont Enterprise - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9iZWF1bW9udGVudGVycHJpc2UvbmFtZS9tZWxiYS1vd25ieS1vYml0dWFyeT9pZD01MjMxMTYwMdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9iZWF1bW9udGVudGVycHJpc2UvbmFtZS9tZWxiYS1vd25ieS1vYml0dWFyeT9pZD01MjMxMTYwMdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 25 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9iZWF1bW9udGVudGVycHJpc2UvbmFtZS9tZWxiYS1vd25ieS1vYml0dWFyeT9pZD01MjMxMTYwMdIBAA?oc=5\" target=\"_blank\">Melba Ownby Obituary (1926 - 2023) - Nederland, TX - The Beaumont Enterprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds and Reynolds CEO testifies Bob Brockman was involved in important company decisions - Automotive News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWFuZC1yZXlub2xkcy1jZW8tdGVzdGlmaWVzLWJvYi1icm9ja21hbi13YXMtaW52b2x2ZWQtaW1wb3J0YW50LWNvbXBhbnktZGVjaXNpb25z0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWFuZC1yZXlub2xkcy1jZW8tdGVzdGlmaWVzLWJvYi1icm9ja21hbi13YXMtaW52b2x2ZWQtaW1wb3J0YW50LWNvbXBhbnktZGVjaXNpb25z0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Nov 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWFuZC1yZXlub2xkcy1jZW8tdGVzdGlmaWVzLWJvYi1icm9ja21hbi13YXMtaW52b2x2ZWQtaW1wb3J0YW50LWNvbXBhbnktZGVjaXNpb25z0gEA?oc=5\" target=\"_blank\">Reynolds and Reynolds CEO testifies Bob Brockman was involved in important company decisions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
+            ],
+            "source": [
+              {
+                "_": "Automotive News",
+                "$": {
+                  "url": "https://www.autonews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Brockman's Friend Stays Mum at Hearing Amid Prosecution Risk - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIxLTExLTE4L2JpbGxpb25haXJlLXMtZnJpZW5kLXN0YXlzLW11bS1hdC1oZWFyaW5nLWFtaWQtcHJvc2VjdXRpb24tcmlza9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIxLTExLTE4L2JpbGxpb25haXJlLXMtZnJpZW5kLXN0YXlzLW11bS1hdC1oZWFyaW5nLWFtaWQtcHJvc2VjdXRpb24tcmlza9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Nov 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIxLTExLTE4L2JpbGxpb25haXJlLXMtZnJpZW5kLXN0YXlzLW11bS1hdC1oZWFyaW5nLWFtaWQtcHJvc2VjdXRpb24tcmlza9IBAA?oc=5\" target=\"_blank\">Brockman's Friend Stays Mum at Hearing Amid Prosecution Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds & Reynolds owner Brockman dies at 81 - Dayton Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbG9jYWwvcmV5bm9sZHMtYW5kLXJleW5vbGRzLW93bmVyLWJvYi1icm9ja21hbi1kaWVkLWF0LTgxL1FNWjZXTUVaS0pCN1RBMkZYSVI3UFBQNldNL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbG9jYWwvcmV5bm9sZHMtYW5kLXJleW5vbGRzLW93bmVyLWJvYi1icm9ja21hbi1kaWVkLWF0LTgxL1FNWjZXTUVaS0pCN1RBMkZYSVI3UFBQNldNL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 07 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbG9jYWwvcmV5bm9sZHMtYW5kLXJleW5vbGRzLW93bmVyLWJvYi1icm9ja21hbi1kaWVkLWF0LTgxL1FNWjZXTUVaS0pCN1RBMkZYSVI3UFBQNldNL9IBAA?oc=5\" target=\"_blank\">Reynolds & Reynolds owner Brockman dies at 81</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "Dayton Daily News",
+                "$": {
+                  "url": "https://www.daytondailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds exec to study customer challenges - Auto Remarketing"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtZXhlYy1zdHVkeS1jdXN0b21lci1jaGFsbGVuZ2VzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtZXhlYy1zdHVkeS1jdXN0b21lci1jaGFsbGVuZ2VzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 27 Apr 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtZXhlYy1zdHVkeS1jdXN0b21lci1jaGFsbGVuZ2VzL9IBAA?oc=5\" target=\"_blank\">Reynolds exec to study customer challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Remarketing</font>"
+            ],
+            "source": [
+              {
+                "_": "Auto Remarketing",
+                "$": {
+                  "url": "https://www.autoremarketing.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds to look at acquisitions, become more public-facing - Automotive News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWxvb2stYWNxdWlzaXRpb25zLWJlY29tZS1tb3JlLXB1YmxpYy1mYWNpbmfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWxvb2stYWNxdWlzaXRpb25zLWJlY29tZS1tb3JlLXB1YmxpYy1mYWNpbmfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 Feb 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWxvb2stYWNxdWlzaXRpb25zLWJlY29tZS1tb3JlLXB1YmxpYy1mYWNpbmfSAQA?oc=5\" target=\"_blank\">Reynolds to look at acquisitions, become more public-facing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
+            ],
+            "source": [
+              {
+                "_": "Automotive News",
+                "$": {
+                  "url": "https://www.autonews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Attorney: Reynolds likely safe from forfeiture in case against ex-CEO - Dayton Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5kYXl0b25kYWlseW5ld3MuY29tL25ld3MvYXR0b3JuZXktcmV5bm9sZHMtbGlrZWx5LXNhZmUtZnJvbS1mb3JmZWl0dXJlLWluLWNhc2UtYWdhaW5zdC1leC1jZW8vRlQ1RzczR1RQVkNIREtIWllMRDZBQVVCTkEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5kYXl0b25kYWlseW5ld3MuY29tL25ld3MvYXR0b3JuZXktcmV5bm9sZHMtbGlrZWx5LXNhZmUtZnJvbS1mb3JmZWl0dXJlLWluLWNhc2UtYWdhaW5zdC1leC1jZW8vRlQ1RzczR1RQVkNIREtIWllMRDZBQVVCTkEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 10 Nov 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5kYXl0b25kYWlseW5ld3MuY29tL25ld3MvYXR0b3JuZXktcmV5bm9sZHMtbGlrZWx5LXNhZmUtZnJvbS1mb3JmZWl0dXJlLWluLWNhc2UtYWdhaW5zdC1leC1jZW8vRlQ1RzczR1RQVkNIREtIWllMRDZBQVVCTkEv0gEA?oc=5\" target=\"_blank\">Attorney: Reynolds likely safe from forfeiture in case against ex-CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "Dayton Daily News",
+                "$": {
+                  "url": "https://www.daytondailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "TIMELINE: The case against former Reynolds and Reynolds CEO Bob Brockman - Automotive News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3RpbWVsaW5lLWNhc2UtYWdhaW5zdC1mb3JtZXItcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlby1ib2ItYnJvY2ttYW7SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3RpbWVsaW5lLWNhc2UtYWdhaW5zdC1mb3JtZXItcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlby1ib2ItYnJvY2ttYW7SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 27 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3RpbWVsaW5lLWNhc2UtYWdhaW5zdC1mb3JtZXItcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlby1ib2ItYnJvY2ttYW7SAQA?oc=5\" target=\"_blank\">TIMELINE: The case against former Reynolds and Reynolds CEO Bob Brockman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
+            ],
+            "source": [
+              {
+                "_": "Automotive News",
+                "$": {
+                  "url": "https://www.autonews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Report: Barra Lotto in the run-off - Fishing World"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vZmlzaGluZ3dvcmxkLmNvbS5hdS9uZXdzL3JlcG9ydC1iYXJyYS1sb3R0by1pbi10aGUtcnVuLW9mZi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vZmlzaGluZ3dvcmxkLmNvbS5hdS9uZXdzL3JlcG9ydC1iYXJyYS1sb3R0by1pbi10aGUtcnVuLW9mZi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 Feb 2015 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vZmlzaGluZ3dvcmxkLmNvbS5hdS9uZXdzL3JlcG9ydC1iYXJyYS1sb3R0by1pbi10aGUtcnVuLW9mZi_SAQA?oc=5\" target=\"_blank\">Report: Barra Lotto in the run-off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishing World</font>"
+            ],
+            "source": [
+              {
+                "_": "Fishing World",
+                "$": {
+                  "url": "https://fishingworld.com.au"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bob Brockman's cognitive abilities debated at Houston hearing - Automotive News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL2JvYi1icm9ja21hbnMtY29nbml0aXZlLWFiaWxpdGllcy1kZWJhdGVkLWhvdXN0b24taGVhcmluZ9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL2JvYi1icm9ja21hbnMtY29nbml0aXZlLWFiaWxpdGllcy1kZWJhdGVkLWhvdXN0b24taGVhcmluZ9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Nov 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL2JvYi1icm9ja21hbnMtY29nbml0aXZlLWFiaWxpdGllcy1kZWJhdGVkLWhvdXN0b24taGVhcmluZ9IBAA?oc=5\" target=\"_blank\">Bob Brockman's cognitive abilities debated at Houston hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
+            ],
+            "source": [
+              {
+                "_": "Automotive News",
+                "$": {
+                  "url": "https://www.autonews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bob Brockman ruled competent to stand trial in U.S. court for tax evasion - Automotive News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9leGVjdXRpdmVzL2JvYi1icm9ja21hbi1ydWxlZC1jb21wZXRlbnQtc3RhbmQtdHJpYWwtdXMtY291cnQtdGF4LWV2YXNpb27SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9leGVjdXRpdmVzL2JvYi1icm9ja21hbi1ydWxlZC1jb21wZXRlbnQtc3RhbmQtdHJpYWwtdXMtY291cnQtdGF4LWV2YXNpb27SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9leGVjdXRpdmVzL2JvYi1icm9ja21hbi1ydWxlZC1jb21wZXRlbnQtc3RhbmQtdHJpYWwtdXMtY291cnQtdGF4LWV2YXNpb27SAQA?oc=5\" target=\"_blank\">Bob Brockman ruled competent to stand trial in U.S. court for tax evasion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
+            ],
+            "source": [
+              {
+                "_": "Automotive News",
+                "$": {
+                  "url": "https://www.autonews.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3008 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"McKinsey\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=McKinsey&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "McKinsey and BCG warn staff face jail if they reveal Saudi work - Financial Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzcwMDlhMWE5LThlMDctNDExMy1hNDdkLWVlNDcyNGQzZDQyN9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzcwMDlhMWE5LThlMDctNDExMy1hNDdkLWVlNDcyNGQzZDQyN9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:54:45 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzcwMDlhMWE5LThlMDctNDExMy1hNDdkLWVlNDcyNGQzZDQyN9IBAA?oc=5\" target=\"_blank\">McKinsey and BCG warn staff face jail if they reveal Saudi work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Financial Times",
+                "$": {
+                  "url": "https://www.ft.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey, Bain & BCG Job Opportunities Hit Record Lows In The UK - BusinessBecause"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmJ1c2luZXNzYmVjYXVzZS5jb20vbmV3cy9pbi10aGUtbmV3cy85MTkzL21ja2luc2V5LWJhaW4tYmNnLWpvYnPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LmJ1c2luZXNzYmVjYXVzZS5jb20vbmV3cy9pbi10aGUtbmV3cy85MTkzL21ja2luc2V5LWJhaW4tYmNnLWpvYnPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 16:45:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmJ1c2luZXNzYmVjYXVzZS5jb20vbmV3cy9pbi10aGUtbmV3cy85MTkzL21ja2luc2V5LWJhaW4tYmNnLWpvYnPSAQA?oc=5\" target=\"_blank\">McKinsey, Bain & BCG Job Opportunities Hit Record Lows In The UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessBecause</font>"
+            ],
+            "source": [
+              {
+                "_": "BusinessBecause",
+                "$": {
+                  "url": "https://www.businessbecause.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey & Company Next Generation Women Leaders (NGWL) EMEA Program 2024 – Opportunity Desk - Opportunity Desk"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vb3Bwb3J0dW5pdHlkZXNrLm9yZy8yMDI0LzAyLzA3L21ja2luc2V5LWNvbXBhbnktbmd3bC1lbWVhLXByb2dyYW0tMjAyNC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vb3Bwb3J0dW5pdHlkZXNrLm9yZy8yMDI0LzAyLzA3L21ja2luc2V5LWNvbXBhbnktbmd3bC1lbWVhLXByb2dyYW0tMjAyNC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 00:03:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vb3Bwb3J0dW5pdHlkZXNrLm9yZy8yMDI0LzAyLzA3L21ja2luc2V5LWNvbXBhbnktbmd3bC1lbWVhLXByb2dyYW0tMjAyNC_SAQA?oc=5\" target=\"_blank\">McKinsey & Company Next Generation Women Leaders (NGWL) EMEA Program 2024 – Opportunity Desk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Opportunity Desk</font>"
+            ],
+            "source": [
+              {
+                "_": "Opportunity Desk",
+                "$": {
+                  "url": "https://opportunitydesk.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Digital commerce: A growth opportunity for Greece - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvZGlnaXRhbC1jb21tZXJjZS1hLWdyb3d0aC1vcHBvcnR1bml0eS1mb3ItZ3JlZWNl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvZGlnaXRhbC1jb21tZXJjZS1hLWdyb3d0aC1vcHBvcnR1bml0eS1mb3ItZ3JlZWNl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvZGlnaXRhbC1jb21tZXJjZS1hLWdyb3d0aC1vcHBvcnR1bml0eS1mb3ItZ3JlZWNl0gEA?oc=5\" target=\"_blank\">Digital commerce: A growth opportunity for Greece</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PGA-LIV Probe: McKinsey, BCG Accused of Not Cooperating With Senators - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA3L3NlbmF0b3JzLWFjY3VzZS1tY2tpbnNleS1iY2ctb2YtaGluZGVyaW5nLXBnYS1saXYtcHJvYmXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA3L3NlbmF0b3JzLWFjY3VzZS1tY2tpbnNleS1iY2ctb2YtaGluZGVyaW5nLXBnYS1saXYtcHJvYmXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 01:02:31 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA3L3NlbmF0b3JzLWFjY3VzZS1tY2tpbnNleS1iY2ctb2YtaGluZGVyaW5nLXBnYS1saXYtcHJvYmXSAQA?oc=5\" target=\"_blank\">PGA-LIV Probe: McKinsey, BCG Accused of Not Cooperating With Senators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senators Accuse McKinsey, BCG of Hindering PGA-LIV Probe - Bloomberg Tax"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3cy5ibG9vbWJlcmd0YXguY29tL2ZpbmFuY2lhbC1hY2NvdW50aW5nL3NlbmF0b3JzLWFjY3VzZS1tY2tpbnNleS1iY2ctb2YtaGluZGVyaW5nLXBnYS1saXYtcHJvYmXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vbmV3cy5ibG9vbWJlcmd0YXguY29tL2ZpbmFuY2lhbC1hY2NvdW50aW5nL3NlbmF0b3JzLWFjY3VzZS1tY2tpbnNleS1iY2ctb2YtaGluZGVyaW5nLXBnYS1saXYtcHJvYmXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:17:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3cy5ibG9vbWJlcmd0YXguY29tL2ZpbmFuY2lhbC1hY2NvdW50aW5nL3NlbmF0b3JzLWFjY3VzZS1tY2tpbnNleS1iY2ctb2YtaGluZGVyaW5nLXBnYS1saXYtcHJvYmXSAQA?oc=5\" target=\"_blank\">Senators Accuse McKinsey, BCG of Hindering PGA-LIV Probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Tax</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg Tax",
+                "$": {
+                  "url": "https://news.bloombergtax.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey: Connected EV performance trumps brand loyalty - Automotive News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9tb2JpbGl0eS1yZXBvcnQvbWNraW5zZXktY29ubmVjdGVkLWV2LXBlcmZvcm1hbmNlLXRydW1wcy1icmFuZC1sb3lhbHR50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9tb2JpbGl0eS1yZXBvcnQvbWNraW5zZXktY29ubmVjdGVkLWV2LXBlcmZvcm1hbmNlLXRydW1wcy1icmFuZC1sb3lhbHR50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:30:56 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9tb2JpbGl0eS1yZXBvcnQvbWNraW5zZXktY29ubmVjdGVkLWV2LXBlcmZvcm1hbmNlLXRydW1wcy1icmFuZC1sb3lhbHR50gEA?oc=5\" target=\"_blank\">McKinsey: Connected EV performance trumps brand loyalty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
+            ],
+            "source": [
+              {
+                "_": "Automotive News",
+                "$": {
+                  "url": "https://www.autonews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Top US consultancies face scrutiny over role in Saudi Arabia’s sports push - The Guardian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDI0L2ZlYi8wNi9jb25zdWx0YW5jaWVzLXNhdWRpLWFyYWJpYS1zcG9ydHMtdXMtc2VuYXRlLWRpc2Nsb3N1cmUtc3VicG9lbmHSAW1odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvMjAyNC9mZWIvMDYvY29uc3VsdGFuY2llcy1zYXVkaS1hcmFiaWEtc3BvcnRzLXVzLXNlbmF0ZS1kaXNjbG9zdXJlLXN1YnBvZW5h?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDI0L2ZlYi8wNi9jb25zdWx0YW5jaWVzLXNhdWRpLWFyYWJpYS1zcG9ydHMtdXMtc2VuYXRlLWRpc2Nsb3N1cmUtc3VicG9lbmHSAW1odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvMjAyNC9mZWIvMDYvY29uc3VsdGFuY2llcy1zYXVkaS1hcmFiaWEtc3BvcnRzLXVzLXNlbmF0ZS1kaXNjbG9zdXJlLXN1YnBvZW5h",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:23:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDI0L2ZlYi8wNi9jb25zdWx0YW5jaWVzLXNhdWRpLWFyYWJpYS1zcG9ydHMtdXMtc2VuYXRlLWRpc2Nsb3N1cmUtc3VicG9lbmHSAW1odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvMjAyNC9mZWIvMDYvY29uc3VsdGFuY2llcy1zYXVkaS1hcmFiaWEtc3BvcnRzLXVzLXNlbmF0ZS1kaXNjbG9zdXJlLXN1YnBvZW5h?oc=5\" target=\"_blank\">Top US consultancies face scrutiny over role in Saudi Arabia’s sports push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+            ],
+            "source": [
+              {
+                "_": "The Guardian",
+                "$": {
+                  "url": "https://www.theguardian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey Reports Global Material Circularity Has Shrunk 10% - Construction Digital"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vY29uc3RydWN0aW9uZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktcmVwb3J0cy1nbG9iYWwtbWF0ZXJpYWwtY2lyY3VsYXJpdHktaGFzLXNocnVuay0xMNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vY29uc3RydWN0aW9uZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktcmVwb3J0cy1nbG9iYWwtbWF0ZXJpYWwtY2lyY3VsYXJpdHktaGFzLXNocnVuay0xMNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 17:34:27 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vY29uc3RydWN0aW9uZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktcmVwb3J0cy1nbG9iYWwtbWF0ZXJpYWwtY2lyY3VsYXJpdHktaGFzLXNocnVuay0xMNIBAA?oc=5\" target=\"_blank\">McKinsey Reports Global Material Circularity Has Shrunk 10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Digital</font>"
+            ],
+            "source": [
+              {
+                "_": "Construction Digital",
+                "$": {
+                  "url": "https://constructiondigital.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey, BCG Warn Staff of Jail Risk for Disclosing Saudi Work - BNN Breaking"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2ZpbmFuY2UtbmF2L2J1c2luZXNzL21ja2luc2V5LWJjZy13YXJuLXN0YWZmLW9mLWphaWwtcmlzay1mb3ItZGlzY2xvc2luZy1zYXVkaS13b3Jr0gFraHR0cHM6Ly9ibm5icmVha2luZy5jb20vZmluYW5jZS1uYXYvYnVzaW5lc3MvbWNraW5zZXktYmNnLXdhcm4tc3RhZmYtb2YtamFpbC1yaXNrLWZvci1kaXNjbG9zaW5nLXNhdWRpLXdvcms?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2ZpbmFuY2UtbmF2L2J1c2luZXNzL21ja2luc2V5LWJjZy13YXJuLXN0YWZmLW9mLWphaWwtcmlzay1mb3ItZGlzY2xvc2luZy1zYXVkaS13b3Jr0gFraHR0cHM6Ly9ibm5icmVha2luZy5jb20vZmluYW5jZS1uYXYvYnVzaW5lc3MvbWNraW5zZXktYmNnLXdhcm4tc3RhZmYtb2YtamFpbC1yaXNrLWZvci1kaXNjbG9zaW5nLXNhdWRpLXdvcms",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:39:10 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2ZpbmFuY2UtbmF2L2J1c2luZXNzL21ja2luc2V5LWJjZy13YXJuLXN0YWZmLW9mLWphaWwtcmlzay1mb3ItZGlzY2xvc2luZy1zYXVkaS13b3Jr0gFraHR0cHM6Ly9ibm5icmVha2luZy5jb20vZmluYW5jZS1uYXYvYnVzaW5lc3MvbWNraW5zZXktYmNnLXdhcm4tc3RhZmYtb2YtamFpbC1yaXNrLWZvci1kaXNjbG9zaW5nLXNhdWRpLXdvcms?oc=5\" target=\"_blank\">McKinsey, BCG Warn Staff of Jail Risk for Disclosing Saudi Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNN Breaking</font>"
+            ],
+            "source": [
+              {
+                "_": "BNN Breaking",
+                "$": {
+                  "url": "https://bnnbreaking.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Generative AI in energy and materials - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9tZXRhbHMtYW5kLW1pbmluZy9vdXItaW5zaWdodHMvYmV5b25kLXRoZS1oeXBlLW5ldy1vcHBvcnR1bml0aWVzLWZvci1nZW4tYWktaW4tZW5lcmd5LWFuZC1tYXRlcmlhbHPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9tZXRhbHMtYW5kLW1pbmluZy9vdXItaW5zaWdodHMvYmV5b25kLXRoZS1oeXBlLW5ldy1vcHBvcnR1bml0aWVzLWZvci1nZW4tYWktaW4tZW5lcmd5LWFuZC1tYXRlcmlhbHPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9tZXRhbHMtYW5kLW1pbmluZy9vdXItaW5zaWdodHMvYmV5b25kLXRoZS1oeXBlLW5ldy1vcHBvcnR1bml0aWVzLWZvci1nZW4tYWktaW4tZW5lcmd5LWFuZC1tYXRlcmlhbHPSAQA?oc=5\" target=\"_blank\">Generative AI in energy and materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey in soul-searching mood after Bob Sternfels' re-election - Financial Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2VhYTk4ODFkLWRhYmQtNDg5YS1hZTRlLWUwNTMwZmZkOWUzOdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2VhYTk4ODFkLWRhYmQtNDg5YS1hZTRlLWUwNTMwZmZkOWUzOdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 17:34:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2VhYTk4ODFkLWRhYmQtNDg5YS1hZTRlLWUwNTMwZmZkOWUzOdIBAA?oc=5\" target=\"_blank\">McKinsey in soul-searching mood after Bob Sternfels' re-election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Financial Times",
+                "$": {
+                  "url": "https://www.ft.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey and Peers Slam Brakes on UK Jobs as Vacancies Dive 80% - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA1L21ja2luc2V5LWJhaW4tYmNnLXNsYW0tYnJha2VzLW9uLW5ldy11ay1oaXJlcy1hcy12YWNhbmNpZXMtZGl2ZS04MNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA1L21ja2luc2V5LWJhaW4tYmNnLXNsYW0tYnJha2VzLW9uLW5ldy11ay1oaXJlcy1hcy12YWNhbmNpZXMtZGl2ZS04MNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 05:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA1L21ja2luc2V5LWJhaW4tYmNnLXNsYW0tYnJha2VzLW9uLW5ldy11ay1oaXJlcy1hcy12YWNhbmNpZXMtZGl2ZS04MNIBAA?oc=5\" target=\"_blank\">McKinsey and Peers Slam Brakes on UK Jobs as Vacancies Dive 80%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Consumer confidence and sentiment in Europe - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2NvbnN1bWVyLXBhY2thZ2VkLWdvb2RzL291ci1pbnNpZ2h0cy9hbi11cGRhdGUtb24tZXVyb3BlYW4tY29uc3VtZXItc2VudGltZW500gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2NvbnN1bWVyLXBhY2thZ2VkLWdvb2RzL291ci1pbnNpZ2h0cy9hbi11cGRhdGUtb24tZXVyb3BlYW4tY29uc3VtZXItc2VudGltZW500gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2NvbnN1bWVyLXBhY2thZ2VkLWdvb2RzL291ci1pbnNpZ2h0cy9hbi11cGRhdGUtb24tZXVyb3BlYW4tY29uc3VtZXItc2VudGltZW500gEA?oc=5\" target=\"_blank\">Consumer confidence and sentiment in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey partners re-elect Bob Sternfels after leadership challenge - Financial Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzRhOWI0MTk5LTQ0MGItNDFmOS1iNDE5LThmOGFjMjBiMjBkMdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzRhOWI0MTk5LTQ0MGItNDFmOS1iNDE5LThmOGFjMjBiMjBkMdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 02:15:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzRhOWI0MTk5LTQ0MGItNDFmOS1iNDE5LThmOGFjMjBiMjBkMdIBAA?oc=5\" target=\"_blank\">McKinsey partners re-elect Bob Sternfels after leadership challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Financial Times",
+                "$": {
+                  "url": "https://www.ft.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The State of Fashion 2024 report - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3RhdGUtb2YtZmFzaGlvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3RhdGUtb2YtZmFzaGlvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3RhdGUtb2YtZmFzaGlvbtIBAA?oc=5\" target=\"_blank\">The State of Fashion 2024 report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Women in the Workplace 2023 report - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9kaXZlcnNpdHktYW5kLWluY2x1c2lvbi93b21lbi1pbi10aGUtd29ya3BsYWNl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9kaXZlcnNpdHktYW5kLWluY2x1c2lvbi93b21lbi1pbi10aGUtd29ya3BsYWNl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9kaXZlcnNpdHktYW5kLWluY2x1c2lvbi93b21lbi1pbi10aGUtd29ya3BsYWNl0gEA?oc=5\" target=\"_blank\">Women in the Workplace 2023 report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sporting goods industry trends for 2024 - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3BvcnRpbmctZ29vZHMtaW5kdXN0cnktdHJlbmRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3BvcnRpbmctZ29vZHMtaW5kdXN0cnktdHJlbmRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3BvcnRpbmctZ29vZHMtaW5kdXN0cnktdHJlbmRz0gEA?oc=5\" target=\"_blank\">Sporting goods industry trends for 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Palo Alto Networks CFO Dipak Golechha - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvcGFsby1hbHRvLW5ldHdvcmtzLWNmby1vbi1haS1jeWJlcnNlY3VyaXR5LWFuZC10aGUtZmluYW5jZS1sZWFkZXJzLW1hbmRhdGXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvcGFsby1hbHRvLW5ldHdvcmtzLWNmby1vbi1haS1jeWJlcnNlY3VyaXR5LWFuZC10aGUtZmluYW5jZS1sZWFkZXJzLW1hbmRhdGXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvcGFsby1hbHRvLW5ldHdvcmtzLWNmby1vbi1haS1jeWJlcnNlY3VyaXR5LWFuZC10aGUtZmluYW5jZS1sZWFkZXJzLW1hbmRhdGXSAQA?oc=5\" target=\"_blank\">Palo Alto Networks CFO Dipak Golechha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Energy organizations in transition - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL29pbC1hbmQtZ2FzL291ci1pbnNpZ2h0cy9lbmVyZ3ktb3JnYW5pemF0aW9ucy1pbi10cmFuc2l0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL29pbC1hbmQtZ2FzL291ci1pbnNpZ2h0cy9lbmVyZ3ktb3JnYW5pemF0aW9ucy1pbi10cmFuc2l0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL29pbC1hbmQtZ2FzL291ci1pbnNpZ2h0cy9lbmVyZ3ktb3JnYW5pemF0aW9ucy1pbi10cmFuc2l0aW9u0gEA?oc=5\" target=\"_blank\">Energy organizations in transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey on how US can Advance the Clean Energy Transition - Energy Digital"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktb24taG93LXVzLWNhbi1hZHZhbmNlLXRoZS1jbGVhbi1lbmVyZ3ktdHJhbnNpdGlvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktb24taG93LXVzLWNhbi1hZHZhbmNlLXRoZS1jbGVhbi1lbmVyZ3ktdHJhbnNpdGlvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 09:02:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktb24taG93LXVzLWNhbi1hZHZhbmNlLXRoZS1jbGVhbi1lbmVyZ3ktdHJhbnNpdGlvbtIBAA?oc=5\" target=\"_blank\">McKinsey on how US can Advance the Clean Energy Transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy Digital</font>"
+            ],
+            "source": [
+              {
+                "_": "Energy Digital",
+                "$": {
+                  "url": "https://energydigital.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The future of the payments industry: How managing risk can drive growth - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3Jpc2stYW5kLXJlc2lsaWVuY2Uvb3VyLWluc2lnaHRzL3RoZS1mdXR1cmUtb2YtdGhlLXBheW1lbnRzLWluZHVzdHJ5LWhvdy1tYW5hZ2luZy1yaXNrLWNhbi1kcml2ZS1ncm93dGjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3Jpc2stYW5kLXJlc2lsaWVuY2Uvb3VyLWluc2lnaHRzL3RoZS1mdXR1cmUtb2YtdGhlLXBheW1lbnRzLWluZHVzdHJ5LWhvdy1tYW5hZ2luZy1yaXNrLWNhbi1kcml2ZS1ncm93dGjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3Jpc2stYW5kLXJlc2lsaWVuY2Uvb3VyLWluc2lnaHRzL3RoZS1mdXR1cmUtb2YtdGhlLXBheW1lbnRzLWluZHVzdHJ5LWhvdy1tYW5hZ2luZy1yaXNrLWNhbi1kcml2ZS1ncm93dGjSAQA?oc=5\" target=\"_blank\">The future of the payments industry: How managing risk can drive growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey Technology Trends Outlook 2023 - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGhlLXRvcC10cmVuZHMtaW4tdGVjaNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGhlLXRvcC10cmVuZHMtaW4tdGVjaNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGhlLXRvcC10cmVuZHMtaW4tdGVjaNIBAA?oc=5\" target=\"_blank\">McKinsey Technology Trends Outlook 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What is fintech (financial technology)? - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtZmludGVjaNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtZmludGVjaNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtZmludGVjaNIBAA?oc=5\" target=\"_blank\">What is fintech (financial technology)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The trends defining the $1.8 trillion global wellness market in 2024 - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9jb25zdW1lci1wYWNrYWdlZC1nb29kcy9vdXItaW5zaWdodHMvdGhlLXRyZW5kcy1kZWZpbmluZy10aGUtMS1wb2ludC04LXRyaWxsaW9uLWRvbGxhci1nbG9iYWwtd2VsbG5lc3MtbWFya2V0LWluLTIwMjTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9jb25zdW1lci1wYWNrYWdlZC1nb29kcy9vdXItaW5zaWdodHMvdGhlLXRyZW5kcy1kZWZpbmluZy10aGUtMS1wb2ludC04LXRyaWxsaW9uLWRvbGxhci1nbG9iYWwtd2VsbG5lc3MtbWFya2V0LWluLTIwMjTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9jb25zdW1lci1wYWNrYWdlZC1nb29kcy9vdXItaW5zaWdodHMvdGhlLXRyZW5kcy1kZWZpbmluZy10aGUtMS1wb2ludC04LXRyaWxsaW9uLWRvbGxhci1nbG9iYWwtd2VsbG5lc3MtbWFya2V0LWluLTIwMjTSAQA?oc=5\" target=\"_blank\">The trends defining the $1.8 trillion global wellness market in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bob Sternfels re-elected global managing partner of McKinsey & Company - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9hYm91dC11cy9uZXctYXQtbWNraW5zZXktYmxvZy9ib2Itc3Rlcm5mZWxzLXJlLWVsZWN0ZWQtZ2xvYmFsLW1hbmFnaW5nLXBhcnRuZXItb2YtbWNraW5zZXktYW5kLWNvbXBhbnnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9hYm91dC11cy9uZXctYXQtbWNraW5zZXktYmxvZy9ib2Itc3Rlcm5mZWxzLXJlLWVsZWN0ZWQtZ2xvYmFsLW1hbmFnaW5nLXBhcnRuZXItb2YtbWNraW5zZXktYW5kLWNvbXBhbnnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9hYm91dC11cy9uZXctYXQtbWNraW5zZXktYmxvZy9ib2Itc3Rlcm5mZWxzLXJlLWVsZWN0ZWQtZ2xvYmFsLW1hbmFnaW5nLXBhcnRuZXItb2YtbWNraW5zZXktYW5kLWNvbXBhbnnSAQA?oc=5\" target=\"_blank\">Bob Sternfels re-elected global managing partner of McKinsey & Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey and Peers Slam Brakes on UK Jobs as Vacancies Dive 80% - Bloomberg Tax"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbmV3cy5ibG9vbWJlcmd0YXguY29tL2ZpbmFuY2lhbC1hY2NvdW50aW5nL21ja2luc2V5LWFuZC1wZWVycy1zbGFtLWJyYWtlcy1vbi11ay1qb2JzLWFzLXZhY2FuY2llcy1kaXZlLTgw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vbmV3cy5ibG9vbWJlcmd0YXguY29tL2ZpbmFuY2lhbC1hY2NvdW50aW5nL21ja2luc2V5LWFuZC1wZWVycy1zbGFtLWJyYWtlcy1vbi11ay1qb2JzLWFzLXZhY2FuY2llcy1kaXZlLTgw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 05:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbmV3cy5ibG9vbWJlcmd0YXguY29tL2ZpbmFuY2lhbC1hY2NvdW50aW5nL21ja2luc2V5LWFuZC1wZWVycy1zbGFtLWJyYWtlcy1vbi11ay1qb2JzLWFzLXZhY2FuY2llcy1kaXZlLTgw0gEA?oc=5\" target=\"_blank\">McKinsey and Peers Slam Brakes on UK Jobs as Vacancies Dive 80%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Tax</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg Tax",
+                "$": {
+                  "url": "https://news.bloombergtax.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hinge's CEO invested $12,000 signing bonus from McKinsey into company - Business Insider"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGluZ2VzLWNlby1pbnZlc3RlZC0xMi0wMDAtc2lnbmluZy1ib251cy1tY2tpbnNleS1pbnRvLWNvbXBhbnktMjAyNC0y0gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oaW5nZXMtY2VvLWludmVzdGVkLTEyLTAwMC1zaWduaW5nLWJvbnVzLW1ja2luc2V5LWludG8tY29tcGFueS0yMDI0LTI_YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGluZ2VzLWNlby1pbnZlc3RlZC0xMi0wMDAtc2lnbmluZy1ib251cy1tY2tpbnNleS1pbnRvLWNvbXBhbnktMjAyNC0y0gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oaW5nZXMtY2VvLWludmVzdGVkLTEyLTAwMC1zaWduaW5nLWJvbnVzLW1ja2luc2V5LWludG8tY29tcGFueS0yMDI0LTI_YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 11:07:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGluZ2VzLWNlby1pbnZlc3RlZC0xMi0wMDAtc2lnbmluZy1ib251cy1tY2tpbnNleS1pbnRvLWNvbXBhbnktMjAyNC0y0gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oaW5nZXMtY2VvLWludmVzdGVkLTEyLTAwMC1zaWduaW5nLWJvbnVzLW1ja2luc2V5LWludG8tY29tcGFueS0yMDI0LTI_YW1w?oc=5\" target=\"_blank\">Hinge's CEO invested $12,000 signing bonus from McKinsey into company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Insider",
+                "$": {
+                  "url": "https://www.businessinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Takeaways from the World Economic Forum 2024 panel at Davos - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9lbmdpbmVlcmluZy1jb25zdHJ1Y3Rpb24tYW5kLWJ1aWxkaW5nLW1hdGVyaWFscy9vdXItaW5zaWdodHMvZnJvbS10cmlhbHMtdG8tdHJpdW1waHMtaW4tYnVpbGRpbmctbWF0ZXJpYWxzLWNpcmN1bGFyaXR5LXRha2Vhd2F5cy1mcm9tLWRhdm9z0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9lbmdpbmVlcmluZy1jb25zdHJ1Y3Rpb24tYW5kLWJ1aWxkaW5nLW1hdGVyaWFscy9vdXItaW5zaWdodHMvZnJvbS10cmlhbHMtdG8tdHJpdW1waHMtaW4tYnVpbGRpbmctbWF0ZXJpYWxzLWNpcmN1bGFyaXR5LXRha2Vhd2F5cy1mcm9tLWRhdm9z0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9lbmdpbmVlcmluZy1jb25zdHJ1Y3Rpb24tYW5kLWJ1aWxkaW5nLW1hdGVyaWFscy9vdXItaW5zaWdodHMvZnJvbS10cmlhbHMtdG8tdHJpdW1waHMtaW4tYnVpbGRpbmctbWF0ZXJpYWxzLWNpcmN1bGFyaXR5LXRha2Vhd2F5cy1mcm9tLWRhdm9z0gEA?oc=5\" target=\"_blank\">Takeaways from the World Economic Forum 2024 panel at Davos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey and BCG accused of withholding information on ties with Saudi Arabia - Financial Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2YyOTM4YTEwLTM5YmItNDA0MC1hNzg2LTAwYmM5OGUwMzA2MdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2YyOTM4YTEwLTM5YmItNDA0MC1hNzg2LTAwYmM5OGUwMzA2MdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 22:52:04 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2YyOTM4YTEwLTM5YmItNDA0MC1hNzg2LTAwYmM5OGUwMzA2MdIBAA?oc=5\" target=\"_blank\">McKinsey and BCG accused of withholding information on ties with Saudi Arabia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Financial Times",
+                "$": {
+                  "url": "https://www.ft.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Economic potential of generative AI - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL3RoZS1lY29ub21pYy1wb3RlbnRpYWwtb2YtZ2VuZXJhdGl2ZS1haS10aGUtbmV4dC1wcm9kdWN0aXZpdHktZnJvbnRpZXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL3RoZS1lY29ub21pYy1wb3RlbnRpYWwtb2YtZ2VuZXJhdGl2ZS1haS10aGUtbmV4dC1wcm9kdWN0aXZpdHktZnJvbnRpZXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 14 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL3RoZS1lY29ub21pYy1wb3RlbnRpYWwtb2YtZ2VuZXJhdGl2ZS1haS10aGUtbmV4dC1wcm9kdWN0aXZpdHktZnJvbnRpZXLSAQA?oc=5\" target=\"_blank\">Economic potential of generative AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ten unsung digital and AI ideas shaping business - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGVuLXVuc3VuZy1kaWdpdGFsLWFuZC1haS1pZGVhcy1zaGFwaW5nLWJ1c2luZXNz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGVuLXVuc3VuZy1kaWdpdGFsLWFuZC1haS1pZGVhcy1zaGFwaW5nLWJ1c2luZXNz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGVuLXVuc3VuZy1kaWdpdGFsLWFuZC1haS1pZGVhcy1zaGFwaW5nLWJ1c2luZXNz0gEA?oc=5\" target=\"_blank\">Ten unsung digital and AI ideas shaping business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Private market predictions for 2024 - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9wcml2YXRlLWVxdWl0eS1hbmQtcHJpbmNpcGFsLWludmVzdG9ycy9vdXItaW5zaWdodHMvdGVuLWNvbnNpZGVyYXRpb25zLWZvci1wcml2YXRlLW1hcmtldHMtaW4tMjAyNNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9wcml2YXRlLWVxdWl0eS1hbmQtcHJpbmNpcGFsLWludmVzdG9ycy9vdXItaW5zaWdodHMvdGVuLWNvbnNpZGVyYXRpb25zLWZvci1wcml2YXRlLW1hcmtldHMtaW4tMjAyNNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9wcml2YXRlLWVxdWl0eS1hbmQtcHJpbmNpcGFsLWludmVzdG9ycy9vdXItaW5zaWdodHMvdGVuLWNvbnNpZGVyYXRpb25zLWZvci1wcml2YXRlLW1hcmtldHMtaW4tMjAyNNIBAA?oc=5\" target=\"_blank\">Private market predictions for 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How US states can advance a successful clean-energy transition - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3B1YmxpYy1zZWN0b3Ivb3VyLWluc2lnaHRzL2hvdy11cy1zdGF0ZXMtY2FuLWFkdmFuY2UtYS1zdWNjZXNzZnVsLWNsZWFuLWVuZXJneS10cmFuc2l0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3B1YmxpYy1zZWN0b3Ivb3VyLWluc2lnaHRzL2hvdy11cy1zdGF0ZXMtY2FuLWFkdmFuY2UtYS1zdWNjZXNzZnVsLWNsZWFuLWVuZXJneS10cmFuc2l0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jan 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3B1YmxpYy1zZWN0b3Ivb3VyLWluc2lnaHRzL2hvdy11cy1zdGF0ZXMtY2FuLWFkdmFuY2UtYS1zdWNjZXNzZnVsLWNsZWFuLWVuZXJneS10cmFuc2l0aW9u0gEA?oc=5\" target=\"_blank\">How US states can advance a successful clean-energy transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How product design can yield 'triple wins': Growth, margin, and sustainability - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9jb25zdW1lci1wYWNrYWdlZC1nb29kcy9vdXItaW5zaWdodHMvaG93LXByb2R1Y3QtZGVzaWduLWNhbi15aWVsZC10cmlwbGUtd2lucy1ncm93dGgtbWFyZ2luLWFuZC1zdXN0YWluYWJpbGl0edIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9jb25zdW1lci1wYWNrYWdlZC1nb29kcy9vdXItaW5zaWdodHMvaG93LXByb2R1Y3QtZGVzaWduLWNhbi15aWVsZC10cmlwbGUtd2lucy1ncm93dGgtbWFyZ2luLWFuZC1zdXN0YWluYWJpbGl0edIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9jb25zdW1lci1wYWNrYWdlZC1nb29kcy9vdXItaW5zaWdodHMvaG93LXByb2R1Y3QtZGVzaWduLWNhbi15aWVsZC10cmlwbGUtd2lucy1ncm93dGgtbWFyZ2luLWFuZC1zdXN0YWluYWJpbGl0edIBAA?oc=5\" target=\"_blank\">How product design can yield 'triple wins': Growth, margin, and sustainability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Consulting Company Executives Testify on Foreign Influence - C-SPAN "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzM5MS0xL2NvbnN1bHRpbmctY29tcGFueS1leGVjdXRpdmVzLXRlc3RpZnktZm9yZWlnbi1pbmZsdWVuY2XSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzM5MS0xL2NvbnN1bHRpbmctY29tcGFueS1leGVjdXRpdmVzLXRlc3RpZnktZm9yZWlnbi1pbmZsdWVuY2XSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:36:56 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzM5MS0xL2NvbnN1bHRpbmctY29tcGFueS1leGVjdXRpdmVzLXRlc3RpZnktZm9yZWlnbi1pbmZsdWVuY2XSAQA?oc=5\" target=\"_blank\">Consulting Company Executives Testify on Foreign Influence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C-SPAN </font>"
+            ],
+            "source": [
+              {
+                "_": "C-SPAN ",
+                "$": {
+                  "url": "https://www.c-span.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Qantas calls in McKinsey consultants as issues mount - Airport Technology"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmFpcnBvcnQtdGVjaG5vbG9neS5jb20vbmV3cy9xYW50YXMtY2FsbHMtaW4tbWNraW5zZXktY29uc3VsdGFudHMtYXMtaXNzdWVzLW1vdW50L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3LmFpcnBvcnQtdGVjaG5vbG9neS5jb20vbmV3cy9xYW50YXMtY2FsbHMtaW4tbWNraW5zZXktY29uc3VsdGFudHMtYXMtaXNzdWVzLW1vdW50L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jan 2024 17:56:26 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmFpcnBvcnQtdGVjaG5vbG9neS5jb20vbmV3cy9xYW50YXMtY2FsbHMtaW4tbWNraW5zZXktY29uc3VsdGFudHMtYXMtaXNzdWVzLW1vdW50L9IBAA?oc=5\" target=\"_blank\">Qantas calls in McKinsey consultants as issues mount</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Airport Technology</font>"
+            ],
+            "source": [
+              {
+                "_": "Airport Technology",
+                "$": {
+                  "url": "https://www.airport-technology.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ministries are falling back on McKinsey. Harvard is quietly winning the battle against hard work | Mint - Mint"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5saXZlbWludC5jb20vb3Bpbmlvbi9vbmxpbmUtdmlld3MvbWluaXN0cmllcy1hcmUtZmFsbGluZy1iYWNrLW9uLW1ja2luc2V5LWhhcnZhcmQtaXMtcXVpZXRseS13aW5uaW5nLXRoZS1iYXR0bGUtYWdhaW5zdC1oYXJkLXdvcmstMTE2OTk1MTkyOTM5NTQuaHRtbNIBpQFodHRwczovL3d3dy5saXZlbWludC5jb20vb3Bpbmlvbi9vbmxpbmUtdmlld3MvbWluaXN0cmllcy1hcmUtZmFsbGluZy1iYWNrLW9uLW1ja2luc2V5LWhhcnZhcmQtaXMtcXVpZXRseS13aW5uaW5nLXRoZS1iYXR0bGUtYWdhaW5zdC1oYXJkLXdvcmsvYW1wLTExNjk5NTE5MjkzOTU0Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioQFodHRwczovL3d3dy5saXZlbWludC5jb20vb3Bpbmlvbi9vbmxpbmUtdmlld3MvbWluaXN0cmllcy1hcmUtZmFsbGluZy1iYWNrLW9uLW1ja2luc2V5LWhhcnZhcmQtaXMtcXVpZXRseS13aW5uaW5nLXRoZS1iYXR0bGUtYWdhaW5zdC1oYXJkLXdvcmstMTE2OTk1MTkyOTM5NTQuaHRtbNIBpQFodHRwczovL3d3dy5saXZlbWludC5jb20vb3Bpbmlvbi9vbmxpbmUtdmlld3MvbWluaXN0cmllcy1hcmUtZmFsbGluZy1iYWNrLW9uLW1ja2luc2V5LWhhcnZhcmQtaXMtcXVpZXRseS13aW5uaW5nLXRoZS1iYXR0bGUtYWdhaW5zdC1oYXJkLXdvcmsvYW1wLTExNjk5NTE5MjkzOTU0Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5saXZlbWludC5jb20vb3Bpbmlvbi9vbmxpbmUtdmlld3MvbWluaXN0cmllcy1hcmUtZmFsbGluZy1iYWNrLW9uLW1ja2luc2V5LWhhcnZhcmQtaXMtcXVpZXRseS13aW5uaW5nLXRoZS1iYXR0bGUtYWdhaW5zdC1oYXJkLXdvcmstMTE2OTk1MTkyOTM5NTQuaHRtbNIBpQFodHRwczovL3d3dy5saXZlbWludC5jb20vb3Bpbmlvbi9vbmxpbmUtdmlld3MvbWluaXN0cmllcy1hcmUtZmFsbGluZy1iYWNrLW9uLW1ja2luc2V5LWhhcnZhcmQtaXMtcXVpZXRseS13aW5uaW5nLXRoZS1iYXR0bGUtYWdhaW5zdC1oYXJkLXdvcmsvYW1wLTExNjk5NTE5MjkzOTU0Lmh0bWw?oc=5\" target=\"_blank\">Ministries are falling back on McKinsey. Harvard is quietly winning the battle against hard work | Mint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>"
+            ],
+            "source": [
+              {
+                "_": "Mint",
+                "$": {
+                  "url": "https://www.livemint.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Generative AI in banking and financial services - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2ZpbmFuY2lhbC1zZXJ2aWNlcy9vdXItaW5zaWdodHMvY2FwdHVyaW5nLXRoZS1mdWxsLXZhbHVlLW9mLWdlbmVyYXRpdmUtYWktaW4tYmFua2luZ9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2ZpbmFuY2lhbC1zZXJ2aWNlcy9vdXItaW5zaWdodHMvY2FwdHVyaW5nLXRoZS1mdWxsLXZhbHVlLW9mLWdlbmVyYXRpdmUtYWktaW4tYmFua2luZ9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2ZpbmFuY2lhbC1zZXJ2aWNlcy9vdXItaW5zaWdodHMvY2FwdHVyaW5nLXRoZS1mdWxsLXZhbHVlLW9mLWdlbmVyYXRpdmUtYWktaW4tYmFua2luZ9IBAA?oc=5\" target=\"_blank\">Generative AI in banking and financial services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The future of fintech growth - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2ZpbmFuY2lhbC1zZXJ2aWNlcy9vdXItaW5zaWdodHMvZmludGVjaHMtYS1uZXctcGFyYWRpZ20tb2YtZ3Jvd3Ro0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2ZpbmFuY2lhbC1zZXJ2aWNlcy9vdXItaW5zaWdodHMvZmludGVjaHMtYS1uZXctcGFyYWRpZ20tb2YtZ3Jvd3Ro0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2ZpbmFuY2lhbC1zZXJ2aWNlcy9vdXItaW5zaWdodHMvZmludGVjaHMtYS1uZXctcGFyYWRpZ20tb2YtZ3Jvd3Ro0gEA?oc=5\" target=\"_blank\">The future of fintech growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The shape of talent in 2023 and 2024 - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcGVvcGxlLWFuZC1vcmdhbml6YXRpb25hbC1wZXJmb3JtYW5jZS9vdXItaW5zaWdodHMvdGhlLXNoYXBlLW9mLXRhbGVudC1pbi0yMDIzLWFuZC0yMDI00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcGVvcGxlLWFuZC1vcmdhbml6YXRpb25hbC1wZXJmb3JtYW5jZS9vdXItaW5zaWdodHMvdGhlLXNoYXBlLW9mLXRhbGVudC1pbi0yMDIzLWFuZC0yMDI00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcGVvcGxlLWFuZC1vcmdhbml6YXRpb25hbC1wZXJmb3JtYW5jZS9vdXItaW5zaWdodHMvdGhlLXNoYXBlLW9mLXRhbGVudC1pbi0yMDIzLWFuZC0yMDI00gEA?oc=5\" target=\"_blank\">The shape of talent in 2023 and 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What is the future of Generative AI? - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXRzLXRoZS1mdXR1cmUtb2YtZ2VuZXJhdGl2ZS1haS1hbi1lYXJseS12aWV3LWluLTE1LWNoYXJ0c9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXRzLXRoZS1mdXR1cmUtb2YtZ2VuZXJhdGl2ZS1haS1hbi1lYXJseS12aWV3LWluLTE1LWNoYXJ0c9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 25 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXRzLXRoZS1mdXR1cmUtb2YtZ2VuZXJhdGl2ZS1haS1hbi1lYXJseS12aWV3LWluLTE1LWNoYXJ0c9IBAA?oc=5\" target=\"_blank\">What is the future of Generative AI?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "In search of cloud value: Can generative AI transform cloud ROI? - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL2luLXNlYXJjaC1vZi1jbG91ZC12YWx1ZS1jYW4tZ2VuZXJhdGl2ZS1haS10cmFuc2Zvcm0tY2xvdWQtcm9p0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL2luLXNlYXJjaC1vZi1jbG91ZC12YWx1ZS1jYW4tZ2VuZXJhdGl2ZS1haS10cmFuc2Zvcm0tY2xvdWQtcm9p0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL2luLXNlYXJjaC1vZi1jbG91ZC12YWx1ZS1jYW4tZ2VuZXJhdGl2ZS1haS10cmFuc2Zvcm0tY2xvdWQtcm9p0gEA?oc=5\" target=\"_blank\">In search of cloud value: Can generative AI transform cloud ROI?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Accelerating Europe's economic competitiveness - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2FjY2VsZXJhdGluZy1ldXJvcGUtY29tcGV0aXRpdmVuZXNzLWZvci1hLW5ldy1lcmHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2FjY2VsZXJhdGluZy1ldXJvcGUtY29tcGV0aXRpdmVuZXNzLWZvci1hLW5ldy1lcmHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2FjY2VsZXJhdGluZy1ldXJvcGUtY29tcGV0aXRpdmVuZXNzLWZvci1hLW5ldy1lcmHSAQA?oc=5\" target=\"_blank\">Accelerating Europe's economic competitiveness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The beauty market in 2023: New industry trends - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvdGhlLWJlYXV0eS1tYXJrZXQtaW4tMjAyMy1hLXNwZWNpYWwtc3RhdGUtb2YtZmFzaGlvbi1yZXBvcnTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvdGhlLWJlYXV0eS1tYXJrZXQtaW4tMjAyMy1hLXNwZWNpYWwtc3RhdGUtb2YtZmFzaGlvbi1yZXBvcnTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvdGhlLWJlYXV0eS1tYXJrZXQtaW4tMjAyMy1hLXNwZWNpYWwtc3RhdGUtb2YtZmFzaGlvbi1yZXBvcnTSAQA?oc=5\" target=\"_blank\">The beauty market in 2023: New industry trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Marketing and sales soar with generative AI - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL2dyb3d0aC1tYXJrZXRpbmctYW5kLXNhbGVzL291ci1pbnNpZ2h0cy9haS1wb3dlcmVkLW1hcmtldGluZy1hbmQtc2FsZXMtcmVhY2gtbmV3LWhlaWdodHMtd2l0aC1nZW5lcmF0aXZlLWFp0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL2dyb3d0aC1tYXJrZXRpbmctYW5kLXNhbGVzL291ci1pbnNpZ2h0cy9haS1wb3dlcmVkLW1hcmtldGluZy1hbmQtc2FsZXMtcmVhY2gtbmV3LWhlaWdodHMtd2l0aC1nZW5lcmF0aXZlLWFp0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL2dyb3d0aC1tYXJrZXRpbmctYW5kLXNhbGVzL291ci1pbnNpZ2h0cy9haS1wb3dlcmVkLW1hcmtldGluZy1hbmQtc2FsZXMtcmVhY2gtbmV3LWhlaWdodHMtd2l0aC1nZW5lcmF0aXZlLWFp0gEA?oc=5\" target=\"_blank\">Marketing and sales soar with generative AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2023 Global economic outlook - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvc3RyYXRlZ3ktYW5kLWNvcnBvcmF0ZS1maW5hbmNlL291ci1pbnNpZ2h0cy9lY29ub21pYy1jb25kaXRpb25zLW91dGxvb2stMjAyM9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvc3RyYXRlZ3ktYW5kLWNvcnBvcmF0ZS1maW5hbmNlL291ci1pbnNpZ2h0cy9lY29ub21pYy1jb25kaXRpb25zLW91dGxvb2stMjAyM9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvc3RyYXRlZ3ktYW5kLWNvcnBvcmF0ZS1maW5hbmNlL291ci1pbnNpZ2h0cy9lY29ub21pYy1jb25kaXRpb25zLW91dGxvb2stMjAyM9IBAA?oc=5\" target=\"_blank\">2023 Global economic outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What every CEO should know about generative AI - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvd2hhdC1ldmVyeS1jZW8tc2hvdWxkLWtub3ctYWJvdXQtZ2VuZXJhdGl2ZS1hadIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvd2hhdC1ldmVyeS1jZW8tc2hvdWxkLWtub3ctYWJvdXQtZ2VuZXJhdGl2ZS1hadIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvd2hhdC1ldmVyeS1jZW8tc2hvdWxkLWtub3ctYWJvdXQtZ2VuZXJhdGl2ZS1hadIBAA?oc=5\" target=\"_blank\">What every CEO should know about generative AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey to pay $78 million to settle opioid claims by insurers - CNBCTV18"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS9idXNpbmVzcy9tY2tpbnNleS10by1wYXktNzgtbWlsbGlvbi1kb2xsYXJzLXRvLXNldHRsZS1vcGlvaWQtY2xhaW1zLWJ5LWluc3VyZXJzLTE4NjgwODkxLmh0bdIBeWh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS9idXNpbmVzcy9tY2tpbnNleS10by1wYXktNzgtbWlsbGlvbi1kb2xsYXJzLXRvLXNldHRsZS1vcGlvaWQtY2xhaW1zLWJ5LWluc3VyZXJzLTE4NjgwODkxLmh0bS9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS9idXNpbmVzcy9tY2tpbnNleS10by1wYXktNzgtbWlsbGlvbi1kb2xsYXJzLXRvLXNldHRsZS1vcGlvaWQtY2xhaW1zLWJ5LWluc3VyZXJzLTE4NjgwODkxLmh0bdIBeWh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS9idXNpbmVzcy9tY2tpbnNleS10by1wYXktNzgtbWlsbGlvbi1kb2xsYXJzLXRvLXNldHRsZS1vcGlvaWQtY2xhaW1zLWJ5LWluc3VyZXJzLTE4NjgwODkxLmh0bS9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 30 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS9idXNpbmVzcy9tY2tpbnNleS10by1wYXktNzgtbWlsbGlvbi1kb2xsYXJzLXRvLXNldHRsZS1vcGlvaWQtY2xhaW1zLWJ5LWluc3VyZXJzLTE4NjgwODkxLmh0bdIBeWh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS9idXNpbmVzcy9tY2tpbnNleS10by1wYXktNzgtbWlsbGlvbi1kb2xsYXJzLXRvLXNldHRsZS1vcGlvaWQtY2xhaW1zLWJ5LWluc3VyZXJzLTE4NjgwODkxLmh0bS9hbXA?oc=5\" target=\"_blank\">McKinsey to pay $78 million to settle opioid claims by insurers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBCTV18</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBCTV18",
+                "$": {
+                  "url": "https://www.cnbctv18.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Eight CEO priorities for 2024 - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvd2hhdC1tYXR0ZXJzLW1vc3QtZWlnaHQtY2VvLXByaW9yaXRpZXMtZm9yLTIwMjTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvd2hhdC1tYXR0ZXJzLW1vc3QtZWlnaHQtY2VvLXByaW9yaXRpZXMtZm9yLTIwMjTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvd2hhdC1tYXR0ZXJzLW1vc3QtZWlnaHQtY2VvLXByaW9yaXRpZXMtZm9yLTIwMjTSAQA?oc=5\" target=\"_blank\">Eight CEO priorities for 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Unleash developer productivity with generative AI - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdW5sZWFzaGluZy1kZXZlbG9wZXItcHJvZHVjdGl2aXR5LXdpdGgtZ2VuZXJhdGl2ZS1hadIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdW5sZWFzaGluZy1kZXZlbG9wZXItcHJvZHVjdGl2aXR5LXdpdGgtZ2VuZXJhdGl2ZS1hadIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 27 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdW5sZWFzaGluZy1kZXZlbG9wZXItcHJvZHVjdGl2aXR5LXdpdGgtZ2VuZXJhdGl2ZS1hadIBAA?oc=5\" target=\"_blank\">Unleash developer productivity with generative AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Consulting giant McKinsey agrees to $78 million settlement in opioid case - Hindustan Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9jb25zdWx0aW5nLWdpYW50LW1ja2luc2V5LWFncmVlcy10by03OC1taWxsaW9uLXNldHRsZW1lbnQtaW4tb3Bpb2lkLWNhc2UtMTAxNzA0MDA1MzQ4MjI4Lmh0bWzSAYsBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL3dvcmxkLW5ld3MvY29uc3VsdGluZy1naWFudC1tY2tpbnNleS1hZ3JlZXMtdG8tNzgtbWlsbGlvbi1zZXR0bGVtZW50LWluLW9waW9pZC1jYXNlLTEwMTcwNDAwNTM0ODIyOC1hbXAuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9jb25zdWx0aW5nLWdpYW50LW1ja2luc2V5LWFncmVlcy10by03OC1taWxsaW9uLXNldHRsZW1lbnQtaW4tb3Bpb2lkLWNhc2UtMTAxNzA0MDA1MzQ4MjI4Lmh0bWzSAYsBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL3dvcmxkLW5ld3MvY29uc3VsdGluZy1naWFudC1tY2tpbnNleS1hZ3JlZXMtdG8tNzgtbWlsbGlvbi1zZXR0bGVtZW50LWluLW9waW9pZC1jYXNlLTEwMTcwNDAwNTM0ODIyOC1hbXAuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 31 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9jb25zdWx0aW5nLWdpYW50LW1ja2luc2V5LWFncmVlcy10by03OC1taWxsaW9uLXNldHRsZW1lbnQtaW4tb3Bpb2lkLWNhc2UtMTAxNzA0MDA1MzQ4MjI4Lmh0bWzSAYsBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL3dvcmxkLW5ld3MvY29uc3VsdGluZy1naWFudC1tY2tpbnNleS1hZ3JlZXMtdG8tNzgtbWlsbGlvbi1zZXR0bGVtZW50LWluLW9waW9pZC1jYXNlLTEwMTcwNDAwNTM0ODIyOC1hbXAuaHRtbA?oc=5\" target=\"_blank\">Consulting giant McKinsey agrees to $78 million settlement in opioid case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Hindustan Times",
+                "$": {
+                  "url": "https://www.hindustantimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Geopolitics and the geometry of global trade - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2dlb3BvbGl0aWNzLWFuZC10aGUtZ2VvbWV0cnktb2YtZ2xvYmFsLXRyYWRl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2dlb3BvbGl0aWNzLWFuZC10aGUtZ2VvbWV0cnktb2YtZ2xvYmFsLXRyYWRl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2dlb3BvbGl0aWNzLWFuZC10aGUtZ2VvbWV0cnktb2YtZ2xvYmFsLXRyYWRl0gEA?oc=5\" target=\"_blank\">Geopolitics and the geometry of global trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What is Davos and the World Economic Forum (WEF)? - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtZGF2b3PSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtZGF2b3PSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtZGF2b3PSAQA?oc=5\" target=\"_blank\">What is Davos and the World Economic Forum (WEF)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Emami Group appoints McKinsey & Co to identify 2-3 categories to foray into - The Economic Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vaW5kdXN0cnkvY29ucy1wcm9kdWN0cy9mbWNnL2VtYW1pLWdyb3VwLWFwcG9pbnRzLW1ja2luc2V5LWNvLXRvLWlkZW50aWZ5LTItMy1jYXRlZ29yaWVzLXRvLWZvcmF5LWludG8vYXJ0aWNsZXNob3cvMTA1OTY3NjIwLmNtc9IBnwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vaW5kdXN0cnkvY29ucy1wcm9kdWN0cy9mbWNnL2VtYW1pLWdyb3VwLWFwcG9pbnRzLW1ja2luc2V5LWNvLXRvLWlkZW50aWZ5LTItMy1jYXRlZ29yaWVzLXRvLWZvcmF5LWludG8vYW1wX2FydGljbGVzaG93LzEwNTk2NzYyMC5jbXM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vaW5kdXN0cnkvY29ucy1wcm9kdWN0cy9mbWNnL2VtYW1pLWdyb3VwLWFwcG9pbnRzLW1ja2luc2V5LWNvLXRvLWlkZW50aWZ5LTItMy1jYXRlZ29yaWVzLXRvLWZvcmF5LWludG8vYXJ0aWNsZXNob3cvMTA1OTY3NjIwLmNtc9IBnwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vaW5kdXN0cnkvY29ucy1wcm9kdWN0cy9mbWNnL2VtYW1pLWdyb3VwLWFwcG9pbnRzLW1ja2luc2V5LWNvLXRvLWlkZW50aWZ5LTItMy1jYXRlZ29yaWVzLXRvLWZvcmF5LWludG8vYW1wX2FydGljbGVzaG93LzEwNTk2NzYyMC5jbXM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vaW5kdXN0cnkvY29ucy1wcm9kdWN0cy9mbWNnL2VtYW1pLWdyb3VwLWFwcG9pbnRzLW1ja2luc2V5LWNvLXRvLWlkZW50aWZ5LTItMy1jYXRlZ29yaWVzLXRvLWZvcmF5LWludG8vYXJ0aWNsZXNob3cvMTA1OTY3NjIwLmNtc9IBnwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vaW5kdXN0cnkvY29ucy1wcm9kdWN0cy9mbWNnL2VtYW1pLWdyb3VwLWFwcG9pbnRzLW1ja2luc2V5LWNvLXRvLWlkZW50aWZ5LTItMy1jYXRlZ29yaWVzLXRvLWZvcmF5LWludG8vYW1wX2FydGljbGVzaG93LzEwNTk2NzYyMC5jbXM?oc=5\" target=\"_blank\">Emami Group appoints McKinsey & Co to identify 2-3 categories to foray into</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Economic Times",
+                "$": {
+                  "url": "https://m.economictimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The power of soil: Building a regenerative agriculture business - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL3RoZS1wb3dlci1vZi1zb2lsLWJ1aWxkaW5nLWEtcmVnZW5lcmF0aXZlLWFncmljdWx0dXJlLWJ1c2luZXNz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL3RoZS1wb3dlci1vZi1zb2lsLWJ1aWxkaW5nLWEtcmVnZW5lcmF0aXZlLWFncmljdWx0dXJlLWJ1c2luZXNz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL3RoZS1wb3dlci1vZi1zb2lsLWJ1aWxkaW5nLWEtcmVnZW5lcmF0aXZlLWFncmljdWx0dXJlLWJ1c2luZXNz0gEA?oc=5\" target=\"_blank\">The power of soil: Building a regenerative agriculture business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tech careers and technology jobs - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXJlZXJzL3RlY2jSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiJWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXJlZXJzL3RlY2jSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 21:05:52 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXJlZXJzL3RlY2jSAQA?oc=5\" target=\"_blank\">Tech careers and technology jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The state of AI in 2023: Generative AI's breakout year - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcXVhbnR1bWJsYWNrL291ci1pbnNpZ2h0cy90aGUtc3RhdGUtb2YtYWktaW4tMjAyMy1nZW5lcmF0aXZlLWFpcy1icmVha291dC15ZWFy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcXVhbnR1bWJsYWNrL291ci1pbnNpZ2h0cy90aGUtc3RhdGUtb2YtYWktaW4tMjAyMy1nZW5lcmF0aXZlLWFpcy1icmVha291dC15ZWFy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcXVhbnR1bWJsYWNrL291ci1pbnNpZ2h0cy90aGUtc3RhdGUtb2YtYWktaW4tMjAyMy1nZW5lcmF0aXZlLWFpcy1icmVha291dC15ZWFy0gEA?oc=5\" target=\"_blank\">The state of AI in 2023: Generative AI's breakout year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The autonomous vehicle industry moving forward - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vZmVhdHVyZXMvbWNraW5zZXktY2VudGVyLWZvci1mdXR1cmUtbW9iaWxpdHkvb3VyLWluc2lnaHRzL2F1dG9ub21vdXMtdmVoaWNsZXMtbW92aW5nLWZvcndhcmQtcGVyc3BlY3RpdmVzLWZyb20taW5kdXN0cnktbGVhZGVyc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vZmVhdHVyZXMvbWNraW5zZXktY2VudGVyLWZvci1mdXR1cmUtbW9iaWxpdHkvb3VyLWluc2lnaHRzL2F1dG9ub21vdXMtdmVoaWNsZXMtbW92aW5nLWZvcndhcmQtcGVyc3BlY3RpdmVzLWZyb20taW5kdXN0cnktbGVhZGVyc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 05 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vZmVhdHVyZXMvbWNraW5zZXktY2VudGVyLWZvci1mdXR1cmUtbW9iaWxpdHkvb3VyLWluc2lnaHRzL2F1dG9ub21vdXMtdmVoaWNsZXMtbW92aW5nLWZvcndhcmQtcGVyc3BlY3RpdmVzLWZyb20taW5kdXN0cnktbGVhZGVyc9IBAA?oc=5\" target=\"_blank\">The autonomous vehicle industry moving forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Closing the women's health gap: A $1 trillion opportunity to improve lives and economies - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vbWhpL291ci1pbnNpZ2h0cy9jbG9zaW5nLXRoZS13b21lbnMtaGVhbHRoLWdhcC1hLTEtdHJpbGxpb24tZG9sbGFyLW9wcG9ydHVuaXR5LXRvLWltcHJvdmUtbGl2ZXMtYW5kLWVjb25vbWllc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vbWhpL291ci1pbnNpZ2h0cy9jbG9zaW5nLXRoZS13b21lbnMtaGVhbHRoLWdhcC1hLTEtdHJpbGxpb24tZG9sbGFyLW9wcG9ydHVuaXR5LXRvLWltcHJvdmUtbGl2ZXMtYW5kLWVjb25vbWllc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vbWhpL291ci1pbnNpZ2h0cy9jbG9zaW5nLXRoZS13b21lbnMtaGVhbHRoLWdhcC1hLTEtdHJpbGxpb24tZG9sbGFyLW9wcG9ydHVuaXR5LXRvLWltcHJvdmUtbGl2ZXMtYW5kLWVjb25vbWllc9IBAA?oc=5\" target=\"_blank\">Closing the women's health gap: A $1 trillion opportunity to improve lives and economies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Future of tourism: Tech, staff, and customers - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy90cmF2ZWwtbG9naXN0aWNzLWFuZC1pbmZyYXN0cnVjdHVyZS9vdXItaW5zaWdodHMvZnV0dXJlLW9mLXRvdXJpc20tYnJpZGdpbmctdGhlLWxhYm9yLWdhcC1lbmhhbmNpbmctY3VzdG9tZXItZXhwZXJpZW5jZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy90cmF2ZWwtbG9naXN0aWNzLWFuZC1pbmZyYXN0cnVjdHVyZS9vdXItaW5zaWdodHMvZnV0dXJlLW9mLXRvdXJpc20tYnJpZGdpbmctdGhlLWxhYm9yLWdhcC1lbmhhbmNpbmctY3VzdG9tZXItZXhwZXJpZW5jZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy90cmF2ZWwtbG9naXN0aWNzLWFuZC1pbmZyYXN0cnVjdHVyZS9vdXItaW5zaWdodHMvZnV0dXJlLW9mLXRvdXJpc20tYnJpZGdpbmctdGhlLWxhYm9yLWdhcC1lbmhhbmNpbmctY3VzdG9tZXItZXhwZXJpZW5jZdIBAA?oc=5\" target=\"_blank\">Future of tourism: Tech, staff, and customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Innovative growers: A view from the top - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvc3RyYXRlZ3ktYW5kLWNvcnBvcmF0ZS1maW5hbmNlL291ci1pbnNpZ2h0cy9pbm5vdmF0aXZlLWdyb3dlcnMtYS12aWV3LWZyb20tdGhlLXRvcNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvc3RyYXRlZ3ktYW5kLWNvcnBvcmF0ZS1maW5hbmNlL291ci1pbnNpZ2h0cy9pbm5vdmF0aXZlLWdyb3dlcnMtYS12aWV3LWZyb20tdGhlLXRvcNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 01 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvc3RyYXRlZ3ktYW5kLWNvcnBvcmF0ZS1maW5hbmNlL291ci1pbnNpZ2h0cy9pbm5vdmF0aXZlLWdyb3dlcnMtYS12aWV3LWZyb20tdGhlLXRvcNIBAA?oc=5\" target=\"_blank\">Innovative growers: A view from the top</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey & Company | Latest news, analysis and jobs - The Business of Fashion"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmJ1c2luZXNzb2ZmYXNoaW9uLmNvbS9vcmdhbmlzYXRpb25zL21ja2luc2V5LWNvL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vd3d3LmJ1c2luZXNzb2ZmYXNoaW9uLmNvbS9vcmdhbmlzYXRpb25zL21ja2luc2V5LWNvL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 12:45:49 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmJ1c2luZXNzb2ZmYXNoaW9uLmNvbS9vcmdhbmlzYXRpb25zL21ja2luc2V5LWNvL9IBAA?oc=5\" target=\"_blank\">McKinsey & Company | Latest news, analysis and jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business of Fashion</font>"
+            ],
+            "source": [
+              {
+                "_": "The Business of Fashion",
+                "$": {
+                  "url": "https://www.businessoffashion.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The promise of travel in the age of AI - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3RyYXZlbC1sb2dpc3RpY3MtYW5kLWluZnJhc3RydWN0dXJlL291ci1pbnNpZ2h0cy90aGUtcHJvbWlzZS1vZi10cmF2ZWwtaW4tdGhlLWFnZS1vZi1hadIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3RyYXZlbC1sb2dpc3RpY3MtYW5kLWluZnJhc3RydWN0dXJlL291ci1pbnNpZ2h0cy90aGUtcHJvbWlzZS1vZi10cmF2ZWwtaW4tdGhlLWFnZS1vZi1hadIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3RyYXZlbC1sb2dpc3RpY3MtYW5kLWluZnJhc3RydWN0dXJlL291ci1pbnNpZ2h0cy90aGUtcHJvbWlzZS1vZi10cmF2ZWwtaW4tdGhlLWFnZS1vZi1hadIBAA?oc=5\" target=\"_blank\">The promise of travel in the age of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What is AI (Artificial Intelligence)? - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtYWnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtYWnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtYWnSAQA?oc=5\" target=\"_blank\">What is AI (Artificial Intelligence)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Governance and regulation as generative AI advances - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3Jpc2stYW5kLXJlc2lsaWVuY2Uvb3VyLWluc2lnaHRzL2FzLWdlbi1haS1hZHZhbmNlcy1yZWd1bGF0b3JzLWFuZC1yaXNrLWZ1bmN0aW9ucy1ydXNoLXRvLWtlZXAtcGFjZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3Jpc2stYW5kLXJlc2lsaWVuY2Uvb3VyLWluc2lnaHRzL2FzLWdlbi1haS1hZHZhbmNlcy1yZWd1bGF0b3JzLWFuZC1yaXNrLWZ1bmN0aW9ucy1ydXNoLXRvLWtlZXAtcGFjZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3Jpc2stYW5kLXJlc2lsaWVuY2Uvb3VyLWluc2lnaHRzL2FzLWdlbi1haS1hZHZhbmNlcy1yZWd1bGF0b3JzLWFuZC1yaXNrLWZ1bmN0aW9ucy1ydXNoLXRvLWtlZXAtcGFjZdIBAA?oc=5\" target=\"_blank\">Governance and regulation as generative AI advances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What is personalization? - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtcGVyc29uYWxpemF0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtcGVyc29uYWxpemF0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtcGVyc29uYWxpemF0aW9u0gEA?oc=5\" target=\"_blank\">What is personalization?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CIO vs CTO: What's the difference? - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtYXJlLXRoZS1yZXNwb25zaWJpbGl0aWVzLW9mLWEtY2lvLXZlcnN1cy1hLWN0b9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtYXJlLXRoZS1yZXNwb25zaWJpbGl0aWVzLW9mLWEtY2lvLXZlcnN1cy1hLWN0b9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtYXJlLXRoZS1yZXNwb25zaWJpbGl0aWVzLW9mLWEtY2lvLXZlcnN1cy1hLWN0b9IBAA?oc=5\" target=\"_blank\">CIO vs CTO: What's the difference?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How to succeed in the electric two-wheeler market - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2F1dG9tb3RpdmUtYW5kLWFzc2VtYmx5L291ci1pbnNpZ2h0cy90aGUtcmVhbC1nbG9iYWwtZXYtYnV6ei1jb21lcy1vbi10d28td2hlZWxz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2F1dG9tb3RpdmUtYW5kLWFzc2VtYmx5L291ci1pbnNpZ2h0cy90aGUtcmVhbC1nbG9iYWwtZXYtYnV6ei1jb21lcy1vbi10d28td2hlZWxz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 17 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2F1dG9tb3RpdmUtYW5kLWFzc2VtYmx5L291ci1pbnNpZ2h0cy90aGUtcmVhbC1nbG9iYWwtZXYtYnV6ei1jb21lcy1vbi10d28td2hlZWxz0gEA?oc=5\" target=\"_blank\">How to succeed in the electric two-wheeler market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reinventing travel loyalty programs - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy90cmF2ZWwtbG9naXN0aWNzLWFuZC1pbmZyYXN0cnVjdHVyZS9vdXItaW5zaWdodHMvdHJhdmVsLWludmVudGVkLWxveWFsdHktYXMtd2Uta25vdy1pdC1ub3ctaXRzLXRpbWUtZm9yLXJlaW52ZW50aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy90cmF2ZWwtbG9naXN0aWNzLWFuZC1pbmZyYXN0cnVjdHVyZS9vdXItaW5zaWdodHMvdHJhdmVsLWludmVudGVkLWxveWFsdHktYXMtd2Uta25vdy1pdC1ub3ctaXRzLXRpbWUtZm9yLXJlaW52ZW50aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy90cmF2ZWwtbG9naXN0aWNzLWFuZC1pbmZyYXN0cnVjdHVyZS9vdXItaW5zaWdodHMvdHJhdmVsLWludmVudGVkLWxveWFsdHktYXMtd2Uta25vdy1pdC1ub3ctaXRzLXRpbWUtZm9yLXJlaW52ZW50aW9u0gEA?oc=5\" target=\"_blank\">Reinventing travel loyalty programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The CFO role and responsibilities in today's world - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtYXJlLXRoZS1yb2xlcy1hbmQtcmVzcG9uc2liaWxpdGllcy1vZi1hLWNmb9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtYXJlLXRoZS1yb2xlcy1hbmQtcmVzcG9uc2liaWxpdGllcy1vZi1hLWNmb9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtYXJlLXRoZS1yb2xlcy1hbmQtcmVzcG9uc2liaWxpdGllcy1vZi1hLWNmb9IBAA?oc=5\" target=\"_blank\">The CFO role and responsibilities in today's world</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "EU ethnocultural minorities and inclusive growth - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9ldXJvcGUvZXRobm9jdWx0dXJhbC1taW5vcml0aWVzLWluLWV1cm9wZS1hbi11bnRhcHBlZC1ncm93dGgtb3Bwb3J0dW5pdHnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9ldXJvcGUvZXRobm9jdWx0dXJhbC1taW5vcml0aWVzLWluLWV1cm9wZS1hbi11bnRhcHBlZC1ncm93dGgtb3Bwb3J0dW5pdHnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9ldXJvcGUvZXRobm9jdWx0dXJhbC1taW5vcml0aWVzLWluLWV1cm9wZS1hbi11bnRhcHBlZC1ncm93dGgtb3Bwb3J0dW5pdHnSAQA?oc=5\" target=\"_blank\">EU ethnocultural minorities and inclusive growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Generative AI in operations: Capturing the value - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvb3BlcmF0aW9ucy9vdXItaW5zaWdodHMvZ2VuZXJhdGl2ZS1haS1pbi1vcGVyYXRpb25zLWNhcHR1cmluZy10aGUtdmFsdWXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvb3BlcmF0aW9ucy9vdXItaW5zaWdodHMvZ2VuZXJhdGl2ZS1haS1pbi1vcGVyYXRpb25zLWNhcHR1cmluZy10aGUtdmFsdWXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvb3BlcmF0aW9ucy9vdXItaW5zaWdodHMvZ2VuZXJhdGl2ZS1haS1pbi1vcGVyYXRpb25zLWNhcHR1cmluZy10aGUtdmFsdWXSAQA?oc=5\" target=\"_blank\">Generative AI in operations: Capturing the value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Consumer holiday shopping trends in 2023 - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvaG9saWRheS1zaG9wcGluZy1pbi0yMDIzLWl0LXN0YXJ0ZWQtZWFybHktYW5kLXdpbGwtZW5kLWxhdGXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvaG9saWRheS1zaG9wcGluZy1pbi0yMDIzLWl0LXN0YXJ0ZWQtZWFybHktYW5kLXdpbGwtZW5kLWxhdGXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvaG9saWRheS1zaG9wcGluZy1pbi0yMDIzLWl0LXN0YXJ0ZWQtZWFybHktYW5kLXdpbGwtZW5kLWxhdGXSAQA?oc=5\" target=\"_blank\">Consumer holiday shopping trends in 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Retail reset: A new playbook for retail leaders - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvcmV0YWlsLXJlc2V0LWEtbmV3LXBsYXlib29rLWZvci1yZXRhaWwtbGVhZGVyc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvcmV0YWlsLXJlc2V0LWEtbmV3LXBsYXlib29rLWZvci1yZXRhaWwtbGVhZGVyc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 10 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvcmV0YWlsLXJlc2V0LWEtbmV3LXBsYXlib29rLWZvci1yZXRhaWwtbGVhZGVyc9IBAA?oc=5\" target=\"_blank\">Retail reset: A new playbook for retail leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The multiplier effect: How B2B winners grow - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvZ3Jvd3RoLW1hcmtldGluZy1hbmQtc2FsZXMvb3VyLWluc2lnaHRzL3RoZS1tdWx0aXBsaWVyLWVmZmVjdC1ob3ctYjJiLXdpbm5lcnMtZ3Jvd9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvZ3Jvd3RoLW1hcmtldGluZy1hbmQtc2FsZXMvb3VyLWluc2lnaHRzL3RoZS1tdWx0aXBsaWVyLWVmZmVjdC1ob3ctYjJiLXdpbm5lcnMtZ3Jvd9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvZ3Jvd3RoLW1hcmtldGluZy1hbmQtc2FsZXMvb3VyLWluc2lnaHRzL3RoZS1tdWx0aXBsaWVyLWVmZmVjdC1ob3ctYjJiLXdpbm5lcnMtZ3Jvd9IBAA?oc=5\" target=\"_blank\">The multiplier effect: How B2B winners grow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Generative AI and the future of work in America - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2dlbmVyYXRpdmUtYWktYW5kLXRoZS1mdXR1cmUtb2Ytd29yay1pbi1hbWVyaWNh0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2dlbmVyYXRpdmUtYWktYW5kLXRoZS1mdXR1cmUtb2Ytd29yay1pbi1hbWVyaWNh0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2dlbmVyYXRpdmUtYWktYW5kLXRoZS1mdXR1cmUtb2Ytd29yay1pbi1hbWVyaWNh0gEA?oc=5\" target=\"_blank\">Generative AI and the future of work in America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Author Talks: Mohammed Alardhi on investing in the future - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1vbi1ib29rcy9hdXRob3ItdGFsa3MtbW9oYW1tZWQtYWxhcmRoaS1vbi1pbnZlc3RpbmctaW4tdGhlLWZ1dHVyZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1vbi1ib29rcy9hdXRob3ItdGFsa3MtbW9oYW1tZWQtYWxhcmRoaS1vbi1pbnZlc3RpbmctaW4tdGhlLWZ1dHVyZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1vbi1ib29rcy9hdXRob3ItdGFsa3MtbW9oYW1tZWQtYWxhcmRoaS1vbi1pbnZlc3RpbmctaW4tdGhlLWZ1dHVyZdIBAA?oc=5\" target=\"_blank\">Author Talks: Mohammed Alardhi on investing in the future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lola Woetzel - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9vdXItcGVvcGxlL2xvbGEtd29ldHplbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9vdXItcGVvcGxlL2xvbGEtd29ldHplbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 20:10:58 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9vdXItcGVvcGxlL2xvbGEtd29ldHplbNIBAA?oc=5\" target=\"_blank\">Lola Woetzel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What is quantum computing? - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtcXVhbnR1bS1jb21wdXRpbmfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtcXVhbnR1bS1jb21wdXRpbmfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 01 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtcXVhbnR1bS1jb21wdXRpbmfSAQA?oc=5\" target=\"_blank\">What is quantum computing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Six secrets of unleashing the power of retail media - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL2dyb3d0aC1tYXJrZXRpbmctYW5kLXNhbGVzL291ci1pbnNpZ2h0cy9zaXgtc2VjcmV0cy1vZi11bmxlYXNoaW5nLXRoZS1wb3dlci1vZi1yZXRhaWwtbWVkaWHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL2dyb3d0aC1tYXJrZXRpbmctYW5kLXNhbGVzL291ci1pbnNpZ2h0cy9zaXgtc2VjcmV0cy1vZi11bmxlYXNoaW5nLXRoZS1wb3dlci1vZi1yZXRhaWwtbWVkaWHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL2dyb3d0aC1tYXJrZXRpbmctYW5kLXNhbGVzL291ci1pbnNpZ2h0cy9zaXgtc2VjcmV0cy1vZi11bmxlYXNoaW5nLXRoZS1wb3dlci1vZi1yZXRhaWwtbWVkaWHSAQA?oc=5\" target=\"_blank\">Six secrets of unleashing the power of retail media</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How to identify employee disengagement - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcGVvcGxlLWFuZC1vcmdhbml6YXRpb25hbC1wZXJmb3JtYW5jZS9vdXItaW5zaWdodHMvaG93LXRvLWlkZW50aWZ5LWVtcGxveWVlLWRpc2VuZ2FnZW1lbnTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcGVvcGxlLWFuZC1vcmdhbml6YXRpb25hbC1wZXJmb3JtYW5jZS9vdXItaW5zaWdodHMvaG93LXRvLWlkZW50aWZ5LWVtcGxveWVlLWRpc2VuZ2FnZW1lbnTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcGVvcGxlLWFuZC1vcmdhbml6YXRpb25hbC1wZXJmb3JtYW5jZS9vdXItaW5zaWdodHMvaG93LXRvLWlkZW50aWZ5LWVtcGxveWVlLWRpc2VuZ2FnZW1lbnTSAQA?oc=5\" target=\"_blank\">How to identify employee disengagement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What is digital transformation? - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtZGlnaXRhbC10cmFuc2Zvcm1hdGlvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtZGlnaXRhbC10cmFuc2Zvcm1hdGlvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 14 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtZGlnaXRhbC10cmFuc2Zvcm1hdGlvbtIBAA?oc=5\" target=\"_blank\">What is digital transformation?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What to expect in US healthcare in 2024 and beyond - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2hlYWx0aGNhcmUvb3VyLWluc2lnaHRzL3doYXQtdG8tZXhwZWN0LWluLXVzLWhlYWx0aGNhcmUtaW4tMjAyNC1hbmQtYmV5b25k0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2hlYWx0aGNhcmUvb3VyLWluc2lnaHRzL3doYXQtdG8tZXhwZWN0LWluLXVzLWhlYWx0aGNhcmUtaW4tMjAyNC1hbmQtYmV5b25k0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 05 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2hlYWx0aGNhcmUvb3VyLWluc2lnaHRzL3doYXQtdG8tZXhwZWN0LWluLXVzLWhlYWx0aGNhcmUtaW4tMjAyNC1hbmQtYmV5b25k0gEA?oc=5\" target=\"_blank\">What to expect in US healthcare in 2024 and beyond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Enabling renewable energy with battery energy storage systems - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9hdXRvbW90aXZlLWFuZC1hc3NlbWJseS9vdXItaW5zaWdodHMvZW5hYmxpbmctcmVuZXdhYmxlLWVuZXJneS13aXRoLWJhdHRlcnktZW5lcmd5LXN0b3JhZ2Utc3lzdGVtc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9hdXRvbW90aXZlLWFuZC1hc3NlbWJseS9vdXItaW5zaWdodHMvZW5hYmxpbmctcmVuZXdhYmxlLWVuZXJneS13aXRoLWJhdHRlcnktZW5lcmd5LXN0b3JhZ2Utc3lzdGVtc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9hdXRvbW90aXZlLWFuZC1hc3NlbWJseS9vdXItaW5zaWdodHMvZW5hYmxpbmctcmVuZXdhYmxlLWVuZXJneS13aXRoLWJhdHRlcnktZW5lcmd5LXN0b3JhZ2Utc3lzdGVtc9IBAA?oc=5\" target=\"_blank\">Enabling renewable energy with battery energy storage systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How innovative companies leverage technology - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvaG93LWlubm92YXRpdmUtY29tcGFuaWVzLWxldmVyYWdlLXRlY2gtdG8tb3V0cGVyZm9ybdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvaG93LWlubm92YXRpdmUtY29tcGFuaWVzLWxldmVyYWdlLXRlY2gtdG8tb3V0cGVyZm9ybdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvaG93LWlubm92YXRpdmUtY29tcGFuaWVzLWxldmVyYWdlLXRlY2gtdG8tb3V0cGVyZm9ybdIBAA?oc=5\" target=\"_blank\">How innovative companies leverage technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gen AI and the future of work - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9xdWFydGVybHkvdGhlLWZpdmUtZmlmdHkvZml2ZS1maWZ0eS1nZW4tYWktYW5kLXRoZS1mdXR1cmUtb2Ytd29ya9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9xdWFydGVybHkvdGhlLWZpdmUtZmlmdHkvZml2ZS1maWZ0eS1nZW4tYWktYW5kLXRoZS1mdXR1cmUtb2Ytd29ya9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 14:10:28 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9xdWFydGVybHkvdGhlLWZpdmUtZmlmdHkvZml2ZS1maWZ0eS1nZW4tYWktYW5kLXRoZS1mdXR1cmUtb2Ytd29ya9IBAA?oc=5\" target=\"_blank\">Gen AI and the future of work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What is a CMO (Chief Marketing Officer) - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doeS1pcy1jb2xsYWJvcmF0aW9uLWtleS10by1jbW8tc3VjY2Vzc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doeS1pcy1jb2xsYWJvcmF0aW9uLWtleS10by1jbW8tc3VjY2Vzc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doeS1pcy1jb2xsYWJvcmF0aW9uLWtleS10by1jbW8tc3VjY2Vzc9IBAA?oc=5\" target=\"_blank\">What is a CMO (Chief Marketing Officer)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "State of AI in the Middle East’s GCC countries - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL3RoZS1zdGF0ZS1vZi1haS1pbi1nY2MtY291bnRyaWVzLWFuZC1ob3ctdG8tb3ZlcmNvbWUtYWRvcHRpb24tY2hhbGxlbmdlc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL3RoZS1zdGF0ZS1vZi1haS1pbi1nY2MtY291bnRyaWVzLWFuZC1ob3ctdG8tb3ZlcmNvbWUtYWRvcHRpb24tY2hhbGxlbmdlc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL21ja2luc2V5LWRpZ2l0YWwvb3VyLWluc2lnaHRzL3RoZS1zdGF0ZS1vZi1haS1pbi1nY2MtY291bnRyaWVzLWFuZC1ob3ctdG8tb3ZlcmNvbWUtYWRvcHRpb24tY2hhbGxlbmdlc9IBAA?oc=5\" target=\"_blank\">State of AI in the Middle East’s GCC countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bob Sternfels faces run-off to remain McKinsey's global boss - Consultancy.uk"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNvbnN1bHRhbmN5LnVrL25ld3MvMzY0NDAvYm9iLXN0ZXJuZmVscy1mYWNlcy1ydW4tb2ZmLXRvLXJlbWFpbi1tY2tpbnNleXMtZ2xvYmFsLWJvc3PSAWVodHRwczovL3d3dy5jb25zdWx0YW5jeS51ay9uZXdzL2FtcC8zNjQ0MC9ib2Itc3Rlcm5mZWxzLWZhY2VzLXJ1bi1vZmYtdG8tcmVtYWluLW1ja2luc2V5cy1nbG9iYWwtYm9zcw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmNvbnN1bHRhbmN5LnVrL25ld3MvMzY0NDAvYm9iLXN0ZXJuZmVscy1mYWNlcy1ydW4tb2ZmLXRvLXJlbWFpbi1tY2tpbnNleXMtZ2xvYmFsLWJvc3PSAWVodHRwczovL3d3dy5jb25zdWx0YW5jeS51ay9uZXdzL2FtcC8zNjQ0MC9ib2Itc3Rlcm5mZWxzLWZhY2VzLXJ1bi1vZmYtdG8tcmVtYWluLW1ja2luc2V5cy1nbG9iYWwtYm9zcw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 04:04:47 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNvbnN1bHRhbmN5LnVrL25ld3MvMzY0NDAvYm9iLXN0ZXJuZmVscy1mYWNlcy1ydW4tb2ZmLXRvLXJlbWFpbi1tY2tpbnNleXMtZ2xvYmFsLWJvc3PSAWVodHRwczovL3d3dy5jb25zdWx0YW5jeS51ay9uZXdzL2FtcC8zNjQ0MC9ib2Itc3Rlcm5mZWxzLWZhY2VzLXJ1bi1vZmYtdG8tcmVtYWluLW1ja2luc2V5cy1nbG9iYWwtYm9zcw?oc=5\" target=\"_blank\">Bob Sternfels faces run-off to remain McKinsey's global boss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Consultancy.uk</font>"
+            ],
+            "source": [
+              {
+                "_": "Consultancy.uk",
+                "$": {
+                  "url": "https://www.consultancy.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Striking the balance: Catalyzing a sustainable land-use transition - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2FncmljdWx0dXJlL291ci1pbnNpZ2h0cy9zdHJpa2luZy10aGUtYmFsYW5jZS1jYXRhbHl6aW5nLWEtc3VzdGFpbmFibGUtbGFuZC11c2UtdHJhbnNpdGlvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2FncmljdWx0dXJlL291ci1pbnNpZ2h0cy9zdHJpa2luZy10aGUtYmFsYW5jZS1jYXRhbHl6aW5nLWEtc3VzdGFpbmFibGUtbGFuZC11c2UtdHJhbnNpdGlvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2FncmljdWx0dXJlL291ci1pbnNpZ2h0cy9zdHJpa2luZy10aGUtYmFsYW5jZS1jYXRhbHl6aW5nLWEtc3VzdGFpbmFibGUtbGFuZC11c2UtdHJhbnNpdGlvbtIBAA?oc=5\" target=\"_blank\">Striking the balance: Catalyzing a sustainable land-use transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AI customer service for higher customer engagement - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL29wZXJhdGlvbnMvb3VyLWluc2lnaHRzL3RoZS1uZXh0LWZyb250aWVyLW9mLWN1c3RvbWVyLWVuZ2FnZW1lbnQtYWktZW5hYmxlZC1jdXN0b21lci1zZXJ2aWNl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL29wZXJhdGlvbnMvb3VyLWluc2lnaHRzL3RoZS1uZXh0LWZyb250aWVyLW9mLWN1c3RvbWVyLWVuZ2FnZW1lbnQtYWktZW5hYmxlZC1jdXN0b21lci1zZXJ2aWNl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL29wZXJhdGlvbnMvb3VyLWluc2lnaHRzL3RoZS1uZXh0LWZyb250aWVyLW9mLWN1c3RvbWVyLWVuZ2FnZW1lbnQtYWktZW5hYmxlZC1jdXN0b21lci1zZXJ2aWNl0gEA?oc=5\" target=\"_blank\">AI customer service for higher customer engagement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Generative AI's impact on jobs and workflows - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2dlbmVyYXRpdmUtYWktaG93LXdpbGwtaXQtYWZmZWN0LWZ1dHVyZS1qb2JzLWFuZC13b3JrZmxvd3PSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2dlbmVyYXRpdmUtYWktaG93LXdpbGwtaXQtYWZmZWN0LWZ1dHVyZS1qb2JzLWFuZC13b3JrZmxvd3PSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9tZ2kvb3VyLXJlc2VhcmNoL2dlbmVyYXRpdmUtYWktaG93LXdpbGwtaXQtYWZmZWN0LWZ1dHVyZS1qb2JzLWFuZC13b3JrZmxvd3PSAQA?oc=5\" target=\"_blank\">Generative AI's impact on jobs and workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The power of partnership: How the CEO–CMO relationship can drive outsize growth - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL2dyb3d0aC1tYXJrZXRpbmctYW5kLXNhbGVzL291ci1pbnNpZ2h0cy90aGUtcG93ZXItb2YtcGFydG5lcnNoaXAtaG93LXRoZS1jZW8tY21vLXJlbGF0aW9uc2hpcC1jYW4tZHJpdmUtb3V0c2l6ZS1ncm93dGjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL2dyb3d0aC1tYXJrZXRpbmctYW5kLXNhbGVzL291ci1pbnNpZ2h0cy90aGUtcG93ZXItb2YtcGFydG5lcnNoaXAtaG93LXRoZS1jZW8tY21vLXJlbGF0aW9uc2hpcC1jYW4tZHJpdmUtb3V0c2l6ZS1ncm93dGjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 26 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL2dyb3d0aC1tYXJrZXRpbmctYW5kLXNhbGVzL291ci1pbnNpZ2h0cy90aGUtcG93ZXItb2YtcGFydG5lcnNoaXAtaG93LXRoZS1jZW8tY21vLXJlbGF0aW9uc2hpcC1jYW4tZHJpdmUtb3V0c2l6ZS1ncm93dGjSAQA?oc=5\" target=\"_blank\">The power of partnership: How the CEO–CMO relationship can drive outsize growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US holiday shopping and spending 2023 survey results - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvdXMtaG9saWRheS1zaG9wcGluZy0yMDIzLWNvbnN1bWVyLWNhdXRpb24tYW5kLXJldGFpbGVyLXJlc2lsaWVuY2XSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvdXMtaG9saWRheS1zaG9wcGluZy0yMDIzLWNvbnN1bWVyLWNhdXRpb24tYW5kLXJldGFpbGVyLXJlc2lsaWVuY2XSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvdXMtaG9saWRheS1zaG9wcGluZy0yMDIzLWNvbnN1bWVyLWNhdXRpb24tYW5kLXJldGFpbGVyLXJlc2lsaWVuY2XSAQA?oc=5\" target=\"_blank\">US holiday shopping and spending 2023 survey results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The secrets of successful family-owned businesses - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9wcml2YXRlLWVxdWl0eS1hbmQtcHJpbmNpcGFsLWludmVzdG9ycy9vdXItaW5zaWdodHMvdGhlLXNlY3JldHMtb2Ytb3V0cGVyZm9ybWluZy1mYW1pbHktb3duZWQtYnVzaW5lc3Nlcy1ob3ctdGhleS1jcmVhdGUtdmFsdWUtYW5kLWhvdy15b3UtY2FuLWJlY29tZS1vbmXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMivQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9wcml2YXRlLWVxdWl0eS1hbmQtcHJpbmNpcGFsLWludmVzdG9ycy9vdXItaW5zaWdodHMvdGhlLXNlY3JldHMtb2Ytb3V0cGVyZm9ybWluZy1mYW1pbHktb3duZWQtYnVzaW5lc3Nlcy1ob3ctdGhleS1jcmVhdGUtdmFsdWUtYW5kLWhvdy15b3UtY2FuLWJlY29tZS1vbmXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9wcml2YXRlLWVxdWl0eS1hbmQtcHJpbmNpcGFsLWludmVzdG9ycy9vdXItaW5zaWdodHMvdGhlLXNlY3JldHMtb2Ytb3V0cGVyZm9ybWluZy1mYW1pbHktb3duZWQtYnVzaW5lc3Nlcy1ob3ctdGhleS1jcmVhdGUtdmFsdWUtYW5kLWhvdy15b3UtY2FuLWJlY29tZS1vbmXSAQA?oc=5\" target=\"_blank\">The secrets of successful family-owned businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2023: The year in charts - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy8yMDIzLXllYXItaW4tcmV2aWV3LzIwMjMtdGhlLXllYXItaW4tY2hhcnRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy8yMDIzLXllYXItaW4tcmV2aWV3LzIwMjMtdGhlLXllYXItaW4tY2hhcnRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy8yMDIzLXllYXItaW4tcmV2aWV3LzIwMjMtdGhlLXllYXItaW4tY2hhcnRz0gEA?oc=5\" target=\"_blank\">2023: The year in charts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The State of Organizations in 2023 - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcGVvcGxlLWFuZC1vcmdhbml6YXRpb25hbC1wZXJmb3JtYW5jZS9vdXItaW5zaWdodHMvdGhlLXN0YXRlLW9mLW9yZ2FuaXphdGlvbnMtMjAyM9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcGVvcGxlLWFuZC1vcmdhbml6YXRpb25hbC1wZXJmb3JtYW5jZS9vdXItaW5zaWdodHMvdGhlLXN0YXRlLW9mLW9yZ2FuaXphdGlvbnMtMjAyM9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcGVvcGxlLWFuZC1vcmdhbml6YXRpb25hbC1wZXJmb3JtYW5jZS9vdXItaW5zaWdodHMvdGhlLXN0YXRlLW9mLW9yZ2FuaXphdGlvbnMtMjAyM9IBAA?oc=5\" target=\"_blank\">The State of Organizations in 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What is tokenization? - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtdG9rZW5pemF0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtdG9rZW5pemF0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 06 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtdG9rZW5pemF0aW9u0gEA?oc=5\" target=\"_blank\">What is tokenization?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

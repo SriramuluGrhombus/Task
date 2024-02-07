@@ -1,0 +1,1448 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"John T. Stankey announced\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=John+T.+Stankey+announced&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "AT&T Layoffs 2023: Telecom Giant Has Terminated Over 100,000 Jobs in 5 Years, New Cuts On the Way - CoinCodex"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vY29pbmNvZGV4LmNvbS9hcnRpY2xlLzMzOTgwL2F0dC1sYXlvZmZzLTIwMjMv0gE4aHR0cDovL2FtcC5jb2luY29kZXguY29tL2FydGljbGUvMzM5ODAvYXR0LWxheW9mZnMtMjAyMy8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiNWh0dHBzOi8vY29pbmNvZGV4LmNvbS9hcnRpY2xlLzMzOTgwL2F0dC1sYXlvZmZzLTIwMjMv0gE4aHR0cDovL2FtcC5jb2luY29kZXguY29tL2FydGljbGUvMzM5ODAvYXR0LWxheW9mZnMtMjAyMy8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 02 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vY29pbmNvZGV4LmNvbS9hcnRpY2xlLzMzOTgwL2F0dC1sYXlvZmZzLTIwMjMv0gE4aHR0cDovL2FtcC5jb2luY29kZXguY29tL2FydGljbGUvMzM5ODAvYXR0LWxheW9mZnMtMjAyMy8?oc=5\" target=\"_blank\">AT&T Layoffs 2023: Telecom Giant Has Terminated Over 100,000 Jobs in 5 Years, New Cuts On the Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCodex</font>"
+            ],
+            "source": [
+              {
+                "_": "CoinCodex",
+                "$": {
+                  "url": "https://coincodex.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO Explains Nokia Snub in $14 Billion Network Deal With Ericsson - Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vb2JzZXJ2ZXIuY29tLzIwMjMvMTIvYXR0LWNlby1qb2huLXN0YW5rZXktcmFuLWRlYWwtZXJpY3Nzb24tbm9raWEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vb2JzZXJ2ZXIuY29tLzIwMjMvMTIvYXR0LWNlby1qb2huLXN0YW5rZXktcmFuLWRlYWwtZXJpY3Nzb24tbm9raWEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vb2JzZXJ2ZXIuY29tLzIwMjMvMTIvYXR0LWNlby1qb2huLXN0YW5rZXktcmFuLWRlYWwtZXJpY3Nzb24tbm9raWEv0gEA?oc=5\" target=\"_blank\">AT&T CEO Explains Nokia Snub in $14 Billion Network Deal With Ericsson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Observer",
+                "$": {
+                  "url": "https://observer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Names John Stankey President & Chief Operating Officer and Jeff McElfresh CEO of AT&T Communications - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDE5MDkwMzAwNTYzNy9lbi9BVFQtTmFtZXMtSm9obi1TdGFua2V5LVByZXNpZGVudC1DaGllZi1PcGVyYXRpbmctT2ZmaWNlci1hbmQtSmVmZi1NY0VsZnJlc2gtQ0VPLW9mLUFUVC1Db21tdW5pY2F0aW9uc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMingFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDE5MDkwMzAwNTYzNy9lbi9BVFQtTmFtZXMtSm9obi1TdGFua2V5LVByZXNpZGVudC1DaGllZi1PcGVyYXRpbmctT2ZmaWNlci1hbmQtSmVmZi1NY0VsZnJlc2gtQ0VPLW9mLUFUVC1Db21tdW5pY2F0aW9uc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Sep 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDE5MDkwMzAwNTYzNy9lbi9BVFQtTmFtZXMtSm9obi1TdGFua2V5LVByZXNpZGVudC1DaGllZi1PcGVyYXRpbmctT2ZmaWNlci1hbmQtSmVmZi1NY0VsZnJlc2gtQ0VPLW9mLUFUVC1Db21tdW5pY2F0aW9uc9IBAA?oc=5\" target=\"_blank\">AT&T Names John Stankey President & Chief Operating Officer and Jeff McElfresh CEO of AT&T Communications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T's return-to-office mandate forces 9,000 to relocate or resign: 'Layoff wolf in RTO sheep's clothing' - New York Post "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzA2LzE1L2F0dHMtcmV0dXJuLXRvLW9mZmljZS1tYW5kYXRlLWZvcmNlcy05MDAwLXRvLXJlbG9jYXRlLW9yLXJlc2lnbi_SAWJodHRwczovL255cG9zdC5jb20vMjAyMy8wNi8xNS9hdHRzLXJldHVybi10by1vZmZpY2UtbWFuZGF0ZS1mb3JjZXMtOTAwMC10by1yZWxvY2F0ZS1vci1yZXNpZ24vYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzA2LzE1L2F0dHMtcmV0dXJuLXRvLW9mZmljZS1tYW5kYXRlLWZvcmNlcy05MDAwLXRvLXJlbG9jYXRlLW9yLXJlc2lnbi_SAWJodHRwczovL255cG9zdC5jb20vMjAyMy8wNi8xNS9hdHRzLXJldHVybi10by1vZmZpY2UtbWFuZGF0ZS1mb3JjZXMtOTAwMC10by1yZWxvY2F0ZS1vci1yZXNpZ24vYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 15 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzA2LzE1L2F0dHMtcmV0dXJuLXRvLW9mZmljZS1tYW5kYXRlLWZvcmNlcy05MDAwLXRvLXJlbG9jYXRlLW9yLXJlc2lnbi_SAWJodHRwczovL255cG9zdC5jb20vMjAyMy8wNi8xNS9hdHRzLXJldHVybi10by1vZmZpY2UtbWFuZGF0ZS1mb3JjZXMtOTAwMC10by1yZWxvY2F0ZS1vci1yZXNpZ24vYW1wLw?oc=5\" target=\"_blank\">AT&T's return-to-office mandate forces 9,000 to relocate or resign: 'Layoff wolf in RTO sheep's clothing'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post </font>"
+            ],
+            "source": [
+              {
+                "_": "New York Post ",
+                "$": {
+                  "url": "https://nypost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "EXCLUSIVE: AT&T Leases Building It Once Vacated After Mandating Return To Office - Bisnow"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJpc25vdy5jb20vYXRsYW50YS9uZXdzL29mZmljZS9hdHQtYm9vbWVyYW5ncy1vZmZpY2UtdXNlLWluLWJ1Y2toZWFkLWxlYXNpbmctMTIway1zZi0xMTk3NjTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmJpc25vdy5jb20vYXRsYW50YS9uZXdzL29mZmljZS9hdHQtYm9vbWVyYW5ncy1vZmZpY2UtdXNlLWluLWJ1Y2toZWFkLWxlYXNpbmctMTIway1zZi0xMTk3NjTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJpc25vdy5jb20vYXRsYW50YS9uZXdzL29mZmljZS9hdHQtYm9vbWVyYW5ncy1vZmZpY2UtdXNlLWluLWJ1Y2toZWFkLWxlYXNpbmctMTIway1zZi0xMTk3NjTSAQA?oc=5\" target=\"_blank\">EXCLUSIVE: AT&T Leases Building It Once Vacated After Mandating Return To Office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>"
+            ],
+            "source": [
+              {
+                "_": "Bisnow",
+                "$": {
+                  "url": "https://www.bisnow.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Names John Stankey C.E.O. as Randall Stephenson Plans to Retire (Published 2020) - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMDQvMjQvYnVzaW5lc3MvbWVkaWEvYXR0LWNlby1qb2huLXN0YW5rZXktcmFuZGFsbC1zdGVwaGVuc29uLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMDQvMjQvYnVzaW5lc3MvbWVkaWEvYXR0LWNlby1qb2huLXN0YW5rZXktcmFuZGFsbC1zdGVwaGVuc29uLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMDQvMjQvYnVzaW5lc3MvbWVkaWEvYXR0LWNlby1qb2huLXN0YW5rZXktcmFuZGFsbC1zdGVwaGVuc29uLmh0bWzSAQA?oc=5\" target=\"_blank\">AT&T Names John Stankey C.E.O. as Randall Stephenson Plans to Retire (Published 2020)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO John Stankey's biggest corporate reversal in history rejects former boss Randall Stephenson - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjEvMDUvMTcvYXR0LWNlby1zdGFua2V5cy1iaWdnZXN0LWNvcnBvcmF0ZS1yZXZlcnNhbC1pbi1oaXN0b3J5LXJlamVjdHMtc3RlcGhlbnNvbi5odG1s0gFyaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjEvMDUvMTcvYXR0LWNlby1zdGFua2V5cy1iaWdnZXN0LWNvcnBvcmF0ZS1yZXZlcnNhbC1pbi1oaXN0b3J5LXJlamVjdHMtc3RlcGhlbnNvbi5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjEvMDUvMTcvYXR0LWNlby1zdGFua2V5cy1iaWdnZXN0LWNvcnBvcmF0ZS1yZXZlcnNhbC1pbi1oaXN0b3J5LXJlamVjdHMtc3RlcGhlbnNvbi5odG1s0gFyaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjEvMDUvMTcvYXR0LWNlby1zdGFua2V5cy1iaWdnZXN0LWNvcnBvcmF0ZS1yZXZlcnNhbC1pbi1oaXN0b3J5LXJlamVjdHMtc3RlcGhlbnNvbi5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 May 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjEvMDUvMTcvYXR0LWNlby1zdGFua2V5cy1iaWdnZXN0LWNvcnBvcmF0ZS1yZXZlcnNhbC1pbi1oaXN0b3J5LXJlamVjdHMtc3RlcGhlbnNvbi5odG1s0gFyaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjEvMDUvMTcvYXR0LWNlby1zdGFua2V5cy1iaWdnZXN0LWNvcnBvcmF0ZS1yZXZlcnNhbC1pbi1oaXN0b3J5LXJlamVjdHMtc3RlcGhlbnNvbi5odG1s?oc=5\" target=\"_blank\">AT&T CEO John Stankey's biggest corporate reversal in history rejects former boss Randall Stephenson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Elevates WarnerMedia Chief John Stankey to COO - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdmFyaWV0eS5jb20vMjAxOS9iaXovbmV3cy9qb2huLXN0YW5rZXktYXR0LWVsZXZhdGVzLWNoaWVmLW9wZXJhdGluZy1vZmZpY2VyLTEyMDMzMjE0MjEv0gFjaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDE5L2Jpei9uZXdzL2pvaG4tc3RhbmtleS1hdHQtZWxldmF0ZXMtY2hpZWYtb3BlcmF0aW5nLW9mZmljZXItMTIwMzMyMTQyMS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vdmFyaWV0eS5jb20vMjAxOS9iaXovbmV3cy9qb2huLXN0YW5rZXktYXR0LWVsZXZhdGVzLWNoaWVmLW9wZXJhdGluZy1vZmZpY2VyLTEyMDMzMjE0MjEv0gFjaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDE5L2Jpei9uZXdzL2pvaG4tc3RhbmtleS1hdHQtZWxldmF0ZXMtY2hpZWYtb3BlcmF0aW5nLW9mZmljZXItMTIwMzMyMTQyMS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Sep 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdmFyaWV0eS5jb20vMjAxOS9iaXovbmV3cy9qb2huLXN0YW5rZXktYXR0LWVsZXZhdGVzLWNoaWVmLW9wZXJhdGluZy1vZmZpY2VyLTEyMDMzMjE0MjEv0gFjaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDE5L2Jpei9uZXdzL2pvaG4tc3RhbmtleS1hdHQtZWxldmF0ZXMtY2hpZWYtb3BlcmF0aW5nLW9mZmljZXItMTIwMzMyMTQyMS9hbXAv?oc=5\" target=\"_blank\">AT&T Elevates WarnerMedia Chief John Stankey to COO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "John Stankey Updates AT&T Shareholders at the 2023 UBS Conference - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL3N0YW5rZXktdWJzLWNvbmZlcmVuY2UuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL3N0YW5rZXktdWJzLWNvbmZlcmVuY2UuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL3N0YW5rZXktdWJzLWNvbmZlcmVuY2UuaHRtbNIBAA?oc=5\" target=\"_blank\">John Stankey Updates AT&T Shareholders at the 2023 UBS Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO Randall Stephenson is stepping down, to be replaced by John Stankey - CNET"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvbW9iaWxlL2F0LXQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1pcy1zdGVwcGluZy1kb3duLXRvLWJlLXJlcGxhY2VkLWJ5LWpvaG4tc3RhbmtleS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvbW9iaWxlL2F0LXQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1pcy1zdGVwcGluZy1kb3duLXRvLWJlLXJlcGxhY2VkLWJ5LWpvaG4tc3RhbmtleS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvbW9iaWxlL2F0LXQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1pcy1zdGVwcGluZy1kb3duLXRvLWJlLXJlcGxhY2VkLWJ5LWpvaG4tc3RhbmtleS_SAQA?oc=5\" target=\"_blank\">AT&T CEO Randall Stephenson is stepping down, to be replaced by John Stankey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>"
+            ],
+            "source": [
+              {
+                "_": "CNET",
+                "$": {
+                  "url": "https://www.cnet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO John Stankey says it was “time to unleash” WarnerMedia assets - The Verge"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIxLzUvMjQvMjI0NTExMTEvYXR0LWNlby1zdGFua2V5LXVubGVhc2gtYXNzZXRzLXdhcm5lcm1lZGlhLWRpc2NvdmVyeS1oYm_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIxLzUvMjQvMjI0NTExMTEvYXR0LWNlby1zdGFua2V5LXVubGVhc2gtYXNzZXRzLXdhcm5lcm1lZGlhLWRpc2NvdmVyeS1oYm_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 May 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIxLzUvMjQvMjI0NTExMTEvYXR0LWNlby1zdGFua2V5LXVubGVhc2gtYXNzZXRzLXdhcm5lcm1lZGlhLWRpc2NvdmVyeS1oYm_SAQA?oc=5\" target=\"_blank\">AT&T CEO John Stankey says it was “time to unleash” WarnerMedia assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>"
+            ],
+            "source": [
+              {
+                "_": "The Verge",
+                "$": {
+                  "url": "https://www.theverge.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WarnerMedia CEO John Stankey Promoted to Added Roles of AT&T President, COO - Hollywood Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy93YXJuZXJtZWRpYS1jZW8tam9obi1zdGFua2V5LWFkZC1yb2xlcy10aXRsZXMtYXQtdC1wcmVzaWRlbnQtY29vLTEyMzYxODUv0gGGAWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9idXNpbmVzcy9idXNpbmVzcy1uZXdzL3dhcm5lcm1lZGlhLWNlby1qb2huLXN0YW5rZXktYWRkLXJvbGVzLXRpdGxlcy1hdC10LXByZXNpZGVudC1jb28tMTIzNjE4NS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy93YXJuZXJtZWRpYS1jZW8tam9obi1zdGFua2V5LWFkZC1yb2xlcy10aXRsZXMtYXQtdC1wcmVzaWRlbnQtY29vLTEyMzYxODUv0gGGAWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9idXNpbmVzcy9idXNpbmVzcy1uZXdzL3dhcm5lcm1lZGlhLWNlby1qb2huLXN0YW5rZXktYWRkLXJvbGVzLXRpdGxlcy1hdC10LXByZXNpZGVudC1jb28tMTIzNjE4NS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Sep 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy93YXJuZXJtZWRpYS1jZW8tam9obi1zdGFua2V5LWFkZC1yb2xlcy10aXRsZXMtYXQtdC1wcmVzaWRlbnQtY29vLTEyMzYxODUv0gGGAWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9idXNpbmVzcy9idXNpbmVzcy1uZXdzL3dhcm5lcm1lZGlhLWNlby1qb2huLXN0YW5rZXktYWRkLXJvbGVzLXRpdGxlcy1hdC10LXByZXNpZGVudC1jb28tMTIzNjE4NS9hbXAv?oc=5\" target=\"_blank\">WarnerMedia CEO John Stankey Promoted to Added Roles of AT&T President, COO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hollywood Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Hollywood Reporter",
+                "$": {
+                  "url": "https://www.hollywoodreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Is One of the 2021 TIME100 Most Influential Companies - TIME"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vdGltZS5jb20vY29sbGVjdGlvbi90aW1lMTAwLWNvbXBhbmllcy81OTUzNjcxL2F0dC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOmh0dHBzOi8vdGltZS5jb20vY29sbGVjdGlvbi90aW1lMTAwLWNvbXBhbmllcy81OTUzNjcxL2F0dC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 26 Apr 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vdGltZS5jb20vY29sbGVjdGlvbi90aW1lMTAwLWNvbXBhbmllcy81OTUzNjcxL2F0dC_SAQA?oc=5\" target=\"_blank\">AT&T Is One of the 2021 TIME100 Most Influential Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIME</font>"
+            ],
+            "source": [
+              {
+                "_": "TIME",
+                "$": {
+                  "url": "https://time.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "“My Job Isn't to Build Another Netflix”: John Stankey Is Bundling HBO to Win the Streaming Wars - Vanity Fair"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnZhbml0eWZhaXIuY29tL25ld3MvMjAxOC8xMC9qb2huLXN0YW5rZXktaXMtYnVuZGxpbmctaGJvLXRvLXdpbi10aGUtc3RyZWFtaW5nLXdhcnPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LnZhbml0eWZhaXIuY29tL25ld3MvMjAxOC8xMC9qb2huLXN0YW5rZXktaXMtYnVuZGxpbmctaGJvLXRvLXdpbi10aGUtc3RyZWFtaW5nLXdhcnPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnZhbml0eWZhaXIuY29tL25ld3MvMjAxOC8xMC9qb2huLXN0YW5rZXktaXMtYnVuZGxpbmctaGJvLXRvLXdpbi10aGUtc3RyZWFtaW5nLXdhcnPSAQA?oc=5\" target=\"_blank\">“My Job Isn't to Build Another Netflix”: John Stankey Is Bundling HBO to Win the Streaming Wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vanity Fair</font>"
+            ],
+            "source": [
+              {
+                "_": "Vanity Fair",
+                "$": {
+                  "url": "https://www.vanityfair.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "John Stankey Promoted to CEO of AT&T - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMC9iaXovbmV3cy9qb2huLXN0YW5rZXktYXR0LWNlby1yYW5kYWxsLXN0ZXBoZW5zb24tMTIzNDU4OTA5OS_SAVlodHRwczovL3ZhcmlldHkuY29tLzIwMjAvYml6L25ld3Mvam9obi1zdGFua2V5LWF0dC1jZW8tcmFuZGFsbC1zdGVwaGVuc29uLTEyMzQ1ODkwOTkvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMC9iaXovbmV3cy9qb2huLXN0YW5rZXktYXR0LWNlby1yYW5kYWxsLXN0ZXBoZW5zb24tMTIzNDU4OTA5OS_SAVlodHRwczovL3ZhcmlldHkuY29tLzIwMjAvYml6L25ld3Mvam9obi1zdGFua2V5LWF0dC1jZW8tcmFuZGFsbC1zdGVwaGVuc29uLTEyMzQ1ODkwOTkvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMC9iaXovbmV3cy9qb2huLXN0YW5rZXktYXR0LWNlby1yYW5kYWxsLXN0ZXBoZW5zb24tMTIzNDU4OTA5OS_SAVlodHRwczovL3ZhcmlldHkuY29tLzIwMjAvYml6L25ld3Mvam9obi1zdGFua2V5LWF0dC1jZW8tcmFuZGFsbC1zdGVwaGVuc29uLTEyMzQ1ODkwOTkvYW1wLw?oc=5\" target=\"_blank\">John Stankey Promoted to CEO of AT&T</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How Did AT&T’s $100 Billion Time Warner Deal Go So Wrong? - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTkvYnVzaW5lc3MvbWVkaWEvYXR0LXRpbWUtd2FybmVyLWRlYWwuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTkvYnVzaW5lc3MvbWVkaWEvYXR0LXRpbWUtd2FybmVyLWRlYWwuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 28 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTkvYnVzaW5lc3MvbWVkaWEvYXR0LXRpbWUtd2FybmVyLWRlYWwuaHRtbNIBAA?oc=5\" target=\"_blank\">How Did AT&T’s $100 Billion Time Warner Deal Go So Wrong?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO Randall Stephenson is stepping down, John Stankey to serve as new CEO - The Verge"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIwLzQvMjQvMjEyMzQ0MzMvYXR0LWNlby1yYW5kYWxsLXN0ZXBoZW5zb24tcmV0aXJlLXJlcGxhY2VtZW50LWpvaG4tc3RhbmtleS1jb2_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIwLzQvMjQvMjEyMzQ0MzMvYXR0LWNlby1yYW5kYWxsLXN0ZXBoZW5zb24tcmV0aXJlLXJlcGxhY2VtZW50LWpvaG4tc3RhbmtleS1jb2_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIwLzQvMjQvMjEyMzQ0MzMvYXR0LWNlby1yYW5kYWxsLXN0ZXBoZW5zb24tcmV0aXJlLXJlcGxhY2VtZW50LWpvaG4tc3RhbmtleS1jb2_SAQA?oc=5\" target=\"_blank\">AT&T CEO Randall Stephenson is stepping down, John Stankey to serve as new CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>"
+            ],
+            "source": [
+              {
+                "_": "The Verge",
+                "$": {
+                  "url": "https://www.theverge.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "With John Stankey as New CEO, AT&T Looks to Stay the Course Following Randall Stephenson’s Surprise Exit - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMC9iaXovbmV3cy9hdHQtam9obi1zdGFua2V5LXJhbmRhbGwtc3RlcGhlbnNvbi0xMjM0NTkyNjMzL9IBVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMC9iaXovbmV3cy9hdHQtam9obi1zdGFua2V5LXJhbmRhbGwtc3RlcGhlbnNvbi0xMjM0NTkyNjMzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMC9iaXovbmV3cy9hdHQtam9obi1zdGFua2V5LXJhbmRhbGwtc3RlcGhlbnNvbi0xMjM0NTkyNjMzL9IBVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMC9iaXovbmV3cy9hdHQtam9obi1zdGFua2V5LXJhbmRhbGwtc3RlcGhlbnNvbi0xMjM0NTkyNjMzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMC9iaXovbmV3cy9hdHQtam9obi1zdGFua2V5LXJhbmRhbGwtc3RlcGhlbnNvbi0xMjM0NTkyNjMzL9IBVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMC9iaXovbmV3cy9hdHQtam9obi1zdGFua2V5LXJhbmRhbGwtc3RlcGhlbnNvbi0xMjM0NTkyNjMzL2FtcC8?oc=5\" target=\"_blank\">With John Stankey as New CEO, AT&T Looks to Stay the Course Following Randall Stephenson’s Surprise Exit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Confirms John Stankey Will Oversee Time Warner Post-Merger - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdmFyaWV0eS5jb20vMjAxNy9iaXovbmV3cy9hdHQtdGltZS13YXJuZXItam9obi1zdGFua2V5LTEyMDI1MTAwMDgv0gFOaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDE3L2Jpei9uZXdzL2F0dC10aW1lLXdhcm5lci1qb2huLXN0YW5rZXktMTIwMjUxMDAwOC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vdmFyaWV0eS5jb20vMjAxNy9iaXovbmV3cy9hdHQtdGltZS13YXJuZXItam9obi1zdGFua2V5LTEyMDI1MTAwMDgv0gFOaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDE3L2Jpei9uZXdzL2F0dC10aW1lLXdhcm5lci1qb2huLXN0YW5rZXktMTIwMjUxMDAwOC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdmFyaWV0eS5jb20vMjAxNy9iaXovbmV3cy9hdHQtdGltZS13YXJuZXItam9obi1zdGFua2V5LTEyMDI1MTAwMDgv0gFOaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDE3L2Jpei9uZXdzL2F0dC10aW1lLXdhcm5lci1qb2huLXN0YW5rZXktMTIwMjUxMDAwOC9hbXAv?oc=5\" target=\"_blank\">AT&T Confirms John Stankey Will Oversee Time Warner Post-Merger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Sets Plan to Spin Off WarnerMedia in $43 Billion Deal - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMi9iaXovbmV3cy9hdHQtc3Bpbi1vZmYtd2FybmVybWVkaWEtNDMtYmlsbGlvbi1kZWFsLTEyMzUxNjg0ODAv0gFaaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIyL2Jpei9uZXdzL2F0dC1zcGluLW9mZi13YXJuZXJtZWRpYS00My1iaWxsaW9uLWRlYWwtMTIzNTE2ODQ4MC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMi9iaXovbmV3cy9hdHQtc3Bpbi1vZmYtd2FybmVybWVkaWEtNDMtYmlsbGlvbi1kZWFsLTEyMzUxNjg0ODAv0gFaaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIyL2Jpei9uZXdzL2F0dC1zcGluLW9mZi13YXJuZXJtZWRpYS00My1iaWxsaW9uLWRlYWwtMTIzNTE2ODQ4MC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Feb 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMi9iaXovbmV3cy9hdHQtc3Bpbi1vZmYtd2FybmVybWVkaWEtNDMtYmlsbGlvbi1kZWFsLTEyMzUxNjg0ODAv0gFaaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIyL2Jpei9uZXdzL2F0dC1zcGluLW9mZi13YXJuZXJtZWRpYS00My1iaWxsaW9uLWRlYWwtMTIzNTE2ODQ4MC9hbXAv?oc=5\" target=\"_blank\">AT&T Sets Plan to Spin Off WarnerMedia in $43 Billion Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO downplays AWS Private 5G - FierceWireless"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS9wcml2YXRlLXdpcmVsZXNzL2F0dC1jZW8tZG93bnBsYXlzLWF3cy1wcml2YXRlLTVn0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS9wcml2YXRlLXdpcmVsZXNzL2F0dC1jZW8tZG93bnBsYXlzLWF3cy1wcml2YXRlLTVn0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmZpZXJjZXdpcmVsZXNzLmNvbS9wcml2YXRlLXdpcmVsZXNzL2F0dC1jZW8tZG93bnBsYXlzLWF3cy1wcml2YXRlLTVn0gEA?oc=5\" target=\"_blank\">AT&T CEO downplays AWS Private 5G</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FierceWireless</font>"
+            ],
+            "source": [
+              {
+                "_": "FierceWireless",
+                "$": {
+                  "url": "https://www.fiercewireless.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "John Stankey to Take Over from Randall Stephenson as CEO of AT&T - The Fast Mode"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZWZhc3Rtb2RlLmNvbS9sZWFkZXJzaGlwLWFuZC1tYW5hZ2VtZW50LzE2OTY2LWpvaG4tc3RhbmtleS10by10YWtlLW92ZXItZnJvbS1yYW5kYWxsLXN0ZXBoZW5zb24tYXMtY2VvLW9mLWF0LXTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LnRoZWZhc3Rtb2RlLmNvbS9sZWFkZXJzaGlwLWFuZC1tYW5hZ2VtZW50LzE2OTY2LWpvaG4tc3RhbmtleS10by10YWtlLW92ZXItZnJvbS1yYW5kYWxsLXN0ZXBoZW5zb24tYXMtY2VvLW9mLWF0LXTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZWZhc3Rtb2RlLmNvbS9sZWFkZXJzaGlwLWFuZC1tYW5hZ2VtZW50LzE2OTY2LWpvaG4tc3RhbmtleS10by10YWtlLW92ZXItZnJvbS1yYW5kYWxsLXN0ZXBoZW5zb24tYXMtY2VvLW9mLWF0LXTSAQA?oc=5\" target=\"_blank\">John Stankey to Take Over from Randall Stephenson as CEO of AT&T</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fast Mode</font>"
+            ],
+            "source": [
+              {
+                "_": "The Fast Mode",
+                "$": {
+                  "url": "https://www.thefastmode.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO Says It Was “Time to Unleash” WarnerMedia in Discovery Deal - Hollywood Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9idXNpbmVzcy9idXNpbmVzcy1uZXdzL3dhcm5lcm1lZGlhLWRpc2NvdmVyeS1tZXJnZXItYXR0LWNlby11bmxlYXNoLTEyMzQ5NTcwNzYv0gF1aHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL2J1c2luZXNzL2J1c2luZXNzLW5ld3Mvd2FybmVybWVkaWEtZGlzY292ZXJ5LW1lcmdlci1hdHQtY2VvLXVubGVhc2gtMTIzNDk1NzA3Ni9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9idXNpbmVzcy9idXNpbmVzcy1uZXdzL3dhcm5lcm1lZGlhLWRpc2NvdmVyeS1tZXJnZXItYXR0LWNlby11bmxlYXNoLTEyMzQ5NTcwNzYv0gF1aHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL2J1c2luZXNzL2J1c2luZXNzLW5ld3Mvd2FybmVybWVkaWEtZGlzY292ZXJ5LW1lcmdlci1hdHQtY2VvLXVubGVhc2gtMTIzNDk1NzA3Ni9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 May 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9idXNpbmVzcy9idXNpbmVzcy1uZXdzL3dhcm5lcm1lZGlhLWRpc2NvdmVyeS1tZXJnZXItYXR0LWNlby11bmxlYXNoLTEyMzQ5NTcwNzYv0gF1aHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL2J1c2luZXNzL2J1c2luZXNzLW5ld3Mvd2FybmVybWVkaWEtZGlzY292ZXJ5LW1lcmdlci1hdHQtY2VvLXVubGVhc2gtMTIzNDk1NzA3Ni9hbXAv?oc=5\" target=\"_blank\">AT&T CEO Says It Was “Time to Unleash” WarnerMedia in Discovery Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hollywood Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Hollywood Reporter",
+                "$": {
+                  "url": "https://www.hollywoodreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T HR Chief Is Leaving as Company Cuts Thousands of Jobs - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90LWhyLWNoaWVmLWxlYXZpbmctY29tcGFueS0yMDQzMDM0NzYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90LWhyLWNoaWVmLWxlYXZpbmctY29tcGFueS0yMDQzMDM0NzYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 31 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90LWhyLWNoaWVmLWxlYXZpbmctY29tcGFueS0yMDQzMDM0NzYuaHRtbNIBAA?oc=5\" target=\"_blank\">AT&T HR Chief Is Leaving as Company Cuts Thousands of Jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO Randall Stephenson to Step Down, John Stankey Will Take the Reins - IndieWire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmluZGlld2lyZS5jb20vZmVhdHVyZXMvZ2VuZXJhbC9hdHQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1zdGVwLWRvd24tMTIwMjIyNzMwNS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3LmluZGlld2lyZS5jb20vZmVhdHVyZXMvZ2VuZXJhbC9hdHQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1zdGVwLWRvd24tMTIwMjIyNzMwNS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmluZGlld2lyZS5jb20vZmVhdHVyZXMvZ2VuZXJhbC9hdHQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1zdGVwLWRvd24tMTIwMjIyNzMwNS_SAQA?oc=5\" target=\"_blank\">AT&T CEO Randall Stephenson to Step Down, John Stankey Will Take the Reins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndieWire</font>"
+            ],
+            "source": [
+              {
+                "_": "IndieWire",
+                "$": {
+                  "url": "https://www.indiewire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Exec John Stankey Confirmed to Run Time Warner - Hollywood Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9uZXdzL2dlbmVyYWwtbmV3cy9hdC10LWV4ZWMtam9obi1zdGFua2V5LWNvbmZpcm1lZC1ydW4tdGltZS13YXJuZXItMTAyNTE4MS_SAXFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vbmV3cy9nZW5lcmFsLW5ld3MvYXQtdC1leGVjLWpvaG4tc3RhbmtleS1jb25maXJtZWQtcnVuLXRpbWUtd2FybmVyLTEwMjUxODEvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9uZXdzL2dlbmVyYWwtbmV3cy9hdC10LWV4ZWMtam9obi1zdGFua2V5LWNvbmZpcm1lZC1ydW4tdGltZS13YXJuZXItMTAyNTE4MS_SAXFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vbmV3cy9nZW5lcmFsLW5ld3MvYXQtdC1leGVjLWpvaG4tc3RhbmtleS1jb25maXJtZWQtcnVuLXRpbWUtd2FybmVyLTEwMjUxODEvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9uZXdzL2dlbmVyYWwtbmV3cy9hdC10LWV4ZWMtam9obi1zdGFua2V5LWNvbmZpcm1lZC1ydW4tdGltZS13YXJuZXItMTAyNTE4MS_SAXFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vbmV3cy9nZW5lcmFsLW5ld3MvYXQtdC1leGVjLWpvaG4tc3RhbmtleS1jb25maXJtZWQtcnVuLXRpbWUtd2FybmVyLTEwMjUxODEvYW1wLw?oc=5\" target=\"_blank\">AT&T Exec John Stankey Confirmed to Run Time Warner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hollywood Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Hollywood Reporter",
+                "$": {
+                  "url": "https://www.hollywoodreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T’s John Stankey: ‘No place is safe’ from company-wide cost cuts in 2020 - The Dallas Morning News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9idXNpbmVzcy90ZWNobm9sb2d5LzIwMTkvMTIvMTAvYXR0cy1qb2huLXN0YW5rZXktbm8tcGxhY2UtaXMtc2FmZS1mcm9tLWNvbXBhbnktd2lkZS1jb3N0LWN1dHMtaW4tMjAyMC_SAZABaHR0cHM6Ly93d3cuZGFsbGFzbmV3cy5jb20vYnVzaW5lc3MvdGVjaG5vbG9neS8yMDE5LzEyLzEwL2F0dHMtam9obi1zdGFua2V5LW5vLXBsYWNlLWlzLXNhZmUtZnJvbS1jb21wYW55LXdpZGUtY29zdC1jdXRzLWluLTIwMjAvP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9idXNpbmVzcy90ZWNobm9sb2d5LzIwMTkvMTIvMTAvYXR0cy1qb2huLXN0YW5rZXktbm8tcGxhY2UtaXMtc2FmZS1mcm9tLWNvbXBhbnktd2lkZS1jb3N0LWN1dHMtaW4tMjAyMC_SAZABaHR0cHM6Ly93d3cuZGFsbGFzbmV3cy5jb20vYnVzaW5lc3MvdGVjaG5vbG9neS8yMDE5LzEyLzEwL2F0dHMtam9obi1zdGFua2V5LW5vLXBsYWNlLWlzLXNhZmUtZnJvbS1jb21wYW55LXdpZGUtY29zdC1jdXRzLWluLTIwMjAvP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 10 Dec 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9idXNpbmVzcy90ZWNobm9sb2d5LzIwMTkvMTIvMTAvYXR0cy1qb2huLXN0YW5rZXktbm8tcGxhY2UtaXMtc2FmZS1mcm9tLWNvbXBhbnktd2lkZS1jb3N0LWN1dHMtaW4tMjAyMC_SAZABaHR0cHM6Ly93d3cuZGFsbGFzbmV3cy5jb20vYnVzaW5lc3MvdGVjaG5vbG9neS8yMDE5LzEyLzEwL2F0dHMtam9obi1zdGFua2V5LW5vLXBsYWNlLWlzLXNhZmUtZnJvbS1jb21wYW55LXdpZGUtY29zdC1jdXRzLWluLTIwMjAvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">AT&T’s John Stankey: ‘No place is safe’ from company-wide cost cuts in 2020</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dallas Morning News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Dallas Morning News",
+                "$": {
+                  "url": "https://www.dallasnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T announces $43 billion deal to merge WarnerMedia with Discovery - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjEvMDUvMTcvYXR0LXRvLWNvbWJpbmUtd2FybmVybWVkaWEtYW5kLWRpc2NvdmVyeS1hc3NldHMtdG8tY3JlYXRlLWEtbmV3LXN0YW5kYWxvbmUtY29tcGFueS5odG1s0gF7aHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjEvMDUvMTcvYXR0LXRvLWNvbWJpbmUtd2FybmVybWVkaWEtYW5kLWRpc2NvdmVyeS1hc3NldHMtdG8tY3JlYXRlLWEtbmV3LXN0YW5kYWxvbmUtY29tcGFueS5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjEvMDUvMTcvYXR0LXRvLWNvbWJpbmUtd2FybmVybWVkaWEtYW5kLWRpc2NvdmVyeS1hc3NldHMtdG8tY3JlYXRlLWEtbmV3LXN0YW5kYWxvbmUtY29tcGFueS5odG1s0gF7aHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjEvMDUvMTcvYXR0LXRvLWNvbWJpbmUtd2FybmVybWVkaWEtYW5kLWRpc2NvdmVyeS1hc3NldHMtdG8tY3JlYXRlLWEtbmV3LXN0YW5kYWxvbmUtY29tcGFueS5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 May 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjEvMDUvMTcvYXR0LXRvLWNvbWJpbmUtd2FybmVybWVkaWEtYW5kLWRpc2NvdmVyeS1hc3NldHMtdG8tY3JlYXRlLWEtbmV3LXN0YW5kYWxvbmUtY29tcGFueS5odG1s0gF7aHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjEvMDUvMTcvYXR0LXRvLWNvbWJpbmUtd2FybmVybWVkaWEtYW5kLWRpc2NvdmVyeS1hc3NldHMtdG8tY3JlYXRlLWEtbmV3LXN0YW5kYWxvbmUtY29tcGFueS5odG1s?oc=5\" target=\"_blank\">AT&T announces $43 billion deal to merge WarnerMedia with Discovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T Executive Taking Over HBO and CNN Promises a Hands-Off Approach (Published 2018) - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTgvMDYvMTUvYnVzaW5lc3MvbWVkaWEvd2FybmVybWVkaWEtam9obi1zdGFua2V5LXRpbWUtd2FybmVyLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTgvMDYvMTUvYnVzaW5lc3MvbWVkaWEvd2FybmVybWVkaWEtam9obi1zdGFua2V5LXRpbWUtd2FybmVyLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Jun 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTgvMDYvMTUvYnVzaW5lc3MvbWVkaWEvd2FybmVybWVkaWEtam9obi1zdGFua2V5LXRpbWUtd2FybmVyLmh0bWzSAQA?oc=5\" target=\"_blank\">AT&T Executive Taking Over HBO and CNN Promises a Hands-Off Approach (Published 2018)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO Randall Stephenson Retiring, COO John Stankey Promoted To Top Job Starting In July - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjAvMDQvYXR0LWNvby1qb2huLXN0YW5rZXktcmVwbGFjZS1yZXRpcmluZy1yYW5kYWxsLXN0ZXBoZW5zb24tY2VvLWluLWp1bHktMTIwMjkxNjk5OS_SAXFodHRwczovL2RlYWRsaW5lLmNvbS8yMDIwLzA0L2F0dC1jb28tam9obi1zdGFua2V5LXJlcGxhY2UtcmV0aXJpbmctcmFuZGFsbC1zdGVwaGVuc29uLWNlby1pbi1qdWx5LTEyMDI5MTY5OTkvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjAvMDQvYXR0LWNvby1qb2huLXN0YW5rZXktcmVwbGFjZS1yZXRpcmluZy1yYW5kYWxsLXN0ZXBoZW5zb24tY2VvLWluLWp1bHktMTIwMjkxNjk5OS_SAXFodHRwczovL2RlYWRsaW5lLmNvbS8yMDIwLzA0L2F0dC1jb28tam9obi1zdGFua2V5LXJlcGxhY2UtcmV0aXJpbmctcmFuZGFsbC1zdGVwaGVuc29uLWNlby1pbi1qdWx5LTEyMDI5MTY5OTkvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjAvMDQvYXR0LWNvby1qb2huLXN0YW5rZXktcmVwbGFjZS1yZXRpcmluZy1yYW5kYWxsLXN0ZXBoZW5zb24tY2VvLWluLWp1bHktMTIwMjkxNjk5OS_SAXFodHRwczovL2RlYWRsaW5lLmNvbS8yMDIwLzA0L2F0dC1jb28tam9obi1zdGFua2V5LXJlcGxhY2UtcmV0aXJpbmctcmFuZGFsbC1zdGVwaGVuc29uLWNlby1pbi1qdWx5LTEyMDI5MTY5OTkvYW1wLw?oc=5\" target=\"_blank\">AT&T CEO Randall Stephenson Retiring, COO John Stankey Promoted To Top Job Starting In July</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO John Stankey Says WarnerMedia-Discovery Deal On Track – ‘No News Is Good News’ - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjEvMDcvYXR0LWpvaG4tc3RhbmtleS13YXJuZXJtZWRpYS1kaXNjb3ZlcnktZGlyZWN0di0xMjM0Nzk4MDYwL9IBW2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjEvMDcvYXR0LWpvaG4tc3RhbmtleS13YXJuZXJtZWRpYS1kaXNjb3ZlcnktZGlyZWN0di0xMjM0Nzk4MDYwL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjEvMDcvYXR0LWpvaG4tc3RhbmtleS13YXJuZXJtZWRpYS1kaXNjb3ZlcnktZGlyZWN0di0xMjM0Nzk4MDYwL9IBW2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjEvMDcvYXR0LWpvaG4tc3RhbmtleS13YXJuZXJtZWRpYS1kaXNjb3ZlcnktZGlyZWN0di0xMjM0Nzk4MDYwL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Jul 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjEvMDcvYXR0LWpvaG4tc3RhbmtleS13YXJuZXJtZWRpYS1kaXNjb3ZlcnktZGlyZWN0di0xMjM0Nzk4MDYwL9IBW2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjEvMDcvYXR0LWpvaG4tc3RhbmtleS13YXJuZXJtZWRpYS1kaXNjb3ZlcnktZGlyZWN0di0xMjM0Nzk4MDYwL2FtcC8?oc=5\" target=\"_blank\">AT&T CEO John Stankey Says WarnerMedia-Discovery Deal On Track – ‘No News Is Good News’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WSJ: AT&T CEO's salary jumps to $32M after hedge fund dustup - FierceTelecom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmZpZXJjZXRlbGVjb20uY29tL29wZXJhdG9ycy93c2otYXQtdC1jZW8tcy1zYWxhcnktanVtcHMtdG8tMzJtLWFmdGVyLWhlZGdlLWZ1bmQtZHVzdHVw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3LmZpZXJjZXRlbGVjb20uY29tL29wZXJhdG9ycy93c2otYXQtdC1jZW8tcy1zYWxhcnktanVtcHMtdG8tMzJtLWFmdGVyLWhlZGdlLWZ1bmQtZHVzdHVw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Mar 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmZpZXJjZXRlbGVjb20uY29tL29wZXJhdG9ycy93c2otYXQtdC1jZW8tcy1zYWxhcnktanVtcHMtdG8tMzJtLWFmdGVyLWhlZGdlLWZ1bmQtZHVzdHVw0gEA?oc=5\" target=\"_blank\">WSJ: AT&T CEO's salary jumps to $32M after hedge fund dustup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FierceTelecom</font>"
+            ],
+            "source": [
+              {
+                "_": "FierceTelecom",
+                "$": {
+                  "url": "https://www.fiercetelecom.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO Sees His Satellite Phone Service Way Ahead Of Its Popular Peers - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90LWNlby1zZWVzLXNhdGVsbGl0ZS1waG9uZS0xMDA5MDA5NjYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90LWNlby1zZWVzLXNhdGVsbGl0ZS1waG9uZS0xMDA5MDA5NjYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 06 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90LWNlby1zZWVzLXNhdGVsbGl0ZS1waG9uZS0xMDA5MDA5NjYuaHRtbNIBAA?oc=5\" target=\"_blank\">AT&T CEO Sees His Satellite Phone Service Way Ahead Of Its Popular Peers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WarnerMedia “Rethinking” Theatrical Model; AT&T COO John Stankey Doesn’t Expect “Snap-Back” Recovery By Exhibitors - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL2RlYWRsaW5lLmNvbS8yMDIwLzA0L3dhcm5lcm1lZGlhLXJldGhpbmtpbmctdGhlYXRyaWNhbC1tb2RlbC1qb2huLXN0YW5rZXktbm90LWV4cGVjdGluZy1zbmFwLWJhY2stcmVjb3ZlcnktYnktZXhoaWJpdG9ycy0xMjAyOTE0NzUxL9IBkAFodHRwczovL2RlYWRsaW5lLmNvbS8yMDIwLzA0L3dhcm5lcm1lZGlhLXJldGhpbmtpbmctdGhlYXRyaWNhbC1tb2RlbC1qb2huLXN0YW5rZXktbm90LWV4cGVjdGluZy1zbmFwLWJhY2stcmVjb3ZlcnktYnktZXhoaWJpdG9ycy0xMjAyOTE0NzUxL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL2RlYWRsaW5lLmNvbS8yMDIwLzA0L3dhcm5lcm1lZGlhLXJldGhpbmtpbmctdGhlYXRyaWNhbC1tb2RlbC1qb2huLXN0YW5rZXktbm90LWV4cGVjdGluZy1zbmFwLWJhY2stcmVjb3ZlcnktYnktZXhoaWJpdG9ycy0xMjAyOTE0NzUxL9IBkAFodHRwczovL2RlYWRsaW5lLmNvbS8yMDIwLzA0L3dhcm5lcm1lZGlhLXJldGhpbmtpbmctdGhlYXRyaWNhbC1tb2RlbC1qb2huLXN0YW5rZXktbm90LWV4cGVjdGluZy1zbmFwLWJhY2stcmVjb3ZlcnktYnktZXhoaWJpdG9ycy0xMjAyOTE0NzUxL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL2RlYWRsaW5lLmNvbS8yMDIwLzA0L3dhcm5lcm1lZGlhLXJldGhpbmtpbmctdGhlYXRyaWNhbC1tb2RlbC1qb2huLXN0YW5rZXktbm90LWV4cGVjdGluZy1zbmFwLWJhY2stcmVjb3ZlcnktYnktZXhoaWJpdG9ycy0xMjAyOTE0NzUxL9IBkAFodHRwczovL2RlYWRsaW5lLmNvbS8yMDIwLzA0L3dhcm5lcm1lZGlhLXJldGhpbmtpbmctdGhlYXRyaWNhbC1tb2RlbC1qb2huLXN0YW5rZXktbm90LWV4cGVjdGluZy1zbmFwLWJhY2stcmVjb3ZlcnktYnktZXhoaWJpdG9ycy0xMjAyOTE0NzUxL2FtcC8?oc=5\" target=\"_blank\">WarnerMedia “Rethinking” Theatrical Model; AT&T COO John Stankey Doesn’t Expect “Snap-Back” Recovery By Exhibitors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T's “Cowboy Swagger” Led to Its Hollywood Misadventure - Texas Monthly"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRleGFzbW9udGhseS5jb20vbmV3cy1wb2xpdGljcy9hdHQtd2FybmVybWVkaWEtaGJvLW1pc3Rha2UtZGlzY292ZXJ5LW1lcmdlci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LnRleGFzbW9udGhseS5jb20vbmV3cy1wb2xpdGljcy9hdHQtd2FybmVybWVkaWEtaGJvLW1pc3Rha2UtZGlzY292ZXJ5LW1lcmdlci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 May 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRleGFzbW9udGhseS5jb20vbmV3cy1wb2xpdGljcy9hdHQtd2FybmVybWVkaWEtaGJvLW1pc3Rha2UtZGlzY292ZXJ5LW1lcmdlci_SAQA?oc=5\" target=\"_blank\">AT&T's “Cowboy Swagger” Led to Its Hollywood Misadventure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Texas Monthly</font>"
+            ],
+            "source": [
+              {
+                "_": "Texas Monthly",
+                "$": {
+                  "url": "https://www.texasmonthly.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "It’s judgment day for AT&T CEO Randall Stephenson - Fortune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wNC8yNC9hdHQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1sZWdhY3ktcmVwbGFjZW1lbnQtam9obi1zdGFua2V5L9IBXmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wNC8yNC9hdHQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1sZWdhY3ktcmVwbGFjZW1lbnQtam9obi1zdGFua2V5L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wNC8yNC9hdHQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1sZWdhY3ktcmVwbGFjZW1lbnQtam9obi1zdGFua2V5L9IBXmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wNC8yNC9hdHQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1sZWdhY3ktcmVwbGFjZW1lbnQtam9obi1zdGFua2V5L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wNC8yNC9hdHQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1sZWdhY3ktcmVwbGFjZW1lbnQtam9obi1zdGFua2V5L9IBXmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wNC8yNC9hdHQtY2VvLXJhbmRhbGwtc3RlcGhlbnNvbi1sZWdhY3ktcmVwbGFjZW1lbnQtam9obi1zdGFua2V5L2FtcC8?oc=5\" target=\"_blank\">It’s judgment day for AT&T CEO Randall Stephenson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+            ],
+            "source": [
+              {
+                "_": "Fortune",
+                "$": {
+                  "url": "https://fortune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Time Warner unveils its new name: WarnerMedia - CNN.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbW9uZXkuY25uLmNvbS8yMDE4LzA2LzE1L21lZGlhL3dhcm5lcm1lZGlhLWpvaG4tc3RhbmtleS1hbm5vdW5jZW1lbnRzL2luZGV4Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vbW9uZXkuY25uLmNvbS8yMDE4LzA2LzE1L21lZGlhL3dhcm5lcm1lZGlhLWpvaG4tc3RhbmtleS1hbm5vdW5jZW1lbnRzL2luZGV4Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Jun 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbW9uZXkuY25uLmNvbS8yMDE4LzA2LzE1L21lZGlhL3dhcm5lcm1lZGlhLWpvaG4tc3RhbmtleS1hbm5vdW5jZW1lbnRzL2luZGV4Lmh0bWzSAQA?oc=5\" target=\"_blank\">Time Warner unveils its new name: WarnerMedia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN.com</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN.com",
+                "$": {
+                  "url": "https://money.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AT&T CEO Randall Stephenson announces retirement - TechSpot"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzg0OTc5LWF0dC1jZW8tcmFuZGFsbC1zdGVwaGVuc29uLWFubm91bmNlcy1yZXRpcmVtZW50Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzg0OTc5LWF0dC1jZW8tcmFuZGFsbC1zdGVwaGVuc29uLWFubm91bmNlcy1yZXRpcmVtZW50Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzg0OTc5LWF0dC1jZW8tcmFuZGFsbC1zdGVwaGVuc29uLWFubm91bmNlcy1yZXRpcmVtZW50Lmh0bWzSAQA?oc=5\" target=\"_blank\">AT&T CEO Randall Stephenson announces retirement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechSpot</font>"
+            ],
+            "source": [
+              {
+                "_": "TechSpot",
+                "$": {
+                  "url": "https://www.techspot.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "From remote work to onshoring to the limits of a conglomerate, AT&T chief hits hot buttons - The Boston Globe"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS8yMDIzLzA0LzA1L2J1c2luZXNzL3JlbW90ZS13b3JrLW9uc2hvcmluZy1saW1pdHMtY29uZ2xvbWVyYXRlLWF0dC1jaGllZi1oaXRzLWhvdC1idXR0b25zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS8yMDIzLzA0LzA1L2J1c2luZXNzL3JlbW90ZS13b3JrLW9uc2hvcmluZy1saW1pdHMtY29uZ2xvbWVyYXRlLWF0dC1jaGllZi1oaXRzLWhvdC1idXR0b25zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS8yMDIzLzA0LzA1L2J1c2luZXNzL3JlbW90ZS13b3JrLW9uc2hvcmluZy1saW1pdHMtY29uZ2xvbWVyYXRlLWF0dC1jaGllZi1oaXRzLWhvdC1idXR0b25zL9IBAA?oc=5\" target=\"_blank\">From remote work to onshoring to the limits of a conglomerate, AT&T chief hits hot buttons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Boston Globe</font>"
+            ],
+            "source": [
+              {
+                "_": "The Boston Globe",
+                "$": {
+                  "url": "https://www.bostonglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Exec's style puts HBO streaming plan in peril: critics - New York Post "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vbnlwb3N0LmNvbS8yMDE5LzA4LzE4L2V4ZWNzLXN0eWxlLXB1dHMtaGJvLXN0cmVhbWluZy1wbGFuLWluLXBlcmlsLWNyaXRpY3Mv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vbnlwb3N0LmNvbS8yMDE5LzA4LzE4L2V4ZWNzLXN0eWxlLXB1dHMtaGJvLXN0cmVhbWluZy1wbGFuLWluLXBlcmlsLWNyaXRpY3Mv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 18 Aug 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vbnlwb3N0LmNvbS8yMDE5LzA4LzE4L2V4ZWNzLXN0eWxlLXB1dHMtaGJvLXN0cmVhbWluZy1wbGFuLWluLXBlcmlsLWNyaXRpY3Mv0gEA?oc=5\" target=\"_blank\">Exec's style puts HBO streaming plan in peril: critics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post </font>"
+            ],
+            "source": [
+              {
+                "_": "New York Post ",
+                "$": {
+                  "url": "https://nypost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WarnerMedia Unveils HBO Max Price, Launch Date - Hollywood Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3dhcm5lcm1lZGlhLXVudmVpbHMtaGJvLW1heC1wcmljZS1sYXVuY2gtZGF0ZS0xMjUxMDEzL9IBZ2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3dhcm5lcm1lZGlhLXVudmVpbHMtaGJvLW1heC1wcmljZS1sYXVuY2gtZGF0ZS0xMjUxMDEzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3dhcm5lcm1lZGlhLXVudmVpbHMtaGJvLW1heC1wcmljZS1sYXVuY2gtZGF0ZS0xMjUxMDEzL9IBZ2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3dhcm5lcm1lZGlhLXVudmVpbHMtaGJvLW1heC1wcmljZS1sYXVuY2gtZGF0ZS0xMjUxMDEzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 29 Oct 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3dhcm5lcm1lZGlhLXVudmVpbHMtaGJvLW1heC1wcmljZS1sYXVuY2gtZGF0ZS0xMjUxMDEzL9IBZ2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL3dhcm5lcm1lZGlhLXVudmVpbHMtaGJvLW1heC1wcmljZS1sYXVuY2gtZGF0ZS0xMjUxMDEzL2FtcC8?oc=5\" target=\"_blank\">WarnerMedia Unveils HBO Max Price, Launch Date</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hollywood Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Hollywood Reporter",
+                "$": {
+                  "url": "https://www.hollywoodreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Turner CEO John Martin To Depart, Time Warner To Become WarnerMedia - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTgvMDYvdHVybmVyLWNlby1qb2huLW1hcnRpbi10by1kZXBhcnQtMTIwMjQxMTU5OS_SAU1odHRwczovL2RlYWRsaW5lLmNvbS8yMDE4LzA2L3R1cm5lci1jZW8tam9obi1tYXJ0aW4tdG8tZGVwYXJ0LTEyMDI0MTE1OTkvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTgvMDYvdHVybmVyLWNlby1qb2huLW1hcnRpbi10by1kZXBhcnQtMTIwMjQxMTU5OS_SAU1odHRwczovL2RlYWRsaW5lLmNvbS8yMDE4LzA2L3R1cm5lci1jZW8tam9obi1tYXJ0aW4tdG8tZGVwYXJ0LTEyMDI0MTE1OTkvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Jun 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMTgvMDYvdHVybmVyLWNlby1qb2huLW1hcnRpbi10by1kZXBhcnQtMTIwMjQxMTU5OS_SAU1odHRwczovL2RlYWRsaW5lLmNvbS8yMDE4LzA2L3R1cm5lci1jZW8tam9obi1tYXJ0aW4tdG8tZGVwYXJ0LTEyMDI0MTE1OTkvYW1wLw?oc=5\" target=\"_blank\">Turner CEO John Martin To Depart, Time Warner To Become WarnerMedia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WarnerMedia Taps AT&T Veteran to Run Streaming Service - Billboard"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vcHJvL3dhcm5lcm1lZGlhLXN0cmVhbWluZy1zZXJ2aWNlLWJyYWQtYmVudGxleS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vcHJvL3dhcm5lcm1lZGlhLXN0cmVhbWluZy1zZXJ2aWNlLWJyYWQtYmVudGxleS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 26 Nov 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vcHJvL3dhcm5lcm1lZGlhLXN0cmVhbWluZy1zZXJ2aWNlLWJyYWQtYmVudGxleS_SAQA?oc=5\" target=\"_blank\">WarnerMedia Taps AT&T Veteran to Run Streaming Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Billboard</font>"
+            ],
+            "source": [
+              {
+                "_": "Billboard",
+                "$": {
+                  "url": "https://www.billboard.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Netflix has now lost two of its most popular shows as old media companies flex their muscle - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTkvMDcvMDkvbmV0ZmxpeC1mYWNlcy1uZXctY29tcGV0aXRpb24tYXMtb2xkLW1lZGlhLWNvbXBhbmllcy1mbGV4LXRoZWlyLW11c2NsZS5odG1s0gFvaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMTkvMDcvMDkvbmV0ZmxpeC1mYWNlcy1uZXctY29tcGV0aXRpb24tYXMtb2xkLW1lZGlhLWNvbXBhbmllcy1mbGV4LXRoZWlyLW11c2NsZS5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTkvMDcvMDkvbmV0ZmxpeC1mYWNlcy1uZXctY29tcGV0aXRpb24tYXMtb2xkLW1lZGlhLWNvbXBhbmllcy1mbGV4LXRoZWlyLW11c2NsZS5odG1s0gFvaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMTkvMDcvMDkvbmV0ZmxpeC1mYWNlcy1uZXctY29tcGV0aXRpb24tYXMtb2xkLW1lZGlhLWNvbXBhbmllcy1mbGV4LXRoZWlyLW11c2NsZS5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Jul 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTkvMDcvMDkvbmV0ZmxpeC1mYWNlcy1uZXctY29tcGV0aXRpb24tYXMtb2xkLW1lZGlhLWNvbXBhbmllcy1mbGV4LXRoZWlyLW11c2NsZS5odG1s0gFvaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMTkvMDcvMDkvbmV0ZmxpeC1mYWNlcy1uZXctY29tcGV0aXRpb24tYXMtb2xkLW1lZGlhLWNvbXBhbmllcy1mbGV4LXRoZWlyLW11c2NsZS5odG1s?oc=5\" target=\"_blank\">Netflix has now lost two of its most popular shows as old media companies flex their muscle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Great Race to Rule Streaming TV - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTkvMDcvMTAvbWFnYXppbmUvc3RyZWFtaW5nLXJhY2UtbmV0ZmxpeC1oYm8taHVsdS1hbWF6b24uaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTkvMDcvMTAvbWFnYXppbmUvc3RyZWFtaW5nLXJhY2UtbmV0ZmxpeC1oYm8taHVsdS1hbWF6b24uaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 Jul 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTkvMDcvMTAvbWFnYXppbmUvc3RyZWFtaW5nLXJhY2UtbmV0ZmxpeC1oYm8taHVsdS1hbWF6b24uaHRtbNIBAA?oc=5\" target=\"_blank\">The Great Race to Rule Streaming TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | AT&T Went Back to Basics by Cutting WarnerMedia Loose - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjEvMDYvMTIvb3Bpbmlvbi9hdHQtd2FybmVyLWJyb3MtZGlzY292ZXJ5Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjEvMDYvMTIvb3Bpbmlvbi9hdHQtd2FybmVyLWJyb3MtZGlzY292ZXJ5Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 12 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjEvMDYvMTIvb3Bpbmlvbi9hdHQtd2FybmVyLWJyb3MtZGlzY292ZXJ5Lmh0bWzSAQA?oc=5\" target=\"_blank\">Opinion | AT&T Went Back to Basics by Cutting WarnerMedia Loose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jeff Zucker’s CNN exit: AT&T CEO called out for claiming ousted boss resigned on own terms - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2plZmYtenVja2VyLWNubi1leGl0LWF0dC1jZW8tam9obi1zdGFua2V50gFLaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvamVmZi16dWNrZXItY25uLWV4aXQtYXR0LWNlby1qb2huLXN0YW5rZXkuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2plZmYtenVja2VyLWNubi1leGl0LWF0dC1jZW8tam9obi1zdGFua2V50gFLaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvamVmZi16dWNrZXItY25uLWV4aXQtYXR0LWNlby1qb2huLXN0YW5rZXkuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 Feb 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2plZmYtenVja2VyLWNubi1leGl0LWF0dC1jZW8tam9obi1zdGFua2V50gFLaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvamVmZi16dWNrZXItY25uLWV4aXQtYXR0LWNlby1qb2huLXN0YW5rZXkuYW1w?oc=5\" target=\"_blank\">Jeff Zucker’s CNN exit: AT&T CEO called out for claiming ousted boss resigned on own terms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

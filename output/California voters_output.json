@@ -1,0 +1,2108 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"California voters\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=California+voters&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "California election: Your guide to voting - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvbmV3c2xldHRlci9jYWxpZm9ybmlhLWVsZWN0aW9uLXZvdGVyLWd1aWRlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvbmV3c2xldHRlci9jYWxpZm9ybmlhLWVsZWN0aW9uLXZvdGVyLWd1aWRlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvbmV3c2xldHRlci9jYWxpZm9ybmlhLWVsZWN0aW9uLXZvdGVyLWd1aWRlL9IBAA?oc=5\" target=\"_blank\">California election: Your guide to voting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "March 5 is Election Day in California - University of California, Santa Cruz"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vbmV3cy51Y3NjLmVkdS8yMDI0LzAyL2VsZWN0aW9uLWRheS1tYXJjaC0yMDI0Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOmh0dHBzOi8vbmV3cy51Y3NjLmVkdS8yMDI0LzAyL2VsZWN0aW9uLWRheS1tYXJjaC0yMDI0Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 12:10:14 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vbmV3cy51Y3NjLmVkdS8yMDI0LzAyL2VsZWN0aW9uLWRheS1tYXJjaC0yMDI0Lmh0bWzSAQA?oc=5\" target=\"_blank\">March 5 is Election Day in California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of California, Santa Cruz</font>"
+            ],
+            "source": [
+              {
+                "_": "University of California, Santa Cruz",
+                "$": {
+                  "url": "https://news.ucsc.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California voter poll: Schiff leads, while Porter and Garvey neck-and-neck for second in the U.S. Senate primary - EurekAlert"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmV1cmVrYWxlcnQub3JnL25ld3MtcmVsZWFzZXMvMTAzMzMzONIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMGh0dHBzOi8vd3d3LmV1cmVrYWxlcnQub3JnL25ld3MtcmVsZWFzZXMvMTAzMzMzONIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 02:09:46 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmV1cmVrYWxlcnQub3JnL25ld3MtcmVsZWFzZXMvMTAzMzMzONIBAA?oc=5\" target=\"_blank\">California voter poll: Schiff leads, while Porter and Garvey neck-and-neck for second in the U.S. Senate primary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EurekAlert</font>"
+            ],
+            "source": [
+              {
+                "_": "EurekAlert",
+                "$": {
+                  "url": "https://www.eurekalert.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Why California’s Latino Voters Might Be Up For Grabs in 2024 - KQED"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE5NzQ4NTQvd2h5LWNhbGlmb3JuaWFzLWxhdGluby12b3RlcnMtbWlnaHQtYmUtdXAtZm9yLWdyYWJzLWluLTIwMjTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE5NzQ4NTQvd2h5LWNhbGlmb3JuaWFzLWxhdGluby12b3RlcnMtbWlnaHQtYmUtdXAtZm9yLWdyYWJzLWluLTIwMjTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 01:30:02 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE5NzQ4NTQvd2h5LWNhbGlmb3JuaWFzLWxhdGluby12b3RlcnMtbWlnaHQtYmUtdXAtZm9yLWdyYWJzLWluLTIwMjTSAQA?oc=5\" target=\"_blank\">Why California’s Latino Voters Might Be Up For Grabs in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>"
+            ],
+            "source": [
+              {
+                "_": "KQED",
+                "$": {
+                  "url": "https://www.kqed.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2024 Election: California Voter Guide - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiM2h0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:05:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L9IBAA?oc=5\" target=\"_blank\">2024 Election: California Voter Guide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What you need to know to vote in California's 2024 Primary Election - KPBS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmtwYnMub3JnL25ld3MvcG9saXRpY3MvMjAyNC8wMi8wNS93aGF0LXlvdS1uZWVkLXRvLWtub3ctdG8tdm90ZS1pbi1jYWxpZm9ybmlhcy0yMDI0LXByaW1hcnktZWxlY3Rpb27SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmtwYnMub3JnL25ld3MvcG9saXRpY3MvMjAyNC8wMi8wNS93aGF0LXlvdS1uZWVkLXRvLWtub3ctdG8tdm90ZS1pbi1jYWxpZm9ybmlhcy0yMDI0LXByaW1hcnktZWxlY3Rpb27SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmtwYnMub3JnL25ld3MvcG9saXRpY3MvMjAyNC8wMi8wNS93aGF0LXlvdS1uZWVkLXRvLWtub3ctdG8tdm90ZS1pbi1jYWxpZm9ybmlhcy0yMDI0LXByaW1hcnktZWxlY3Rpb27SAQA?oc=5\" target=\"_blank\">What you need to know to vote in California's 2024 Primary Election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KPBS</font>"
+            ],
+            "source": [
+              {
+                "_": "KPBS",
+                "$": {
+                  "url": "https://www.kpbs.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California voters deceived by reform plan that sparked shoplifting crisis: Sheriff - IndiaTimes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9jYWxpZm9ybmlhLXZvdGVycy1kZWNlaXZlZC1ieS1yZWZvcm0tcGxhbi10aGF0LXNwYXJrZWQtc2hvcGxpZnRpbmctY3Jpc2lzLXNoZXJpZmYvYXJ0aWNsZXNob3cvMTA1MzYyNTEwLmNtc9IBkwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9jYWxpZm9ybmlhLXZvdGVycy1kZWNlaXZlZC1ieS1yZWZvcm0tcGxhbi10aGF0LXNwYXJrZWQtc2hvcGxpZnRpbmctY3Jpc2lzLXNoZXJpZmYvYW1wX2FydGljbGVzaG93LzEwNTM2MjUxMC5jbXM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9jYWxpZm9ybmlhLXZvdGVycy1kZWNlaXZlZC1ieS1yZWZvcm0tcGxhbi10aGF0LXNwYXJrZWQtc2hvcGxpZnRpbmctY3Jpc2lzLXNoZXJpZmYvYXJ0aWNsZXNob3cvMTA1MzYyNTEwLmNtc9IBkwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9jYWxpZm9ybmlhLXZvdGVycy1kZWNlaXZlZC1ieS1yZWZvcm0tcGxhbi10aGF0LXNwYXJrZWQtc2hvcGxpZnRpbmctY3Jpc2lzLXNoZXJpZmYvYW1wX2FydGljbGVzaG93LzEwNTM2MjUxMC5jbXM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9jYWxpZm9ybmlhLXZvdGVycy1kZWNlaXZlZC1ieS1yZWZvcm0tcGxhbi10aGF0LXNwYXJrZWQtc2hvcGxpZnRpbmctY3Jpc2lzLXNoZXJpZmYvYXJ0aWNsZXNob3cvMTA1MzYyNTEwLmNtc9IBkwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9jYWxpZm9ybmlhLXZvdGVycy1kZWNlaXZlZC1ieS1yZWZvcm0tcGxhbi10aGF0LXNwYXJrZWQtc2hvcGxpZnRpbmctY3Jpc2lzLXNoZXJpZmYvYW1wX2FydGljbGVzaG93LzEwNTM2MjUxMC5jbXM?oc=5\" target=\"_blank\">California voters deceived by reform plan that sparked shoplifting crisis: Sheriff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndiaTimes</font>"
+            ],
+            "source": [
+              {
+                "_": "IndiaTimes",
+                "$": {
+                  "url": "https://m.timesofindia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Voters will make the final decision on mental health funding - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9wb2xpdGljcy8yMDI0LzAyLzAxL3Byb3AtMS1tZW50YWwtaGVhbHRo0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9wb2xpdGljcy8yMDI0LzAyLzAxL3Byb3AtMS1tZW50YWwtaGVhbHRo0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 21:40:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9wb2xpdGljcy8yMDI0LzAyLzAxL3Byb3AtMS1tZW50YWwtaGVhbHRo0gEA?oc=5\" target=\"_blank\">Voters will make the final decision on mental health funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California and SF Bay Area Voter Guide for 2024 Primary Election - San Francisco Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wcm9qZWN0cy8yMDI0L2NhbGlmb3JuaWEtcHJpbWFyeS12b3Rlci1ndWlkZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wcm9qZWN0cy8yMDI0L2NhbGlmb3JuaWEtcHJpbWFyeS12b3Rlci1ndWlkZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 03:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wcm9qZWN0cy8yMDI0L2NhbGlmb3JuaWEtcHJpbWFyeS12b3Rlci1ndWlkZS_SAQA?oc=5\" target=\"_blank\">California and SF Bay Area Voter Guide for 2024 Primary Election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "San Francisco Chronicle",
+                "$": {
+                  "url": "https://www.sfchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Guide to CA 2024 primary election voter deadlines and dates - Sacramento Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9jYWxpZm9ybmlhL2FydGljbGUyODQ3MDMyODYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9jYWxpZm9ybmlhL2FydGljbGUyODQ3MDMyODYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9jYWxpZm9ybmlhL2FydGljbGUyODQ3MDMyODYuaHRtbNIBAA?oc=5\" target=\"_blank\">Guide to CA 2024 primary election voter deadlines and dates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Sacramento Bee",
+                "$": {
+                  "url": "https://www.sacbee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Q&A: Eight things you need to know about California’s weird voting rules for the March primary - The Mercury News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDI0LzAyLzA1L2l0cy10aW1lLXRvLXZvdGUtaGVyZXMtaG93LXRvLW5hdmlnYXRlLWNhbGlmb3JuaWFzLXdlaXJkLXZvdGluZy1ydWxlcy1mb3ItdGhlLXByaW1hcnkv0gGBAWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDI0LzAyLzA1L2l0cy10aW1lLXRvLXZvdGUtaGVyZXMtaG93LXRvLW5hdmlnYXRlLWNhbGlmb3JuaWFzLXdlaXJkLXZvdGluZy1ydWxlcy1mb3ItdGhlLXByaW1hcnkvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDI0LzAyLzA1L2l0cy10aW1lLXRvLXZvdGUtaGVyZXMtaG93LXRvLW5hdmlnYXRlLWNhbGlmb3JuaWFzLXdlaXJkLXZvdGluZy1ydWxlcy1mb3ItdGhlLXByaW1hcnkv0gGBAWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDI0LzAyLzA1L2l0cy10aW1lLXRvLXZvdGUtaGVyZXMtaG93LXRvLW5hdmlnYXRlLWNhbGlmb3JuaWFzLXdlaXJkLXZvdGluZy1ydWxlcy1mb3ItdGhlLXByaW1hcnkvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 13:45:28 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDI0LzAyLzA1L2l0cy10aW1lLXRvLXZvdGUtaGVyZXMtaG93LXRvLW5hdmlnYXRlLWNhbGlmb3JuaWFzLXdlaXJkLXZvdGluZy1ydWxlcy1mb3ItdGhlLXByaW1hcnkv0gGBAWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDI0LzAyLzA1L2l0cy10aW1lLXRvLXZvdGUtaGVyZXMtaG93LXRvLW5hdmlnYXRlLWNhbGlmb3JuaWFzLXdlaXJkLXZvdGluZy1ydWxlcy1mb3ItdGhlLXByaW1hcnkvYW1wLw?oc=5\" target=\"_blank\">Q&A: Eight things you need to know about California’s weird voting rules for the March primary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Mercury News",
+                "$": {
+                  "url": "https://www.mercurynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘Su voto es su voz.’ Latinos, how important is your vote during this year’s elections? - Fresno Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmZyZXNub2JlZS5jb20vbmV3cy9sb2NhbC9hcnRpY2xlMjg0ODc3ODI3Lmh0bWzSATpodHRwczovL2FtcC5mcmVzbm9iZWUuY29tL25ld3MvbG9jYWwvYXJ0aWNsZTI4NDg3NzgyNy5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOmh0dHBzOi8vd3d3LmZyZXNub2JlZS5jb20vbmV3cy9sb2NhbC9hcnRpY2xlMjg0ODc3ODI3Lmh0bWzSATpodHRwczovL2FtcC5mcmVzbm9iZWUuY29tL25ld3MvbG9jYWwvYXJ0aWNsZTI4NDg3NzgyNy5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmZyZXNub2JlZS5jb20vbmV3cy9sb2NhbC9hcnRpY2xlMjg0ODc3ODI3Lmh0bWzSATpodHRwczovL2FtcC5mcmVzbm9iZWUuY29tL25ld3MvbG9jYWwvYXJ0aWNsZTI4NDg3NzgyNy5odG1s?oc=5\" target=\"_blank\">‘Su voto es su voz.’ Latinos, how important is your vote during this year’s elections?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fresno Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Fresno Bee",
+                "$": {
+                  "url": "https://www.fresnobee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "When do California ballots go out? Can I vote in person? Your guide to the primary election - Sacramento Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ3MzA3MjYuaHRtbNIBWmh0dHBzOi8vYW1wLnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ3MzA3MjYuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ3MzA3MjYuaHRtbNIBWmh0dHBzOi8vYW1wLnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ3MzA3MjYuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ3MzA3MjYuaHRtbNIBWmh0dHBzOi8vYW1wLnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ3MzA3MjYuaHRtbA?oc=5\" target=\"_blank\">When do California ballots go out? Can I vote in person? Your guide to the primary election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Sacramento Bee",
+                "$": {
+                  "url": "https://www.sacbee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California U.S. House: Races to Watch in 2024 - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3VzLWhvdXNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3VzLWhvdXNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:05:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3VzLWhvdXNlL9IBAA?oc=5\" target=\"_blank\">California U.S. House: Races to Watch in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California Prop 1 Mental Health: 2024 Election - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3Byb3AtMS1tZW50YWwtaGVhbHRoL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3Byb3AtMS1tZW50YWwtaGVhbHRoL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:05:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3Byb3AtMS1tZW50YWwtaGVhbHRoL9IBAA?oc=5\" target=\"_blank\">California Prop 1 Mental Health: 2024 Election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California State Senate: Races to Watch in 2024 - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3N0YXRlLXNlbmF0ZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3N0YXRlLXNlbmF0ZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:05:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3N0YXRlLXNlbmF0ZS_SAQA?oc=5\" target=\"_blank\">California State Senate: Races to Watch in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California State Assembly: Races to Watch in 2024 - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3N0YXRlLWFzc2VtYmx5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3N0YXRlLWFzc2VtYmx5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:05:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3N0YXRlLWFzc2VtYmx5L9IBAA?oc=5\" target=\"_blank\">California State Assembly: Races to Watch in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Endorsement: Angelo Farooq for California Senate District 31 - The Press-Enterprise"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnByZXNzZW50ZXJwcmlzZS5jb20vMjAyNC8wMi8wNi9lbmRvcnNlbWVudC1hbmdlbG8tZmFyb29xLWZvci1jYWxpZm9ybmlhLXNlbmF0ZS1kaXN0cmljdC0zMS_SAWtodHRwczovL3d3dy5wcmVzc2VudGVycHJpc2UuY29tLzIwMjQvMDIvMDYvZW5kb3JzZW1lbnQtYW5nZWxvLWZhcm9vcS1mb3ItY2FsaWZvcm5pYS1zZW5hdGUtZGlzdHJpY3QtMzEvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LnByZXNzZW50ZXJwcmlzZS5jb20vMjAyNC8wMi8wNi9lbmRvcnNlbWVudC1hbmdlbG8tZmFyb29xLWZvci1jYWxpZm9ybmlhLXNlbmF0ZS1kaXN0cmljdC0zMS_SAWtodHRwczovL3d3dy5wcmVzc2VudGVycHJpc2UuY29tLzIwMjQvMDIvMDYvZW5kb3JzZW1lbnQtYW5nZWxvLWZhcm9vcS1mb3ItY2FsaWZvcm5pYS1zZW5hdGUtZGlzdHJpY3QtMzEvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 03:43:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnByZXNzZW50ZXJwcmlzZS5jb20vMjAyNC8wMi8wNi9lbmRvcnNlbWVudC1hbmdlbG8tZmFyb29xLWZvci1jYWxpZm9ybmlhLXNlbmF0ZS1kaXN0cmljdC0zMS_SAWtodHRwczovL3d3dy5wcmVzc2VudGVycHJpc2UuY29tLzIwMjQvMDIvMDYvZW5kb3JzZW1lbnQtYW5nZWxvLWZhcm9vcS1mb3ItY2FsaWZvcm5pYS1zZW5hdGUtZGlzdHJpY3QtMzEvYW1wLw?oc=5\" target=\"_blank\">Endorsement: Angelo Farooq for California Senate District 31</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Press-Enterprise</font>"
+            ],
+            "source": [
+              {
+                "_": "The Press-Enterprise",
+                "$": {
+                  "url": "https://www.pressenterprise.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | CA's employee lawsuit law threatened by ballot measure - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDI0LzAxL2VtcGxveWVlLWxhd3N1aXQtYmFsbG90LW1lYXN1cmUtcGFnYS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDI0LzAxL2VtcGxveWVlLWxhd3N1aXQtYmFsbG90LW1lYXN1cmUtcGFnYS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDI0LzAxL2VtcGxveWVlLWxhd3N1aXQtYmFsbG90LW1lYXN1cmUtcGFnYS_SAQA?oc=5\" target=\"_blank\">Opinion | CA's employee lawsuit law threatened by ballot measure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US Senator For California: Who's Running In The March 5 Primary And Why It Matters - LAist"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvMjAyNC1lbGVjdGlvbi1jYWxpZm9ybmlhLXByaW1hcnktdW5pdGVkLXN0YXRlcy1zZW5hdG9y0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvMjAyNC1lbGVjdGlvbi1jYWxpZm9ybmlhLXByaW1hcnktdW5pdGVkLXN0YXRlcy1zZW5hdG9y0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 23:56:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvMjAyNC1lbGVjdGlvbi1jYWxpZm9ybmlhLXByaW1hcnktdW5pdGVkLXN0YXRlcy1zZW5hdG9y0gEA?oc=5\" target=\"_blank\">US Senator For California: Who's Running In The March 5 Primary And Why It Matters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>"
+            ],
+            "source": [
+              {
+                "_": "LAist",
+                "$": {
+                  "url": "https://laist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Is California's Process for Naming Propositions on the Ballot Flawed? - KQED"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE5NzQ3NjYvaXMtY2FsaWZvcm5pYXMtcHJvY2Vzcy1mb3ItbmFtaW5nLXByb3Bvc2l0aW9ucy1vbi10aGUtYmFsbG90LWZsYXdlZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE5NzQ3NjYvaXMtY2FsaWZvcm5pYXMtcHJvY2Vzcy1mb3ItbmFtaW5nLXByb3Bvc2l0aW9ucy1vbi10aGUtYmFsbG90LWZsYXdlZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 01:30:26 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE5NzQ3NjYvaXMtY2FsaWZvcm5pYXMtcHJvY2Vzcy1mb3ItbmFtaW5nLXByb3Bvc2l0aW9ucy1vbi10aGUtYmFsbG90LWZsYXdlZNIBAA?oc=5\" target=\"_blank\">Is California's Process for Naming Propositions on the Ballot Flawed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>"
+            ],
+            "source": [
+              {
+                "_": "KQED",
+                "$": {
+                  "url": "https://www.kqed.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Crowded California Senate race to fill Feinstein seat about to go to voters - CBS San Francisco"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9zYW5mcmFuY2lzY28vbmV3cy9jYWxpZm9ybmlhLXNlbmF0ZS1yYWNlLXN0ZXZlLWdhcnZleS1iYXJiYXJhLWxlZS1hZGFtLXNjaGlmZi1rYXRpZS1wb3J0ZXItZGlhbm5lLWZlaW5zdGVpbi_SAYgBaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL3NhbmZyYW5jaXNjby9uZXdzL2NhbGlmb3JuaWEtc2VuYXRlLXJhY2Utc3RldmUtZ2FydmV5LWJhcmJhcmEtbGVlLWFkYW0tc2NoaWZmLWthdGllLXBvcnRlci1kaWFubmUtZmVpbnN0ZWluLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9zYW5mcmFuY2lzY28vbmV3cy9jYWxpZm9ybmlhLXNlbmF0ZS1yYWNlLXN0ZXZlLWdhcnZleS1iYXJiYXJhLWxlZS1hZGFtLXNjaGlmZi1rYXRpZS1wb3J0ZXItZGlhbm5lLWZlaW5zdGVpbi_SAYgBaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL3NhbmZyYW5jaXNjby9uZXdzL2NhbGlmb3JuaWEtc2VuYXRlLXJhY2Utc3RldmUtZ2FydmV5LWJhcmJhcmEtbGVlLWFkYW0tc2NoaWZmLWthdGllLXBvcnRlci1kaWFubmUtZmVpbnN0ZWluLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 00:08:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9zYW5mcmFuY2lzY28vbmV3cy9jYWxpZm9ybmlhLXNlbmF0ZS1yYWNlLXN0ZXZlLWdhcnZleS1iYXJiYXJhLWxlZS1hZGFtLXNjaGlmZi1rYXRpZS1wb3J0ZXItZGlhbm5lLWZlaW5zdGVpbi_SAYgBaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL3NhbmZyYW5jaXNjby9uZXdzL2NhbGlmb3JuaWEtc2VuYXRlLXJhY2Utc3RldmUtZ2FydmV5LWJhcmJhcmEtbGVlLWFkYW0tc2NoaWZmLWthdGllLXBvcnRlci1kaWFubmUtZmVpbnN0ZWluLw?oc=5\" target=\"_blank\">Crowded California Senate race to fill Feinstein seat about to go to voters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS San Francisco</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS San Francisco",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2024 California U.S. Senate Candidate: Adam Schiff - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3VzLXNlbmF0ZS9hZGFtLXNjaGlmZi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3VzLXNlbmF0ZS9hZGFtLXNjaGlmZi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:05:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY2FsaWZvcm5pYS12b3Rlci1ndWlkZS0yMDI0L3VzLXNlbmF0ZS9hZGFtLXNjaGlmZi_SAQA?oc=5\" target=\"_blank\">2024 California U.S. Senate Candidate: Adam Schiff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California Prop. 1: Who's Backing It In The March 5 Primary And Why It Matters - LAist"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvMjAyNC1lbGVjdGlvbi1jYWxpZm9ybmlhLXByaW1hcnktcHJvcG9zaXRpb24tMS1tZW50YWwtaGVhbHRoLWNhcmXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvMjAyNC1lbGVjdGlvbi1jYWxpZm9ybmlhLXByaW1hcnktcHJvcG9zaXRpb24tMS1tZW50YWwtaGVhbHRoLWNhcmXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvMjAyNC1lbGVjdGlvbi1jYWxpZm9ybmlhLXByaW1hcnktcHJvcG9zaXRpb24tMS1tZW50YWwtaGVhbHRoLWNhcmXSAQA?oc=5\" target=\"_blank\">California Prop. 1: Who's Backing It In The March 5 Primary And Why It Matters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>"
+            ],
+            "source": [
+              {
+                "_": "LAist",
+                "$": {
+                  "url": "https://laist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California Proposition 1 channels billions into behavioral health, homelessness spending - Sacramento Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ0MjA0MzUuaHRtbNIBWmh0dHBzOi8vYW1wLnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ0MjA0MzUuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ0MjA0MzUuaHRtbNIBWmh0dHBzOi8vYW1wLnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ0MjA0MzUuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ0MjA0MzUuaHRtbNIBWmh0dHBzOi8vYW1wLnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyODQ0MjA0MzUuaHRtbA?oc=5\" target=\"_blank\">California Proposition 1 channels billions into behavioral health, homelessness spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Sacramento Bee",
+                "$": {
+                  "url": "https://www.sacbee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California voters are deeply worried about political disinformation, IGS Poll finds - UC Berkeley"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbmV3cy5iZXJrZWxleS5lZHUvMjAyMy8xMS8xNi9jYWxpZm9ybmlhLXZvdGVycy1hcmUtZGVlcGx5LXdvcnJpZWQtYWJvdXQtcG9saXRpY2FsLWRpc2luZm9ybWF0aW9uLWlncy1wb2xsLWZpbmRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vbmV3cy5iZXJrZWxleS5lZHUvMjAyMy8xMS8xNi9jYWxpZm9ybmlhLXZvdGVycy1hcmUtZGVlcGx5LXdvcnJpZWQtYWJvdXQtcG9saXRpY2FsLWRpc2luZm9ybWF0aW9uLWlncy1wb2xsLWZpbmRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbmV3cy5iZXJrZWxleS5lZHUvMjAyMy8xMS8xNi9jYWxpZm9ybmlhLXZvdGVycy1hcmUtZGVlcGx5LXdvcnJpZWQtYWJvdXQtcG9saXRpY2FsLWRpc2luZm9ybWF0aW9uLWlncy1wb2xsLWZpbmRz0gEA?oc=5\" target=\"_blank\">California voters are deeply worried about political disinformation, IGS Poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UC Berkeley</font>"
+            ],
+            "source": [
+              {
+                "_": "UC Berkeley",
+                "$": {
+                  "url": "https://news.berkeley.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2024 election: Changes for California voters - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvbmV3c2xldHRlcnMvd2hhdG1hdHRlcnMvMjAyMy8wOS8yMDI0LWVsZWN0aW9uLWNhbGlmb3JuaWEtY2hhbmdlcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvbmV3c2xldHRlcnMvd2hhdG1hdHRlcnMvMjAyMy8wOS8yMDI0LWVsZWN0aW9uLWNhbGlmb3JuaWEtY2hhbmdlcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvbmV3c2xldHRlcnMvd2hhdG1hdHRlcnMvMjAyMy8wOS8yMDI0LWVsZWN0aW9uLWNhbGlmb3JuaWEtY2hhbmdlcy_SAQA?oc=5\" target=\"_blank\">2024 election: Changes for California voters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Understanding Proposition 1 - California Budget & Policy Center"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vY2FsYnVkZ2V0Y2VudGVyLm9yZy9yZXNvdXJjZXMvcWEtdW5kZXJzdGFuZGluZy1jYWxpZm9ybmlhLXByb3AtMS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vY2FsYnVkZ2V0Y2VudGVyLm9yZy9yZXNvdXJjZXMvcWEtdW5kZXJzdGFuZGluZy1jYWxpZm9ybmlhLXByb3AtMS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 23:30:12 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vY2FsYnVkZ2V0Y2VudGVyLm9yZy9yZXNvdXJjZXMvcWEtdW5kZXJzdGFuZGluZy1jYWxpZm9ybmlhLXByb3AtMS_SAQA?oc=5\" target=\"_blank\">Understanding Proposition 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Budget & Policy Center</font>"
+            ],
+            "source": [
+              {
+                "_": "California Budget & Policy Center",
+                "$": {
+                  "url": "https://calbudgetcenter.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "See key dates voters should know for the 2024 California Primary Election - NBC Southern California"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL2RlY2lzaW9uLTIwMjQva2V5LWRhdGVzLXZvdGUtMjAyNC1jYWxpZm9ybmlhLXByaW1hcnktZWxlY3Rpb24tcmVnaXN0cmF0aW9uLWRlYWRsaW5lLzMzMTcxMzQv0gGAAWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL2RlY2lzaW9uLTIwMjQva2V5LWRhdGVzLXZvdGUtMjAyNC1jYWxpZm9ybmlhLXByaW1hcnktZWxlY3Rpb24tcmVnaXN0cmF0aW9uLWRlYWRsaW5lLzMzMTcxMzQvP2FtcD0x?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL2RlY2lzaW9uLTIwMjQva2V5LWRhdGVzLXZvdGUtMjAyNC1jYWxpZm9ybmlhLXByaW1hcnktZWxlY3Rpb24tcmVnaXN0cmF0aW9uLWRlYWRsaW5lLzMzMTcxMzQv0gGAAWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL2RlY2lzaW9uLTIwMjQva2V5LWRhdGVzLXZvdGUtMjAyNC1jYWxpZm9ybmlhLXByaW1hcnktZWxlY3Rpb24tcmVnaXN0cmF0aW9uLWRlYWRsaW5lLzMzMTcxMzQvP2FtcD0x",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL2RlY2lzaW9uLTIwMjQva2V5LWRhdGVzLXZvdGUtMjAyNC1jYWxpZm9ybmlhLXByaW1hcnktZWxlY3Rpb24tcmVnaXN0cmF0aW9uLWRlYWRsaW5lLzMzMTcxMzQv0gGAAWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL2RlY2lzaW9uLTIwMjQva2V5LWRhdGVzLXZvdGUtMjAyNC1jYWxpZm9ybmlhLXByaW1hcnktZWxlY3Rpb24tcmVnaXN0cmF0aW9uLWRlYWRsaW5lLzMzMTcxMzQvP2FtcD0x?oc=5\" target=\"_blank\">See key dates voters should know for the 2024 California Primary Election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Southern California</font>"
+            ],
+            "source": [
+              {
+                "_": "NBC Southern California",
+                "$": {
+                  "url": "https://www.nbclosangeles.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Barbara Lee's Antiwar Campaign for the Senate - The New Yorker"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3lvcmtlci5jb20vbmV3cy9wZXJzb25zLW9mLWludGVyZXN0L2JhcmJhcmEtbGVlcy1hbnRpd2FyLWNhbXBhaWduLWZvci10aGUtc2VuYXRl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3Lm5ld3lvcmtlci5jb20vbmV3cy9wZXJzb25zLW9mLWludGVyZXN0L2JhcmJhcmEtbGVlcy1hbnRpd2FyLWNhbXBhaWduLWZvci10aGUtc2VuYXRl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 11:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3lvcmtlci5jb20vbmV3cy9wZXJzb25zLW9mLWludGVyZXN0L2JhcmJhcmEtbGVlcy1hbnRpd2FyLWNhbXBhaWduLWZvci10aGUtc2VuYXRl0gEA?oc=5\" target=\"_blank\">Barbara Lee's Antiwar Campaign for the Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Yorker</font>"
+            ],
+            "source": [
+              {
+                "_": "The New Yorker",
+                "$": {
+                  "url": "https://www.newyorker.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A California town will vote on banning factory farms. What does that mean for the rest of the US? - The Guardian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9lbnZpcm9ubWVudC8yMDI0L2phbi8zMC9iZXJrZWxleS1iYW4tZmFjdG9yeS1mYXJtLWNhbGlmb3JuaWHSAVhodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvMjAyNC9qYW4vMzAvYmVya2VsZXktYmFuLWZhY3RvcnktZmFybS1jYWxpZm9ybmlh?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9lbnZpcm9ubWVudC8yMDI0L2phbi8zMC9iZXJrZWxleS1iYW4tZmFjdG9yeS1mYXJtLWNhbGlmb3JuaWHSAVhodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvMjAyNC9qYW4vMzAvYmVya2VsZXktYmFuLWZhY3RvcnktZmFybS1jYWxpZm9ybmlh",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 21:01:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9lbnZpcm9ubWVudC8yMDI0L2phbi8zMC9iZXJrZWxleS1iYW4tZmFjdG9yeS1mYXJtLWNhbGlmb3JuaWHSAVhodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvMjAyNC9qYW4vMzAvYmVya2VsZXktYmFuLWZhY3RvcnktZmFybS1jYWxpZm9ybmlh?oc=5\" target=\"_blank\">A California town will vote on banning factory farms. What does that mean for the rest of the US?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+            ],
+            "source": [
+              {
+                "_": "The Guardian",
+                "$": {
+                  "url": "https://www.theguardian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California Propositions 2024: How They End Up On Your Ballot - LAist"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvMjAyNC1lbGVjdGlvbi1jYWxpZm9ybmlhLWdlbmVyYWwtcHJvcG9zaXRpb25zLWV4cGxhaW5lZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvMjAyNC1lbGVjdGlvbi1jYWxpZm9ybmlhLWdlbmVyYWwtcHJvcG9zaXRpb25zLWV4cGxhaW5lZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvMjAyNC1lbGVjdGlvbi1jYWxpZm9ybmlhLWdlbmVyYWwtcHJvcG9zaXRpb25zLWV4cGxhaW5lZNIBAA?oc=5\" target=\"_blank\">California Propositions 2024: How They End Up On Your Ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>"
+            ],
+            "source": [
+              {
+                "_": "LAist",
+                "$": {
+                  "url": "https://laist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "More than half of California voters worried about AI taking their jobs, according to new poll - KGO-TV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL2FiYzduZXdzLmNvbS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1wb2xsLXBvbGl0aWNvLW1vcm5pbmctY29uc3VsdC1pcy1haS1zdGVhbGluZy1qb2JzLWluLXRoZS13b3JrZm9yY2UtcGV3LXJlc2VhcmNoLXN0dWR5LzE0MjEzMDE5L9IBkAFodHRwczovL2FiYzduZXdzLmNvbS9hbXAvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcG9sbC1wb2xpdGljby1tb3JuaW5nLWNvbnN1bHQtaXMtYWktc3RlYWxpbmctam9icy1pbi10aGUtd29ya2ZvcmNlLXBldy1yZXNlYXJjaC1zdHVkeS8xNDIxMzAxOS8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL2FiYzduZXdzLmNvbS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1wb2xsLXBvbGl0aWNvLW1vcm5pbmctY29uc3VsdC1pcy1haS1zdGVhbGluZy1qb2JzLWluLXRoZS13b3JrZm9yY2UtcGV3LXJlc2VhcmNoLXN0dWR5LzE0MjEzMDE5L9IBkAFodHRwczovL2FiYzduZXdzLmNvbS9hbXAvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcG9sbC1wb2xpdGljby1tb3JuaW5nLWNvbnN1bHQtaXMtYWktc3RlYWxpbmctam9icy1pbi10aGUtd29ya2ZvcmNlLXBldy1yZXNlYXJjaC1zdHVkeS8xNDIxMzAxOS8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL2FiYzduZXdzLmNvbS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1wb2xsLXBvbGl0aWNvLW1vcm5pbmctY29uc3VsdC1pcy1haS1zdGVhbGluZy1qb2JzLWluLXRoZS13b3JrZm9yY2UtcGV3LXJlc2VhcmNoLXN0dWR5LzE0MjEzMDE5L9IBkAFodHRwczovL2FiYzduZXdzLmNvbS9hbXAvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcG9sbC1wb2xpdGljby1tb3JuaW5nLWNvbnN1bHQtaXMtYWktc3RlYWxpbmctam9icy1pbi10aGUtd29ya2ZvcmNlLXBldy1yZXNlYXJjaC1zdHVkeS8xNDIxMzAxOS8?oc=5\" target=\"_blank\">More than half of California voters worried about AI taking their jobs, according to new poll</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGO-TV</font>"
+            ],
+            "source": [
+              {
+                "_": "KGO-TV",
+                "$": {
+                  "url": "https://abc7news.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California Prop 1: What to know about Newsom's mental health bond - San Francisco Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9lbGVjdGlvbi9hcnRpY2xlL2NhbGlmb3JuaWEtcHJvcG9zaXRpb24tMS0xODYzNTc1MC5waHDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9lbGVjdGlvbi9hcnRpY2xlL2NhbGlmb3JuaWEtcHJvcG9zaXRpb24tMS0xODYzNTc1MC5waHDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 12:03:44 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9lbGVjdGlvbi9hcnRpY2xlL2NhbGlmb3JuaWEtcHJvcG9zaXRpb24tMS0xODYzNTc1MC5waHDSAQA?oc=5\" target=\"_blank\">California Prop 1: What to know about Newsom's mental health bond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "San Francisco Chronicle",
+                "$": {
+                  "url": "https://www.sfchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "More than 40% of California voters support a cease-fire in Gaza - The Jewish News of Northern California"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vandlZWtseS5jb20vMjAyNC8wMS8yNC9tb3JlLXRoYW4tNDAtb2YtY2FsaWZvcm5pYS12b3RlcnMtc3VwcG9ydC1hLWNlYXNlLWZpcmUtaW4tZ2F6YS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vandlZWtseS5jb20vMjAyNC8wMS8yNC9tb3JlLXRoYW4tNDAtb2YtY2FsaWZvcm5pYS12b3RlcnMtc3VwcG9ydC1hLWNlYXNlLWZpcmUtaW4tZ2F6YS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 18:25:47 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vandlZWtseS5jb20vMjAyNC8wMS8yNC9tb3JlLXRoYW4tNDAtb2YtY2FsaWZvcm5pYS12b3RlcnMtc3VwcG9ydC1hLWNlYXNlLWZpcmUtaW4tZ2F6YS_SAQA?oc=5\" target=\"_blank\">More than 40% of California voters support a cease-fire in Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jewish News of Northern California</font>"
+            ],
+            "source": [
+              {
+                "_": "The Jewish News of Northern California",
+                "$": {
+                  "url": "https://jweekly.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Why Did California Voters Reject Affirmative Action With Proposition 16? - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDYvMTEvdXMvc3VwcmVtZS1jb3VydC1hZmZpcm1hdGl2ZS1hY3Rpb24uaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDYvMTEvdXMvc3VwcmVtZS1jb3VydC1hZmZpcm1hdGl2ZS1hY3Rpb24uaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 11 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDYvMTEvdXMvc3VwcmVtZS1jb3VydC1hZmZpcm1hdGl2ZS1hY3Rpb24uaHRtbNIBAA?oc=5\" target=\"_blank\">Why Did California Voters Reject Affirmative Action With Proposition 16?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What has California’s Voters Choice Act helped accomplish? - Sacramento Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vb3Bpbmlvbi9vcC1lZC9hcnRpY2xlMjg0MzY0Nzg5Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vb3Bpbmlvbi9vcC1lZC9hcnRpY2xlMjg0MzY0Nzg5Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 21 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vb3Bpbmlvbi9vcC1lZC9hcnRpY2xlMjg0MzY0Nzg5Lmh0bWzSAQA?oc=5\" target=\"_blank\">What has California’s Voters Choice Act helped accomplish?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Sacramento Bee",
+                "$": {
+                  "url": "https://www.sacbee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CA election: Newsom allies back Prop. 1 mental health measure - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjQvMDEvbWVudGFsLWhlYWx0aC1wcm9wb3NpdGlvbi0xL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjQvMDEvbWVudGFsLWhlYWx0aC1wcm9wb3NpdGlvbi0xL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjQvMDEvbWVudGFsLWhlYWx0aC1wcm9wb3NpdGlvbi0xL9IBAA?oc=5\" target=\"_blank\">CA election: Newsom allies back Prop. 1 mental health measure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Video California voters explain why they are leaning toward Trump in 2024 - ABC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYWJjbmV3cy5nby5jb20vNTM4L3ZpZGVvL2NhbGlmb3JuaWEtdm90ZXJzLWV4cGxhaW4tbGVhbmluZy10cnVtcC0yMDI0LTEwMzU0Mzc2OdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vYWJjbmV3cy5nby5jb20vNTM4L3ZpZGVvL2NhbGlmb3JuaWEtdm90ZXJzLWV4cGxhaW4tbGVhbmluZy10cnVtcC0yMDI0LTEwMzU0Mzc2OdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYWJjbmV3cy5nby5jb20vNTM4L3ZpZGVvL2NhbGlmb3JuaWEtdm90ZXJzLWV4cGxhaW4tbGVhbmluZy10cnVtcC0yMDI0LTEwMzU0Mzc2OdIBAA?oc=5\" target=\"_blank\">Video California voters explain why they are leaning toward Trump in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC News",
+                "$": {
+                  "url": "https://abcnews.go.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Poll: Half of California voters worry AI is coming for their jobs - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMTIvMjEvcG9sbC1jYWxpZm9ybmlhLXZvdGVycy1haS1qb2JzLTAwMTMyODAx0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMTIvMjEvcG9sbC1jYWxpZm9ybmlhLXZvdGVycy1haS1qb2JzLTAwMTMyODAx0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMTIvMjEvcG9sbC1jYWxpZm9ybmlhLXZvdGVycy1haS1qb2JzLTAwMTMyODAx0gEA?oc=5\" target=\"_blank\">Poll: Half of California voters worry AI is coming for their jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Non-English-speaking California voters face barriers to vote - Sacramento Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vb3Bpbmlvbi9vcC1lZC9hcnRpY2xlMjg0MzYwMDI0Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vb3Bpbmlvbi9vcC1lZC9hcnRpY2xlMjg0MzYwMDI0Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vb3Bpbmlvbi9vcC1lZC9hcnRpY2xlMjg0MzYwMDI0Lmh0bWzSAQA?oc=5\" target=\"_blank\">Non-English-speaking California voters face barriers to vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Sacramento Bee",
+                "$": {
+                  "url": "https://www.sacbee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PPIC Statewide Survey: Californians and Their Government - Public Policy Institute of California"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnBwaWMub3JnL3B1YmxpY2F0aW9uL3BwaWMtc3RhdGV3aWRlLXN1cnZleS1jYWxpZm9ybmlhbnMtYW5kLXRoZWlyLWdvdmVybm1lbnQtZGVjZW1iZXItMjAyMy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LnBwaWMub3JnL3B1YmxpY2F0aW9uL3BwaWMtc3RhdGV3aWRlLXN1cnZleS1jYWxpZm9ybmlhbnMtYW5kLXRoZWlyLWdvdmVybm1lbnQtZGVjZW1iZXItMjAyMy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnBwaWMub3JnL3B1YmxpY2F0aW9uL3BwaWMtc3RhdGV3aWRlLXN1cnZleS1jYWxpZm9ybmlhbnMtYW5kLXRoZWlyLWdvdmVybm1lbnQtZGVjZW1iZXItMjAyMy_SAQA?oc=5\" target=\"_blank\">PPIC Statewide Survey: Californians and Their Government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Public Policy Institute of California</font>"
+            ],
+            "source": [
+              {
+                "_": "Public Policy Institute of California",
+                "$": {
+                  "url": "https://www.ppic.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | CA oil drilling clash pits big interests against Jane Fonda - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDIzLzEyL3ZvdGVyLXJlZmVyZW5kdW0tamFuZS1mb25kYS1vaWwv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDIzLzEyL3ZvdGVyLXJlZmVyZW5kdW0tamFuZS1mb25kYS1vaWwv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDIzLzEyL3ZvdGVyLXJlZmVyZW5kdW0tamFuZS1mb25kYS1vaWwv0gEA?oc=5\" target=\"_blank\">Opinion | CA oil drilling clash pits big interests against Jane Fonda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What happened to the big changes to California elections? - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDcvY2FsaWZvcm5pYS1lbGVjdGlvbi1jaGFuZ2VzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDcvY2FsaWZvcm5pYS1lbGVjdGlvbi1jaGFuZ2VzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vY2FsbWF0dGVycy5vcmcvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDcvY2FsaWZvcm5pYS1lbGVjdGlvbi1jaGFuZ2VzL9IBAA?oc=5\" target=\"_blank\">What happened to the big changes to California elections?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Poll shows Garvey and Porter tied for second place in California's Senate race - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDIvMDEvY2FsaWZvcm5pYS1zZW5hdGUtcG9sbC1nYXJ2ZXktcG9ydGVyLXRpZWQtMDAxMzg5OTDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDIvMDEvY2FsaWZvcm5pYS1zZW5hdGUtcG9sbC1nYXJ2ZXktcG9ydGVyLXRpZWQtMDAxMzg5OTDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 14:01:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDIvMDEvY2FsaWZvcm5pYS1zZW5hdGUtcG9sbC1nYXJ2ZXktcG9ydGVyLXRpZWQtMDAxMzg5OTDSAQA?oc=5\" target=\"_blank\">Poll shows Garvey and Porter tied for second place in California's Senate race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2018 VCA Education Materials Archives - California Secretary of State"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnNvcy5jYS5nb3Yvdm90ZXJzLWNob2ljZS1hY3QvdmNhLWFyY2hpdmVzLzIwMTgtbWF0ZXJpYWxz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3LnNvcy5jYS5nb3Yvdm90ZXJzLWNob2ljZS1hY3QvdmNhLWFyY2hpdmVzLzIwMTgtbWF0ZXJpYWxz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2023 19:02:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnNvcy5jYS5nb3Yvdm90ZXJzLWNob2ljZS1hY3QvdmNhLWFyY2hpdmVzLzIwMTgtbWF0ZXJpYWxz0gEA?oc=5\" target=\"_blank\">2018 VCA Education Materials Archives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Secretary of State</font>"
+            ],
+            "source": [
+              {
+                "_": "California Secretary of State",
+                "$": {
+                  "url": "https://www.sos.ca.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Key facts about Hispanic eligible voters in 2024 - Pew Research Center"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnBld3Jlc2VhcmNoLm9yZy9zaG9ydC1yZWFkcy8yMDI0LzAxLzEwL2tleS1mYWN0cy1hYm91dC1oaXNwYW5pYy1lbGlnaWJsZS12b3RlcnMtaW4tMjAyNC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LnBld3Jlc2VhcmNoLm9yZy9zaG9ydC1yZWFkcy8yMDI0LzAxLzEwL2tleS1mYWN0cy1hYm91dC1oaXNwYW5pYy1lbGlnaWJsZS12b3RlcnMtaW4tMjAyNC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnBld3Jlc2VhcmNoLm9yZy9zaG9ydC1yZWFkcy8yMDI0LzAxLzEwL2tleS1mYWN0cy1hYm91dC1oaXNwYW5pYy1lbGlnaWJsZS12b3RlcnMtaW4tMjAyNC_SAQA?oc=5\" target=\"_blank\">Key facts about Hispanic eligible voters in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pew Research Center</font>"
+            ],
+            "source": [
+              {
+                "_": "Pew Research Center",
+                "$": {
+                  "url": "https://www.pewresearch.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "More Calif. voters disapprove of Gov. Newsom than approve: poll - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3NwZWN0cnVtbmV3czEuY29tL2NhL2xhLXdlc3QvcG9saXRpY3MvMjAyMy8xMS8wNy9tb3JlLWNhbGlmb3JuaWEtdm90ZXJzLWRpc2FwcHJvdmUtb2YtZ292LS1uZXdzb20tdGhhbi1hcHByb3ZlLS1wb2xsLXNheXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3NwZWN0cnVtbmV3czEuY29tL2NhL2xhLXdlc3QvcG9saXRpY3MvMjAyMy8xMS8wNy9tb3JlLWNhbGlmb3JuaWEtdm90ZXJzLWRpc2FwcHJvdmUtb2YtZ292LS1uZXdzb20tdGhhbi1hcHByb3ZlLS1wb2xsLXNheXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3NwZWN0cnVtbmV3czEuY29tL2NhL2xhLXdlc3QvcG9saXRpY3MvMjAyMy8xMS8wNy9tb3JlLWNhbGlmb3JuaWEtdm90ZXJzLWRpc2FwcHJvdmUtb2YtZ292LS1uZXdzb20tdGhhbi1hcHByb3ZlLS1wb2xsLXNheXPSAQA?oc=5\" target=\"_blank\">More Calif. voters disapprove of Gov. Newsom than approve: poll</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'No Party Preference' voters decline in California as political polarization increases, data shows - KGO-TV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYWJjN25ld3MuY29tL25vLXBhcnR5LXByZWZlcmVuY2UtY2FsaWZvcm5pYS12b3RlcnMtMjAyNC1lbGVjdGlvbi1wb2xpdGljYWwtcGFydGllcy8xNDAyNDk4OS_SAWhodHRwczovL2FiYzduZXdzLmNvbS9hbXAvbm8tcGFydHktcHJlZmVyZW5jZS1jYWxpZm9ybmlhLXZvdGVycy0yMDI0LWVsZWN0aW9uLXBvbGl0aWNhbC1wYXJ0aWVzLzE0MDI0OTg5Lw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vYWJjN25ld3MuY29tL25vLXBhcnR5LXByZWZlcmVuY2UtY2FsaWZvcm5pYS12b3RlcnMtMjAyNC1lbGVjdGlvbi1wb2xpdGljYWwtcGFydGllcy8xNDAyNDk4OS_SAWhodHRwczovL2FiYzduZXdzLmNvbS9hbXAvbm8tcGFydHktcHJlZmVyZW5jZS1jYWxpZm9ybmlhLXZvdGVycy0yMDI0LWVsZWN0aW9uLXBvbGl0aWNhbC1wYXJ0aWVzLzE0MDI0OTg5Lw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYWJjN25ld3MuY29tL25vLXBhcnR5LXByZWZlcmVuY2UtY2FsaWZvcm5pYS12b3RlcnMtMjAyNC1lbGVjdGlvbi1wb2xpdGljYWwtcGFydGllcy8xNDAyNDk4OS_SAWhodHRwczovL2FiYzduZXdzLmNvbS9hbXAvbm8tcGFydHktcHJlZmVyZW5jZS1jYWxpZm9ybmlhLXZvdGVycy0yMDI0LWVsZWN0aW9uLXBvbGl0aWNhbC1wYXJ0aWVzLzE0MDI0OTg5Lw?oc=5\" target=\"_blank\">'No Party Preference' voters decline in California as political polarization increases, data shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGO-TV</font>"
+            ],
+            "source": [
+              {
+                "_": "KGO-TV",
+                "$": {
+                  "url": "https://abc7news.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Poll shows Trump gaining support among California Republicans for presidential nod - The Mercury News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDI0LzAxLzE1L3BvbGwtc2hvd3MtdHJ1bXAtZ2FpbmluZy1zdXBwb3J0LWFtb25nLWNhbGlmb3JuaWEtcmVwdWJsaWNhbnMtZm9yLXByZXNpZGVudGlhbC1ub2Qv0gF-aHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMjQvMDEvMTUvcG9sbC1zaG93cy10cnVtcC1nYWluaW5nLXN1cHBvcnQtYW1vbmctY2FsaWZvcm5pYS1yZXB1YmxpY2Fucy1mb3ItcHJlc2lkZW50aWFsLW5vZC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDI0LzAxLzE1L3BvbGwtc2hvd3MtdHJ1bXAtZ2FpbmluZy1zdXBwb3J0LWFtb25nLWNhbGlmb3JuaWEtcmVwdWJsaWNhbnMtZm9yLXByZXNpZGVudGlhbC1ub2Qv0gF-aHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMjQvMDEvMTUvcG9sbC1zaG93cy10cnVtcC1nYWluaW5nLXN1cHBvcnQtYW1vbmctY2FsaWZvcm5pYS1yZXB1YmxpY2Fucy1mb3ItcHJlc2lkZW50aWFsLW5vZC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 15 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDI0LzAxLzE1L3BvbGwtc2hvd3MtdHJ1bXAtZ2FpbmluZy1zdXBwb3J0LWFtb25nLWNhbGlmb3JuaWEtcmVwdWJsaWNhbnMtZm9yLXByZXNpZGVudGlhbC1ub2Qv0gF-aHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMjQvMDEvMTUvcG9sbC1zaG93cy10cnVtcC1nYWluaW5nLXN1cHBvcnQtYW1vbmctY2FsaWZvcm5pYS1yZXB1YmxpY2Fucy1mb3ItcHJlc2lkZW50aWFsLW5vZC9hbXAv?oc=5\" target=\"_blank\">Poll shows Trump gaining support among California Republicans for presidential nod</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Mercury News",
+                "$": {
+                  "url": "https://www.mercurynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California voters overwhelmingly say US border is 'not secure,' poll finds - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2NhbGlmb3JuaWEtdm90ZXJzLW92ZXJ3aGVsbWluZ2x5LXNheS11cy1ib3JkZXItbm90LXNlY3VyZS1wb2xsLWZpbmRz0gFpaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvY2FsaWZvcm5pYS12b3RlcnMtb3ZlcndoZWxtaW5nbHktc2F5LXVzLWJvcmRlci1ub3Qtc2VjdXJlLXBvbGwtZmluZHMuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2NhbGlmb3JuaWEtdm90ZXJzLW92ZXJ3aGVsbWluZ2x5LXNheS11cy1ib3JkZXItbm90LXNlY3VyZS1wb2xsLWZpbmRz0gFpaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvY2FsaWZvcm5pYS12b3RlcnMtb3ZlcndoZWxtaW5nbHktc2F5LXVzLWJvcmRlci1ub3Qtc2VjdXJlLXBvbGwtZmluZHMuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2NhbGlmb3JuaWEtdm90ZXJzLW92ZXJ3aGVsbWluZ2x5LXNheS11cy1ib3JkZXItbm90LXNlY3VyZS1wb2xsLWZpbmRz0gFpaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvY2FsaWZvcm5pYS12b3RlcnMtb3ZlcndoZWxtaW5nbHktc2F5LXVzLWJvcmRlci1ub3Qtc2VjdXJlLXBvbGwtZmluZHMuYW1w?oc=5\" target=\"_blank\">California voters overwhelmingly say US border is 'not secure,' poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Why Newsom's Senate appointment gives California voters more power in the 2024 election - Santa Monica Daily Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vc21kcC5jb20vMjAyMy8xMS8xNC93aHktbmV3c29tcy1zZW5hdGUtYXBwb2ludG1lbnQtZ2l2ZXMtY2FsaWZvcm5pYS12b3RlcnMtbW9yZS1wb3dlci1pbi10aGUtMjAyNC1lbGVjdGlvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vc21kcC5jb20vMjAyMy8xMS8xNC93aHktbmV3c29tcy1zZW5hdGUtYXBwb2ludG1lbnQtZ2l2ZXMtY2FsaWZvcm5pYS12b3RlcnMtbW9yZS1wb3dlci1pbi10aGUtMjAyNC1lbGVjdGlvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vc21kcC5jb20vMjAyMy8xMS8xNC93aHktbmV3c29tcy1zZW5hdGUtYXBwb2ludG1lbnQtZ2l2ZXMtY2FsaWZvcm5pYS12b3RlcnMtbW9yZS1wb3dlci1pbi10aGUtMjAyNC1lbGVjdGlvbi_SAQA?oc=5\" target=\"_blank\">Why Newsom's Senate appointment gives California voters more power in the 2024 election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Santa Monica Daily Press",
+                "$": {
+                  "url": "https://smdp.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Experts Say 'Political Deserts' Still Preventing California Voters From Casting Ballots - KQED"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE5NTc2ODYvZXhwZXJ0cy1zYXktcG9saXRpY2FsLWRlc2VydHMtc3RpbGwtcHJldmVudGluZy1jYWxpZm9ybmlhLXZvdGVycy1mcm9tLWNhc3RpbmctYmFsbG90c9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE5NTc2ODYvZXhwZXJ0cy1zYXktcG9saXRpY2FsLWRlc2VydHMtc3RpbGwtcHJldmVudGluZy1jYWxpZm9ybmlhLXZvdGVycy1mcm9tLWNhc3RpbmctYmFsbG90c9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE5NTc2ODYvZXhwZXJ0cy1zYXktcG9saXRpY2FsLWRlc2VydHMtc3RpbGwtcHJldmVudGluZy1jYWxpZm9ybmlhLXZvdGVycy1mcm9tLWNhc3RpbmctYmFsbG90c9IBAA?oc=5\" target=\"_blank\">Experts Say 'Political Deserts' Still Preventing California Voters From Casting Ballots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>"
+            ],
+            "source": [
+              {
+                "_": "KQED",
+                "$": {
+                  "url": "https://www.kqed.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Newsom urges California voters to support Proposition 1 - LA Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8wMy9nb3YtbmV3c29tLXVyZ2VzLWNhbGlmb3JuaWEtdm90ZXJzLXRvLXN1cHBvcnQtcHJvcG9zaXRpb24tMS_SAWVodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjQvMDEvMDMvZ292LW5ld3NvbS11cmdlcy1jYWxpZm9ybmlhLXZvdGVycy10by1zdXBwb3J0LXByb3Bvc2l0aW9uLTEvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8wMy9nb3YtbmV3c29tLXVyZ2VzLWNhbGlmb3JuaWEtdm90ZXJzLXRvLXN1cHBvcnQtcHJvcG9zaXRpb24tMS_SAWVodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjQvMDEvMDMvZ292LW5ld3NvbS11cmdlcy1jYWxpZm9ybmlhLXZvdGVycy10by1zdXBwb3J0LXByb3Bvc2l0aW9uLTEvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8wMy9nb3YtbmV3c29tLXVyZ2VzLWNhbGlmb3JuaWEtdm90ZXJzLXRvLXN1cHBvcnQtcHJvcG9zaXRpb24tMS_SAWVodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjQvMDEvMDMvZ292LW5ld3NvbS11cmdlcy1jYWxpZm9ybmlhLXZvdGVycy10by1zdXBwb3J0LXByb3Bvc2l0aW9uLTEvYW1wLw?oc=5\" target=\"_blank\">Gov. Newsom urges California voters to support Proposition 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "LA Daily News",
+                "$": {
+                  "url": "https://www.dailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How California voters don't look like their state - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vY2FsbWF0dGVycy5vcmcvbmV3c2xldHRlcnMvd2hhdG1hdHRlcnMvMjAyMy8wOC9jYWxpZm9ybmlhLXZvdGVycy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vY2FsbWF0dGVycy5vcmcvbmV3c2xldHRlcnMvd2hhdG1hdHRlcnMvMjAyMy8wOC9jYWxpZm9ybmlhLXZvdGVycy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vY2FsbWF0dGVycy5vcmcvbmV3c2xldHRlcnMvd2hhdG1hdHRlcnMvMjAyMy8wOC9jYWxpZm9ybmlhLXZvdGVycy_SAQA?oc=5\" target=\"_blank\">How California voters don't look like their state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election 2024: California Voters to Decide on $6 Billion Homelessness Bond - Planetizen"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnBsYW5ldGl6ZW4uY29tL25ld3MvMjAyMy8xMC8xMjU5ODUtZWxlY3Rpb24tMjAyNC1jYWxpZm9ybmlhLXZvdGVycy1kZWNpZGUtNi1iaWxsaW9uLWhvbWVsZXNzbmVzcy1ib25k0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LnBsYW5ldGl6ZW4uY29tL25ld3MvMjAyMy8xMC8xMjU5ODUtZWxlY3Rpb24tMjAyNC1jYWxpZm9ybmlhLXZvdGVycy1kZWNpZGUtNi1iaWxsaW9uLWhvbWVsZXNzbmVzcy1ib25k0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnBsYW5ldGl6ZW4uY29tL25ld3MvMjAyMy8xMC8xMjU5ODUtZWxlY3Rpb24tMjAyNC1jYWxpZm9ybmlhLXZvdGVycy1kZWNpZGUtNi1iaWxsaW9uLWhvbWVsZXNzbmVzcy1ib25k0gEA?oc=5\" target=\"_blank\">Election 2024: California Voters to Decide on $6 Billion Homelessness Bond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planetizen</font>"
+            ],
+            "source": [
+              {
+                "_": "Planetizen",
+                "$": {
+                  "url": "https://www.planetizen.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Proposition 1: Voters to decide whether to overhaul California's mental health system - CBS News 8"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNiczguY29tL2FydGljbGUvbmV3cy9sb2NhbC9vdmVyaGF1bGluZy1jYWxpZm9ybmlhcy1tZW50YWwtaGVhbHRoLXN5c3RlbS81MDktNTBiNzBkYTItMjliMi00NGRmLWI3MjctOWY0ZTVmNDQ3YTAz0gGBAWh0dHBzOi8vd3d3LmNiczguY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvb3ZlcmhhdWxpbmctY2FsaWZvcm5pYXMtbWVudGFsLWhlYWx0aC1zeXN0ZW0vNTA5LTUwYjcwZGEyLTI5YjItNDRkZi1iNzI3LTlmNGU1ZjQ0N2EwMw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LmNiczguY29tL2FydGljbGUvbmV3cy9sb2NhbC9vdmVyaGF1bGluZy1jYWxpZm9ybmlhcy1tZW50YWwtaGVhbHRoLXN5c3RlbS81MDktNTBiNzBkYTItMjliMi00NGRmLWI3MjctOWY0ZTVmNDQ3YTAz0gGBAWh0dHBzOi8vd3d3LmNiczguY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvb3ZlcmhhdWxpbmctY2FsaWZvcm5pYXMtbWVudGFsLWhlYWx0aC1zeXN0ZW0vNTA5LTUwYjcwZGEyLTI5YjItNDRkZi1iNzI3LTlmNGU1ZjQ0N2EwMw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNiczguY29tL2FydGljbGUvbmV3cy9sb2NhbC9vdmVyaGF1bGluZy1jYWxpZm9ybmlhcy1tZW50YWwtaGVhbHRoLXN5c3RlbS81MDktNTBiNzBkYTItMjliMi00NGRmLWI3MjctOWY0ZTVmNDQ3YTAz0gGBAWh0dHBzOi8vd3d3LmNiczguY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvb3ZlcmhhdWxpbmctY2FsaWZvcm5pYXMtbWVudGFsLWhlYWx0aC1zeXN0ZW0vNTA5LTUwYjcwZGEyLTI5YjItNDRkZi1iNzI3LTlmNGU1ZjQ0N2EwMw?oc=5\" target=\"_blank\">Proposition 1: Voters to decide whether to overhaul California's mental health system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News 8</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News 8",
+                "$": {
+                  "url": "https://www.cbs8.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Voting for California's Next Senator in 2024 - County of San Luis Obispo"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnNsb2NvdW50eS5jYS5nb3YvRGVwYXJ0bWVudHMvQ2xlcmstUmVjb3JkZXIvTmV3cy1Bbm5vdW5jZW1lbnRzL1ZvdGluZy1mb3ItQ2FsaWZvcm5pYS1zLU5leHQtU2VuYXRvci1pbi0yMDI0LmFzcHjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LnNsb2NvdW50eS5jYS5nb3YvRGVwYXJ0bWVudHMvQ2xlcmstUmVjb3JkZXIvTmV3cy1Bbm5vdW5jZW1lbnRzL1ZvdGluZy1mb3ItQ2FsaWZvcm5pYS1zLU5leHQtU2VuYXRvci1pbi0yMDI0LmFzcHjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnNsb2NvdW50eS5jYS5nb3YvRGVwYXJ0bWVudHMvQ2xlcmstUmVjb3JkZXIvTmV3cy1Bbm5vdW5jZW1lbnRzL1ZvdGluZy1mb3ItQ2FsaWZvcm5pYS1zLU5leHQtU2VuYXRvci1pbi0yMDI0LmFzcHjSAQA?oc=5\" target=\"_blank\">Voting for California's Next Senator in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">County of San Luis Obispo</font>"
+            ],
+            "source": [
+              {
+                "_": "County of San Luis Obispo",
+                "$": {
+                  "url": "https://www.slocounty.ca.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Here’s what to know about the California special election to succeed Kevin McCarthy - Fresno Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZyZXNub2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyODQ1ODU2NzUuaHRtbNIBUWh0dHBzOi8vYW1wLmZyZXNub2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyODQ1ODU2NzUuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LmZyZXNub2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyODQ1ODU2NzUuaHRtbNIBUWh0dHBzOi8vYW1wLmZyZXNub2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyODQ1ODU2NzUuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZyZXNub2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyODQ1ODU2NzUuaHRtbNIBUWh0dHBzOi8vYW1wLmZyZXNub2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyODQ1ODU2NzUuaHRtbA?oc=5\" target=\"_blank\">Here’s what to know about the California special election to succeed Kevin McCarthy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fresno Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Fresno Bee",
+                "$": {
+                  "url": "https://www.fresnobee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trump kept on California GOP primary ballot despite 14th Amendment call to remove him - ABC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvdHJ1bXAtY2FsaWZvcm5pYS1nb3AtcHJpbWFyeS1iYWxsb3QtZGVzcGl0ZS0xNHRoLWFtZW5kbWVudC9zdG9yeT9pZD0xMDU5ODgzNzfSAXFodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy90cnVtcC1jYWxpZm9ybmlhLWdvcC1wcmltYXJ5LWJhbGxvdC1kZXNwaXRlLTE0dGgtYW1lbmRtZW50L3N0b3J5P2lkPTEwNTk4ODM3Nw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvdHJ1bXAtY2FsaWZvcm5pYS1nb3AtcHJpbWFyeS1iYWxsb3QtZGVzcGl0ZS0xNHRoLWFtZW5kbWVudC9zdG9yeT9pZD0xMDU5ODgzNzfSAXFodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy90cnVtcC1jYWxpZm9ybmlhLWdvcC1wcmltYXJ5LWJhbGxvdC1kZXNwaXRlLTE0dGgtYW1lbmRtZW50L3N0b3J5P2lkPTEwNTk4ODM3Nw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvdHJ1bXAtY2FsaWZvcm5pYS1nb3AtcHJpbWFyeS1iYWxsb3QtZGVzcGl0ZS0xNHRoLWFtZW5kbWVudC9zdG9yeT9pZD0xMDU5ODgzNzfSAXFodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy90cnVtcC1jYWxpZm9ybmlhLWdvcC1wcmltYXJ5LWJhbGxvdC1kZXNwaXRlLTE0dGgtYW1lbmRtZW50L3N0b3J5P2lkPTEwNTk4ODM3Nw?oc=5\" target=\"_blank\">Trump kept on California GOP primary ballot despite 14th Amendment call to remove him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC News",
+                "$": {
+                  "url": "https://abcnews.go.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jerry Brown joins Newsom in urging California Supreme Court to remove tax measure from ballot - San Francisco Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL2plcnJ5LWJyb3duLWJhbGxvdC0xODY0MzEwOS5waHDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL2plcnJ5LWJyb3duLWJhbGxvdC0xODY0MzEwOS5waHDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 18:22:30 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL2plcnJ5LWJyb3duLWJhbGxvdC0xODY0MzEwOS5waHDSAQA?oc=5\" target=\"_blank\">Jerry Brown joins Newsom in urging California Supreme Court to remove tax measure from ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "San Francisco Chronicle",
+                "$": {
+                  "url": "https://www.sfchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Most Californians oppose cash reparations for slave descendants, IGS Poll finds - UC Berkeley"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbmV3cy5iZXJrZWxleS5lZHUvMjAyMy8wOS8xMi9Nb3N0LUNhbGlmb3JuaWFucy1vcHBvc2UtY2FzaC1yZXBhcmF0aW9ucy1mb3Itc2xhdmUtZGVzY2VuZGFudHPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vbmV3cy5iZXJrZWxleS5lZHUvMjAyMy8wOS8xMi9Nb3N0LUNhbGlmb3JuaWFucy1vcHBvc2UtY2FzaC1yZXBhcmF0aW9ucy1mb3Itc2xhdmUtZGVzY2VuZGFudHPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbmV3cy5iZXJrZWxleS5lZHUvMjAyMy8wOS8xMi9Nb3N0LUNhbGlmb3JuaWFucy1vcHBvc2UtY2FzaC1yZXBhcmF0aW9ucy1mb3Itc2xhdmUtZGVzY2VuZGFudHPSAQA?oc=5\" target=\"_blank\">Most Californians oppose cash reparations for slave descendants, IGS Poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UC Berkeley</font>"
+            ],
+            "source": [
+              {
+                "_": "UC Berkeley",
+                "$": {
+                  "url": "https://news.berkeley.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Over 1.9M Ballots Sent To Voters In San Diego County - Patch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvc2FuLWRpZWdvLzEtOS1taWxsaW9uLWJhbGxvdHMtc2VudC12b3RlcnMtc2FuLWRpZWdvLWNvdW50edIBaGh0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvc2FuLWRpZWdvL2FtcC8zMTY2MzI1MS9vdmVyLTEtOW0tYmFsbG90cy1zZW50LXRvLXZvdGVycy1pbi1zYW4tZGllZ28tY291bnR5?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvc2FuLWRpZWdvLzEtOS1taWxsaW9uLWJhbGxvdHMtc2VudC12b3RlcnMtc2FuLWRpZWdvLWNvdW50edIBaGh0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvc2FuLWRpZWdvL2FtcC8zMTY2MzI1MS9vdmVyLTEtOW0tYmFsbG90cy1zZW50LXRvLXZvdGVycy1pbi1zYW4tZGllZ28tY291bnR5",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:58:28 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvc2FuLWRpZWdvLzEtOS1taWxsaW9uLWJhbGxvdHMtc2VudC12b3RlcnMtc2FuLWRpZWdvLWNvdW50edIBaGh0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvc2FuLWRpZWdvL2FtcC8zMTY2MzI1MS9vdmVyLTEtOW0tYmFsbG90cy1zZW50LXRvLXZvdGVycy1pbi1zYW4tZGllZ28tY291bnR5?oc=5\" target=\"_blank\">Over 1.9M Ballots Sent To Voters In San Diego County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
+            ],
+            "source": [
+              {
+                "_": "Patch",
+                "$": {
+                  "url": "https://patch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California Prop. 1: Explaining ballot measure to tackle homelessness, mental health issues - KABC-TV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWJjNy5jb20vY2FsaWZvcm5pYS13aGF0LWlzLXByb3Bvc2l0aW9uLTEtZWxlY3Rpb24tZGF5LWJhbGxvdC0yMDI0LzE0Mzc5NDUzL9IBWGh0dHBzOi8vYWJjNy5jb20vYW1wL2NhbGlmb3JuaWEtd2hhdC1pcy1wcm9wb3NpdGlvbi0xLWVsZWN0aW9uLWRheS1iYWxsb3QtMjAyNC8xNDM3OTQ1My8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vYWJjNy5jb20vY2FsaWZvcm5pYS13aGF0LWlzLXByb3Bvc2l0aW9uLTEtZWxlY3Rpb24tZGF5LWJhbGxvdC0yMDI0LzE0Mzc5NDUzL9IBWGh0dHBzOi8vYWJjNy5jb20vYW1wL2NhbGlmb3JuaWEtd2hhdC1pcy1wcm9wb3NpdGlvbi0xLWVsZWN0aW9uLWRheS1iYWxsb3QtMjAyNC8xNDM3OTQ1My8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 06:26:35 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWJjNy5jb20vY2FsaWZvcm5pYS13aGF0LWlzLXByb3Bvc2l0aW9uLTEtZWxlY3Rpb24tZGF5LWJhbGxvdC0yMDI0LzE0Mzc5NDUzL9IBWGh0dHBzOi8vYWJjNy5jb20vYW1wL2NhbGlmb3JuaWEtd2hhdC1pcy1wcm9wb3NpdGlvbi0xLWVsZWN0aW9uLWRheS1iYWxsb3QtMjAyNC8xNDM3OTQ1My8?oc=5\" target=\"_blank\">California Prop. 1: Explaining ballot measure to tackle homelessness, mental health issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KABC-TV</font>"
+            ],
+            "source": [
+              {
+                "_": "KABC-TV",
+                "$": {
+                  "url": "https://abc7.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Four key measures advance to the 2024 ballot boxes - League of California Cities"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNhbGNpdGllcy5vcmcvbmV3cy9wb3N0LzIwMjMvMDkvMTUvZm91ci1rZXktbWVhc3VyZXMtYWR2YW5jZS10by10aGUtMjAyNC1iYWxsb3QtYm94ZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmNhbGNpdGllcy5vcmcvbmV3cy9wb3N0LzIwMjMvMDkvMTUvZm91ci1rZXktbWVhc3VyZXMtYWR2YW5jZS10by10aGUtMjAyNC1iYWxsb3QtYm94ZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNhbGNpdGllcy5vcmcvbmV3cy9wb3N0LzIwMjMvMDkvMTUvZm91ci1rZXktbWVhc3VyZXMtYWR2YW5jZS10by10aGUtMjAyNC1iYWxsb3QtYm94ZXPSAQA?oc=5\" target=\"_blank\">Four key measures advance to the 2024 ballot boxes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">League of California Cities</font>"
+            ],
+            "source": [
+              {
+                "_": "League of California Cities",
+                "$": {
+                  "url": "https://www.calcities.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California primary election 2024: What will be on my ballot? - Desert Sun"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmRlc2VydHN1bi5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyNC8wMS8zMS9jYWxpZm9ybmlhLXByaW1hcnktZWxlY3Rpb24tMjAyNC1iYWxsb3QtaW5mby83MjQwMDY1MjAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmRlc2VydHN1bi5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyNC8wMS8zMS9jYWxpZm9ybmlhLXByaW1hcnktZWxlY3Rpb24tMjAyNC1iYWxsb3QtaW5mby83MjQwMDY1MjAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 21:47:40 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmRlc2VydHN1bi5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyNC8wMS8zMS9jYWxpZm9ybmlhLXByaW1hcnktZWxlY3Rpb24tMjAyNC1iYWxsb3QtaW5mby83MjQwMDY1MjAwNy_SAQA?oc=5\" target=\"_blank\">California primary election 2024: What will be on my ballot?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Desert Sun</font>"
+            ],
+            "source": [
+              {
+                "_": "Desert Sun",
+                "$": {
+                  "url": "https://www.desertsun.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Californians worry about deficit, state’s direction. How it affects Gavin Newsom’s popularity - Sacramento Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI4NDM5ODQxNS5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjg0Mzk4NDE1Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI4NDM5ODQxNS5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjg0Mzk4NDE1Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI4NDM5ODQxNS5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjg0Mzk4NDE1Lmh0bWw?oc=5\" target=\"_blank\">Californians worry about deficit, state’s direction. How it affects Gavin Newsom’s popularity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Sacramento Bee",
+                "$": {
+                  "url": "https://www.sacbee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What big issue do Central California voters care about? - KGET 17"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmtnZXQuY29tL25ld3MvcG9saXRpY3MveW91ci1sb2NhbC1lbGVjdGlvbnMvd2hhdC1iaWctaXNzdWUtZG8tY2VudHJhbC1jYWxpZm9ybmlhLXZvdGVycy1jYXJlLWFib3V0L9IBc2h0dHBzOi8vd3d3LmtnZXQuY29tL25ld3MvcG9saXRpY3MveW91ci1sb2NhbC1lbGVjdGlvbnMvd2hhdC1iaWctaXNzdWUtZG8tY2VudHJhbC1jYWxpZm9ybmlhLXZvdGVycy1jYXJlLWFib3V0L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LmtnZXQuY29tL25ld3MvcG9saXRpY3MveW91ci1sb2NhbC1lbGVjdGlvbnMvd2hhdC1iaWctaXNzdWUtZG8tY2VudHJhbC1jYWxpZm9ybmlhLXZvdGVycy1jYXJlLWFib3V0L9IBc2h0dHBzOi8vd3d3LmtnZXQuY29tL25ld3MvcG9saXRpY3MveW91ci1sb2NhbC1lbGVjdGlvbnMvd2hhdC1iaWctaXNzdWUtZG8tY2VudHJhbC1jYWxpZm9ybmlhLXZvdGVycy1jYXJlLWFib3V0L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 02:06:37 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmtnZXQuY29tL25ld3MvcG9saXRpY3MveW91ci1sb2NhbC1lbGVjdGlvbnMvd2hhdC1iaWctaXNzdWUtZG8tY2VudHJhbC1jYWxpZm9ybmlhLXZvdGVycy1jYXJlLWFib3V0L9IBc2h0dHBzOi8vd3d3LmtnZXQuY29tL25ld3MvcG9saXRpY3MveW91ci1sb2NhbC1lbGVjdGlvbnMvd2hhdC1iaWctaXNzdWUtZG8tY2VudHJhbC1jYWxpZm9ybmlhLXZvdGVycy1jYXJlLWFib3V0L2FtcC8?oc=5\" target=\"_blank\">What big issue do Central California voters care about?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGET 17</font>"
+            ],
+            "source": [
+              {
+                "_": "KGET 17",
+                "$": {
+                  "url": "https://www.kget.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Can right to housing solve California homelessness? - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvaG91c2luZy8yMDIzLzA2L3JpZ2h0LXRvLWhvdXNpbmctY2FsaWZvcm5pYS1jb25zdGl0dXRpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvaG91c2luZy8yMDIzLzA2L3JpZ2h0LXRvLWhvdXNpbmctY2FsaWZvcm5pYS1jb25zdGl0dXRpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vY2FsbWF0dGVycy5vcmcvaG91c2luZy8yMDIzLzA2L3JpZ2h0LXRvLWhvdXNpbmctY2FsaWZvcm5pYS1jb25zdGl0dXRpb24v0gEA?oc=5\" target=\"_blank\">Can right to housing solve California homelessness?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3068 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"healthcare\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=healthcare&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "OpenAI-backed healthcare AI startup Ambience raises $70 million in funding - ETCIO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL2Npby5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvaW52ZXN0bWVudHMvb3BlbmFpLWJhY2tlZC1oZWFsdGhjYXJlLWFpLXN0YXJ0dXAtYW1iaWVuY2UtcmFpc2VzLTcwLW1pbGxpb24taW4tZnVuZGluZy8xMDc0NzYxNjfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL2Npby5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvaW52ZXN0bWVudHMvb3BlbmFpLWJhY2tlZC1oZWFsdGhjYXJlLWFpLXN0YXJ0dXAtYW1iaWVuY2UtcmFpc2VzLTcwLW1pbGxpb24taW4tZnVuZGluZy8xMDc0NzYxNjfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 04:58:49 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL2Npby5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvaW52ZXN0bWVudHMvb3BlbmFpLWJhY2tlZC1oZWFsdGhjYXJlLWFpLXN0YXJ0dXAtYW1iaWVuY2UtcmFpc2VzLTcwLW1pbGxpb24taW4tZnVuZGluZy8xMDc0NzYxNjfSAQA?oc=5\" target=\"_blank\">OpenAI-backed healthcare AI startup Ambience raises $70 million in funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETCIO</font>"
+            ],
+            "source": [
+              {
+                "_": "ETCIO",
+                "$": {
+                  "url": "https://cio.economictimes.indiatimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ambience Healthcare raises $70M for its AI assistant led by OpenAI and Kleiner Perkins - TechCrunch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wMi8wNi9hbWJpZW5jZS1oZWFsdGhjYXJlLXJhaXNlcy03MG0tZm9yLWl0cy1haS1hc3Npc3RhbnQtbGVkLWJ5LW9wZW5haS1hbmQta2xlaW5lci1wZXJraW5zL9IBfGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wMi8wNi9hbWJpZW5jZS1oZWFsdGhjYXJlLXJhaXNlcy03MG0tZm9yLWl0cy1haS1hc3Npc3RhbnQtbGVkLWJ5LW9wZW5haS1hbmQta2xlaW5lci1wZXJraW5zL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wMi8wNi9hbWJpZW5jZS1oZWFsdGhjYXJlLXJhaXNlcy03MG0tZm9yLWl0cy1haS1hc3Npc3RhbnQtbGVkLWJ5LW9wZW5haS1hbmQta2xlaW5lci1wZXJraW5zL9IBfGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wMi8wNi9hbWJpZW5jZS1oZWFsdGhjYXJlLXJhaXNlcy03MG0tZm9yLWl0cy1haS1hc3Npc3RhbnQtbGVkLWJ5LW9wZW5haS1hbmQta2xlaW5lci1wZXJraW5zL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 10:05:57 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wMi8wNi9hbWJpZW5jZS1oZWFsdGhjYXJlLXJhaXNlcy03MG0tZm9yLWl0cy1haS1hc3Npc3RhbnQtbGVkLWJ5LW9wZW5haS1hbmQta2xlaW5lci1wZXJraW5zL9IBfGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wMi8wNi9hbWJpZW5jZS1oZWFsdGhjYXJlLXJhaXNlcy03MG0tZm9yLWl0cy1haS1hc3Npc3RhbnQtbGVkLWJ5LW9wZW5haS1hbmQta2xlaW5lci1wZXJraW5zL2FtcC8?oc=5\" target=\"_blank\">Ambience Healthcare raises $70M for its AI assistant led by OpenAI and Kleiner Perkins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>"
+            ],
+            "source": [
+              {
+                "_": "TechCrunch",
+                "$": {
+                  "url": "https://techcrunch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ambience Healthcare Raises $70M to Scale the Most Comprehensive AI Operating System for Healthcare Organizations - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FtYmllbmNlLWhlYWx0aGNhcmUtcmFpc2VzLTcwbS10by1zY2FsZS10aGUtbW9zdC1jb21wcmVoZW5zaXZlLWFpLW9wZXJhdGluZy1zeXN0ZW0tZm9yLWhlYWx0aGNhcmUtb3JnYW5pemF0aW9ucy0zMDIwNTQwNTYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FtYmllbmNlLWhlYWx0aGNhcmUtcmFpc2VzLTcwbS10by1zY2FsZS10aGUtbW9zdC1jb21wcmVoZW5zaXZlLWFpLW9wZXJhdGluZy1zeXN0ZW0tZm9yLWhlYWx0aGNhcmUtb3JnYW5pemF0aW9ucy0zMDIwNTQwNTYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 10:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FtYmllbmNlLWhlYWx0aGNhcmUtcmFpc2VzLTcwbS10by1zY2FsZS10aGUtbW9zdC1jb21wcmVoZW5zaXZlLWFpLW9wZXJhdGluZy1zeXN0ZW0tZm9yLWhlYWx0aGNhcmUtb3JnYW5pemF0aW9ucy0zMDIwNTQwNTYuaHRtbNIBAA?oc=5\" target=\"_blank\">Ambience Healthcare Raises $70M to Scale the Most Comprehensive AI Operating System for Healthcare Organizations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "This 34-Year-Old Doctor Is Delivering Healthcare At The Doorstep Of Senior Citizens With ‘Doctor On Wheels’ - Swachh India NDTV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3N3YWNoaGluZGlhLm5kdHYuY29tL3RoaXMtMzQteWVhci1vbGQtZG9jdG9yLWlzLWRlbGl2ZXJpbmctaGVhbHRoY2FyZS1hdC10aGUtZG9vcnN0ZXAtb2Ytc2VuaW9yLWNpdGl6ZW5zLXdpdGgtZG9jdG9yLW9uLXdoZWVscy04NzQ0MS_SAZEBaHR0cHM6Ly9zd2FjaGhpbmRpYS5uZHR2LmNvbS90aGlzLTM0LXllYXItb2xkLWRvY3Rvci1pcy1kZWxpdmVyaW5nLWhlYWx0aGNhcmUtYXQtdGhlLWRvb3JzdGVwLW9mLXNlbmlvci1jaXRpemVucy13aXRoLWRvY3Rvci1vbi13aGVlbHMtODc0NDEvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3N3YWNoaGluZGlhLm5kdHYuY29tL3RoaXMtMzQteWVhci1vbGQtZG9jdG9yLWlzLWRlbGl2ZXJpbmctaGVhbHRoY2FyZS1hdC10aGUtZG9vcnN0ZXAtb2Ytc2VuaW9yLWNpdGl6ZW5zLXdpdGgtZG9jdG9yLW9uLXdoZWVscy04NzQ0MS_SAZEBaHR0cHM6Ly9zd2FjaGhpbmRpYS5uZHR2LmNvbS90aGlzLTM0LXllYXItb2xkLWRvY3Rvci1pcy1kZWxpdmVyaW5nLWhlYWx0aGNhcmUtYXQtdGhlLWRvb3JzdGVwLW9mLXNlbmlvci1jaXRpemVucy13aXRoLWRvY3Rvci1vbi13aGVlbHMtODc0NDEvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 06:25:28 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3N3YWNoaGluZGlhLm5kdHYuY29tL3RoaXMtMzQteWVhci1vbGQtZG9jdG9yLWlzLWRlbGl2ZXJpbmctaGVhbHRoY2FyZS1hdC10aGUtZG9vcnN0ZXAtb2Ytc2VuaW9yLWNpdGl6ZW5zLXdpdGgtZG9jdG9yLW9uLXdoZWVscy04NzQ0MS_SAZEBaHR0cHM6Ly9zd2FjaGhpbmRpYS5uZHR2LmNvbS90aGlzLTM0LXllYXItb2xkLWRvY3Rvci1pcy1kZWxpdmVyaW5nLWhlYWx0aGNhcmUtYXQtdGhlLWRvb3JzdGVwLW9mLXNlbmlvci1jaXRpemVucy13aXRoLWRvY3Rvci1vbi13aGVlbHMtODc0NDEvYW1wLw?oc=5\" target=\"_blank\">This 34-Year-Old Doctor Is Delivering Healthcare At The Doorstep Of Senior Citizens With ‘Doctor On Wheels’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swachh India NDTV</font>"
+            ],
+            "source": [
+              {
+                "_": "Swachh India NDTV",
+                "$": {
+                  "url": "https://swachhindia.ndtv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "IIT-Delhi launches executive programme in healthcare entrepreneurship, management - The Indian Express"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2lpdC1kZWxoaS1sYXVuY2hlcy1leGVjdXRpdmUtcHJvZ3JhbW1lLWluLWhlYWx0aGNhcmUtZW50cmVwcmVuZXVyc2hpcC1hbmQtbWFuYWdlbWVudC05MTQ2NzM2L9IBjgFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2lpdC1kZWxoaS1sYXVuY2hlcy1leGVjdXRpdmUtcHJvZ3JhbW1lLWluLWhlYWx0aGNhcmUtZW50cmVwcmVuZXVyc2hpcC1hbmQtbWFuYWdlbWVudC05MTQ2NzM2L2xpdGUv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2lpdC1kZWxoaS1sYXVuY2hlcy1leGVjdXRpdmUtcHJvZ3JhbW1lLWluLWhlYWx0aGNhcmUtZW50cmVwcmVuZXVyc2hpcC1hbmQtbWFuYWdlbWVudC05MTQ2NzM2L9IBjgFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2lpdC1kZWxoaS1sYXVuY2hlcy1leGVjdXRpdmUtcHJvZ3JhbW1lLWluLWhlYWx0aGNhcmUtZW50cmVwcmVuZXVyc2hpcC1hbmQtbWFuYWdlbWVudC05MTQ2NzM2L2xpdGUv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 09:24:21 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2lpdC1kZWxoaS1sYXVuY2hlcy1leGVjdXRpdmUtcHJvZ3JhbW1lLWluLWhlYWx0aGNhcmUtZW50cmVwcmVuZXVyc2hpcC1hbmQtbWFuYWdlbWVudC05MTQ2NzM2L9IBjgFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2lpdC1kZWxoaS1sYXVuY2hlcy1leGVjdXRpdmUtcHJvZ3JhbW1lLWluLWhlYWx0aGNhcmUtZW50cmVwcmVuZXVyc2hpcC1hbmQtbWFuYWdlbWVudC05MTQ2NzM2L2xpdGUv?oc=5\" target=\"_blank\">IIT-Delhi launches executive programme in healthcare entrepreneurship, management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>"
+            ],
+            "source": [
+              {
+                "_": "The Indian Express",
+                "$": {
+                  "url": "https://indianexpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "For a healthy Indian economy, reforms in public healthcare delivery are a must - Moneycontrol"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3Mvb3Bpbmlvbi9mb3ItYS1oZWFsdGh5LWluZGlhbi1lY29ub215LXJlZm9ybXMtaW4tcHVibGljLWhlYWx0aGNhcmUtZGVsaXZlcnktYXJlLWEtbXVzdC0xMjIwMTY0MS5odG1s0gGJAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9vcGluaW9uL2Zvci1hLWhlYWx0aHktaW5kaWFuLWVjb25vbXktcmVmb3Jtcy1pbi1wdWJsaWMtaGVhbHRoY2FyZS1kZWxpdmVyeS1hcmUtYS1tdXN0LTEyMjAxNjQxLmh0bWwvYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3Mvb3Bpbmlvbi9mb3ItYS1oZWFsdGh5LWluZGlhbi1lY29ub215LXJlZm9ybXMtaW4tcHVibGljLWhlYWx0aGNhcmUtZGVsaXZlcnktYXJlLWEtbXVzdC0xMjIwMTY0MS5odG1s0gGJAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9vcGluaW9uL2Zvci1hLWhlYWx0aHktaW5kaWFuLWVjb25vbXktcmVmb3Jtcy1pbi1wdWJsaWMtaGVhbHRoY2FyZS1kZWxpdmVyeS1hcmUtYS1tdXN0LTEyMjAxNjQxLmh0bWwvYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 03:51:01 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3Mvb3Bpbmlvbi9mb3ItYS1oZWFsdGh5LWluZGlhbi1lY29ub215LXJlZm9ybXMtaW4tcHVibGljLWhlYWx0aGNhcmUtZGVsaXZlcnktYXJlLWEtbXVzdC0xMjIwMTY0MS5odG1s0gGJAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9vcGluaW9uL2Zvci1hLWhlYWx0aHktaW5kaWFuLWVjb25vbXktcmVmb3Jtcy1pbi1wdWJsaWMtaGVhbHRoY2FyZS1kZWxpdmVyeS1hcmUtYS1tdXN0LTEyMjAxNjQxLmh0bWwvYW1w?oc=5\" target=\"_blank\">For a healthy Indian economy, reforms in public healthcare delivery are a must</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>"
+            ],
+            "source": [
+              {
+                "_": "Moneycontrol",
+                "$": {
+                  "url": "https://www.moneycontrol.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UP Budget 2024-25: State capital’s super speciality healthcare gets “special care” - Hindustan Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2x1Y2tub3ctbmV3cy91cC1idWRnZXQtMjAyNC0yNS1zdGF0ZS1jYXBpdGFsLXMtc3VwZXItc3BlY2lhbGl0eS1oZWFsdGhjYXJlLWdldHMtc3BlY2lhbC1jYXJlLTEwMTcwNzE0OTEzNTc1OC5odG1s0gGbAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9jaXRpZXMvbHVja25vdy1uZXdzL3VwLWJ1ZGdldC0yMDI0LTI1LXN0YXRlLWNhcGl0YWwtcy1zdXBlci1zcGVjaWFsaXR5LWhlYWx0aGNhcmUtZ2V0cy1zcGVjaWFsLWNhcmUtMTAxNzA3MTQ5MTM1NzU4LWFtcC5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2x1Y2tub3ctbmV3cy91cC1idWRnZXQtMjAyNC0yNS1zdGF0ZS1jYXBpdGFsLXMtc3VwZXItc3BlY2lhbGl0eS1oZWFsdGhjYXJlLWdldHMtc3BlY2lhbC1jYXJlLTEwMTcwNzE0OTEzNTc1OC5odG1s0gGbAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9jaXRpZXMvbHVja25vdy1uZXdzL3VwLWJ1ZGdldC0yMDI0LTI1LXN0YXRlLWNhcGl0YWwtcy1zdXBlci1zcGVjaWFsaXR5LWhlYWx0aGNhcmUtZ2V0cy1zcGVjaWFsLWNhcmUtMTAxNzA3MTQ5MTM1NzU4LWFtcC5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 16:05:35 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2x1Y2tub3ctbmV3cy91cC1idWRnZXQtMjAyNC0yNS1zdGF0ZS1jYXBpdGFsLXMtc3VwZXItc3BlY2lhbGl0eS1oZWFsdGhjYXJlLWdldHMtc3BlY2lhbC1jYXJlLTEwMTcwNzE0OTEzNTc1OC5odG1s0gGbAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9jaXRpZXMvbHVja25vdy1uZXdzL3VwLWJ1ZGdldC0yMDI0LTI1LXN0YXRlLWNhcGl0YWwtcy1zdXBlci1zcGVjaWFsaXR5LWhlYWx0aGNhcmUtZ2V0cy1zcGVjaWFsLWNhcmUtMTAxNzA3MTQ5MTM1NzU4LWFtcC5odG1s?oc=5\" target=\"_blank\">UP Budget 2024-25: State capital’s super speciality healthcare gets “special care”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Hindustan Times",
+                "$": {
+                  "url": "https://www.hindustantimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jyoti Gera At GE HealthCare On How Healthcare Could Be The Next 'digital-first' Success Story In India - Forbes India"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5mb3JiZXNpbmRpYS5jb20vYXVkaW8vZm9yYmVzLWluZGlhLXRlY2gtY29udmVyLXNhdGlvbnMvanlvdGktZ2VyYS1hdC1nZS1oZWFsdGhjYXJlLW9uLWhvdy1oZWFsdGhjYXJlLWNvdWxkLWJlLXRoZS1uZXh0LWRpZ2l0YWxmaXJzdC1zdWNjZXNzLXN0b3J5LWluLWluZGlhLzkxMjgz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirAFodHRwczovL3d3dy5mb3JiZXNpbmRpYS5jb20vYXVkaW8vZm9yYmVzLWluZGlhLXRlY2gtY29udmVyLXNhdGlvbnMvanlvdGktZ2VyYS1hdC1nZS1oZWFsdGhjYXJlLW9uLWhvdy1oZWFsdGhjYXJlLWNvdWxkLWJlLXRoZS1uZXh0LWRpZ2l0YWxmaXJzdC1zdWNjZXNzLXN0b3J5LWluLWluZGlhLzkxMjgz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 08:52:48 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5mb3JiZXNpbmRpYS5jb20vYXVkaW8vZm9yYmVzLWluZGlhLXRlY2gtY29udmVyLXNhdGlvbnMvanlvdGktZ2VyYS1hdC1nZS1oZWFsdGhjYXJlLW9uLWhvdy1oZWFsdGhjYXJlLWNvdWxkLWJlLXRoZS1uZXh0LWRpZ2l0YWxmaXJzdC1zdWNjZXNzLXN0b3J5LWluLWluZGlhLzkxMjgz0gEA?oc=5\" target=\"_blank\">Jyoti Gera At GE HealthCare On How Healthcare Could Be The Next 'digital-first' Success Story In India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes India</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes India",
+                "$": {
+                  "url": "https://www.forbesindia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Entero Healthcare Solutions IPO: Price band set at ₹1,195-1,258 apiece; check issue details, key dates, more | Mint - Mint"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5saXZlbWludC5jb20vbWFya2V0L2lwby9lbnRlcm8taGVhbHRoY2FyZS1zb2x1dGlvbnMtaXBvLXByaWNlLWJhbmQtc2V0LWF0LXJzLTEtMTk1LTEtMjU4LWFwaWVjZS1jaGVjay1pc3N1ZS1kZXRhaWxzLWtleS1kYXRlcy1tb3JlLTExNzA3MTg4NjQ5NTEwLmh0bWzSAaYBaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL21hcmtldC9pcG8vZW50ZXJvLWhlYWx0aGNhcmUtc29sdXRpb25zLWlwby1wcmljZS1iYW5kLXNldC1hdC1ycy0xLTE5NS0xLTI1OC1hcGllY2UtY2hlY2staXNzdWUtZGV0YWlscy1rZXktZGF0ZXMtbW9yZS9hbXAtMTE3MDcxODg2NDk1MTAuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiogFodHRwczovL3d3dy5saXZlbWludC5jb20vbWFya2V0L2lwby9lbnRlcm8taGVhbHRoY2FyZS1zb2x1dGlvbnMtaXBvLXByaWNlLWJhbmQtc2V0LWF0LXJzLTEtMTk1LTEtMjU4LWFwaWVjZS1jaGVjay1pc3N1ZS1kZXRhaWxzLWtleS1kYXRlcy1tb3JlLTExNzA3MTg4NjQ5NTEwLmh0bWzSAaYBaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL21hcmtldC9pcG8vZW50ZXJvLWhlYWx0aGNhcmUtc29sdXRpb25zLWlwby1wcmljZS1iYW5kLXNldC1hdC1ycy0xLTE5NS0xLTI1OC1hcGllY2UtY2hlY2staXNzdWUtZGV0YWlscy1rZXktZGF0ZXMtbW9yZS9hbXAtMTE3MDcxODg2NDk1MTAuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 03:26:22 GMT"
+            ],
+            "description": [
+              "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5saXZlbWludC5jb20vbWFya2V0L2lwby9lbnRlcm8taGVhbHRoY2FyZS1zb2x1dGlvbnMtaXBvLXByaWNlLWJhbmQtc2V0LWF0LXJzLTEtMTk1LTEtMjU4LWFwaWVjZS1jaGVjay1pc3N1ZS1kZXRhaWxzLWtleS1kYXRlcy1tb3JlLTExNzA3MTg4NjQ5NTEwLmh0bWzSAaYBaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL21hcmtldC9pcG8vZW50ZXJvLWhlYWx0aGNhcmUtc29sdXRpb25zLWlwby1wcmljZS1iYW5kLXNldC1hdC1ycy0xLTE5NS0xLTI1OC1hcGllY2UtY2hlY2staXNzdWUtZGV0YWlscy1rZXktZGF0ZXMtbW9yZS9hbXAtMTE3MDcxODg2NDk1MTAuaHRtbA?oc=5\" target=\"_blank\">Entero Healthcare Solutions IPO: Price band set at ₹1,195-1,258 apiece; check issue details, key dates, more | Mint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vY29tcGFuaWVzL25ld3MvZW50ZXJvLWhlYWx0aGNhcmUtc29sdXRpb25zLXNldC10by1sYXVuY2gtcnMtMS02MDAtY3JvcmUtaXBvLW9uLWZlYnJ1YXJ5LTktMTI0MDIwNjAxNjAzXzEuaHRtbNIBkwFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYW1wL2NvbXBhbmllcy9uZXdzL2VudGVyby1oZWFsdGhjYXJlLXNvbHV0aW9ucy1zZXQtdG8tbGF1bmNoLXJzLTEtNjAwLWNyb3JlLWlwby1vbi1mZWJydWFyeS05LTEyNDAyMDYwMTYwM18xLmh0bWw?oc=5\" target=\"_blank\">Entero Healthcare Solutions set to launch Rs 1,600-crore IPO on February 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvaXBvL2VudGVyby1oZWFsdGhjYXJlLXNldHMtcHJpY2UtYmFuZC1mb3ItcnMtMTYwMC1jci1pcG8tYXQtcnMtMTE5NS0xMjU4LTEyMjAwNDMxLmh0bWzSAYUBaHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL2J1c2luZXNzL2lwby9lbnRlcm8taGVhbHRoY2FyZS1zZXRzLXByaWNlLWJhbmQtZm9yLXJzLTE2MDAtY3ItaXBvLWF0LXJzLTExOTUtMTI1OC0xMjIwMDQzMS5odG1sL2FtcA?oc=5\" target=\"_blank\">Entero Healthcare sets price band for Rs 1,600-cr IPO at Rs 1,195-1,258</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font></li></ol>"
+            ],
+            "source": [
+              {
+                "_": "Mint",
+                "$": {
+                  "url": "https://www.livemint.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Government initiatives promote universal access to healthcare - ThePrint"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGhlcHJpbnQuaW4vZWNvbm9teS9nb3Zlcm5tZW50LWluaXRpYXRpdmVzLXByb21vdGUtdW5pdmVyc2FsLWFjY2Vzcy10by1oZWFsdGhjYXJlLzE5NTYzNTIv0gFmaHR0cHM6Ly90aGVwcmludC5pbi9lY29ub215L2dvdmVybm1lbnQtaW5pdGlhdGl2ZXMtcHJvbW90ZS11bml2ZXJzYWwtYWNjZXNzLXRvLWhlYWx0aGNhcmUvMTk1NjM1Mi8_YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vdGhlcHJpbnQuaW4vZWNvbm9teS9nb3Zlcm5tZW50LWluaXRpYXRpdmVzLXByb21vdGUtdW5pdmVyc2FsLWFjY2Vzcy10by1oZWFsdGhjYXJlLzE5NTYzNTIv0gFmaHR0cHM6Ly90aGVwcmludC5pbi9lY29ub215L2dvdmVybm1lbnQtaW5pdGlhdGl2ZXMtcHJvbW90ZS11bml2ZXJzYWwtYWNjZXNzLXRvLWhlYWx0aGNhcmUvMTk1NjM1Mi8_YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:17:02 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGhlcHJpbnQuaW4vZWNvbm9teS9nb3Zlcm5tZW50LWluaXRpYXRpdmVzLXByb21vdGUtdW5pdmVyc2FsLWFjY2Vzcy10by1oZWFsdGhjYXJlLzE5NTYzNTIv0gFmaHR0cHM6Ly90aGVwcmludC5pbi9lY29ub215L2dvdmVybm1lbnQtaW5pdGlhdGl2ZXMtcHJvbW90ZS11bml2ZXJzYWwtYWNjZXNzLXRvLWhlYWx0aGNhcmUvMTk1NjM1Mi8_YW1w?oc=5\" target=\"_blank\">Government initiatives promote universal access to healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>"
+            ],
+            "source": [
+              {
+                "_": "ThePrint",
+                "$": {
+                  "url": "https://theprint.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Odisha veterinary doctors’ strike derails livestock healthcare service - OTV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vb2Rpc2hhdHYuaW4vbmV3cy9vZGlzaGEvb2Rpc2hhLXZldGVyaW5hcnktZG9jdG9ycy1zdHJpa2UtZGVyYWlscy1saXZlc3RvY2staGVhbHRoY2FyZS1zZXJ2aWNlLS0yMjcxNjnSAXFodHRwczovL29kaXNoYXR2LmluL25ld3Mvb2Rpc2hhL29kaXNoYS12ZXRlcmluYXJ5LWRvY3RvcnMtc3RyaWtlLWRlcmFpbHMtbGl2ZXN0b2NrLWhlYWx0aGNhcmUtc2VydmljZS0tMjI3MTY5L2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vb2Rpc2hhdHYuaW4vbmV3cy9vZGlzaGEvb2Rpc2hhLXZldGVyaW5hcnktZG9jdG9ycy1zdHJpa2UtZGVyYWlscy1saXZlc3RvY2staGVhbHRoY2FyZS1zZXJ2aWNlLS0yMjcxNjnSAXFodHRwczovL29kaXNoYXR2LmluL25ld3Mvb2Rpc2hhL29kaXNoYS12ZXRlcmluYXJ5LWRvY3RvcnMtc3RyaWtlLWRlcmFpbHMtbGl2ZXN0b2NrLWhlYWx0aGNhcmUtc2VydmljZS0tMjI3MTY5L2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:49:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vb2Rpc2hhdHYuaW4vbmV3cy9vZGlzaGEvb2Rpc2hhLXZldGVyaW5hcnktZG9jdG9ycy1zdHJpa2UtZGVyYWlscy1saXZlc3RvY2staGVhbHRoY2FyZS1zZXJ2aWNlLS0yMjcxNjnSAXFodHRwczovL29kaXNoYXR2LmluL25ld3Mvb2Rpc2hhL29kaXNoYS12ZXRlcmluYXJ5LWRvY3RvcnMtc3RyaWtlLWRlcmFpbHMtbGl2ZXN0b2NrLWhlYWx0aGNhcmUtc2VydmljZS0tMjI3MTY5L2FtcA?oc=5\" target=\"_blank\">Odisha veterinary doctors’ strike derails livestock healthcare service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OTV News</font>"
+            ],
+            "source": [
+              {
+                "_": "OTV News",
+                "$": {
+                  "url": "https://odishatv.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Metropolis Healthcare Limited launches diagnostic testing centre in Madhya Pradesh - The Financial Express"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL2RpYWdub3N0aWMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLWxpbWl0ZWQtbGF1bmNoZXMtZGlhZ25vc3RpYy10ZXN0aW5nLWNlbnRyZS1pbi1tYWRoeWEtcHJhZGVzaC8zMzg1Mzk4L9IBlwFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL2RpYWdub3N0aWMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLWxpbWl0ZWQtbGF1bmNoZXMtZGlhZ25vc3RpYy10ZXN0aW5nLWNlbnRyZS1pbi1tYWRoeWEtcHJhZGVzaC8zMzg1Mzk4L2xpdGUv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL2RpYWdub3N0aWMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLWxpbWl0ZWQtbGF1bmNoZXMtZGlhZ25vc3RpYy10ZXN0aW5nLWNlbnRyZS1pbi1tYWRoeWEtcHJhZGVzaC8zMzg1Mzk4L9IBlwFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL2RpYWdub3N0aWMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLWxpbWl0ZWQtbGF1bmNoZXMtZGlhZ25vc3RpYy10ZXN0aW5nLWNlbnRyZS1pbi1tYWRoeWEtcHJhZGVzaC8zMzg1Mzk4L2xpdGUv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 04:00:03 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL2RpYWdub3N0aWMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLWxpbWl0ZWQtbGF1bmNoZXMtZGlhZ25vc3RpYy10ZXN0aW5nLWNlbnRyZS1pbi1tYWRoeWEtcHJhZGVzaC8zMzg1Mzk4L9IBlwFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL2RpYWdub3N0aWMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLWxpbWl0ZWQtbGF1bmNoZXMtZGlhZ25vc3RpYy10ZXN0aW5nLWNlbnRyZS1pbi1tYWRoeWEtcHJhZGVzaC8zMzg1Mzk4L2xpdGUv?oc=5\" target=\"_blank\">Metropolis Healthcare Limited launches diagnostic testing centre in Madhya Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Financial Express</font>"
+            ],
+            "source": [
+              {
+                "_": "The Financial Express",
+                "$": {
+                  "url": "https://www.financialexpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Entero Healthcare fixes IPO price band at ₹1,195-1,258 per share - The Hindu"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9idXNpbmVzcy9lbnRlcm8taGVhbHRoY2FyZS1maXhlcy1pcG8tcHJpY2UtYmFuZC1hdC0xMTk1LTEyNTgtcGVyLXNoYXJlL2FydGljbGU2NzgxODY0Mi5lY2XSAXhodHRwczovL3d3dy50aGVoaW5kdS5jb20vYnVzaW5lc3MvZW50ZXJvLWhlYWx0aGNhcmUtZml4ZXMtaXBvLXByaWNlLWJhbmQtYXQtMTE5NS0xMjU4LXBlci1zaGFyZS9hcnRpY2xlNjc4MTg2NDIuZWNlL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9idXNpbmVzcy9lbnRlcm8taGVhbHRoY2FyZS1maXhlcy1pcG8tcHJpY2UtYmFuZC1hdC0xMTk1LTEyNTgtcGVyLXNoYXJlL2FydGljbGU2NzgxODY0Mi5lY2XSAXhodHRwczovL3d3dy50aGVoaW5kdS5jb20vYnVzaW5lc3MvZW50ZXJvLWhlYWx0aGNhcmUtZml4ZXMtaXBvLXByaWNlLWJhbmQtYXQtMTE5NS0xMjU4LXBlci1zaGFyZS9hcnRpY2xlNjc4MTg2NDIuZWNlL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 16:07:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9idXNpbmVzcy9lbnRlcm8taGVhbHRoY2FyZS1maXhlcy1pcG8tcHJpY2UtYmFuZC1hdC0xMTk1LTEyNTgtcGVyLXNoYXJlL2FydGljbGU2NzgxODY0Mi5lY2XSAXhodHRwczovL3d3dy50aGVoaW5kdS5jb20vYnVzaW5lc3MvZW50ZXJvLWhlYWx0aGNhcmUtZml4ZXMtaXBvLXByaWNlLWJhbmQtYXQtMTE5NS0xMjU4LXBlci1zaGFyZS9hcnRpY2xlNjc4MTg2NDIuZWNlL2FtcC8?oc=5\" target=\"_blank\">Entero Healthcare fixes IPO price band at ₹1,195-1,258 per share</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hindu",
+                "$": {
+                  "url": "https://www.thehindu.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Max Healthcare and Royal College of Obstetricians & Gynaecologists, UK Collaborate to bring MRCOG program.. - ETHealthWorld"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiuQFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvaW5kdXN0cnkvbWF4LWhlYWx0aGNhcmUtYW5kLXJveWFsLWNvbGxlZ2Utb2Ytb2JzdGV0cmljaWFucy1neW5hZWNvbG9naXN0cy11ay1jb2xsYWJvcmF0ZS10by1icmluZy1tcmNvZy1wcm9ncmFtLXRvLW5vcnRoLWluZGlhLzEwNzQ2Nzg0M9IBvQFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL2FtcC9uZXdzL2luZHVzdHJ5L21heC1oZWFsdGhjYXJlLWFuZC1yb3lhbC1jb2xsZWdlLW9mLW9ic3RldHJpY2lhbnMtZ3luYWVjb2xvZ2lzdHMtdWstY29sbGFib3JhdGUtdG8tYnJpbmctbXJjb2ctcHJvZ3JhbS10by1ub3J0aC1pbmRpYS8xMDc0Njc4NDM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiuQFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvaW5kdXN0cnkvbWF4LWhlYWx0aGNhcmUtYW5kLXJveWFsLWNvbGxlZ2Utb2Ytb2JzdGV0cmljaWFucy1neW5hZWNvbG9naXN0cy11ay1jb2xsYWJvcmF0ZS10by1icmluZy1tcmNvZy1wcm9ncmFtLXRvLW5vcnRoLWluZGlhLzEwNzQ2Nzg0M9IBvQFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL2FtcC9uZXdzL2luZHVzdHJ5L21heC1oZWFsdGhjYXJlLWFuZC1yb3lhbC1jb2xsZWdlLW9mLW9ic3RldHJpY2lhbnMtZ3luYWVjb2xvZ2lzdHMtdWstY29sbGFib3JhdGUtdG8tYnJpbmctbXJjb2ctcHJvZ3JhbS10by1ub3J0aC1pbmRpYS8xMDc0Njc4NDM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 01:14:39 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiuQFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvaW5kdXN0cnkvbWF4LWhlYWx0aGNhcmUtYW5kLXJveWFsLWNvbGxlZ2Utb2Ytb2JzdGV0cmljaWFucy1neW5hZWNvbG9naXN0cy11ay1jb2xsYWJvcmF0ZS10by1icmluZy1tcmNvZy1wcm9ncmFtLXRvLW5vcnRoLWluZGlhLzEwNzQ2Nzg0M9IBvQFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL2FtcC9uZXdzL2luZHVzdHJ5L21heC1oZWFsdGhjYXJlLWFuZC1yb3lhbC1jb2xsZWdlLW9mLW9ic3RldHJpY2lhbnMtZ3luYWVjb2xvZ2lzdHMtdWstY29sbGFib3JhdGUtdG8tYnJpbmctbXJjb2ctcHJvZ3JhbS10by1ub3J0aC1pbmRpYS8xMDc0Njc4NDM?oc=5\" target=\"_blank\">Max Healthcare and Royal College of Obstetricians & Gynaecologists, UK Collaborate to bring MRCOG program..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETHealthWorld</font>"
+            ],
+            "source": [
+              {
+                "_": "ETHealthWorld",
+                "$": {
+                  "url": "https://health.economictimes.indiatimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Molbio Diagnostics launches transformative scale up programme for healthcare innovation - BSI bureau"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5iaW9zcGVjdHJ1bWluZGlhLmNvbS9uZXdzLzIwLzI0MTY1L21vbGJpby1kaWFnbm9zdGljcy1sYXVuY2hlcy10cmFuc2Zvcm1hdGl2ZS1zY2FsZS11cC1wcm9ncmFtbWUtZm9yLWhlYWx0aGNhcmUtaW5ub3ZhdGlvbi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3d3dy5iaW9zcGVjdHJ1bWluZGlhLmNvbS9uZXdzLzIwLzI0MTY1L21vbGJpby1kaWFnbm9zdGljcy1sYXVuY2hlcy10cmFuc2Zvcm1hdGl2ZS1zY2FsZS11cC1wcm9ncmFtbWUtZm9yLWhlYWx0aGNhcmUtaW5ub3ZhdGlvbi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 04:27:31 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5iaW9zcGVjdHJ1bWluZGlhLmNvbS9uZXdzLzIwLzI0MTY1L21vbGJpby1kaWFnbm9zdGljcy1sYXVuY2hlcy10cmFuc2Zvcm1hdGl2ZS1zY2FsZS11cC1wcm9ncmFtbWUtZm9yLWhlYWx0aGNhcmUtaW5ub3ZhdGlvbi5odG1s0gEA?oc=5\" target=\"_blank\">Molbio Diagnostics launches transformative scale up programme for healthcare innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BSI bureau</font>"
+            ],
+            "source": [
+              {
+                "_": "BSI bureau",
+                "$": {
+                  "url": "https://www.biospectrumindia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Big movers on D-Street: What should investors do with YES Bank, PB Fintech and Fortis Healthcare? - The Economic Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqAFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbWFya2V0cy9zdG9ja3MvbmV3cy9iaWctbW92ZXJzLW9uLWQtc3RyZWV0LXdoYXQtc2hvdWxkLWludmVzdG9ycy1kby13aXRoLXllcy1iYW5rLXBiLWZpbnRlY2gtYW5kLWZvcnRpcy1oZWFsdGhjYXJlL2FydGljbGVzaG93LzEwNzQ3Mjg1OC5jbXPSAawBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL21hcmtldHMvc3RvY2tzL25ld3MvYmlnLW1vdmVycy1vbi1kLXN0cmVldC13aGF0LXNob3VsZC1pbnZlc3RvcnMtZG8td2l0aC15ZXMtYmFuay1wYi1maW50ZWNoLWFuZC1mb3J0aXMtaGVhbHRoY2FyZS9hbXBfYXJ0aWNsZXNob3cvMTA3NDcyODU4LmNtcw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqAFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbWFya2V0cy9zdG9ja3MvbmV3cy9iaWctbW92ZXJzLW9uLWQtc3RyZWV0LXdoYXQtc2hvdWxkLWludmVzdG9ycy1kby13aXRoLXllcy1iYW5rLXBiLWZpbnRlY2gtYW5kLWZvcnRpcy1oZWFsdGhjYXJlL2FydGljbGVzaG93LzEwNzQ3Mjg1OC5jbXPSAawBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL21hcmtldHMvc3RvY2tzL25ld3MvYmlnLW1vdmVycy1vbi1kLXN0cmVldC13aGF0LXNob3VsZC1pbnZlc3RvcnMtZG8td2l0aC15ZXMtYmFuay1wYi1maW50ZWNoLWFuZC1mb3J0aXMtaGVhbHRoY2FyZS9hbXBfYXJ0aWNsZXNob3cvMTA3NDcyODU4LmNtcw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:29:05 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqAFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbWFya2V0cy9zdG9ja3MvbmV3cy9iaWctbW92ZXJzLW9uLWQtc3RyZWV0LXdoYXQtc2hvdWxkLWludmVzdG9ycy1kby13aXRoLXllcy1iYW5rLXBiLWZpbnRlY2gtYW5kLWZvcnRpcy1oZWFsdGhjYXJlL2FydGljbGVzaG93LzEwNzQ3Mjg1OC5jbXPSAawBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL21hcmtldHMvc3RvY2tzL25ld3MvYmlnLW1vdmVycy1vbi1kLXN0cmVldC13aGF0LXNob3VsZC1pbnZlc3RvcnMtZG8td2l0aC15ZXMtYmFuay1wYi1maW50ZWNoLWFuZC1mb3J0aXMtaGVhbHRoY2FyZS9hbXBfYXJ0aWNsZXNob3cvMTA3NDcyODU4LmNtcw?oc=5\" target=\"_blank\">Big movers on D-Street: What should investors do with YES Bank, PB Fintech and Fortis Healthcare?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Economic Times",
+                "$": {
+                  "url": "https://m.economictimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "S&P 500 Gains and Losses Today: GE HealthCare Shares Soar After Strong Earnings - Investopedia"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vcy1hbmQtcC01MDAtZ2FpbnMtYW5kLWxvc3Nlcy10b2RheS1nZS1oZWFsdGhjYXJlLXNoYXJlcy1zb2FyLWFmdGVyLXN0cm9uZy1lYXJuaW5ncy04NTU5NzE40gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vcy1hbmQtcC01MDAtZ2FpbnMtYW5kLWxvc3Nlcy10b2RheS1nZS1oZWFsdGhjYXJlLXNoYXJlcy1zb2FyLWFmdGVyLXN0cm9uZy1lYXJuaW5ncy04NTU5NzE40gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:55:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vcy1hbmQtcC01MDAtZ2FpbnMtYW5kLWxvc3Nlcy10b2RheS1nZS1oZWFsdGhjYXJlLXNoYXJlcy1zb2FyLWFmdGVyLXN0cm9uZy1lYXJuaW5ncy04NTU5NzE40gEA?oc=5\" target=\"_blank\">S&P 500 Gains and Losses Today: GE HealthCare Shares Soar After Strong Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>"
+            ],
+            "source": [
+              {
+                "_": "Investopedia",
+                "$": {
+                  "url": "https://www.investopedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Healthcare and Wi-Fi 6E: Improving Productivity, Speed and Security - HealthTech Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vaGVhbHRodGVjaG1hZ2F6aW5lLm5ldC9hcnRpY2xlLzIwMjQvMDIvaGVhbHRoY2FyZS1hbmQtd2ktZmktNmUtaW1wcm92aW5nLXByb2R1Y3Rpdml0eS1zcGVlZC1hbmQtc2VjdXJpdHnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vaGVhbHRodGVjaG1hZ2F6aW5lLm5ldC9hcnRpY2xlLzIwMjQvMDIvaGVhbHRoY2FyZS1hbmQtd2ktZmktNmUtaW1wcm92aW5nLXByb2R1Y3Rpdml0eS1zcGVlZC1hbmQtc2VjdXJpdHnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:49:18 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vaGVhbHRodGVjaG1hZ2F6aW5lLm5ldC9hcnRpY2xlLzIwMjQvMDIvaGVhbHRoY2FyZS1hbmQtd2ktZmktNmUtaW1wcm92aW5nLXByb2R1Y3Rpdml0eS1zcGVlZC1hbmQtc2VjdXJpdHnSAQA?oc=5\" target=\"_blank\">Healthcare and Wi-Fi 6E: Improving Productivity, Speed and Security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HealthTech Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "HealthTech Magazine",
+                "$": {
+                  "url": "https://healthtechmagazine.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "I Got Diagnosed with Breast Cancer… Now What? - The Financial Express"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4cHJlc3MuY29tL2hlYWx0aGNhcmUvbmV3cy1oZWFsdGhjYXJlL2ktZ290LWRpYWdub3NlZC13aXRoLWJyZWFzdC1jYW5jZXItbm93LXdoYXQvMzM4NjIzNC_SAXVodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL25ld3MtaGVhbHRoY2FyZS9pLWdvdC1kaWFnbm9zZWQtd2l0aC1icmVhc3QtY2FuY2VyLW5vdy13aGF0LzMzODYyMzQvbGl0ZS8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4cHJlc3MuY29tL2hlYWx0aGNhcmUvbmV3cy1oZWFsdGhjYXJlL2ktZ290LWRpYWdub3NlZC13aXRoLWJyZWFzdC1jYW5jZXItbm93LXdoYXQvMzM4NjIzNC_SAXVodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL25ld3MtaGVhbHRoY2FyZS9pLWdvdC1kaWFnbm9zZWQtd2l0aC1icmVhc3QtY2FuY2VyLW5vdy13aGF0LzMzODYyMzQvbGl0ZS8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:30:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4cHJlc3MuY29tL2hlYWx0aGNhcmUvbmV3cy1oZWFsdGhjYXJlL2ktZ290LWRpYWdub3NlZC13aXRoLWJyZWFzdC1jYW5jZXItbm93LXdoYXQvMzM4NjIzNC_SAXVodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9oZWFsdGhjYXJlL25ld3MtaGVhbHRoY2FyZS9pLWdvdC1kaWFnbm9zZWQtd2l0aC1icmVhc3QtY2FuY2VyLW5vdy13aGF0LzMzODYyMzQvbGl0ZS8?oc=5\" target=\"_blank\">I Got Diagnosed with Breast Cancer… Now What?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Financial Express</font>"
+            ],
+            "source": [
+              {
+                "_": "The Financial Express",
+                "$": {
+                  "url": "https://www.financialexpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "American Healthcare REIT to raise about $672 mln in US IPO - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZGVhbHMvYW1lcmljYW4taGVhbHRoY2FyZS1yZWl0LXJhaXNlLWFib3V0LTY3Mi1tbG4tdXMtaXBvLTIwMjQtMDItMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZGVhbHMvYW1lcmljYW4taGVhbHRoY2FyZS1yZWl0LXJhaXNlLWFib3V0LTY3Mi1tbG4tdXMtaXBvLTIwMjQtMDItMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 03:15:49 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZGVhbHMvYW1lcmljYW4taGVhbHRoY2FyZS1yZWl0LXJhaXNlLWFib3V0LTY3Mi1tbG4tdXMtaXBvLTIwMjQtMDItMDcv0gEA?oc=5\" target=\"_blank\">American Healthcare REIT to raise about $672 mln in US IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AIC T-Hub selects 20 startups to drive healthcare innovation in India - India Technology News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vaW5kaWF0ZWNobm9sb2d5bmV3cy5pbi9haWMtdC1odWItc2VsZWN0cy0yMC1zdGFydHVwcy10by1kcml2ZS1oZWFsdGhjYXJlLWlubm92YXRpb24taW4taW5kaWEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vaW5kaWF0ZWNobm9sb2d5bmV3cy5pbi9haWMtdC1odWItc2VsZWN0cy0yMC1zdGFydHVwcy10by1kcml2ZS1oZWFsdGhjYXJlLWlubm92YXRpb24taW4taW5kaWEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 00:10:09 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vaW5kaWF0ZWNobm9sb2d5bmV3cy5pbi9haWMtdC1odWItc2VsZWN0cy0yMC1zdGFydHVwcy10by1kcml2ZS1oZWFsdGhjYXJlLWlubm92YXRpb24taW4taW5kaWEv0gEA?oc=5\" target=\"_blank\">AIC T-Hub selects 20 startups to drive healthcare innovation in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Technology News</font>"
+            ],
+            "source": [
+              {
+                "_": "India Technology News",
+                "$": {
+                  "url": "https://indiatechnologynews.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "World markets today: US stocks rise on earnings, GE Healthcare soars 6.9% | Mint - Mint"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5saXZlbWludC5jb20vbWFya2V0L3N0b2NrLW1hcmtldC1uZXdzL3dvcmxkLW1hcmtldHMtdG9kYXktdXMtc3RvY2tzLW11dGVkLWludmVzdG9ycy1mb2N1cy1vbi1iaWctdGlja2V0LWVhcm5pbmdzLTExNzA3MjI5Njk0NDUzLmh0bWzSAZQBaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL21hcmtldC9zdG9jay1tYXJrZXQtbmV3cy93b3JsZC1tYXJrZXRzLXRvZGF5LXVzLXN0b2Nrcy1tdXRlZC1pbnZlc3RvcnMtZm9jdXMtb24tYmlnLXRpY2tldC1lYXJuaW5ncy9hbXAtMTE3MDcyMjk2OTQ0NTMuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL3d3dy5saXZlbWludC5jb20vbWFya2V0L3N0b2NrLW1hcmtldC1uZXdzL3dvcmxkLW1hcmtldHMtdG9kYXktdXMtc3RvY2tzLW11dGVkLWludmVzdG9ycy1mb2N1cy1vbi1iaWctdGlja2V0LWVhcm5pbmdzLTExNzA3MjI5Njk0NDUzLmh0bWzSAZQBaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL21hcmtldC9zdG9jay1tYXJrZXQtbmV3cy93b3JsZC1tYXJrZXRzLXRvZGF5LXVzLXN0b2Nrcy1tdXRlZC1pbnZlc3RvcnMtZm9jdXMtb24tYmlnLXRpY2tldC1lYXJuaW5ncy9hbXAtMTE3MDcyMjk2OTQ0NTMuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 15:50:54 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5saXZlbWludC5jb20vbWFya2V0L3N0b2NrLW1hcmtldC1uZXdzL3dvcmxkLW1hcmtldHMtdG9kYXktdXMtc3RvY2tzLW11dGVkLWludmVzdG9ycy1mb2N1cy1vbi1iaWctdGlja2V0LWVhcm5pbmdzLTExNzA3MjI5Njk0NDUzLmh0bWzSAZQBaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL21hcmtldC9zdG9jay1tYXJrZXQtbmV3cy93b3JsZC1tYXJrZXRzLXRvZGF5LXVzLXN0b2Nrcy1tdXRlZC1pbnZlc3RvcnMtZm9jdXMtb24tYmlnLXRpY2tldC1lYXJuaW5ncy9hbXAtMTE3MDcyMjk2OTQ0NTMuaHRtbA?oc=5\" target=\"_blank\">World markets today: US stocks rise on earnings, GE Healthcare soars 6.9% | Mint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>"
+            ],
+            "source": [
+              {
+                "_": "Mint",
+                "$": {
+                  "url": "https://www.livemint.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "IIM Kashipur and Max Healthcare forge partnership for leadership development - Times of India"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2RlaHJhZHVuL2lpbS1rYXNoaXB1ci1hbmQtbWF4LWhlYWx0aGNhcmUtZm9yZ2UtcGFydG5lcnNoaXAtZm9yLWxlYWRlcnNoaXAtZGV2ZWxvcG1lbnQvYXJ0aWNsZXNob3cvMTA3NDY2NzA5LmNtc9IBnAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2RlaHJhZHVuL2lpbS1rYXNoaXB1ci1hbmQtbWF4LWhlYWx0aGNhcmUtZm9yZ2UtcGFydG5lcnNoaXAtZm9yLWxlYWRlcnNoaXAtZGV2ZWxvcG1lbnQvYW1wX2FydGljbGVzaG93LzEwNzQ2NjcwOS5jbXM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2RlaHJhZHVuL2lpbS1rYXNoaXB1ci1hbmQtbWF4LWhlYWx0aGNhcmUtZm9yZ2UtcGFydG5lcnNoaXAtZm9yLWxlYWRlcnNoaXAtZGV2ZWxvcG1lbnQvYXJ0aWNsZXNob3cvMTA3NDY2NzA5LmNtc9IBnAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2RlaHJhZHVuL2lpbS1rYXNoaXB1ci1hbmQtbWF4LWhlYWx0aGNhcmUtZm9yZ2UtcGFydG5lcnNoaXAtZm9yLWxlYWRlcnNoaXAtZGV2ZWxvcG1lbnQvYW1wX2FydGljbGVzaG93LzEwNzQ2NjcwOS5jbXM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 15:47:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2RlaHJhZHVuL2lpbS1rYXNoaXB1ci1hbmQtbWF4LWhlYWx0aGNhcmUtZm9yZ2UtcGFydG5lcnNoaXAtZm9yLWxlYWRlcnNoaXAtZGV2ZWxvcG1lbnQvYXJ0aWNsZXNob3cvMTA3NDY2NzA5LmNtc9IBnAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2RlaHJhZHVuL2lpbS1rYXNoaXB1ci1hbmQtbWF4LWhlYWx0aGNhcmUtZm9yZ2UtcGFydG5lcnNoaXAtZm9yLWxlYWRlcnNoaXAtZGV2ZWxvcG1lbnQvYW1wX2FydGljbGVzaG93LzEwNzQ2NjcwOS5jbXM?oc=5\" target=\"_blank\">IIM Kashipur and Max Healthcare forge partnership for leadership development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>"
+            ],
+            "source": [
+              {
+                "_": "Times of India",
+                "$": {
+                  "url": "https://timesofindia.indiatimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Entero Healthcare Solutions IPO opens on February 9, price band to be announced tomorrow - Moneycontrol"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvaXBvL2VudGVyby1oZWFsdGhjYXJlLXNvbHV0aW9ucy1pcG8tb3BlbnMtb24tZmVicnVhcnktOS1wcmljZS1iYW5kLXRvLWJlLWFubm91bmNlZC10b21vcnJvdy0xMjIwMDAyMS5odG1s0gGYAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9idXNpbmVzcy9pcG8vZW50ZXJvLWhlYWx0aGNhcmUtc29sdXRpb25zLWlwby1vcGVucy1vbi1mZWJydWFyeS05LXByaWNlLWJhbmQtdG8tYmUtYW5ub3VuY2VkLXRvbW9ycm93LTEyMjAwMDIxLmh0bWwvYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilAFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvaXBvL2VudGVyby1oZWFsdGhjYXJlLXNvbHV0aW9ucy1pcG8tb3BlbnMtb24tZmVicnVhcnktOS1wcmljZS1iYW5kLXRvLWJlLWFubm91bmNlZC10b21vcnJvdy0xMjIwMDAyMS5odG1s0gGYAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9idXNpbmVzcy9pcG8vZW50ZXJvLWhlYWx0aGNhcmUtc29sdXRpb25zLWlwby1vcGVucy1vbi1mZWJydWFyeS05LXByaWNlLWJhbmQtdG8tYmUtYW5ub3VuY2VkLXRvbW9ycm93LTEyMjAwMDIxLmh0bWwvYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:00:54 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvaXBvL2VudGVyby1oZWFsdGhjYXJlLXNvbHV0aW9ucy1pcG8tb3BlbnMtb24tZmVicnVhcnktOS1wcmljZS1iYW5kLXRvLWJlLWFubm91bmNlZC10b21vcnJvdy0xMjIwMDAyMS5odG1s0gGYAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9idXNpbmVzcy9pcG8vZW50ZXJvLWhlYWx0aGNhcmUtc29sdXRpb25zLWlwby1vcGVucy1vbi1mZWJydWFyeS05LXByaWNlLWJhbmQtdG8tYmUtYW5ub3VuY2VkLXRvbW9ycm93LTEyMjAwMDIxLmh0bWwvYW1w?oc=5\" target=\"_blank\">Entero Healthcare Solutions IPO opens on February 9, price band to be announced tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>"
+            ],
+            "source": [
+              {
+                "_": "Moneycontrol",
+                "$": {
+                  "url": "https://www.moneycontrol.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GE HealthCare forecasts 2024 profit largely above estimates - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy9nZS1oZWFsdGhjYXJlLWZvcmVjYXN0cy0yMDI0LXByb2ZpdC1sYXJnZWx5LWFib3ZlLWVzdGltYXRlcy0yMDI0LTAyLTA2L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy9nZS1oZWFsdGhjYXJlLWZvcmVjYXN0cy0yMDI0LXByb2ZpdC1sYXJnZWx5LWFib3ZlLWVzdGltYXRlcy0yMDI0LTAyLTA2L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 12:27:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy9nZS1oZWFsdGhjYXJlLWZvcmVjYXN0cy0yMDI0LXByb2ZpdC1sYXJnZWx5LWFib3ZlLWVzdGltYXRlcy0yMDI0LTAyLTA2L9IBAA?oc=5\" target=\"_blank\">GE HealthCare forecasts 2024 profit largely above estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Health sector to benefit from focus on public healthcare - Moneycontrol"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvYnVkZ2V0L2J1ZGdldC0yMDI0LWhlYWx0aC1zZWN0b3ItdG8tYmVuZWZpdC1mcm9tLWZvY3VzLW9uLXB1YmxpYy1oZWFsdGhjYXJlLTEyMTczNTcxLmh0bWzSAYgBaHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL2J1c2luZXNzL2J1ZGdldC9idWRnZXQtMjAyNC1oZWFsdGgtc2VjdG9yLXRvLWJlbmVmaXQtZnJvbS1mb2N1cy1vbi1wdWJsaWMtaGVhbHRoY2FyZS0xMjE3MzU3MS5odG1sL2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvYnVkZ2V0L2J1ZGdldC0yMDI0LWhlYWx0aC1zZWN0b3ItdG8tYmVuZWZpdC1mcm9tLWZvY3VzLW9uLXB1YmxpYy1oZWFsdGhjYXJlLTEyMTczNTcxLmh0bWzSAYgBaHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL2J1c2luZXNzL2J1ZGdldC9idWRnZXQtMjAyNC1oZWFsdGgtc2VjdG9yLXRvLWJlbmVmaXQtZnJvbS1mb2N1cy1vbi1wdWJsaWMtaGVhbHRoY2FyZS0xMjE3MzU3MS5odG1sL2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 10:17:09 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvYnVkZ2V0L2J1ZGdldC0yMDI0LWhlYWx0aC1zZWN0b3ItdG8tYmVuZWZpdC1mcm9tLWZvY3VzLW9uLXB1YmxpYy1oZWFsdGhjYXJlLTEyMTczNTcxLmh0bWzSAYgBaHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL2J1c2luZXNzL2J1ZGdldC9idWRnZXQtMjAyNC1oZWFsdGgtc2VjdG9yLXRvLWJlbmVmaXQtZnJvbS1mb2N1cy1vbi1wdWJsaWMtaGVhbHRoY2FyZS0xMjE3MzU3MS5odG1sL2FtcA?oc=5\" target=\"_blank\">Health sector to benefit from focus on public healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>"
+            ],
+            "source": [
+              {
+                "_": "Moneycontrol",
+                "$": {
+                  "url": "https://www.moneycontrol.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Metropolis Healthcare Share Price Live blog for 07 Feb 2024 - MintGenie"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9uZXdzL21hcmtldHMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLXNoYXJlLXByaWNlLWxpdmUtYmxvZy1mb3ItMDctZmViLTIwMjQtMTUxNzA3Mjc0ODcwODAx0gF7aHR0cHM6Ly9taW50Z2VuaWUubGl2ZW1pbnQuY29tL2FtcC9uZXdzL21hcmtldHMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLXNoYXJlLXByaWNlLWxpdmUtYmxvZy1mb3ItMDctZmViLTIwMjQtMTUxNzA3Mjc0ODcwODAx?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9uZXdzL21hcmtldHMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLXNoYXJlLXByaWNlLWxpdmUtYmxvZy1mb3ItMDctZmViLTIwMjQtMTUxNzA3Mjc0ODcwODAx0gF7aHR0cHM6Ly9taW50Z2VuaWUubGl2ZW1pbnQuY29tL2FtcC9uZXdzL21hcmtldHMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLXNoYXJlLXByaWNlLWxpdmUtYmxvZy1mb3ItMDctZmViLTIwMjQtMTUxNzA3Mjc0ODcwODAx",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 03:01:10 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9uZXdzL21hcmtldHMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLXNoYXJlLXByaWNlLWxpdmUtYmxvZy1mb3ItMDctZmViLTIwMjQtMTUxNzA3Mjc0ODcwODAx0gF7aHR0cHM6Ly9taW50Z2VuaWUubGl2ZW1pbnQuY29tL2FtcC9uZXdzL21hcmtldHMvbWV0cm9wb2xpcy1oZWFsdGhjYXJlLXNoYXJlLXByaWNlLWxpdmUtYmxvZy1mb3ItMDctZmViLTIwMjQtMTUxNzA3Mjc0ODcwODAx?oc=5\" target=\"_blank\">Metropolis Healthcare Share Price Live blog for 07 Feb 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MintGenie</font>"
+            ],
+            "source": [
+              {
+                "_": "MintGenie",
+                "$": {
+                  "url": "https://mintgenie.livemint.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fortis Healthcare Share Price Live blog for 07 Feb 2024 - MintGenie"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9uZXdzL21hcmtldHMvZm9ydGlzLWhlYWx0aGNhcmUtc2hhcmUtcHJpY2UtbGl2ZS1ibG9nLWZvci0wNy1mZWItMjAyNC0xNTE3MDcyNzM4MjI4ODHSAXdodHRwczovL21pbnRnZW5pZS5saXZlbWludC5jb20vYW1wL25ld3MvbWFya2V0cy9mb3J0aXMtaGVhbHRoY2FyZS1zaGFyZS1wcmljZS1saXZlLWJsb2ctZm9yLTA3LWZlYi0yMDI0LTE1MTcwNzI3MzgyMjg4MQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9uZXdzL21hcmtldHMvZm9ydGlzLWhlYWx0aGNhcmUtc2hhcmUtcHJpY2UtbGl2ZS1ibG9nLWZvci0wNy1mZWItMjAyNC0xNTE3MDcyNzM4MjI4ODHSAXdodHRwczovL21pbnRnZW5pZS5saXZlbWludC5jb20vYW1wL25ld3MvbWFya2V0cy9mb3J0aXMtaGVhbHRoY2FyZS1zaGFyZS1wcmljZS1saXZlLWJsb2ctZm9yLTA3LWZlYi0yMDI0LTE1MTcwNzI3MzgyMjg4MQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:43:42 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9uZXdzL21hcmtldHMvZm9ydGlzLWhlYWx0aGNhcmUtc2hhcmUtcHJpY2UtbGl2ZS1ibG9nLWZvci0wNy1mZWItMjAyNC0xNTE3MDcyNzM4MjI4ODHSAXdodHRwczovL21pbnRnZW5pZS5saXZlbWludC5jb20vYW1wL25ld3MvbWFya2V0cy9mb3J0aXMtaGVhbHRoY2FyZS1zaGFyZS1wcmljZS1saXZlLWJsb2ctZm9yLTA3LWZlYi0yMDI0LTE1MTcwNzI3MzgyMjg4MQ?oc=5\" target=\"_blank\">Fortis Healthcare Share Price Live blog for 07 Feb 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MintGenie</font>"
+            ],
+            "source": [
+              {
+                "_": "MintGenie",
+                "$": {
+                  "url": "https://mintgenie.livemint.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Aster DM Healthcare Share Price Live blog for 07 Feb 2024 - MintGenie"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9uZXdzL21hcmtldHMvYXN0ZXItZG0taGVhbHRoY2FyZS1zaGFyZS1wcmljZS1saXZlLWJsb2ctZm9yLTA3LWZlYi0yMDI0LTE1MTcwNzI3MzEyMTMyMdIBeWh0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9hbXAvbmV3cy9tYXJrZXRzL2FzdGVyLWRtLWhlYWx0aGNhcmUtc2hhcmUtcHJpY2UtbGl2ZS1ibG9nLWZvci0wNy1mZWItMjAyNC0xNTE3MDcyNzMxMjEzMjE?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9uZXdzL21hcmtldHMvYXN0ZXItZG0taGVhbHRoY2FyZS1zaGFyZS1wcmljZS1saXZlLWJsb2ctZm9yLTA3LWZlYi0yMDI0LTE1MTcwNzI3MzEyMTMyMdIBeWh0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9hbXAvbmV3cy9tYXJrZXRzL2FzdGVyLWRtLWhlYWx0aGNhcmUtc2hhcmUtcHJpY2UtbGl2ZS1ibG9nLWZvci0wNy1mZWItMjAyNC0xNTE3MDcyNzMxMjEzMjE",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:32:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9uZXdzL21hcmtldHMvYXN0ZXItZG0taGVhbHRoY2FyZS1zaGFyZS1wcmljZS1saXZlLWJsb2ctZm9yLTA3LWZlYi0yMDI0LTE1MTcwNzI3MzEyMTMyMdIBeWh0dHBzOi8vbWludGdlbmllLmxpdmVtaW50LmNvbS9hbXAvbmV3cy9tYXJrZXRzL2FzdGVyLWRtLWhlYWx0aGNhcmUtc2hhcmUtcHJpY2UtbGl2ZS1ibG9nLWZvci0wNy1mZWItMjAyNC0xNTE3MDcyNzMxMjEzMjE?oc=5\" target=\"_blank\">Aster DM Healthcare Share Price Live blog for 07 Feb 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MintGenie</font>"
+            ],
+            "source": [
+              {
+                "_": "MintGenie",
+                "$": {
+                  "url": "https://mintgenie.livemint.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Surge in AI and Healthcare hiring noted in India for January: Report - India TV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5pbmRpYXR2bmV3cy5jb20vdGVjaG5vbG9neS9uZXdzL3N1cmdlLWluLWFpLWFuZC1oZWFsdGhjYXJlLWhpcmluZy1ub3RlZC1pbi1pbmRpYS1mb3ItamFudWFyeS1yZXBvcnQtMjAyNC0wMi0wNi05MTU1NjDSAYUBaHR0cHM6Ly93d3cuaW5kaWF0dm5ld3MuY29tL2FtcC90ZWNobm9sb2d5L25ld3Mvc3VyZ2UtaW4tYWktYW5kLWhlYWx0aGNhcmUtaGlyaW5nLW5vdGVkLWluLWluZGlhLWZvci1qYW51YXJ5LXJlcG9ydC0yMDI0LTAyLTA2LTkxNTU2MA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5pbmRpYXR2bmV3cy5jb20vdGVjaG5vbG9neS9uZXdzL3N1cmdlLWluLWFpLWFuZC1oZWFsdGhjYXJlLWhpcmluZy1ub3RlZC1pbi1pbmRpYS1mb3ItamFudWFyeS1yZXBvcnQtMjAyNC0wMi0wNi05MTU1NjDSAYUBaHR0cHM6Ly93d3cuaW5kaWF0dm5ld3MuY29tL2FtcC90ZWNobm9sb2d5L25ld3Mvc3VyZ2UtaW4tYWktYW5kLWhlYWx0aGNhcmUtaGlyaW5nLW5vdGVkLWluLWluZGlhLWZvci1qYW51YXJ5LXJlcG9ydC0yMDI0LTAyLTA2LTkxNTU2MA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 12:45:28 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5pbmRpYXR2bmV3cy5jb20vdGVjaG5vbG9neS9uZXdzL3N1cmdlLWluLWFpLWFuZC1oZWFsdGhjYXJlLWhpcmluZy1ub3RlZC1pbi1pbmRpYS1mb3ItamFudWFyeS1yZXBvcnQtMjAyNC0wMi0wNi05MTU1NjDSAYUBaHR0cHM6Ly93d3cuaW5kaWF0dm5ld3MuY29tL2FtcC90ZWNobm9sb2d5L25ld3Mvc3VyZ2UtaW4tYWktYW5kLWhlYWx0aGNhcmUtaGlyaW5nLW5vdGVkLWluLWluZGlhLWZvci1qYW51YXJ5LXJlcG9ydC0yMDI0LTAyLTA2LTkxNTU2MA?oc=5\" target=\"_blank\">Surge in AI and Healthcare hiring noted in India for January: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India TV News</font>"
+            ],
+            "source": [
+              {
+                "_": "India TV News",
+                "$": {
+                  "url": "https://www.indiatvnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dr Agarwals Health Care plans IPO for $300 million | Mint - Mint"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9jb21wYW5pZXMvbmV3cy9kci1hZ2Fyd2Fscy1oZWFsdGgtY2FyZS1wbGFucy1pcG8tZm9yLTMwMC1taWxsaW9uLTExNzA3MTUzODI4NjMxLmh0bWzSAXFodHRwczovL3d3dy5saXZlbWludC5jb20vY29tcGFuaWVzL25ld3MvZHItYWdhcndhbHMtaGVhbHRoLWNhcmUtcGxhbnMtaXBvLWZvci0zMDAtbWlsbGlvbi9hbXAtMTE3MDcxNTM4Mjg2MzEuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9jb21wYW5pZXMvbmV3cy9kci1hZ2Fyd2Fscy1oZWFsdGgtY2FyZS1wbGFucy1pcG8tZm9yLTMwMC1taWxsaW9uLTExNzA3MTUzODI4NjMxLmh0bWzSAXFodHRwczovL3d3dy5saXZlbWludC5jb20vY29tcGFuaWVzL25ld3MvZHItYWdhcndhbHMtaGVhbHRoLWNhcmUtcGxhbnMtaXBvLWZvci0zMDAtbWlsbGlvbi9hbXAtMTE3MDcxNTM4Mjg2MzEuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 17:33:02 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9jb21wYW5pZXMvbmV3cy9kci1hZ2Fyd2Fscy1oZWFsdGgtY2FyZS1wbGFucy1pcG8tZm9yLTMwMC1taWxsaW9uLTExNzA3MTUzODI4NjMxLmh0bWzSAXFodHRwczovL3d3dy5saXZlbWludC5jb20vY29tcGFuaWVzL25ld3MvZHItYWdhcndhbHMtaGVhbHRoLWNhcmUtcGxhbnMtaXBvLWZvci0zMDAtbWlsbGlvbi9hbXAtMTE3MDcxNTM4Mjg2MzEuaHRtbA?oc=5\" target=\"_blank\">Dr Agarwals Health Care plans IPO for $300 million | Mint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>"
+            ],
+            "source": [
+              {
+                "_": "Mint",
+                "$": {
+                  "url": "https://www.livemint.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Technical Breakout Stocks: How to trade YES Bank, Aster DM and Fortis Healthcare on Wednesday - The Economic Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbWFya2V0cy9zdG9ja3MvbmV3cy90ZWNobmljYWwtYnJlYWtvdXQtc3RvY2tzLWhvdy10by10cmFkZS15ZXMtYmFuay1hc3Rlci1kbS1hbmQtZm9ydGlzLWhlYWx0aGNhcmUtb24td2VkbmVzZGF5L2FydGljbGVzaG93LzEwNzQ2MzE3OS5jbXPSAakBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL21hcmtldHMvc3RvY2tzL25ld3MvdGVjaG5pY2FsLWJyZWFrb3V0LXN0b2Nrcy1ob3ctdG8tdHJhZGUteWVzLWJhbmstYXN0ZXItZG0tYW5kLWZvcnRpcy1oZWFsdGhjYXJlLW9uLXdlZG5lc2RheS9hbXBfYXJ0aWNsZXNob3cvMTA3NDYzMTc5LmNtcw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbWFya2V0cy9zdG9ja3MvbmV3cy90ZWNobmljYWwtYnJlYWtvdXQtc3RvY2tzLWhvdy10by10cmFkZS15ZXMtYmFuay1hc3Rlci1kbS1hbmQtZm9ydGlzLWhlYWx0aGNhcmUtb24td2VkbmVzZGF5L2FydGljbGVzaG93LzEwNzQ2MzE3OS5jbXPSAakBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL21hcmtldHMvc3RvY2tzL25ld3MvdGVjaG5pY2FsLWJyZWFrb3V0LXN0b2Nrcy1ob3ctdG8tdHJhZGUteWVzLWJhbmstYXN0ZXItZG0tYW5kLWZvcnRpcy1oZWFsdGhjYXJlLW9uLXdlZG5lc2RheS9hbXBfYXJ0aWNsZXNob3cvMTA3NDYzMTc5LmNtcw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 12:49:42 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbWFya2V0cy9zdG9ja3MvbmV3cy90ZWNobmljYWwtYnJlYWtvdXQtc3RvY2tzLWhvdy10by10cmFkZS15ZXMtYmFuay1hc3Rlci1kbS1hbmQtZm9ydGlzLWhlYWx0aGNhcmUtb24td2VkbmVzZGF5L2FydGljbGVzaG93LzEwNzQ2MzE3OS5jbXPSAakBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL21hcmtldHMvc3RvY2tzL25ld3MvdGVjaG5pY2FsLWJyZWFrb3V0LXN0b2Nrcy1ob3ctdG8tdHJhZGUteWVzLWJhbmstYXN0ZXItZG0tYW5kLWZvcnRpcy1oZWFsdGhjYXJlLW9uLXdlZG5lc2RheS9hbXBfYXJ0aWNsZXNob3cvMTA3NDYzMTc5LmNtcw?oc=5\" target=\"_blank\">Technical Breakout Stocks: How to trade YES Bank, Aster DM and Fortis Healthcare on Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Economic Times",
+                "$": {
+                  "url": "https://m.economictimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Max Healthcare signs MoU with RCOG for advanced gynaecology programme - Business Standard"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vY29tcGFuaWVzL25ld3MvbWF4LWhlYWx0aGNhcmUtc2lnbnMtbW91LXdpdGgtcmNvZy1mb3ItYWR2YW5jZWQtZ3luYWVjb2xvZ3ktcHJvZ3JhbW1lLTEyNDAyMDUwMTEwNl8xLmh0bWzSAY4BaHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FtcC9jb21wYW5pZXMvbmV3cy9tYXgtaGVhbHRoY2FyZS1zaWducy1tb3Utd2l0aC1yY29nLWZvci1hZHZhbmNlZC1neW5hZWNvbG9neS1wcm9ncmFtbWUtMTI0MDIwNTAxMTA2XzEuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vY29tcGFuaWVzL25ld3MvbWF4LWhlYWx0aGNhcmUtc2lnbnMtbW91LXdpdGgtcmNvZy1mb3ItYWR2YW5jZWQtZ3luYWVjb2xvZ3ktcHJvZ3JhbW1lLTEyNDAyMDUwMTEwNl8xLmh0bWzSAY4BaHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FtcC9jb21wYW5pZXMvbmV3cy9tYXgtaGVhbHRoY2FyZS1zaWducy1tb3Utd2l0aC1yY29nLWZvci1hZHZhbmNlZC1neW5hZWNvbG9neS1wcm9ncmFtbWUtMTI0MDIwNTAxMTA2XzEuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 12:09:44 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vY29tcGFuaWVzL25ld3MvbWF4LWhlYWx0aGNhcmUtc2lnbnMtbW91LXdpdGgtcmNvZy1mb3ItYWR2YW5jZWQtZ3luYWVjb2xvZ3ktcHJvZ3JhbW1lLTEyNDAyMDUwMTEwNl8xLmh0bWzSAY4BaHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FtcC9jb21wYW5pZXMvbmV3cy9tYXgtaGVhbHRoY2FyZS1zaWducy1tb3Utd2l0aC1yY29nLWZvci1hZHZhbmNlZC1neW5hZWNvbG9neS1wcm9ncmFtbWUtMTI0MDIwNTAxMTA2XzEuaHRtbA?oc=5\" target=\"_blank\">Max Healthcare signs MoU with RCOG for advanced gynaecology programme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Standard",
+                "$": {
+                  "url": "https://www.business-standard.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Navigating The Future: Home Healthcare Trends In 2024 And Beyond - Entrepreneur"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmVudHJlcHJlbmV1ci5jb20vZW4taW4vbmV3cy1hbmQtdHJlbmRzL25hdmlnYXRpbmctdGhlLWZ1dHVyZS1ob21lLWhlYWx0aGNhcmUtdHJlbmRzLWluLTIwMjQtYW5kLzQ2OTM3NtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmVudHJlcHJlbmV1ci5jb20vZW4taW4vbmV3cy1hbmQtdHJlbmRzL25hdmlnYXRpbmctdGhlLWZ1dHVyZS1ob21lLWhlYWx0aGNhcmUtdHJlbmRzLWluLTIwMjQtYW5kLzQ2OTM3NtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 04:06:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmVudHJlcHJlbmV1ci5jb20vZW4taW4vbmV3cy1hbmQtdHJlbmRzL25hdmlnYXRpbmctdGhlLWZ1dHVyZS1ob21lLWhlYWx0aGNhcmUtdHJlbmRzLWluLTIwMjQtYW5kLzQ2OTM3NtIBAA?oc=5\" target=\"_blank\">Navigating The Future: Home Healthcare Trends In 2024 And Beyond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Entrepreneur</font>"
+            ],
+            "source": [
+              {
+                "_": "Entrepreneur",
+                "$": {
+                  "url": "https://www.entrepreneur.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WHO applauds extension of healthcare coverage to ASHA, anganwadi workers and helpers - The Hindu"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy50aGVoaW5kdS5jb20vYnVzaW5lc3MvYnVkZ2V0L3doby1hcHBsYXVkcy1leHRlbnNpb24tb2YtaGVhbHRoY2FyZS1jb3ZlcmFnZS10by1hc2hhLWFuZ2Fud2FkaS13b3JrZXJzLWFuZC1oZWxwZXJzL2FydGljbGU2Nzc5OTk3NS5lY2XSAZUBaHR0cHM6Ly93d3cudGhlaGluZHUuY29tL2J1c2luZXNzL2J1ZGdldC93aG8tYXBwbGF1ZHMtZXh0ZW5zaW9uLW9mLWhlYWx0aGNhcmUtY292ZXJhZ2UtdG8tYXNoYS1hbmdhbndhZGktd29ya2Vycy1hbmQtaGVscGVycy9hcnRpY2xlNjc3OTk5NzUuZWNlL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL3d3dy50aGVoaW5kdS5jb20vYnVzaW5lc3MvYnVkZ2V0L3doby1hcHBsYXVkcy1leHRlbnNpb24tb2YtaGVhbHRoY2FyZS1jb3ZlcmFnZS10by1hc2hhLWFuZ2Fud2FkaS13b3JrZXJzLWFuZC1oZWxwZXJzL2FydGljbGU2Nzc5OTk3NS5lY2XSAZUBaHR0cHM6Ly93d3cudGhlaGluZHUuY29tL2J1c2luZXNzL2J1ZGdldC93aG8tYXBwbGF1ZHMtZXh0ZW5zaW9uLW9mLWhlYWx0aGNhcmUtY292ZXJhZ2UtdG8tYXNoYS1hbmdhbndhZGktd29ya2Vycy1hbmQtaGVscGVycy9hcnRpY2xlNjc3OTk5NzUuZWNlL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 11:36:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy50aGVoaW5kdS5jb20vYnVzaW5lc3MvYnVkZ2V0L3doby1hcHBsYXVkcy1leHRlbnNpb24tb2YtaGVhbHRoY2FyZS1jb3ZlcmFnZS10by1hc2hhLWFuZ2Fud2FkaS13b3JrZXJzLWFuZC1oZWxwZXJzL2FydGljbGU2Nzc5OTk3NS5lY2XSAZUBaHR0cHM6Ly93d3cudGhlaGluZHUuY29tL2J1c2luZXNzL2J1ZGdldC93aG8tYXBwbGF1ZHMtZXh0ZW5zaW9uLW9mLWhlYWx0aGNhcmUtY292ZXJhZ2UtdG8tYXNoYS1hbmdhbndhZGktd29ya2Vycy1hbmQtaGVscGVycy9hcnRpY2xlNjc3OTk5NzUuZWNlL2FtcC8?oc=5\" target=\"_blank\">WHO applauds extension of healthcare coverage to ASHA, anganwadi workers and helpers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hindu",
+                "$": {
+                  "url": "https://www.thehindu.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reviewing 11 Of The Healthcare Industry’s Boldest Moves - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2FjaGluamFpbi8yMDI0LzAyLzA0L3Jldmlld2luZy0xMC1vZi1oZWFsdGhjYXJlLWJvbGRlc3QtbW92ZXMtaW4tcmVjZW50LWhpc3Rvcnkv0gFyaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9zYWNoaW5qYWluLzIwMjQvMDIvMDQvcmV2aWV3aW5nLTEwLW9mLWhlYWx0aGNhcmUtYm9sZGVzdC1tb3Zlcy1pbi1yZWNlbnQtaGlzdG9yeS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2FjaGluamFpbi8yMDI0LzAyLzA0L3Jldmlld2luZy0xMC1vZi1oZWFsdGhjYXJlLWJvbGRlc3QtbW92ZXMtaW4tcmVjZW50LWhpc3Rvcnkv0gFyaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9zYWNoaW5qYWluLzIwMjQvMDIvMDQvcmV2aWV3aW5nLTEwLW9mLWhlYWx0aGNhcmUtYm9sZGVzdC1tb3Zlcy1pbi1yZWNlbnQtaGlzdG9yeS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 23:44:29 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2FjaGluamFpbi8yMDI0LzAyLzA0L3Jldmlld2luZy0xMC1vZi1oZWFsdGhjYXJlLWJvbGRlc3QtbW92ZXMtaW4tcmVjZW50LWhpc3Rvcnkv0gFyaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9zYWNoaW5qYWluLzIwMjQvMDIvMDQvcmV2aWV3aW5nLTEwLW9mLWhlYWx0aGNhcmUtYm9sZGVzdC1tb3Zlcy1pbi1yZWNlbnQtaGlzdG9yeS9hbXAv?oc=5\" target=\"_blank\">Reviewing 11 Of The Healthcare Industry’s Boldest Moves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "OpenAI-backed healthcare AI startup raises $70 million Series B - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZGVhbHMvb3BlbmFpLWJhY2tlZC1oZWFsdGhjYXJlLWFpLXN0YXJ0dXAtcmFpc2VzLTcwLW1pbGxpb24tc2VyaWVzLWItMjAyNC0wMi0wNi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZGVhbHMvb3BlbmFpLWJhY2tlZC1oZWFsdGhjYXJlLWFpLXN0YXJ0dXAtcmFpc2VzLTcwLW1pbGxpb24tc2VyaWVzLWItMjAyNC0wMi0wNi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 10:05:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZGVhbHMvb3BlbmFpLWJhY2tlZC1oZWFsdGhjYXJlLWFpLXN0YXJ0dXAtcmFpc2VzLTcwLW1pbGxpb24tc2VyaWVzLWItMjAyNC0wMi0wNi_SAQA?oc=5\" target=\"_blank\">OpenAI-backed healthcare AI startup raises $70 million Series B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "IIT Delhi Launches Programme For Aspiring Healthcare Entrepreneurs, Check Details - NDTV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm5kdHYuY29tL2VkdWNhdGlvbi9paXQtZGVsaGktbGF1bmNoZXMtcHJvZ3JhbW1lLWZvci1hc3BpcmluZy1oZWFsdGhjYXJlLWVudHJlcHJlbmV1cnMtY2hlY2stZGV0YWlscy01MDA1NTUy0gF9aHR0cHM6Ly93d3cubmR0di5jb20vZWR1Y2F0aW9uL2lpdC1kZWxoaS1sYXVuY2hlcy1wcm9ncmFtbWUtZm9yLWFzcGlyaW5nLWhlYWx0aGNhcmUtZW50cmVwcmVuZXVycy1jaGVjay1kZXRhaWxzLTUwMDU1NTIvYW1wLzE?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3Lm5kdHYuY29tL2VkdWNhdGlvbi9paXQtZGVsaGktbGF1bmNoZXMtcHJvZ3JhbW1lLWZvci1hc3BpcmluZy1oZWFsdGhjYXJlLWVudHJlcHJlbmV1cnMtY2hlY2stZGV0YWlscy01MDA1NTUy0gF9aHR0cHM6Ly93d3cubmR0di5jb20vZWR1Y2F0aW9uL2lpdC1kZWxoaS1sYXVuY2hlcy1wcm9ncmFtbWUtZm9yLWFzcGlyaW5nLWhlYWx0aGNhcmUtZW50cmVwcmVuZXVycy1jaGVjay1kZXRhaWxzLTUwMDU1NTIvYW1wLzE",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 12:06:02 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm5kdHYuY29tL2VkdWNhdGlvbi9paXQtZGVsaGktbGF1bmNoZXMtcHJvZ3JhbW1lLWZvci1hc3BpcmluZy1oZWFsdGhjYXJlLWVudHJlcHJlbmV1cnMtY2hlY2stZGV0YWlscy01MDA1NTUy0gF9aHR0cHM6Ly93d3cubmR0di5jb20vZWR1Y2F0aW9uL2lpdC1kZWxoaS1sYXVuY2hlcy1wcm9ncmFtbWUtZm9yLWFzcGlyaW5nLWhlYWx0aGNhcmUtZW50cmVwcmVuZXVycy1jaGVjay1kZXRhaWxzLTUwMDU1NTIvYW1wLzE?oc=5\" target=\"_blank\">IIT Delhi Launches Programme For Aspiring Healthcare Entrepreneurs, Check Details</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>"
+            ],
+            "source": [
+              {
+                "_": "NDTV",
+                "$": {
+                  "url": "https://www.ndtv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Governor S Abdul Nazeer lauds AP’s healthcare system at Dr YSR University Convocation - The New Indian Express"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9zdGF0ZXMvYW5kaHJhLXByYWRlc2gvMjAyNC9GZWIvMDcvZ292ZXJub3Itcy1hYmR1bC1uYXplZXItbGF1ZHMtYXBzLWhlYWx0aGNhcmUtc3lzdGVtLWF0LWRyLXlzci11bml2ZXJzaXR5LWNvbnZvY2F0aW9u0gGhAWh0dHBzOi8vd3d3Lm5ld2luZGlhbmV4cHJlc3MuY29tL2FtcC9zdG9yeS9zdGF0ZXMvYW5kaHJhLXByYWRlc2gvMjAyNC9GZWIvMDcvZ292ZXJub3Itcy1hYmR1bC1uYXplZXItbGF1ZHMtYXBzLWhlYWx0aGNhcmUtc3lzdGVtLWF0LWRyLXlzci11bml2ZXJzaXR5LWNvbnZvY2F0aW9u?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilwFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9zdGF0ZXMvYW5kaHJhLXByYWRlc2gvMjAyNC9GZWIvMDcvZ292ZXJub3Itcy1hYmR1bC1uYXplZXItbGF1ZHMtYXBzLWhlYWx0aGNhcmUtc3lzdGVtLWF0LWRyLXlzci11bml2ZXJzaXR5LWNvbnZvY2F0aW9u0gGhAWh0dHBzOi8vd3d3Lm5ld2luZGlhbmV4cHJlc3MuY29tL2FtcC9zdG9yeS9zdGF0ZXMvYW5kaHJhLXByYWRlc2gvMjAyNC9GZWIvMDcvZ292ZXJub3Itcy1hYmR1bC1uYXplZXItbGF1ZHMtYXBzLWhlYWx0aGNhcmUtc3lzdGVtLWF0LWRyLXlzci11bml2ZXJzaXR5LWNvbnZvY2F0aW9u",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 06:16:07 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9zdGF0ZXMvYW5kaHJhLXByYWRlc2gvMjAyNC9GZWIvMDcvZ292ZXJub3Itcy1hYmR1bC1uYXplZXItbGF1ZHMtYXBzLWhlYWx0aGNhcmUtc3lzdGVtLWF0LWRyLXlzci11bml2ZXJzaXR5LWNvbnZvY2F0aW9u0gGhAWh0dHBzOi8vd3d3Lm5ld2luZGlhbmV4cHJlc3MuY29tL2FtcC9zdG9yeS9zdGF0ZXMvYW5kaHJhLXByYWRlc2gvMjAyNC9GZWIvMDcvZ292ZXJub3Itcy1hYmR1bC1uYXplZXItbGF1ZHMtYXBzLWhlYWx0aGNhcmUtc3lzdGVtLWF0LWRyLXlzci11bml2ZXJzaXR5LWNvbnZvY2F0aW9u?oc=5\" target=\"_blank\">Governor S Abdul Nazeer lauds AP’s healthcare system at Dr YSR University Convocation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>"
+            ],
+            "source": [
+              {
+                "_": "The New Indian Express",
+                "$": {
+                  "url": "https://www.newindianexpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UltraSight partners with Selvas Healthcare - AuntMinnie"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5hdW50bWlubmllLmNvbS9pbWFnaW5nLWluZm9ybWF0aWNzL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2FydGljbGUvMTU2NjM2MDUvdWx0cmFzaWdodC1wYXJ0bmVycy13aXRoLXNlbHZhcy1oZWFsdGhjYXJl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5hdW50bWlubmllLmNvbS9pbWFnaW5nLWluZm9ybWF0aWNzL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2FydGljbGUvMTU2NjM2MDUvdWx0cmFzaWdodC1wYXJ0bmVycy13aXRoLXNlbHZhcy1oZWFsdGhjYXJl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:12:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5hdW50bWlubmllLmNvbS9pbWFnaW5nLWluZm9ybWF0aWNzL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2FydGljbGUvMTU2NjM2MDUvdWx0cmFzaWdodC1wYXJ0bmVycy13aXRoLXNlbHZhcy1oZWFsdGhjYXJl0gEA?oc=5\" target=\"_blank\">UltraSight partners with Selvas Healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AuntMinnie</font>"
+            ],
+            "source": [
+              {
+                "_": "AuntMinnie",
+                "$": {
+                  "url": "https://www.auntminnie.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pfizer, Amazon Health & more: layoffs are plaguing healthcare, too - Quartz"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vcXouY29tL2hlYWx0aGNhcmUtaW5kdXN0cnktbGF5b2Zmcy1wZml6ZXItYW1hem9uLWhlYWx0aC0xODUxMjMxNjI50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vcXouY29tL2hlYWx0aGNhcmUtaW5kdXN0cnktbGF5b2Zmcy1wZml6ZXItYW1hem9uLWhlYWx0aC0xODUxMjMxNjI50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:31:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vcXouY29tL2hlYWx0aGNhcmUtaW5kdXN0cnktbGF5b2Zmcy1wZml6ZXItYW1hem9uLWhlYWx0aC0xODUxMjMxNjI50gEA?oc=5\" target=\"_blank\">Pfizer, Amazon Health & more: layoffs are plaguing healthcare, too</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quartz</font>"
+            ],
+            "source": [
+              {
+                "_": "Quartz",
+                "$": {
+                  "url": "https://qz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UltraSight & Selvas Healthcare to commercialise AI-powered cardiac ultrasound software in Asia - BSA bureau"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5iaW9zcGVjdHJ1bWFzaWEuY29tL25ld3MvODYvMjM2OTIvdWx0cmFzaWdodC1zZWx2YXMtaGVhbHRoY2FyZS10by1jb21tZXJjaWFsaXNlLWFpLXBvd2VyZWQtY2FyZGlhYy11bHRyYXNvdW5kLXNvZnR3YXJlLWluLWFzaWEuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy5iaW9zcGVjdHJ1bWFzaWEuY29tL25ld3MvODYvMjM2OTIvdWx0cmFzaWdodC1zZWx2YXMtaGVhbHRoY2FyZS10by1jb21tZXJjaWFsaXNlLWFpLXBvd2VyZWQtY2FyZGlhYy11bHRyYXNvdW5kLXNvZnR3YXJlLWluLWFzaWEuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 01:54:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5iaW9zcGVjdHJ1bWFzaWEuY29tL25ld3MvODYvMjM2OTIvdWx0cmFzaWdodC1zZWx2YXMtaGVhbHRoY2FyZS10by1jb21tZXJjaWFsaXNlLWFpLXBvd2VyZWQtY2FyZGlhYy11bHRyYXNvdW5kLXNvZnR3YXJlLWluLWFzaWEuaHRtbNIBAA?oc=5\" target=\"_blank\">UltraSight & Selvas Healthcare to commercialise AI-powered cardiac ultrasound software in Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BSA bureau</font>"
+            ],
+            "source": [
+              {
+                "_": "BSA bureau",
+                "$": {
+                  "url": "https://www.biospectrumasia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GE HealthCare reports Q4 revenue increase, dip in net income - AuntMinnie"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmF1bnRtaW5uaWUuY29tL2luZHVzdHJ5LW5ld3MvYXJ0aWNsZS8xNTY2MzYzNC9nZS1oZWFsdGhjYXJlLXJlcG9ydHMtcTQtcmV2ZW51ZS1pbmNyZWFzZS1kaXAtaW4tbmV0LWluY29tZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmF1bnRtaW5uaWUuY29tL2luZHVzdHJ5LW5ld3MvYXJ0aWNsZS8xNTY2MzYzNC9nZS1oZWFsdGhjYXJlLXJlcG9ydHMtcTQtcmV2ZW51ZS1pbmNyZWFzZS1kaXAtaW4tbmV0LWluY29tZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:52:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmF1bnRtaW5uaWUuY29tL2luZHVzdHJ5LW5ld3MvYXJ0aWNsZS8xNTY2MzYzNC9nZS1oZWFsdGhjYXJlLXJlcG9ydHMtcTQtcmV2ZW51ZS1pbmNyZWFzZS1kaXAtaW4tbmV0LWluY29tZdIBAA?oc=5\" target=\"_blank\">GE HealthCare reports Q4 revenue increase, dip in net income</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AuntMinnie</font>"
+            ],
+            "source": [
+              {
+                "_": "AuntMinnie",
+                "$": {
+                  "url": "https://www.auntminnie.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Here's Why Aster DM Healthcare (NSE:ASTERDM) Can Manage Its Debt Responsibly - Simply Wall St"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3NpbXBseXdhbGwuc3Qvc3RvY2tzL2luL2hlYWx0aGNhcmUvbnNlLWFzdGVyZG0vYXN0ZXItZG0taGVhbHRoY2FyZS1zaGFyZXMvbmV3cy9oZXJlcy13aHktYXN0ZXItZG0taGVhbHRoY2FyZS1uc2Vhc3RlcmRtLWNhbi1tYW5hZ2UtaXRzLWRlYnTSAZcBaHR0cHM6Ly9zaW1wbHl3YWxsLnN0L3N0b2Nrcy9pbi9oZWFsdGhjYXJlL25zZS1hc3RlcmRtL2FzdGVyLWRtLWhlYWx0aGNhcmUtc2hhcmVzL25ld3MvaGVyZXMtd2h5LWFzdGVyLWRtLWhlYWx0aGNhcmUtbnNlYXN0ZXJkbS1jYW4tbWFuYWdlLWl0cy1kZWJ0L2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3NpbXBseXdhbGwuc3Qvc3RvY2tzL2luL2hlYWx0aGNhcmUvbnNlLWFzdGVyZG0vYXN0ZXItZG0taGVhbHRoY2FyZS1zaGFyZXMvbmV3cy9oZXJlcy13aHktYXN0ZXItZG0taGVhbHRoY2FyZS1uc2Vhc3RlcmRtLWNhbi1tYW5hZ2UtaXRzLWRlYnTSAZcBaHR0cHM6Ly9zaW1wbHl3YWxsLnN0L3N0b2Nrcy9pbi9oZWFsdGhjYXJlL25zZS1hc3RlcmRtL2FzdGVyLWRtLWhlYWx0aGNhcmUtc2hhcmVzL25ld3MvaGVyZXMtd2h5LWFzdGVyLWRtLWhlYWx0aGNhcmUtbnNlYXN0ZXJkbS1jYW4tbWFuYWdlLWl0cy1kZWJ0L2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 01:13:27 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3NpbXBseXdhbGwuc3Qvc3RvY2tzL2luL2hlYWx0aGNhcmUvbnNlLWFzdGVyZG0vYXN0ZXItZG0taGVhbHRoY2FyZS1zaGFyZXMvbmV3cy9oZXJlcy13aHktYXN0ZXItZG0taGVhbHRoY2FyZS1uc2Vhc3RlcmRtLWNhbi1tYW5hZ2UtaXRzLWRlYnTSAZcBaHR0cHM6Ly9zaW1wbHl3YWxsLnN0L3N0b2Nrcy9pbi9oZWFsdGhjYXJlL25zZS1hc3RlcmRtL2FzdGVyLWRtLWhlYWx0aGNhcmUtc2hhcmVzL25ld3MvaGVyZXMtd2h5LWFzdGVyLWRtLWhlYWx0aGNhcmUtbnNlYXN0ZXJkbS1jYW4tbWFuYWdlLWl0cy1kZWJ0L2FtcA?oc=5\" target=\"_blank\">Here's Why Aster DM Healthcare (NSE:ASTERDM) Can Manage Its Debt Responsibly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall St</font>"
+            ],
+            "source": [
+              {
+                "_": "Simply Wall St",
+                "$": {
+                  "url": "https://simplywall.st"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Qisda's revenue from healthcare biz exceeds US$600 million in 2023 - DIGITIMES"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRpZ2l0aW1lcy5jb20vbmV3cy9hMjAyNDAyMDZQRDIxOC9xaXNkYS1oZWFsdGhjYXJlLXJldmVudWUtMjAyMy10YWl3YW4uaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3LmRpZ2l0aW1lcy5jb20vbmV3cy9hMjAyNDAyMDZQRDIxOC9xaXNkYS1oZWFsdGhjYXJlLXJldmVudWUtMjAyMy10YWl3YW4uaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 06:29:46 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRpZ2l0aW1lcy5jb20vbmV3cy9hMjAyNDAyMDZQRDIxOC9xaXNkYS1oZWFsdGhjYXJlLXJldmVudWUtMjAyMy10YWl3YW4uaHRtbNIBAA?oc=5\" target=\"_blank\">Qisda's revenue from healthcare biz exceeds US$600 million in 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIGITIMES</font>"
+            ],
+            "source": [
+              {
+                "_": "DIGITIMES",
+                "$": {
+                  "url": "https://www.digitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "American Healthcare REIT Prices IPO at Bottom of Range - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA2L2FtZXJpY2FuLWhlYWx0aGNhcmUtcmVpdC1wcmljZXMtaXBvLWF0LWJvdHRvbS1vZi1yYW5nZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA2L2FtZXJpY2FuLWhlYWx0aGNhcmUtcmVpdC1wcmljZXMtaXBvLWF0LWJvdHRvbS1vZi1yYW5nZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 22:08:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA2L2FtZXJpY2FuLWhlYWx0aGNhcmUtcmVpdC1wcmljZXMtaXBvLWF0LWJvdHRvbS1vZi1yYW5nZdIBAA?oc=5\" target=\"_blank\">American Healthcare REIT Prices IPO at Bottom of Range</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Amazon Cutting Jobs in One Medical, Amazon Pharmacy - PYMNTS.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnB5bW50cy5jb20vYW1hem9uLzIwMjQvYW1hem9uLWN1dHRpbmctam9icy1pbi1oZWFsdGhjYXJlLXVuaXRzLW9uZS1tZWRpY2FsLWFtYXpvbi1waGFybWFjeS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LnB5bW50cy5jb20vYW1hem9uLzIwMjQvYW1hem9uLWN1dHRpbmctam9icy1pbi1oZWFsdGhjYXJlLXVuaXRzLW9uZS1tZWRpY2FsLWFtYXpvbi1waGFybWFjeS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:11:46 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnB5bW50cy5jb20vYW1hem9uLzIwMjQvYW1hem9uLWN1dHRpbmctam9icy1pbi1oZWFsdGhjYXJlLXVuaXRzLW9uZS1tZWRpY2FsLWFtYXpvbi1waGFybWFjeS_SAQA?oc=5\" target=\"_blank\">Amazon Cutting Jobs in One Medical, Amazon Pharmacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>"
+            ],
+            "source": [
+              {
+                "_": "PYMNTS.com",
+                "$": {
+                  "url": "https://www.pymnts.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Healthcare facilities reviewed at PHC Khonmoh - Brighter Kashmir"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHA6Ly9icmlnaHRlcmthc2htaXIuY29tL2hlYWx0aGNhcmUtZmFjaWxpdGllcy1yZXZpZXdlZC1hdC1waGMta2hvbm1vaNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHA6Ly9icmlnaHRlcmthc2htaXIuY29tL2hlYWx0aGNhcmUtZmFjaWxpdGllcy1yZXZpZXdlZC1hdC1waGMta2hvbm1vaNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:09:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHA6Ly9icmlnaHRlcmthc2htaXIuY29tL2hlYWx0aGNhcmUtZmFjaWxpdGllcy1yZXZpZXdlZC1hdC1waGMta2hvbm1vaNIBAA?oc=5\" target=\"_blank\">Healthcare facilities reviewed at PHC Khonmoh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brighter Kashmir</font>"
+            ],
+            "source": [
+              {
+                "_": "Brighter Kashmir",
+                "$": {
+                  "url": "http://brighterkashmir.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Factors Driving AI Adoption by Healthcare Providers AI Healthcare - Analytics Insight"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2ZhY3RvcnMtZHJpdmluZy1haS1hZG9wdGlvbi1ieS1oZWFsdGhjYXJlLXByb3ZpZGVycy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2ZhY3RvcnMtZHJpdmluZy1haS1hZG9wdGlvbi1ieS1oZWFsdGhjYXJlLXByb3ZpZGVycy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:32:36 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2ZhY3RvcnMtZHJpdmluZy1haS1hZG9wdGlvbi1ieS1oZWFsdGhjYXJlLXByb3ZpZGVycy_SAQA?oc=5\" target=\"_blank\">Factors Driving AI Adoption by Healthcare Providers AI Healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics Insight</font>"
+            ],
+            "source": [
+              {
+                "_": "Analytics Insight",
+                "$": {
+                  "url": "https://www.analyticsinsight.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GEHC stock finally gets some respect after earnings. Those betting against it got slammed - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDIvMDYvZ2UtaGVhbHRoY2FyZS1nZWhjLXN0b2NrLWZpbmFsbHktZ2V0cy1zb21lLXJlc3BlY3QtYWZ0ZXItcTQtZWFybmluZ3MuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDIvMDYvZ2UtaGVhbHRoY2FyZS1nZWhjLXN0b2NrLWZpbmFsbHktZ2V0cy1zb21lLXJlc3BlY3QtYWZ0ZXItcTQtZWFybmluZ3MuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:29:46 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDIvMDYvZ2UtaGVhbHRoY2FyZS1nZWhjLXN0b2NrLWZpbmFsbHktZ2V0cy1zb21lLXJlc3BlY3QtYWZ0ZXItcTQtZWFybmluZ3MuaHRtbNIBAA?oc=5\" target=\"_blank\">GEHC stock finally gets some respect after earnings. Those betting against it got slammed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mumbai: No question of revising healthcare policy, says BMC - mid-day.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm1pZC1kYXkuY29tL211bWJhaS9tdW1iYWktbmV3cy9hcnRpY2xlL211bWJhaS1uby1xdWVzdGlvbi1vZi1yZXZpc2luZy1oZWFsdGhjYXJlLXBvbGljeS1zYXlzLWJtYy0yMzMzMzg0M9IBeWh0dHBzOi8vd3d3Lm1pZC1kYXkuY29tL2FtcC9tdW1iYWkvbXVtYmFpLW5ld3MvYXJ0aWNsZS9tdW1iYWktbm8tcXVlc3Rpb24tb2YtcmV2aXNpbmctaGVhbHRoY2FyZS1wb2xpY3ktc2F5cy1ibWMtMjMzMzM4NDM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3Lm1pZC1kYXkuY29tL211bWJhaS9tdW1iYWktbmV3cy9hcnRpY2xlL211bWJhaS1uby1xdWVzdGlvbi1vZi1yZXZpc2luZy1oZWFsdGhjYXJlLXBvbGljeS1zYXlzLWJtYy0yMzMzMzg0M9IBeWh0dHBzOi8vd3d3Lm1pZC1kYXkuY29tL2FtcC9tdW1iYWkvbXVtYmFpLW5ld3MvYXJ0aWNsZS9tdW1iYWktbm8tcXVlc3Rpb24tb2YtcmV2aXNpbmctaGVhbHRoY2FyZS1wb2xpY3ktc2F5cy1ibWMtMjMzMzM4NDM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 01:29:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm1pZC1kYXkuY29tL211bWJhaS9tdW1iYWktbmV3cy9hcnRpY2xlL211bWJhaS1uby1xdWVzdGlvbi1vZi1yZXZpc2luZy1oZWFsdGhjYXJlLXBvbGljeS1zYXlzLWJtYy0yMzMzMzg0M9IBeWh0dHBzOi8vd3d3Lm1pZC1kYXkuY29tL2FtcC9tdW1iYWkvbXVtYmFpLW5ld3MvYXJ0aWNsZS9tdW1iYWktbm8tcXVlc3Rpb24tb2YtcmV2aXNpbmctaGVhbHRoY2FyZS1wb2xpY3ktc2F5cy1ibWMtMjMzMzM4NDM?oc=5\" target=\"_blank\">Mumbai: No question of revising healthcare policy, says BMC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mid-day.com</font>"
+            ],
+            "source": [
+              {
+                "_": "mid-day.com",
+                "$": {
+                  "url": "https://www.mid-day.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dwindling healthcare! Women patients forced to sleep on floor post family planning surgery in Odisha - OTV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL29kaXNoYXR2LmluL25ld3Mvb2Rpc2hhL2R3aW5kbGluZy1oZWFsdGhjYXJlLXdvbWVuLXBhdGllbnRzLWZvcmNlZC10by1zbGVlcC1vbi1mbG9vci1wb3N0LWZhbWlseS1wbGFubmluZy1zdXJnZXJ5LWluLW9kaXNoYS0yMjcxNzXSAY4BaHR0cHM6Ly9vZGlzaGF0di5pbi9uZXdzL29kaXNoYS9kd2luZGxpbmctaGVhbHRoY2FyZS13b21lbi1wYXRpZW50cy1mb3JjZWQtdG8tc2xlZXAtb24tZmxvb3ItcG9zdC1mYW1pbHktcGxhbm5pbmctc3VyZ2VyeS1pbi1vZGlzaGEtMjI3MTc1L2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL29kaXNoYXR2LmluL25ld3Mvb2Rpc2hhL2R3aW5kbGluZy1oZWFsdGhjYXJlLXdvbWVuLXBhdGllbnRzLWZvcmNlZC10by1zbGVlcC1vbi1mbG9vci1wb3N0LWZhbWlseS1wbGFubmluZy1zdXJnZXJ5LWluLW9kaXNoYS0yMjcxNzXSAY4BaHR0cHM6Ly9vZGlzaGF0di5pbi9uZXdzL29kaXNoYS9kd2luZGxpbmctaGVhbHRoY2FyZS13b21lbi1wYXRpZW50cy1mb3JjZWQtdG8tc2xlZXAtb24tZmxvb3ItcG9zdC1mYW1pbHktcGxhbm5pbmctc3VyZ2VyeS1pbi1vZGlzaGEtMjI3MTc1L2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 03:23:13 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL29kaXNoYXR2LmluL25ld3Mvb2Rpc2hhL2R3aW5kbGluZy1oZWFsdGhjYXJlLXdvbWVuLXBhdGllbnRzLWZvcmNlZC10by1zbGVlcC1vbi1mbG9vci1wb3N0LWZhbWlseS1wbGFubmluZy1zdXJnZXJ5LWluLW9kaXNoYS0yMjcxNzXSAY4BaHR0cHM6Ly9vZGlzaGF0di5pbi9uZXdzL29kaXNoYS9kd2luZGxpbmctaGVhbHRoY2FyZS13b21lbi1wYXRpZW50cy1mb3JjZWQtdG8tc2xlZXAtb24tZmxvb3ItcG9zdC1mYW1pbHktcGxhbm5pbmctc3VyZ2VyeS1pbi1vZGlzaGEtMjI3MTc1L2FtcA?oc=5\" target=\"_blank\">Dwindling healthcare! Women patients forced to sleep on floor post family planning surgery in Odisha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OTV News</font>"
+            ],
+            "source": [
+              {
+                "_": "OTV News",
+                "$": {
+                  "url": "https://odishatv.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Amazon Is Laying Off Hundreds in Its Health Care Operation - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA2L2FtYXpvbi1pcy1sYXlpbmctb2ZmLWh1bmRyZWRzLWluLWl0cy1oZWFsdGgtY2FyZS1vcGVyYXRpb27SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA2L2FtYXpvbi1pcy1sYXlpbmctb2ZmLWh1bmRyZWRzLWluLWl0cy1oZWFsdGgtY2FyZS1vcGVyYXRpb27SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 19:43:03 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA2L2FtYXpvbi1pcy1sYXlpbmctb2ZmLWh1bmRyZWRzLWluLWl0cy1oZWFsdGgtY2FyZS1vcGVyYXRpb27SAQA?oc=5\" target=\"_blank\">Amazon Is Laying Off Hundreds in Its Health Care Operation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Diagnostic leaders applaud Budget 2024's emphasis on preventive healthcare - ETHealthWorld"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZGlhZ25vc3RpY3MvZGlhZ25vc3RpYy1sZWFkZXJzLWFwcGxhdWQtYnVkZ2V0LTIwMjRzLWVtcGhhc2lzLW9uLXByZXZlbnRpdmUtaGVhbHRoY2FyZS8xMDczNTEyNDHSAZQBaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9kaWFnbm9zdGljcy9kaWFnbm9zdGljLWxlYWRlcnMtYXBwbGF1ZC1idWRnZXQtMjAyNHMtZW1waGFzaXMtb24tcHJldmVudGl2ZS1oZWFsdGhjYXJlLzEwNzM1MTI0MQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZGlhZ25vc3RpY3MvZGlhZ25vc3RpYy1sZWFkZXJzLWFwcGxhdWQtYnVkZ2V0LTIwMjRzLWVtcGhhc2lzLW9uLXByZXZlbnRpdmUtaGVhbHRoY2FyZS8xMDczNTEyNDHSAZQBaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9kaWFnbm9zdGljcy9kaWFnbm9zdGljLWxlYWRlcnMtYXBwbGF1ZC1idWRnZXQtMjAyNHMtZW1waGFzaXMtb24tcHJldmVudGl2ZS1oZWFsdGhjYXJlLzEwNzM1MTI0MQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 08:52:18 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZGlhZ25vc3RpY3MvZGlhZ25vc3RpYy1sZWFkZXJzLWFwcGxhdWQtYnVkZ2V0LTIwMjRzLWVtcGhhc2lzLW9uLXByZXZlbnRpdmUtaGVhbHRoY2FyZS8xMDczNTEyNDHSAZQBaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9kaWFnbm9zdGljcy9kaWFnbm9zdGljLWxlYWRlcnMtYXBwbGF1ZC1idWRnZXQtMjAyNHMtZW1waGFzaXMtb24tcHJldmVudGl2ZS1oZWFsdGhjYXJlLzEwNzM1MTI0MQ?oc=5\" target=\"_blank\">Diagnostic leaders applaud Budget 2024's emphasis on preventive healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETHealthWorld</font>"
+            ],
+            "source": [
+              {
+                "_": "ETHealthWorld",
+                "$": {
+                  "url": "https://health.economictimes.indiatimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Simulations Plus to Participate in Upcoming Healthcare Conferences - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjQwMjA2MjQ3MzMyL2VuL1NpbXVsYXRpb25zLVBsdXMtdG8tUGFydGljaXBhdGUtaW4tVXBjb21pbmctSGVhbHRoY2FyZS1Db25mZXJlbmNlc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjQwMjA2MjQ3MzMyL2VuL1NpbXVsYXRpb25zLVBsdXMtdG8tUGFydGljaXBhdGUtaW4tVXBjb21pbmctSGVhbHRoY2FyZS1Db25mZXJlbmNlc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:30:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjQwMjA2MjQ3MzMyL2VuL1NpbXVsYXRpb25zLVBsdXMtdG8tUGFydGljaXBhdGUtaW4tVXBjb21pbmctSGVhbHRoY2FyZS1Db25mZXJlbmNlc9IBAA?oc=5\" target=\"_blank\">Simulations Plus to Participate in Upcoming Healthcare Conferences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Budget 2024: Healthcare cover under Ayushman Bharat to be extended to ASHA, anganwadi workers - The Economic Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMisQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vaW5kdXN0cnkvYmFua2luZy9maW5hbmNlL2luc3VyZS9idWRnZXQtMjAyNC1oZWFsdGhjYXJlLWNvdmVyLXVuZGVyLWF5dXNobWFuLWJoYXJhdC10by1iZS1leHRlbmRlZC10by1hc2hhLWFuZ2Fud2FkaS13b3JrZXJzL2FydGljbGVzaG93LzEwNzMyNzI5NC5jbXPSAbUBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL2luZHVzdHJ5L2JhbmtpbmcvZmluYW5jZS9pbnN1cmUvYnVkZ2V0LTIwMjQtaGVhbHRoY2FyZS1jb3Zlci11bmRlci1heXVzaG1hbi1iaGFyYXQtdG8tYmUtZXh0ZW5kZWQtdG8tYXNoYS1hbmdhbndhZGktd29ya2Vycy9hbXBfYXJ0aWNsZXNob3cvMTA3MzI3Mjk0LmNtcw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMisQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vaW5kdXN0cnkvYmFua2luZy9maW5hbmNlL2luc3VyZS9idWRnZXQtMjAyNC1oZWFsdGhjYXJlLWNvdmVyLXVuZGVyLWF5dXNobWFuLWJoYXJhdC10by1iZS1leHRlbmRlZC10by1hc2hhLWFuZ2Fud2FkaS13b3JrZXJzL2FydGljbGVzaG93LzEwNzMyNzI5NC5jbXPSAbUBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL2luZHVzdHJ5L2JhbmtpbmcvZmluYW5jZS9pbnN1cmUvYnVkZ2V0LTIwMjQtaGVhbHRoY2FyZS1jb3Zlci11bmRlci1heXVzaG1hbi1iaGFyYXQtdG8tYmUtZXh0ZW5kZWQtdG8tYXNoYS1hbmdhbndhZGktd29ya2Vycy9hbXBfYXJ0aWNsZXNob3cvMTA3MzI3Mjk0LmNtcw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 11:13:21 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMisQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vaW5kdXN0cnkvYmFua2luZy9maW5hbmNlL2luc3VyZS9idWRnZXQtMjAyNC1oZWFsdGhjYXJlLWNvdmVyLXVuZGVyLWF5dXNobWFuLWJoYXJhdC10by1iZS1leHRlbmRlZC10by1hc2hhLWFuZ2Fud2FkaS13b3JrZXJzL2FydGljbGVzaG93LzEwNzMyNzI5NC5jbXPSAbUBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL2luZHVzdHJ5L2JhbmtpbmcvZmluYW5jZS9pbnN1cmUvYnVkZ2V0LTIwMjQtaGVhbHRoY2FyZS1jb3Zlci11bmRlci1heXVzaG1hbi1iaGFyYXQtdG8tYmUtZXh0ZW5kZWQtdG8tYXNoYS1hbmdhbndhZGktd29ya2Vycy9hbXBfYXJ0aWNsZXNob3cvMTA3MzI3Mjk0LmNtcw?oc=5\" target=\"_blank\">Budget 2024: Healthcare cover under Ayushman Bharat to be extended to ASHA, anganwadi workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Economic Times",
+                "$": {
+                  "url": "https://m.economictimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How a group of Telangana doctors became part of the same system they opposed to root out ills plaguing healthcare - South First"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3RoZXNvdXRoZmlyc3QuY29tL2hlYWx0aC9ob3ctYS1ncm91cC1vZi10ZWxhbmdhbmEtZG9jdG9ycy1iZWNhbWUtcGFydC1vZi10aGUtc2FtZS1zeXN0ZW0tdGhleS1vcHBvc2VkLXRvLXJvb3Qtb3V0LWlsbHMtcGxhZ3VpbmctaGVhbHRoY2FyZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3RoZXNvdXRoZmlyc3QuY29tL2hlYWx0aC9ob3ctYS1ncm91cC1vZi10ZWxhbmdhbmEtZG9jdG9ycy1iZWNhbWUtcGFydC1vZi10aGUtc2FtZS1zeXN0ZW0tdGhleS1vcHBvc2VkLXRvLXJvb3Qtb3V0LWlsbHMtcGxhZ3VpbmctaGVhbHRoY2FyZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 06:31:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3RoZXNvdXRoZmlyc3QuY29tL2hlYWx0aC9ob3ctYS1ncm91cC1vZi10ZWxhbmdhbmEtZG9jdG9ycy1iZWNhbWUtcGFydC1vZi10aGUtc2FtZS1zeXN0ZW0tdGhleS1vcHBvc2VkLXRvLXJvb3Qtb3V0LWlsbHMtcGxhZ3VpbmctaGVhbHRoY2FyZS_SAQA?oc=5\" target=\"_blank\">How a group of Telangana doctors became part of the same system they opposed to root out ills plaguing healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South First</font>"
+            ],
+            "source": [
+              {
+                "_": "South First",
+                "$": {
+                  "url": "https://thesouthfirst.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "ViiV Healthcare launches new Dovato blister pack in US - Packaging Gateway"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnBhY2thZ2luZy1nYXRld2F5LmNvbS9uZXdzL3ZpaXYtaGVhbHRoY2FyZS1kb3ZhdG8tYmxpc3Rlci1wYWNrL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LnBhY2thZ2luZy1nYXRld2F5LmNvbS9uZXdzL3ZpaXYtaGVhbHRoY2FyZS1kb3ZhdG8tYmxpc3Rlci1wYWNrL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:32:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnBhY2thZ2luZy1nYXRld2F5LmNvbS9uZXdzL3ZpaXYtaGVhbHRoY2FyZS1kb3ZhdG8tYmxpc3Rlci1wYWNrL9IBAA?oc=5\" target=\"_blank\">ViiV Healthcare launches new Dovato blister pack in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Packaging Gateway</font>"
+            ],
+            "source": [
+              {
+                "_": "Packaging Gateway",
+                "$": {
+                  "url": "https://www.packaging-gateway.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Healthcare Biometric Market Size & Share to Exceed USD 20.8 - GlobeNewswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMi-QFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyNC8wMi8wNy8yODI0ODM0LzAvZW4vSGVhbHRoY2FyZS1CaW9tZXRyaWMtTWFya2V0LVNpemUtU2hhcmUtdG8tRXhjZWVkLVVTRC0yMC04LUJpbGxpb24tYnktMjAzNC1hdC1DQUdSLW9mLTE4LTMtSGVhbHRoY2FyZS1pbi10aGUtRGlnaXRhbC1BZ2UtTmF2aWdhdGluZy10aGUtQm9vbWluZy1IZWFsdGhjYXJlLUJpb21ldHJpYy1NYXJrZXQtQnktUE1JLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMi-QFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyNC8wMi8wNy8yODI0ODM0LzAvZW4vSGVhbHRoY2FyZS1CaW9tZXRyaWMtTWFya2V0LVNpemUtU2hhcmUtdG8tRXhjZWVkLVVTRC0yMC04LUJpbGxpb24tYnktMjAzNC1hdC1DQUdSLW9mLTE4LTMtSGVhbHRoY2FyZS1pbi10aGUtRGlnaXRhbC1BZ2UtTmF2aWdhdGluZy10aGUtQm9vbWluZy1IZWFsdGhjYXJlLUJpb21ldHJpYy1NYXJrZXQtQnktUE1JLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:30:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMi-QFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyNC8wMi8wNy8yODI0ODM0LzAvZW4vSGVhbHRoY2FyZS1CaW9tZXRyaWMtTWFya2V0LVNpemUtU2hhcmUtdG8tRXhjZWVkLVVTRC0yMC04LUJpbGxpb24tYnktMjAzNC1hdC1DQUdSLW9mLTE4LTMtSGVhbHRoY2FyZS1pbi10aGUtRGlnaXRhbC1BZ2UtTmF2aWdhdGluZy10aGUtQm9vbWluZy1IZWFsdGhjYXJlLUJpb21ldHJpYy1NYXJrZXQtQnktUE1JLmh0bWzSAQA?oc=5\" target=\"_blank\">Healthcare Biometric Market Size & Share to Exceed USD 20.8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>"
+            ],
+            "source": [
+              {
+                "_": "GlobeNewswire",
+                "$": {
+                  "url": "https://www.globenewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The top challenges to health care profitability—a slideshow - Medical Economics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm1lZGljYWxlY29ub21pY3MuY29tL3ZpZXcvdGhlLXRvcC1jaGFsbGVuZ2VzLXRvLWhlYWx0aC1jYXJlLXByb2ZpdGFiaWxpdHktYS1zbGlkZXNob3fSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3Lm1lZGljYWxlY29ub21pY3MuY29tL3ZpZXcvdGhlLXRvcC1jaGFsbGVuZ2VzLXRvLWhlYWx0aC1jYXJlLXByb2ZpdGFiaWxpdHktYS1zbGlkZXNob3fSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:31:05 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm1lZGljYWxlY29ub21pY3MuY29tL3ZpZXcvdGhlLXRvcC1jaGFsbGVuZ2VzLXRvLWhlYWx0aC1jYXJlLXByb2ZpdGFiaWxpdHktYS1zbGlkZXNob3fSAQA?oc=5\" target=\"_blank\">The top challenges to health care profitability—a slideshow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Economics</font>"
+            ],
+            "source": [
+              {
+                "_": "Medical Economics",
+                "$": {
+                  "url": "https://www.medicaleconomics.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Glocal Hospital, Begusarai Recognized for Exemplary Healthcare Performance under Ayushman Bharat - Elets"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL2VoZWFsdGguZWxldHNvbmxpbmUuY29tLzIwMjQvMDIvZ2xvY2FsLWhvc3BpdGFsLWJlZ3VzYXJhaS1yZWNvZ25pemVkLWZvci1leGVtcGxhcnktaGVhbHRoY2FyZS1wZXJmb3JtYW5jZS11bmRlci1heXVzaG1hbi1iaGFyYXQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL2VoZWFsdGguZWxldHNvbmxpbmUuY29tLzIwMjQvMDIvZ2xvY2FsLWhvc3BpdGFsLWJlZ3VzYXJhaS1yZWNvZ25pemVkLWZvci1leGVtcGxhcnktaGVhbHRoY2FyZS1wZXJmb3JtYW5jZS11bmRlci1heXVzaG1hbi1iaGFyYXQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:59:06 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL2VoZWFsdGguZWxldHNvbmxpbmUuY29tLzIwMjQvMDIvZ2xvY2FsLWhvc3BpdGFsLWJlZ3VzYXJhaS1yZWNvZ25pemVkLWZvci1leGVtcGxhcnktaGVhbHRoY2FyZS1wZXJmb3JtYW5jZS11bmRlci1heXVzaG1hbi1iaGFyYXQv0gEA?oc=5\" target=\"_blank\">Glocal Hospital, Begusarai Recognized for Exemplary Healthcare Performance under Ayushman Bharat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets</font>"
+            ],
+            "source": [
+              {
+                "_": "Elets",
+                "$": {
+                  "url": "https://ehealth.eletsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ambience Healthcare Raises $70 Million to Expand AI Operating System for Healthcare Organizations - AiThority"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL2FpdGhvcml0eS5jb20vdGVjaG5vbG9neS9hbWJpZW5jZS1oZWFsdGhjYXJlLXJhaXNlcy03MC1taWxsaW9uLXRvLWV4cGFuZC1haS1vcGVyYXRpbmctc3lzdGVtLWZvci1oZWFsdGhjYXJlLW9yZ2FuaXphdGlvbnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL2FpdGhvcml0eS5jb20vdGVjaG5vbG9neS9hbWJpZW5jZS1oZWFsdGhjYXJlLXJhaXNlcy03MC1taWxsaW9uLXRvLWV4cGFuZC1haS1vcGVyYXRpbmctc3lzdGVtLWZvci1oZWFsdGhjYXJlLW9yZ2FuaXphdGlvbnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 18:48:19 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL2FpdGhvcml0eS5jb20vdGVjaG5vbG9neS9hbWJpZW5jZS1oZWFsdGhjYXJlLXJhaXNlcy03MC1taWxsaW9uLXRvLWV4cGFuZC1haS1vcGVyYXRpbmctc3lzdGVtLWZvci1oZWFsdGhjYXJlLW9yZ2FuaXphdGlvbnMv0gEA?oc=5\" target=\"_blank\">Ambience Healthcare Raises $70 Million to Expand AI Operating System for Healthcare Organizations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AiThority</font>"
+            ],
+            "source": [
+              {
+                "_": "AiThority",
+                "$": {
+                  "url": "https://aithority.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Real Chemistry Expands Medical Group With Avant Healthcare Acquisition - PRovoke Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnByb3Zva2VtZWRpYS5jb20vbGF0ZXN0L2FydGljbGUvcmVhbC1jaGVtaXN0cnktZXhwYW5kcy1tZWRpY2FsLWdyb3VwLXdpdGgtYXZhbnQtaGVhbHRoY2FyZS1hY3F1aXNpdGlvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LnByb3Zva2VtZWRpYS5jb20vbGF0ZXN0L2FydGljbGUvcmVhbC1jaGVtaXN0cnktZXhwYW5kcy1tZWRpY2FsLWdyb3VwLXdpdGgtYXZhbnQtaGVhbHRoY2FyZS1hY3F1aXNpdGlvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 15:51:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnByb3Zva2VtZWRpYS5jb20vbGF0ZXN0L2FydGljbGUvcmVhbC1jaGVtaXN0cnktZXhwYW5kcy1tZWRpY2FsLWdyb3VwLXdpdGgtYXZhbnQtaGVhbHRoY2FyZS1hY3F1aXNpdGlvbtIBAA?oc=5\" target=\"_blank\">Real Chemistry Expands Medical Group With Avant Healthcare Acquisition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PRovoke Media</font>"
+            ],
+            "source": [
+              {
+                "_": "PRovoke Media",
+                "$": {
+                  "url": "https://www.provokemedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Primary health care - World Health Organization (WHO)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lndoby5pbnQvbmV3cy1yb29tL2ZhY3Qtc2hlZXRzL2RldGFpbC9wcmltYXJ5LWhlYWx0aC1jYXJl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3Lndoby5pbnQvbmV3cy1yb29tL2ZhY3Qtc2hlZXRzL2RldGFpbC9wcmltYXJ5LWhlYWx0aC1jYXJl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lndoby5pbnQvbmV3cy1yb29tL2ZhY3Qtc2hlZXRzL2RldGFpbC9wcmltYXJ5LWhlYWx0aC1jYXJl0gEA?oc=5\" target=\"_blank\">Primary health care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Health Organization (WHO)</font>"
+            ],
+            "source": [
+              {
+                "_": "World Health Organization (WHO)",
+                "$": {
+                  "url": "https://www.who.int"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Budget 2024 expectations: R&D, infrastructure, and accessibility top healthcare sector's wish list - Business Today"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5idXNpbmVzc3RvZGF5LmluL3VuaW9uLWJ1ZGdldC9zdG9yeS9idWRnZXQtMjAyNC1leHBlY3RhdGlvbnMtcmQtaW5mcmFzdHJ1Y3R1cmUtYW5kLWFjY2Vzc2liaWxpdHktdG9wLWhlYWx0aGNhcmUtc2VjdG9ycy13aXNoLWxpc3QtNDE1NTEwLTIwMjQtMDEtMzHSAaMBaHR0cHM6Ly93d3cuYnVzaW5lc3N0b2RheS5pbi9hbXAvdW5pb24tYnVkZ2V0L3N0b3J5L2J1ZGdldC0yMDI0LWV4cGVjdGF0aW9ucy1yZC1pbmZyYXN0cnVjdHVyZS1hbmQtYWNjZXNzaWJpbGl0eS10b3AtaGVhbHRoY2FyZS1zZWN0b3JzLXdpc2gtbGlzdC00MTU1MTAtMjAyNC0wMS0zMQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinwFodHRwczovL3d3dy5idXNpbmVzc3RvZGF5LmluL3VuaW9uLWJ1ZGdldC9zdG9yeS9idWRnZXQtMjAyNC1leHBlY3RhdGlvbnMtcmQtaW5mcmFzdHJ1Y3R1cmUtYW5kLWFjY2Vzc2liaWxpdHktdG9wLWhlYWx0aGNhcmUtc2VjdG9ycy13aXNoLWxpc3QtNDE1NTEwLTIwMjQtMDEtMzHSAaMBaHR0cHM6Ly93d3cuYnVzaW5lc3N0b2RheS5pbi9hbXAvdW5pb24tYnVkZ2V0L3N0b3J5L2J1ZGdldC0yMDI0LWV4cGVjdGF0aW9ucy1yZC1pbmZyYXN0cnVjdHVyZS1hbmQtYWNjZXNzaWJpbGl0eS10b3AtaGVhbHRoY2FyZS1zZWN0b3JzLXdpc2gtbGlzdC00MTU1MTAtMjAyNC0wMS0zMQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 04:49:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5idXNpbmVzc3RvZGF5LmluL3VuaW9uLWJ1ZGdldC9zdG9yeS9idWRnZXQtMjAyNC1leHBlY3RhdGlvbnMtcmQtaW5mcmFzdHJ1Y3R1cmUtYW5kLWFjY2Vzc2liaWxpdHktdG9wLWhlYWx0aGNhcmUtc2VjdG9ycy13aXNoLWxpc3QtNDE1NTEwLTIwMjQtMDEtMzHSAaMBaHR0cHM6Ly93d3cuYnVzaW5lc3N0b2RheS5pbi9hbXAvdW5pb24tYnVkZ2V0L3N0b3J5L2J1ZGdldC0yMDI0LWV4cGVjdGF0aW9ucy1yZC1pbmZyYXN0cnVjdHVyZS1hbmQtYWNjZXNzaWJpbGl0eS10b3AtaGVhbHRoY2FyZS1zZWN0b3JzLXdpc2gtbGlzdC00MTU1MTAtMjAyNC0wMS0zMQ?oc=5\" target=\"_blank\">Budget 2024 expectations: R&D, infrastructure, and accessibility top healthcare sector's wish list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Today",
+                "$": {
+                  "url": "https://www.businesstoday.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Amazon cutting hundreds of jobs in health care units One Medical and Amazon Pharmacy - GeekWire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmdlZWt3aXJlLmNvbS8yMDI0L2FtYXpvbi1jdXR0aW5nLWh1bmRyZWRzLW9mLWpvYnMtaW4taGVhbHRoLWNhcmUtdW5pdHMtb25lLW1lZGljYWwtYW5kLWFtYXpvbi1waGFybWFjeS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LmdlZWt3aXJlLmNvbS8yMDI0L2FtYXpvbi1jdXR0aW5nLWh1bmRyZWRzLW9mLWpvYnMtaW4taGVhbHRoLWNhcmUtdW5pdHMtb25lLW1lZGljYWwtYW5kLWFtYXpvbi1waGFybWFjeS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:29:58 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmdlZWt3aXJlLmNvbS8yMDI0L2FtYXpvbi1jdXR0aW5nLWh1bmRyZWRzLW9mLWpvYnMtaW4taGVhbHRoLWNhcmUtdW5pdHMtb25lLW1lZGljYWwtYW5kLWFtYXpvbi1waGFybWFjeS_SAQA?oc=5\" target=\"_blank\">Amazon cutting hundreds of jobs in health care units One Medical and Amazon Pharmacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>"
+            ],
+            "source": [
+              {
+                "_": "GeekWire",
+                "$": {
+                  "url": "https://www.geekwire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ventyx Biosciences to Participate in the Oppenheimer 34th Annual Healthcare Life Sciences Conference - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy92ZW50eXgtYmlvc2NpZW5jZXMtcGFydGljaXBhdGUtb3BwZW5oZWltZXItMzR0aC0yMTA1MDA5NzguaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy92ZW50eXgtYmlvc2NpZW5jZXMtcGFydGljaXBhdGUtb3BwZW5oZWltZXItMzR0aC0yMTA1MDA5NzguaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:05:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy92ZW50eXgtYmlvc2NpZW5jZXMtcGFydGljaXBhdGUtb3BwZW5oZWltZXItMzR0aC0yMTA1MDA5NzguaHRtbNIBAA?oc=5\" target=\"_blank\">Ventyx Biosciences to Participate in the Oppenheimer 34th Annual Healthcare Life Sciences Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Amazon layoffs hit One Medical, pharmacy divisions - Modern Healthcare"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm1vZGVybmhlYWx0aGNhcmUuY29tL3Byb3ZpZGVycy9hbWF6b24tbGF5b2Zmcy1vbmUtbWVkaWNhbC1waGFybWFjeS1uZWlsLWxpbmRzYXnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3Lm1vZGVybmhlYWx0aGNhcmUuY29tL3Byb3ZpZGVycy9hbWF6b24tbGF5b2Zmcy1vbmUtbWVkaWNhbC1waGFybWFjeS1uZWlsLWxpbmRzYXnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 22:52:24 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm1vZGVybmhlYWx0aGNhcmUuY29tL3Byb3ZpZGVycy9hbWF6b24tbGF5b2Zmcy1vbmUtbWVkaWNhbC1waGFybWFjeS1uZWlsLWxpbmRzYXnSAQA?oc=5\" target=\"_blank\">Amazon layoffs hit One Medical, pharmacy divisions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Healthcare</font>"
+            ],
+            "source": [
+              {
+                "_": "Modern Healthcare",
+                "$": {
+                  "url": "https://www.modernhealthcare.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UltraSight, SELVAS Healthcare Partner to Bring AI-Powered Cardiac Ultrasound to Asia - HIT Consultant"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vaGl0Y29uc3VsdGFudC5uZXQvMjAyNC8wMi8wNi91bHRyYXNpZ2h0LXNlbHZhcy1oZWFsdGhjYXJlLXBhcnRuZXItYWktcG93ZXJlZC1jYXJkaWFjLXVsdHJhc291bmQtdG8tYXNpYS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vaGl0Y29uc3VsdGFudC5uZXQvMjAyNC8wMi8wNi91bHRyYXNpZ2h0LXNlbHZhcy1oZWFsdGhjYXJlLXBhcnRuZXItYWktcG93ZXJlZC1jYXJkaWFjLXVsdHJhc291bmQtdG8tYXNpYS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:30:46 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vaGl0Y29uc3VsdGFudC5uZXQvMjAyNC8wMi8wNi91bHRyYXNpZ2h0LXNlbHZhcy1oZWFsdGhjYXJlLXBhcnRuZXItYWktcG93ZXJlZC1jYXJkaWFjLXVsdHJhc291bmQtdG8tYXNpYS_SAQA?oc=5\" target=\"_blank\">UltraSight, SELVAS Healthcare Partner to Bring AI-Powered Cardiac Ultrasound to Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HIT Consultant</font>"
+            ],
+            "source": [
+              {
+                "_": "HIT Consultant",
+                "$": {
+                  "url": "https://hitconsultant.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sitharaman’s Budget 2024 blueprint: Top announcements for healthcare sector - IndiaTimes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqAFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9saWZlLXN0eWxlL2hlYWx0aC1maXRuZXNzL2hlYWx0aC1uZXdzL3NpdGhhcmFtYW5zLWJ1ZGdldC0yMDI0LWJsdWVwcmludC1rZXktYW5ub3VuY2VtZW50cy1mb3ItdGhlLWhlYWx0aGNhcmUtc2VjdG9yL2FydGljbGVzaG93LzEwNzMyMjg4MS5jbXPSAawBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vbGlmZS1zdHlsZS9oZWFsdGgtZml0bmVzcy9oZWFsdGgtbmV3cy9zaXRoYXJhbWFucy1idWRnZXQtMjAyNC1ibHVlcHJpbnQta2V5LWFubm91bmNlbWVudHMtZm9yLXRoZS1oZWFsdGhjYXJlLXNlY3Rvci9hbXBfYXJ0aWNsZXNob3cvMTA3MzIyODgxLmNtcw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqAFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9saWZlLXN0eWxlL2hlYWx0aC1maXRuZXNzL2hlYWx0aC1uZXdzL3NpdGhhcmFtYW5zLWJ1ZGdldC0yMDI0LWJsdWVwcmludC1rZXktYW5ub3VuY2VtZW50cy1mb3ItdGhlLWhlYWx0aGNhcmUtc2VjdG9yL2FydGljbGVzaG93LzEwNzMyMjg4MS5jbXPSAawBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vbGlmZS1zdHlsZS9oZWFsdGgtZml0bmVzcy9oZWFsdGgtbmV3cy9zaXRoYXJhbWFucy1idWRnZXQtMjAyNC1ibHVlcHJpbnQta2V5LWFubm91bmNlbWVudHMtZm9yLXRoZS1oZWFsdGhjYXJlLXNlY3Rvci9hbXBfYXJ0aWNsZXNob3cvMTA3MzIyODgxLmNtcw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 09:28:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqAFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9saWZlLXN0eWxlL2hlYWx0aC1maXRuZXNzL2hlYWx0aC1uZXdzL3NpdGhhcmFtYW5zLWJ1ZGdldC0yMDI0LWJsdWVwcmludC1rZXktYW5ub3VuY2VtZW50cy1mb3ItdGhlLWhlYWx0aGNhcmUtc2VjdG9yL2FydGljbGVzaG93LzEwNzMyMjg4MS5jbXPSAawBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vbGlmZS1zdHlsZS9oZWFsdGgtZml0bmVzcy9oZWFsdGgtbmV3cy9zaXRoYXJhbWFucy1idWRnZXQtMjAyNC1ibHVlcHJpbnQta2V5LWFubm91bmNlbWVudHMtZm9yLXRoZS1oZWFsdGhjYXJlLXNlY3Rvci9hbXBfYXJ0aWNsZXNob3cvMTA3MzIyODgxLmNtcw?oc=5\" target=\"_blank\">Sitharaman’s Budget 2024 blueprint: Top announcements for healthcare sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndiaTimes</font>"
+            ],
+            "source": [
+              {
+                "_": "IndiaTimes",
+                "$": {
+                  "url": "https://m.timesofindia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "HCL Healthcare Marks a Decade of Pioneering Preventive Health and Wellness Solutions in Corporate India - ThePrint"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilwFodHRwczovL3RoZXByaW50LmluL2FuaS1wcmVzcy1yZWxlYXNlcy9oY2wtaGVhbHRoY2FyZS1tYXJrcy1hLWRlY2FkZS1vZi1waW9uZWVyaW5nLXByZXZlbnRpdmUtaGVhbHRoLWFuZC13ZWxsbmVzcy1zb2x1dGlvbnMtaW4tY29ycG9yYXRlLWluZGlhLzE5NTYxNDEv0gGbAWh0dHBzOi8vdGhlcHJpbnQuaW4vYW5pLXByZXNzLXJlbGVhc2VzL2hjbC1oZWFsdGhjYXJlLW1hcmtzLWEtZGVjYWRlLW9mLXBpb25lZXJpbmctcHJldmVudGl2ZS1oZWFsdGgtYW5kLXdlbGxuZXNzLXNvbHV0aW9ucy1pbi1jb3Jwb3JhdGUtaW5kaWEvMTk1NjE0MS8_YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilwFodHRwczovL3RoZXByaW50LmluL2FuaS1wcmVzcy1yZWxlYXNlcy9oY2wtaGVhbHRoY2FyZS1tYXJrcy1hLWRlY2FkZS1vZi1waW9uZWVyaW5nLXByZXZlbnRpdmUtaGVhbHRoLWFuZC13ZWxsbmVzcy1zb2x1dGlvbnMtaW4tY29ycG9yYXRlLWluZGlhLzE5NTYxNDEv0gGbAWh0dHBzOi8vdGhlcHJpbnQuaW4vYW5pLXByZXNzLXJlbGVhc2VzL2hjbC1oZWFsdGhjYXJlLW1hcmtzLWEtZGVjYWRlLW9mLXBpb25lZXJpbmctcHJldmVudGl2ZS1oZWFsdGgtYW5kLXdlbGxuZXNzLXNvbHV0aW9ucy1pbi1jb3Jwb3JhdGUtaW5kaWEvMTk1NjE0MS8_YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 12:32:02 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilwFodHRwczovL3RoZXByaW50LmluL2FuaS1wcmVzcy1yZWxlYXNlcy9oY2wtaGVhbHRoY2FyZS1tYXJrcy1hLWRlY2FkZS1vZi1waW9uZWVyaW5nLXByZXZlbnRpdmUtaGVhbHRoLWFuZC13ZWxsbmVzcy1zb2x1dGlvbnMtaW4tY29ycG9yYXRlLWluZGlhLzE5NTYxNDEv0gGbAWh0dHBzOi8vdGhlcHJpbnQuaW4vYW5pLXByZXNzLXJlbGVhc2VzL2hjbC1oZWFsdGhjYXJlLW1hcmtzLWEtZGVjYWRlLW9mLXBpb25lZXJpbmctcHJldmVudGl2ZS1oZWFsdGgtYW5kLXdlbGxuZXNzLXNvbHV0aW9ucy1pbi1jb3Jwb3JhdGUtaW5kaWEvMTk1NjE0MS8_YW1w?oc=5\" target=\"_blank\">HCL Healthcare Marks a Decade of Pioneering Preventive Health and Wellness Solutions in Corporate India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>"
+            ],
+            "source": [
+              {
+                "_": "ThePrint",
+                "$": {
+                  "url": "https://theprint.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Government initiatives promote universal access to healthcare - ANI News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFuaW5ld3MuaW4vbmV3cy9idXNpbmVzcy9idXNpbmVzcy9nb3Zlcm5tZW50LWluaXRpYXRpdmVzLXByb21vdGUtdW5pdmVyc2FsLWFjY2Vzcy10by1oZWFsdGhjYXJlMjAyNDAyMDYyMDA5NDPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vd3d3LmFuaW5ld3MuaW4vbmV3cy9idXNpbmVzcy9idXNpbmVzcy9nb3Zlcm5tZW50LWluaXRpYXRpdmVzLXByb21vdGUtdW5pdmVyc2FsLWFjY2Vzcy10by1oZWFsdGhjYXJlMjAyNDAyMDYyMDA5NDPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:39:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFuaW5ld3MuaW4vbmV3cy9idXNpbmVzcy9idXNpbmVzcy9nb3Zlcm5tZW50LWluaXRpYXRpdmVzLXByb21vdGUtdW5pdmVyc2FsLWFjY2Vzcy10by1oZWFsdGhjYXJlMjAyNDAyMDYyMDA5NDPSAQA?oc=5\" target=\"_blank\">Government initiatives promote universal access to healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>"
+            ],
+            "source": [
+              {
+                "_": "ANI News",
+                "$": {
+                  "url": "https://www.aninews.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dentsu Creative India expands mandate for TTK Healthcare brands - Storyboard18"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnN0b3J5Ym9hcmQxOC5jb20vYnJhbmQtbWFrZXJzL2RlbnRzdS1jcmVhdGl2ZS1pbmRpYS1leHBhbmRzLW1hZGF0ZS1mb3ItdHRrLWhlYWx0aGNhcmUtYnJhbmRzLTIxOTE4Lmh0bdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LnN0b3J5Ym9hcmQxOC5jb20vYnJhbmQtbWFrZXJzL2RlbnRzdS1jcmVhdGl2ZS1pbmRpYS1leHBhbmRzLW1hZGF0ZS1mb3ItdHRrLWhlYWx0aGNhcmUtYnJhbmRzLTIxOTE4Lmh0bdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 06:14:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnN0b3J5Ym9hcmQxOC5jb20vYnJhbmQtbWFrZXJzL2RlbnRzdS1jcmVhdGl2ZS1pbmRpYS1leHBhbmRzLW1hZGF0ZS1mb3ItdHRrLWhlYWx0aGNhcmUtYnJhbmRzLTIxOTE4Lmh0bdIBAA?oc=5\" target=\"_blank\">Dentsu Creative India expands mandate for TTK Healthcare brands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Storyboard18</font>"
+            ],
+            "source": [
+              {
+                "_": "Storyboard18",
+                "$": {
+                  "url": "https://www.storyboard18.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Healthcare's Evolution is Creating Opportunities for ISVs - DevPro Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRldnByb2pvdXJuYWwuY29tL2luZHVzdHJ5L2hlYWx0aGNhcmUvaGVhbHRoY2FyZXMtZXZvbHV0aW9uLWlzLWNyZWF0aW5nLW9wcG9ydHVuaXRpZXMtZm9yLWlzdnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3LmRldnByb2pvdXJuYWwuY29tL2luZHVzdHJ5L2hlYWx0aGNhcmUvaGVhbHRoY2FyZXMtZXZvbHV0aW9uLWlzLWNyZWF0aW5nLW9wcG9ydHVuaXRpZXMtZm9yLWlzdnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:45:49 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRldnByb2pvdXJuYWwuY29tL2luZHVzdHJ5L2hlYWx0aGNhcmUvaGVhbHRoY2FyZXMtZXZvbHV0aW9uLWlzLWNyZWF0aW5nLW9wcG9ydHVuaXRpZXMtZm9yLWlzdnMv0gEA?oc=5\" target=\"_blank\">Healthcare's Evolution is Creating Opportunities for ISVs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DevPro Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "DevPro Journal",
+                "$": {
+                  "url": "https://www.devprojournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dentsu Creative India expands mandate for TTK Healthcare brands - afaqs!"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmFmYXFzLmNvbS9uZXdzL2FkdmVydGlzaW5nL2RlbnRzdS1jcmVhdGl2ZS1pbmRpYS1leHBhbmRzLW1hbmRhdGUtZm9yLXR0ay1oZWFsdGhjYXJlLWJyYW5kc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmFmYXFzLmNvbS9uZXdzL2FkdmVydGlzaW5nL2RlbnRzdS1jcmVhdGl2ZS1pbmRpYS1leHBhbmRzLW1hbmRhdGUtZm9yLXR0ay1oZWFsdGhjYXJlLWJyYW5kc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 06:25:45 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmFmYXFzLmNvbS9uZXdzL2FkdmVydGlzaW5nL2RlbnRzdS1jcmVhdGl2ZS1pbmRpYS1leHBhbmRzLW1hbmRhdGUtZm9yLXR0ay1oZWFsdGhjYXJlLWJyYW5kc9IBAA?oc=5\" target=\"_blank\">Dentsu Creative India expands mandate for TTK Healthcare brands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">afaqs!</font>"
+            ],
+            "source": [
+              {
+                "_": "afaqs!",
+                "$": {
+                  "url": "https://www.afaqs.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GE HealthCare (GEHC) Q4 Earnings Beat, Volume & Price Improve - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nZS1oZWFsdGhjYXJlLWdlaGMtcTQtZWFybmluZ3MtMTgyNjAwNTY1Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nZS1oZWFsdGhjYXJlLWdlaGMtcTQtZWFybmluZ3MtMTgyNjAwNTY1Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 18:26:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nZS1oZWFsdGhjYXJlLWdlaGMtcTQtZWFybmluZ3MtMTgyNjAwNTY1Lmh0bWzSAQA?oc=5\" target=\"_blank\">GE HealthCare (GEHC) Q4 Earnings Beat, Volume & Price Improve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A strong push for India's journey towards genuine universal healthcare, manufacturing, R&D: Kiran Mazumdar - The Economic Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitgFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vb3Bpbmlvbi9ldC1jb21tZW50YXJ5L2Etc3Ryb25nLXB1c2gtZm9yLWluZGlhcy1qb3VybmV5LXRvd2FyZHMtZ2VudWluZS11bml2ZXJzYWwtaGVhbHRoY2FyZS1tYW51ZmFjdHVyaW5nLXJkLWtpcmFuLW1henVtZGFyLXNoYXcvYXJ0aWNsZXNob3cvMTA3MzM1NzAwLmNtc9IBugFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vb3Bpbmlvbi9ldC1jb21tZW50YXJ5L2Etc3Ryb25nLXB1c2gtZm9yLWluZGlhcy1qb3VybmV5LXRvd2FyZHMtZ2VudWluZS11bml2ZXJzYWwtaGVhbHRoY2FyZS1tYW51ZmFjdHVyaW5nLXJkLWtpcmFuLW1henVtZGFyLXNoYXcvYW1wX2FydGljbGVzaG93LzEwNzMzNTcwMC5jbXM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitgFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vb3Bpbmlvbi9ldC1jb21tZW50YXJ5L2Etc3Ryb25nLXB1c2gtZm9yLWluZGlhcy1qb3VybmV5LXRvd2FyZHMtZ2VudWluZS11bml2ZXJzYWwtaGVhbHRoY2FyZS1tYW51ZmFjdHVyaW5nLXJkLWtpcmFuLW1henVtZGFyLXNoYXcvYXJ0aWNsZXNob3cvMTA3MzM1NzAwLmNtc9IBugFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vb3Bpbmlvbi9ldC1jb21tZW50YXJ5L2Etc3Ryb25nLXB1c2gtZm9yLWluZGlhcy1qb3VybmV5LXRvd2FyZHMtZ2VudWluZS11bml2ZXJzYWwtaGVhbHRoY2FyZS1tYW51ZmFjdHVyaW5nLXJkLWtpcmFuLW1henVtZGFyLXNoYXcvYW1wX2FydGljbGVzaG93LzEwNzMzNTcwMC5jbXM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 19:31:35 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitgFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vb3Bpbmlvbi9ldC1jb21tZW50YXJ5L2Etc3Ryb25nLXB1c2gtZm9yLWluZGlhcy1qb3VybmV5LXRvd2FyZHMtZ2VudWluZS11bml2ZXJzYWwtaGVhbHRoY2FyZS1tYW51ZmFjdHVyaW5nLXJkLWtpcmFuLW1henVtZGFyLXNoYXcvYXJ0aWNsZXNob3cvMTA3MzM1NzAwLmNtc9IBugFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vb3Bpbmlvbi9ldC1jb21tZW50YXJ5L2Etc3Ryb25nLXB1c2gtZm9yLWluZGlhcy1qb3VybmV5LXRvd2FyZHMtZ2VudWluZS11bml2ZXJzYWwtaGVhbHRoY2FyZS1tYW51ZmFjdHVyaW5nLXJkLWtpcmFuLW1henVtZGFyLXNoYXcvYW1wX2FydGljbGVzaG93LzEwNzMzNTcwMC5jbXM?oc=5\" target=\"_blank\">A strong push for India's journey towards genuine universal healthcare, manufacturing, R&D: Kiran Mazumdar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Economic Times",
+                "$": {
+                  "url": "https://m.economictimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GE HealthCare Shares Rise 11.5% After Better-Than-Expected 4Q Revenue, Upbeat 2024 Outlook - Marketscreener.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5tYXJrZXRzY3JlZW5lci5jb20vcXVvdGUvc3RvY2svR0UtSEVBTFRIQ0FSRS1URUNITk9MT0dJRS0xNDgxNzU4MzUvbmV3cy9HRS1IZWFsdGhDYXJlLVNoYXJlcy1SaXNlLTExLTUtQWZ0ZXItQmV0dGVyLVRoYW4tRXhwZWN0ZWQtNFEtUmV2ZW51ZS1VcGJlYXQtMjAyNC1PdXRsb29rLTQ1ODk1NDIyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitgFodHRwczovL3d3dy5tYXJrZXRzY3JlZW5lci5jb20vcXVvdGUvc3RvY2svR0UtSEVBTFRIQ0FSRS1URUNITk9MT0dJRS0xNDgxNzU4MzUvbmV3cy9HRS1IZWFsdGhDYXJlLVNoYXJlcy1SaXNlLTExLTUtQWZ0ZXItQmV0dGVyLVRoYW4tRXhwZWN0ZWQtNFEtUmV2ZW51ZS1VcGJlYXQtMjAyNC1PdXRsb29rLTQ1ODk1NDIyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:44:10 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5tYXJrZXRzY3JlZW5lci5jb20vcXVvdGUvc3RvY2svR0UtSEVBTFRIQ0FSRS1URUNITk9MT0dJRS0xNDgxNzU4MzUvbmV3cy9HRS1IZWFsdGhDYXJlLVNoYXJlcy1SaXNlLTExLTUtQWZ0ZXItQmV0dGVyLVRoYW4tRXhwZWN0ZWQtNFEtUmV2ZW51ZS1VcGJlYXQtMjAyNC1PdXRsb29rLTQ1ODk1NDIyL9IBAA?oc=5\" target=\"_blank\">GE HealthCare Shares Rise 11.5% After Better-Than-Expected 4Q Revenue, Upbeat 2024 Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marketscreener.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Marketscreener.com",
+                "$": {
+                  "url": "https://www.marketscreener.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Real Chemistry snaps up Avant Healthcare to boost med comms offering - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL3JlYWwtY2hlbWlzdHJ5LXNuYXBzLWF2YW50LWhlYWx0aGNhcmUtYm9vc3QtbWVkLWNvbW1zLW9mZmVyaW5n0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL3JlYWwtY2hlbWlzdHJ5LXNuYXBzLWF2YW50LWhlYWx0aGNhcmUtYm9vc3QtbWVkLWNvbW1zLW9mZmVyaW5n0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:05:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL3JlYWwtY2hlbWlzdHJ5LXNuYXBzLWF2YW50LWhlYWx0aGNhcmUtYm9vc3QtbWVkLWNvbW1zLW9mZmVyaW5n0gEA?oc=5\" target=\"_blank\">Real Chemistry snaps up Avant Healthcare to boost med comms offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "HCA Healthcare Inc. stock underperforms Tuesday when compared to competitors - MarketWatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vZGF0YS1uZXdzL2hjYS1oZWFsdGhjYXJlLWluYy1zdG9jay11bmRlcnBlcmZvcm1zLXR1ZXNkYXktd2hlbi1jb21wYXJlZC10by1jb21wZXRpdG9ycy1mMTZkNWQ5Yy04OGFkM2VjNGUzNjjSAYsBaHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL2FtcC9kYXRhLW5ld3MvaGNhLWhlYWx0aGNhcmUtaW5jLXN0b2NrLXVuZGVycGVyZm9ybXMtdHVlc2RheS13aGVuLWNvbXBhcmVkLXRvLWNvbXBldGl0b3JzLWYxNmQ1ZDljLTg4YWQzZWM0ZTM2OA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vZGF0YS1uZXdzL2hjYS1oZWFsdGhjYXJlLWluYy1zdG9jay11bmRlcnBlcmZvcm1zLXR1ZXNkYXktd2hlbi1jb21wYXJlZC10by1jb21wZXRpdG9ycy1mMTZkNWQ5Yy04OGFkM2VjNGUzNjjSAYsBaHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL2FtcC9kYXRhLW5ld3MvaGNhLWhlYWx0aGNhcmUtaW5jLXN0b2NrLXVuZGVycGVyZm9ybXMtdHVlc2RheS13aGVuLWNvbXBhcmVkLXRvLWNvbXBldGl0b3JzLWYxNmQ1ZDljLTg4YWQzZWM0ZTM2OA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:45:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vZGF0YS1uZXdzL2hjYS1oZWFsdGhjYXJlLWluYy1zdG9jay11bmRlcnBlcmZvcm1zLXR1ZXNkYXktd2hlbi1jb21wYXJlZC10by1jb21wZXRpdG9ycy1mMTZkNWQ5Yy04OGFkM2VjNGUzNjjSAYsBaHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL2FtcC9kYXRhLW5ld3MvaGNhLWhlYWx0aGNhcmUtaW5jLXN0b2NrLXVuZGVycGVyZm9ybXMtdHVlc2RheS13aGVuLWNvbXBhcmVkLXRvLWNvbXBldGl0b3JzLWYxNmQ1ZDljLTg4YWQzZWM0ZTM2OA?oc=5\" target=\"_blank\">HCA Healthcare Inc. stock underperforms Tuesday when compared to competitors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>"
+            ],
+            "source": [
+              {
+                "_": "MarketWatch",
+                "$": {
+                  "url": "https://www.marketwatch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cytokinetics to Participate in the Oppenheimer 34th Annual Healthcare Life Sciences Conference - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jeXRva2luZXRpY3MtcGFydGljaXBhdGUtb3BwZW5oZWltZXItMzR0aC1hbm51YWwtMjEwMDAwNzAzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jeXRva2luZXRpY3MtcGFydGljaXBhdGUtb3BwZW5oZWltZXItMzR0aC1hbm51YWwtMjEwMDAwNzAzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jeXRva2luZXRpY3MtcGFydGljaXBhdGUtb3BwZW5oZWltZXItMzR0aC1hbm51YWwtMjEwMDAwNzAzLmh0bWzSAQA?oc=5\" target=\"_blank\">Cytokinetics to Participate in the Oppenheimer 34th Annual Healthcare Life Sciences Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indian national sentenced to 9 years for $2.8 million healthcare fraud. Details here | Mint - Mint"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYW4tbmF0aW9uYWwtc2VudGVuY2VkLXRvLTkteWVhcnMtZm9yLTItOC1taWxsaW9uLWhlYWx0aGNhcmUtZnJhdWQtZGV0YWlscy1oZXJlLTExNzA2NjY4MTU2NTQ3Lmh0bWzSAYgBaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL25ld3MvaW5kaWFuLW5hdGlvbmFsLXNlbnRlbmNlZC10by05LXllYXJzLWZvci0yLTgtbWlsbGlvbi1oZWFsdGhjYXJlLWZyYXVkLWRldGFpbHMtaGVyZS9hbXAtMTE3MDY2NjgxNTY1NDcuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYW4tbmF0aW9uYWwtc2VudGVuY2VkLXRvLTkteWVhcnMtZm9yLTItOC1taWxsaW9uLWhlYWx0aGNhcmUtZnJhdWQtZGV0YWlscy1oZXJlLTExNzA2NjY4MTU2NTQ3Lmh0bWzSAYgBaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL25ld3MvaW5kaWFuLW5hdGlvbmFsLXNlbnRlbmNlZC10by05LXllYXJzLWZvci0yLTgtbWlsbGlvbi1oZWFsdGhjYXJlLWZyYXVkLWRldGFpbHMtaGVyZS9hbXAtMTE3MDY2NjgxNTY1NDcuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 09:33:05 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYW4tbmF0aW9uYWwtc2VudGVuY2VkLXRvLTkteWVhcnMtZm9yLTItOC1taWxsaW9uLWhlYWx0aGNhcmUtZnJhdWQtZGV0YWlscy1oZXJlLTExNzA2NjY4MTU2NTQ3Lmh0bWzSAYgBaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL25ld3MvaW5kaWFuLW5hdGlvbmFsLXNlbnRlbmNlZC10by05LXllYXJzLWZvci0yLTgtbWlsbGlvbi1oZWFsdGhjYXJlLWZyYXVkLWRldGFpbHMtaGVyZS9hbXAtMTE3MDY2NjgxNTY1NDcuaHRtbA?oc=5\" target=\"_blank\">Indian national sentenced to 9 years for $2.8 million healthcare fraud. Details here | Mint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>"
+            ],
+            "source": [
+              {
+                "_": "Mint",
+                "$": {
+                  "url": "https://www.livemint.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The road to a healthy democracy - The Hindu"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9vcGluaW9uL29wLWVkL3RoZS1yb2FkLXRvLWEtaGVhbHRoeS1kZW1vY3JhY3kvYXJ0aWNsZTY3ODE0Mzk2LmVjZdIBX2h0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9vcGluaW9uL29wLWVkL3RoZS1yb2FkLXRvLWEtaGVhbHRoeS1kZW1vY3JhY3kvYXJ0aWNsZTY3ODE0Mzk2LmVjZS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9vcGluaW9uL29wLWVkL3RoZS1yb2FkLXRvLWEtaGVhbHRoeS1kZW1vY3JhY3kvYXJ0aWNsZTY3ODE0Mzk2LmVjZdIBX2h0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9vcGluaW9uL29wLWVkL3RoZS1yb2FkLXRvLWEtaGVhbHRoeS1kZW1vY3JhY3kvYXJ0aWNsZTY3ODE0Mzk2LmVjZS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:45:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9vcGluaW9uL29wLWVkL3RoZS1yb2FkLXRvLWEtaGVhbHRoeS1kZW1vY3JhY3kvYXJ0aWNsZTY3ODE0Mzk2LmVjZdIBX2h0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9vcGluaW9uL29wLWVkL3RoZS1yb2FkLXRvLWEtaGVhbHRoeS1kZW1vY3JhY3kvYXJ0aWNsZTY3ODE0Mzk2LmVjZS9hbXAv?oc=5\" target=\"_blank\">The road to a healthy democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hindu",
+                "$": {
+                  "url": "https://www.thehindu.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ambience Healthcare Rakes In $70M for Documentation Tech That One Customer Calls 'Close to Perfection' - MedCity News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbWVkY2l0eW5ld3MuY29tLzIwMjQvMDIvaGVhbHRoY2FyZS1jbGluaWNhbC1kb2N1bWVudGF0aW9uLWFpL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vbWVkY2l0eW5ld3MuY29tLzIwMjQvMDIvaGVhbHRoY2FyZS1jbGluaWNhbC1kb2N1bWVudGF0aW9uLWFpL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 18:57:04 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbWVkY2l0eW5ld3MuY29tLzIwMjQvMDIvaGVhbHRoY2FyZS1jbGluaWNhbC1kb2N1bWVudGF0aW9uLWFpL9IBAA?oc=5\" target=\"_blank\">Ambience Healthcare Rakes In $70M for Documentation Tech That One Customer Calls 'Close to Perfection'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MedCity News</font>"
+            ],
+            "source": [
+              {
+                "_": "MedCity News",
+                "$": {
+                  "url": "https://medcitynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Viracta Therapeutics to Present at the Oppenheimer 34th Annual Healthcare Life Sciences Conference - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy92aXJhY3RhLXRoZXJhcGV1dGljcy1wcmVzZW50LW9wcGVuaGVpbWVyLTM0dGgtMjEwNTAwNDI0Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy92aXJhY3RhLXRoZXJhcGV1dGljcy1wcmVzZW50LW9wcGVuaGVpbWVyLTM0dGgtMjEwNTAwNDI0Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:05:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy92aXJhY3RhLXRoZXJhcGV1dGljcy1wcmVzZW50LW9wcGVuaGVpbWVyLTM0dGgtMjEwNTAwNDI0Lmh0bWzSAQA?oc=5\" target=\"_blank\">Viracta Therapeutics to Present at the Oppenheimer 34th Annual Healthcare Life Sciences Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "VA to develop an XR mental health app for aging veterans - Healthcare IT News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmhlYWx0aGNhcmVpdG5ld3MuY29tL25ld3MvdmEtZGV2ZWxvcC14ci1tZW50YWwtaGVhbHRoLWFwcC1hZ2luZy12ZXRlcmFuc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LmhlYWx0aGNhcmVpdG5ld3MuY29tL25ld3MvdmEtZGV2ZWxvcC14ci1tZW50YWwtaGVhbHRoLWFwcC1hZ2luZy12ZXRlcmFuc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 15:29:34 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmhlYWx0aGNhcmVpdG5ld3MuY29tL25ld3MvdmEtZGV2ZWxvcC14ci1tZW50YWwtaGVhbHRoLWFwcC1hZ2luZy12ZXRlcmFuc9IBAA?oc=5\" target=\"_blank\">VA to develop an XR mental health app for aging veterans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthcare IT News</font>"
+            ],
+            "source": [
+              {
+                "_": "Healthcare IT News",
+                "$": {
+                  "url": "https://www.healthcareitnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Health service quality must be a priority, not an afterthought: New Collection on quality of care - World Health Organization (WHO)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy53aG8uaW50L25ld3MvaXRlbS8xMS0xMi0yMDIzLWhlYWx0aC1zZXJ2aWNlLXF1YWxpdHktbXVzdC1iZS1hLXByaW9yaXR5LS1ub3QtYW4tYWZ0ZXJ0aG91Z2h0LS1uZXctY29sbGVjdGlvbi1vbi1xdWFsaXR5LW9mLWNhcmXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy53aG8uaW50L25ld3MvaXRlbS8xMS0xMi0yMDIzLWhlYWx0aC1zZXJ2aWNlLXF1YWxpdHktbXVzdC1iZS1hLXByaW9yaXR5LS1ub3QtYW4tYWZ0ZXJ0aG91Z2h0LS1uZXctY29sbGVjdGlvbi1vbi1xdWFsaXR5LW9mLWNhcmXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy53aG8uaW50L25ld3MvaXRlbS8xMS0xMi0yMDIzLWhlYWx0aC1zZXJ2aWNlLXF1YWxpdHktbXVzdC1iZS1hLXByaW9yaXR5LS1ub3QtYW4tYWZ0ZXJ0aG91Z2h0LS1uZXctY29sbGVjdGlvbi1vbi1xdWFsaXR5LW9mLWNhcmXSAQA?oc=5\" target=\"_blank\">Health service quality must be a priority, not an afterthought: New Collection on quality of care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Health Organization (WHO)</font>"
+            ],
+            "source": [
+              {
+                "_": "World Health Organization (WHO)",
+                "$": {
+                  "url": "https://www.who.int"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "HCL Healthcare Marks a Decade of Pioneering Preventive Health and Wellness Solutions in Corporate India - ANI News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5hbmluZXdzLmluL25ld3MvYnVzaW5lc3MvYnVzaW5lc3MvaGNsLWhlYWx0aGNhcmUtbWFya3MtYS1kZWNhZGUtb2YtcGlvbmVlcmluZy1wcmV2ZW50aXZlLWhlYWx0aC1hbmQtd2VsbG5lc3Mtc29sdXRpb25zLWluLWNvcnBvcmF0ZS1pbmRpYTIwMjQwMjA2MTgzMTA10gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiowFodHRwczovL3d3dy5hbmluZXdzLmluL25ld3MvYnVzaW5lc3MvYnVzaW5lc3MvaGNsLWhlYWx0aGNhcmUtbWFya3MtYS1kZWNhZGUtb2YtcGlvbmVlcmluZy1wcmV2ZW50aXZlLWhlYWx0aC1hbmQtd2VsbG5lc3Mtc29sdXRpb25zLWluLWNvcnBvcmF0ZS1pbmRpYTIwMjQwMjA2MTgzMTA10gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:01:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5hbmluZXdzLmluL25ld3MvYnVzaW5lc3MvYnVzaW5lc3MvaGNsLWhlYWx0aGNhcmUtbWFya3MtYS1kZWNhZGUtb2YtcGlvbmVlcmluZy1wcmV2ZW50aXZlLWhlYWx0aC1hbmQtd2VsbG5lc3Mtc29sdXRpb25zLWluLWNvcnBvcmF0ZS1pbmRpYTIwMjQwMjA2MTgzMTA10gEA?oc=5\" target=\"_blank\">HCL Healthcare Marks a Decade of Pioneering Preventive Health and Wellness Solutions in Corporate India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>"
+            ],
+            "source": [
+              {
+                "_": "ANI News",
+                "$": {
+                  "url": "https://www.aninews.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Health News Roundup: American Healthcare REIT to raise about $672 million in US IPO; U.S. publisher retracts studies cited by Texas judge in suspending abortion pill's approval and more - Devdiscourse"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5kZXZkaXNjb3Vyc2UuY29tL2FydGljbGUvaGVhbHRoLzI4MDEzMzYtaGVhbHRoLW5ld3Mtcm91bmR1cC1hbWVyaWNhbi1oZWFsdGhjYXJlLXJlaXQtdG8tcmFpc2UtYWJvdXQtNjcyLW1pbGxpb24taW4tdXMtaXBvLXVzLXB1Ymxpc2hlci1yZXRyYWN0cy1zdHVkaWVzLWNpdGVkLWJ5LXTSAbIBaHR0cHM6Ly93d3cuZGV2ZGlzY291cnNlLmNvbS9hcnRpY2xlL2hlYWx0aC8yODAxMzM2LWhlYWx0aC1uZXdzLXJvdW5kdXAtYW1lcmljYW4taGVhbHRoY2FyZS1yZWl0LXRvLXJhaXNlLWFib3V0LTY3Mi1taWxsaW9uLWluLXVzLWlwby11cy1wdWJsaXNoZXItcmV0cmFjdHMtc3R1ZGllcy1jaXRlZC1ieS10P2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirgFodHRwczovL3d3dy5kZXZkaXNjb3Vyc2UuY29tL2FydGljbGUvaGVhbHRoLzI4MDEzMzYtaGVhbHRoLW5ld3Mtcm91bmR1cC1hbWVyaWNhbi1oZWFsdGhjYXJlLXJlaXQtdG8tcmFpc2UtYWJvdXQtNjcyLW1pbGxpb24taW4tdXMtaXBvLXVzLXB1Ymxpc2hlci1yZXRyYWN0cy1zdHVkaWVzLWNpdGVkLWJ5LXTSAbIBaHR0cHM6Ly93d3cuZGV2ZGlzY291cnNlLmNvbS9hcnRpY2xlL2hlYWx0aC8yODAxMzM2LWhlYWx0aC1uZXdzLXJvdW5kdXAtYW1lcmljYW4taGVhbHRoY2FyZS1yZWl0LXRvLXJhaXNlLWFib3V0LTY3Mi1taWxsaW9uLWluLXVzLWlwby11cy1wdWJsaXNoZXItcmV0cmFjdHMtc3R1ZGllcy1jaXRlZC1ieS10P2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 05:00:20 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5kZXZkaXNjb3Vyc2UuY29tL2FydGljbGUvaGVhbHRoLzI4MDEzMzYtaGVhbHRoLW5ld3Mtcm91bmR1cC1hbWVyaWNhbi1oZWFsdGhjYXJlLXJlaXQtdG8tcmFpc2UtYWJvdXQtNjcyLW1pbGxpb24taW4tdXMtaXBvLXVzLXB1Ymxpc2hlci1yZXRyYWN0cy1zdHVkaWVzLWNpdGVkLWJ5LXTSAbIBaHR0cHM6Ly93d3cuZGV2ZGlzY291cnNlLmNvbS9hcnRpY2xlL2hlYWx0aC8yODAxMzM2LWhlYWx0aC1uZXdzLXJvdW5kdXAtYW1lcmljYW4taGVhbHRoY2FyZS1yZWl0LXRvLXJhaXNlLWFib3V0LTY3Mi1taWxsaW9uLWluLXVzLWlwby11cy1wdWJsaXNoZXItcmV0cmFjdHMtc3R1ZGllcy1jaXRlZC1ieS10P2FtcA?oc=5\" target=\"_blank\">Health News Roundup: American Healthcare REIT to raise about $672 million in US IPO; U.S. publisher retracts studies cited by Texas judge in suspending abortion pill's approval and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>"
+            ],
+            "source": [
+              {
+                "_": "Devdiscourse",
+                "$": {
+                  "url": "https://www.devdiscourse.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Oncternal Therapeutics to Participate in Oppenheimer 34th Annual Healthcare Life Sciences Conference - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9vbmN0ZXJuYWwtdGhlcmFwZXV0aWNzLXBhcnRpY2lwYXRlLW9wcGVuaGVpbWVyLTM0dGgtMjEzMDAwMjgzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9vbmN0ZXJuYWwtdGhlcmFwZXV0aWNzLXBhcnRpY2lwYXRlLW9wcGVuaGVpbWVyLTM0dGgtMjEzMDAwMjgzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:30:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9vbmN0ZXJuYWwtdGhlcmFwZXV0aWNzLXBhcnRpY2lwYXRlLW9wcGVuaGVpbWVyLTM0dGgtMjEzMDAwMjgzLmh0bWzSAQA?oc=5\" target=\"_blank\">Oncternal Therapeutics to Participate in Oppenheimer 34th Annual Healthcare Life Sciences Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Zevra Therapeutics to Present at the Oppenheimer 34th Annual Healthcare Life Sciences Conference - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy96ZXZyYS10aGVyYXBldXRpY3MtcHJlc2VudC1vcHBlbmhlaW1lci0zNHRoLTEyMzAwMDM0Mi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy96ZXZyYS10aGVyYXBldXRpY3MtcHJlc2VudC1vcHBlbmhlaW1lci0zNHRoLTEyMzAwMDM0Mi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 12:30:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy96ZXZyYS10aGVyYXBldXRpY3MtcHJlc2VudC1vcHBlbmhlaW1lci0zNHRoLTEyMzAwMDM0Mi5odG1s0gEA?oc=5\" target=\"_blank\">Zevra Therapeutics to Present at the Oppenheimer 34th Annual Healthcare Life Sciences Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Attacks on healthcare workers more common than you might think - talkbusiness.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDI0LzAyL2F0dGFja3Mtb24taGVhbHRoY2FyZS13b3JrZXJzLW1vcmUtY29tbW9uLXRoYW4teW91LW1pZ2h0LXRoaW5rL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDI0LzAyL2F0dGFja3Mtb24taGVhbHRoY2FyZS13b3JrZXJzLW1vcmUtY29tbW9uLXRoYW4teW91LW1pZ2h0LXRoaW5rL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:51:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDI0LzAyL2F0dGFja3Mtb24taGVhbHRoY2FyZS13b3JrZXJzLW1vcmUtY29tbW9uLXRoYW4teW91LW1pZ2h0LXRoaW5rL9IBAA?oc=5\" target=\"_blank\">Attacks on healthcare workers more common than you might think</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">talkbusiness.net</font>"
+            ],
+            "source": [
+              {
+                "_": "talkbusiness.net",
+                "$": {
+                  "url": "https://talkbusiness.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What's the global state of health and healthcare? Here's what we learned at Davos 2024 - World Economic Forum"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LndlZm9ydW0ub3JnL2FnZW5kYS8yMDI0LzAxL3doYXRzLXRoZS1zdGF0ZS1vZi1oZWFsdGgtYW5kLWhlYWx0aGNhcmUtaGVyZXMtd2hhdC13ZS1sZWFybmVkLWluLWRhdm9zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LndlZm9ydW0ub3JnL2FnZW5kYS8yMDI0LzAxL3doYXRzLXRoZS1zdGF0ZS1vZi1oZWFsdGgtYW5kLWhlYWx0aGNhcmUtaGVyZXMtd2hhdC13ZS1sZWFybmVkLWluLWRhdm9zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LndlZm9ydW0ub3JnL2FnZW5kYS8yMDI0LzAxL3doYXRzLXRoZS1zdGF0ZS1vZi1oZWFsdGgtYW5kLWhlYWx0aGNhcmUtaGVyZXMtd2hhdC13ZS1sZWFybmVkLWluLWRhdm9zL9IBAA?oc=5\" target=\"_blank\">What's the global state of health and healthcare? Here's what we learned at Davos 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Economic Forum</font>"
+            ],
+            "source": [
+              {
+                "_": "World Economic Forum",
+                "$": {
+                  "url": "https://www.weforum.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Overcoming Hearing Healthcare Barriers to Realize Gene Therapy Promise - MedCity News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbWVkY2l0eW5ld3MuY29tLzIwMjQvMDIvb3ZlcmNvbWluZy1oZWFyaW5nLWhlYWx0aGNhcmUtYmFycmllcnMtdG8tcmVhbGl6ZS1nZW5lLXRoZXJhcHktcHJvbWlzZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vbWVkY2l0eW5ld3MuY29tLzIwMjQvMDIvb3ZlcmNvbWluZy1oZWFyaW5nLWhlYWx0aGNhcmUtYmFycmllcnMtdG8tcmVhbGl6ZS1nZW5lLXRoZXJhcHktcHJvbWlzZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:38:31 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbWVkY2l0eW5ld3MuY29tLzIwMjQvMDIvb3ZlcmNvbWluZy1oZWFyaW5nLWhlYWx0aGNhcmUtYmFycmllcnMtdG8tcmVhbGl6ZS1nZW5lLXRoZXJhcHktcHJvbWlzZS_SAQA?oc=5\" target=\"_blank\">Overcoming Hearing Healthcare Barriers to Realize Gene Therapy Promise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MedCity News</font>"
+            ],
+            "source": [
+              {
+                "_": "MedCity News",
+                "$": {
+                  "url": "https://medcitynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Acrivon Therapeutics to Present at the Oppenheimer 34th Annual Healthcare Life Sciences Conference - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hY3Jpdm9uLXRoZXJhcGV1dGljcy1wcmVzZW50LW9wcGVuaGVpbWVyLTM0dGgtMTMwMDAwNDk2Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hY3Jpdm9uLXRoZXJhcGV1dGljcy1wcmVzZW50LW9wcGVuaGVpbWVyLTM0dGgtMTMwMDAwNDk2Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hY3Jpdm9uLXRoZXJhcGV1dGljcy1wcmVzZW50LW9wcGVuaGVpbWVyLTM0dGgtMTMwMDAwNDk2Lmh0bWzSAQA?oc=5\" target=\"_blank\">Acrivon Therapeutics to Present at the Oppenheimer 34th Annual Healthcare Life Sciences Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fortnite gets players to heal instead of kill in new healthcare career push - Marketing Interactive"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm1hcmtldGluZy1pbnRlcmFjdGl2ZS5jb20vdGhlLXBvd2VyLW9mLWNhcmUtaW50ZWdyYXRlZC1jYW1wYWlnbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm1hcmtldGluZy1pbnRlcmFjdGl2ZS5jb20vdGhlLXBvd2VyLW9mLWNhcmUtaW50ZWdyYXRlZC1jYW1wYWlnbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 03:13:56 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm1hcmtldGluZy1pbnRlcmFjdGl2ZS5jb20vdGhlLXBvd2VyLW9mLWNhcmUtaW50ZWdyYXRlZC1jYW1wYWlnbtIBAA?oc=5\" target=\"_blank\">Fortnite gets players to heal instead of kill in new healthcare career push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marketing Interactive</font>"
+            ],
+            "source": [
+              {
+                "_": "Marketing Interactive",
+                "$": {
+                  "url": "https://www.marketing-interactive.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Free-of-cost training in banking, healthcare, digital marketing: Punjab launches ‘School to Work’ pilot in 40 govt schools - The Indian Express"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9jaXRpZXMvY2hhbmRpZ2FyaC9wdW5qYWItc2Nob29sLXRvLXdvcmstcGlsb3Qtc3R1ZGVudHMtZnV0dXJlLTkxNDAwNzIv0gFtaHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL2NpdGllcy9jaGFuZGlnYXJoL3B1bmphYi1zY2hvb2wtdG8td29yay1waWxvdC1zdHVkZW50cy1mdXR1cmUtOTE0MDA3Mi9saXRlLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9jaXRpZXMvY2hhbmRpZ2FyaC9wdW5qYWItc2Nob29sLXRvLXdvcmstcGlsb3Qtc3R1ZGVudHMtZnV0dXJlLTkxNDAwNzIv0gFtaHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL2NpdGllcy9jaGFuZGlnYXJoL3B1bmphYi1zY2hvb2wtdG8td29yay1waWxvdC1zdHVkZW50cy1mdXR1cmUtOTE0MDA3Mi9saXRlLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 03:40:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9jaXRpZXMvY2hhbmRpZ2FyaC9wdW5qYWItc2Nob29sLXRvLXdvcmstcGlsb3Qtc3R1ZGVudHMtZnV0dXJlLTkxNDAwNzIv0gFtaHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL2NpdGllcy9jaGFuZGlnYXJoL3B1bmphYi1zY2hvb2wtdG8td29yay1waWxvdC1zdHVkZW50cy1mdXR1cmUtOTE0MDA3Mi9saXRlLw?oc=5\" target=\"_blank\">Free-of-cost training in banking, healthcare, digital marketing: Punjab launches ‘School to Work’ pilot in 40 govt schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>"
+            ],
+            "source": [
+              {
+                "_": "The Indian Express",
+                "$": {
+                  "url": "https://indianexpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Astria Therapeutics to Present at Upcoming Oppenheimer 34th Annual Healthcare Life Sciences Conference - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDIwNjIyMzU2Ni9lbi9Bc3RyaWEtVGhlcmFwZXV0aWNzLXRvLVByZXNlbnQtYXQtVXBjb21pbmctT3BwZW5oZWltZXItMzR0aC1Bbm51YWwtSGVhbHRoY2FyZS1MaWZlLVNjaWVuY2VzLUNvbmZlcmVuY2XSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDIwNjIyMzU2Ni9lbi9Bc3RyaWEtVGhlcmFwZXV0aWNzLXRvLVByZXNlbnQtYXQtVXBjb21pbmctT3BwZW5oZWltZXItMzR0aC1Bbm51YWwtSGVhbHRoY2FyZS1MaWZlLVNjaWVuY2VzLUNvbmZlcmVuY2XSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDIwNjIyMzU2Ni9lbi9Bc3RyaWEtVGhlcmFwZXV0aWNzLXRvLVByZXNlbnQtYXQtVXBjb21pbmctT3BwZW5oZWltZXItMzR0aC1Bbm51YWwtSGVhbHRoY2FyZS1MaWZlLVNjaWVuY2VzLUNvbmZlcmVuY2XSAQA?oc=5\" target=\"_blank\">Astria Therapeutics to Present at Upcoming Oppenheimer 34th Annual Healthcare Life Sciences Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Preamble Debuts as New Membership Longevity Service Harnessing the Three Emerging Trends in Healthcare ... - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiywFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDIwNjkwNDc3NC9lbi9QcmVhbWJsZS1EZWJ1dHMtYXMtTmV3LU1lbWJlcnNoaXAtTG9uZ2V2aXR5LVNlcnZpY2UtSGFybmVzc2luZy10aGUtVGhyZWUtRW1lcmdpbmctVHJlbmRzLWluLUhlYWx0aGNhcmUtQmlvaGFja2luZy1IZWFsdGhzcGFuLWFuZC1QZXJzb25hbGl6ZWQtQ2FyZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiywFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDIwNjkwNDc3NC9lbi9QcmVhbWJsZS1EZWJ1dHMtYXMtTmV3LU1lbWJlcnNoaXAtTG9uZ2V2aXR5LVNlcnZpY2UtSGFybmVzc2luZy10aGUtVGhyZWUtRW1lcmdpbmctVHJlbmRzLWluLUhlYWx0aGNhcmUtQmlvaGFja2luZy1IZWFsdGhzcGFuLWFuZC1QZXJzb25hbGl6ZWQtQ2FyZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:34:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiywFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDIwNjkwNDc3NC9lbi9QcmVhbWJsZS1EZWJ1dHMtYXMtTmV3LU1lbWJlcnNoaXAtTG9uZ2V2aXR5LVNlcnZpY2UtSGFybmVzc2luZy10aGUtVGhyZWUtRW1lcmdpbmctVHJlbmRzLWluLUhlYWx0aGNhcmUtQmlvaGFja2luZy1IZWFsdGhzcGFuLWFuZC1QZXJzb25hbGl6ZWQtQ2FyZdIBAA?oc=5\" target=\"_blank\">Preamble Debuts as New Membership Longevity Service Harnessing the Three Emerging Trends in Healthcare ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Medical AI transparency | Healthcare AI newsmakers - AI in Healthcare"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYWlpbi5oZWFsdGhjYXJlL25ld3NsZXR0ZXIvMjAyNC0wMi0wNy9tZWRpY2FsLWFpLXRyYW5zcGFyZW5jeS1oZWFsdGhjYXJlLWFpLW5ld3NtYWtlcnPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vYWlpbi5oZWFsdGhjYXJlL25ld3NsZXR0ZXIvMjAyNC0wMi0wNy9tZWRpY2FsLWFpLXRyYW5zcGFyZW5jeS1oZWFsdGhjYXJlLWFpLW5ld3NtYWtlcnPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 04:01:12 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYWlpbi5oZWFsdGhjYXJlL25ld3NsZXR0ZXIvMjAyNC0wMi0wNy9tZWRpY2FsLWFpLXRyYW5zcGFyZW5jeS1oZWFsdGhjYXJlLWFpLW5ld3NtYWtlcnPSAQA?oc=5\" target=\"_blank\">Medical AI transparency | Healthcare AI newsmakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI in Healthcare</font>"
+            ],
+            "source": [
+              {
+                "_": "AI in Healthcare",
+                "$": {
+                  "url": "https://aiin.healthcare"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ambience Healthcare Raises $70M in Series B Funding - FinSMEs"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmZpbnNtZXMuY29tLzIwMjQvMDIvYW1iaWVuY2UtaGVhbHRoY2FyZS1yYWlzZXMtNzBtLWluLXNlcmllcy1iLWZ1bmRpbmcuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3LmZpbnNtZXMuY29tLzIwMjQvMDIvYW1iaWVuY2UtaGVhbHRoY2FyZS1yYWlzZXMtNzBtLWluLXNlcmllcy1iLWZ1bmRpbmcuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:49:06 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmZpbnNtZXMuY29tLzIwMjQvMDIvYW1iaWVuY2UtaGVhbHRoY2FyZS1yYWlzZXMtNzBtLWluLXNlcmllcy1iLWZ1bmRpbmcuaHRtbNIBAA?oc=5\" target=\"_blank\">Ambience Healthcare Raises $70M in Series B Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinSMEs</font>"
+            ],
+            "source": [
+              {
+                "_": "FinSMEs",
+                "$": {
+                  "url": "https://www.finsmes.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

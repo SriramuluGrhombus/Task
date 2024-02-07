@@ -1,0 +1,848 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Patricia Ann Cotham\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Patricia+Ann+Cotham&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Inside the Party Switch That Blew Up North Carolina Politics - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDcvMzAvdXMvaW5zaWRlLXRoZS1wYXJ0eS1zd2l0Y2gtdGhhdC1ibGV3LXVwLW5vcnRoLWNhcm9saW5hLXBvbGl0aWNzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDcvMzAvdXMvaW5zaWRlLXRoZS1wYXJ0eS1zd2l0Y2gtdGhhdC1ibGV3LXVwLW5vcnRoLWNhcm9saW5hLXBvbGl0aWNzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 31 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDcvMzAvdXMvaW5zaWRlLXRoZS1wYXJ0eS1zd2l0Y2gtdGhhdC1ibGV3LXVwLW5vcnRoLWNhcm9saW5hLXBvbGl0aWNzLmh0bWzSAQA?oc=5\" target=\"_blank\">Inside the Party Switch That Blew Up North Carolina Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘I’m proud of her’: Meck County Commissioner Pat Cotham reacts to daughter’s party switch - WSOC Charlotte"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy53c29jdHYuY29tL25ld3MvbG9jYWwvaW0tcHJvdWQtaGVyLW1lY2stY291bnR5LWNvbW1pc3Npb25lci1wYXQtY290aGFtLXJlYWN0cy1kYXVnaHRlcnMtcGFydHktc3dpdGNoL0ZBRVFJQ1BJREZIUEZOTlpJQkpHNzJaU09RL9IBmwFodHRwczovL3d3dy53c29jdHYuY29tL25ld3MvbG9jYWwvaW0tcHJvdWQtaGVyLW1lY2stY291bnR5LWNvbW1pc3Npb25lci1wYXQtY290aGFtLXJlYWN0cy1kYXVnaHRlcnMtcGFydHktc3dpdGNoL0ZBRVFJQ1BJREZIUEZOTlpJQkpHNzJaU09RLz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy53c29jdHYuY29tL25ld3MvbG9jYWwvaW0tcHJvdWQtaGVyLW1lY2stY291bnR5LWNvbW1pc3Npb25lci1wYXQtY290aGFtLXJlYWN0cy1kYXVnaHRlcnMtcGFydHktc3dpdGNoL0ZBRVFJQ1BJREZIUEZOTlpJQkpHNzJaU09RL9IBmwFodHRwczovL3d3dy53c29jdHYuY29tL25ld3MvbG9jYWwvaW0tcHJvdWQtaGVyLW1lY2stY291bnR5LWNvbW1pc3Npb25lci1wYXQtY290aGFtLXJlYWN0cy1kYXVnaHRlcnMtcGFydHktc3dpdGNoL0ZBRVFJQ1BJREZIUEZOTlpJQkpHNzJaU09RLz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy53c29jdHYuY29tL25ld3MvbG9jYWwvaW0tcHJvdWQtaGVyLW1lY2stY291bnR5LWNvbW1pc3Npb25lci1wYXQtY290aGFtLXJlYWN0cy1kYXVnaHRlcnMtcGFydHktc3dpdGNoL0ZBRVFJQ1BJREZIUEZOTlpJQkpHNzJaU09RL9IBmwFodHRwczovL3d3dy53c29jdHYuY29tL25ld3MvbG9jYWwvaW0tcHJvdWQtaGVyLW1lY2stY291bnR5LWNvbW1pc3Npb25lci1wYXQtY290aGFtLXJlYWN0cy1kYXVnaHRlcnMtcGFydHktc3dpdGNoL0ZBRVFJQ1BJREZIUEZOTlpJQkpHNzJaU09RLz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">‘I’m proud of her’: Meck County Commissioner Pat Cotham reacts to daughter’s party switch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSOC Charlotte</font>"
+            ],
+            "source": [
+              {
+                "_": "WSOC Charlotte",
+                "$": {
+                  "url": "https://www.wsoctv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican Tricia Cotham, NC lawmaker who switched parties, plans to seek reelection - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3JlcHVibGljYW4tdHJpY2lhLWNvdGhhbS1uYy1sYXdtYWtlci13aG8tc3dpdGNoZWQtcGFydGllcy1wbGFucy10by1zZWVrLXJlZWxlY3Rpb24vMjExNTQ2ODcv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIxMTU0Njg3Lw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3JlcHVibGljYW4tdHJpY2lhLWNvdGhhbS1uYy1sYXdtYWtlci13aG8tc3dpdGNoZWQtcGFydGllcy1wbGFucy10by1zZWVrLXJlZWxlY3Rpb24vMjExNTQ2ODcv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIxMTU0Njg3Lw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3JlcHVibGljYW4tdHJpY2lhLWNvdGhhbS1uYy1sYXdtYWtlci13aG8tc3dpdGNoZWQtcGFydGllcy1wbGFucy10by1zZWVrLXJlZWxlY3Rpb24vMjExNTQ2ODcv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIxMTU0Njg3Lw?oc=5\" target=\"_blank\">Republican Tricia Cotham, NC lawmaker who switched parties, plans to seek reelection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tricia Cotham, a Charlotte Democrat switching parties, is a former educator from a family of politicians - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5heGlvcy5jb20vbG9jYWwvY2hhcmxvdHRlLzIwMjMvMDQvMDQvdHJpY2lhLWNvdGhhbS1hLWNoYXJsb3R0ZS1kZW1vY3JhdC1zd2l0Y2hpbmctcGFydGllcy1pcy1hLWZvcm1lci1lZHVjYXRvci1mcm9tLWEtZmFtaWx5LW9mLXBvbGl0aWNpYW5zLTMyNTYxNdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMingFodHRwczovL3d3dy5heGlvcy5jb20vbG9jYWwvY2hhcmxvdHRlLzIwMjMvMDQvMDQvdHJpY2lhLWNvdGhhbS1hLWNoYXJsb3R0ZS1kZW1vY3JhdC1zd2l0Y2hpbmctcGFydGllcy1pcy1hLWZvcm1lci1lZHVjYXRvci1mcm9tLWEtZmFtaWx5LW9mLXBvbGl0aWNpYW5zLTMyNTYxNdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5heGlvcy5jb20vbG9jYWwvY2hhcmxvdHRlLzIwMjMvMDQvMDQvdHJpY2lhLWNvdGhhbS1hLWNoYXJsb3R0ZS1kZW1vY3JhdC1zd2l0Y2hpbmctcGFydGllcy1pcy1hLWZvcm1lci1lZHVjYXRvci1mcm9tLWEtZmFtaWx5LW9mLXBvbGl0aWNpYW5zLTMyNTYxNdIBAA?oc=5\" target=\"_blank\">Tricia Cotham, a Charlotte Democrat switching parties, is a former educator from a family of politicians</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC Democrats messed with the 'wrong chick.' Now she's joining the Republicans. - Carolina Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vbmMtZGVtb2NyYXRzLW1lc3NlZC13aXRoLXRoZS13cm9uZy1jaGljay1ub3ctc2hlcy1qb2luaW5nLXRoZS1yZXB1YmxpY2Fucy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vbmMtZGVtb2NyYXRzLW1lc3NlZC13aXRoLXRoZS13cm9uZy1jaGljay1ub3ctc2hlcy1qb2luaW5nLXRoZS1yZXB1YmxpY2Fucy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vbmMtZGVtb2NyYXRzLW1lc3NlZC13aXRoLXRoZS13cm9uZy1jaGljay1ub3ctc2hlcy1qb2luaW5nLXRoZS1yZXB1YmxpY2Fucy_SAQA?oc=5\" target=\"_blank\">NC Democrats messed with the 'wrong chick.' Now she's joining the Republicans.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carolina Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Carolina Journal",
+                "$": {
+                  "url": "https://www.carolinajournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Who is Tricia Cotham? Mecklenburg Democrat flips parties, giving NC GOP supermajority. - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3Mzk3MTczNS5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjczOTcxNzM1Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3Mzk3MTczNS5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjczOTcxNzM1Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3Mzk3MTczNS5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjczOTcxNzM1Lmh0bWw?oc=5\" target=\"_blank\">Who is Tricia Cotham? Mecklenburg Democrat flips parties, giving NC GOP supermajority.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How one North Carolina lawmaker's defection from the Democratic Party upended abortion protections - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2Fib3J0aW9uLW5vcnRoLWNhcm9saW5hLXZldG8tb3ZlcnJpZGUtdHJpY2lhLWNvdGhhbS1hOTEzNDJkZTc2Y2Q4NDYzYTYzN2Y2MzRiNGRiY2YzNtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2Fib3J0aW9uLW5vcnRoLWNhcm9saW5hLXZldG8tb3ZlcnJpZGUtdHJpY2lhLWNvdGhhbS1hOTEzNDJkZTc2Y2Q4NDYzYTYzN2Y2MzRiNGRiY2YzNtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2Fib3J0aW9uLW5vcnRoLWNhcm9saW5hLXZldG8tb3ZlcnJpZGUtdHJpY2lhLWNvdGhhbS1hOTEzNDJkZTc2Y2Q4NDYzYTYzN2Y2MzRiNGRiY2YzNtIBAA?oc=5\" target=\"_blank\">How one North Carolina lawmaker's defection from the Democratic Party upended abortion protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC Rep. Cotham says mistreatment from fellow Democrats prompted party switch - WUNC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lnd1bmMub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtcmVwLWNvdGhhbS1zYXlzLW1pc3RyZWF0bWVudC1mcm9tLWZlbGxvdy1kZW1vY3JhdHMtcHJvbXB0ZWQtcGFydHktc3dpdGNo0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3Lnd1bmMub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtcmVwLWNvdGhhbS1zYXlzLW1pc3RyZWF0bWVudC1mcm9tLWZlbGxvdy1kZW1vY3JhdHMtcHJvbXB0ZWQtcGFydHktc3dpdGNo0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lnd1bmMub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtcmVwLWNvdGhhbS1zYXlzLW1pc3RyZWF0bWVudC1mcm9tLWZlbGxvdy1kZW1vY3JhdHMtcHJvbXB0ZWQtcGFydHktc3dpdGNo0gEA?oc=5\" target=\"_blank\">NC Rep. Cotham says mistreatment from fellow Democrats prompted party switch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUNC</font>"
+            ],
+            "source": [
+              {
+                "_": "WUNC",
+                "$": {
+                  "url": "https://www.wunc.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC Dems furious as Tricia Cotham bails on Democratic Party - WFAE"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtZGVtcy1mdXJpb3VzLWFzLWNvdGhhbS1iYWlscy1vbi1kZW1vY3JhdGljLXBhcnR50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtZGVtcy1mdXJpb3VzLWFzLWNvdGhhbS1iYWlscy1vbi1kZW1vY3JhdGljLXBhcnR50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtZGVtcy1mdXJpb3VzLWFzLWNvdGhhbS1iYWlscy1vbi1kZW1vY3JhdGljLXBhcnR50gEA?oc=5\" target=\"_blank\">NC Dems furious as Tricia Cotham bails on Democratic Party</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFAE</font>"
+            ],
+            "source": [
+              {
+                "_": "WFAE",
+                "$": {
+                  "url": "https://www.wfae.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rep. Tricia Cotham: New NC abortion law is 'reasonable balance' - WCNC.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiwQFodHRwczovL3d3dy53Y25jLmNvbS9hcnRpY2xlL25ld3MvcG9saXRpY3Mvbm9ydGgtY2Fyb2xpbmEtcG9saXRpY3MvdHJpY2lhLWNvdGhhbS1ub3J0aC1jYXJvbGluYS1hYm9ydGlvbi1yZXN0cmljdGlvbnMtcmVwdWJsaWNhbi1wYXJ0eS1zd2l0Y2gtcm95LWNvb3Blci8yNzUtOGU3YTlhZTgtYmYwYi00ZGYwLTg1ODktNzE0MTEzN2ZkYjAw0gHFAWh0dHBzOi8vd3d3LndjbmMuY29tL2FtcC9hcnRpY2xlL25ld3MvcG9saXRpY3Mvbm9ydGgtY2Fyb2xpbmEtcG9saXRpY3MvdHJpY2lhLWNvdGhhbS1ub3J0aC1jYXJvbGluYS1hYm9ydGlvbi1yZXN0cmljdGlvbnMtcmVwdWJsaWNhbi1wYXJ0eS1zd2l0Y2gtcm95LWNvb3Blci8yNzUtOGU3YTlhZTgtYmYwYi00ZGYwLTg1ODktNzE0MTEzN2ZkYjAw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiwQFodHRwczovL3d3dy53Y25jLmNvbS9hcnRpY2xlL25ld3MvcG9saXRpY3Mvbm9ydGgtY2Fyb2xpbmEtcG9saXRpY3MvdHJpY2lhLWNvdGhhbS1ub3J0aC1jYXJvbGluYS1hYm9ydGlvbi1yZXN0cmljdGlvbnMtcmVwdWJsaWNhbi1wYXJ0eS1zd2l0Y2gtcm95LWNvb3Blci8yNzUtOGU3YTlhZTgtYmYwYi00ZGYwLTg1ODktNzE0MTEzN2ZkYjAw0gHFAWh0dHBzOi8vd3d3LndjbmMuY29tL2FtcC9hcnRpY2xlL25ld3MvcG9saXRpY3Mvbm9ydGgtY2Fyb2xpbmEtcG9saXRpY3MvdHJpY2lhLWNvdGhhbS1ub3J0aC1jYXJvbGluYS1hYm9ydGlvbi1yZXN0cmljdGlvbnMtcmVwdWJsaWNhbi1wYXJ0eS1zd2l0Y2gtcm95LWNvb3Blci8yNzUtOGU3YTlhZTgtYmYwYi00ZGYwLTg1ODktNzE0MTEzN2ZkYjAw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiwQFodHRwczovL3d3dy53Y25jLmNvbS9hcnRpY2xlL25ld3MvcG9saXRpY3Mvbm9ydGgtY2Fyb2xpbmEtcG9saXRpY3MvdHJpY2lhLWNvdGhhbS1ub3J0aC1jYXJvbGluYS1hYm9ydGlvbi1yZXN0cmljdGlvbnMtcmVwdWJsaWNhbi1wYXJ0eS1zd2l0Y2gtcm95LWNvb3Blci8yNzUtOGU3YTlhZTgtYmYwYi00ZGYwLTg1ODktNzE0MTEzN2ZkYjAw0gHFAWh0dHBzOi8vd3d3LndjbmMuY29tL2FtcC9hcnRpY2xlL25ld3MvcG9saXRpY3Mvbm9ydGgtY2Fyb2xpbmEtcG9saXRpY3MvdHJpY2lhLWNvdGhhbS1ub3J0aC1jYXJvbGluYS1hYm9ydGlvbi1yZXN0cmljdGlvbnMtcmVwdWJsaWNhbi1wYXJ0eS1zd2l0Y2gtcm95LWNvb3Blci8yNzUtOGU3YTlhZTgtYmYwYi00ZGYwLTg1ODktNzE0MTEzN2ZkYjAw?oc=5\" target=\"_blank\">Rep. Tricia Cotham: New NC abortion law is 'reasonable balance'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCNC.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WCNC.com",
+                "$": {
+                  "url": "https://www.wcnc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tricia Cotham | NC Democrat Rep. Tricia Cotham, 112th District, switches party to Republican; NC GOP now have supermajority - WTVD-TV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vYWJjMTEuY29tL3RyaWNpYS1jb3RoYW0tbm9ydGgtY2Fyb2xpbmEtbmMtaG91c2UtcmVwLzEzMDg2NjI4L9IBSWh0dHBzOi8vYWJjMTEuY29tL2FtcC90cmljaWEtY290aGFtLW5vcnRoLWNhcm9saW5hLW5jLWhvdXNlLXJlcC8xMzA4NjYyOC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vYWJjMTEuY29tL3RyaWNpYS1jb3RoYW0tbm9ydGgtY2Fyb2xpbmEtbmMtaG91c2UtcmVwLzEzMDg2NjI4L9IBSWh0dHBzOi8vYWJjMTEuY29tL2FtcC90cmljaWEtY290aGFtLW5vcnRoLWNhcm9saW5hLW5jLWhvdXNlLXJlcC8xMzA4NjYyOC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vYWJjMTEuY29tL3RyaWNpYS1jb3RoYW0tbm9ydGgtY2Fyb2xpbmEtbmMtaG91c2UtcmVwLzEzMDg2NjI4L9IBSWh0dHBzOi8vYWJjMTEuY29tL2FtcC90cmljaWEtY290aGFtLW5vcnRoLWNhcm9saW5hLW5jLWhvdXNlLXJlcC8xMzA4NjYyOC8?oc=5\" target=\"_blank\">Tricia Cotham | NC Democrat Rep. Tricia Cotham, 112th District, switches party to Republican; NC GOP now have supermajority</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVD-TV</font>"
+            ],
+            "source": [
+              {
+                "_": "WTVD-TV",
+                "$": {
+                  "url": "https://abc11.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Traitor - PoliticsNC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3LnBvbGl0aWNzbmMuY29tL3RyYWl0b3Iv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiI2h0dHBzOi8vd3d3LnBvbGl0aWNzbmMuY29tL3RyYWl0b3Iv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3LnBvbGl0aWNzbmMuY29tL3RyYWl0b3Iv0gEA?oc=5\" target=\"_blank\">Traitor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PoliticsNC</font>"
+            ],
+            "source": [
+              {
+                "_": "PoliticsNC",
+                "$": {
+                  "url": "https://www.politicsnc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wavering Democrat sticks with party on abortion vote; Cotham votes with rest of GOP - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzUwMDk5NDEuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzUwMDk5NDEuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzUwMDk5NDEuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzUwMDk5NDEuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 30 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzUwMDk5NDEuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzUwMDk5NDEuaHRtbA?oc=5\" target=\"_blank\">Wavering Democrat sticks with party on abortion vote; Cotham votes with rest of GOP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC State Rep. Tricia Cotham switches to Republican Party - WSOC Charlotte"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lndzb2N0di5jb20vbmV3cy9sb2NhbC9zb3VyY2UtZGVtb2NyYXRpYy1yZXAtdHJpY2lhLWNvdGhhbS1zd2l0Y2hpbmctcmVwdWJsaWNhbi1wYXJ0eS9PMk5ZMzRKVzRSRkFGS1ZIVUQzVFhRQ0U2WS_SAYsBaHR0cHM6Ly93d3cud3NvY3R2LmNvbS9uZXdzL2xvY2FsL3NvdXJjZS1kZW1vY3JhdGljLXJlcC10cmljaWEtY290aGFtLXN3aXRjaGluZy1yZXB1YmxpY2FuLXBhcnR5L08yTlkzNEpXNFJGQUZLVkhVRDNUWFFDRTZZLz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3Lndzb2N0di5jb20vbmV3cy9sb2NhbC9zb3VyY2UtZGVtb2NyYXRpYy1yZXAtdHJpY2lhLWNvdGhhbS1zd2l0Y2hpbmctcmVwdWJsaWNhbi1wYXJ0eS9PMk5ZMzRKVzRSRkFGS1ZIVUQzVFhRQ0U2WS_SAYsBaHR0cHM6Ly93d3cud3NvY3R2LmNvbS9uZXdzL2xvY2FsL3NvdXJjZS1kZW1vY3JhdGljLXJlcC10cmljaWEtY290aGFtLXN3aXRjaGluZy1yZXB1YmxpY2FuLXBhcnR5L08yTlkzNEpXNFJGQUZLVkhVRDNUWFFDRTZZLz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lndzb2N0di5jb20vbmV3cy9sb2NhbC9zb3VyY2UtZGVtb2NyYXRpYy1yZXAtdHJpY2lhLWNvdGhhbS1zd2l0Y2hpbmctcmVwdWJsaWNhbi1wYXJ0eS9PMk5ZMzRKVzRSRkFGS1ZIVUQzVFhRQ0U2WS_SAYsBaHR0cHM6Ly93d3cud3NvY3R2LmNvbS9uZXdzL2xvY2FsL3NvdXJjZS1kZW1vY3JhdGljLXJlcC10cmljaWEtY290aGFtLXN3aXRjaGluZy1yZXB1YmxpY2FuLXBhcnR5L08yTlkzNEpXNFJGQUZLVkhVRDNUWFFDRTZZLz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">NC State Rep. Tricia Cotham switches to Republican Party</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSOC Charlotte</font>"
+            ],
+            "source": [
+              {
+                "_": "WSOC Charlotte",
+                "$": {
+                  "url": "https://www.wsoctv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How in good conscience can Rep. Tricia Cotham deny NC residents the abortion access she had? | Opinion - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzUyMTY3NjYuaHRtbNIBP2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzUyMTY3NjYuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzUyMTY3NjYuaHRtbNIBP2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzUyMTY3NjYuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzUyMTY3NjYuaHRtbNIBP2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzUyMTY3NjYuaHRtbA?oc=5\" target=\"_blank\">How in good conscience can Rep. Tricia Cotham deny NC residents the abortion access she had? | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cotham came back in 2023 to a different Democratic caucus. How it led to her leaving - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQxNzc1MTUuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQxNzc1MTUuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQxNzc1MTUuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQxNzc1MTUuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQxNzc1MTUuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQxNzc1MTUuaHRtbA?oc=5\" target=\"_blank\">Cotham came back in 2023 to a different Democratic caucus. How it led to her leaving</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cotham defended abortion rights. Will she now help GOP reduce access? - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L2NvdGhhbS1kZWZlbmRlZC1hYm9ydGlvbi1yaWdodHMtd2lsbC1zaGUtbm93LWhlbHAtZ29wLXJlZHVjZS1hY2Nlc3MvMjA3OTgyOTgv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwNzk4Mjk4Lw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L2NvdGhhbS1kZWZlbmRlZC1hYm9ydGlvbi1yaWdodHMtd2lsbC1zaGUtbm93LWhlbHAtZ29wLXJlZHVjZS1hY2Nlc3MvMjA3OTgyOTgv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwNzk4Mjk4Lw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L2NvdGhhbS1kZWZlbmRlZC1hYm9ydGlvbi1yaWdodHMtd2lsbC1zaGUtbm93LWhlbHAtZ29wLXJlZHVjZS1hY2Nlc3MvMjA3OTgyOTgv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwNzk4Mjk4Lw?oc=5\" target=\"_blank\">Cotham defended abortion rights. Will she now help GOP reduce access?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘Not the Democratic Party I grew up in.’ Pat Cotham talks about daughter’s GOP switch - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3NDAwNjMxMC5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjc0MDA2MzEwLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3NDAwNjMxMC5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjc0MDA2MzEwLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3NDAwNjMxMC5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjc0MDA2MzEwLmh0bWw?oc=5\" target=\"_blank\">‘Not the Democratic Party I grew up in.’ Pat Cotham talks about daughter’s GOP switch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Could Rep. Tricia Cotham be recalled? What can and can’t happen under NC law - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3NDAyOTMxMC5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjc0MDI5MzEwLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3NDAyOTMxMC5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjc0MDI5MzEwLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 06 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3NDAyOTMxMC5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjc0MDI5MzEwLmh0bWw?oc=5\" target=\"_blank\">Could Rep. Tricia Cotham be recalled? What can and can’t happen under NC law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Meck. County Rep. Tricia Cotham expected to change party affiliation - WBTV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LndidHYuY29tL3ZpZGVvLzIwMjMvMDQvMDQvbWVjay1jb3VudHktcmVwLXRyaWNpYS1jb3RoYW0tZXhwZWN0ZWQtY2hhbmdlLXBhcnR5LWFmZmlsaWF0aW9uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LndidHYuY29tL3ZpZGVvLzIwMjMvMDQvMDQvbWVjay1jb3VudHktcmVwLXRyaWNpYS1jb3RoYW0tZXhwZWN0ZWQtY2hhbmdlLXBhcnR5LWFmZmlsaWF0aW9uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LndidHYuY29tL3ZpZGVvLzIwMjMvMDQvMDQvbWVjay1jb3VudHktcmVwLXRyaWNpYS1jb3RoYW0tZXhwZWN0ZWQtY2hhbmdlLXBhcnR5LWFmZmlsaWF0aW9uL9IBAA?oc=5\" target=\"_blank\">Meck. County Rep. Tricia Cotham expected to change party affiliation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBTV</font>"
+            ],
+            "source": [
+              {
+                "_": "WBTV",
+                "$": {
+                  "url": "https://www.wbtv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC Democrat Tricia Cotham changes parties, betraying her own words to voters | Opinion - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzM5NTgxMzUuaHRtbNIBP2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzM5NTgxMzUuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzM5NTgxMzUuaHRtbNIBP2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzM5NTgxMzUuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzM5NTgxMzUuaHRtbNIBP2h0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9vcGluaW9uL2FydGljbGUyNzM5NTgxMzUuaHRtbA?oc=5\" target=\"_blank\">NC Democrat Tricia Cotham changes parties, betraying her own words to voters | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "OPINION: Pat Cotham Is a Republican and It's Time Democrats Admit It - Queen City Nerve"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vcWNuZXJ2ZS5jb20vb3Bpbmlvbi1wYXQtY290aGFtLWlzLWEtcmVwdWJsaWNhbi1hbmQtaXRzLXRpbWUtZGVtb2NyYXRzLWFkbWl0LWl0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vcWNuZXJ2ZS5jb20vb3Bpbmlvbi1wYXQtY290aGFtLWlzLWEtcmVwdWJsaWNhbi1hbmQtaXRzLXRpbWUtZGVtb2NyYXRzLWFkbWl0LWl0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 21 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vcWNuZXJ2ZS5jb20vb3Bpbmlvbi1wYXQtY290aGFtLWlzLWEtcmVwdWJsaWNhbi1hbmQtaXRzLXRpbWUtZGVtb2NyYXRzLWFkbWl0LWl0L9IBAA?oc=5\" target=\"_blank\">OPINION: Pat Cotham Is a Republican and It's Time Democrats Admit It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Queen City Nerve</font>"
+            ],
+            "source": [
+              {
+                "_": "Queen City Nerve",
+                "$": {
+                  "url": "https://qcnerve.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mecklenburg Democrats want campaign donations back after Rep. Tricia Cotham’s party switch - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3Mzk5NzIzNS5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjczOTk3MjM1Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3Mzk5NzIzNS5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjczOTk3MjM1Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3Mzk5NzIzNS5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjczOTk3MjM1Lmh0bWw?oc=5\" target=\"_blank\">Mecklenburg Democrats want campaign donations back after Rep. Tricia Cotham’s party switch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Who is Pat Cotham, Mecklenburg Democratic commissioners at-large candidate? - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vdm90ZXItZ3VpZGUvYXJ0aWNsZTI2MDQ5MzgyMi5odG1s0gFlaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi92b3Rlci1ndWlkZS9hcnRpY2xlMjYwNDkzODIyLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vdm90ZXItZ3VpZGUvYXJ0aWNsZTI2MDQ5MzgyMi5odG1s0gFlaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi92b3Rlci1ndWlkZS9hcnRpY2xlMjYwNDkzODIyLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vdm90ZXItZ3VpZGUvYXJ0aWNsZTI2MDQ5MzgyMi5odG1s0gFlaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi92b3Rlci1ndWlkZS9hcnRpY2xlMjYwNDkzODIyLmh0bWw?oc=5\" target=\"_blank\">Who is Pat Cotham, Mecklenburg Democratic commissioners at-large candidate?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Who is Tricia Cotham, a Democratic candidate for NC House District 112? - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vdm90ZXItZ3VpZGUvYXJ0aWNsZTI2MDUyNDM1Ny5odG1s0gFlaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi92b3Rlci1ndWlkZS9hcnRpY2xlMjYwNTI0MzU3Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vdm90ZXItZ3VpZGUvYXJ0aWNsZTI2MDUyNDM1Ny5odG1s0gFlaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi92b3Rlci1ndWlkZS9hcnRpY2xlMjYwNTI0MzU3Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vdm90ZXItZ3VpZGUvYXJ0aWNsZTI2MDUyNDM1Ny5odG1s0gFlaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi92b3Rlci1ndWlkZS9hcnRpY2xlMjYwNTI0MzU3Lmh0bWw?oc=5\" target=\"_blank\">Who is Tricia Cotham, a Democratic candidate for NC House District 112?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PATRICIA PEREZ Obituary (2022) - San Antonio, TX - San Antonio Express-News - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9zYW5hbnRvbmlvL25hbWUvcGF0cmljaWEtcGVyZXotb2JpdHVhcnk_aWQ9MzUxNjg1NDbSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9zYW5hbnRvbmlvL25hbWUvcGF0cmljaWEtcGVyZXotb2JpdHVhcnk_aWQ9MzUxNjg1NDbSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9zYW5hbnRvbmlvL25hbWUvcGF0cmljaWEtcGVyZXotb2JpdHVhcnk_aWQ9MzUxNjg1NDbSAQA?oc=5\" target=\"_blank\">PATRICIA PEREZ Obituary (2022) - San Antonio, TX - San Antonio Express-News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tricia Cotham Husband: Is Tricia Cotham Married? All About Tricia Cothan - San Diego Gay & Lesbian News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc2RnbG4uY29tL25ld3MvMjAyMy8wNC8wNi90cmljaWEtY290aGFtLWh1c2JhbmQtdHJpY2lhLWNvdGhhbS1tYXJyaWVkL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vc2RnbG4uY29tL25ld3MvMjAyMy8wNC8wNi90cmljaWEtY290aGFtLWh1c2JhbmQtdHJpY2lhLWNvdGhhbS1tYXJyaWVkL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 06 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc2RnbG4uY29tL25ld3MvMjAyMy8wNC8wNi90cmljaWEtY290aGFtLWh1c2JhbmQtdHJpY2lhLWNvdGhhbS1tYXJyaWVkL9IBAA?oc=5\" target=\"_blank\">Tricia Cotham Husband: Is Tricia Cotham Married? All About Tricia Cothan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Diego Gay & Lesbian News</font>"
+            ],
+            "source": [
+              {
+                "_": "San Diego Gay & Lesbian News",
+                "$": {
+                  "url": "https://sdgln.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2708 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Costa Hawkins\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Costa+Hawkins&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "CAA Warns of Ballot Measure to Overturn Costa-Hawkins - Connect CRE"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNvbm5lY3RjcmUuY29tL3N0b3JpZXMvY2FhLXdhcm5zLW9mLWJhbGxvdC1tZWFzdXJlLXRvLW92ZXJ0dXJuLWNvc3RhLWhhd2tpbnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmNvbm5lY3RjcmUuY29tL3N0b3JpZXMvY2FhLXdhcm5zLW9mLWJhbGxvdC1tZWFzdXJlLXRvLW92ZXJ0dXJuLWNvc3RhLWhhd2tpbnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNvbm5lY3RjcmUuY29tL3N0b3JpZXMvY2FhLXdhcm5zLW9mLWJhbGxvdC1tZWFzdXJlLXRvLW92ZXJ0dXJuLWNvc3RhLWhhd2tpbnMv0gEA?oc=5\" target=\"_blank\">CAA Warns of Ballot Measure to Overturn Costa-Hawkins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Connect CRE</font>"
+            ],
+            "source": [
+              {
+                "_": "Connect CRE",
+                "$": {
+                  "url": "https://www.connectcre.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘Where are people going to live?’ Californians will vote (a third time) on rent control - Sacramento Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI3Nzc2MzY0My5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjc3NzYzNjQzLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI3Nzc2MzY0My5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjc3NzYzNjQzLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 31 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI3Nzc2MzY0My5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjc3NzYzNjQzLmh0bWw?oc=5\" target=\"_blank\">‘Where are people going to live?’ Californians will vote (a third time) on rent control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Sacramento Bee",
+                "$": {
+                  "url": "https://www.sacbee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Anti-housing rent control measure qualifies for CA ballot - The California Apartment Association"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vY2FhbmV0Lm9yZy9yZW50LWNvbnRyb2wtbWVhc3VyZS1xdWFsaWZpZXMtZm9yLTIwMjQtYmFsbG90L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQmh0dHBzOi8vY2FhbmV0Lm9yZy9yZW50LWNvbnRyb2wtbWVhc3VyZS1xdWFsaWZpZXMtZm9yLTIwMjQtYmFsbG90L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vY2FhbmV0Lm9yZy9yZW50LWNvbnRyb2wtbWVhc3VyZS1xdWFsaWZpZXMtZm9yLTIwMjQtYmFsbG90L9IBAA?oc=5\" target=\"_blank\">Anti-housing rent control measure qualifies for CA ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>"
+            ],
+            "source": [
+              {
+                "_": "The California Apartment Association",
+                "$": {
+                  "url": "https://caanet.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Statewide expansion of rent control qualifies for 2024 ballot - Santa Monica Daily Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vc21kcC5jb20vMjAyMy8wNy8zMS9zdGF0ZXdpZGUtZXhwYW5zaW9uLW9mLXJlbnQtY29udHJvbC1xdWFsaWZpZXMtZm9yLTIwMjQtYmFsbG90L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vc21kcC5jb20vMjAyMy8wNy8zMS9zdGF0ZXdpZGUtZXhwYW5zaW9uLW9mLXJlbnQtY29udHJvbC1xdWFsaWZpZXMtZm9yLTIwMjQtYmFsbG90L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 31 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vc21kcC5jb20vMjAyMy8wNy8zMS9zdGF0ZXdpZGUtZXhwYW5zaW9uLW9mLXJlbnQtY29udHJvbC1xdWFsaWZpZXMtZm9yLTIwMjQtYmFsbG90L9IBAA?oc=5\" target=\"_blank\">Statewide expansion of rent control qualifies for 2024 ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Santa Monica Daily Press",
+                "$": {
+                  "url": "https://smdp.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "City Council Backs Initiative to Repeal Costa-Hawkins Rental Act - SM Mirror - Santa Monica Mirror"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vc21taXJyb3IuY29tLzIwMjMvMTEvY2l0eS1jb3VuY2lsLWJhY2tzLWluaXRpYXRpdmUtdG8tcmVwZWFsLWNvc3RhLWhhd2tpbnMtcmVudGFsLWFjdC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vc21taXJyb3IuY29tLzIwMjMvMTEvY2l0eS1jb3VuY2lsLWJhY2tzLWluaXRpYXRpdmUtdG8tcmVwZWFsLWNvc3RhLWhhd2tpbnMtcmVudGFsLWFjdC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vc21taXJyb3IuY29tLzIwMjMvMTEvY2l0eS1jb3VuY2lsLWJhY2tzLWluaXRpYXRpdmUtdG8tcmVwZWFsLWNvc3RhLWhhd2tpbnMtcmVudGFsLWFjdC_SAQA?oc=5\" target=\"_blank\">City Council Backs Initiative to Repeal Costa-Hawkins Rental Act - SM Mirror</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Mirror</font>"
+            ],
+            "source": [
+              {
+                "_": "Santa Monica Mirror",
+                "$": {
+                  "url": "https://smmirror.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Statewide Rent Control Expansion Proposition Gets Enough Verified Signatures for 2024 Ballot – California Globe - California Globe"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vY2FsaWZvcm5pYWdsb2JlLmNvbS9mci9zdGF0ZXdpZGUtcmVudC1jb250cm9sLWV4cGFuc2lvbi1wcm9wb3NpdGlvbi1nZXRzLWVub3VnaC12ZXJpZmllZC1zaWduYXR1cmVzLWZvci0yMDI0LWJhbGxvdC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vY2FsaWZvcm5pYWdsb2JlLmNvbS9mci9zdGF0ZXdpZGUtcmVudC1jb250cm9sLWV4cGFuc2lvbi1wcm9wb3NpdGlvbi1nZXRzLWVub3VnaC12ZXJpZmllZC1zaWduYXR1cmVzLWZvci0yMDI0LWJhbGxvdC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vY2FsaWZvcm5pYWdsb2JlLmNvbS9mci9zdGF0ZXdpZGUtcmVudC1jb250cm9sLWV4cGFuc2lvbi1wcm9wb3NpdGlvbi1nZXRzLWVub3VnaC12ZXJpZmllZC1zaWduYXR1cmVzLWZvci0yMDI0LWJhbGxvdC_SAQA?oc=5\" target=\"_blank\">Statewide Rent Control Expansion Proposition Gets Enough Verified Signatures for 2024 Ballot – California Globe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Globe</font>"
+            ],
+            "source": [
+              {
+                "_": "California Globe",
+                "$": {
+                  "url": "https://californiaglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Poll: Majority of Californians favor proposition expanding rent control - The Business Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vdGhlYnVzaW5lc3Nqb3VybmFsLmNvbS9wb2xsLW1ham9yaXR5LW9mLWNhbGlmb3JuaWFucy1mYXZvci1wcm9wb3NpdGlvbi1leHBhbmRpbmctcmVudC1jb250cm9sL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vdGhlYnVzaW5lc3Nqb3VybmFsLmNvbS9wb2xsLW1ham9yaXR5LW9mLWNhbGlmb3JuaWFucy1mYXZvci1wcm9wb3NpdGlvbi1leHBhbmRpbmctcmVudC1jb250cm9sL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vdGhlYnVzaW5lc3Nqb3VybmFsLmNvbS9wb2xsLW1ham9yaXR5LW9mLWNhbGlmb3JuaWFucy1mYXZvci1wcm9wb3NpdGlvbi1leHBhbmRpbmctcmVudC1jb250cm9sL9IBAA?oc=5\" target=\"_blank\">Poll: Majority of Californians favor proposition expanding rent control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "The Business Journal",
+                "$": {
+                  "url": "https://thebusinessjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion: Will Gov. Gavin Newsom Please Stand Up for Rent Control in California? - Times of San Diego"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vdGltZXNvZnNhbmRpZWdvLmNvbS9vcGluaW9uLzIwMjMvMTIvMDIvd2lsbC1nb3YtZ2F2aW4tbmV3c29tLXBsZWFzZS1zdGFuZC11cC1mb3ItcmVudC1jb250cm9sLWluLWNhbGlmb3JuaWEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vdGltZXNvZnNhbmRpZWdvLmNvbS9vcGluaW9uLzIwMjMvMTIvMDIvd2lsbC1nb3YtZ2F2aW4tbmV3c29tLXBsZWFzZS1zdGFuZC11cC1mb3ItcmVudC1jb250cm9sLWluLWNhbGlmb3JuaWEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 02 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vdGltZXNvZnNhbmRpZWdvLmNvbS9vcGluaW9uLzIwMjMvMTIvMDIvd2lsbC1nb3YtZ2F2aW4tbmV3c29tLXBsZWFzZS1zdGFuZC11cC1mb3ItcmVudC1jb250cm9sLWluLWNhbGlmb3JuaWEv0gEA?oc=5\" target=\"_blank\">Opinion: Will Gov. Gavin Newsom Please Stand Up for Rent Control in California?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of San Diego</font>"
+            ],
+            "source": [
+              {
+                "_": "Times of San Diego",
+                "$": {
+                  "url": "https://timesofsandiego.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Costa Hawkins: California’s law that limits rent control, explained - Curbed LA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDE4LzEvMTIvMTY4ODMyNzYvcmVudC1jb250cm9sLWNhbGlmb3JuaWEtY29zdGEtaGF3a2lucy1leHBsYWluZWTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDE4LzEvMTIvMTY4ODMyNzYvcmVudC1jb250cm9sLWNhbGlmb3JuaWEtY29zdGEtaGF3a2lucy1leHBsYWluZWTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDE4LzEvMTIvMTY4ODMyNzYvcmVudC1jb250cm9sLWNhbGlmb3JuaWEtY29zdGEtaGF3a2lucy1leHBsYWluZWTSAQA?oc=5\" target=\"_blank\">Costa Hawkins: California’s law that limits rent control, explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Curbed LA</font>"
+            ],
+            "source": [
+              {
+                "_": "Curbed LA",
+                "$": {
+                  "url": "https://la.curbed.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Admirals Cove Rent Control Protections Reaffirmed - Alameda Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vYWxhbWVkYXBvc3QuY29tL25ld3MvYWRtaXJhbHMtY292ZS1yZW50LWNvbnRyb2wtcHJvdGVjdGlvbnMtcmVhZmZpcm1lZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vYWxhbWVkYXBvc3QuY29tL25ld3MvYWRtaXJhbHMtY292ZS1yZW50LWNvbnRyb2wtcHJvdGVjdGlvbnMtcmVhZmZpcm1lZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vYWxhbWVkYXBvc3QuY29tL25ld3MvYWRtaXJhbHMtY292ZS1yZW50LWNvbnRyb2wtcHJvdGVjdGlvbnMtcmVhZmZpcm1lZC_SAQA?oc=5\" target=\"_blank\">Admirals Cove Rent Control Protections Reaffirmed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alameda Post</font>"
+            ],
+            "source": [
+              {
+                "_": "Alameda Post",
+                "$": {
+                  "url": "https://alamedapost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CAA defeats 'anti-housing' bill aimed at expanding rent control - The California Apartment Association"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vY2FhbmV0Lm9yZy9jYWEtcHJldmVudHMtcGFzc2FnZS1vZi1yZW50LWNvbnRyb2wtZXhwYW5zaW9uLWJpbGwv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vY2FhbmV0Lm9yZy9jYWEtcHJldmVudHMtcGFzc2FnZS1vZi1yZW50LWNvbnRyb2wtZXhwYW5zaW9uLWJpbGwv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vY2FhbmV0Lm9yZy9jYWEtcHJldmVudHMtcGFzc2FnZS1vZi1yZW50LWNvbnRyb2wtZXhwYW5zaW9uLWJpbGwv0gEA?oc=5\" target=\"_blank\">CAA defeats 'anti-housing' bill aimed at expanding rent control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>"
+            ],
+            "source": [
+              {
+                "_": "The California Apartment Association",
+                "$": {
+                  "url": "https://caanet.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Council votes to support the Justice for Renters Act by the narrowest of margins - Santa Monica Daily Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vc21kcC5jb20vMjAyMy8xMS8wNi9jb3VuY2lsLXZvdGVzLXRvLXN1cHBvcnQtdGhlLWp1c3RpY2UtZm9yLXJlbnRlcnMtYWN0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vc21kcC5jb20vMjAyMy8xMS8wNi9jb3VuY2lsLXZvdGVzLXRvLXN1cHBvcnQtdGhlLWp1c3RpY2UtZm9yLXJlbnRlcnMtYWN0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vc21kcC5jb20vMjAyMy8xMS8wNi9jb3VuY2lsLXZvdGVzLXRvLXN1cHBvcnQtdGhlLWp1c3RpY2UtZm9yLXJlbnRlcnMtYWN0L9IBAA?oc=5\" target=\"_blank\">Council votes to support the Justice for Renters Act by the narrowest of margins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Santa Monica Daily Press",
+                "$": {
+                  "url": "https://smdp.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rent control is back on the ballot. It’s an economically foolish and counterproductive policy. - OCRegister"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjMvMDgvMDEvZGVsdXNpb25hbC1yZW50LWNvbnRyb2wtaXMtYmFjay1vbi10aGUtYmFsbG90L9IBWGh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjMvMDgvMDEvZGVsdXNpb25hbC1yZW50LWNvbnRyb2wtaXMtYmFjay1vbi10aGUtYmFsbG90L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjMvMDgvMDEvZGVsdXNpb25hbC1yZW50LWNvbnRyb2wtaXMtYmFjay1vbi10aGUtYmFsbG90L9IBWGh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjMvMDgvMDEvZGVsdXNpb25hbC1yZW50LWNvbnRyb2wtaXMtYmFjay1vbi10aGUtYmFsbG90L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjMvMDgvMDEvZGVsdXNpb25hbC1yZW50LWNvbnRyb2wtaXMtYmFjay1vbi10aGUtYmFsbG90L9IBWGh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjMvMDgvMDEvZGVsdXNpb25hbC1yZW50LWNvbnRyb2wtaXMtYmFjay1vbi10aGUtYmFsbG90L2FtcC8?oc=5\" target=\"_blank\">Rent control is back on the ballot. It’s an economically foolish and counterproductive policy.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OCRegister</font>"
+            ],
+            "source": [
+              {
+                "_": "OCRegister",
+                "$": {
+                  "url": "https://www.ocregister.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rent control lands on California ballot for the 3rd time in 4 elections. Can advocates win? - Sacramento Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI3NzcyNjM1OC5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjc3NzI2MzU4Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI3NzcyNjM1OC5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjc3NzI2MzU4Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI3NzcyNjM1OC5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjc3NzI2MzU4Lmh0bWw?oc=5\" target=\"_blank\">Rent control lands on California ballot for the 3rd time in 4 elections. Can advocates win?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Sacramento Bee",
+                "$": {
+                  "url": "https://www.sacbee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "732000 Letters Favoring Ballot Initiative to Increase Rent Control – California Globe - California Globe"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vY2FsaWZvcm5pYWdsb2JlLmNvbS9mci83MzIwMDAtbGV0dGVycy1pbi1mYXZvci1vZi1wcm9wb3NpdGlvbi1mb3ItaW5jcmVhc2VkLXJlbnQtY29udHJvbC10by1iZS1kZWxpdmVyZWQtdG8tZ292LW5ld3NvbS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vY2FsaWZvcm5pYWdsb2JlLmNvbS9mci83MzIwMDAtbGV0dGVycy1pbi1mYXZvci1vZi1wcm9wb3NpdGlvbi1mb3ItaW5jcmVhc2VkLXJlbnQtY29udHJvbC10by1iZS1kZWxpdmVyZWQtdG8tZ292LW5ld3NvbS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vY2FsaWZvcm5pYWdsb2JlLmNvbS9mci83MzIwMDAtbGV0dGVycy1pbi1mYXZvci1vZi1wcm9wb3NpdGlvbi1mb3ItaW5jcmVhc2VkLXJlbnQtY29udHJvbC10by1iZS1kZWxpdmVyZWQtdG8tZ292LW5ld3NvbS_SAQA?oc=5\" target=\"_blank\">732000 Letters Favoring Ballot Initiative to Increase Rent Control – California Globe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Globe</font>"
+            ],
+            "source": [
+              {
+                "_": "California Globe",
+                "$": {
+                  "url": "https://californiaglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rent Control Board follows Council in backing Justice for Renters Act - Santa Monica Daily Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vc21kcC5jb20vMjAyNC8wMS8xNi9sb2NhbC1ib2FyZC1mb2xsb3dzLWNvdW5jaWwtaW4tYmFja2luZy1qdXN0aWNlLWZvci1yZW50ZXJzLWFjdC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vc21kcC5jb20vMjAyNC8wMS8xNi9sb2NhbC1ib2FyZC1mb2xsb3dzLWNvdW5jaWwtaW4tYmFja2luZy1qdXN0aWNlLWZvci1yZW50ZXJzLWFjdC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vc21kcC5jb20vMjAyNC8wMS8xNi9sb2NhbC1ib2FyZC1mb2xsb3dzLWNvdW5jaWwtaW4tYmFja2luZy1qdXN0aWNlLWZvci1yZW50ZXJzLWFjdC_SAQA?oc=5\" target=\"_blank\">Rent Control Board follows Council in backing Justice for Renters Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Santa Monica Daily Press",
+                "$": {
+                  "url": "https://smdp.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California Senate vote looms for rent control expansion bill - The California Apartment Association"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vY2FhbmV0Lm9yZy9jYWxpZm9ybmlhLXNlbmF0ZS12b3RlLWxvb21zLWZvci1yZW50LWNvbnRyb2wtZXhwYW5zaW9uLWJpbGwv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vY2FhbmV0Lm9yZy9jYWxpZm9ybmlhLXNlbmF0ZS12b3RlLWxvb21zLWZvci1yZW50LWNvbnRyb2wtZXhwYW5zaW9uLWJpbGwv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vY2FhbmV0Lm9yZy9jYWxpZm9ybmlhLXNlbmF0ZS12b3RlLWxvb21zLWZvci1yZW50LWNvbnRyb2wtZXhwYW5zaW9uLWJpbGwv0gEA?oc=5\" target=\"_blank\">California Senate vote looms for rent control expansion bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>"
+            ],
+            "source": [
+              {
+                "_": "The California Apartment Association",
+                "$": {
+                  "url": "https://caanet.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "More than 732,000 letters urge Gavin Newsom to support California rent control. Are they ads? - Sacramento Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI4MTAwMDc4My5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjgxMDAwNzgzLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI4MTAwMDc4My5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjgxMDAwNzgzLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 26 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI4MTAwMDc4My5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjgxMDAwNzgzLmh0bWw?oc=5\" target=\"_blank\">More than 732,000 letters urge Gavin Newsom to support California rent control. Are they ads?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Sacramento Bee",
+                "$": {
+                  "url": "https://www.sacbee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New law could apply rent control to single-family homes - Santa Monica Daily Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vc21kcC5jb20vMjAyMy8wNC8wNS9yZW50LWNvbnRyb2wtYm9hcmQtbWFyY2gtbWVldGluZy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPWh0dHBzOi8vc21kcC5jb20vMjAyMy8wNC8wNS9yZW50LWNvbnRyb2wtYm9hcmQtbWFyY2gtbWVldGluZy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vc21kcC5jb20vMjAyMy8wNC8wNS9yZW50LWNvbnRyb2wtYm9hcmQtbWFyY2gtbWVldGluZy_SAQA?oc=5\" target=\"_blank\">New law could apply rent control to single-family homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Santa Monica Daily Press",
+                "$": {
+                  "url": "https://smdp.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Regulators debate closing eviction loophole - Santa Monica Daily Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc21kcC5jb20vMjAyMy8wOC8xNS9ldmljdGlvbi1sb29waG9sZS1yZXN0cmljdGlvbi1icm9hY2hlZC1ieS1zdGF0ZS1sZWdpc2xhdHVyZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vc21kcC5jb20vMjAyMy8wOC8xNS9ldmljdGlvbi1sb29waG9sZS1yZXN0cmljdGlvbi1icm9hY2hlZC1ieS1zdGF0ZS1sZWdpc2xhdHVyZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 15 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc21kcC5jb20vMjAyMy8wOC8xNS9ldmljdGlvbi1sb29waG9sZS1yZXN0cmljdGlvbi1icm9hY2hlZC1ieS1zdGF0ZS1sZWdpc2xhdHVyZS_SAQA?oc=5\" target=\"_blank\">Regulators debate closing eviction loophole</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Santa Monica Daily Press",
+                "$": {
+                  "url": "https://smdp.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "JUSTICE FOR RENTERS ACT QUALIFIES FOR NOVEMBER 2024 BALLOT - East County Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmVhc3Rjb3VudHltYWdhemluZS5vcmcvanVzdGljZS1yZW50ZXJzLWFjdC1xdWFsaWZpZXMtbm92ZW1iZXItMjAyNC1iYWxsb3TSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3LmVhc3Rjb3VudHltYWdhemluZS5vcmcvanVzdGljZS1yZW50ZXJzLWFjdC1xdWFsaWZpZXMtbm92ZW1iZXItMjAyNC1iYWxsb3TSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 17 Aug 2023 18:42:35 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmVhc3Rjb3VudHltYWdhemluZS5vcmcvanVzdGljZS1yZW50ZXJzLWFjdC1xdWFsaWZpZXMtbm92ZW1iZXItMjAyNC1iYWxsb3TSAQA?oc=5\" target=\"_blank\">JUSTICE FOR RENTERS ACT QUALIFIES FOR NOVEMBER 2024 BALLOT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">East County Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "East County Magazine",
+                "$": {
+                  "url": "https://www.eastcountymagazine.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California rent control – round 3 is on - Yield PRO magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8veWllbGRwcm8uY29tLzIwMjMvMDcvY2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtcm91bmQtMy1pcy1vbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8veWllbGRwcm8uY29tLzIwMjMvMDcvY2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtcm91bmQtMy1pcy1vbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 29 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8veWllbGRwcm8uY29tLzIwMjMvMDcvY2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtcm91bmQtMy1pcy1vbi_SAQA?oc=5\" target=\"_blank\">California rent control – round 3 is on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yield PRO magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Yield PRO magazine",
+                "$": {
+                  "url": "https://yieldpro.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California Governor Newsom Signs AB 1620: A Win for Disabled Renters in Santa Monica and West Hollywood - Hoodline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL2hvb2RsaW5lLmNvbS8yMDIzLzEwL2NhbGlmb3JuaWEtZ292ZXJub3ItbmV3c29tLXNpZ25zLWFiLTE2MjAtYS13aW4tZm9yLWRpc2FibGVkLXJlbnRlcnMtaW4tc2FudGEtbW9uaWNhLWFuZC13ZXN0LWhvbGx5d29vZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL2hvb2RsaW5lLmNvbS8yMDIzLzEwL2NhbGlmb3JuaWEtZ292ZXJub3ItbmV3c29tLXNpZ25zLWFiLTE2MjAtYS13aW4tZm9yLWRpc2FibGVkLXJlbnRlcnMtaW4tc2FudGEtbW9uaWNhLWFuZC13ZXN0LWhvbGx5d29vZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 14 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL2hvb2RsaW5lLmNvbS8yMDIzLzEwL2NhbGlmb3JuaWEtZ292ZXJub3ItbmV3c29tLXNpZ25zLWFiLTE2MjAtYS13aW4tZm9yLWRpc2FibGVkLXJlbnRlcnMtaW4tc2FudGEtbW9uaWNhLWFuZC13ZXN0LWhvbGx5d29vZC_SAQA?oc=5\" target=\"_blank\">California Governor Newsom Signs AB 1620: A Win for Disabled Renters in Santa Monica and West Hollywood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>"
+            ],
+            "source": [
+              {
+                "_": "Hoodline",
+                "$": {
+                  "url": "https://hoodline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AIDS Healthcare Foundation is pursuing yet another a harmful and destructive ‘renters’ measure - OCRegister"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDIzLzA0LzA4L2FpZHMtaGVhbHRoY2FyZS1mb3VuZGF0aW9uLWlzLXB1cnN1aW5nLXlldC1hbm90aGVyLWEtaGFybWZ1bC1hbmQtZGVzdHJ1Y3RpdmUtcmVudGVycy1tZWFzdXJlL9IBhwFodHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDIzLzA0LzA4L2FpZHMtaGVhbHRoY2FyZS1mb3VuZGF0aW9uLWlzLXB1cnN1aW5nLXlldC1hbm90aGVyLWEtaGFybWZ1bC1hbmQtZGVzdHJ1Y3RpdmUtcmVudGVycy1tZWFzdXJlL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDIzLzA0LzA4L2FpZHMtaGVhbHRoY2FyZS1mb3VuZGF0aW9uLWlzLXB1cnN1aW5nLXlldC1hbm90aGVyLWEtaGFybWZ1bC1hbmQtZGVzdHJ1Y3RpdmUtcmVudGVycy1tZWFzdXJlL9IBhwFodHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDIzLzA0LzA4L2FpZHMtaGVhbHRoY2FyZS1mb3VuZGF0aW9uLWlzLXB1cnN1aW5nLXlldC1hbm90aGVyLWEtaGFybWZ1bC1hbmQtZGVzdHJ1Y3RpdmUtcmVudGVycy1tZWFzdXJlL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 08 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDIzLzA0LzA4L2FpZHMtaGVhbHRoY2FyZS1mb3VuZGF0aW9uLWlzLXB1cnN1aW5nLXlldC1hbm90aGVyLWEtaGFybWZ1bC1hbmQtZGVzdHJ1Y3RpdmUtcmVudGVycy1tZWFzdXJlL9IBhwFodHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDIzLzA0LzA4L2FpZHMtaGVhbHRoY2FyZS1mb3VuZGF0aW9uLWlzLXB1cnN1aW5nLXlldC1hbm90aGVyLWEtaGFybWZ1bC1hbmQtZGVzdHJ1Y3RpdmUtcmVudGVycy1tZWFzdXJlL2FtcC8?oc=5\" target=\"_blank\">AIDS Healthcare Foundation is pursuing yet another a harmful and destructive ‘renters’ measure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OCRegister</font>"
+            ],
+            "source": [
+              {
+                "_": "OCRegister",
+                "$": {
+                  "url": "https://www.ocregister.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Legislation to expand rent control moves out of Senate Judiciary Committee - The California Apartment Association"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vY2FhbmV0Lm9yZy9hbWVuZGVkLXJlbnQtY29udHJvbC1iaWxsLWFkdmFuY2VzLXRvLWZsb29yL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vY2FhbmV0Lm9yZy9hbWVuZGVkLXJlbnQtY29udHJvbC1iaWxsLWFkdmFuY2VzLXRvLWZsb29yL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 19 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vY2FhbmV0Lm9yZy9hbWVuZGVkLXJlbnQtY29udHJvbC1iaWxsLWFkdmFuY2VzLXRvLWZsb29yL9IBAA?oc=5\" target=\"_blank\">Legislation to expand rent control moves out of Senate Judiciary Committee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>"
+            ],
+            "source": [
+              {
+                "_": "The California Apartment Association",
+                "$": {
+                  "url": "https://caanet.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Justice for Renters delivers 732K letters to Newsom - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9pbnNpZGUtdGhlLWlzc3Vlcy8yMDIzLzEwLzI2L2NhbGlmb3JuaWEtcmVudC1jb250cm9sLWJhbGxvdC1tZWFzdXJl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9pbnNpZGUtdGhlLWlzc3Vlcy8yMDIzLzEwLzI2L2NhbGlmb3JuaWEtcmVudC1jb250cm9sLWJhbGxvdC1tZWFzdXJl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 26 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9pbnNpZGUtdGhlLWlzc3Vlcy8yMDIzLzEwLzI2L2NhbGlmb3JuaWEtcmVudC1jb250cm9sLWJhbGxvdC1tZWFzdXJl0gEA?oc=5\" target=\"_blank\">Justice for Renters delivers 732K letters to Newsom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Justice for Renters Qualifies for 2024 California Ballot - The Real Deal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjMvMDcvMjgvanVzdGljZS1mb3ItcmVudGVycy1xdWFsaWZpZXMtZm9yLWNhbGlmb3JuaWFzLW5vdmVtYmVyLTIwMjQtYmFsbG90L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjMvMDcvMjgvanVzdGljZS1mb3ItcmVudGVycy1xdWFsaWZpZXMtZm9yLWNhbGlmb3JuaWFzLW5vdmVtYmVyLTIwMjQtYmFsbG90L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjMvMDcvMjgvanVzdGljZS1mb3ItcmVudGVycy1xdWFsaWZpZXMtZm9yLWNhbGlmb3JuaWFzLW5vdmVtYmVyLTIwMjQtYmFsbG90L9IBAA?oc=5\" target=\"_blank\">Justice for Renters Qualifies for 2024 California Ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>"
+            ],
+            "source": [
+              {
+                "_": "The Real Deal",
+                "$": {
+                  "url": "https://therealdeal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AHF makes third push to reverse state rent control law - The Real Deal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjMvMDUvMjYvYWhmLW1ha2VzLXRoaXJkLWJhbGxvdC1wdXNoLXRvLXJlcGVhbC1zdGF0ZXdpZGUtcmVudC1jb250cm9sLWxhdy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjMvMDUvMjYvYWhmLW1ha2VzLXRoaXJkLWJhbGxvdC1wdXNoLXRvLXJlcGVhbC1zdGF0ZXdpZGUtcmVudC1jb250cm9sLWxhdy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjMvMDUvMjYvYWhmLW1ha2VzLXRoaXJkLWJhbGxvdC1wdXNoLXRvLXJlcGVhbC1zdGF0ZXdpZGUtcmVudC1jb250cm9sLWxhdy_SAQA?oc=5\" target=\"_blank\">AHF makes third push to reverse state rent control law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>"
+            ],
+            "source": [
+              {
+                "_": "The Real Deal",
+                "$": {
+                  "url": "https://therealdeal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Is your property exempt from rent control? That could change soon - The California Apartment Association"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vY2FhbmV0Lm9yZy9zYjQ2Njgwc3VuaXRzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiIWh0dHBzOi8vY2FhbmV0Lm9yZy9zYjQ2Njgwc3VuaXRzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vY2FhbmV0Lm9yZy9zYjQ2Njgwc3VuaXRzL9IBAA?oc=5\" target=\"_blank\">Is your property exempt from rent control? That could change soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>"
+            ],
+            "source": [
+              {
+                "_": "The California Apartment Association",
+                "$": {
+                  "url": "https://caanet.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The third California rent control initiative in four election cycles sponsored by the AIDS Healthcare Foundation qualifies ... - Ballotpedia News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitwFodHRwczovL25ld3MuYmFsbG90cGVkaWEub3JnLzIwMjMvMDcvMjgvdGhlLXRoaXJkLWNhbGlmb3JuaWEtcmVudC1jb250cm9sLWluaXRpYXRpdmUtaW4tZm91ci1lbGVjdGlvbi1jeWNsZXMtc3BvbnNvcmVkLWJ5LXRoZS1haWRzLWhlYWx0aGNhcmUtZm91bmRhdGlvbi1xdWFsaWZpZXMtZm9yLXRoZS0yMDI0LWJhbGxvdC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitwFodHRwczovL25ld3MuYmFsbG90cGVkaWEub3JnLzIwMjMvMDcvMjgvdGhlLXRoaXJkLWNhbGlmb3JuaWEtcmVudC1jb250cm9sLWluaXRpYXRpdmUtaW4tZm91ci1lbGVjdGlvbi1jeWNsZXMtc3BvbnNvcmVkLWJ5LXRoZS1haWRzLWhlYWx0aGNhcmUtZm91bmRhdGlvbi1xdWFsaWZpZXMtZm9yLXRoZS0yMDI0LWJhbGxvdC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitwFodHRwczovL25ld3MuYmFsbG90cGVkaWEub3JnLzIwMjMvMDcvMjgvdGhlLXRoaXJkLWNhbGlmb3JuaWEtcmVudC1jb250cm9sLWluaXRpYXRpdmUtaW4tZm91ci1lbGVjdGlvbi1jeWNsZXMtc3BvbnNvcmVkLWJ5LXRoZS1haWRzLWhlYWx0aGNhcmUtZm91bmRhdGlvbi1xdWFsaWZpZXMtZm9yLXRoZS0yMDI0LWJhbGxvdC_SAQA?oc=5\" target=\"_blank\">The third California rent control initiative in four election cycles sponsored by the AIDS Healthcare Foundation qualifies ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ballotpedia News</font>"
+            ],
+            "source": [
+              {
+                "_": "Ballotpedia News",
+                "$": {
+                  "url": "https://news.ballotpedia.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Newsom Signs Santa Monica-Sponsored Bill Protecting Disabled Renters - SM Mirror - Santa Monica Mirror"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc21taXJyb3IuY29tLzIwMjMvMTAvZ292LW5ld3NvbS1zaWducy1zYW50YS1tb25pY2Etc3BvbnNvcmVkLWJpbGwtcHJvdGVjdGluZy1kaXNhYmxlZC1yZW50ZXJzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vc21taXJyb3IuY29tLzIwMjMvMTAvZ292LW5ld3NvbS1zaWducy1zYW50YS1tb25pY2Etc3BvbnNvcmVkLWJpbGwtcHJvdGVjdGluZy1kaXNhYmxlZC1yZW50ZXJzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc21taXJyb3IuY29tLzIwMjMvMTAvZ292LW5ld3NvbS1zaWducy1zYW50YS1tb25pY2Etc3BvbnNvcmVkLWJpbGwtcHJvdGVjdGluZy1kaXNhYmxlZC1yZW50ZXJzL9IBAA?oc=5\" target=\"_blank\">Gov. Newsom Signs Santa Monica-Sponsored Bill Protecting Disabled Renters - SM Mirror</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Mirror</font>"
+            ],
+            "source": [
+              {
+                "_": "Santa Monica Mirror",
+                "$": {
+                  "url": "https://smmirror.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Apartment Group Sues On Behalf of Landlords - Los Angeles Business Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbGFidXNpbmVzc2pvdXJuYWwuY29tL3JlYWwtZXN0YXRlL2FwYXJ0bWVudC1ncm91cC1zdWVzLW9uLWJlaGFsZi1vZi1sYW5kbG9yZHMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vbGFidXNpbmVzc2pvdXJuYWwuY29tL3JlYWwtZXN0YXRlL2FwYXJ0bWVudC1ncm91cC1zdWVzLW9uLWJlaGFsZi1vZi1sYW5kbG9yZHMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbGFidXNpbmVzc2pvdXJuYWwuY29tL3JlYWwtZXN0YXRlL2FwYXJ0bWVudC1ncm91cC1zdWVzLW9uLWJlaGFsZi1vZi1sYW5kbG9yZHMv0gEA?oc=5\" target=\"_blank\">Apartment Group Sues On Behalf of Landlords</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Business Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Los Angeles Business Journal",
+                "$": {
+                  "url": "https://labusinessjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Another anti-housing measure targeted for 2024 statewide ballot - The California Apartment Association"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vY2FhbmV0Lm9yZy9hbm90aGVyLWF0dGFjay1vbi1jb3N0YS1oYXdraW5zLWV5ZWQtZm9yLTIwMjQtc3RhdGUtYmFsbG90L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vY2FhbmV0Lm9yZy9hbm90aGVyLWF0dGFjay1vbi1jb3N0YS1oYXdraW5zLWV5ZWQtZm9yLTIwMjQtc3RhdGUtYmFsbG90L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 06 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vY2FhbmV0Lm9yZy9hbm90aGVyLWF0dGFjay1vbi1jb3N0YS1oYXdraW5zLWV5ZWQtZm9yLTIwMjQtc3RhdGUtYmFsbG90L9IBAA?oc=5\" target=\"_blank\">Another anti-housing measure targeted for 2024 statewide ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>"
+            ],
+            "source": [
+              {
+                "_": "The California Apartment Association",
+                "$": {
+                  "url": "https://caanet.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California rent control – round 3? - Yield PRO magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8veWllbGRwcm8uY29tLzIwMjMvMDMvY2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtcm91bmQtMy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPWh0dHBzOi8veWllbGRwcm8uY29tLzIwMjMvMDMvY2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtcm91bmQtMy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8veWllbGRwcm8uY29tLzIwMjMvMDMvY2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtcm91bmQtMy_SAQA?oc=5\" target=\"_blank\">California rent control – round 3?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yield PRO magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Yield PRO magazine",
+                "$": {
+                  "url": "https://yieldpro.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "San Anselmo progresses toward possible rent-control ordinance - Marin Independent Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm1hcmluaWouY29tLzIwMjQvMDEvMTMvc2FuLWFuc2VsbW8tcHJvZ3Jlc3Nlcy10b3dhcmQtcG9zc2libGUtcmVudC1jb250cm9sLW9yZGluYW5jZS_SAWVodHRwczovL3d3dy5tYXJpbmlqLmNvbS8yMDI0LzAxLzEzL3Nhbi1hbnNlbG1vLXByb2dyZXNzZXMtdG93YXJkLXBvc3NpYmxlLXJlbnQtY29udHJvbC1vcmRpbmFuY2UvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3Lm1hcmluaWouY29tLzIwMjQvMDEvMTMvc2FuLWFuc2VsbW8tcHJvZ3Jlc3Nlcy10b3dhcmQtcG9zc2libGUtcmVudC1jb250cm9sLW9yZGluYW5jZS_SAWVodHRwczovL3d3dy5tYXJpbmlqLmNvbS8yMDI0LzAxLzEzL3Nhbi1hbnNlbG1vLXByb2dyZXNzZXMtdG93YXJkLXBvc3NpYmxlLXJlbnQtY29udHJvbC1vcmRpbmFuY2UvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 13 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm1hcmluaWouY29tLzIwMjQvMDEvMTMvc2FuLWFuc2VsbW8tcHJvZ3Jlc3Nlcy10b3dhcmQtcG9zc2libGUtcmVudC1jb250cm9sLW9yZGluYW5jZS_SAWVodHRwczovL3d3dy5tYXJpbmlqLmNvbS8yMDI0LzAxLzEzL3Nhbi1hbnNlbG1vLXByb2dyZXNzZXMtdG93YXJkLXBvc3NpYmxlLXJlbnQtY29udHJvbC1vcmRpbmFuY2UvYW1wLw?oc=5\" target=\"_blank\">San Anselmo progresses toward possible rent-control ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marin Independent Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Marin Independent Journal",
+                "$": {
+                  "url": "https://www.marinij.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rent control to hit November 2024 California ballot - FOX 5 San Diego"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL3BvbGl0aWNzL3JlbnQtY29udHJvbC10by1oaXQtbm92ZW1iZXItMjAyNC1jYWxpZm9ybmlhLWJhbGxvdC_SAV9odHRwczovL2ZveDVzYW5kaWVnby5jb20vbmV3cy9wb2xpdGljcy9yZW50LWNvbnRyb2wtdG8taGl0LW5vdmVtYmVyLTIwMjQtY2FsaWZvcm5pYS1iYWxsb3QvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL3BvbGl0aWNzL3JlbnQtY29udHJvbC10by1oaXQtbm92ZW1iZXItMjAyNC1jYWxpZm9ybmlhLWJhbGxvdC_SAV9odHRwczovL2ZveDVzYW5kaWVnby5jb20vbmV3cy9wb2xpdGljcy9yZW50LWNvbnRyb2wtdG8taGl0LW5vdmVtYmVyLTIwMjQtY2FsaWZvcm5pYS1iYWxsb3QvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL3BvbGl0aWNzL3JlbnQtY29udHJvbC10by1oaXQtbm92ZW1iZXItMjAyNC1jYWxpZm9ybmlhLWJhbGxvdC_SAV9odHRwczovL2ZveDVzYW5kaWVnby5jb20vbmV3cy9wb2xpdGljcy9yZW50LWNvbnRyb2wtdG8taGl0LW5vdmVtYmVyLTIwMjQtY2FsaWZvcm5pYS1iYWxsb3QvYW1wLw?oc=5\" target=\"_blank\">Rent control to hit November 2024 California ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 San Diego</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX 5 San Diego",
+                "$": {
+                  "url": "https://fox5sandiego.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Costa-Hawkins Act Is Failing California - Voice of San Diego"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdm9pY2VvZnNhbmRpZWdvLm9yZy8yMDE4LzA4LzI3L3RoZS1jb3N0YS1oYXdraW5zLWFjdC1pcy1mYWlsaW5nLWNhbGlmb3JuaWEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vdm9pY2VvZnNhbmRpZWdvLm9yZy8yMDE4LzA4LzI3L3RoZS1jb3N0YS1oYXdraW5zLWFjdC1pcy1mYWlsaW5nLWNhbGlmb3JuaWEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Aug 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdm9pY2VvZnNhbmRpZWdvLm9yZy8yMDE4LzA4LzI3L3RoZS1jb3N0YS1oYXdraW5zLWFjdC1pcy1mYWlsaW5nLWNhbGlmb3JuaWEv0gEA?oc=5\" target=\"_blank\">The Costa-Hawkins Act Is Failing California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Voice of San Diego</font>"
+            ],
+            "source": [
+              {
+                "_": "Voice of San Diego",
+                "$": {
+                  "url": "https://voiceofsandiego.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Is Rent Control Working and Should We Have More or Less of It? - KQED"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE2NzczODAvaXMtcmVudC1jb250cm9sLXdvcmtpbmctYW5kLXNob3VsZC13ZS1oYXZlLW1vcmUtb3ItbGVzcy1vZi1pdNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE2NzczODAvaXMtcmVudC1jb250cm9sLXdvcmtpbmctYW5kLXNob3VsZC13ZS1oYXZlLW1vcmUtb3ItbGVzcy1vZi1pdNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Jun 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE2NzczODAvaXMtcmVudC1jb250cm9sLXdvcmtpbmctYW5kLXNob3VsZC13ZS1oYXZlLW1vcmUtb3ItbGVzcy1vZi1pdNIBAA?oc=5\" target=\"_blank\">Is Rent Control Working and Should We Have More or Less of It?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>"
+            ],
+            "source": [
+              {
+                "_": "KQED",
+                "$": {
+                  "url": "https://www.kqed.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What You Need To Know About Proposition 10: The Affordable Housing Act - LAist"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbGFpc3QuY29tL25ld3MvcHJvcG9zaXRpb24tMTAtYWZmb3JkYWJsZS1ob3VzaW5nLWNhbGlmb3JuaWEtcmVudC1leHBlbnNpdmXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vbGFpc3QuY29tL25ld3MvcHJvcG9zaXRpb24tMTAtYWZmb3JkYWJsZS1ob3VzaW5nLWNhbGlmb3JuaWEtcmVudC1leHBlbnNpdmXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbGFpc3QuY29tL25ld3MvcHJvcG9zaXRpb24tMTAtYWZmb3JkYWJsZS1ob3VzaW5nLWNhbGlmb3JuaWEtcmVudC1leHBlbnNpdmXSAQA?oc=5\" target=\"_blank\">What You Need To Know About Proposition 10: The Affordable Housing Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>"
+            ],
+            "source": [
+              {
+                "_": "LAist",
+                "$": {
+                  "url": "https://laist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sunday Commentary: Rent Control Advocates Will Try It Again - The People’s Vanguard of Davis"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhdmlzdmFuZ3VhcmQub3JnLzIwMjMvMDEvc3VuZGF5LWNvbW1lbnRhcnktcmVudC1jb250cm9sLWFkdm9jYXRlcy13aWxsLXRyeS1pdC1hZ2Fpbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmRhdmlzdmFuZ3VhcmQub3JnLzIwMjMvMDEvc3VuZGF5LWNvbW1lbnRhcnktcmVudC1jb250cm9sLWFkdm9jYXRlcy13aWxsLXRyeS1pdC1hZ2Fpbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 08 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhdmlzdmFuZ3VhcmQub3JnLzIwMjMvMDEvc3VuZGF5LWNvbW1lbnRhcnktcmVudC1jb250cm9sLWFkdm9jYXRlcy13aWxsLXRyeS1pdC1hZ2Fpbi_SAQA?oc=5\" target=\"_blank\">Sunday Commentary: Rent Control Advocates Will Try It Again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The People’s Vanguard of Davis</font>"
+            ],
+            "source": [
+              {
+                "_": "The People’s Vanguard of Davis",
+                "$": {
+                  "url": "https://www.davisvanguard.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California rent control measure makes November ballot - Curbed LA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDE4LzYvMTgvMTc0NzUxNzYvY2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtYmFsbG90LW1lYXN1cmUtY29zdGEtaGF3a2luc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDE4LzYvMTgvMTc0NzUxNzYvY2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtYmFsbG90LW1lYXN1cmUtY29zdGEtaGF3a2luc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Jun 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDE4LzYvMTgvMTc0NzUxNzYvY2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtYmFsbG90LW1lYXN1cmUtY29zdGEtaGF3a2luc9IBAA?oc=5\" target=\"_blank\">California rent control measure makes November ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Curbed LA</font>"
+            ],
+            "source": [
+              {
+                "_": "Curbed LA",
+                "$": {
+                  "url": "https://la.curbed.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "State Democrats support repeal of Costa-Hawkins' rent control constraints - The Almanac Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFsbWFuYWNuZXdzLmNvbS8yMDE4LzA3LzE4L3N0YXRlLWRlbW9jcmF0cy1zdXBwb3J0LXJlcGVhbC1vZi1jb3N0YS1oYXdraW5zLXJlbnQtY29udHJvbC1jb25zdHJhaW50cy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmFsbWFuYWNuZXdzLmNvbS8yMDE4LzA3LzE4L3N0YXRlLWRlbW9jcmF0cy1zdXBwb3J0LXJlcGVhbC1vZi1jb3N0YS1oYXdraW5zLXJlbnQtY29udHJvbC1jb25zdHJhaW50cy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Jul 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFsbWFuYWNuZXdzLmNvbS8yMDE4LzA3LzE4L3N0YXRlLWRlbW9jcmF0cy1zdXBwb3J0LXJlcGVhbC1vZi1jb3N0YS1oYXdraW5zLXJlbnQtY29udHJvbC1jb25zdHJhaW50cy_SAQA?oc=5\" target=\"_blank\">State Democrats support repeal of Costa-Hawkins' rent control constraints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Almanac Online</font>"
+            ],
+            "source": [
+              {
+                "_": "The Almanac Online",
+                "$": {
+                  "url": "https://www.almanacnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ballot Measure To Repeal Costa-Hawkins Could Have Unintended Consequences - Capital Public Radio News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmNhcHJhZGlvLm9yZy9uZXdzL2luc2lnaHQvMjAxOC8wNi8yMS9pbnNpZ2h0LTA2MjExOGEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8vd3d3LmNhcHJhZGlvLm9yZy9uZXdzL2luc2lnaHQvMjAxOC8wNi8yMS9pbnNpZ2h0LTA2MjExOGEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Jun 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmNhcHJhZGlvLm9yZy9uZXdzL2luc2lnaHQvMjAxOC8wNi8yMS9pbnNpZ2h0LTA2MjExOGEv0gEA?oc=5\" target=\"_blank\">Ballot Measure To Repeal Costa-Hawkins Could Have Unintended Consequences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital Public Radio News</font>"
+            ],
+            "source": [
+              {
+                "_": "Capital Public Radio News",
+                "$": {
+                  "url": "https://www.capradio.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Op-Ed: Battle over Prop 21 Shows Wall Street Landlords Put Profits Over People - Streetsblog California"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vY2FsLnN0cmVldHNibG9nLm9yZy8yMDIwLzEwLzI4L29wLWVkLWJhdHRsZS1vdmVyLXByb3AtMjEtc2hvd3Mtd2FsbC1zdHJlZXQtbGFuZGxvcmRzLXB1dC1wcm9maXRzLW92ZXItcGVvcGxl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vY2FsLnN0cmVldHNibG9nLm9yZy8yMDIwLzEwLzI4L29wLWVkLWJhdHRsZS1vdmVyLXByb3AtMjEtc2hvd3Mtd2FsbC1zdHJlZXQtbGFuZGxvcmRzLXB1dC1wcm9maXRzLW92ZXItcGVvcGxl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 28 Oct 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vY2FsLnN0cmVldHNibG9nLm9yZy8yMDIwLzEwLzI4L29wLWVkLWJhdHRsZS1vdmVyLXByb3AtMjEtc2hvd3Mtd2FsbC1zdHJlZXQtbGFuZGxvcmRzLXB1dC1wcm9maXRzLW92ZXItcGVvcGxl0gEA?oc=5\" target=\"_blank\">Op-Ed: Battle over Prop 21 Shows Wall Street Landlords Put Profits Over People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Streetsblog California</font>"
+            ],
+            "source": [
+              {
+                "_": "Streetsblog California",
+                "$": {
+                  "url": "https://cal.streetsblog.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Prop. 21 Asks: Should Local Governments Be Allowed to Set Rent Control? (Transcript) - KQED"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE4NDE3NzkvcHJvcC0yMS1hc2tzLXNob3VsZC1sb2NhbC1nb3Zlcm5tZW50cy1iZS1hbGxvd2VkLXRvLXNldC1yZW50LWNvbnRyb2wtdHJhbnNjcmlwdNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE4NDE3NzkvcHJvcC0yMS1hc2tzLXNob3VsZC1sb2NhbC1nb3Zlcm5tZW50cy1iZS1hbGxvd2VkLXRvLXNldC1yZW50LWNvbnRyb2wtdHJhbnNjcmlwdNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 12 Oct 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE4NDE3NzkvcHJvcC0yMS1hc2tzLXNob3VsZC1sb2NhbC1nb3Zlcm5tZW50cy1iZS1hbGxvd2VkLXRvLXNldC1yZW50LWNvbnRyb2wtdHJhbnNjcmlwdNIBAA?oc=5\" target=\"_blank\">Prop. 21 Asks: Should Local Governments Be Allowed to Set Rent Control? (Transcript)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>"
+            ],
+            "source": [
+              {
+                "_": "KQED",
+                "$": {
+                  "url": "https://www.kqed.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Remaking Rent Control - San Francisco Public Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNmcHVibGljcHJlc3Mub3JnL3Nlcmllcy9yZW1ha2luZy1yZW50LWNvbnRyb2wv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiO2h0dHBzOi8vd3d3LnNmcHVibGljcHJlc3Mub3JnL3Nlcmllcy9yZW1ha2luZy1yZW50LWNvbnRyb2wv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 17 Oct 2020 23:44:22 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNmcHVibGljcHJlc3Mub3JnL3Nlcmllcy9yZW1ha2luZy1yZW50LWNvbnRyb2wv0gEA?oc=5\" target=\"_blank\">Remaking Rent Control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Public Press</font>"
+            ],
+            "source": [
+              {
+                "_": "San Francisco Public Press",
+                "$": {
+                  "url": "https://www.sfpublicpress.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Property Owners in Los Angeles Sue City Over Complex and Costly Rental Regulations - Westside Today"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd2VzdHNpZGV0b2RheS5jb20vMjAyMy8wMy8xMC9wcm9wZXJ0eS1vd25lcnMtaW4tbG9zLWFuZ2VsZXMtc3VlLWNpdHktb3Zlci1jb21wbGV4LWFuZC1jb3N0bHktcmVudGFsLXJlZ3VsYXRpb25zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd2VzdHNpZGV0b2RheS5jb20vMjAyMy8wMy8xMC9wcm9wZXJ0eS1vd25lcnMtaW4tbG9zLWFuZ2VsZXMtc3VlLWNpdHktb3Zlci1jb21wbGV4LWFuZC1jb3N0bHktcmVudGFsLXJlZ3VsYXRpb25zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd2VzdHNpZGV0b2RheS5jb20vMjAyMy8wMy8xMC9wcm9wZXJ0eS1vd25lcnMtaW4tbG9zLWFuZ2VsZXMtc3VlLWNpdHktb3Zlci1jb21wbGV4LWFuZC1jb3N0bHktcmVudGFsLXJlZ3VsYXRpb25zL9IBAA?oc=5\" target=\"_blank\">Property Owners in Los Angeles Sue City Over Complex and Costly Rental Regulations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Westside Today</font>"
+            ],
+            "source": [
+              {
+                "_": "Westside Today",
+                "$": {
+                  "url": "https://westsidetoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rent control in California: Proposal to lift restrictions blocked in committee - The Mercury News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzAxLzExL2NhbGlmb3JuaWEtY29uc2lkZXJzLXJlcGVhbGluZy1yZW50LWNvbnRyb2wtcmVzdHJpY3Rpb25zL9IBZGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzAxLzExL2NhbGlmb3JuaWEtY29uc2lkZXJzLXJlcGVhbGluZy1yZW50LWNvbnRyb2wtcmVzdHJpY3Rpb25zL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzAxLzExL2NhbGlmb3JuaWEtY29uc2lkZXJzLXJlcGVhbGluZy1yZW50LWNvbnRyb2wtcmVzdHJpY3Rpb25zL9IBZGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzAxLzExL2NhbGlmb3JuaWEtY29uc2lkZXJzLXJlcGVhbGluZy1yZW50LWNvbnRyb2wtcmVzdHJpY3Rpb25zL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 Jan 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzAxLzExL2NhbGlmb3JuaWEtY29uc2lkZXJzLXJlcGVhbGluZy1yZW50LWNvbnRyb2wtcmVzdHJpY3Rpb25zL9IBZGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzAxLzExL2NhbGlmb3JuaWEtY29uc2lkZXJzLXJlcGVhbGluZy1yZW50LWNvbnRyb2wtcmVzdHJpY3Rpb25zL2FtcC8?oc=5\" target=\"_blank\">Rent control in California: Proposal to lift restrictions blocked in committee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Mercury News",
+                "$": {
+                  "url": "https://www.mercurynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Will Voters Repeal Costa-Hawkins in 2018? - Beyond Chron"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vYmV5b25kY2hyb24ub3JnL3dpbGwtdm90ZXJzLXJlcGVhbC1jb3N0YS1oYXdraW5zLTIwMTgv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPmh0dHBzOi8vYmV5b25kY2hyb24ub3JnL3dpbGwtdm90ZXJzLXJlcGVhbC1jb3N0YS1oYXdraW5zLTIwMTgv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 26 Oct 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vYmV5b25kY2hyb24ub3JnL3dpbGwtdm90ZXJzLXJlcGVhbC1jb3N0YS1oYXdraW5zLTIwMTgv0gEA?oc=5\" target=\"_blank\">Will Voters Repeal Costa-Hawkins in 2018?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beyond Chron</font>"
+            ],
+            "source": [
+              {
+                "_": "Beyond Chron",
+                "$": {
+                  "url": "https://beyondchron.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Key LA Rent Control Measures Invalid, Lawsuit Says - The Real Deal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjMvMDMvMDYvYWFnbGEtbGF3c3VpdC1kZW1hbmRzLWxhLXJlcGVhbC1zb21lLXJlbnRlci1wcm90ZWN0aW9ucy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjMvMDMvMDYvYWFnbGEtbGF3c3VpdC1kZW1hbmRzLWxhLXJlcGVhbC1zb21lLXJlbnRlci1wcm90ZWN0aW9ucy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjMvMDMvMDYvYWFnbGEtbGF3c3VpdC1kZW1hbmRzLWxhLXJlcGVhbC1zb21lLXJlbnRlci1wcm90ZWN0aW9ucy_SAQA?oc=5\" target=\"_blank\">Key LA Rent Control Measures Invalid, Lawsuit Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>"
+            ],
+            "source": [
+              {
+                "_": "The Real Deal",
+                "$": {
+                  "url": "https://therealdeal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Californians Reject Rent Control — Again — in Defeat of Prop. 21 - KQED"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE4NDQ0MzgvY2FsaWZvcm5pYW5zLXJlamVjdC1yZW50LWNvbnRyb2wtYWdhaW4taW4tZGVmZWF0LW9mLXByb3Bvc2l0aW9uLTIx0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE4NDQ0MzgvY2FsaWZvcm5pYW5zLXJlamVjdC1yZW50LWNvbnRyb2wtYWdhaW4taW4tZGVmZWF0LW9mLXByb3Bvc2l0aW9uLTIx0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Nov 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE4NDQ0MzgvY2FsaWZvcm5pYW5zLXJlamVjdC1yZW50LWNvbnRyb2wtYWdhaW4taW4tZGVmZWF0LW9mLXByb3Bvc2l0aW9uLTIx0gEA?oc=5\" target=\"_blank\">Californians Reject Rent Control — Again — in Defeat of Prop. 21</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>"
+            ],
+            "source": [
+              {
+                "_": "KQED",
+                "$": {
+                  "url": "https://www.kqed.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bill to Expand Rent Control in California Stalls in Legislature - KQED"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE3NDI3OTEvYmlsbC10by1leHBhbmQtcmVudC1jb250cm9sLWluLWNhbGlmb3JuaWEtc3RhbGxzLWluLWxlZ2lzbGF0dXJl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE3NDI3OTEvYmlsbC10by1leHBhbmQtcmVudC1jb250cm9sLWluLWNhbGlmb3JuaWEtc3RhbGxzLWluLWxlZ2lzbGF0dXJl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Apr 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE3NDI3OTEvYmlsbC10by1leHBhbmQtcmVudC1jb250cm9sLWluLWNhbGlmb3JuaWEtc3RhbGxzLWluLWxlZ2lzbGF0dXJl0gEA?oc=5\" target=\"_blank\">Bill to Expand Rent Control in California Stalls in Legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>"
+            ],
+            "source": [
+              {
+                "_": "KQED",
+                "$": {
+                  "url": "https://www.kqed.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Vote Yes on Prop 10 and Repeal Costa-Hawkins - Knock LA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8va25vY2stbGEuY29tL2EtcmV2b2x1dGlvbi1mb3ItY2FsaWZvcm5pYS1ob3VzaW5nLXJlcGVhbGluZy1jb3N0YS1oYXdraW5zLTIyYjMxMmZjZjg5MC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8va25vY2stbGEuY29tL2EtcmV2b2x1dGlvbi1mb3ItY2FsaWZvcm5pYS1ob3VzaW5nLXJlcGVhbGluZy1jb3N0YS1oYXdraW5zLTIyYjMxMmZjZjg5MC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 Jan 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8va25vY2stbGEuY29tL2EtcmV2b2x1dGlvbi1mb3ItY2FsaWZvcm5pYS1ob3VzaW5nLXJlcGVhbGluZy1jb3N0YS1oYXdraW5zLTIyYjMxMmZjZjg5MC_SAQA?oc=5\" target=\"_blank\">Vote Yes on Prop 10 and Repeal Costa-Hawkins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Knock LA</font>"
+            ],
+            "source": [
+              {
+                "_": "Knock LA",
+                "$": {
+                  "url": "https://knock-la.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "%%title%% - LAmag - Culture, Food, Fashion, News & Los Angeles - Los Angeles Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbGFtYWcuY29tL2ZlYXR1cmVkL2NhbGlmb3JuaWEtcmVudC1jb250cm9sLWxhdy1sYW5kbG9yZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vbGFtYWcuY29tL2ZlYXR1cmVkL2NhbGlmb3JuaWEtcmVudC1jb250cm9sLWxhdy1sYW5kbG9yZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 11 Oct 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbGFtYWcuY29tL2ZlYXR1cmVkL2NhbGlmb3JuaWEtcmVudC1jb250cm9sLWxhdy1sYW5kbG9yZNIBAA?oc=5\" target=\"_blank\">%%title%% - LAmag - Culture, Food, Fashion, News & Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Los Angeles Magazine",
+                "$": {
+                  "url": "https://lamag.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Remaking Rent Control — if Voters Approve - San Francisco Public Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnNmcHVibGljcHJlc3Mub3JnL3JlbWFraW5nLXJlbnQtY29udHJvbC1pZi12b3RlcnMtYXBwcm92ZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3LnNmcHVibGljcHJlc3Mub3JnL3JlbWFraW5nLXJlbnQtY29udHJvbC1pZi12b3RlcnMtYXBwcm92ZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Aug 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnNmcHVibGljcHJlc3Mub3JnL3JlbWFraW5nLXJlbnQtY29udHJvbC1pZi12b3RlcnMtYXBwcm92ZS_SAQA?oc=5\" target=\"_blank\">Remaking Rent Control — if Voters Approve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Public Press</font>"
+            ],
+            "source": [
+              {
+                "_": "San Francisco Public Press",
+                "$": {
+                  "url": "https://www.sfpublicpress.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New California law caps rent hikes. What does it mean for tenants, landlords? - Sacramento Bee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTIzNTMyMDc3Ny5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjM1MzIwNzc3Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTIzNTMyMDc3Ny5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjM1MzIwNzc3Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Oct 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTIzNTMyMDc3Ny5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjM1MzIwNzc3Lmh0bWw?oc=5\" target=\"_blank\">New California law caps rent hikes. What does it mean for tenants, landlords?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>"
+            ],
+            "source": [
+              {
+                "_": "Sacramento Bee",
+                "$": {
+                  "url": "https://www.sacbee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California apartment giant Essex spends big to defeat rent control measure - San Francisco Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9idXNpbmVzcy9uZXR3b3J0aC9hcnRpY2xlL0NhbGlmb3JuaWEtYXBhcnRtZW50LWdpYW50LUVzc2V4LXNwZW5kcy1iaWctdG8tMTMxMzEzMDEucGhw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9idXNpbmVzcy9uZXR3b3J0aC9hcnRpY2xlL0NhbGlmb3JuaWEtYXBhcnRtZW50LWdpYW50LUVzc2V4LXNwZW5kcy1iaWctdG8tMTMxMzEzMDEucGhw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 04 Aug 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9idXNpbmVzcy9uZXR3b3J0aC9hcnRpY2xlL0NhbGlmb3JuaWEtYXBhcnRtZW50LWdpYW50LUVzc2V4LXNwZW5kcy1iaWctdG8tMTMxMzEzMDEucGhw0gEA?oc=5\" target=\"_blank\">California apartment giant Essex spends big to defeat rent control measure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "San Francisco Chronicle",
+                "$": {
+                  "url": "https://www.sfchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What You Need to Know About California’s New Statewide “Rent Control” and “Just Cause” Eviction Laws - JD Supra"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy93aGF0LXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtY2FsaWZvcm5pYS00OTUwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy93aGF0LXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtY2FsaWZvcm5pYS00OTUwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy93aGF0LXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtY2FsaWZvcm5pYS00OTUwNy_SAQA?oc=5\" target=\"_blank\">What You Need to Know About California’s New Statewide “Rent Control” and “Just Cause” Eviction Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>"
+            ],
+            "source": [
+              {
+                "_": "JD Supra",
+                "$": {
+                  "url": "https://www.jdsupra.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AIDS group kicks in $10 million more to expand rent control - San Francisco Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9idXNpbmVzcy9uZXR3b3J0aC9hcnRpY2xlL0FJRFMtZ3JvdXAta2lja3MtaW4tMTAtbWlsbGlvbi1tb3JlLXRvLWV4cGFuZC0xMzE0MjI0My5waHDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9idXNpbmVzcy9uZXR3b3J0aC9hcnRpY2xlL0FJRFMtZ3JvdXAta2lja3MtaW4tMTAtbWlsbGlvbi1tb3JlLXRvLWV4cGFuZC0xMzE0MjI0My5waHDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Aug 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9idXNpbmVzcy9uZXR3b3J0aC9hcnRpY2xlL0FJRFMtZ3JvdXAta2lja3MtaW4tMTAtbWlsbGlvbi1tb3JlLXRvLWV4cGFuZC0xMzE0MjI0My5waHDSAQA?oc=5\" target=\"_blank\">AIDS group kicks in $10 million more to expand rent control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "San Francisco Chronicle",
+                "$": {
+                  "url": "https://www.sfchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rent control proposition defeated in California - Salon"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDE4LzExLzA3L3JlbnQtY29udHJvbC1wcm9wb3NpdGlvbi1kZWZlYXRlZC1pbi1jYWxpZm9ybmlhL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDE4LzExLzA3L3JlbnQtY29udHJvbC1wcm9wb3NpdGlvbi1kZWZlYXRlZC1pbi1jYWxpZm9ybmlhL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Nov 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDE4LzExLzA3L3JlbnQtY29udHJvbC1wcm9wb3NpdGlvbi1kZWZlYXRlZC1pbi1jYWxpZm9ybmlhL9IBAA?oc=5\" target=\"_blank\">Rent control proposition defeated in California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salon</font>"
+            ],
+            "source": [
+              {
+                "_": "Salon",
+                "$": {
+                  "url": "https://www.salon.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Here's What LA Tenants Won and Lost This Winter - Knock LA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8va25vY2stbGEuY29tL2hlcmVzLXdoYXQtbGEtdGVuYW50cy13b24tYW5kLWxvc3QtdGhpcy13aW50ZXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8va25vY2stbGEuY29tL2hlcmVzLXdoYXQtbGEtdGVuYW50cy13b24tYW5kLWxvc3QtdGhpcy13aW50ZXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8va25vY2stbGEuY29tL2hlcmVzLXdoYXQtbGEtdGVuYW50cy13b24tYW5kLWxvc3QtdGhpcy13aW50ZXIv0gEA?oc=5\" target=\"_blank\">Here's What LA Tenants Won and Lost This Winter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Knock LA</font>"
+            ],
+            "source": [
+              {
+                "_": "Knock LA",
+                "$": {
+                  "url": "https://knock-la.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bid to repeal rent-control limits in California could be headed to ballot - San Francisco Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9iYXlhcmVhL2FydGljbGUvQmlkLXRvLXJlcGVhbC1yZW50LWNvbnRyb2wtbGltaXRzLWluLUNhbGlmb3JuaWEtMTI4NTI0NjMucGhw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9iYXlhcmVhL2FydGljbGUvQmlkLXRvLXJlcGVhbC1yZW50LWNvbnRyb2wtbGltaXRzLWluLUNhbGlmb3JuaWEtMTI4NTI0NjMucGhw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Apr 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9iYXlhcmVhL2FydGljbGUvQmlkLXRvLXJlcGVhbC1yZW50LWNvbnRyb2wtbGltaXRzLWluLUNhbGlmb3JuaWEtMTI4NTI0NjMucGhw0gEA?oc=5\" target=\"_blank\">Bid to repeal rent-control limits in California could be headed to ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "San Francisco Chronicle",
+                "$": {
+                  "url": "https://www.sfchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New rent cap supplements local rent control rules - - Santa Monica Daily Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc21kcC5jb20vMjAxOS8wOS8xOC9uZXctcmVudC1jYXAtc3VwcGxlbWVudHMtbG9jYWwtcmVudC1jb250cm9sLXJ1bGVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vc21kcC5jb20vMjAxOS8wOS8xOC9uZXctcmVudC1jYXAtc3VwcGxlbWVudHMtbG9jYWwtcmVudC1jb250cm9sLXJ1bGVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Sep 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc21kcC5jb20vMjAxOS8wOS8xOC9uZXctcmVudC1jYXAtc3VwcGxlbWVudHMtbG9jYWwtcmVudC1jb250cm9sLXJ1bGVzL9IBAA?oc=5\" target=\"_blank\">New rent cap supplements local rent control rules -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Santa Monica Daily Press",
+                "$": {
+                  "url": "https://smdp.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Blackstone Spends Huge to Kill California Rent Control - The American Prospect"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vcHJvc3BlY3Qub3JnL3Bvd2VyL2JsYWNrc3RvbmUtc3BlbmRzLWh1Z2Uta2lsbC1jYWxpZm9ybmlhLXJlbnQtY29udHJvbC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vcHJvc3BlY3Qub3JnL3Bvd2VyL2JsYWNrc3RvbmUtc3BlbmRzLWh1Z2Uta2lsbC1jYWxpZm9ybmlhLXJlbnQtY29udHJvbC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vcHJvc3BlY3Qub3JnL3Bvd2VyL2JsYWNrc3RvbmUtc3BlbmRzLWh1Z2Uta2lsbC1jYWxpZm9ybmlhLXJlbnQtY29udHJvbC_SAQA?oc=5\" target=\"_blank\">Blackstone Spends Huge to Kill California Rent Control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The American Prospect</font>"
+            ],
+            "source": [
+              {
+                "_": "The American Prospect",
+                "$": {
+                  "url": "https://prospect.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Racially Charged Ad Puts L.A. AIDS Group Back in Middle of Housing Debates - KQED"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE3NDE4OTYvcmFjaWFsbHktY2hhcmdlZC1hZC1wdXRzLWwtYS1haWRzLWdyb3VwLWJhY2staW4tbWlkZGxlLW9mLWhvdXNpbmctZGViYXRlc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE3NDE4OTYvcmFjaWFsbHktY2hhcmdlZC1hZC1wdXRzLWwtYS1haWRzLWdyb3VwLWJhY2staW4tbWlkZGxlLW9mLWhvdXNpbmctZGViYXRlc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Apr 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE3NDE4OTYvcmFjaWFsbHktY2hhcmdlZC1hZC1wdXRzLWwtYS1haWRzLWdyb3VwLWJhY2staW4tbWlkZGxlLW9mLWhvdXNpbmctZGViYXRlc9IBAA?oc=5\" target=\"_blank\">Racially Charged Ad Puts L.A. AIDS Group Back in Middle of Housing Debates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>"
+            ],
+            "source": [
+              {
+                "_": "KQED",
+                "$": {
+                  "url": "https://www.kqed.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Oxnard takes first step toward rent control - VC Star"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnZjc3Rhci5jb20vc3RvcnkvbmV3cy8yMDIyLzA0LzE1L294bmFyZC10YWtlcy1maXJzdC1zdGVwLXRvd2FyZC1yZW50LWNvbnRyb2wvNzMyNjAyMjAwMS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LnZjc3Rhci5jb20vc3RvcnkvbmV3cy8yMDIyLzA0LzE1L294bmFyZC10YWtlcy1maXJzdC1zdGVwLXRvd2FyZC1yZW50LWNvbnRyb2wvNzMyNjAyMjAwMS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnZjc3Rhci5jb20vc3RvcnkvbmV3cy8yMDIyLzA0LzE1L294bmFyZC10YWtlcy1maXJzdC1zdGVwLXRvd2FyZC1yZW50LWNvbnRyb2wvNzMyNjAyMjAwMS_SAQA?oc=5\" target=\"_blank\">Oxnard takes first step toward rent control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VC Star</font>"
+            ],
+            "source": [
+              {
+                "_": "VC Star",
+                "$": {
+                  "url": "https://www.vcstar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What You Need to Know About Rent Control - KQED"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE2NjY0MjYvd2hhdC15b3UtbmVlZC10by1rbm93LWFib3V0LXJlbnQtY29udHJvbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE2NjY0MjYvd2hhdC15b3UtbmVlZC10by1rbm93LWFib3V0LXJlbnQtY29udHJvbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 May 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmtxZWQub3JnL25ld3MvMTE2NjY0MjYvd2hhdC15b3UtbmVlZC10by1rbm93LWFib3V0LXJlbnQtY29udHJvbNIBAA?oc=5\" target=\"_blank\">What You Need to Know About Rent Control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>"
+            ],
+            "source": [
+              {
+                "_": "KQED",
+                "$": {
+                  "url": "https://www.kqed.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Make No Mistake – Rent Control Laws Apply To Single-Family Homes - JD Supra"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9tYWtlLW5vLW1pc3Rha2UtcmVudC1jb250cm9sLWxhd3MtYXBwbHktODA5NzIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9tYWtlLW5vLW1pc3Rha2UtcmVudC1jb250cm9sLWxhd3MtYXBwbHktODA5NzIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jun 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9tYWtlLW5vLW1pc3Rha2UtcmVudC1jb250cm9sLWxhd3MtYXBwbHktODA5NzIv0gEA?oc=5\" target=\"_blank\">Make No Mistake – Rent Control Laws Apply To Single-Family Homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>"
+            ],
+            "source": [
+              {
+                "_": "JD Supra",
+                "$": {
+                  "url": "https://www.jdsupra.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UC Berkeley professor blames rent control for California's housing shortage - Curbed SF"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc2YuY3VyYmVkLmNvbS8yMDE4LzkvNS8xNzgyNDAzOC9iZXJrZWxleS1zdHVkeS1yZW50LWNvbnRyb2wtcHJvcC0xMC1jb3N0YS1oYXdraW5z0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vc2YuY3VyYmVkLmNvbS8yMDE4LzkvNS8xNzgyNDAzOC9iZXJrZWxleS1zdHVkeS1yZW50LWNvbnRyb2wtcHJvcC0xMC1jb3N0YS1oYXdraW5z0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Sep 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc2YuY3VyYmVkLmNvbS8yMDE4LzkvNS8xNzgyNDAzOC9iZXJrZWxleS1zdHVkeS1yZW50LWNvbnRyb2wtcHJvcC0xMC1jb3N0YS1oYXdraW5z0gEA?oc=5\" target=\"_blank\">UC Berkeley professor blames rent control for California's housing shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Curbed SF</font>"
+            ],
+            "source": [
+              {
+                "_": "Curbed SF",
+                "$": {
+                  "url": "https://sf.curbed.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Q&A: The few California lawmakers who are renters form caucus to advocate for tenants - OCRegister"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjIvMTEvMjgvcWEtdGhlLWZldy1zdGF0ZS1sYXdtYWtlcnMtd2hvLWFyZS1yZW50ZXJzLWZvcm0tbmV3LWNhdWN1cy10by1hZHZvY2F0ZS1mb3ItdGVuYW50cy_SAX1odHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDIyLzExLzI4L3FhLXRoZS1mZXctc3RhdGUtbGF3bWFrZXJzLXdoby1hcmUtcmVudGVycy1mb3JtLW5ldy1jYXVjdXMtdG8tYWR2b2NhdGUtZm9yLXRlbmFudHMvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjIvMTEvMjgvcWEtdGhlLWZldy1zdGF0ZS1sYXdtYWtlcnMtd2hvLWFyZS1yZW50ZXJzLWZvcm0tbmV3LWNhdWN1cy10by1hZHZvY2F0ZS1mb3ItdGVuYW50cy_SAX1odHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDIyLzExLzI4L3FhLXRoZS1mZXctc3RhdGUtbGF3bWFrZXJzLXdoby1hcmUtcmVudGVycy1mb3JtLW5ldy1jYXVjdXMtdG8tYWR2b2NhdGUtZm9yLXRlbmFudHMvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 28 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjIvMTEvMjgvcWEtdGhlLWZldy1zdGF0ZS1sYXdtYWtlcnMtd2hvLWFyZS1yZW50ZXJzLWZvcm0tbmV3LWNhdWN1cy10by1hZHZvY2F0ZS1mb3ItdGVuYW50cy_SAX1odHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDIyLzExLzI4L3FhLXRoZS1mZXctc3RhdGUtbGF3bWFrZXJzLXdoby1hcmUtcmVudGVycy1mb3JtLW5ldy1jYXVjdXMtdG8tYWR2b2NhdGUtZm9yLXRlbmFudHMvYW1wLw?oc=5\" target=\"_blank\">Q&A: The few California lawmakers who are renters form caucus to advocate for tenants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OCRegister</font>"
+            ],
+            "source": [
+              {
+                "_": "OCRegister",
+                "$": {
+                  "url": "https://www.ocregister.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Why hundreds of Californians were rallying for rent control at the State Capitol - ABC10.com KXTV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5hYmMxMC5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL3doeS1odW5kcmVkcy1vZi1jYWxpZm9ybmlhbnMtd2VyZS1yYWxseWluZy1mb3ItcmVudC1jb250cm9sLWF0LXRoZS1zdGF0ZS1jYXBpdG9sLzEwMy01NDQ5ODE4MDXSAZYBaHR0cHM6Ly93d3cuYWJjMTAuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvc2FjcmFtZW50by93aHktaHVuZHJlZHMtb2YtY2FsaWZvcm5pYW5zLXdlcmUtcmFsbHlpbmctZm9yLXJlbnQtY29udHJvbC1hdC10aGUtc3RhdGUtY2FwaXRvbC8xMDMtNTQ0OTgxODA1?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5hYmMxMC5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL3doeS1odW5kcmVkcy1vZi1jYWxpZm9ybmlhbnMtd2VyZS1yYWxseWluZy1mb3ItcmVudC1jb250cm9sLWF0LXRoZS1zdGF0ZS1jYXBpdG9sLzEwMy01NDQ5ODE4MDXSAZYBaHR0cHM6Ly93d3cuYWJjMTAuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvc2FjcmFtZW50by93aHktaHVuZHJlZHMtb2YtY2FsaWZvcm5pYW5zLXdlcmUtcmFsbHlpbmctZm9yLXJlbnQtY29udHJvbC1hdC10aGUtc3RhdGUtY2FwaXRvbC8xMDMtNTQ0OTgxODA1",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Apr 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5hYmMxMC5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL3doeS1odW5kcmVkcy1vZi1jYWxpZm9ybmlhbnMtd2VyZS1yYWxseWluZy1mb3ItcmVudC1jb250cm9sLWF0LXRoZS1zdGF0ZS1jYXBpdG9sLzEwMy01NDQ5ODE4MDXSAZYBaHR0cHM6Ly93d3cuYWJjMTAuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvc2FjcmFtZW50by93aHktaHVuZHJlZHMtb2YtY2FsaWZvcm5pYW5zLXdlcmUtcmFsbHlpbmctZm9yLXJlbnQtY29udHJvbC1hdC10aGUtc3RhdGUtY2FwaXRvbC8xMDMtNTQ0OTgxODA1?oc=5\" target=\"_blank\">Why hundreds of Californians were rallying for rent control at the State Capitol</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC10.com KXTV</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC10.com KXTV",
+                "$": {
+                  "url": "https://www.abc10.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Appeals court upholds San Francisco law protecting tenants from 'eviction by another name' - San Francisco Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9iYXlhcmVhL2FydGljbGUvQXBwZWFscy1jb3VydC11cGhvbGRzLVNhbi1GcmFuY2lzY28tbGF3LTE2ODAxMzEyLnBocNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9iYXlhcmVhL2FydGljbGUvQXBwZWFscy1jb3VydC11cGhvbGRzLVNhbi1GcmFuY2lzY28tbGF3LTE2ODAxMzEyLnBocNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9iYXlhcmVhL2FydGljbGUvQXBwZWFscy1jb3VydC11cGhvbGRzLVNhbi1GcmFuY2lzY28tbGF3LTE2ODAxMzEyLnBocNIBAA?oc=5\" target=\"_blank\">Appeals court upholds San Francisco law protecting tenants from 'eviction by another name'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "San Francisco Chronicle",
+                "$": {
+                  "url": "https://www.sfchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How reinstating rent control policy could create ripple effect in California - The Mercury News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzA5LzI3L2NhbGlmb3JuaWEtYW5kLXJlbnQtY29udHJvbC13aGF0LXdlLWNhbi1sZWFybi1mcm9tLWJlcmtlbGV5LWFuZC1zYW50YS1tb25pY2Ev0gF4aHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMDkvMjcvY2FsaWZvcm5pYS1hbmQtcmVudC1jb250cm9sLXdoYXQtd2UtY2FuLWxlYXJuLWZyb20tYmVya2VsZXktYW5kLXNhbnRhLW1vbmljYS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzA5LzI3L2NhbGlmb3JuaWEtYW5kLXJlbnQtY29udHJvbC13aGF0LXdlLWNhbi1sZWFybi1mcm9tLWJlcmtlbGV5LWFuZC1zYW50YS1tb25pY2Ev0gF4aHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMDkvMjcvY2FsaWZvcm5pYS1hbmQtcmVudC1jb250cm9sLXdoYXQtd2UtY2FuLWxlYXJuLWZyb20tYmVya2VsZXktYW5kLXNhbnRhLW1vbmljYS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Sep 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzA5LzI3L2NhbGlmb3JuaWEtYW5kLXJlbnQtY29udHJvbC13aGF0LXdlLWNhbi1sZWFybi1mcm9tLWJlcmtlbGV5LWFuZC1zYW50YS1tb25pY2Ev0gF4aHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMDkvMjcvY2FsaWZvcm5pYS1hbmQtcmVudC1jb250cm9sLXdoYXQtd2UtY2FuLWxlYXJuLWZyb20tYmVya2VsZXktYW5kLXNhbnRhLW1vbmljYS9hbXAv?oc=5\" target=\"_blank\">How reinstating rent control policy could create ripple effect in California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Mercury News",
+                "$": {
+                  "url": "https://www.mercurynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California Rent Control Initiative Supporters, Opponents Sought Deal To Avoid Ballot Fight — But Failed - Capital Public Radio News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5jYXByYWRpby5vcmcvYXJ0aWNsZXMvMjAxOC8wNi8yMi9jYWxpZm9ybmlhLXJlbnQtY29udHJvbC1pbml0aWF0aXZlLXN1cHBvcnRlcnMtb3Bwb25lbnRzLXNvdWdodC1kZWFsLXRvLWF2b2lkLWJhbGxvdC1maWdodC1idXQtZmFpbGVkL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3d3dy5jYXByYWRpby5vcmcvYXJ0aWNsZXMvMjAxOC8wNi8yMi9jYWxpZm9ybmlhLXJlbnQtY29udHJvbC1pbml0aWF0aXZlLXN1cHBvcnRlcnMtb3Bwb25lbnRzLXNvdWdodC1kZWFsLXRvLWF2b2lkLWJhbGxvdC1maWdodC1idXQtZmFpbGVkL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Jun 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5jYXByYWRpby5vcmcvYXJ0aWNsZXMvMjAxOC8wNi8yMi9jYWxpZm9ybmlhLXJlbnQtY29udHJvbC1pbml0aWF0aXZlLXN1cHBvcnRlcnMtb3Bwb25lbnRzLXNvdWdodC1kZWFsLXRvLWF2b2lkLWJhbGxvdC1maWdodC1idXQtZmFpbGVkL9IBAA?oc=5\" target=\"_blank\">California Rent Control Initiative Supporters, Opponents Sought Deal To Avoid Ballot Fight — But Failed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital Public Radio News</font>"
+            ],
+            "source": [
+              {
+                "_": "Capital Public Radio News",
+                "$": {
+                  "url": "https://www.capradio.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Prop. 10: California rent control expansion defeated - San Francisco Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL1Byb3AtMTAtQ2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtZXhwYW5zaW9uLTEzMzY5Mjg0LnBocNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL1Byb3AtMTAtQ2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtZXhwYW5zaW9uLTEzMzY5Mjg0LnBocNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Nov 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL1Byb3AtMTAtQ2FsaWZvcm5pYS1yZW50LWNvbnRyb2wtZXhwYW5zaW9uLTEzMzY5Mjg0LnBocNIBAA?oc=5\" target=\"_blank\">Prop. 10: California rent control expansion defeated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "San Francisco Chronicle",
+                "$": {
+                  "url": "https://www.sfchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rent Control Lawsuit: What the Apartment Association Said on Friday – Pasadena Now - Pasadena Now"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnBhc2FkZW5hbm93LmNvbS9tYWluL3JlbnQtY29udHJvbC1sYXdzdWl0LXdoYXQtdGhlLWFwYXJ0bWVudC1hc3NvY2lhdGlvbi1zYWlkLW9uLWZyaWRhedIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LnBhc2FkZW5hbm93LmNvbS9tYWluL3JlbnQtY29udHJvbC1sYXdzdWl0LXdoYXQtdGhlLWFwYXJ0bWVudC1hc3NvY2lhdGlvbi1zYWlkLW9uLWZyaWRhedIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 16 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnBhc2FkZW5hbm93LmNvbS9tYWluL3JlbnQtY29udHJvbC1sYXdzdWl0LXdoYXQtdGhlLWFwYXJ0bWVudC1hc3NvY2lhdGlvbi1zYWlkLW9uLWZyaWRhedIBAA?oc=5\" target=\"_blank\">Rent Control Lawsuit: What the Apartment Association Said on Friday – Pasadena Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Now</font>"
+            ],
+            "source": [
+              {
+                "_": "Pasadena Now",
+                "$": {
+                  "url": "https://www.pasadenanow.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "City leaders say they can't stop all LA landlords from raising your rent - Curbed LA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDIwLzQvMjMvMjEyMzI4MDUvcmVudC1jb250cm9sLWluY3JlYXNlcy1jb3JvbmF2aXJ1cy1ydWxlc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDIwLzQvMjMvMjEyMzI4MDUvcmVudC1jb250cm9sLWluY3JlYXNlcy1jb3JvbmF2aXJ1cy1ydWxlc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Apr 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDIwLzQvMjMvMjEyMzI4MDUvcmVudC1jb250cm9sLWluY3JlYXNlcy1jb3JvbmF2aXJ1cy1ydWxlc9IBAA?oc=5\" target=\"_blank\">City leaders say they can't stop all LA landlords from raising your rent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Curbed LA</font>"
+            ],
+            "source": [
+              {
+                "_": "Curbed LA",
+                "$": {
+                  "url": "https://la.curbed.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Renters rally to repeal California’s rent-control restrictions - The Mercury News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzA0LzIzL3JlbnRlcnMtcmFsbHktdG8tcmVwZWFsLWNhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1yZXN0cmljdGlvbnMv0gFpaHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMDQvMjMvcmVudGVycy1yYWxseS10by1yZXBlYWwtY2FsaWZvcm5pYXMtcmVudC1jb250cm9sLXJlc3RyaWN0aW9ucy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzA0LzIzL3JlbnRlcnMtcmFsbHktdG8tcmVwZWFsLWNhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1yZXN0cmljdGlvbnMv0gFpaHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMDQvMjMvcmVudGVycy1yYWxseS10by1yZXBlYWwtY2FsaWZvcm5pYXMtcmVudC1jb250cm9sLXJlc3RyaWN0aW9ucy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Apr 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzA0LzIzL3JlbnRlcnMtcmFsbHktdG8tcmVwZWFsLWNhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1yZXN0cmljdGlvbnMv0gFpaHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMDQvMjMvcmVudGVycy1yYWxseS10by1yZXBlYWwtY2FsaWZvcm5pYXMtcmVudC1jb250cm9sLXJlc3RyaWN0aW9ucy9hbXAv?oc=5\" target=\"_blank\">Renters rally to repeal California’s rent-control restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Mercury News",
+                "$": {
+                  "url": "https://www.mercurynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Big money pours into California rent-control initiative - Santa Cruz Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNhbnRhY3J1enNlbnRpbmVsLmNvbS9tYXJrZXRwbGFjZS8yMDE4MDgwOC9iaWctbW9uZXktcG91cnMtaW50by1jYWxpZm9ybmlhLXJlbnQtY29udHJvbC1pbml0aWF0aXZlL9IBaWh0dHBzOi8vd3d3LnNhbnRhY3J1enNlbnRpbmVsLmNvbS8yMDE4LzA4LzA4L2JpZy1tb25leS1wb3Vycy1pbnRvLWNhbGlmb3JuaWEtcmVudC1jb250cm9sLWluaXRpYXRpdmUvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LnNhbnRhY3J1enNlbnRpbmVsLmNvbS9tYXJrZXRwbGFjZS8yMDE4MDgwOC9iaWctbW9uZXktcG91cnMtaW50by1jYWxpZm9ybmlhLXJlbnQtY29udHJvbC1pbml0aWF0aXZlL9IBaWh0dHBzOi8vd3d3LnNhbnRhY3J1enNlbnRpbmVsLmNvbS8yMDE4LzA4LzA4L2JpZy1tb25leS1wb3Vycy1pbnRvLWNhbGlmb3JuaWEtcmVudC1jb250cm9sLWluaXRpYXRpdmUvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Aug 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNhbnRhY3J1enNlbnRpbmVsLmNvbS9tYXJrZXRwbGFjZS8yMDE4MDgwOC9iaWctbW9uZXktcG91cnMtaW50by1jYWxpZm9ybmlhLXJlbnQtY29udHJvbC1pbml0aWF0aXZlL9IBaWh0dHBzOi8vd3d3LnNhbnRhY3J1enNlbnRpbmVsLmNvbS8yMDE4LzA4LzA4L2JpZy1tb25leS1wb3Vycy1pbnRvLWNhbGlmb3JuaWEtcmVudC1jb250cm9sLWluaXRpYXRpdmUvYW1wLw?oc=5\" target=\"_blank\">Big money pours into California rent-control initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Cruz Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Santa Cruz Sentinel",
+                "$": {
+                  "url": "https://www.santacruzsentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "After a real-estate deal that triggered $1,000 rent hikes, Oakland families face eviction - The Mercury News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzA1LzE5L2ZvdXItZmFtaWxpZXMtd2VyZS1oaXQtd2l0aC0xMDAwLXJlbnQtaW5jcmVhc2VzLXRoZXktY2FudC1hZmZvcmQv0gFsaHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMDUvMTkvZm91ci1mYW1pbGllcy13ZXJlLWhpdC13aXRoLTEwMDAtcmVudC1pbmNyZWFzZXMtdGhleS1jYW50LWFmZm9yZC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzA1LzE5L2ZvdXItZmFtaWxpZXMtd2VyZS1oaXQtd2l0aC0xMDAwLXJlbnQtaW5jcmVhc2VzLXRoZXktY2FudC1hZmZvcmQv0gFsaHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMDUvMTkvZm91ci1mYW1pbGllcy13ZXJlLWhpdC13aXRoLTEwMDAtcmVudC1pbmNyZWFzZXMtdGhleS1jYW50LWFmZm9yZC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 19 May 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzA1LzE5L2ZvdXItZmFtaWxpZXMtd2VyZS1oaXQtd2l0aC0xMDAwLXJlbnQtaW5jcmVhc2VzLXRoZXktY2FudC1hZmZvcmQv0gFsaHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMDUvMTkvZm91ci1mYW1pbGllcy13ZXJlLWhpdC13aXRoLTEwMDAtcmVudC1pbmNyZWFzZXMtdGhleS1jYW50LWFmZm9yZC9hbXAv?oc=5\" target=\"_blank\">After a real-estate deal that triggered $1,000 rent hikes, Oakland families face eviction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Mercury News",
+                "$": {
+                  "url": "https://www.mercurynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California’s rent-control measure defeated - The Mercury News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzExLzA2L2NhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1tZWFzdXJlLWRlZmVhdGVkL9IBVWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzExLzA2L2NhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1tZWFzdXJlLWRlZmVhdGVkL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzExLzA2L2NhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1tZWFzdXJlLWRlZmVhdGVkL9IBVWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzExLzA2L2NhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1tZWFzdXJlLWRlZmVhdGVkL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Nov 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzExLzA2L2NhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1tZWFzdXJlLWRlZmVhdGVkL9IBVWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzExLzA2L2NhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1tZWFzdXJlLWRlZmVhdGVkL2FtcC8?oc=5\" target=\"_blank\">California’s rent-control measure defeated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Mercury News",
+                "$": {
+                  "url": "https://www.mercurynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Proposition 10: California’s rent-control ballot measure explained - The Mercury News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzEwLzE0L2NhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1iYWxsb3QtbWVhc3VyZS1leHBsYWluZWQv0gFdaHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMTAvMTQvY2FsaWZvcm5pYXMtcmVudC1jb250cm9sLWJhbGxvdC1tZWFzdXJlLWV4cGxhaW5lZC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzEwLzE0L2NhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1iYWxsb3QtbWVhc3VyZS1leHBsYWluZWQv0gFdaHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMTAvMTQvY2FsaWZvcm5pYXMtcmVudC1jb250cm9sLWJhbGxvdC1tZWFzdXJlLWV4cGxhaW5lZC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 14 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm1lcmN1cnluZXdzLmNvbS8yMDE4LzEwLzE0L2NhbGlmb3JuaWFzLXJlbnQtY29udHJvbC1iYWxsb3QtbWVhc3VyZS1leHBsYWluZWQv0gFdaHR0cHM6Ly93d3cubWVyY3VyeW5ld3MuY29tLzIwMTgvMTAvMTQvY2FsaWZvcm5pYXMtcmVudC1jb250cm9sLWJhbGxvdC1tZWFzdXJlLWV4cGxhaW5lZC9hbXAv?oc=5\" target=\"_blank\">Proposition 10: California’s rent-control ballot measure explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Mercury News",
+                "$": {
+                  "url": "https://www.mercurynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Meet the biggest players in the battle over rent control expansion - San Francisco Business Times - The Business Journals"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zYW5mcmFuY2lzY28vbmV3cy8yMDE4LzEwLzA5L3Byb3AtMTAtcmVudC1jb250cm9sLWJpZ2dlc3QtZG9ub3JzLWJsYWNrc3RvbmUuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zYW5mcmFuY2lzY28vbmV3cy8yMDE4LzEwLzA5L3Byb3AtMTAtcmVudC1jb250cm9sLWJpZ2dlc3QtZG9ub3JzLWJsYWNrc3RvbmUuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zYW5mcmFuY2lzY28vbmV3cy8yMDE4LzEwLzA5L3Byb3AtMTAtcmVudC1jb250cm9sLWJpZ2dlc3QtZG9ub3JzLWJsYWNrc3RvbmUuaHRtbNIBAA?oc=5\" target=\"_blank\">Meet the biggest players in the battle over rent control expansion - San Francisco Business Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>"
+            ],
+            "source": [
+              {
+                "_": "The Business Journals",
+                "$": {
+                  "url": "https://www.bizjournals.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA leaders seek to expand rent control - Curbed LA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDE4LzEwLzI0LzE4MDE4NzAyL2xvcy1hbmdlbGVzLXJlbnQtY29udHJvbC1sYXdzLXByb3Bvc2l0aW9uLTEw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDE4LzEwLzI0LzE4MDE4NzAyL2xvcy1hbmdlbGVzLXJlbnQtY29udHJvbC1sYXdzLXByb3Bvc2l0aW9uLTEw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbGEuY3VyYmVkLmNvbS8yMDE4LzEwLzI0LzE4MDE4NzAyL2xvcy1hbmdlbGVzLXJlbnQtY29udHJvbC1sYXdzLXByb3Bvc2l0aW9uLTEw0gEA?oc=5\" target=\"_blank\">LA leaders seek to expand rent control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Curbed LA</font>"
+            ],
+            "source": [
+              {
+                "_": "Curbed LA",
+                "$": {
+                  "url": "https://la.curbed.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rent control laws nearly destroyed parts of New York City. They could do the same to California - OCRegister"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tL3JlbnQtY29udHJvbC1sYXdzLW5lYXJseS1kZXN0cm95ZWQtcGFydHMtb2YtbmV3LXlvcmstY2l0eS10aGV5LWNvdWxkLWRvLXRoZS1zYW1lLXRvLWNhbGlmb3JuaWEv0gGJAWh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMTgvMDcvMTcvcmVudC1jb250cm9sLWxhd3MtbmVhcmx5LWRlc3Ryb3llZC1wYXJ0cy1vZi1uZXcteW9yay1jaXR5LXRoZXktY291bGQtZG8tdGhlLXNhbWUtdG8tY2FsaWZvcm5pYS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tL3JlbnQtY29udHJvbC1sYXdzLW5lYXJseS1kZXN0cm95ZWQtcGFydHMtb2YtbmV3LXlvcmstY2l0eS10aGV5LWNvdWxkLWRvLXRoZS1zYW1lLXRvLWNhbGlmb3JuaWEv0gGJAWh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMTgvMDcvMTcvcmVudC1jb250cm9sLWxhd3MtbmVhcmx5LWRlc3Ryb3llZC1wYXJ0cy1vZi1uZXcteW9yay1jaXR5LXRoZXktY291bGQtZG8tdGhlLXNhbWUtdG8tY2FsaWZvcm5pYS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 17 Jul 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tL3JlbnQtY29udHJvbC1sYXdzLW5lYXJseS1kZXN0cm95ZWQtcGFydHMtb2YtbmV3LXlvcmstY2l0eS10aGV5LWNvdWxkLWRvLXRoZS1zYW1lLXRvLWNhbGlmb3JuaWEv0gGJAWh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMTgvMDcvMTcvcmVudC1jb250cm9sLWxhd3MtbmVhcmx5LWRlc3Ryb3llZC1wYXJ0cy1vZi1uZXcteW9yay1jaXR5LXRoZXktY291bGQtZG8tdGhlLXNhbWUtdG8tY2FsaWZvcm5pYS9hbXAv?oc=5\" target=\"_blank\">Rent control laws nearly destroyed parts of New York City. They could do the same to California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OCRegister</font>"
+            ],
+            "source": [
+              {
+                "_": "OCRegister",
+                "$": {
+                  "url": "https://www.ocregister.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "If Prop. 10 passes, SF supervisors ready to alter rent control rules - San Francisco Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9iYXlhcmVhL2FydGljbGUvSWYtUHJvcC0xMC1wYXNzZXMtU0Ytc3VwZXJ2aXNvcnMtcmVhZHktdG8tYWx0ZXItMTMzNTk4MTEucGhw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9iYXlhcmVhL2FydGljbGUvSWYtUHJvcC0xMC1wYXNzZXMtU0Ytc3VwZXJ2aXNvcnMtcmVhZHktdG8tYWx0ZXItMTMzNTk4MTEucGhw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Nov 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9iYXlhcmVhL2FydGljbGUvSWYtUHJvcC0xMC1wYXNzZXMtU0Ytc3VwZXJ2aXNvcnMtcmVhZHktdG8tYWx0ZXItMTMzNTk4MTEucGhw0gEA?oc=5\" target=\"_blank\">If Prop. 10 passes, SF supervisors ready to alter rent control rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "San Francisco Chronicle",
+                "$": {
+                  "url": "https://www.sfchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Guest Opinion: I owe my life in SF to rent control - Bay Area Reporter, America's highest circulation LGBT newspaper"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmViYXIuY29tL3N0b3J5LnBocD9jaD1uZXdzJnNjPW5ld3MmaWQ9Mjc0Njgz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOGh0dHBzOi8vd3d3LmViYXIuY29tL3N0b3J5LnBocD9jaD1uZXdzJnNjPW5ld3MmaWQ9Mjc0Njgz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 Apr 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmViYXIuY29tL3N0b3J5LnBocD9jaD1uZXdzJnNjPW5ld3MmaWQ9Mjc0Njgz0gEA?oc=5\" target=\"_blank\">Guest Opinion: I owe my life in SF to rent control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bay Area Reporter, America's highest circulation LGBT newspaper</font>"
+            ],
+            "source": [
+              {
+                "_": "Bay Area Reporter, America's highest circulation LGBT newspaper",
+                "$": {
+                  "url": "https://www.ebar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Confused About Prop 10? That’s How The Real Estate Lobby Wants It. - Knock LA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8va25vY2stbGEuY29tL2NvbmZ1c2VkLWFib3V0LXByb3AtMTAtdGhhdHMtaG93LXRoZS1yZWFsLWVzdGF0ZS1sb2JieS13YW50cy1pdC03MzdkZTA4ZWJjZWIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8va25vY2stbGEuY29tL2NvbmZ1c2VkLWFib3V0LXByb3AtMTAtdGhhdHMtaG93LXRoZS1yZWFsLWVzdGF0ZS1sb2JieS13YW50cy1pdC03MzdkZTA4ZWJjZWIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Nov 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8va25vY2stbGEuY29tL2NvbmZ1c2VkLWFib3V0LXByb3AtMTAtdGhhdHMtaG93LXRoZS1yZWFsLWVzdGF0ZS1sb2JieS13YW50cy1pdC03MzdkZTA4ZWJjZWIv0gEA?oc=5\" target=\"_blank\">Confused About Prop 10? That’s How The Real Estate Lobby Wants It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Knock LA</font>"
+            ],
+            "source": [
+              {
+                "_": "Knock LA",
+                "$": {
+                  "url": "https://knock-la.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "SF City Hall committee endorses California rent control expansion - Curbed SF"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc2YuY3VyYmVkLmNvbS8yMDE4LzkvMjYvMTc5MDU3MTgvc2FuLWZyYW5jaXNjby1ib2FyZC1zdXBlcnZpc29ycy1yZW50LWNvbnRyb2wtcHJvcC0xMC1sYW5kLXVzZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vc2YuY3VyYmVkLmNvbS8yMDE4LzkvMjYvMTc5MDU3MTgvc2FuLWZyYW5jaXNjby1ib2FyZC1zdXBlcnZpc29ycy1yZW50LWNvbnRyb2wtcHJvcC0xMC1sYW5kLXVzZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Sep 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc2YuY3VyYmVkLmNvbS8yMDE4LzkvMjYvMTc5MDU3MTgvc2FuLWZyYW5jaXNjby1ib2FyZC1zdXBlcnZpc29ycy1yZW50LWNvbnRyb2wtcHJvcC0xMC1sYW5kLXVzZdIBAA?oc=5\" target=\"_blank\">SF City Hall committee endorses California rent control expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Curbed SF</font>"
+            ],
+            "source": [
+              {
+                "_": "Curbed SF",
+                "$": {
+                  "url": "https://sf.curbed.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

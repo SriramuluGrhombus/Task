@@ -1,0 +1,2828 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Ed Bastian\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Ed+Bastian&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Delta CEO says fears business travel has died are greatly overstated—hybrid workers are just shifting the data - Fortune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL2ZvcnR1bmUuY29tLzIwMjMvMTIvMTIvZGVsdGEtYWlyLWxpbmVzLWNlby1lZC1iYXN0aWFuLWZlYXJzLWJ1c2luZXNzLXRyYXZlbC1kaWVkLW92ZXJzdGF0ZWQtaHlicmlkLXdvcmtlcnMtc2hpZnRpbmctZGF0YS_SAYUBaHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDIzLzEyLzEyL2RlbHRhLWFpci1saW5lcy1jZW8tZWQtYmFzdGlhbi1mZWFycy1idXNpbmVzcy10cmF2ZWwtZGllZC1vdmVyc3RhdGVkLWh5YnJpZC13b3JrZXJzLXNoaWZ0aW5nLWRhdGEvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL2ZvcnR1bmUuY29tLzIwMjMvMTIvMTIvZGVsdGEtYWlyLWxpbmVzLWNlby1lZC1iYXN0aWFuLWZlYXJzLWJ1c2luZXNzLXRyYXZlbC1kaWVkLW92ZXJzdGF0ZWQtaHlicmlkLXdvcmtlcnMtc2hpZnRpbmctZGF0YS_SAYUBaHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDIzLzEyLzEyL2RlbHRhLWFpci1saW5lcy1jZW8tZWQtYmFzdGlhbi1mZWFycy1idXNpbmVzcy10cmF2ZWwtZGllZC1vdmVyc3RhdGVkLWh5YnJpZC13b3JrZXJzLXNoaWZ0aW5nLWRhdGEvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL2ZvcnR1bmUuY29tLzIwMjMvMTIvMTIvZGVsdGEtYWlyLWxpbmVzLWNlby1lZC1iYXN0aWFuLWZlYXJzLWJ1c2luZXNzLXRyYXZlbC1kaWVkLW92ZXJzdGF0ZWQtaHlicmlkLXdvcmtlcnMtc2hpZnRpbmctZGF0YS_SAYUBaHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDIzLzEyLzEyL2RlbHRhLWFpci1saW5lcy1jZW8tZWQtYmFzdGlhbi1mZWFycy1idXNpbmVzcy10cmF2ZWwtZGllZC1vdmVyc3RhdGVkLWh5YnJpZC13b3JrZXJzLXNoaWZ0aW5nLWRhdGEvYW1wLw?oc=5\" target=\"_blank\">Delta CEO says fears business travel has died are greatly overstated—hybrid workers are just shifting the data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+            ],
+            "source": [
+              {
+                "_": "Fortune",
+                "$": {
+                  "url": "https://fortune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A note from Ed: Thank you for your feedback on the SkyMiles Program - Delta News Hub"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbmV3cy5kZWx0YS5jb20vbm90ZS1lZC10aGFuay15b3UteW91ci1mZWVkYmFjay1za3ltaWxlcy1wcm9ncmFt0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vbmV3cy5kZWx0YS5jb20vbm90ZS1lZC10aGFuay15b3UteW91ci1mZWVkYmFjay1za3ltaWxlcy1wcm9ncmFt0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbmV3cy5kZWx0YS5jb20vbm90ZS1lZC10aGFuay15b3UteW91ci1mZWVkYmFjay1za3ltaWxlcy1wcm9ncmFt0gEA?oc=5\" target=\"_blank\">A note from Ed: Thank you for your feedback on the SkyMiles Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Delta News Hub</font>"
+            ],
+            "source": [
+              {
+                "_": "Delta News Hub",
+                "$": {
+                  "url": "https://news.delta.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CEO Of The Year: A Conversation With Delta Air Lines’ Ed Bastian - Chief Executive"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2Nlby1vZi10aGUteWVhci1hLWNvbnZlcnNhdGlvbi13aXRoLWRlbHRhLWFpci1saW5lcy1lZC1iYXN0aWFuL9IBXmh0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2Nlby1vZi10aGUteWVhci1hLWNvbnZlcnNhdGlvbi13aXRoLWRlbHRhLWFpci1saW5lcy1lZC1iYXN0aWFuL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2Nlby1vZi10aGUteWVhci1hLWNvbnZlcnNhdGlvbi13aXRoLWRlbHRhLWFpci1saW5lcy1lZC1iYXN0aWFuL9IBXmh0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2Nlby1vZi10aGUteWVhci1hLWNvbnZlcnNhdGlvbi13aXRoLWRlbHRhLWFpci1saW5lcy1lZC1iYXN0aWFuL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Oct 2023 12:26:37 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2Nlby1vZi10aGUteWVhci1hLWNvbnZlcnNhdGlvbi13aXRoLWRlbHRhLWFpci1saW5lcy1lZC1iYXN0aWFuL9IBXmh0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2Nlby1vZi10aGUteWVhci1hLWNvbnZlcnNhdGlvbi13aXRoLWRlbHRhLWFpci1saW5lcy1lZC1iYXN0aWFuL2FtcC8?oc=5\" target=\"_blank\">CEO Of The Year: A Conversation With Delta Air Lines’ Ed Bastian</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chief Executive</font>"
+            ],
+            "source": [
+              {
+                "_": "Chief Executive",
+                "$": {
+                  "url": "https://chiefexecutive.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "William G. McGowan Charitable Fund and SHRM Announce 2nd Annual Ethical Leader of the Year Recipient, Ed ... - WebWire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LndlYndpcmUuY29tL1ZpZXdQcmVzc1JlbC5hc3A_YUlkPTMxMjA0MtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiM2h0dHBzOi8vd3d3LndlYndpcmUuY29tL1ZpZXdQcmVzc1JlbC5hc3A_YUlkPTMxMjA0MtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 04 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LndlYndpcmUuY29tL1ZpZXdQcmVzc1JlbC5hc3A_YUlkPTMxMjA0MtIBAA?oc=5\" target=\"_blank\">William G. McGowan Charitable Fund and SHRM Announce 2nd Annual Ethical Leader of the Year Recipient, Ed ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WebWire</font>"
+            ],
+            "source": [
+              {
+                "_": "WebWire",
+                "$": {
+                  "url": "https://www.webwire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO Ed Bastian wons prestigious 34th annual Four Pillar Award by the Council for Quality Growth - Travel And Tour World "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL25ld3MvYXJ0aWNsZS9kZWx0YS1jZW8tZWQtYmFzdGlhbi13b25zLXByZXN0aWdpb3VzLTM0dGgtYW5udWFsLWZvdXItcGlsbGFyLWF3YXJkLWJ5LXRoZS1jb3VuY2lsLWZvci1xdWFsaXR5LWdyb3d0aC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilgFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL25ld3MvYXJ0aWNsZS9kZWx0YS1jZW8tZWQtYmFzdGlhbi13b25zLXByZXN0aWdpb3VzLTM0dGgtYW5udWFsLWZvdXItcGlsbGFyLWF3YXJkLWJ5LXRoZS1jb3VuY2lsLWZvci1xdWFsaXR5LWdyb3d0aC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 17 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL25ld3MvYXJ0aWNsZS9kZWx0YS1jZW8tZWQtYmFzdGlhbi13b25zLXByZXN0aWdpb3VzLTM0dGgtYW5udWFsLWZvdXItcGlsbGFyLWF3YXJkLWJ5LXRoZS1jb3VuY2lsLWZvci1xdWFsaXR5LWdyb3d0aC_SAQA?oc=5\" target=\"_blank\">Delta CEO Ed Bastian wons prestigious 34th annual Four Pillar Award by the Council for Quality Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World </font>"
+            ],
+            "source": [
+              {
+                "_": "Travel And Tour World ",
+                "$": {
+                  "url": "https://www.travelandtourworld.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta+books+%242+billion+in+quarterly+profits+and+CEO+Ed+Bastian+sees+more+blue+skies+ahead - New Orleans CityBusiness"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL25ld29ybGVhbnNjaXR5YnVzaW5lc3MuY29tL2Jsb2cvMjAyNC8wMS8xMi9kZWx0YS1ib29rcy0yLWJpbGxpb24taW4tcXVhcnRlcmx5LXByb2ZpdHMtYW5kLWNlby1lZC1iYXN0aWFuLXNlZXMtbW9yZS1ibHVlLXNraWVzLWFoZWFkL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL25ld29ybGVhbnNjaXR5YnVzaW5lc3MuY29tL2Jsb2cvMjAyNC8wMS8xMi9kZWx0YS1ib29rcy0yLWJpbGxpb24taW4tcXVhcnRlcmx5LXByb2ZpdHMtYW5kLWNlby1lZC1iYXN0aWFuLXNlZXMtbW9yZS1ibHVlLXNraWVzLWFoZWFkL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL25ld29ybGVhbnNjaXR5YnVzaW5lc3MuY29tL2Jsb2cvMjAyNC8wMS8xMi9kZWx0YS1ib29rcy0yLWJpbGxpb24taW4tcXVhcnRlcmx5LXByb2ZpdHMtYW5kLWNlby1lZC1iYXN0aWFuLXNlZXMtbW9yZS1ibHVlLXNraWVzLWFoZWFkL9IBAA?oc=5\" target=\"_blank\">Delta+books+%242+billion+in+quarterly+profits+and+CEO+Ed+Bastian+sees+more+blue+skies+ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Orleans CityBusiness</font>"
+            ],
+            "source": [
+              {
+                "_": "New Orleans CityBusiness",
+                "$": {
+                  "url": "https://neworleanscitybusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Is Using AI For Pricing and Reservations - Skift Travel News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc2tpZnQuY29tLzIwMjMvMTIvMDgvZGVsdGEtYmVnaW5zLWltcGxlbWVudGluZy1haS1pbi1wcmljaW5nLWFuZC1yZXNlcnZhdGlvbnMv0gFaaHR0cHM6Ly9za2lmdC5jb20vMjAyMy8xMi8wOC9kZWx0YS1iZWdpbnMtaW1wbGVtZW50aW5nLWFpLWluLXByaWNpbmctYW5kLXJlc2VydmF0aW9ucy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vc2tpZnQuY29tLzIwMjMvMTIvMDgvZGVsdGEtYmVnaW5zLWltcGxlbWVudGluZy1haS1pbi1wcmljaW5nLWFuZC1yZXNlcnZhdGlvbnMv0gFaaHR0cHM6Ly9za2lmdC5jb20vMjAyMy8xMi8wOC9kZWx0YS1iZWdpbnMtaW1wbGVtZW50aW5nLWFpLWluLXByaWNpbmctYW5kLXJlc2VydmF0aW9ucy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc2tpZnQuY29tLzIwMjMvMTIvMDgvZGVsdGEtYmVnaW5zLWltcGxlbWVudGluZy1haS1pbi1wcmljaW5nLWFuZC1yZXNlcnZhdGlvbnMv0gFaaHR0cHM6Ly9za2lmdC5jb20vMjAyMy8xMi8wOC9kZWx0YS1iZWdpbnMtaW1wbGVtZW50aW5nLWFpLWluLXByaWNpbmctYW5kLXJlc2VydmF0aW9ucy9hbXAv?oc=5\" target=\"_blank\">Delta Is Using AI For Pricing and Reservations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skift Travel News</font>"
+            ],
+            "source": [
+              {
+                "_": "Skift Travel News",
+                "$": {
+                  "url": "https://skift.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines revenue hits $54.7 billion - Graphic Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmdyYXBoaWMuY29tLmdoL2J1c2luZXNzL2J1c2luZXNzLW5ld3MvZGVsdGEtYWlyLWxpbmVzLXJldmVudWUtaGl0cy01NC03LWJpbGxpb24uaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LmdyYXBoaWMuY29tLmdoL2J1c2luZXNzL2J1c2luZXNzLW5ld3MvZGVsdGEtYWlyLWxpbmVzLXJldmVudWUtaGl0cy01NC03LWJpbGxpb24uaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 09:32:03 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmdyYXBoaWMuY29tLmdoL2J1c2luZXNzL2J1c2luZXNzLW5ld3MvZGVsdGEtYWlyLWxpbmVzLXJldmVudWUtaGl0cy01NC03LWJpbGxpb24uaHRtbNIBAA?oc=5\" target=\"_blank\">Delta Air Lines revenue hits $54.7 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Graphic Online</font>"
+            ],
+            "source": [
+              {
+                "_": "Graphic Online",
+                "$": {
+                  "url": "https://www.graphic.com.gh"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines Inc (DAL) Q3 2023 Earnings Call Transcript - AlphaStreet"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbmV3cy5hbHBoYXN0cmVldC5jb20vZGVsdGEtYWlyLWxpbmVzLWluYy1kYWwtcTMtMjAyMy1lYXJuaW5ncy1jYWxsLXRyYW5zY3JpcHQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vbmV3cy5hbHBoYXN0cmVldC5jb20vZGVsdGEtYWlyLWxpbmVzLWluYy1kYWwtcTMtMjAyMy1lYXJuaW5ncy1jYWxsLXRyYW5zY3JpcHQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbmV3cy5hbHBoYXN0cmVldC5jb20vZGVsdGEtYWlyLWxpbmVzLWluYy1kYWwtcTMtMjAyMy1lYXJuaW5ncy1jYWxsLXRyYW5zY3JpcHQv0gEA?oc=5\" target=\"_blank\">Delta Air Lines Inc (DAL) Q3 2023 Earnings Call Transcript</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlphaStreet</font>"
+            ],
+            "source": [
+              {
+                "_": "AlphaStreet",
+                "$": {
+                  "url": "https://news.alphastreet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO Ed Bastian receives prestigious Four Pillar Award - SaportaReport - SaportaReport"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vc2Fwb3J0YXJlcG9ydC5jb20vZGVsdGEtY2VvLWVkLWJhc3RpYW4tcmVjZWl2ZXMtcHJlc3RpZ2lvdXMtZm91ci1waWxsYXItYXdhcmQvc2VjdGlvbnMvcmVwb3J0cy9tYXJpYV9zYXBvcnRhL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vc2Fwb3J0YXJlcG9ydC5jb20vZGVsdGEtY2VvLWVkLWJhc3RpYW4tcmVjZWl2ZXMtcHJlc3RpZ2lvdXMtZm91ci1waWxsYXItYXdhcmQvc2VjdGlvbnMvcmVwb3J0cy9tYXJpYV9zYXBvcnRhL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vc2Fwb3J0YXJlcG9ydC5jb20vZGVsdGEtY2VvLWVkLWJhc3RpYW4tcmVjZWl2ZXMtcHJlc3RpZ2lvdXMtZm91ci1waWxsYXItYXdhcmQvc2VjdGlvbnMvcmVwb3J0cy9tYXJpYV9zYXBvcnRhL9IBAA?oc=5\" target=\"_blank\">Delta CEO Ed Bastian receives prestigious Four Pillar Award - SaportaReport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SaportaReport</font>"
+            ],
+            "source": [
+              {
+                "_": "SaportaReport",
+                "$": {
+                  "url": "https://saportareport.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines CEO Ed Bastian on upcoming summer travel - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2RlbHRhLWFpci1saW5lcy1jZW8tZWQtYmFzdGlhbi1vbi11cGNvbWluZy1zdW1tZXItdHJhdmVsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2RlbHRhLWFpci1saW5lcy1jZW8tZWQtYmFzdGlhbi1vbi11cGNvbWluZy1zdW1tZXItdHJhdmVsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2RlbHRhLWFpci1saW5lcy1jZW8tZWQtYmFzdGlhbi1vbi11cGNvbWluZy1zdW1tZXItdHJhdmVsL9IBAA?oc=5\" target=\"_blank\">Delta Air Lines CEO Ed Bastian on upcoming summer travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How Delta Air Lines Uses AI - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvdGVkcmVlZC8yMDIzLzEyLzA3L2hvdy1kZWx0YS1haXItbGluZXMtdXNlcy1haS15ZXQtYXZvaWRzLWhhbGx1Y2luYXRpb25zLW9uLXN0ZXJvaWRzL9IBdmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvdGVkcmVlZC8yMDIzLzEyLzA3L2hvdy1kZWx0YS1haXItbGluZXMtdXNlcy1haS15ZXQtYXZvaWRzLWhhbGx1Y2luYXRpb25zLW9uLXN0ZXJvaWRzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvdGVkcmVlZC8yMDIzLzEyLzA3L2hvdy1kZWx0YS1haXItbGluZXMtdXNlcy1haS15ZXQtYXZvaWRzLWhhbGx1Y2luYXRpb25zLW9uLXN0ZXJvaWRzL9IBdmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvdGVkcmVlZC8yMDIzLzEyLzA3L2hvdy1kZWx0YS1haXItbGluZXMtdXNlcy1haS15ZXQtYXZvaWRzLWhhbGx1Y2luYXRpb25zLW9uLXN0ZXJvaWRzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvdGVkcmVlZC8yMDIzLzEyLzA3L2hvdy1kZWx0YS1haXItbGluZXMtdXNlcy1haS15ZXQtYXZvaWRzLWhhbGx1Y2luYXRpb25zLW9uLXN0ZXJvaWRzL9IBdmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvdGVkcmVlZC8yMDIzLzEyLzA3L2hvdy1kZWx0YS1haXItbGluZXMtdXNlcy1haS15ZXQtYXZvaWRzLWhhbGx1Y2luYXRpb25zLW9uLXN0ZXJvaWRzL2FtcC8?oc=5\" target=\"_blank\">How Delta Air Lines Uses AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO says ‘revenge travel’ is taking over America and even he’s shocked by how much: ‘$300 billion—with a B’ - Fortune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOS9kZWx0YS1jZW8tZWQtYmFzdGlhbi1yZXZlbmdlLXRyYXZlbC0zMDAtYmlsbGlvbi1kZW1hbmQtc3Ryb25nL9IBYWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOS9kZWx0YS1jZW8tZWQtYmFzdGlhbi1yZXZlbmdlLXRyYXZlbC0zMDAtYmlsbGlvbi1kZW1hbmQtc3Ryb25nL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOS9kZWx0YS1jZW8tZWQtYmFzdGlhbi1yZXZlbmdlLXRyYXZlbC0zMDAtYmlsbGlvbi1kZW1hbmQtc3Ryb25nL9IBYWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOS9kZWx0YS1jZW8tZWQtYmFzdGlhbi1yZXZlbmdlLXRyYXZlbC0zMDAtYmlsbGlvbi1kZW1hbmQtc3Ryb25nL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 09 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOS9kZWx0YS1jZW8tZWQtYmFzdGlhbi1yZXZlbmdlLXRyYXZlbC0zMDAtYmlsbGlvbi1kZW1hbmQtc3Ryb25nL9IBYWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOS9kZWx0YS1jZW8tZWQtYmFzdGlhbi1yZXZlbmdlLXRyYXZlbC0zMDAtYmlsbGlvbi1kZW1hbmQtc3Ryb25nL2FtcC8?oc=5\" target=\"_blank\">Delta CEO says ‘revenge travel’ is taking over America and even he’s shocked by how much: ‘$300 billion—with a B’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+            ],
+            "source": [
+              {
+                "_": "Fortune",
+                "$": {
+                  "url": "https://fortune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "American Express Continues In Partnership With Conversation Series With Delta Air Lines CEO Ed Bastian - WebWire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LndlYndpcmUuY29tL1ZpZXdQcmVzc1JlbC5hc3A_YUlkPTMwODc1MtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiM2h0dHBzOi8vd3d3LndlYndpcmUuY29tL1ZpZXdQcmVzc1JlbC5hc3A_YUlkPTMwODc1MtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 29 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LndlYndpcmUuY29tL1ZpZXdQcmVzc1JlbC5hc3A_YUlkPTMwODc1MtIBAA?oc=5\" target=\"_blank\">American Express Continues In Partnership With Conversation Series With Delta Air Lines CEO Ed Bastian</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WebWire</font>"
+            ],
+            "source": [
+              {
+                "_": "WebWire",
+                "$": {
+                  "url": "https://www.webwire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta's Ed Bastian named Chief Executive magazine's 2023 CEO of the Year - Delta News Hub"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbmV3cy5kZWx0YS5jb20vZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby15ZWFy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vbmV3cy5kZWx0YS5jb20vZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby15ZWFy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 01 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbmV3cy5kZWx0YS5jb20vZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby15ZWFy0gEA?oc=5\" target=\"_blank\">Delta's Ed Bastian named Chief Executive magazine's 2023 CEO of the Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Delta News Hub</font>"
+            ],
+            "source": [
+              {
+                "_": "Delta News Hub",
+                "$": {
+                  "url": "https://news.delta.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta’s Ed Bastian became conservatives’ poster boy for ‘woke’ CEOs. He doesn’t regret ‘standing by our people’ - Fortune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wNy9kZWx0YS1jZW8tZWQtYmFzdGlhbi1nZW9yZ2lhLXdva2UtY2VvL9IBSWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wNy9kZWx0YS1jZW8tZWQtYmFzdGlhbi1nZW9yZ2lhLXdva2UtY2VvL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wNy9kZWx0YS1jZW8tZWQtYmFzdGlhbi1nZW9yZ2lhLXdva2UtY2VvL9IBSWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wNy9kZWx0YS1jZW8tZWQtYmFzdGlhbi1nZW9yZ2lhLXdva2UtY2VvL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wNy9kZWx0YS1jZW8tZWQtYmFzdGlhbi1nZW9yZ2lhLXdva2UtY2VvL9IBSWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wNy9kZWx0YS1jZW8tZWQtYmFzdGlhbi1nZW9yZ2lhLXdva2UtY2VvL2FtcC8?oc=5\" target=\"_blank\">Delta’s Ed Bastian became conservatives’ poster boy for ‘woke’ CEOs. He doesn’t regret ‘standing by our people’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+            ],
+            "source": [
+              {
+                "_": "Fortune",
+                "$": {
+                  "url": "https://fortune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "There is no finish line: Arthur M. Blank, Ed Bastian kick off season two of Gaining Altitude - Delta News Hub"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbmV3cy5kZWx0YS5jb20vdGhlcmUtbm8tZmluaXNoLWxpbmUtYXJ0aHVyLW0tYmxhbmstZWQtYmFzdGlhbi1raWNrLXNlYXNvbi10d28tZ2FpbmluZy1hbHRpdHVkZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vbmV3cy5kZWx0YS5jb20vdGhlcmUtbm8tZmluaXNoLWxpbmUtYXJ0aHVyLW0tYmxhbmstZWQtYmFzdGlhbi1raWNrLXNlYXNvbi10d28tZ2FpbmluZy1hbHRpdHVkZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 14 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbmV3cy5kZWx0YS5jb20vdGhlcmUtbm8tZmluaXNoLWxpbmUtYXJ0aHVyLW0tYmxhbmstZWQtYmFzdGlhbi1raWNrLXNlYXNvbi10d28tZ2FpbmluZy1hbHRpdHVkZdIBAA?oc=5\" target=\"_blank\">There is no finish line: Arthur M. Blank, Ed Bastian kick off season two of Gaining Altitude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Delta News Hub</font>"
+            ],
+            "source": [
+              {
+                "_": "Delta News Hub",
+                "$": {
+                  "url": "https://news.delta.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Even one of the most progressive Fortune 500 CEOs wants to get back to business: ‘We want everybody to be flying Delta’ - Fortune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1sZWFkZXJzaGlwLW5leHQtcG9saXRpY3MtcmVwdWJsaWNhbnMtZGVtb2NyYXRzLWd1bnMv0gFsaHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDIzLzA2LzA4L2RlbHRhLWNlby1lZC1iYXN0aWFuLWxlYWRlcnNoaXAtbmV4dC1wb2xpdGljcy1yZXB1YmxpY2Fucy1kZW1vY3JhdHMtZ3Vucy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1sZWFkZXJzaGlwLW5leHQtcG9saXRpY3MtcmVwdWJsaWNhbnMtZGVtb2NyYXRzLWd1bnMv0gFsaHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDIzLzA2LzA4L2RlbHRhLWNlby1lZC1iYXN0aWFuLWxlYWRlcnNoaXAtbmV4dC1wb2xpdGljcy1yZXB1YmxpY2Fucy1kZW1vY3JhdHMtZ3Vucy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1sZWFkZXJzaGlwLW5leHQtcG9saXRpY3MtcmVwdWJsaWNhbnMtZGVtb2NyYXRzLWd1bnMv0gFsaHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDIzLzA2LzA4L2RlbHRhLWNlby1lZC1iYXN0aWFuLWxlYWRlcnNoaXAtbmV4dC1wb2xpdGljcy1yZXB1YmxpY2Fucy1kZW1vY3JhdHMtZ3Vucy9hbXAv?oc=5\" target=\"_blank\">Even one of the most progressive Fortune 500 CEOs wants to get back to business: ‘We want everybody to be flying Delta’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+            ],
+            "source": [
+              {
+                "_": "Fortune",
+                "$": {
+                  "url": "https://fortune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ed Bastian receives Four Pillar Award for leadership and commitment to economic development in Atlanta - Delta News Hub"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbmV3cy5kZWx0YS5jb20vZWQtYmFzdGlhbi1yZWNlaXZlcy1mb3VyLXBpbGxhci1hd2FyZC1sZWFkZXJzaGlwLWFuZC1jb21taXRtZW50LWVjb25vbWljLWRldmVsb3BtZW50LWF0bGFudGHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vbmV3cy5kZWx0YS5jb20vZWQtYmFzdGlhbi1yZWNlaXZlcy1mb3VyLXBpbGxhci1hd2FyZC1sZWFkZXJzaGlwLWFuZC1jb21taXRtZW50LWVjb25vbWljLWRldmVsb3BtZW50LWF0bGFudGHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 13 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbmV3cy5kZWx0YS5jb20vZWQtYmFzdGlhbi1yZWNlaXZlcy1mb3VyLXBpbGxhci1hd2FyZC1sZWFkZXJzaGlwLWFuZC1jb21taXRtZW50LWVjb25vbWljLWRldmVsb3BtZW50LWF0bGFudGHSAQA?oc=5\" target=\"_blank\">Ed Bastian receives Four Pillar Award for leadership and commitment to economic development in Atlanta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Delta News Hub</font>"
+            ],
+            "source": [
+              {
+                "_": "Delta News Hub",
+                "$": {
+                  "url": "https://news.delta.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta's CEO Finally Responds to the Airline's Controversy: 'We Probably Went Too Far' - Inc."
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5pbmMuY29tL2phc29uLWF0ZW4vZGVsdGFzLWNlby1lZC1iYXN0aWFuLWZpbmFsbHktcmVzcG9uZGVkLXRvLWFpcmxpbmVzLXNreW1pbGVzLWNvbnRyb3ZlcnN5LXdlLXByb2JhYmx5LXdlbnQtdG9vLWZhci5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5pbmMuY29tL2phc29uLWF0ZW4vZGVsdGFzLWNlby1lZC1iYXN0aWFuLWZpbmFsbHktcmVzcG9uZGVkLXRvLWFpcmxpbmVzLXNreW1pbGVzLWNvbnRyb3ZlcnN5LXdlLXByb2JhYmx5LXdlbnQtdG9vLWZhci5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5pbmMuY29tL2phc29uLWF0ZW4vZGVsdGFzLWNlby1lZC1iYXN0aWFuLWZpbmFsbHktcmVzcG9uZGVkLXRvLWFpcmxpbmVzLXNreW1pbGVzLWNvbnRyb3ZlcnN5LXdlLXByb2JhYmx5LXdlbnQtdG9vLWZhci5odG1s0gEA?oc=5\" target=\"_blank\">Delta's CEO Finally Responds to the Airline's Controversy: 'We Probably Went Too Far'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inc.</font>"
+            ],
+            "source": [
+              {
+                "_": "Inc.",
+                "$": {
+                  "url": "https://www.inc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines CEO Ed Bastian unveils revised SkyMiles changes - Fast Company"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5mYXN0Y29tcGFueS5jb20vOTA5NzA0ODUvZmFjaW5nLWN1c3RvbWVyLWJhY2tsYXNoLWRlbHRhLWFpci1saW5lcy1jZW8tZWQtYmFzdGlhbi11bnZlaWxzLXJldmlzZWQtcGxhbi1mb3Itc2t5bWlsZXMtY2hhbmdlc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5mYXN0Y29tcGFueS5jb20vOTA5NzA0ODUvZmFjaW5nLWN1c3RvbWVyLWJhY2tsYXNoLWRlbHRhLWFpci1saW5lcy1jZW8tZWQtYmFzdGlhbi11bnZlaWxzLXJldmlzZWQtcGxhbi1mb3Itc2t5bWlsZXMtY2hhbmdlc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5mYXN0Y29tcGFueS5jb20vOTA5NzA0ODUvZmFjaW5nLWN1c3RvbWVyLWJhY2tsYXNoLWRlbHRhLWFpci1saW5lcy1jZW8tZWQtYmFzdGlhbi11bnZlaWxzLXJldmlzZWQtcGxhbi1mb3Itc2t5bWlsZXMtY2hhbmdlc9IBAA?oc=5\" target=\"_blank\">Delta Air Lines CEO Ed Bastian unveils revised SkyMiles changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>"
+            ],
+            "source": [
+              {
+                "_": "Fast Company",
+                "$": {
+                  "url": "https://www.fastcompany.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Top Delta Air Lines Shareholders - Investopedia"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdG9wLWRlbHRhLWFpci1saW5lcy1zaGFyZWhvbGRlcnMtNTEyMDc3ONIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdG9wLWRlbHRhLWFpci1saW5lcy1zaGFyZWhvbGRlcnMtNTEyMDc3ONIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 01 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdG9wLWRlbHRhLWFpci1saW5lcy1zaGFyZWhvbGRlcnMtNTEyMDc3ONIBAA?oc=5\" target=\"_blank\">Top Delta Air Lines Shareholders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>"
+            ],
+            "source": [
+              {
+                "_": "Investopedia",
+                "$": {
+                  "url": "https://www.investopedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines ranked among 50 most admired companies - Punch Newspapers"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vcHVuY2huZy5jb20vZGVsdGEtYWlyLWxpbmVzLXJhbmtlZC1hbW9uZy01MC1tb3N0LWFkbWlyZWQtY29tcGFuaWVzL9IBT2h0dHBzOi8vcHVuY2huZy5jb20vZGVsdGEtYWlyLWxpbmVzLXJhbmtlZC1hbW9uZy01MC1tb3N0LWFkbWlyZWQtY29tcGFuaWVzLz9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vcHVuY2huZy5jb20vZGVsdGEtYWlyLWxpbmVzLXJhbmtlZC1hbW9uZy01MC1tb3N0LWFkbWlyZWQtY29tcGFuaWVzL9IBT2h0dHBzOi8vcHVuY2huZy5jb20vZGVsdGEtYWlyLWxpbmVzLXJhbmtlZC1hbW9uZy01MC1tb3N0LWFkbWlyZWQtY29tcGFuaWVzLz9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 01:48:37 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vcHVuY2huZy5jb20vZGVsdGEtYWlyLWxpbmVzLXJhbmtlZC1hbW9uZy01MC1tb3N0LWFkbWlyZWQtY29tcGFuaWVzL9IBT2h0dHBzOi8vcHVuY2huZy5jb20vZGVsdGEtYWlyLWxpbmVzLXJhbmtlZC1hbW9uZy01MC1tb3N0LWFkbWlyZWQtY29tcGFuaWVzLz9hbXA?oc=5\" target=\"_blank\">Delta Air Lines ranked among 50 most admired companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Punch Newspapers</font>"
+            ],
+            "source": [
+              {
+                "_": "Punch Newspapers",
+                "$": {
+                  "url": "https://punchng.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Advancing Black Talent: From the Flight Ramp to 'Family-Sustaining' Careers at Delta - Harvard Business School Working Knowledge"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vaGJzd2suaGJzLmVkdS9pdGVtL2FkdmFuY2luZy1ibGFjay10YWxlbnQtZnJvbS10aGUtZmxpZ2h0LXJhbXAtdG8tZmFtaWx5LXN1c3RhaW5pbmctY2FyZWVycy1hdC1kZWx0YdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vaGJzd2suaGJzLmVkdS9pdGVtL2FkdmFuY2luZy1ibGFjay10YWxlbnQtZnJvbS10aGUtZmxpZ2h0LXJhbXAtdG8tZmFtaWx5LXN1c3RhaW5pbmctY2FyZWVycy1hdC1kZWx0YdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vaGJzd2suaGJzLmVkdS9pdGVtL2FkdmFuY2luZy1ibGFjay10YWxlbnQtZnJvbS10aGUtZmxpZ2h0LXJhbXAtdG8tZmFtaWx5LXN1c3RhaW5pbmctY2FyZWVycy1hdC1kZWx0YdIBAA?oc=5\" target=\"_blank\">Advancing Black Talent: From the Flight Ramp to 'Family-Sustaining' Careers at Delta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Harvard Business School Working Knowledge</font>"
+            ],
+            "source": [
+              {
+                "_": "Harvard Business School Working Knowledge",
+                "$": {
+                  "url": "https://hbswk.hbs.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO Ed Bastian on Q1 earnings: We're getting ready for a strong travel season - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDQvMTMvZGVsdGEtY2VvLWVkLWJhc3RpYW4tb24tcTEtZWFybmluZ3Mtd2VyZS1nZXR0aW5nLXJlYWR5LWZvci1hLXN0cm9uZy10cmF2ZWwtc2Vhc29uLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDQvMTMvZGVsdGEtY2VvLWVkLWJhc3RpYW4tb24tcTEtZWFybmluZ3Mtd2VyZS1nZXR0aW5nLXJlYWR5LWZvci1hLXN0cm9uZy10cmF2ZWwtc2Vhc29uLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDQvMTMvZGVsdGEtY2VvLWVkLWJhc3RpYW4tb24tcTEtZWFybmluZ3Mtd2VyZS1nZXR0aW5nLXJlYWR5LWZvci1hLXN0cm9uZy10cmF2ZWwtc2Vhc29uLmh0bWzSAQA?oc=5\" target=\"_blank\">Delta CEO Ed Bastian on Q1 earnings: We're getting ready for a strong travel season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO says workers aren't back in office as they're traveling more - Business Insider"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtY2VvLXdvcmtlcnMtbm90LWJhY2staW4tb2ZmaWNlLXRyYXZlbGluZy1tb3JlLTIwMjMtN9IBXmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtY2VvLXdvcmtlcnMtbm90LWJhY2staW4tb2ZmaWNlLXRyYXZlbGluZy1tb3JlLTIwMjMtNz9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtY2VvLXdvcmtlcnMtbm90LWJhY2staW4tb2ZmaWNlLXRyYXZlbGluZy1tb3JlLTIwMjMtN9IBXmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtY2VvLXdvcmtlcnMtbm90LWJhY2staW4tb2ZmaWNlLXRyYXZlbGluZy1tb3JlLTIwMjMtNz9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 22 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtY2VvLXdvcmtlcnMtbm90LWJhY2staW4tb2ZmaWNlLXRyYXZlbGluZy1tb3JlLTIwMjMtN9IBXmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtY2VvLXdvcmtlcnMtbm90LWJhY2staW4tb2ZmaWNlLXRyYXZlbGluZy1tb3JlLTIwMjMtNz9hbXA?oc=5\" target=\"_blank\">Delta CEO says workers aren't back in office as they're traveling more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Insider",
+                "$": {
+                  "url": "https://www.businessinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Airlines CEO Ed Bastian Weighs in on United's Controversial New Boarding Process - Yahoo Life"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9saWZlc3R5bGUvZGVsdGEtYWlybGluZXMtY2VvLWVkLWJhc3RpYW4tMTg1MTU5ODM5Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9saWZlc3R5bGUvZGVsdGEtYWlybGluZXMtY2VvLWVkLWJhc3RpYW4tMTg1MTU5ODM5Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9saWZlc3R5bGUvZGVsdGEtYWlybGluZXMtY2VvLWVkLWJhc3RpYW4tMTg1MTU5ODM5Lmh0bWzSAQA?oc=5\" target=\"_blank\">Delta Airlines CEO Ed Bastian Weighs in on United's Controversial New Boarding Process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Life</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Life",
+                "$": {
+                  "url": "https://www.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Projects Constructive Start To 2024 Despite Demand-Capacity Gap - Aviation Week"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9haXItdHJhbnNwb3J0L2FpcmxpbmVzLWxlc3NvcnMvZGVsdGEtcHJvamVjdHMtY29uc3RydWN0aXZlLXN0YXJ0LTIwMjQtZGVzcGl0ZS1kZW1hbmQtY2FwYWNpdHktZ2Fw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9haXItdHJhbnNwb3J0L2FpcmxpbmVzLWxlc3NvcnMvZGVsdGEtcHJvamVjdHMtY29uc3RydWN0aXZlLXN0YXJ0LTIwMjQtZGVzcGl0ZS1kZW1hbmQtY2FwYWNpdHktZ2Fw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9haXItdHJhbnNwb3J0L2FpcmxpbmVzLWxlc3NvcnMvZGVsdGEtcHJvamVjdHMtY29uc3RydWN0aXZlLXN0YXJ0LTIwMjQtZGVzcGl0ZS1kZW1hbmQtY2FwYWNpdHktZ2Fw0gEA?oc=5\" target=\"_blank\">Delta Projects Constructive Start To 2024 Despite Demand-Capacity Gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>"
+            ],
+            "source": [
+              {
+                "_": "Aviation Week",
+                "$": {
+                  "url": "https://aviationweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta more than doubles fourth-quarter profit, but trims 2024 earnings forecast - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDEvMTIvZGVsdGEtYWlyLWxpbmVzLWRhbC1xNC0yMDIzLWVhcm5pbmdzLmh0bWzSAU1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wMS8xMi9kZWx0YS1haXItbGluZXMtZGFsLXE0LTIwMjMtZWFybmluZ3MuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDEvMTIvZGVsdGEtYWlyLWxpbmVzLWRhbC1xNC0yMDIzLWVhcm5pbmdzLmh0bWzSAU1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wMS8xMi9kZWx0YS1haXItbGluZXMtZGFsLXE0LTIwMjMtZWFybmluZ3MuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDEvMTIvZGVsdGEtYWlyLWxpbmVzLWRhbC1xNC0yMDIzLWVhcm5pbmdzLmh0bWzSAU1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wMS8xMi9kZWx0YS1haXItbGluZXMtZGFsLXE0LTIwMjMtZWFybmluZ3MuaHRtbA?oc=5\" target=\"_blank\">Delta more than doubles fourth-quarter profit, but trims 2024 earnings forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A message to Delta SkyMiles members from CEO Ed Bastian: More to enjoy this summer - Delta News Hub"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbmV3cy5kZWx0YS5jb20vbWVzc2FnZS1kZWx0YS1za3ltaWxlcy1tZW1iZXJzLWNlby1lZC1iYXN0aWFuLW1vcmUtZW5qb3ktc3VtbWVy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vbmV3cy5kZWx0YS5jb20vbWVzc2FnZS1kZWx0YS1za3ltaWxlcy1tZW1iZXJzLWNlby1lZC1iYXN0aWFuLW1vcmUtZW5qb3ktc3VtbWVy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbmV3cy5kZWx0YS5jb20vbWVzc2FnZS1kZWx0YS1za3ltaWxlcy1tZW1iZXJzLWNlby1lZC1iYXN0aWFuLW1vcmUtZW5qb3ktc3VtbWVy0gEA?oc=5\" target=\"_blank\">A message to Delta SkyMiles members from CEO Ed Bastian: More to enjoy this summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Delta News Hub</font>"
+            ],
+            "source": [
+              {
+                "_": "Delta News Hub",
+                "$": {
+                  "url": "https://news.delta.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta closed 2023 20% above pre-pandemic travel levels: CEO - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vZGVsdGEtY2xvc2VkLTIwMjMtMjAtYWJvdmUtMTQ1NTU3ODE3Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vZGVsdGEtY2xvc2VkLTIwMjMtMjAtYWJvdmUtMTQ1NTU3ODE3Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vZGVsdGEtY2xvc2VkLTIwMjMtMjAtYWJvdmUtMTQ1NTU3ODE3Lmh0bWzSAQA?oc=5\" target=\"_blank\">Delta closed 2023 20% above pre-pandemic travel levels: CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO Admits Airline May Have Gone 'Too Far' With Loyalty Changes - Travel + Leisure"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRyYXZlbGFuZGxlaXN1cmUuY29tL2RlbHRhLWNlby1lZC1iYXN0aWFuLXNreW1pbGVzLXN0YXR1cy1jaGFuZ2UtNzk3NjAxNNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LnRyYXZlbGFuZGxlaXN1cmUuY29tL2RlbHRhLWNlby1lZC1iYXN0aWFuLXNreW1pbGVzLXN0YXR1cy1jaGFuZ2UtNzk3NjAxNNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRyYXZlbGFuZGxlaXN1cmUuY29tL2RlbHRhLWNlby1lZC1iYXN0aWFuLXNreW1pbGVzLXN0YXR1cy1jaGFuZ2UtNzk3NjAxNNIBAA?oc=5\" target=\"_blank\">Delta CEO Admits Airline May Have Gone 'Too Far' With Loyalty Changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel + Leisure</font>"
+            ],
+            "source": [
+              {
+                "_": "Travel + Leisure",
+                "$": {
+                  "url": "https://www.travelandleisure.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta tops Q4 expectations, CEO says 2024 'off to a flying start' Yahoo Finance - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS10b3BzLXE0LWV4cGVjdGF0aW9ucy1jZW8tc2F5cy0yMDI0LW9mZi10by1hLWZseWluZy1zdGFydC0xMTM1MTYwMjAuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS10b3BzLXE0LWV4cGVjdGF0aW9ucy1jZW8tc2F5cy0yMDI0LW9mZi10by1hLWZseWluZy1zdGFydC0xMTM1MTYwMjAuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS10b3BzLXE0LWV4cGVjdGF0aW9ucy1jZW8tc2F5cy0yMDI0LW9mZi10by1hLWZseWluZy1zdGFydC0xMTM1MTYwMjAuaHRtbNIBAA?oc=5\" target=\"_blank\">Delta tops Q4 expectations, CEO says 2024 'off to a flying start' Yahoo Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "At CEO of the Year Gala, Bastian and Benioff Share Secrets Of Building Resilience - Chief Executive"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2Jhc3RpYW4tYmVuaW9mZi1nby1kZWVwLW9uLWNvcnBvcmF0ZS1yZXNpbGllbmNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2Jhc3RpYW4tYmVuaW9mZi1nby1kZWVwLW9uLWNvcnBvcmF0ZS1yZXNpbGllbmNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vY2hpZWZleGVjdXRpdmUubmV0L2Jhc3RpYW4tYmVuaW9mZi1nby1kZWVwLW9uLWNvcnBvcmF0ZS1yZXNpbGllbmNlL9IBAA?oc=5\" target=\"_blank\">At CEO of the Year Gala, Bastian and Benioff Share Secrets Of Building Resilience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chief Executive</font>"
+            ],
+            "source": [
+              {
+                "_": "Chief Executive",
+                "$": {
+                  "url": "https://chiefexecutive.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO expects holiday travel demand to set 'record for the company' - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1jZW8tZXhwZWN0cy1ob2xpZGF5LXRyYXZlbC1kZW1hbmQtdG8tc2V0LXJlY29yZC1mb3ItdGhlLWNvbXBhbnktMjExNzU3MTk0Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1jZW8tZXhwZWN0cy1ob2xpZGF5LXRyYXZlbC1kZW1hbmQtdG8tc2V0LXJlY29yZC1mb3ItdGhlLWNvbXBhbnktMjExNzU3MTk0Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1jZW8tZXhwZWN0cy1ob2xpZGF5LXRyYXZlbC1kZW1hbmQtdG8tc2V0LXJlY29yZC1mb3ItdGhlLWNvbXBhbnktMjExNzU3MTk0Lmh0bWzSAQA?oc=5\" target=\"_blank\">Delta CEO expects holiday travel demand to set 'record for the company'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ed Bastian named 2023 Ethical Leader of the Year at Society for Human Resource Management's Annual Conference ... - Delta News Hub"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbmV3cy5kZWx0YS5jb20vZWQtYmFzdGlhbi1uYW1lZC0yMDIzLWV0aGljYWwtbGVhZGVyLXllYXItc29jaWV0eS1odW1hbi1yZXNvdXJjZS1tYW5hZ2VtZW50cy1hbm51YWwtY29uZmVyZW5jZS1leHBv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vbmV3cy5kZWx0YS5jb20vZWQtYmFzdGlhbi1uYW1lZC0yMDIzLWV0aGljYWwtbGVhZGVyLXllYXItc29jaWV0eS1odW1hbi1yZXNvdXJjZS1tYW5hZ2VtZW50cy1hbm51YWwtY29uZmVyZW5jZS1leHBv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 15 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbmV3cy5kZWx0YS5jb20vZWQtYmFzdGlhbi1uYW1lZC0yMDIzLWV0aGljYWwtbGVhZGVyLXllYXItc29jaWV0eS1odW1hbi1yZXNvdXJjZS1tYW5hZ2VtZW50cy1hbm51YWwtY29uZmVyZW5jZS1leHBv0gEA?oc=5\" target=\"_blank\">Ed Bastian named 2023 Ethical Leader of the Year at Society for Human Resource Management's Annual Conference ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Delta News Hub</font>"
+            ],
+            "source": [
+              {
+                "_": "Delta News Hub",
+                "$": {
+                  "url": "https://news.delta.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta’s Ed Bastian Wins 2023 CEO of the Year Award - Business Traveler USA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYnVzaW5lc3N0cmF2ZWxlcnVzYS5jb20vbmV3cy9kZWx0YS1lZC1iYXN0aWFuLXdpbnMtMjAyMy1jZW8tb2YtdGhlLXllYXItYXdhcmQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vYnVzaW5lc3N0cmF2ZWxlcnVzYS5jb20vbmV3cy9kZWx0YS1lZC1iYXN0aWFuLXdpbnMtMjAyMy1jZW8tb2YtdGhlLXllYXItYXdhcmQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYnVzaW5lc3N0cmF2ZWxlcnVzYS5jb20vbmV3cy9kZWx0YS1lZC1iYXN0aWFuLXdpbnMtMjAyMy1jZW8tb2YtdGhlLXllYXItYXdhcmQv0gEA?oc=5\" target=\"_blank\">Delta’s Ed Bastian Wins 2023 CEO of the Year Award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Traveler USA</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Traveler USA",
+                "$": {
+                  "url": "https://businesstravelerusa.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta's quarterly profit tops estimates on booming international travel - IndiaTimes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9idXNpbmVzcy9pbnRlcm5hdGlvbmFsLWJ1c2luZXNzL2RlbHRhcy1xdWFydGVybHktcHJvZml0LXRvcHMtZXN0aW1hdGVzLW9uLWJvb21pbmctaW50ZXJuYXRpb25hbC10cmF2ZWwvYXJ0aWNsZXNob3cvMTA0MzcyMTQwLmNtc9IBnwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9idXNpbmVzcy9pbnRlcm5hdGlvbmFsLWJ1c2luZXNzL2RlbHRhcy1xdWFydGVybHktcHJvZml0LXRvcHMtZXN0aW1hdGVzLW9uLWJvb21pbmctaW50ZXJuYXRpb25hbC10cmF2ZWwvYW1wX2FydGljbGVzaG93LzEwNDM3MjE0MC5jbXM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9idXNpbmVzcy9pbnRlcm5hdGlvbmFsLWJ1c2luZXNzL2RlbHRhcy1xdWFydGVybHktcHJvZml0LXRvcHMtZXN0aW1hdGVzLW9uLWJvb21pbmctaW50ZXJuYXRpb25hbC10cmF2ZWwvYXJ0aWNsZXNob3cvMTA0MzcyMTQwLmNtc9IBnwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9idXNpbmVzcy9pbnRlcm5hdGlvbmFsLWJ1c2luZXNzL2RlbHRhcy1xdWFydGVybHktcHJvZml0LXRvcHMtZXN0aW1hdGVzLW9uLWJvb21pbmctaW50ZXJuYXRpb25hbC10cmF2ZWwvYW1wX2FydGljbGVzaG93LzEwNDM3MjE0MC5jbXM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9idXNpbmVzcy9pbnRlcm5hdGlvbmFsLWJ1c2luZXNzL2RlbHRhcy1xdWFydGVybHktcHJvZml0LXRvcHMtZXN0aW1hdGVzLW9uLWJvb21pbmctaW50ZXJuYXRpb25hbC10cmF2ZWwvYXJ0aWNsZXNob3cvMTA0MzcyMTQwLmNtc9IBnwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9idXNpbmVzcy9pbnRlcm5hdGlvbmFsLWJ1c2luZXNzL2RlbHRhcy1xdWFydGVybHktcHJvZml0LXRvcHMtZXN0aW1hdGVzLW9uLWJvb21pbmctaW50ZXJuYXRpb25hbC10cmF2ZWwvYW1wX2FydGljbGVzaG93LzEwNDM3MjE0MC5jbXM?oc=5\" target=\"_blank\">Delta's quarterly profit tops estimates on booming international travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndiaTimes</font>"
+            ],
+            "source": [
+              {
+                "_": "IndiaTimes",
+                "$": {
+                  "url": "https://m.timesofindia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO Confident In Boeing While Awaiting 737 MAX 10 - Simple Flying"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9kZWx0YS1jZW8tY29uZmlkZW50LWJvZWluZy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiNGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9kZWx0YS1jZW8tY29uZmlkZW50LWJvZWluZy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 20 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9kZWx0YS1jZW8tY29uZmlkZW50LWJvZWluZy_SAQA?oc=5\" target=\"_blank\">Delta CEO Confident In Boeing While Awaiting 737 MAX 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simple Flying</font>"
+            ],
+            "source": [
+              {
+                "_": "Simple Flying",
+                "$": {
+                  "url": "https://simpleflying.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta SkyMiles AmEx credit cards revamped with more perks after fiasco -- but there's a catch - New York Post "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzAyLzAxL2J1c2luZXNzL2RlbHRhLXNreW1pbGVzLWFtZXgtY3JlZGl0LWNhcmRzLXJldmFtcGVkLXdpdGgtbW9yZS1wZXJrcy1idXQtdGhlcmVzLWEtY2F0Y2gv0gF4aHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDIvMDEvYnVzaW5lc3MvZGVsdGEtc2t5bWlsZXMtYW1leC1jcmVkaXQtY2FyZHMtcmV2YW1wZWQtd2l0aC1tb3JlLXBlcmtzLWJ1dC10aGVyZXMtYS1jYXRjaC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzAyLzAxL2J1c2luZXNzL2RlbHRhLXNreW1pbGVzLWFtZXgtY3JlZGl0LWNhcmRzLXJldmFtcGVkLXdpdGgtbW9yZS1wZXJrcy1idXQtdGhlcmVzLWEtY2F0Y2gv0gF4aHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDIvMDEvYnVzaW5lc3MvZGVsdGEtc2t5bWlsZXMtYW1leC1jcmVkaXQtY2FyZHMtcmV2YW1wZWQtd2l0aC1tb3JlLXBlcmtzLWJ1dC10aGVyZXMtYS1jYXRjaC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 17:09:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzAyLzAxL2J1c2luZXNzL2RlbHRhLXNreW1pbGVzLWFtZXgtY3JlZGl0LWNhcmRzLXJldmFtcGVkLXdpdGgtbW9yZS1wZXJrcy1idXQtdGhlcmVzLWEtY2F0Y2gv0gF4aHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDIvMDEvYnVzaW5lc3MvZGVsdGEtc2t5bWlsZXMtYW1leC1jcmVkaXQtY2FyZHMtcmV2YW1wZWQtd2l0aC1tb3JlLXBlcmtzLWJ1dC10aGVyZXMtYS1jYXRjaC9hbXAv?oc=5\" target=\"_blank\">Delta SkyMiles AmEx credit cards revamped with more perks after fiasco -- but there's a catch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post </font>"
+            ],
+            "source": [
+              {
+                "_": "New York Post ",
+                "$": {
+                  "url": "https://nypost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO Ed Bastian slams United's 'complicated' new airplane boarding process: 'Just boarding people' is fas - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI3MzM0MDcvRGVsdGEtQ0VPLVVuaXRlZC1ib2FyZGluZy1wcm9jZXNzLWNoYW5nZS5odG1s0gFjaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMjczMzQwNy9hbXAvRGVsdGEtQ0VPLVVuaXRlZC1ib2FyZGluZy1wcm9jZXNzLWNoYW5nZS5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI3MzM0MDcvRGVsdGEtQ0VPLVVuaXRlZC1ib2FyZGluZy1wcm9jZXNzLWNoYW5nZS5odG1s0gFjaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMjczMzQwNy9hbXAvRGVsdGEtQ0VPLVVuaXRlZC1ib2FyZGluZy1wcm9jZXNzLWNoYW5nZS5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI3MzM0MDcvRGVsdGEtQ0VPLVVuaXRlZC1ib2FyZGluZy1wcm9jZXNzLWNoYW5nZS5odG1s0gFjaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMjczMzQwNy9hbXAvRGVsdGEtQ0VPLVVuaXRlZC1ib2FyZGluZy1wcm9jZXNzLWNoYW5nZS5odG1s?oc=5\" target=\"_blank\">Delta CEO Ed Bastian slams United's 'complicated' new airplane boarding process: 'Just boarding people' is fas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines profit jumps almost 60% after strong summer - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTAvMTIvZGVsdGEtYWlyLWxpbmVzLWRhbC1xMy0yMDIzLWVhcm5pbmdzLmh0bWzSAU1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8xMC8xMi9kZWx0YS1haXItbGluZXMtZGFsLXEzLTIwMjMtZWFybmluZ3MuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTAvMTIvZGVsdGEtYWlyLWxpbmVzLWRhbC1xMy0yMDIzLWVhcm5pbmdzLmh0bWzSAU1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8xMC8xMi9kZWx0YS1haXItbGluZXMtZGFsLXEzLTIwMjMtZWFybmluZ3MuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTAvMTIvZGVsdGEtYWlyLWxpbmVzLWRhbC1xMy0yMDIzLWVhcm5pbmdzLmh0bWzSAU1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8xMC8xMi9kZWx0YS1haXItbGluZXMtZGFsLXEzLTIwMjMtZWFybmluZ3MuaHRtbA?oc=5\" target=\"_blank\">Delta Air Lines profit jumps almost 60% after strong summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta, Virgin Atlantic CEOs on the State of Travel - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy92aWRlb3MvMjAyMy0xMC0yMy9kZWx0YS12aXJnaW4tYXRsYW50aWMtY2Vvcy1vbi10aGUtc3RhdGUtb2YtdHJhdmVsLXZpZGVv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy92aWRlb3MvMjAyMy0xMC0yMy9kZWx0YS12aXJnaW4tYXRsYW50aWMtY2Vvcy1vbi10aGUtc3RhdGUtb2YtdHJhdmVsLXZpZGVv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy92aWRlb3MvMjAyMy0xMC0yMy9kZWx0YS12aXJnaW4tYXRsYW50aWMtY2Vvcy1vbi10aGUtc3RhdGUtb2YtdHJhdmVsLXZpZGVv0gEA?oc=5\" target=\"_blank\">Delta, Virgin Atlantic CEOs on the State of Travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tom Brady joins Delta as strategic advisor: NFL legend discusses new partnership - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDkvMDYvdG9tLWJyYWR5LWpvaW5zLWRlbHRhLWFzLXN0cmF0ZWdpYy1hZHZpc29yLW5mbC1sZWdlbmQtZGlzY3Vzc2VzLW5ldy1wYXJ0bmVyc2hpcC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDkvMDYvdG9tLWJyYWR5LWpvaW5zLWRlbHRhLWFzLXN0cmF0ZWdpYy1hZHZpc29yLW5mbC1sZWdlbmQtZGlzY3Vzc2VzLW5ldy1wYXJ0bmVyc2hpcC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDkvMDYvdG9tLWJyYWR5LWpvaW5zLWRlbHRhLWFzLXN0cmF0ZWdpYy1hZHZpc29yLW5mbC1sZWdlbmQtZGlzY3Vzc2VzLW5ldy1wYXJ0bmVyc2hpcC5odG1s0gEA?oc=5\" target=\"_blank\">Tom Brady joins Delta as strategic advisor: NFL legend discusses new partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta's Ed Bastian Named Chief Executive Magazine's 2023 CEO of The Year - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby1vZi10aGUteWVhci0zMDE4MTExMDguaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby1vZi10aGUteWVhci0zMDE4MTExMDguaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 01 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby1vZi10aGUteWVhci0zMDE4MTExMDguaHRtbNIBAA?oc=5\" target=\"_blank\">Delta's Ed Bastian Named Chief Executive Magazine's 2023 CEO of The Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO confident Boeing will learn from mid-air panel incident - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1jZW8tY29uZmlkZW50LWJvZWluZy1sZWFybi0xMTM3MjI2NjQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1jZW8tY29uZmlkZW50LWJvZWluZy1sZWFybi0xMTM3MjI2NjQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1jZW8tY29uZmlkZW50LWJvZWluZy1sZWFybi0xMTM3MjI2NjQuaHRtbNIBAA?oc=5\" target=\"_blank\">Delta CEO confident Boeing will learn from mid-air panel incident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta's Ed Bastian reflects on his tenure as CEO in Atlanta Rotary visit - SaportaReport - SaportaReport"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3NhcG9ydGFyZXBvcnQuY29tL2RlbHRhcy1lZC1iYXN0aWFuLXJlZmxlY3RzLW9uLWhpcy10ZW51cmUtYXMtY2VvLWluLWF0bGFudGEtcm90YXJ5LXZpc2l0L3NlY3Rpb25zL3JlcG9ydHMvbWFyaWFfc2Fwb3J0YS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3NhcG9ydGFyZXBvcnQuY29tL2RlbHRhcy1lZC1iYXN0aWFuLXJlZmxlY3RzLW9uLWhpcy10ZW51cmUtYXMtY2VvLWluLWF0bGFudGEtcm90YXJ5LXZpc2l0L3NlY3Rpb25zL3JlcG9ydHMvbWFyaWFfc2Fwb3J0YS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 25 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3NhcG9ydGFyZXBvcnQuY29tL2RlbHRhcy1lZC1iYXN0aWFuLXJlZmxlY3RzLW9uLWhpcy10ZW51cmUtYXMtY2VvLWluLWF0bGFudGEtcm90YXJ5LXZpc2l0L3NlY3Rpb25zL3JlcG9ydHMvbWFyaWFfc2Fwb3J0YS_SAQA?oc=5\" target=\"_blank\">Delta's Ed Bastian reflects on his tenure as CEO in Atlanta Rotary visit - SaportaReport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SaportaReport</font>"
+            ],
+            "source": [
+              {
+                "_": "SaportaReport",
+                "$": {
+                  "url": "https://saportareport.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO says carrier went 'too far' in SkyMiles changes, promises modifications after frequent flyer backlash - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5jbmJjLmNvbS8yMDIzLzA5LzI4L2RlbHRhLWNlby1zYXlzLWNhcnJpZXItd2VudC10b28tZmFyLWluLXNreW1pbGVzLWNoYW5nZXMtcHJvbWlzZXMtbW9kaWZpY2F0aW9ucy1hZnRlci1mcmVxdWVudC1mbHllci1iYWNrbGFzaC5odG1s0gGVAWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIzLzA5LzI4L2RlbHRhLWNlby1zYXlzLWNhcnJpZXItd2VudC10b28tZmFyLWluLXNreW1pbGVzLWNoYW5nZXMtcHJvbWlzZXMtbW9kaWZpY2F0aW9ucy1hZnRlci1mcmVxdWVudC1mbHllci1iYWNrbGFzaC5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3d3dy5jbmJjLmNvbS8yMDIzLzA5LzI4L2RlbHRhLWNlby1zYXlzLWNhcnJpZXItd2VudC10b28tZmFyLWluLXNreW1pbGVzLWNoYW5nZXMtcHJvbWlzZXMtbW9kaWZpY2F0aW9ucy1hZnRlci1mcmVxdWVudC1mbHllci1iYWNrbGFzaC5odG1s0gGVAWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIzLzA5LzI4L2RlbHRhLWNlby1zYXlzLWNhcnJpZXItd2VudC10b28tZmFyLWluLXNreW1pbGVzLWNoYW5nZXMtcHJvbWlzZXMtbW9kaWZpY2F0aW9ucy1hZnRlci1mcmVxdWVudC1mbHllci1iYWNrbGFzaC5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5jbmJjLmNvbS8yMDIzLzA5LzI4L2RlbHRhLWNlby1zYXlzLWNhcnJpZXItd2VudC10b28tZmFyLWluLXNreW1pbGVzLWNoYW5nZXMtcHJvbWlzZXMtbW9kaWZpY2F0aW9ucy1hZnRlci1mcmVxdWVudC1mbHllci1iYWNrbGFzaC5odG1s0gGVAWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIzLzA5LzI4L2RlbHRhLWNlby1zYXlzLWNhcnJpZXItd2VudC10b28tZmFyLWluLXNreW1pbGVzLWNoYW5nZXMtcHJvbWlzZXMtbW9kaWZpY2F0aW9ucy1hZnRlci1mcmVxdWVudC1mbHllci1iYWNrbGFzaC5odG1s?oc=5\" target=\"_blank\">Delta CEO says carrier went 'too far' in SkyMiles changes, promises modifications after frequent flyer backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO has no regrets when it comes to standing up for voting rights in Georgia - Fortune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1pbnRlcnZpZXctdm90aW5nLXJpZ2h0cy1ndW4tY29udHJvbC_SAVxodHRwczovL2ZvcnR1bmUuY29tLzIwMjMvMDYvMDgvZGVsdGEtY2VvLWVkLWJhc3RpYW4taW50ZXJ2aWV3LXZvdGluZy1yaWdodHMtZ3VuLWNvbnRyb2wvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1pbnRlcnZpZXctdm90aW5nLXJpZ2h0cy1ndW4tY29udHJvbC_SAVxodHRwczovL2ZvcnR1bmUuY29tLzIwMjMvMDYvMDgvZGVsdGEtY2VvLWVkLWJhc3RpYW4taW50ZXJ2aWV3LXZvdGluZy1yaWdodHMtZ3VuLWNvbnRyb2wvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wNi8wOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1pbnRlcnZpZXctdm90aW5nLXJpZ2h0cy1ndW4tY29udHJvbC_SAVxodHRwczovL2ZvcnR1bmUuY29tLzIwMjMvMDYvMDgvZGVsdGEtY2VvLWVkLWJhc3RpYW4taW50ZXJ2aWV3LXZvdGluZy1yaWdodHMtZ3VuLWNvbnRyb2wvYW1wLw?oc=5\" target=\"_blank\">Delta CEO has no regrets when it comes to standing up for voting rights in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+            ],
+            "source": [
+              {
+                "_": "Fortune",
+                "$": {
+                  "url": "https://fortune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta lifts profit forecast thanks to strong demand and premium tickets - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDYvMjcvZGVsdGEtYWlyLWxpbmVzLTIwMjMtZ3VpZGFuY2UtaW52ZXN0b3ItZGF5Lmh0bWzSAVNodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNi8yNy9kZWx0YS1haXItbGluZXMtMjAyMy1ndWlkYW5jZS1pbnZlc3Rvci1kYXkuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDYvMjcvZGVsdGEtYWlyLWxpbmVzLTIwMjMtZ3VpZGFuY2UtaW52ZXN0b3ItZGF5Lmh0bWzSAVNodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNi8yNy9kZWx0YS1haXItbGluZXMtMjAyMy1ndWlkYW5jZS1pbnZlc3Rvci1kYXkuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 27 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDYvMjcvZGVsdGEtYWlyLWxpbmVzLTIwMjMtZ3VpZGFuY2UtaW52ZXN0b3ItZGF5Lmh0bWzSAVNodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNi8yNy9kZWx0YS1haXItbGluZXMtMjAyMy1ndWlkYW5jZS1pbnZlc3Rvci1kYXkuaHRtbA?oc=5\" target=\"_blank\">Delta lifts profit forecast thanks to strong demand and premium tickets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO's Response to Companies That Complain They Can't Get Workers to Come Back to the Office Is the Best I've ... - Inc."
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5pbmMuY29tL2phc29uLWF0ZW4vZGVsdGEtY2Vvcy1yZXNwb25zZS10by1jb21wYW5pZXMtdGhhdC1jb21wbGFpbi10aGV5LWNhbnQtZ2V0LXdvcmtlcnMtdG8tY29tZS1iYWNrLXRvLW9mZmljZS1pcy1iZXN0LWl2ZS1oZWFyZC15ZXQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilQFodHRwczovL3d3dy5pbmMuY29tL2phc29uLWF0ZW4vZGVsdGEtY2Vvcy1yZXNwb25zZS10by1jb21wYW5pZXMtdGhhdC1jb21wbGFpbi10aGV5LWNhbnQtZ2V0LXdvcmtlcnMtdG8tY29tZS1iYWNrLXRvLW9mZmljZS1pcy1iZXN0LWl2ZS1oZWFyZC15ZXQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5pbmMuY29tL2phc29uLWF0ZW4vZGVsdGEtY2Vvcy1yZXNwb25zZS10by1jb21wYW5pZXMtdGhhdC1jb21wbGFpbi10aGV5LWNhbnQtZ2V0LXdvcmtlcnMtdG8tY29tZS1iYWNrLXRvLW9mZmljZS1pcy1iZXN0LWl2ZS1oZWFyZC15ZXQuaHRtbNIBAA?oc=5\" target=\"_blank\">Delta CEO's Response to Companies That Complain They Can't Get Workers to Come Back to the Office Is the Best I've ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inc.</font>"
+            ],
+            "source": [
+              {
+                "_": "Inc.",
+                "$": {
+                  "url": "https://www.inc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines' Ed Bastian Named CEO of the Year - Business Travel News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmJ1c2luZXNzdHJhdmVsbmV3cy5jb20vVHJhbnNwb3J0YXRpb24vQWlyL0RlbHRhLUFpci1MaW5lcy1FZC1CYXN0aWFuLU5hbWVkLUNFTy1vZi10aGUtWWVhctIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmJ1c2luZXNzdHJhdmVsbmV3cy5jb20vVHJhbnNwb3J0YXRpb24vQWlyL0RlbHRhLUFpci1MaW5lcy1FZC1CYXN0aWFuLU5hbWVkLUNFTy1vZi10aGUtWWVhctIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmJ1c2luZXNzdHJhdmVsbmV3cy5jb20vVHJhbnNwb3J0YXRpb24vQWlyL0RlbHRhLUFpci1MaW5lcy1FZC1CYXN0aWFuLU5hbWVkLUNFTy1vZi10aGUtWWVhctIBAA?oc=5\" target=\"_blank\">Delta Air Lines' Ed Bastian Named CEO of the Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Travel News</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Travel News",
+                "$": {
+                  "url": "https://www.businesstravelnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta (DAL) CEO Ed Bastian Pledges to Update SkyMiles Loyalty Program - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTA5LTI3L2RlbHRhLWNlby1wcm9taXNlcy1yZS1kby1hZnRlci1wbGFuLWNoYW5nZXMtaXJrLWZyZXF1ZW50LWZsaWVyc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTA5LTI3L2RlbHRhLWNlby1wcm9taXNlcy1yZS1kby1hZnRlci1wbGFuLWNoYW5nZXMtaXJrLWZyZXF1ZW50LWZsaWVyc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTA5LTI3L2RlbHRhLWNlby1wcm9taXNlcy1yZS1kby1hZnRlci1wbGFuLWNoYW5nZXMtaXJrLWZyZXF1ZW50LWZsaWVyc9IBAA?oc=5\" target=\"_blank\">Delta (DAL) CEO Ed Bastian Pledges to Update SkyMiles Loyalty Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta to Modify Frequent-Flier Program After Feedback - PYMNTS.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5weW1udHMuY29tL25ld3MvbG95YWx0eS1hbmQtcmV3YXJkcy1uZXdzLzIwMjMvZGVsdGEtYWlyLWxpbmVzLXRvLW1vZGlmeS1mcmVxdWVudC1mbGllci1wcm9ncmFtLWZvbGxvd2luZy1uZWdhdGl2ZS1mZWVkYmFjay_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5weW1udHMuY29tL25ld3MvbG95YWx0eS1hbmQtcmV3YXJkcy1uZXdzLzIwMjMvZGVsdGEtYWlyLWxpbmVzLXRvLW1vZGlmeS1mcmVxdWVudC1mbGllci1wcm9ncmFtLWZvbGxvd2luZy1uZWdhdGl2ZS1mZWVkYmFjay_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5weW1udHMuY29tL25ld3MvbG95YWx0eS1hbmQtcmV3YXJkcy1uZXdzLzIwMjMvZGVsdGEtYWlyLWxpbmVzLXRvLW1vZGlmeS1mcmVxdWVudC1mbGllci1wcm9ncmFtLWZvbGxvd2luZy1uZWdhdGl2ZS1mZWVkYmFjay_SAQA?oc=5\" target=\"_blank\">Delta to Modify Frequent-Flier Program After Feedback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>"
+            ],
+            "source": [
+              {
+                "_": "PYMNTS.com",
+                "$": {
+                  "url": "https://www.pymnts.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines CEO: Surge in travel spending to persist 'for quite some time' - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vZGVsdGEtYWlyLWxpbmVzLWNlby1zdXJnZS0xMzQwMTE0OTUuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vZGVsdGEtYWlyLWxpbmVzLWNlby1zdXJnZS0xMzQwMTE0OTUuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vZGVsdGEtYWlyLWxpbmVzLWNlby1zdXJnZS0xMzQwMTE0OTUuaHRtbNIBAA?oc=5\" target=\"_blank\">Delta Air Lines CEO: Surge in travel spending to persist 'for quite some time'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO On Loyalty Changes: 'We Will Be Making Modifications' - Skift Travel News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc2tpZnQuY29tL2Jsb2cvZGVsdGEtY2VvLW9uLWxveWFsdHktY2hhbmdlcy13ZS1tb3ZlZC10b28tZmFzdHdlLXdpbGwtYmUtbWFraW5nLW1vZGlmaWNhdGlvbnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vc2tpZnQuY29tL2Jsb2cvZGVsdGEtY2VvLW9uLWxveWFsdHktY2hhbmdlcy13ZS1tb3ZlZC10b28tZmFzdHdlLXdpbGwtYmUtbWFraW5nLW1vZGlmaWNhdGlvbnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc2tpZnQuY29tL2Jsb2cvZGVsdGEtY2VvLW9uLWxveWFsdHktY2hhbmdlcy13ZS1tb3ZlZC10b28tZmFzdHdlLXdpbGwtYmUtbWFraW5nLW1vZGlmaWNhdGlvbnMv0gEA?oc=5\" target=\"_blank\">Delta CEO On Loyalty Changes: 'We Will Be Making Modifications'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skift Travel News</font>"
+            ],
+            "source": [
+              {
+                "_": "Skift Travel News",
+                "$": {
+                  "url": "https://skift.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Highest-Paid U.S. Airline CEOs in 2022 - Skift Travel News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc2tpZnQuY29tLzIwMjMvMDYvMTMvaGlnaGVzdC1wYWlkLXUtcy1haXJsaW5lLWNlb3MtaW4tMjAyMi_SAUdodHRwczovL3NraWZ0LmNvbS8yMDIzLzA2LzEzL2hpZ2hlc3QtcGFpZC11LXMtYWlybGluZS1jZW9zLWluLTIwMjIvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vc2tpZnQuY29tLzIwMjMvMDYvMTMvaGlnaGVzdC1wYWlkLXUtcy1haXJsaW5lLWNlb3MtaW4tMjAyMi_SAUdodHRwczovL3NraWZ0LmNvbS8yMDIzLzA2LzEzL2hpZ2hlc3QtcGFpZC11LXMtYWlybGluZS1jZW9zLWluLTIwMjIvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc2tpZnQuY29tLzIwMjMvMDYvMTMvaGlnaGVzdC1wYWlkLXUtcy1haXJsaW5lLWNlb3MtaW4tMjAyMi_SAUdodHRwczovL3NraWZ0LmNvbS8yMDIzLzA2LzEzL2hpZ2hlc3QtcGFpZC11LXMtYWlybGluZS1jZW9zLWluLTIwMjIvYW1wLw?oc=5\" target=\"_blank\">Highest-Paid U.S. Airline CEOs in 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skift Travel News</font>"
+            ],
+            "source": [
+              {
+                "_": "Skift Travel News",
+                "$": {
+                  "url": "https://skift.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta and Virgin Atlantics CEOs Talk Travel Industry - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hdWRpby8yMDIzLTEwLTIzL2RlbHRhLWFuZC12aXJnaW4tYXRsYW50aWNzLWNlb3MtdGFsay10cmF2ZWwtaW5kdXN0cnnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hdWRpby8yMDIzLTEwLTIzL2RlbHRhLWFuZC12aXJnaW4tYXRsYW50aWNzLWNlb3MtdGFsay10cmF2ZWwtaW5kdXN0cnnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hdWRpby8yMDIzLTEwLTIzL2RlbHRhLWFuZC12aXJnaW4tYXRsYW50aWNzLWNlb3MtdGFsay10cmF2ZWwtaW5kdXN0cnnSAQA?oc=5\" target=\"_blank\">Delta and Virgin Atlantics CEOs Talk Travel Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines posts $1.11 billion profit for the third quarter and sees strong holiday bookings - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1haXItbGluZXMtcG9zdHMtMS0xMDMyNDAxMzIuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1haXItbGluZXMtcG9zdHMtMS0xMDMyNDAxMzIuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1haXItbGluZXMtcG9zdHMtMS0xMDMyNDAxMzIuaHRtbNIBAA?oc=5\" target=\"_blank\">Delta Air Lines posts $1.11 billion profit for the third quarter and sees strong holiday bookings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Airlines CEO Ed Bastian shares new guidelines after blowback - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay95b3VybW9uZXkvYXJ0aWNsZS0xMjY0OTM2OS9EZWx0YS1BaXJsaW5lcy1DRU8tRWQtQmFzdGlhbi1sb3VuZ2UtYWNjZXNzLW1lZGFsbGlvbi1wb2xpY3ktdXBkYXRlLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay95b3VybW9uZXkvYXJ0aWNsZS0xMjY0OTM2OS9EZWx0YS1BaXJsaW5lcy1DRU8tRWQtQmFzdGlhbi1sb3VuZ2UtYWNjZXNzLW1lZGFsbGlvbi1wb2xpY3ktdXBkYXRlLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay95b3VybW9uZXkvYXJ0aWNsZS0xMjY0OTM2OS9EZWx0YS1BaXJsaW5lcy1DRU8tRWQtQmFzdGlhbi1sb3VuZ2UtYWNjZXNzLW1lZGFsbGlvbi1wb2xpY3ktdXBkYXRlLmh0bWzSAQA?oc=5\" target=\"_blank\">Delta Airlines CEO Ed Bastian shares new guidelines after blowback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines posts quarterly loss but forecasts profit as peak travel season approaches - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDQvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC1lYXJuaW5ncy1xMS0yMDIzLmh0bWzSAU1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNC8xMy9kZWx0YS1haXItbGluZXMtZGFsLWVhcm5pbmdzLXExLTIwMjMuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDQvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC1lYXJuaW5ncy1xMS0yMDIzLmh0bWzSAU1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNC8xMy9kZWx0YS1haXItbGluZXMtZGFsLWVhcm5pbmdzLXExLTIwMjMuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDQvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC1lYXJuaW5ncy1xMS0yMDIzLmh0bWzSAU1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNC8xMy9kZWx0YS1haXItbGluZXMtZGFsLWVhcm5pbmdzLXExLTIwMjMuaHRtbA?oc=5\" target=\"_blank\">Delta Air Lines posts quarterly loss but forecasts profit as peak travel season approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines Q3 Earnings: Recap on Results, Analyst Call - Business Insider"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtYWlyLWxpbmVzLXEzLWVhcm5pbmdzLWxpdmUtdXBkYXRlcy1yZXN1bHRzLWFuYWx5c3QtY2FsbC0yMDIzLTEw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtYWlyLWxpbmVzLXEzLWVhcm5pbmdzLWxpdmUtdXBkYXRlcy1yZXN1bHRzLWFuYWx5c3QtY2FsbC0yMDIzLTEw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtYWlyLWxpbmVzLXEzLWVhcm5pbmdzLWxpdmUtdXBkYXRlcy1yZXN1bHRzLWFuYWx5c3QtY2FsbC0yMDIzLTEw0gEA?oc=5\" target=\"_blank\">Delta Air Lines Q3 Earnings: Recap on Results, Analyst Call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Insider",
+                "$": {
+                  "url": "https://www.businessinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'We can be more': Delta CEO, Federal Reserve Bank of Atlanta boss tackle economic equity - Delta News Hub"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbmV3cy5kZWx0YS5jb20vd2UtY2FuLWJlLW1vcmUtZGVsdGEtY2VvLWZlZGVyYWwtcmVzZXJ2ZS1iYW5rLWF0bGFudGEtYm9zcy10YWNrbGUtZWNvbm9taWMtZXF1aXR50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vbmV3cy5kZWx0YS5jb20vd2UtY2FuLWJlLW1vcmUtZGVsdGEtY2VvLWZlZGVyYWwtcmVzZXJ2ZS1iYW5rLWF0bGFudGEtYm9zcy10YWNrbGUtZWNvbm9taWMtZXF1aXR50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbmV3cy5kZWx0YS5jb20vd2UtY2FuLWJlLW1vcmUtZGVsdGEtY2VvLWZlZGVyYWwtcmVzZXJ2ZS1iYW5rLWF0bGFudGEtYm9zcy10YWNrbGUtZWNvbm9taWMtZXF1aXR50gEA?oc=5\" target=\"_blank\">'We can be more': Delta CEO, Federal Reserve Bank of Atlanta boss tackle economic equity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Delta News Hub</font>"
+            ],
+            "source": [
+              {
+                "_": "Delta News Hub",
+                "$": {
+                  "url": "https://news.delta.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO admits going 'too far' in changes to SkyMiles program - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vZGVsdGEtY2VvLWFkbWl0cy1nb2luZy10b28tMTczMjM3MzU3Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vZGVsdGEtY2VvLWFkbWl0cy1nb2luZy10b28tMTczMjM3MzU3Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vZGVsdGEtY2VvLWFkbWl0cy1nb2luZy10b28tMTczMjM3MzU3Lmh0bWzSAQA?oc=5\" target=\"_blank\">Delta CEO admits going 'too far' in changes to SkyMiles program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO admits the company made a major mistake - TheStreet"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vbGlmZXN0eWxlL3RyYXZlbC9kZWx0YS1jZW8tYWRtaXRzLWNvbXBhbnktbWFkZS1tYWpvci1taXN0YWtl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vbGlmZXN0eWxlL3RyYXZlbC9kZWx0YS1jZW8tYWRtaXRzLWNvbXBhbnktbWFkZS1tYWpvci1taXN0YWtl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vbGlmZXN0eWxlL3RyYXZlbC9kZWx0YS1jZW8tYWRtaXRzLWNvbXBhbnktbWFkZS1tYWpvci1taXN0YWtl0gEA?oc=5\" target=\"_blank\">Delta CEO admits the company made a major mistake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet</font>"
+            ],
+            "source": [
+              {
+                "_": "TheStreet",
+                "$": {
+                  "url": "https://www.thestreet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta global CEO named Ethical Leader of the Year - HR Brew"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmhyLWJyZXcuY29tL3N0b3JpZXMvMjAyMy8wNi8xNC9kZWx0YS1nbG9iYWwtY2VvLW5hbWVkLWV0aGljYWwtbGVhZGVyLW9mLXRoZS15ZWFy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LmhyLWJyZXcuY29tL3N0b3JpZXMvMjAyMy8wNi8xNC9kZWx0YS1nbG9iYWwtY2VvLW5hbWVkLWV0aGljYWwtbGVhZGVyLW9mLXRoZS15ZWFy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 14 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmhyLWJyZXcuY29tL3N0b3JpZXMvMjAyMy8wNi8xNC9kZWx0YS1nbG9iYWwtY2VvLW5hbWVkLWV0aGljYWwtbGVhZGVyLW9mLXRoZS15ZWFy0gEA?oc=5\" target=\"_blank\">Delta global CEO named Ethical Leader of the Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HR Brew</font>"
+            ],
+            "source": [
+              {
+                "_": "HR Brew",
+                "$": {
+                  "url": "https://www.hr-brew.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines CEO: SkyMiles backlash is heard, changes coming - TheStreet"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpci1saW5lcy1jZW8tc2t5LWNsdWItYmFja2xhc2gtaXMtaGVhcmQtY2hhbmdlcy1jb21pbmfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpci1saW5lcy1jZW8tc2t5LWNsdWItYmFja2xhc2gtaXMtaGVhcmQtY2hhbmdlcy1jb21pbmfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpci1saW5lcy1jZW8tc2t5LWNsdWItYmFja2xhc2gtaXMtaGVhcmQtY2hhbmdlcy1jb21pbmfSAQA?oc=5\" target=\"_blank\">Delta Air Lines CEO: SkyMiles backlash is heard, changes coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet</font>"
+            ],
+            "source": [
+              {
+                "_": "TheStreet",
+                "$": {
+                  "url": "https://www.thestreet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO Hints at Rolling Back Some SkyMiles Changes - NerdWallet"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm5lcmR3YWxsZXQuY29tL2FydGljbGUvdHJhdmVsL2RlbHRhLWNlby1oaW50cy1hdC1yb2xsaW5nLWJhY2stc29tZS1za3ltaWxlcy1jaGFuZ2Vz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3Lm5lcmR3YWxsZXQuY29tL2FydGljbGUvdHJhdmVsL2RlbHRhLWNlby1oaW50cy1hdC1yb2xsaW5nLWJhY2stc29tZS1za3ltaWxlcy1jaGFuZ2Vz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm5lcmR3YWxsZXQuY29tL2FydGljbGUvdHJhdmVsL2RlbHRhLWNlby1oaW50cy1hdC1yb2xsaW5nLWJhY2stc29tZS1za3ltaWxlcy1jaGFuZ2Vz0gEA?oc=5\" target=\"_blank\">Delta CEO Hints at Rolling Back Some SkyMiles Changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NerdWallet</font>"
+            ],
+            "source": [
+              {
+                "_": "NerdWallet",
+                "$": {
+                  "url": "https://www.nerdwallet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta says travel boom is not over yet - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS10cmltcy1mdWxsLXByb2ZpdC1vdXRsb29rLTEwMzQxNTQxNy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS10cmltcy1mdWxsLXByb2ZpdC1vdXRsb29rLTEwMzQxNTQxNy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS10cmltcy1mdWxsLXByb2ZpdC1vdXRsb29rLTEwMzQxNTQxNy5odG1s0gEA?oc=5\" target=\"_blank\">Delta says travel boom is not over yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO Apologizes, But Will Angry SkyMiles Frequent Flyers Ditch Airline For Alaska Or JetBlue? - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWljaGFlbGdvbGRzdGVpbi8yMDIzLzA5LzI4L2RlbHRhLWNlby1hcG9sb2dpemVzLWJ1dC13aWxsLWpldGJsdWUtYW5kLWFsYXNrYS1zdGVhbC1lbGl0ZS1mbHllcnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWljaGFlbGdvbGRzdGVpbi8yMDIzLzA5LzI4L2RlbHRhLWNlby1hcG9sb2dpemVzLWJ1dC13aWxsLWpldGJsdWUtYW5kLWFsYXNrYS1zdGVhbC1lbGl0ZS1mbHllcnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWljaGFlbGdvbGRzdGVpbi8yMDIzLzA5LzI4L2RlbHRhLWNlby1hcG9sb2dpemVzLWJ1dC13aWxsLWpldGJsdWUtYW5kLWFsYXNrYS1zdGVhbC1lbGl0ZS1mbHllcnMv0gEA?oc=5\" target=\"_blank\">Delta CEO Apologizes, But Will Angry SkyMiles Frequent Flyers Ditch Airline For Alaska Or JetBlue?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Backs Down on SkyMiles Changes After Outcry - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDkvMjgvYnVzaW5lc3MvZGVsdGEtc2t5bWlsZXMtY2hhbmdlcy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDkvMjgvYnVzaW5lc3MvZGVsdGEtc2t5bWlsZXMtY2hhbmdlcy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDkvMjgvYnVzaW5lc3MvZGVsdGEtc2t5bWlsZXMtY2hhbmdlcy5odG1s0gEA?oc=5\" target=\"_blank\">Delta Backs Down on SkyMiles Changes After Outcry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta posts record quarterly earnings, hikes full-year outlook on travel boom - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDcvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC0ycTIzLWVhcm5pbmdzLmh0bWzSAUpodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNy8xMy9kZWx0YS1haXItbGluZXMtZGFsLTJxMjMtZWFybmluZ3MuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDcvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC0ycTIzLWVhcm5pbmdzLmh0bWzSAUpodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNy8xMy9kZWx0YS1haXItbGluZXMtZGFsLTJxMjMtZWFybmluZ3MuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDcvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC0ycTIzLWVhcm5pbmdzLmh0bWzSAUpodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNy8xMy9kZWx0YS1haXItbGluZXMtZGFsLTJxMjMtZWFybmluZ3MuaHRtbA?oc=5\" target=\"_blank\">Delta posts record quarterly earnings, hikes full-year outlook on travel boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines, Inc. (NYSE:DAL) Q3 2023 Earnings Call Transcript - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1haXItbGluZXMtaW5jLW55c2UtMTIzNTM0OTQyLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1haXItbGluZXMtaW5jLW55c2UtMTIzNTM0OTQyLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1haXItbGluZXMtaW5jLW55c2UtMTIzNTM0OTQyLmh0bWzSAQA?oc=5\" target=\"_blank\">Delta Air Lines, Inc. (NYSE:DAL) Q3 2023 Earnings Call Transcript</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta expands SkyMiles options after outrage over rewards cuts - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZGVsdGEtZXhwYW5kcy1za3ltaWxlcy1yZXdhcmRzLWN1c3RvbWVyLXVwcm9hci1jdXRzLWVkLWJhc3RpYW4v0gFgaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvZGVsdGEtZXhwYW5kcy1za3ltaWxlcy1yZXdhcmRzLWN1c3RvbWVyLXVwcm9hci1jdXRzLWVkLWJhc3RpYW4v?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZGVsdGEtZXhwYW5kcy1za3ltaWxlcy1yZXdhcmRzLWN1c3RvbWVyLXVwcm9hci1jdXRzLWVkLWJhc3RpYW4v0gFgaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvZGVsdGEtZXhwYW5kcy1za3ltaWxlcy1yZXdhcmRzLWN1c3RvbWVyLXVwcm9hci1jdXRzLWVkLWJhc3RpYW4v",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZGVsdGEtZXhwYW5kcy1za3ltaWxlcy1yZXdhcmRzLWN1c3RvbWVyLXVwcm9hci1jdXRzLWVkLWJhc3RpYW4v0gFgaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvZGVsdGEtZXhwYW5kcy1za3ltaWxlcy1yZXdhcmRzLWN1c3RvbWVyLXVwcm9hci1jdXRzLWVkLWJhc3RpYW4v?oc=5\" target=\"_blank\">Delta expands SkyMiles options after outrage over rewards cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New airline rules could lead to pricier tickets, Delta CEO says - Business Insider"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vYWlybGluZS1ydWxlcy1kZWx0YS1jZW8tcHJpY2UtdGlja2V0cy1oaWdoZXItY29tcGVuc2F0aW9uLWRlbGF5cy1jYW5jZWxsYXRpb25zLTIwMjMtNdIBeWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vYWlybGluZS1ydWxlcy1kZWx0YS1jZW8tcHJpY2UtdGlja2V0cy1oaWdoZXItY29tcGVuc2F0aW9uLWRlbGF5cy1jYW5jZWxsYXRpb25zLTIwMjMtNT9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vYWlybGluZS1ydWxlcy1kZWx0YS1jZW8tcHJpY2UtdGlja2V0cy1oaWdoZXItY29tcGVuc2F0aW9uLWRlbGF5cy1jYW5jZWxsYXRpb25zLTIwMjMtNdIBeWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vYWlybGluZS1ydWxlcy1kZWx0YS1jZW8tcHJpY2UtdGlja2V0cy1oaWdoZXItY29tcGVuc2F0aW9uLWRlbGF5cy1jYW5jZWxsYXRpb25zLTIwMjMtNT9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vYWlybGluZS1ydWxlcy1kZWx0YS1jZW8tcHJpY2UtdGlja2V0cy1oaWdoZXItY29tcGVuc2F0aW9uLWRlbGF5cy1jYW5jZWxsYXRpb25zLTIwMjMtNdIBeWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vYWlybGluZS1ydWxlcy1kZWx0YS1jZW8tcHJpY2UtdGlja2V0cy1oaWdoZXItY29tcGVuc2F0aW9uLWRlbGF5cy1jYW5jZWxsYXRpb25zLTIwMjMtNT9hbXA?oc=5\" target=\"_blank\">New airline rules could lead to pricier tickets, Delta CEO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Insider",
+                "$": {
+                  "url": "https://www.businessinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Demand has never been higher': Delta CEO Bastian - Flightglobal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vc3RyYXRlZ3kvZGVtYW5kLWhhcy1uZXZlci1iZWVuLWhpZ2hlci1kZWx0YS1jZW8tYmFzdGlhbi8xNTI4OTUuYXJ0aWNsZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vc3RyYXRlZ3kvZGVtYW5kLWhhcy1uZXZlci1iZWVuLWhpZ2hlci1kZWx0YS1jZW8tYmFzdGlhbi8xNTI4OTUuYXJ0aWNsZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vc3RyYXRlZ3kvZGVtYW5kLWhhcy1uZXZlci1iZWVuLWhpZ2hlci1kZWx0YS1jZW8tYmFzdGlhbi8xNTI4OTUuYXJ0aWNsZdIBAA?oc=5\" target=\"_blank\">'Demand has never been higher': Delta CEO Bastian</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Flightglobal</font>"
+            ],
+            "source": [
+              {
+                "_": "Flightglobal",
+                "$": {
+                  "url": "https://www.flightglobal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Profit Intact After Controversial SkyMiles Changes - Skift Travel News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vc2tpZnQuY29tLzIwMjMvMTAvMTIvZGVsdGEtcHJvZml0LWludGFjdC1hZnRlci1jb250cm92ZXJzaWFsLWxveWFsdHktY2hhbmdlcy_SAVlodHRwczovL3NraWZ0LmNvbS8yMDIzLzEwLzEyL2RlbHRhLXByb2ZpdC1pbnRhY3QtYWZ0ZXItY29udHJvdmVyc2lhbC1sb3lhbHR5LWNoYW5nZXMvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vc2tpZnQuY29tLzIwMjMvMTAvMTIvZGVsdGEtcHJvZml0LWludGFjdC1hZnRlci1jb250cm92ZXJzaWFsLWxveWFsdHktY2hhbmdlcy_SAVlodHRwczovL3NraWZ0LmNvbS8yMDIzLzEwLzEyL2RlbHRhLXByb2ZpdC1pbnRhY3QtYWZ0ZXItY29udHJvdmVyc2lhbC1sb3lhbHR5LWNoYW5nZXMvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vc2tpZnQuY29tLzIwMjMvMTAvMTIvZGVsdGEtcHJvZml0LWludGFjdC1hZnRlci1jb250cm92ZXJzaWFsLWxveWFsdHktY2hhbmdlcy_SAVlodHRwczovL3NraWZ0LmNvbS8yMDIzLzEwLzEyL2RlbHRhLXByb2ZpdC1pbnRhY3QtYWZ0ZXItY29udHJvdmVyc2lhbC1sb3lhbHR5LWNoYW5nZXMvYW1wLw?oc=5\" target=\"_blank\">Delta Profit Intact After Controversial SkyMiles Changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skift Travel News</font>"
+            ],
+            "source": [
+              {
+                "_": "Skift Travel News",
+                "$": {
+                  "url": "https://skift.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta says travel boom is here to stay, raises earnings forecast - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL2RlbHRhLWZvcmVjYXN0cy1zdHJvbmdlci1lYXJuaW5ncy1wb3N0LXBhbmRlbWljLXRyYXZlbC1ib29tLTIwMjMtMDctMTMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL2RlbHRhLWZvcmVjYXN0cy1zdHJvbmdlci1lYXJuaW5ncy1wb3N0LXBhbmRlbWljLXRyYXZlbC1ib29tLTIwMjMtMDctMTMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL2RlbHRhLWZvcmVjYXN0cy1zdHJvbmdlci1lYXJuaW5ncy1wb3N0LXBhbmRlbWljLXRyYXZlbC1ib29tLTIwMjMtMDctMTMv0gEA?oc=5\" target=\"_blank\">Delta says travel boom is here to stay, raises earnings forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "International travel demand is at record highs, and Delta's CEO says that won't change anytime soon - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3MvaW50ZXJuYXRpb25hbC10cmF2ZWwtZGVtYW5kLWlzLWF0LXJlY29yZC1oaWdocy1hbmQtZGVsdGFzLWNlby1zYXlzLXRoYXQtd29udC1jaGFuZ2UtYW55dGltZS1zb29uLTIzMTM1MTU0Ny5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3MvaW50ZXJuYXRpb25hbC10cmF2ZWwtZGVtYW5kLWlzLWF0LXJlY29yZC1oaWdocy1hbmQtZGVsdGFzLWNlby1zYXlzLXRoYXQtd29udC1jaGFuZ2UtYW55dGltZS1zb29uLTIzMTM1MTU0Ny5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3MvaW50ZXJuYXRpb25hbC10cmF2ZWwtZGVtYW5kLWlzLWF0LXJlY29yZC1oaWdocy1hbmQtZGVsdGFzLWNlby1zYXlzLXRoYXQtd29udC1jaGFuZ2UtYW55dGltZS1zb29uLTIzMTM1MTU0Ny5odG1s0gEA?oc=5\" target=\"_blank\">International travel demand is at record highs, and Delta's CEO says that won't change anytime soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO: The ten highest sales days in our history happened in the last 30 days - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDMvMTQvZGVsdGEtY2VvLXRoZS10ZW4taGlnaGVzdC1zYWxlcy1kYXlzLWluLW91ci1oaXN0b3J5LWhhcHBlbmVkLWluLXRoZS1sYXN0LTMwLWRheXMuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDMvMTQvZGVsdGEtY2VvLXRoZS10ZW4taGlnaGVzdC1zYWxlcy1kYXlzLWluLW91ci1oaXN0b3J5LWhhcHBlbmVkLWluLXRoZS1sYXN0LTMwLWRheXMuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDMvMTQvZGVsdGEtY2VvLXRoZS10ZW4taGlnaGVzdC1zYWxlcy1kYXlzLWluLW91ci1oaXN0b3J5LWhhcHBlbmVkLWluLXRoZS1sYXN0LTMwLWRheXMuaHRtbNIBAA?oc=5\" target=\"_blank\">Delta CEO: The ten highest sales days in our history happened in the last 30 days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO: Airline ‘probably went too far’ with SkyMiles changes - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmNubi5jb20vdHJhdmVsL2RlbHRhLWNlby1iYXN0aWFuLXNreW1pbGVzLWNoYW5nZXMvaW5kZXguaHRtbNIBTGh0dHBzOi8vYW1wLmNubi5jb20vY25uL3RyYXZlbC9kZWx0YS1jZW8tYmFzdGlhbi1za3ltaWxlcy1jaGFuZ2VzL2luZGV4Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vd3d3LmNubi5jb20vdHJhdmVsL2RlbHRhLWNlby1iYXN0aWFuLXNreW1pbGVzLWNoYW5nZXMvaW5kZXguaHRtbNIBTGh0dHBzOi8vYW1wLmNubi5jb20vY25uL3RyYXZlbC9kZWx0YS1jZW8tYmFzdGlhbi1za3ltaWxlcy1jaGFuZ2VzL2luZGV4Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmNubi5jb20vdHJhdmVsL2RlbHRhLWNlby1iYXN0aWFuLXNreW1pbGVzLWNoYW5nZXMvaW5kZXguaHRtbNIBTGh0dHBzOi8vYW1wLmNubi5jb20vY25uL3RyYXZlbC9kZWx0YS1jZW8tYmFzdGlhbi1za3ltaWxlcy1jaGFuZ2VzL2luZGV4Lmh0bWw?oc=5\" target=\"_blank\">Delta CEO: Airline ‘probably went too far’ with SkyMiles changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gaining Altitude: Building an economy that works for everyone - Delta News Hub"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbmV3cy5kZWx0YS5jb20vZ2FpbmluZy1hbHRpdHVkZS1idWlsZGluZy1lY29ub215LXdvcmtzLWV2ZXJ5b25l0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vbmV3cy5kZWx0YS5jb20vZ2FpbmluZy1hbHRpdHVkZS1idWlsZGluZy1lY29ub215LXdvcmtzLWV2ZXJ5b25l0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 16 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbmV3cy5kZWx0YS5jb20vZ2FpbmluZy1hbHRpdHVkZS1idWlsZGluZy1lY29ub215LXdvcmtzLWV2ZXJ5b25l0gEA?oc=5\" target=\"_blank\">Gaining Altitude: Building an economy that works for everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Delta News Hub</font>"
+            ],
+            "source": [
+              {
+                "_": "Delta News Hub",
+                "$": {
+                  "url": "https://news.delta.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Air Lines CEO Rips New United Airlines Boarding Process - Simple Flying"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9kZWx0YS1haXItbGluZXMtY2VvLXJpcHMtdW5pdGVkLWFpcmxpbmVzLWJvYXJkaW5nLXByb2Nlc3Mv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9kZWx0YS1haXItbGluZXMtY2VvLXJpcHMtdW5pdGVkLWFpcmxpbmVzLWJvYXJkaW5nLXByb2Nlc3Mv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 11 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9kZWx0YS1haXItbGluZXMtY2VvLXJpcHMtdW5pdGVkLWFpcmxpbmVzLWJvYXJkaW5nLXByb2Nlc3Mv0gEA?oc=5\" target=\"_blank\">Delta Air Lines CEO Rips New United Airlines Boarding Process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simple Flying</font>"
+            ],
+            "source": [
+              {
+                "_": "Simple Flying",
+                "$": {
+                  "url": "https://simpleflying.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta says it 'went too far' with SkyMiles changes that caused an uproar - Business Insider"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtc2t5bWlsZXMtY2hhbmdlcy1lZC1iYXN0aWFuLXJvdGFyeS1jbHViLW1lZGFsbGlvbi1zdGF0dXMtZmxpZ2h0cy0yMDIzLTnSAXFodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL2RlbHRhLXNreW1pbGVzLWNoYW5nZXMtZWQtYmFzdGlhbi1yb3RhcnktY2x1Yi1tZWRhbGxpb24tc3RhdHVzLWZsaWdodHMtMjAyMy05P2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtc2t5bWlsZXMtY2hhbmdlcy1lZC1iYXN0aWFuLXJvdGFyeS1jbHViLW1lZGFsbGlvbi1zdGF0dXMtZmxpZ2h0cy0yMDIzLTnSAXFodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL2RlbHRhLXNreW1pbGVzLWNoYW5nZXMtZWQtYmFzdGlhbi1yb3RhcnktY2x1Yi1tZWRhbGxpb24tc3RhdHVzLWZsaWdodHMtMjAyMy05P2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZGVsdGEtc2t5bWlsZXMtY2hhbmdlcy1lZC1iYXN0aWFuLXJvdGFyeS1jbHViLW1lZGFsbGlvbi1zdGF0dXMtZmxpZ2h0cy0yMDIzLTnSAXFodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL2RlbHRhLXNreW1pbGVzLWNoYW5nZXMtZWQtYmFzdGlhbi1yb3RhcnktY2x1Yi1tZWRhbGxpb24tc3RhdHVzLWZsaWdodHMtMjAyMy05P2FtcA?oc=5\" target=\"_blank\">Delta says it 'went too far' with SkyMiles changes that caused an uproar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Insider",
+                "$": {
+                  "url": "https://www.businessinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO Says Airline Isn't Worried About This Year's Holiday Rush - The Messenger"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlbWVzc2VuZ2VyLmNvbS9idXNpbmVzcy9kZWx0YS1jZW8tc2F5cy1haXJsaW5lLWlzbnQtd29ycmllZC1hYm91dC10aGlzLXllYXJzLWhvbGlkYXktcnVzaNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vdGhlbWVzc2VuZ2VyLmNvbS9idXNpbmVzcy9kZWx0YS1jZW8tc2F5cy1haXJsaW5lLWlzbnQtd29ycmllZC1hYm91dC10aGlzLXllYXJzLWhvbGlkYXktcnVzaNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlbWVzc2VuZ2VyLmNvbS9idXNpbmVzcy9kZWx0YS1jZW8tc2F5cy1haXJsaW5lLWlzbnQtd29ycmllZC1hYm91dC10aGlzLXllYXJzLWhvbGlkYXktcnVzaNIBAA?oc=5\" target=\"_blank\">Delta CEO Says Airline Isn't Worried About This Year's Holiday Rush</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Messenger</font>"
+            ],
+            "source": [
+              {
+                "_": "The Messenger",
+                "$": {
+                  "url": "https://themessenger.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta lays off corporate employees to cut costs - WPTV News Channel 5 West Palm"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LndwdHYuY29tL2RlbHRhLWxheXMtb2ZmLWNvcnBvcmF0ZS1lbXBsb3llZXMtdG8tY3V0LWNvc3Rz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3LndwdHYuY29tL2RlbHRhLWxheXMtb2ZmLWNvcnBvcmF0ZS1lbXBsb3llZXMtdG8tY3V0LWNvc3Rz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 02 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LndwdHYuY29tL2RlbHRhLWxheXMtb2ZmLWNvcnBvcmF0ZS1lbXBsb3llZXMtdG8tY3V0LWNvc3Rz0gEA?oc=5\" target=\"_blank\">Delta lays off corporate employees to cut costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPTV News Channel 5 West Palm</font>"
+            ],
+            "source": [
+              {
+                "_": "WPTV News Channel 5 West Palm",
+                "$": {
+                  "url": "https://www.wptv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO on SkyMiles and Lounge Access Changes - AFAR Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmFmYXIuY29tL21hZ2F6aW5lL2RlbHRhLWNlby1vbi1za3ltaWxlcy1hbmQtbG91bmdlLWFjY2Vzcy1jaGFuZ2Vz0gFXaHR0cHM6Ly93d3cuYWZhci5jb20vbWFnYXppbmUvZGVsdGEtY2VvLW9uLXNreW1pbGVzLWFuZC1sb3VuZ2UtYWNjZXNzLWNoYW5nZXM_X2FtcD10cnVl?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3LmFmYXIuY29tL21hZ2F6aW5lL2RlbHRhLWNlby1vbi1za3ltaWxlcy1hbmQtbG91bmdlLWFjY2Vzcy1jaGFuZ2Vz0gFXaHR0cHM6Ly93d3cuYWZhci5jb20vbWFnYXppbmUvZGVsdGEtY2VvLW9uLXNreW1pbGVzLWFuZC1sb3VuZ2UtYWNjZXNzLWNoYW5nZXM_X2FtcD10cnVl",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmFmYXIuY29tL21hZ2F6aW5lL2RlbHRhLWNlby1vbi1za3ltaWxlcy1hbmQtbG91bmdlLWFjY2Vzcy1jaGFuZ2Vz0gFXaHR0cHM6Ly93d3cuYWZhci5jb20vbWFnYXppbmUvZGVsdGEtY2VvLW9uLXNreW1pbGVzLWFuZC1sb3VuZ2UtYWNjZXNzLWNoYW5nZXM_X2FtcD10cnVl?oc=5\" target=\"_blank\">Delta CEO on SkyMiles and Lounge Access Changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFAR Media</font>"
+            ],
+            "source": [
+              {
+                "_": "AFAR Media",
+                "$": {
+                  "url": "https://www.afar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta’s CEO knows he went ‘too far’ with unpopular SkyMiles changes, and promises to keep customers on board with a reshuffle - Fortune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8yOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1za3ltaWxlcy1ydWxlcy1jaGFuZ2VzLXBsZWRnZXMtdHdlYWtzL9IBXmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8yOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1za3ltaWxlcy1ydWxlcy1jaGFuZ2VzLXBsZWRnZXMtdHdlYWtzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8yOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1za3ltaWxlcy1ydWxlcy1jaGFuZ2VzLXBsZWRnZXMtdHdlYWtzL9IBXmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8yOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1za3ltaWxlcy1ydWxlcy1jaGFuZ2VzLXBsZWRnZXMtdHdlYWtzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8yOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1za3ltaWxlcy1ydWxlcy1jaGFuZ2VzLXBsZWRnZXMtdHdlYWtzL9IBXmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wOS8yOC9kZWx0YS1jZW8tZWQtYmFzdGlhbi1za3ltaWxlcy1ydWxlcy1jaGFuZ2VzLXBsZWRnZXMtdHdlYWtzL2FtcC8?oc=5\" target=\"_blank\">Delta’s CEO knows he went ‘too far’ with unpopular SkyMiles changes, and promises to keep customers on board with a reshuffle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+            ],
+            "source": [
+              {
+                "_": "Fortune",
+                "$": {
+                  "url": "https://fortune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta partners with Operation HOPE for financial literacy program - The Atlanta Voice"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9kZWx0YS10aGF0cy10aGUtbW9kZWwtdGFrZS1jYXJlLW9mLW91ci1wZW9wbGUtZmlyc3Qv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9kZWx0YS10aGF0cy10aGUtbW9kZWwtdGFrZS1jYXJlLW9mLW91ci1wZW9wbGUtZmlyc3Qv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9kZWx0YS10aGF0cy10aGUtbW9kZWwtdGFrZS1jYXJlLW9mLW91ci1wZW9wbGUtZmlyc3Qv0gEA?oc=5\" target=\"_blank\">Delta partners with Operation HOPE for financial literacy program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Voice</font>"
+            ],
+            "source": [
+              {
+                "_": "The Atlanta Voice",
+                "$": {
+                  "url": "https://theatlantavoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta Airlines CEO Has a Message for Summer Travelers - TheStreet"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpcmxpbmVzLWNlby1oYXMtYS1tZXNzYWdlLWZvci1zdW1tZXItdHJhdmVsZXJz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpcmxpbmVzLWNlby1oYXMtYS1tZXNzYWdlLWZvci1zdW1tZXItdHJhdmVsZXJz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpcmxpbmVzLWNlby1oYXMtYS1tZXNzYWdlLWZvci1zdW1tZXItdHJhdmVsZXJz0gEA?oc=5\" target=\"_blank\">Delta Airlines CEO Has a Message for Summer Travelers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet</font>"
+            ],
+            "source": [
+              {
+                "_": "TheStreet",
+                "$": {
+                  "url": "https://www.thestreet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Following uproar, Delta CEO says airline went 'too far' with SkyMiles crackdown - MarketWatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9zdG9yeS9mb2xsb3dpbmctdXByb2FyLWRlbHRhLWNlby1zYXlzLWFpcmxpbmUtd2VudC10b28tZmFyLXdpdGgtc2t5bWlsZXMtY3JhY2tkb3duLWFhMTQ1MjU30gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9zdG9yeS9mb2xsb3dpbmctdXByb2FyLWRlbHRhLWNlby1zYXlzLWFpcmxpbmUtd2VudC10b28tZmFyLXdpdGgtc2t5bWlsZXMtY3JhY2tkb3duLWFhMTQ1MjU30gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9zdG9yeS9mb2xsb3dpbmctdXByb2FyLWRlbHRhLWNlby1zYXlzLWFpcmxpbmUtd2VudC10b28tZmFyLXdpdGgtc2t5bWlsZXMtY3JhY2tkb3duLWFhMTQ1MjU30gEA?oc=5\" target=\"_blank\">Following uproar, Delta CEO says airline went 'too far' with SkyMiles crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>"
+            ],
+            "source": [
+              {
+                "_": "MarketWatch",
+                "$": {
+                  "url": "https://www.marketwatch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "When should you recline your seat on a plane? Delta CEO Ed Bastian says he'd NEVER push his back and ethics ex - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNDE2OTM1L0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s0gGeAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI0MTY5MzUvYW1wL0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNDE2OTM1L0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s0gGeAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI0MTY5MzUvYW1wL0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 17 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNDE2OTM1L0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s0gGeAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI0MTY5MzUvYW1wL0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s?oc=5\" target=\"_blank\">When should you recline your seat on a plane? Delta CEO Ed Bastian says he'd NEVER push his back and ethics ex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'This is bull***t': George Santos has meltdown over 'nightmare' experience with Delta Air Lines as he calls ou - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiwAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyODk3MzUzL1RoaXMtYnVsbC10LUdlb3JnZS1TYW50b3MtbWVsdGRvd24tbmlnaHRtYXJlLWV4cGVyaWVuY2UtRGVsdGEtQWlyLUxpbmVzLWNhbGxzLWJvc3MtRWQtQmFzdGlhbi1jbGFpbXMtY2Fycmllci1mbHlpbmctdW5kb2N1bWVudGVkLW1pZ3JhbnRzLmh0bWzSAcQBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMjg5NzM1My9hbXAvVGhpcy1idWxsLXQtR2VvcmdlLVNhbnRvcy1tZWx0ZG93bi1uaWdodG1hcmUtZXhwZXJpZW5jZS1EZWx0YS1BaXItTGluZXMtY2FsbHMtYm9zcy1FZC1CYXN0aWFuLWNsYWltcy1jYXJyaWVyLWZseWluZy11bmRvY3VtZW50ZWQtbWlncmFudHMuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiwAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyODk3MzUzL1RoaXMtYnVsbC10LUdlb3JnZS1TYW50b3MtbWVsdGRvd24tbmlnaHRtYXJlLWV4cGVyaWVuY2UtRGVsdGEtQWlyLUxpbmVzLWNhbGxzLWJvc3MtRWQtQmFzdGlhbi1jbGFpbXMtY2Fycmllci1mbHlpbmctdW5kb2N1bWVudGVkLW1pZ3JhbnRzLmh0bWzSAcQBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMjg5NzM1My9hbXAvVGhpcy1idWxsLXQtR2VvcmdlLVNhbnRvcy1tZWx0ZG93bi1uaWdodG1hcmUtZXhwZXJpZW5jZS1EZWx0YS1BaXItTGluZXMtY2FsbHMtYm9zcy1FZC1CYXN0aWFuLWNsYWltcy1jYXJyaWVyLWZseWluZy11bmRvY3VtZW50ZWQtbWlncmFudHMuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 23 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiwAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyODk3MzUzL1RoaXMtYnVsbC10LUdlb3JnZS1TYW50b3MtbWVsdGRvd24tbmlnaHRtYXJlLWV4cGVyaWVuY2UtRGVsdGEtQWlyLUxpbmVzLWNhbGxzLWJvc3MtRWQtQmFzdGlhbi1jbGFpbXMtY2Fycmllci1mbHlpbmctdW5kb2N1bWVudGVkLW1pZ3JhbnRzLmh0bWzSAcQBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMjg5NzM1My9hbXAvVGhpcy1idWxsLXQtR2VvcmdlLVNhbnRvcy1tZWx0ZG93bi1uaWdodG1hcmUtZXhwZXJpZW5jZS1EZWx0YS1BaXItTGluZXMtY2FsbHMtYm9zcy1FZC1CYXN0aWFuLWNsYWltcy1jYXJyaWVyLWZseWluZy11bmRvY3VtZW50ZWQtbWlncmFudHMuaHRtbA?oc=5\" target=\"_blank\">'This is bull***t': George Santos has meltdown over 'nightmare' experience with Delta Air Lines as he calls ou</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

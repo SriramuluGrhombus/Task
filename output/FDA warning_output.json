@@ -1,0 +1,2858 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"FDA warning\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=FDA+warning&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "'Copycat' Eye Drops: What to Know About the FDA Warning - Healthline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC1uZXdzL3doeS10aGUtZmRhLWlzc3VlZC1hLXdhcm5pbmctZm9yLWNvcHljYXQtZXllLWRyb3Bz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC1uZXdzL3doeS10aGUtZmRhLWlzc3VlZC1hLXdhcm5pbmctZm9yLWNvcHljYXQtZXllLWRyb3Bz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 00:27:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC1uZXdzL3doeS10aGUtZmRhLWlzc3VlZC1hLXdhcm5pbmctZm9yLWNvcHljYXQtZXllLWRyb3Bz0gEA?oc=5\" target=\"_blank\">'Copycat' Eye Drops: What to Know About the FDA Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthline</font>"
+            ],
+            "source": [
+              {
+                "_": "Healthline",
+                "$": {
+                  "url": "https://www.healthline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Warning — Remove These From Your Louisiana Medicine Cabinet Immediately - Hot 107.9"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vMTA3OWlzaG90LmNvbS9mZGEtd2FybmluZy1yZW1vdmUtdGhlc2UtZnJvbS15b3VyLWxvdWlzaWFuYS1tZWRpY2luZS1jYWJpbmV0LWltbWVkaWF0ZWx5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vMTA3OWlzaG90LmNvbS9mZGEtd2FybmluZy1yZW1vdmUtdGhlc2UtZnJvbS15b3VyLWxvdWlzaWFuYS1tZWRpY2luZS1jYWJpbmV0LWltbWVkaWF0ZWx5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:51:36 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vMTA3OWlzaG90LmNvbS9mZGEtd2FybmluZy1yZW1vdmUtdGhlc2UtZnJvbS15b3VyLWxvdWlzaWFuYS1tZWRpY2luZS1jYWJpbmV0LWltbWVkaWF0ZWx5L9IBAA?oc=5\" target=\"_blank\">FDA Warning — Remove These From Your Louisiana Medicine Cabinet Immediately</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hot 107.9</font>"
+            ],
+            "source": [
+              {
+                "_": "Hot 107.9",
+                "$": {
+                  "url": "https://1079ishot.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns of contaminated copycat eye drops - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZm9vZC1hbmQtZHJ1Zy1hZG1pbmlzdHJhdGlvbi1mZGEtZXllLWRyb3BzLWNvcHktY2F0L9IBVWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2Zvb2QtYW5kLWRydWctYWRtaW5pc3RyYXRpb24tZmRhLWV5ZS1kcm9wcy1jb3B5LWNhdC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZm9vZC1hbmQtZHJ1Zy1hZG1pbmlzdHJhdGlvbi1mZGEtZXllLWRyb3BzLWNvcHktY2F0L9IBVWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2Zvb2QtYW5kLWRydWctYWRtaW5pc3RyYXRpb24tZmRhLWV5ZS1kcm9wcy1jb3B5LWNhdC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 22:31:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZm9vZC1hbmQtZHJ1Zy1hZG1pbmlzdHJhdGlvbi1mZGEtZXllLWRyb3BzLWNvcHktY2F0L9IBVWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2Zvb2QtYW5kLWRydWctYWRtaW5pc3RyYXRpb24tZmRhLWV5ZS1kcm9wcy1jb3B5LWNhdC8?oc=5\" target=\"_blank\">FDA warns of contaminated copycat eye drops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "F.D.A. Issues Warning of Cancer Risk Linked to CAR-T Therapies - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjMvaGVhbHRoL2ZkYS1jYW5jZXItY2FyLXQtd2FybmluZy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjMvaGVhbHRoL2ZkYS1jYW5jZXItY2FyLXQtd2FybmluZy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjMvaGVhbHRoL2ZkYS1jYW5jZXItY2FyLXQtd2FybmluZy5odG1s0gEA?oc=5\" target=\"_blank\">F.D.A. Issues Warning of Cancer Risk Linked to CAR-T Therapies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA wants classwide boxed warning on all commercial CAR-T therapies amid secondary cancer safety probe - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2ZkYS13YW50cy1jbGFzc3dpZGUtYm94ZWQtd2FybmluZy1hbGwtY29tbWVyY2lhbC1jYXItdC10aGVyYXBpZXMtYW1pZC1zZWNvbmRhcnktY2FuY2Vy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2ZkYS13YW50cy1jbGFzc3dpZGUtYm94ZWQtd2FybmluZy1hbGwtY29tbWVyY2lhbC1jYXItdC10aGVyYXBpZXMtYW1pZC1zZWNvbmRhcnktY2FuY2Vy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2ZkYS13YW50cy1jbGFzc3dpZGUtYm94ZWQtd2FybmluZy1hbGwtY29tbWVyY2lhbC1jYXItdC10aGVyYXBpZXMtYW1pZC1zZWNvbmRhcnktY2FuY2Vy0gEA?oc=5\" target=\"_blank\">FDA wants classwide boxed warning on all commercial CAR-T therapies amid secondary cancer safety probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US FDA seeks 'boxed warning' for CAR-T cancer therapies - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL3VzLWZkYS1yZXF1aXJlcy1ib3hlZC13YXJuaW5nLWNhci10LWNhbmNlci10aGVyYXBpZXMtMjAyNC0wMS0yMy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL3VzLWZkYS1yZXF1aXJlcy1ib3hlZC13YXJuaW5nLWNhci10LWNhbmNlci10aGVyYXBpZXMtMjAyNC0wMS0yMy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL3VzLWZkYS1yZXF1aXJlcy1ib3hlZC13YXJuaW5nLWNhci10LWNhbmNlci10aGVyYXBpZXMtMjAyNC0wMS0yMy_SAQA?oc=5\" target=\"_blank\">US FDA seeks 'boxed warning' for CAR-T cancer therapies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Scallops harvested from prohibited water spur warning from FDA - Food Safety News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZvb2RzYWZldHluZXdzLmNvbS8yMDI0LzAxL3NjYWxsb3BzLWhhcnZlc3RlZC1mcm9tLXByb2hpYml0ZWQtd2F0ZXItc3B1ci13YXJuaW5nLWZyb20tZmRhL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmZvb2RzYWZldHluZXdzLmNvbS8yMDI0LzAxL3NjYWxsb3BzLWhhcnZlc3RlZC1mcm9tLXByb2hpYml0ZWQtd2F0ZXItc3B1ci13YXJuaW5nLWZyb20tZmRhL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZvb2RzYWZldHluZXdzLmNvbS8yMDI0LzAxL3NjYWxsb3BzLWhhcnZlc3RlZC1mcm9tLXByb2hpYml0ZWQtd2F0ZXItc3B1ci13YXJuaW5nLWZyb20tZmRhL9IBAA?oc=5\" target=\"_blank\">Scallops harvested from prohibited water spur warning from FDA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Food Safety News</font>"
+            ],
+            "source": [
+              {
+                "_": "Food Safety News",
+                "$": {
+                  "url": "https://www.foodsafetynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "F.D.A. Warned of Mental Side Effects from Asthma Drug, Singulair. Few Were Told. - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMDkvaGVhbHRoL2ZkYS1zaW5ndWxhaXItYXN0aG1hLWRydWctd2FybmluZy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMDkvaGVhbHRoL2ZkYS1zaW5ndWxhaXItYXN0aG1hLWRydWctd2FybmluZy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMDkvaGVhbHRoL2ZkYS1zaW5ndWxhaXItYXN0aG1hLWRydWctd2FybmluZy5odG1s0gEA?oc=5\" target=\"_blank\">F.D.A. Warned of Mental Side Effects from Asthma Drug, Singulair. Few Were Told.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "E-Cigarettes, Vapes, and other Electronic Nicotine Delivery Systems (ENDS) - FDA.gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5mZGEuZ292L3RvYmFjY28tcHJvZHVjdHMvcHJvZHVjdHMtaW5ncmVkaWVudHMtY29tcG9uZW50cy9lLWNpZ2FyZXR0ZXMtdmFwZXMtYW5kLW90aGVyLWVsZWN0cm9uaWMtbmljb3RpbmUtZGVsaXZlcnktc3lzdGVtcy1lbmRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3d3dy5mZGEuZ292L3RvYmFjY28tcHJvZHVjdHMvcHJvZHVjdHMtaW5ncmVkaWVudHMtY29tcG9uZW50cy9lLWNpZ2FyZXR0ZXMtdmFwZXMtYW5kLW90aGVyLWVsZWN0cm9uaWMtbmljb3RpbmUtZGVsaXZlcnktc3lzdGVtcy1lbmRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5mZGEuZ292L3RvYmFjY28tcHJvZHVjdHMvcHJvZHVjdHMtaW5ncmVkaWVudHMtY29tcG9uZW50cy9lLWNpZ2FyZXR0ZXMtdmFwZXMtYW5kLW90aGVyLWVsZWN0cm9uaWMtbmljb3RpbmUtZGVsaXZlcnktc3lzdGVtcy1lbmRz0gEA?oc=5\" target=\"_blank\">E-Cigarettes, Vapes, and other Electronic Nicotine Delivery Systems (ENDS)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FDA.gov</font>"
+            ],
+            "source": [
+              {
+                "_": "FDA.gov",
+                "$": {
+                  "url": "https://www.fda.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US FDA issues warning letter to Intas Pharma for manufacturing lapses at Ahmedabad plant. Details here | Mint - Mint"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5saXZlbWludC5jb20vY29tcGFuaWVzL25ld3MvdXMtZmRhLWlzc3Vlcy13YXJuaW5nLWxldHRlci10by1pbnRhcy1waGFybWEtZm9yLW1hbnVmYWN0dXJpbmctbGFwc2VzLWF0LWFobWVkYWJhZC1wbGFudC1kZXRhaWxzLWhlcmUtMTE3MDIxODkyMTk2ODQuaHRtbNIBpQFodHRwczovL3d3dy5saXZlbWludC5jb20vY29tcGFuaWVzL25ld3MvdXMtZmRhLWlzc3Vlcy13YXJuaW5nLWxldHRlci10by1pbnRhcy1waGFybWEtZm9yLW1hbnVmYWN0dXJpbmctbGFwc2VzLWF0LWFobWVkYWJhZC1wbGFudC1kZXRhaWxzLWhlcmUvYW1wLTExNzAyMTg5MjE5Njg0Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioQFodHRwczovL3d3dy5saXZlbWludC5jb20vY29tcGFuaWVzL25ld3MvdXMtZmRhLWlzc3Vlcy13YXJuaW5nLWxldHRlci10by1pbnRhcy1waGFybWEtZm9yLW1hbnVmYWN0dXJpbmctbGFwc2VzLWF0LWFobWVkYWJhZC1wbGFudC1kZXRhaWxzLWhlcmUtMTE3MDIxODkyMTk2ODQuaHRtbNIBpQFodHRwczovL3d3dy5saXZlbWludC5jb20vY29tcGFuaWVzL25ld3MvdXMtZmRhLWlzc3Vlcy13YXJuaW5nLWxldHRlci10by1pbnRhcy1waGFybWEtZm9yLW1hbnVmYWN0dXJpbmctbGFwc2VzLWF0LWFobWVkYWJhZC1wbGFudC1kZXRhaWxzLWhlcmUvYW1wLTExNzAyMTg5MjE5Njg0Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 10 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5saXZlbWludC5jb20vY29tcGFuaWVzL25ld3MvdXMtZmRhLWlzc3Vlcy13YXJuaW5nLWxldHRlci10by1pbnRhcy1waGFybWEtZm9yLW1hbnVmYWN0dXJpbmctbGFwc2VzLWF0LWFobWVkYWJhZC1wbGFudC1kZXRhaWxzLWhlcmUtMTE3MDIxODkyMTk2ODQuaHRtbNIBpQFodHRwczovL3d3dy5saXZlbWludC5jb20vY29tcGFuaWVzL25ld3MvdXMtZmRhLWlzc3Vlcy13YXJuaW5nLWxldHRlci10by1pbnRhcy1waGFybWEtZm9yLW1hbnVmYWN0dXJpbmctbGFwc2VzLWF0LWFobWVkYWJhZC1wbGFudC1kZXRhaWxzLWhlcmUvYW1wLTExNzAyMTg5MjE5Njg0Lmh0bWw?oc=5\" target=\"_blank\">US FDA issues warning letter to Intas Pharma for manufacturing lapses at Ahmedabad plant. Details here | Mint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>"
+            ],
+            "source": [
+              {
+                "_": "Mint",
+                "$": {
+                  "url": "https://www.livemint.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA slams Eugia with Form 483 and posts older reprimands for AGC, Baxter - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtc2xhbXMtZXVnaWEtZm9ybS00ODMtcG9zdHMtcmVwcmltYW5kcy1hZ2MtYmF4dGVyLWxhc3QteWVhctIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtc2xhbXMtZXVnaWEtZm9ybS00ODMtcG9zdHMtcmVwcmltYW5kcy1hZ2MtYmF4dGVyLWxhc3QteWVhctIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 21:30:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtc2xhbXMtZXVnaWEtZm9ybS00ODMtcG9zdHMtcmVwcmltYW5kcy1hZ2MtYmF4dGVyLWxhc3QteWVhctIBAA?oc=5\" target=\"_blank\">FDA slams Eugia with Form 483 and posts older reprimands for AGC, Baxter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cipla stocks slump 8% after US FDA warning letter - Business Today"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmJ1c2luZXNzdG9kYXkuaW4vaW5kdXN0cnkvcGhhcm1hL3N0b3J5L2NpcGxhLXN0b2Nrcy1zbHVtcC04LWFmdGVyLXVzLWZkYS13YXJuaW5nLWxldHRlci00MDY5MTktMjAyMy0xMS0yM9IBeWh0dHBzOi8vd3d3LmJ1c2luZXNzdG9kYXkuaW4vYW1wL2luZHVzdHJ5L3BoYXJtYS9zdG9yeS9jaXBsYS1zdG9ja3Mtc2x1bXAtOC1hZnRlci11cy1mZGEtd2FybmluZy1sZXR0ZXItNDA2OTE5LTIwMjMtMTEtMjM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmJ1c2luZXNzdG9kYXkuaW4vaW5kdXN0cnkvcGhhcm1hL3N0b3J5L2NpcGxhLXN0b2Nrcy1zbHVtcC04LWFmdGVyLXVzLWZkYS13YXJuaW5nLWxldHRlci00MDY5MTktMjAyMy0xMS0yM9IBeWh0dHBzOi8vd3d3LmJ1c2luZXNzdG9kYXkuaW4vYW1wL2luZHVzdHJ5L3BoYXJtYS9zdG9yeS9jaXBsYS1zdG9ja3Mtc2x1bXAtOC1hZnRlci11cy1mZGEtd2FybmluZy1sZXR0ZXItNDA2OTE5LTIwMjMtMTEtMjM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmJ1c2luZXNzdG9kYXkuaW4vaW5kdXN0cnkvcGhhcm1hL3N0b3J5L2NpcGxhLXN0b2Nrcy1zbHVtcC04LWFmdGVyLXVzLWZkYS13YXJuaW5nLWxldHRlci00MDY5MTktMjAyMy0xMS0yM9IBeWh0dHBzOi8vd3d3LmJ1c2luZXNzdG9kYXkuaW4vYW1wL2luZHVzdHJ5L3BoYXJtYS9zdG9yeS9jaXBsYS1zdG9ja3Mtc2x1bXAtOC1hZnRlci11cy1mZGEtd2FybmluZy1sZXR0ZXItNDA2OTE5LTIwMjMtMTEtMjM?oc=5\" target=\"_blank\">Cipla stocks slump 8% after US FDA warning letter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Today",
+                "$": {
+                  "url": "https://www.businesstoday.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cipla faces US FDA warning over manufacturing practices at Pithampur plant - Moneycontrol"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY2lwbGEtZmFjZXMtdXMtZmRhLXdhcm5pbmctb3Zlci1tYW51ZmFjdHVyaW5nLXByYWN0aWNlcy1hdC1waXRoYW1wdXItcGxhbnQtMTE3Njk3MDEuaHRtbNIBhwFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY2lwbGEtZmFjZXMtdXMtZmRhLXdhcm5pbmctb3Zlci1tYW51ZmFjdHVyaW5nLXByYWN0aWNlcy1hdC1waXRoYW1wdXItcGxhbnQtMTE3Njk3MDEuaHRtbC9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY2lwbGEtZmFjZXMtdXMtZmRhLXdhcm5pbmctb3Zlci1tYW51ZmFjdHVyaW5nLXByYWN0aWNlcy1hdC1waXRoYW1wdXItcGxhbnQtMTE3Njk3MDEuaHRtbNIBhwFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY2lwbGEtZmFjZXMtdXMtZmRhLXdhcm5pbmctb3Zlci1tYW51ZmFjdHVyaW5nLXByYWN0aWNlcy1hdC1waXRoYW1wdXItcGxhbnQtMTE3Njk3MDEuaHRtbC9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY2lwbGEtZmFjZXMtdXMtZmRhLXdhcm5pbmctb3Zlci1tYW51ZmFjdHVyaW5nLXByYWN0aWNlcy1hdC1waXRoYW1wdXItcGxhbnQtMTE3Njk3MDEuaHRtbNIBhwFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY2lwbGEtZmFjZXMtdXMtZmRhLXdhcm5pbmctb3Zlci1tYW51ZmFjdHVyaW5nLXByYWN0aWNlcy1hdC1waXRoYW1wdXItcGxhbnQtMTE3Njk3MDEuaHRtbC9hbXA?oc=5\" target=\"_blank\">Cipla faces US FDA warning over manufacturing practices at Pithampur plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>"
+            ],
+            "source": [
+              {
+                "_": "Moneycontrol",
+                "$": {
+                  "url": "https://www.moneycontrol.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Copycat eye drops? FDA issues warning for contaminated eye drops that can cause infections - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL2hlYWx0aC8yMDI0LzAyLzAxL2ZkYS13YXJuaW5nLXJlYnJpZ2h0LXNvdXRoLW1vb24tZXllLWRyb3BzLzcyNDM2ODA4MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL2hlYWx0aC8yMDI0LzAyLzAxL2ZkYS13YXJuaW5nLXJlYnJpZ2h0LXNvdXRoLW1vb24tZXllLWRyb3BzLzcyNDM2ODA4MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 20:14:43 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL2hlYWx0aC8yMDI0LzAyLzAxL2ZkYS13YXJuaW5nLXJlYnJpZ2h0LXNvdXRoLW1vb24tZXllLWRyb3BzLzcyNDM2ODA4MDA3L9IBAA?oc=5\" target=\"_blank\">Copycat eye drops? FDA issues warning for contaminated eye drops that can cause infections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Top stories in 2023: FDA approvals, warning letters, recalls - Healio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhlYWxpby5jb20vbmV3cy9vcHRvbWV0cnkvMjAyMzEyMTQvdG9wLXN0b3JpZXMtaW4tMjAyMy1mZGEtYXBwcm92YWxzLXdhcm5pbmctbGV0dGVycy1yZWNhbGxz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LmhlYWxpby5jb20vbmV3cy9vcHRvbWV0cnkvMjAyMzEyMTQvdG9wLXN0b3JpZXMtaW4tMjAyMy1mZGEtYXBwcm92YWxzLXdhcm5pbmctbGV0dGVycy1yZWNhbGxz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhlYWxpby5jb20vbmV3cy9vcHRvbWV0cnkvMjAyMzEyMTQvdG9wLXN0b3JpZXMtaW4tMjAyMy1mZGEtYXBwcm92YWxzLXdhcm5pbmctbGV0dGVycy1yZWNhbGxz0gEA?oc=5\" target=\"_blank\">Top stories in 2023: FDA approvals, warning letters, recalls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healio</font>"
+            ],
+            "source": [
+              {
+                "_": "Healio",
+                "$": {
+                  "url": "https://www.healio.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns consumers contaminated 'copycat' eye drops could cause infections - ABC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvZmRhLXdhcm5zLWNvbnN1bWVycy1jb250YW1pbmF0ZWQtY29weWNhdC1leWUtZHJvcHMtY2F1c2Uvc3Rvcnk_aWQ9MTA2ODY2OTg40gFpaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvVVMvZmRhLXdhcm5zLWNvbnN1bWVycy1jb250YW1pbmF0ZWQtY29weWNhdC1leWUtZHJvcHMtY2F1c2Uvc3Rvcnk_aWQ9MTA2ODY2OTg4?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvZmRhLXdhcm5zLWNvbnN1bWVycy1jb250YW1pbmF0ZWQtY29weWNhdC1leWUtZHJvcHMtY2F1c2Uvc3Rvcnk_aWQ9MTA2ODY2OTg40gFpaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvVVMvZmRhLXdhcm5zLWNvbnN1bWVycy1jb250YW1pbmF0ZWQtY29weWNhdC1leWUtZHJvcHMtY2F1c2Uvc3Rvcnk_aWQ9MTA2ODY2OTg4",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 19:46:29 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvZmRhLXdhcm5zLWNvbnN1bWVycy1jb250YW1pbmF0ZWQtY29weWNhdC1leWUtZHJvcHMtY2F1c2Uvc3Rvcnk_aWQ9MTA2ODY2OTg40gFpaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvVVMvZmRhLXdhcm5zLWNvbnN1bWVycy1jb250YW1pbmF0ZWQtY29weWNhdC1leWUtZHJvcHMtY2F1c2Uvc3Rvcnk_aWQ9MTA2ODY2OTg4?oc=5\" target=\"_blank\">FDA warns consumers contaminated 'copycat' eye drops could cause infections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC News",
+                "$": {
+                  "url": "https://abcnews.go.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warning letters address CGMP, clinical study plan failures - Regulatory Focus"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy8xMi9mZGEtc2xhcHMtaW50YXMtd2l0aC1hbm90aGVyLXdhcm5pbmctbGV0dGVyOy13YXJuc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy8xMi9mZGEtc2xhcHMtaW50YXMtd2l0aC1hbm90aGVyLXdhcm5pbmctbGV0dGVyOy13YXJuc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 04 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy8xMi9mZGEtc2xhcHMtaW50YXMtd2l0aC1hbm90aGVyLXdhcm5pbmctbGV0dGVyOy13YXJuc9IBAA?oc=5\" target=\"_blank\">FDA warning letters address CGMP, clinical study plan failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Regulatory Focus</font>"
+            ],
+            "source": [
+              {
+                "_": "Regulatory Focus",
+                "$": {
+                  "url": "https://www.raps.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns public against using South Moon, Rebright, FivFivGo eyedrops - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9oZWFsdGgvMjAyNC8wMi8wMS9mZGEtZXllZHJvcHMtY29weWNhdC13YXJuaW5nL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9oZWFsdGgvMjAyNC8wMi8wMS9mZGEtZXllZHJvcHMtY29weWNhdC13YXJuaW5nL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 10:22:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9oZWFsdGgvMjAyNC8wMi8wMS9mZGEtZXllZHJvcHMtY29weWNhdC13YXJuaW5nL9IBAA?oc=5\" target=\"_blank\">FDA warns public against using South Moon, Rebright, FivFivGo eyedrops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns of secondary cancer risk tied to CAR-T therapies that treat cancer - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yNC9oZWFsdGgvZmRhLWNhci10LXRoZXJhcGllcy1zZWNvbmRhcnktY2FuY2VyLXJpc2svaW5kZXguaHRtbNIBXmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDEvMjQvaGVhbHRoL2ZkYS1jYXItdC10aGVyYXBpZXMtc2Vjb25kYXJ5LWNhbmNlci1yaXNrL2luZGV4Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yNC9oZWFsdGgvZmRhLWNhci10LXRoZXJhcGllcy1zZWNvbmRhcnktY2FuY2VyLXJpc2svaW5kZXguaHRtbNIBXmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDEvMjQvaGVhbHRoL2ZkYS1jYXItdC10aGVyYXBpZXMtc2Vjb25kYXJ5LWNhbmNlci1yaXNrL2luZGV4Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yNC9oZWFsdGgvZmRhLWNhci10LXRoZXJhcGllcy1zZWNvbmRhcnktY2FuY2VyLXJpc2svaW5kZXguaHRtbNIBXmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDEvMjQvaGVhbHRoL2ZkYS1jYXItdC10aGVyYXBpZXMtc2Vjb25kYXJ5LWNhbmNlci1yaXNrL2luZGV4Lmh0bWw?oc=5\" target=\"_blank\">FDA warns of secondary cancer risk tied to CAR-T therapies that treat cancer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Warns Exosome Maker for Marketing Outside Its IND - Medpage Today"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lm1lZHBhZ2V0b2RheS5jb20vc3BlY2lhbC1yZXBvcnRzL2V4Y2x1c2l2ZXMvMTA4Mzcx0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPmh0dHBzOi8vd3d3Lm1lZHBhZ2V0b2RheS5jb20vc3BlY2lhbC1yZXBvcnRzL2V4Y2x1c2l2ZXMvMTA4Mzcx0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lm1lZHBhZ2V0b2RheS5jb20vc3BlY2lhbC1yZXBvcnRzL2V4Y2x1c2l2ZXMvMTA4Mzcx0gEA?oc=5\" target=\"_blank\">FDA Warns Exosome Maker for Marketing Outside Its IND</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medpage Today</font>"
+            ],
+            "source": [
+              {
+                "_": "Medpage Today",
+                "$": {
+                  "url": "https://www.medpagetoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A Look at Recent FDA Warning Letters in the Pharma Industry - The Medicine Maker"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdGhlbWVkaWNpbmVtYWtlci5jb20vYnVzaW5lc3MtcmVndWxhdGlvbi9mZGEtd2FybmluZy1sZXR0ZXJzLXNlcHRlbWJlci0yMDIzLWVkaXRpb27SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vdGhlbWVkaWNpbmVtYWtlci5jb20vYnVzaW5lc3MtcmVndWxhdGlvbi9mZGEtd2FybmluZy1sZXR0ZXJzLXNlcHRlbWJlci0yMDIzLWVkaXRpb27SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdGhlbWVkaWNpbmVtYWtlci5jb20vYnVzaW5lc3MtcmVndWxhdGlvbi9mZGEtd2FybmluZy1sZXR0ZXJzLXNlcHRlbWJlci0yMDIzLWVkaXRpb27SAQA?oc=5\" target=\"_blank\">A Look at Recent FDA Warning Letters in the Pharma Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Medicine Maker</font>"
+            ],
+            "source": [
+              {
+                "_": "The Medicine Maker",
+                "$": {
+                  "url": "https://themedicinemaker.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Warns of Serious Adverse Effects for Using Levetiracetam and Clobazam in Epilepsy - Neurology Live"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm5ldXJvbG9neWxpdmUuY29tL3ZpZXcvZmRhLXdhcm5zLXNlcmlvdXMtYWR2ZXJzZS1lZmZlY3RzLXVzaW5nLWxldmV0aXJhY2V0YW0tY2xvYmF6YW0tZXBpbGVwc3nSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3Lm5ldXJvbG9neWxpdmUuY29tL3ZpZXcvZmRhLXdhcm5zLXNlcmlvdXMtYWR2ZXJzZS1lZmZlY3RzLXVzaW5nLWxldmV0aXJhY2V0YW0tY2xvYmF6YW0tZXBpbGVwc3nSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm5ldXJvbG9neWxpdmUuY29tL3ZpZXcvZmRhLXdhcm5zLXNlcmlvdXMtYWR2ZXJzZS1lZmZlY3RzLXVzaW5nLWxldmV0aXJhY2V0YW0tY2xvYmF6YW0tZXBpbGVwc3nSAQA?oc=5\" target=\"_blank\">FDA Warns of Serious Adverse Effects for Using Levetiracetam and Clobazam in Epilepsy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neurology Live</font>"
+            ],
+            "source": [
+              {
+                "_": "Neurology Live",
+                "$": {
+                  "url": "https://www.neurologylive.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Car-T Therapy May Increase Risk of Certain Cancers - Healthline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC1uZXdzL3doeS10aGUtZmRhLXNheXMtY2FyLXQtdHJlYXRtZW50cy1uZWVkLXRvLWhhdmUtd2FybmluZ3MtYWJvdXQtY2FuY2VyLXJpc2vSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC1uZXdzL3doeS10aGUtZmRhLXNheXMtY2FyLXQtdHJlYXRtZW50cy1uZWVkLXRvLWhhdmUtd2FybmluZ3MtYWJvdXQtY2FuY2VyLXJpc2vSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 23:32:39 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC1uZXdzL3doeS10aGUtZmRhLXNheXMtY2FyLXQtdHJlYXRtZW50cy1uZWVkLXRvLWhhdmUtd2FybmluZ3MtYWJvdXQtY2FuY2VyLXJpc2vSAQA?oc=5\" target=\"_blank\">Car-T Therapy May Increase Risk of Certain Cancers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthline</font>"
+            ],
+            "source": [
+              {
+                "_": "Healthline",
+                "$": {
+                  "url": "https://www.healthline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cipla gets 8% revenue from Indore plant. Can FDA warning lead to import hurdles? - Moneycontrol"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3Mvc3RvY2tzL2NpcGxhLWdldHMtOC1yZXZlbnVlLWZyb20taW5kb3JlLXBsYW50LWNhbi1mZGEtd2FybmluZy1sZWFkLXRvLWltcG9ydC1odXJkbGVzLTExODE1MDExLmh0bWzSAZEBaHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL2J1c2luZXNzL3N0b2Nrcy9jaXBsYS1nZXRzLTgtcmV2ZW51ZS1mcm9tLWluZG9yZS1wbGFudC1jYW4tZmRhLXdhcm5pbmctbGVhZC10by1pbXBvcnQtaHVyZGxlcy0xMTgxNTAxMS5odG1sL2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3Mvc3RvY2tzL2NpcGxhLWdldHMtOC1yZXZlbnVlLWZyb20taW5kb3JlLXBsYW50LWNhbi1mZGEtd2FybmluZy1sZWFkLXRvLWltcG9ydC1odXJkbGVzLTExODE1MDExLmh0bWzSAZEBaHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL2J1c2luZXNzL3N0b2Nrcy9jaXBsYS1nZXRzLTgtcmV2ZW51ZS1mcm9tLWluZG9yZS1wbGFudC1jYW4tZmRhLXdhcm5pbmctbGVhZC10by1pbXBvcnQtaHVyZGxlcy0xMTgxNTAxMS5odG1sL2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3Mvc3RvY2tzL2NpcGxhLWdldHMtOC1yZXZlbnVlLWZyb20taW5kb3JlLXBsYW50LWNhbi1mZGEtd2FybmluZy1sZWFkLXRvLWltcG9ydC1odXJkbGVzLTExODE1MDExLmh0bWzSAZEBaHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL2J1c2luZXNzL3N0b2Nrcy9jaXBsYS1nZXRzLTgtcmV2ZW51ZS1mcm9tLWluZG9yZS1wbGFudC1jYW4tZmRhLXdhcm5pbmctbGVhZC10by1pbXBvcnQtaHVyZGxlcy0xMTgxNTAxMS5odG1sL2FtcA?oc=5\" target=\"_blank\">Cipla gets 8% revenue from Indore plant. Can FDA warning lead to import hurdles?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>"
+            ],
+            "source": [
+              {
+                "_": "Moneycontrol",
+                "$": {
+                  "url": "https://www.moneycontrol.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA slams Glinsa with another warning letter after it blew off an inspection in 2022 - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtc2xhbXMtZ2xpbnNhLWFub3RoZXItd2FybmluZy1sZXR0ZXItYWZ0ZXItaXQtYmxldy1pbnNwZWN0aW9uLTIwMjLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtc2xhbXMtZ2xpbnNhLWFub3RoZXItd2FybmluZy1sZXR0ZXItYWZ0ZXItaXQtYmxldy1pbnNwZWN0aW9uLTIwMjLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtc2xhbXMtZ2xpbnNhLWFub3RoZXItd2FybmluZy1sZXR0ZXItYWZ0ZXItaXQtYmxldy1pbnNwZWN0aW9uLTIwMjLSAQA?oc=5\" target=\"_blank\">FDA slams Glinsa with another warning letter after it blew off an inspection in 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US FDA hits Intas Pharma with warning letter; notes data integrity lapses at Ahmedabad plant - Moneycontrol"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY29tcGFuaWVzL3VzLWZkYS1oaXRzLWludGFzLXBoYXJtYS13aXRoLXdhcm5pbmctbGV0dGVyLW5vdGVzLWRhdGEtaW50ZWdyaXR5LWxhcHNlcy1hdC1haG1lZGFiYWQtcGxhbnQtMTE4NTU1MjEuaHRtbNIBogFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY29tcGFuaWVzL3VzLWZkYS1oaXRzLWludGFzLXBoYXJtYS13aXRoLXdhcm5pbmctbGV0dGVyLW5vdGVzLWRhdGEtaW50ZWdyaXR5LWxhcHNlcy1hdC1haG1lZGFiYWQtcGxhbnQtMTE4NTU1MjEuaHRtbC9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMingFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY29tcGFuaWVzL3VzLWZkYS1oaXRzLWludGFzLXBoYXJtYS13aXRoLXdhcm5pbmctbGV0dGVyLW5vdGVzLWRhdGEtaW50ZWdyaXR5LWxhcHNlcy1hdC1haG1lZGFiYWQtcGxhbnQtMTE4NTU1MjEuaHRtbNIBogFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY29tcGFuaWVzL3VzLWZkYS1oaXRzLWludGFzLXBoYXJtYS13aXRoLXdhcm5pbmctbGV0dGVyLW5vdGVzLWRhdGEtaW50ZWdyaXR5LWxhcHNlcy1hdC1haG1lZGFiYWQtcGxhbnQtMTE4NTU1MjEuaHRtbC9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY29tcGFuaWVzL3VzLWZkYS1oaXRzLWludGFzLXBoYXJtYS13aXRoLXdhcm5pbmctbGV0dGVyLW5vdGVzLWRhdGEtaW50ZWdyaXR5LWxhcHNlcy1hdC1haG1lZGFiYWQtcGxhbnQtMTE4NTU1MjEuaHRtbNIBogFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvY29tcGFuaWVzL3VzLWZkYS1oaXRzLWludGFzLXBoYXJtYS13aXRoLXdhcm5pbmctbGV0dGVyLW5vdGVzLWRhdGEtaW50ZWdyaXR5LWxhcHNlcy1hdC1haG1lZGFiYWQtcGxhbnQtMTE4NTU1MjEuaHRtbC9hbXA?oc=5\" target=\"_blank\">US FDA hits Intas Pharma with warning letter; notes data integrity lapses at Ahmedabad plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>"
+            ],
+            "source": [
+              {
+                "_": "Moneycontrol",
+                "$": {
+                  "url": "https://www.moneycontrol.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indian manufacturer recalls eyedrops previously cited in FDA warning - Moneycontrol"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvdHJlbmRzL2hlYWx0aC9pbmRpYW4tbWFudWZhY3R1cmVyLXJlY2FsbHMtZXllZHJvcHMtcHJldmlvdXNseS1jaXRlZC1pbi1mZGEtd2FybmluZy0xMTc1ODA5MS5odG1s0gGGAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy90cmVuZHMvaGVhbHRoL2luZGlhbi1tYW51ZmFjdHVyZXItcmVjYWxscy1leWVkcm9wcy1wcmV2aW91c2x5LWNpdGVkLWluLWZkYS13YXJuaW5nLTExNzU4MDkxLmh0bWwvYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvdHJlbmRzL2hlYWx0aC9pbmRpYW4tbWFudWZhY3R1cmVyLXJlY2FsbHMtZXllZHJvcHMtcHJldmlvdXNseS1jaXRlZC1pbi1mZGEtd2FybmluZy0xMTc1ODA5MS5odG1s0gGGAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy90cmVuZHMvaGVhbHRoL2luZGlhbi1tYW51ZmFjdHVyZXItcmVjYWxscy1leWVkcm9wcy1wcmV2aW91c2x5LWNpdGVkLWluLWZkYS13YXJuaW5nLTExNzU4MDkxLmh0bWwvYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvdHJlbmRzL2hlYWx0aC9pbmRpYW4tbWFudWZhY3R1cmVyLXJlY2FsbHMtZXllZHJvcHMtcHJldmlvdXNseS1jaXRlZC1pbi1mZGEtd2FybmluZy0xMTc1ODA5MS5odG1s0gGGAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy90cmVuZHMvaGVhbHRoL2luZGlhbi1tYW51ZmFjdHVyZXItcmVjYWxscy1leWVkcm9wcy1wcmV2aW91c2x5LWNpdGVkLWluLWZkYS13YXJuaW5nLTExNzU4MDkxLmh0bWwvYW1w?oc=5\" target=\"_blank\">Indian manufacturer recalls eyedrops previously cited in FDA warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>"
+            ],
+            "source": [
+              {
+                "_": "Moneycontrol",
+                "$": {
+                  "url": "https://www.moneycontrol.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA issues Cipla warning letter after thousands of complaints - Pharmaceutical Technology"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnBoYXJtYWNldXRpY2FsLXRlY2hub2xvZ3kuY29tL25ld3MvZmRhLWlzc3Vlcy1jaXBsYS13YXJuaW5nLWxldHRlci1hZnRlci10aG91c2FuZHMtb2YtY29tcGxhaW50cy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LnBoYXJtYWNldXRpY2FsLXRlY2hub2xvZ3kuY29tL25ld3MvZmRhLWlzc3Vlcy1jaXBsYS13YXJuaW5nLWxldHRlci1hZnRlci10aG91c2FuZHMtb2YtY29tcGxhaW50cy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnBoYXJtYWNldXRpY2FsLXRlY2hub2xvZ3kuY29tL25ld3MvZmRhLWlzc3Vlcy1jaXBsYS13YXJuaW5nLWxldHRlci1hZnRlci10aG91c2FuZHMtb2YtY29tcGxhaW50cy_SAQA?oc=5\" target=\"_blank\">FDA issues Cipla warning letter after thousands of complaints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmaceutical Technology</font>"
+            ],
+            "source": [
+              {
+                "_": "Pharmaceutical Technology",
+                "$": {
+                  "url": "https://www.pharmaceutical-technology.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Warns 'Copycat' Eye Drops Can Cause Infections - AARP"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFhcnAub3JnL2hlYWx0aC9jb25kaXRpb25zLXRyZWF0bWVudHMvaW5mby0yMDI0L2NvcHljYXQtZXllLWRyb3BzLWluZmVjdGlvbi1mZGEtd2FybmluZy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LmFhcnAub3JnL2hlYWx0aC9jb25kaXRpb25zLXRyZWF0bWVudHMvaW5mby0yMDI0L2NvcHljYXQtZXllLWRyb3BzLWluZmVjdGlvbi1mZGEtd2FybmluZy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 17:24:14 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFhcnAub3JnL2hlYWx0aC9jb25kaXRpb25zLXRyZWF0bWVudHMvaW5mby0yMDI0L2NvcHljYXQtZXllLWRyb3BzLWluZmVjdGlvbi1mZGEtd2FybmluZy5odG1s0gEA?oc=5\" target=\"_blank\">FDA Warns 'Copycat' Eye Drops Can Cause Infections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AARP</font>"
+            ],
+            "source": [
+              {
+                "_": "AARP",
+                "$": {
+                  "url": "https://www.aarp.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns of copycat eye drops that may be contaminated and ineffective - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8zMS9oZWFsdGgvZmRhLWV5ZS1kcm9wLWNvcHljYXQtd2FybmluZy13ZWxsbmVzcy9pbmRleC5odG1s0gFaaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wMS8zMS9oZWFsdGgvZmRhLWV5ZS1kcm9wLWNvcHljYXQtd2FybmluZy13ZWxsbmVzcy9pbmRleC5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8zMS9oZWFsdGgvZmRhLWV5ZS1kcm9wLWNvcHljYXQtd2FybmluZy13ZWxsbmVzcy9pbmRleC5odG1s0gFaaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wMS8zMS9oZWFsdGgvZmRhLWV5ZS1kcm9wLWNvcHljYXQtd2FybmluZy13ZWxsbmVzcy9pbmRleC5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 22:01:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8zMS9oZWFsdGgvZmRhLWV5ZS1kcm9wLWNvcHljYXQtd2FybmluZy13ZWxsbmVzcy9pbmRleC5odG1s0gFaaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wMS8zMS9oZWFsdGgvZmRhLWV5ZS1kcm9wLWNvcHljYXQtd2FybmluZy13ZWxsbmVzcy9pbmRleC5odG1s?oc=5\" target=\"_blank\">FDA warns of copycat eye drops that may be contaminated and ineffective</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Warns of Hidden Ingredients in Arthritis, Pain Products - Medscape"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3Lm1lZHNjYXBlLmNvbS92aWV3YXJ0aWNsZS85OTc3MzHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiK2h0dHBzOi8vd3d3Lm1lZHNjYXBlLmNvbS92aWV3YXJ0aWNsZS85OTc3MzHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3Lm1lZHNjYXBlLmNvbS92aWV3YXJ0aWNsZS85OTc3MzHSAQA?oc=5\" target=\"_blank\">FDA Warns of Hidden Ingredients in Arthritis, Pain Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medscape</font>"
+            ],
+            "source": [
+              {
+                "_": "Medscape",
+                "$": {
+                  "url": "https://www.medscape.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Breast Cancer Screening: Thermogram No Substitute for Mammogram - FDA.gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvYnJlYXN0LWNhbmNlci1zY3JlZW5pbmctdGhlcm1vZ3JhbS1uby1zdWJzdGl0dXRlLW1hbW1vZ3JhbdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvYnJlYXN0LWNhbmNlci1zY3JlZW5pbmctdGhlcm1vZ3JhbS1uby1zdWJzdGl0dXRlLW1hbW1vZ3JhbdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 06 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvYnJlYXN0LWNhbmNlci1zY3JlZW5pbmctdGhlcm1vZ3JhbS1uby1zdWJzdGl0dXRlLW1hbW1vZ3JhbdIBAA?oc=5\" target=\"_blank\">Breast Cancer Screening: Thermogram No Substitute for Mammogram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FDA.gov</font>"
+            ],
+            "source": [
+              {
+                "_": "FDA.gov",
+                "$": {
+                  "url": "https://www.fda.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA tweaks demand for safety update on Gilead's Tecartus label - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2ZkYS10d2Vha3MtdGVjYXJ0dXMtc2Vjb25kYXJ5LWNhbmNlci1sYWJlbGluZy1jaGFuZ2UtZGVtYW5kLWNsYXNzd2lkZS1ib3hlZC13YXJuaW5n0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2ZkYS10d2Vha3MtdGVjYXJ0dXMtc2Vjb25kYXJ5LWNhbmNlci1sYWJlbGluZy1jaGFuZ2UtZGVtYW5kLWNsYXNzd2lkZS1ib3hlZC13YXJuaW5n0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2ZkYS10d2Vha3MtdGVjYXJ0dXMtc2Vjb25kYXJ5LWNhbmNlci1sYWJlbGluZy1jaGFuZ2UtZGVtYW5kLWNsYXNzd2lkZS1ib3hlZC13YXJuaW5n0gEA?oc=5\" target=\"_blank\">FDA tweaks demand for safety update on Gilead's Tecartus label</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns pet food producer about improper ingredient storage conditions - Food Safety News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZvb2RzYWZldHluZXdzLmNvbS8yMDI0LzAxL2ZkYS13YXJucy1wZXQtZm9vZC1wcm9kdWNlci1hYm91dC1pbXByb3Blci1pbmdyZWRpZW50LXN0b3JhZ2UtY29uZGl0aW9ucy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmZvb2RzYWZldHluZXdzLmNvbS8yMDI0LzAxL2ZkYS13YXJucy1wZXQtZm9vZC1wcm9kdWNlci1hYm91dC1pbXByb3Blci1pbmdyZWRpZW50LXN0b3JhZ2UtY29uZGl0aW9ucy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZvb2RzYWZldHluZXdzLmNvbS8yMDI0LzAxL2ZkYS13YXJucy1wZXQtZm9vZC1wcm9kdWNlci1hYm91dC1pbXByb3Blci1pbmdyZWRpZW50LXN0b3JhZ2UtY29uZGl0aW9ucy_SAQA?oc=5\" target=\"_blank\">FDA warns pet food producer about improper ingredient storage conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Food Safety News</font>"
+            ],
+            "source": [
+              {
+                "_": "Food Safety News",
+                "$": {
+                  "url": "https://www.foodsafetynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evaluating Plastic Syringes Made in China for Potential Device Failure - FDA.gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5mZGEuZ292L21lZGljYWwtZGV2aWNlcy9zYWZldHktY29tbXVuaWNhdGlvbnMvZXZhbHVhdGluZy1wbGFzdGljLXN5cmluZ2VzLW1hZGUtY2hpbmEtcG90ZW50aWFsLWRldmljZS1mYWlsdXJlcy1mZGEtc2FmZXR5LWNvbW11bmljYXRpb27SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3d3dy5mZGEuZ292L21lZGljYWwtZGV2aWNlcy9zYWZldHktY29tbXVuaWNhdGlvbnMvZXZhbHVhdGluZy1wbGFzdGljLXN5cmluZ2VzLW1hZGUtY2hpbmEtcG90ZW50aWFsLWRldmljZS1mYWlsdXJlcy1mZGEtc2FmZXR5LWNvbW11bmljYXRpb27SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5mZGEuZ292L21lZGljYWwtZGV2aWNlcy9zYWZldHktY29tbXVuaWNhdGlvbnMvZXZhbHVhdGluZy1wbGFzdGljLXN5cmluZ2VzLW1hZGUtY2hpbmEtcG90ZW50aWFsLWRldmljZS1mYWlsdXJlcy1mZGEtc2FmZXR5LWNvbW11bmljYXRpb27SAQA?oc=5\" target=\"_blank\">Evaluating Plastic Syringes Made in China for Potential Device Failure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FDA.gov</font>"
+            ],
+            "source": [
+              {
+                "_": "FDA.gov",
+                "$": {
+                  "url": "https://www.fda.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Warns More Sellers of Flavored Vapes - Tobacco Reporter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdG9iYWNjb3JlcG9ydGVyLmNvbS8yMDI0LzAyLzAxL3Utcy1mZGEtd2FybnMtMTQtbW9yZS1zZWxsZXJzLW9mLWZsYXZvcmVkLXZhcGVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vdG9iYWNjb3JlcG9ydGVyLmNvbS8yMDI0LzAyLzAxL3Utcy1mZGEtd2FybnMtMTQtbW9yZS1zZWxsZXJzLW9mLWZsYXZvcmVkLXZhcGVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 20:06:14 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdG9iYWNjb3JlcG9ydGVyLmNvbS8yMDI0LzAyLzAxL3Utcy1mZGEtd2FybnMtMTQtbW9yZS1zZWxsZXJzLW9mLWZsYXZvcmVkLXZhcGVzL9IBAA?oc=5\" target=\"_blank\">FDA Warns More Sellers of Flavored Vapes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tobacco Reporter</font>"
+            ],
+            "source": [
+              {
+                "_": "Tobacco Reporter",
+                "$": {
+                  "url": "https://tobaccoreporter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warning letters highlight CAPA concerns - European Pharmaceutical Review"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmV1cm9wZWFucGhhcm1hY2V1dGljYWxyZXZpZXcuY29tL25ld3MvMTg1NjMzL2ZkYS13YXJuaW5nLWxldHRlcnMtaGlnaGxpZ2h0LWNhcGEtY29uY2VybnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmV1cm9wZWFucGhhcm1hY2V1dGljYWxyZXZpZXcuY29tL25ld3MvMTg1NjMzL2ZkYS13YXJuaW5nLWxldHRlcnMtaGlnaGxpZ2h0LWNhcGEtY29uY2VybnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmV1cm9wZWFucGhhcm1hY2V1dGljYWxyZXZpZXcuY29tL25ld3MvMTg1NjMzL2ZkYS13YXJuaW5nLWxldHRlcnMtaGlnaGxpZ2h0LWNhcGEtY29uY2VybnMv0gEA?oc=5\" target=\"_blank\">FDA warning letters highlight CAPA concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">European Pharmaceutical Review</font>"
+            ],
+            "source": [
+              {
+                "_": "European Pharmaceutical Review",
+                "$": {
+                  "url": "https://www.europeanpharmaceuticalreview.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Warning letters: Same old, same old at FDA - Regulatory Focus"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyNC8xL3dhcm5pbmctbGV0dGVycy1zYW1lLW9sZCwtc2FtZS1vbGQtYXQtZmRh0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyNC8xL3dhcm5pbmctbGV0dGVycy1zYW1lLW9sZCwtc2FtZS1vbGQtYXQtZmRh0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyNC8xL3dhcm5pbmctbGV0dGVycy1zYW1lLW9sZCwtc2FtZS1vbGQtYXQtZmRh0gEA?oc=5\" target=\"_blank\">Warning letters: Same old, same old at FDA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Regulatory Focus</font>"
+            ],
+            "source": [
+              {
+                "_": "Regulatory Focus",
+                "$": {
+                  "url": "https://www.raps.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Recent FDA Warning about Bacteria in Eye Drops: What You Should Know - Scientific American"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnNjaWVudGlmaWNhbWVyaWNhbi5jb20vYXJ0aWNsZS9mZGEtd2FybmluZ3MtZXllLWRyb3AtY29udGFtaW5hdGlvbi1xdWVzdGlvbnMtYW5zd2VyZWQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3LnNjaWVudGlmaWNhbWVyaWNhbi5jb20vYXJ0aWNsZS9mZGEtd2FybmluZ3MtZXllLWRyb3AtY29udGFtaW5hdGlvbi1xdWVzdGlvbnMtYW5zd2VyZWQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnNjaWVudGlmaWNhbWVyaWNhbi5jb20vYXJ0aWNsZS9mZGEtd2FybmluZ3MtZXllLWRyb3AtY29udGFtaW5hdGlvbi1xdWVzdGlvbnMtYW5zd2VyZWQv0gEA?oc=5\" target=\"_blank\">Recent FDA Warning about Bacteria in Eye Drops: What You Should Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scientific American</font>"
+            ],
+            "source": [
+              {
+                "_": "Scientific American",
+                "$": {
+                  "url": "https://www.scientificamerican.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Understanding FDA Inspections and Data - 09/06/2023 - FDA.gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZkYS5nb3YvZHJ1Z3MvbmV3cy1ldmVudHMtaHVtYW4tZHJ1Z3MvdW5kZXJzdGFuZGluZy1mZGEtaW5zcGVjdGlvbnMtYW5kLWRhdGEtMDkwNjIwMjPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmZkYS5nb3YvZHJ1Z3MvbmV3cy1ldmVudHMtaHVtYW4tZHJ1Z3MvdW5kZXJzdGFuZGluZy1mZGEtaW5zcGVjdGlvbnMtYW5kLWRhdGEtMDkwNjIwMjPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZkYS5nb3YvZHJ1Z3MvbmV3cy1ldmVudHMtaHVtYW4tZHJ1Z3MvdW5kZXJzdGFuZGluZy1mZGEtaW5zcGVjdGlvbnMtYW5kLWRhdGEtMDkwNjIwMjPSAQA?oc=5\" target=\"_blank\">Understanding FDA Inspections and Data - 09/06/2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FDA.gov</font>"
+            ],
+            "source": [
+              {
+                "_": "FDA.gov",
+                "$": {
+                  "url": "https://www.fda.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Warns Consumers of Contaminated Copycat Lumify Eye Drops - Happi"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmhhcHBpLmNvbS9jb250ZW50cy92aWV3X2JyZWFraW5nLW5ld3MvMjAyNC0wMi0wMi9mZGEtd2FybnMtY29uc3VtZXJzLW9mLWNvbnRhbWluYXRlZC1jb3B5Y2F0LWx1bWlmeS1leWUtZHJvcHMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LmhhcHBpLmNvbS9jb250ZW50cy92aWV3X2JyZWFraW5nLW5ld3MvMjAyNC0wMi0wMi9mZGEtd2FybnMtY29uc3VtZXJzLW9mLWNvbnRhbWluYXRlZC1jb3B5Y2F0LWx1bWlmeS1leWUtZHJvcHMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 20:08:34 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmhhcHBpLmNvbS9jb250ZW50cy92aWV3X2JyZWFraW5nLW5ld3MvMjAyNC0wMi0wMi9mZGEtd2FybnMtY29uc3VtZXJzLW9mLWNvbnRhbWluYXRlZC1jb3B5Y2F0LWx1bWlmeS1leWUtZHJvcHMv0gEA?oc=5\" target=\"_blank\">FDA Warns Consumers of Contaminated Copycat Lumify Eye Drops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Happi</font>"
+            ],
+            "source": [
+              {
+                "_": "Happi",
+                "$": {
+                  "url": "https://www.happi.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Safest Way to Store Cut Avocados and Prevent Them From Browning - Everyday Health"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmV2ZXJ5ZGF5aGVhbHRoLmNvbS9kaWV0LW51dHJpdGlvbi9mZGEtd2FybnMtYWdhaW5zdC1yaXNreS1uZXctYXZvY2Fkby10cmVuZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmV2ZXJ5ZGF5aGVhbHRoLmNvbS9kaWV0LW51dHJpdGlvbi9mZGEtd2FybnMtYWdhaW5zdC1yaXNreS1uZXctYXZvY2Fkby10cmVuZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 18:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmV2ZXJ5ZGF5aGVhbHRoLmNvbS9kaWV0LW51dHJpdGlvbi9mZGEtd2FybnMtYWdhaW5zdC1yaXNreS1uZXctYXZvY2Fkby10cmVuZC_SAQA?oc=5\" target=\"_blank\">The Safest Way to Store Cut Avocados and Prevent Them From Browning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Everyday Health</font>"
+            ],
+            "source": [
+              {
+                "_": "Everyday Health",
+                "$": {
+                  "url": "https://www.everydayhealth.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CDC issues warning about 'gas station heroin' Neptune's Fix - Yahoo News Australia"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vYXUubmV3cy55YWhvby5jb20vY2RjLWlzc3Vlcy13YXJuaW5nLWdhcy1zdGF0aW9uLTIzMTYzNTAzOC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vYXUubmV3cy55YWhvby5jb20vY2RjLWlzc3Vlcy13YXJuaW5nLWdhcy1zdGF0aW9uLTIzMTYzNTAzOC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:16:35 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vYXUubmV3cy55YWhvby5jb20vY2RjLWlzc3Vlcy13YXJuaW5nLWdhcy1zdGF0aW9uLTIzMTYzNTAzOC5odG1s0gEA?oc=5\" target=\"_blank\">CDC issues warning about 'gas station heroin' Neptune's Fix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Australia</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News Australia",
+                "$": {
+                  "url": "https://au.news.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US FDA uncovers failures in Indian pharma factories - Deccan Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRlY2NhbmhlcmFsZC5jb20vb3Bpbmlvbi91cy1mZGEtdW5jb3ZlcnMtZmFpbHVyZXMtaW4taW5kaWFuLXBoYXJtYS1mYWN0b3JpZXMtMTIyNTgxMC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmRlY2NhbmhlcmFsZC5jb20vb3Bpbmlvbi91cy1mZGEtdW5jb3ZlcnMtZmFpbHVyZXMtaW4taW5kaWFuLXBoYXJtYS1mYWN0b3JpZXMtMTIyNTgxMC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRlY2NhbmhlcmFsZC5jb20vb3Bpbmlvbi91cy1mZGEtdW5jb3ZlcnMtZmFpbHVyZXMtaW4taW5kaWFuLXBoYXJtYS1mYWN0b3JpZXMtMTIyNTgxMC5odG1s0gEA?oc=5\" target=\"_blank\">US FDA uncovers failures in Indian pharma factories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "Deccan Herald",
+                "$": {
+                  "url": "https://www.deccanherald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Intas on import alert as FDA flags data manipulation, management failures in warning letter - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtc2xhbXMtaW50YXMtZGF0YS1tYW5pcHVsYXRpb24tbWFuYWdlbWVudC1mYWlsdXJlcy13YXJuaW5nLWxldHRlctIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtc2xhbXMtaW50YXMtZGF0YS1tYW5pcHVsYXRpb24tbWFuYWdlbWVudC1mYWlsdXJlcy13YXJuaW5nLWxldHRlctIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtc2xhbXMtaW50YXMtZGF0YS1tYW5pcHVsYXRpb24tbWFuYWdlbWVudC1mYWlsdXJlcy13YXJuaW5nLWxldHRlctIBAA?oc=5\" target=\"_blank\">Intas on import alert as FDA flags data manipulation, management failures in warning letter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US FDA adds 'boxed warning' for Amgen's bone loss drug Prolia - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL3VzLWZkYS1yZXZpc2VzLWxhYmVsaW5nLWFtZ2Vucy1kcnVnLXRyZWF0LWJvbmUtbG9zcy0yMDI0LTAxLTE5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL3VzLWZkYS1yZXZpc2VzLWxhYmVsaW5nLWFtZ2Vucy1kcnVnLXRyZWF0LWJvbmUtbG9zcy0yMDI0LTAxLTE5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL3VzLWZkYS1yZXZpc2VzLWxhYmVsaW5nLWFtZ2Vucy1kcnVnLXRyZWF0LWJvbmUtbG9zcy0yMDI0LTAxLTE5L9IBAA?oc=5\" target=\"_blank\">US FDA adds 'boxed warning' for Amgen's bone loss drug Prolia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA issues warning letters to two firms for failing to respond to record requests - Regulatory Focus"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy85L2ZkYS1pc3N1ZXMtd2FybmluZy1sZXR0ZXJzLXRvLXR3by1maXJtcy1mb3ItZmFpbGlu0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy85L2ZkYS1pc3N1ZXMtd2FybmluZy1sZXR0ZXJzLXRvLXR3by1maXJtcy1mb3ItZmFpbGlu0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy85L2ZkYS1pc3N1ZXMtd2FybmluZy1sZXR0ZXJzLXRvLXR3by1maXJtcy1mb3ItZmFpbGlu0gEA?oc=5\" target=\"_blank\">FDA issues warning letters to two firms for failing to respond to record requests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Regulatory Focus</font>"
+            ],
+            "source": [
+              {
+                "_": "Regulatory Focus",
+                "$": {
+                  "url": "https://www.raps.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Do Not Use Certain SD Biosensor Pilot COVID-19 At-Home Tests - FDA.gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5mZGEuZ292L21lZGljYWwtZGV2aWNlcy9zYWZldHktY29tbXVuaWNhdGlvbnMvZG8tbm90LXVzZS1jZXJ0YWluLXNkLWJpb3NlbnNvci1waWxvdC1jb3ZpZC0xOS1ob21lLXRlc3RzLWZkYS1zYWZldHktY29tbXVuaWNhdGlvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5mZGEuZ292L21lZGljYWwtZGV2aWNlcy9zYWZldHktY29tbXVuaWNhdGlvbnMvZG8tbm90LXVzZS1jZXJ0YWluLXNkLWJpb3NlbnNvci1waWxvdC1jb3ZpZC0xOS1ob21lLXRlc3RzLWZkYS1zYWZldHktY29tbXVuaWNhdGlvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5mZGEuZ292L21lZGljYWwtZGV2aWNlcy9zYWZldHktY29tbXVuaWNhdGlvbnMvZG8tbm90LXVzZS1jZXJ0YWluLXNkLWJpb3NlbnNvci1waWxvdC1jb3ZpZC0xOS1ob21lLXRlc3RzLWZkYS1zYWZldHktY29tbXVuaWNhdGlvbtIBAA?oc=5\" target=\"_blank\">Do Not Use Certain SD Biosensor Pilot COVID-19 At-Home Tests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FDA.gov</font>"
+            ],
+            "source": [
+              {
+                "_": "FDA.gov",
+                "$": {
+                  "url": "https://www.fda.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA CAR-T warning: What does it mean for oncology and beyond? - Labiotech.eu"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmxhYmlvdGVjaC5ldS9tb3JlLW5ld3MvZmRhLWNhci10LXdhcm5pbmcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiNWh0dHBzOi8vd3d3LmxhYmlvdGVjaC5ldS9tb3JlLW5ld3MvZmRhLWNhci10LXdhcm5pbmcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 04 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmxhYmlvdGVjaC5ldS9tb3JlLW5ld3MvZmRhLWNhci10LXdhcm5pbmcv0gEA?oc=5\" target=\"_blank\">FDA CAR-T warning: What does it mean for oncology and beyond?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Labiotech.eu</font>"
+            ],
+            "source": [
+              {
+                "_": "Labiotech.eu",
+                "$": {
+                  "url": "https://www.labiotech.eu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Amazon stops selling these eyedrops after FDA warning - Times of India"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9nYWRnZXRzLW5ld3MvYW1hem9uLXN0b3BzLXNlbGxpbmctdGhlc2UtZXllZHJvcHMtYWZ0ZXItZmRhLXdhcm5pbmcvYXJ0aWNsZXNob3cvMTA1MjY1NzUzLmNtc9IBhAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9nYWRnZXRzLW5ld3MvYW1hem9uLXN0b3BzLXNlbGxpbmctdGhlc2UtZXllZHJvcHMtYWZ0ZXItZmRhLXdhcm5pbmcvYW1wX2FydGljbGVzaG93LzEwNTI2NTc1My5jbXM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9nYWRnZXRzLW5ld3MvYW1hem9uLXN0b3BzLXNlbGxpbmctdGhlc2UtZXllZHJvcHMtYWZ0ZXItZmRhLXdhcm5pbmcvYXJ0aWNsZXNob3cvMTA1MjY1NzUzLmNtc9IBhAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9nYWRnZXRzLW5ld3MvYW1hem9uLXN0b3BzLXNlbGxpbmctdGhlc2UtZXllZHJvcHMtYWZ0ZXItZmRhLXdhcm5pbmcvYW1wX2FydGljbGVzaG93LzEwNTI2NTc1My5jbXM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9nYWRnZXRzLW5ld3MvYW1hem9uLXN0b3BzLXNlbGxpbmctdGhlc2UtZXllZHJvcHMtYWZ0ZXItZmRhLXdhcm5pbmcvYXJ0aWNsZXNob3cvMTA1MjY1NzUzLmNtc9IBhAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9nYWRnZXRzLW5ld3MvYW1hem9uLXN0b3BzLXNlbGxpbmctdGhlc2UtZXllZHJvcHMtYWZ0ZXItZmRhLXdhcm5pbmcvYW1wX2FydGljbGVzaG93LzEwNTI2NTc1My5jbXM?oc=5\" target=\"_blank\">Amazon stops selling these eyedrops after FDA warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>"
+            ],
+            "source": [
+              {
+                "_": "Times of India",
+                "$": {
+                  "url": "https://timesofindia.indiatimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns of contaminated copycat eye drops - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0MjE4OS1mZGEtd2FybnMtb2YtY29udGFtaW5hdGVkLWNvcHljYXQtZXllLWRyb3BzL9IBXmh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0MjE4OS1mZGEtd2FybnMtb2YtY29udGFtaW5hdGVkLWNvcHljYXQtZXllLWRyb3BzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0MjE4OS1mZGEtd2FybnMtb2YtY29udGFtaW5hdGVkLWNvcHljYXQtZXllLWRyb3BzL9IBXmh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0MjE4OS1mZGEtd2FybnMtb2YtY29udGFtaW5hdGVkLWNvcHljYXQtZXllLWRyb3BzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 16:18:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0MjE4OS1mZGEtd2FybnMtb2YtY29udGFtaW5hdGVkLWNvcHljYXQtZXllLWRyb3BzL9IBXmh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0MjE4OS1mZGEtd2FybnMtb2YtY29udGFtaW5hdGVkLWNvcHljYXQtZXllLWRyb3BzL2FtcC8?oc=5\" target=\"_blank\">FDA warns of contaminated copycat eye drops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Is Rinsing Your Sinuses With Neti Pots Safe? - FDA.gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvcmluc2luZy15b3VyLXNpbnVzZXMtbmV0aS1wb3RzLXNhZmXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvcmluc2luZy15b3VyLXNpbnVzZXMtbmV0aS1wb3RzLXNhZmXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvcmluc2luZy15b3VyLXNpbnVzZXMtbmV0aS1wb3RzLXNhZmXSAQA?oc=5\" target=\"_blank\">Is Rinsing Your Sinuses With Neti Pots Safe?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FDA.gov</font>"
+            ],
+            "source": [
+              {
+                "_": "FDA.gov",
+                "$": {
+                  "url": "https://www.fda.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Troubled Cipla plant slammed with FDA warning letter for ongoing problems - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy90cm91YmxlZC1jaXBsYS1wbGFudC1zbGFtbWVkLWZkYS13YXJuaW5nLWxldHRlci1vbmdvaW5nLXByb2JsZW1z0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy90cm91YmxlZC1jaXBsYS1wbGFudC1zbGFtbWVkLWZkYS13YXJuaW5nLWxldHRlci1vbmdvaW5nLXByb2JsZW1z0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy90cm91YmxlZC1jaXBsYS1wbGFudC1zbGFtbWVkLWZkYS13YXJuaW5nLWxldHRlci1vbmdvaW5nLXByb2JsZW1z0gEA?oc=5\" target=\"_blank\">Troubled Cipla plant slammed with FDA warning letter for ongoing problems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns of dangerous counterfeit eyedrops - Medical Xpress"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbWVkaWNhbHhwcmVzcy5jb20vbmV3cy8yMDI0LTAyLWZkYS1kYW5nZXJvdXMtY291bnRlcmZlaXQtZXllZHJvcHMuaHRtbNIBTWh0dHBzOi8vbWVkaWNhbHhwcmVzcy5jb20vbmV3cy8yMDI0LTAyLWZkYS1kYW5nZXJvdXMtY291bnRlcmZlaXQtZXllZHJvcHMuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vbWVkaWNhbHhwcmVzcy5jb20vbmV3cy8yMDI0LTAyLWZkYS1kYW5nZXJvdXMtY291bnRlcmZlaXQtZXllZHJvcHMuaHRtbNIBTWh0dHBzOi8vbWVkaWNhbHhwcmVzcy5jb20vbmV3cy8yMDI0LTAyLWZkYS1kYW5nZXJvdXMtY291bnRlcmZlaXQtZXllZHJvcHMuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 18:08:03 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbWVkaWNhbHhwcmVzcy5jb20vbmV3cy8yMDI0LTAyLWZkYS1kYW5nZXJvdXMtY291bnRlcmZlaXQtZXllZHJvcHMuaHRtbNIBTWh0dHBzOi8vbWVkaWNhbHhwcmVzcy5jb20vbmV3cy8yMDI0LTAyLWZkYS1kYW5nZXJvdXMtY291bnRlcmZlaXQtZXllZHJvcHMuYW1w?oc=5\" target=\"_blank\">FDA warns of dangerous counterfeit eyedrops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Xpress</font>"
+            ],
+            "source": [
+              {
+                "_": "Medical Xpress",
+                "$": {
+                  "url": "https://medicalxpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns Cipla over poor contamination controls and minimizing problems tied to defective inhalers - Regulatory Focus"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy8xMS9mZGEtd2FybnMtY2lwbGEtb3Zlci1wb29yLWNvbnRhbWluYXRpb24tY29udHJvbHMtYdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy8xMS9mZGEtd2FybnMtY2lwbGEtb3Zlci1wb29yLWNvbnRhbWluYXRpb24tY29udHJvbHMtYdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJhcHMub3JnL25ld3MtYW5kLWFydGljbGVzL25ld3MtYXJ0aWNsZXMvMjAyMy8xMS9mZGEtd2FybnMtY2lwbGEtb3Zlci1wb29yLWNvbnRhbWluYXRpb24tY29udHJvbHMtYdIBAA?oc=5\" target=\"_blank\">FDA warns Cipla over poor contamination controls and minimizing problems tied to defective inhalers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Regulatory Focus</font>"
+            ],
+            "source": [
+              {
+                "_": "Regulatory Focus",
+                "$": {
+                  "url": "https://www.raps.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Warns of Potentially Lethal Reaction to Seizure Meds - Medscape"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3Lm1lZHNjYXBlLmNvbS92aWV3YXJ0aWNsZS85OTg4NjDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiK2h0dHBzOi8vd3d3Lm1lZHNjYXBlLmNvbS92aWV3YXJ0aWNsZS85OTg4NjDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3Lm1lZHNjYXBlLmNvbS92aWV3YXJ0aWNsZS85OTg4NjDSAQA?oc=5\" target=\"_blank\">FDA Warns of Potentially Lethal Reaction to Seizure Meds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medscape</font>"
+            ],
+            "source": [
+              {
+                "_": "Medscape",
+                "$": {
+                  "url": "https://www.medscape.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA tells sponsors of CAR T-cell therapies to add boxed warning about secondary T-cell malignancies - The Cancer Letter"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vY2FuY2VybGV0dGVyLmNvbS9yZWd1bGF0b3J5LW5ld3MvMjAyNDAyMDJfMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiNGh0dHBzOi8vY2FuY2VybGV0dGVyLmNvbS9yZWd1bGF0b3J5LW5ld3MvMjAyNDAyMDJfMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 21:49:38 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vY2FuY2VybGV0dGVyLmNvbS9yZWd1bGF0b3J5LW5ld3MvMjAyNDAyMDJfMi_SAQA?oc=5\" target=\"_blank\">FDA tells sponsors of CAR T-cell therapies to add boxed warning about secondary T-cell malignancies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cancer Letter</font>"
+            ],
+            "source": [
+              {
+                "_": "The Cancer Letter",
+                "$": {
+                  "url": "https://cancerletter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns of ‘copycat’ eye drops that can cause eye infection - WSB Atlanta"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LndzYnR2LmNvbS9uZXdzL3RyZW5kaW5nL2ZkYS13YXJucy1jb3B5Y2F0LWV5ZWRyb3BzLXRoYXQtY2FuLWNhdXNlLWV5ZS1pbmZlY3Rpb24vWE5EV0NOUjZJUkU0UEJWNVJMN0E1R0xFNFUv0gGGAWh0dHBzOi8vd3d3LndzYnR2LmNvbS9uZXdzL3RyZW5kaW5nL2ZkYS13YXJucy1jb3B5Y2F0LWV5ZWRyb3BzLXRoYXQtY2FuLWNhdXNlLWV5ZS1pbmZlY3Rpb24vWE5EV0NOUjZJUkU0UEJWNVJMN0E1R0xFNFUvP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LndzYnR2LmNvbS9uZXdzL3RyZW5kaW5nL2ZkYS13YXJucy1jb3B5Y2F0LWV5ZWRyb3BzLXRoYXQtY2FuLWNhdXNlLWV5ZS1pbmZlY3Rpb24vWE5EV0NOUjZJUkU0UEJWNVJMN0E1R0xFNFUv0gGGAWh0dHBzOi8vd3d3LndzYnR2LmNvbS9uZXdzL3RyZW5kaW5nL2ZkYS13YXJucy1jb3B5Y2F0LWV5ZWRyb3BzLXRoYXQtY2FuLWNhdXNlLWV5ZS1pbmZlY3Rpb24vWE5EV0NOUjZJUkU0UEJWNVJMN0E1R0xFNFUvP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 17:02:19 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LndzYnR2LmNvbS9uZXdzL3RyZW5kaW5nL2ZkYS13YXJucy1jb3B5Y2F0LWV5ZWRyb3BzLXRoYXQtY2FuLWNhdXNlLWV5ZS1pbmZlY3Rpb24vWE5EV0NOUjZJUkU0UEJWNVJMN0E1R0xFNFUv0gGGAWh0dHBzOi8vd3d3LndzYnR2LmNvbS9uZXdzL3RyZW5kaW5nL2ZkYS13YXJucy1jb3B5Y2F0LWV5ZWRyb3BzLXRoYXQtY2FuLWNhdXNlLWV5ZS1pbmZlY3Rpb24vWE5EV0NOUjZJUkU0UEJWNVJMN0E1R0xFNFUvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">FDA warns of ‘copycat’ eye drops that can cause eye infection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB Atlanta</font>"
+            ],
+            "source": [
+              {
+                "_": "WSB Atlanta",
+                "$": {
+                  "url": "https://www.wsbtv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "MiMedx reports US FDA warning letter for Axiofill, shares drop - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy9taW1lZHgtcmVwb3J0cy11cy1mZGEtd2FybmluZy1sZXR0ZXItYXhpb2ZpbGwtc2hhcmVzLWRyb3AtMjAyMy0xMi0zMC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy9taW1lZHgtcmVwb3J0cy11cy1mZGEtd2FybmluZy1sZXR0ZXItYXhpb2ZpbGwtc2hhcmVzLWRyb3AtMjAyMy0xMi0zMC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy9taW1lZHgtcmVwb3J0cy11cy1mZGEtd2FybmluZy1sZXR0ZXItYXhpb2ZpbGwtc2hhcmVzLWRyb3AtMjAyMy0xMi0zMC_SAQA?oc=5\" target=\"_blank\">MiMedx reports US FDA warning letter for Axiofill, shares drop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US FDA warns Amazon against sale of unapproved eye drops - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL3VzLWZkYS13YXJucy1hbWF6b24tYWdhaW5zdC1zYWxlLXVuYXBwcm92ZWQtZXllLWRyb3BzLTIwMjMtMTEtMTQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL3VzLWZkYS13YXJucy1hbWF6b24tYWdhaW5zdC1zYWxlLXVuYXBwcm92ZWQtZXllLWRyb3BzLTIwMjMtMTEtMTQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL3VzLWZkYS13YXJucy1hbWF6b24tYWdhaW5zdC1zYWxlLXVuYXBwcm92ZWQtZXllLWRyb3BzLTIwMjMtMTEtMTQv0gEA?oc=5\" target=\"_blank\">US FDA warns Amazon against sale of unapproved eye drops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Investigation of Elevated Lead & Chromium Levels: Cinnamon Applesauce - FDA.gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5mZGEuZ292L2Zvb2Qvb3V0YnJlYWtzLWZvb2Rib3JuZS1pbGxuZXNzL2ludmVzdGlnYXRpb24tZWxldmF0ZWQtbGVhZC1jaHJvbWl1bS1sZXZlbHMtY2lubmFtb24tYXBwbGVzYXVjZS1wb3VjaGVzLW5vdmVtYmVyLTIwMjPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy5mZGEuZ292L2Zvb2Qvb3V0YnJlYWtzLWZvb2Rib3JuZS1pbGxuZXNzL2ludmVzdGlnYXRpb24tZWxldmF0ZWQtbGVhZC1jaHJvbWl1bS1sZXZlbHMtY2lubmFtb24tYXBwbGVzYXVjZS1wb3VjaGVzLW5vdmVtYmVyLTIwMjPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Jan 2024 19:06:12 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5mZGEuZ292L2Zvb2Qvb3V0YnJlYWtzLWZvb2Rib3JuZS1pbGxuZXNzL2ludmVzdGlnYXRpb24tZWxldmF0ZWQtbGVhZC1jaHJvbWl1bS1sZXZlbHMtY2lubmFtb24tYXBwbGVzYXVjZS1wb3VjaGVzLW5vdmVtYmVyLTIwMjPSAQA?oc=5\" target=\"_blank\">Investigation of Elevated Lead & Chromium Levels: Cinnamon Applesauce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FDA.gov</font>"
+            ],
+            "source": [
+              {
+                "_": "FDA.gov",
+                "$": {
+                  "url": "https://www.fda.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cipla rebounds after drug maker seeks to allay investors concerns on its Pithampur facility - Zee Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy56ZWViaXouY29tL21hcmtldHMvc3RvY2tzL25ld3MtY2lwbGEtc2hhcmUtcHJpY2UtbmV3cy10YXJnZXQtZm9vZC1hbmQtZHJ1Zy1hZG1pbmlzdHJhdGlvbi1waXRoYW1wdXItdXNmZGEtd2FybmluZy1sZXR0ZXItaW5kb3JlLTIwMjMtaHNiYy0yNjU5NTLSAaABaHR0cHM6Ly93d3cuemVlYml6LmNvbS9tYXJrZXRzL3N0b2Nrcy9uZXdzLWNpcGxhLXNoYXJlLXByaWNlLW5ld3MtdGFyZ2V0LWZvb2QtYW5kLWRydWctYWRtaW5pc3RyYXRpb24tcGl0aGFtcHVyLXVzZmRhLXdhcm5pbmctbGV0dGVyLWluZG9yZS0yMDIzLWhzYmMtMjY1OTUyL2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy56ZWViaXouY29tL21hcmtldHMvc3RvY2tzL25ld3MtY2lwbGEtc2hhcmUtcHJpY2UtbmV3cy10YXJnZXQtZm9vZC1hbmQtZHJ1Zy1hZG1pbmlzdHJhdGlvbi1waXRoYW1wdXItdXNmZGEtd2FybmluZy1sZXR0ZXItaW5kb3JlLTIwMjMtaHNiYy0yNjU5NTLSAaABaHR0cHM6Ly93d3cuemVlYml6LmNvbS9tYXJrZXRzL3N0b2Nrcy9uZXdzLWNpcGxhLXNoYXJlLXByaWNlLW5ld3MtdGFyZ2V0LWZvb2QtYW5kLWRydWctYWRtaW5pc3RyYXRpb24tcGl0aGFtcHVyLXVzZmRhLXdhcm5pbmctbGV0dGVyLWluZG9yZS0yMDIzLWhzYmMtMjY1OTUyL2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy56ZWViaXouY29tL21hcmtldHMvc3RvY2tzL25ld3MtY2lwbGEtc2hhcmUtcHJpY2UtbmV3cy10YXJnZXQtZm9vZC1hbmQtZHJ1Zy1hZG1pbmlzdHJhdGlvbi1waXRoYW1wdXItdXNmZGEtd2FybmluZy1sZXR0ZXItaW5kb3JlLTIwMjMtaHNiYy0yNjU5NTLSAaABaHR0cHM6Ly93d3cuemVlYml6LmNvbS9tYXJrZXRzL3N0b2Nrcy9uZXdzLWNpcGxhLXNoYXJlLXByaWNlLW5ld3MtdGFyZ2V0LWZvb2QtYW5kLWRydWctYWRtaW5pc3RyYXRpb24tcGl0aGFtcHVyLXVzZmRhLXdhcm5pbmctbGV0dGVyLWluZG9yZS0yMDIzLWhzYmMtMjY1OTUyL2FtcA?oc=5\" target=\"_blank\">Cipla rebounds after drug maker seeks to allay investors concerns on its Pithampur facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zee Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Zee Business",
+                "$": {
+                  "url": "https://www.zeebiz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA rips MiMedx with warning letter for its placental collagen wound-care treatment - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtcmlwcy1taW1lZHgtd2FybmluZy1sZXR0ZXItaXRzLXBsYWNlbnRhbC1jb2xsYWdlbi13b3VuZC1jYXJlLXRyZWF0bWVudNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtcmlwcy1taW1lZHgtd2FybmluZy1sZXR0ZXItaXRzLXBsYWNlbnRhbC1jb2xsYWdlbi13b3VuZC1jYXJlLXRyZWF0bWVudNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFudWZhY3R1cmluZy9mZGEtcmlwcy1taW1lZHgtd2FybmluZy1sZXR0ZXItaXRzLXBsYWNlbnRhbC1jb2xsYWdlbi13b3VuZC1jYXJlLXRyZWF0bWVudNIBAA?oc=5\" target=\"_blank\">FDA rips MiMedx with warning letter for its placental collagen wound-care treatment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Amazon removes eye drops from website after FDA warning - Healio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmhlYWxpby5jb20vbmV3cy9vcHRvbWV0cnkvMjAyMzExMTcvYW1hem9uLXJlbW92ZXMtZXllLWRyb3BzLWZyb20td2Vic2l0ZS1hZnRlci1mZGEtd2FybmluZ9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmhlYWxpby5jb20vbmV3cy9vcHRvbWV0cnkvMjAyMzExMTcvYW1hem9uLXJlbW92ZXMtZXllLWRyb3BzLWZyb20td2Vic2l0ZS1hZnRlci1mZGEtd2FybmluZ9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmhlYWxpby5jb20vbmV3cy9vcHRvbWV0cnkvMjAyMzExMTcvYW1hem9uLXJlbW92ZXMtZXllLWRyb3BzLWZyb20td2Vic2l0ZS1hZnRlci1mZGEtd2FybmluZ9IBAA?oc=5\" target=\"_blank\">Amazon removes eye drops from website after FDA warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healio</font>"
+            ],
+            "source": [
+              {
+                "_": "Healio",
+                "$": {
+                  "url": "https://www.healio.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dr. Reddy's scolded for maintenance shortfalls in new FDA Form 483 filing - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2RyLXJlZGR5cy1zY29sZGVkLW1haW50ZW5hbmNlLXNob3J0ZmFsbHMtaW5kaWEtbmV3LWZkYS1mb3JtLTQ4M9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2RyLXJlZGR5cy1zY29sZGVkLW1haW50ZW5hbmNlLXNob3J0ZmFsbHMtaW5kaWEtbmV3LWZkYS1mb3JtLTQ4M9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2RyLXJlZGR5cy1zY29sZGVkLW1haW50ZW5hbmNlLXNob3J0ZmFsbHMtaW5kaWEtbmV3LWZkYS1mb3JtLTQ4M9IBAA?oc=5\" target=\"_blank\">Dr. Reddy's scolded for maintenance shortfalls in new FDA Form 483 filing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns of rare hypersensitivity reaction due to antiseizure drugs - Pharmaceutical Technology"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnBoYXJtYWNldXRpY2FsLXRlY2hub2xvZ3kuY29tL25ld3MvZmRhLXdhcm5zLW9mLXJhcmUtaHlwZXJzZW5zaXRpdml0eS1yZWFjdGlvbi1kdWUtdG8tYW50aXNlaXp1cmUtZHJ1Z3Mv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LnBoYXJtYWNldXRpY2FsLXRlY2hub2xvZ3kuY29tL25ld3MvZmRhLXdhcm5zLW9mLXJhcmUtaHlwZXJzZW5zaXRpdml0eS1yZWFjdGlvbi1kdWUtdG8tYW50aXNlaXp1cmUtZHJ1Z3Mv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnBoYXJtYWNldXRpY2FsLXRlY2hub2xvZ3kuY29tL25ld3MvZmRhLXdhcm5zLW9mLXJhcmUtaHlwZXJzZW5zaXRpdml0eS1yZWFjdGlvbi1kdWUtdG8tYW50aXNlaXp1cmUtZHJ1Z3Mv0gEA?oc=5\" target=\"_blank\">FDA warns of rare hypersensitivity reaction due to antiseizure drugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmaceutical Technology</font>"
+            ],
+            "source": [
+              {
+                "_": "Pharmaceutical Technology",
+                "$": {
+                  "url": "https://www.pharmaceutical-technology.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Duane Morris LLP - FDA Warning Letters Explained: An Opportunity, Not a Threat - Duane Morris"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmR1YW5lbW9ycmlzLmNvbS9hbGVydHMvZmRhX3dhcm5pbmdfbGV0dGVyc19leHBsYWluZWRfYW5fb3Bwb3J0dW5pdHlfbm90X3RocmVhdF8xMTIzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LmR1YW5lbW9ycmlzLmNvbS9hbGVydHMvZmRhX3dhcm5pbmdfbGV0dGVyc19leHBsYWluZWRfYW5fb3Bwb3J0dW5pdHlfbm90X3RocmVhdF8xMTIzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmR1YW5lbW9ycmlzLmNvbS9hbGVydHMvZmRhX3dhcm5pbmdfbGV0dGVyc19leHBsYWluZWRfYW5fb3Bwb3J0dW5pdHlfbm90X3RocmVhdF8xMTIzLmh0bWzSAQA?oc=5\" target=\"_blank\">Duane Morris LLP - FDA Warning Letters Explained: An Opportunity, Not a Threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Duane Morris</font>"
+            ],
+            "source": [
+              {
+                "_": "Duane Morris",
+                "$": {
+                  "url": "https://www.duanemorris.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dermal Filler Do's and Don'ts for Wrinkles, Lips and More - FDA.gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvZGVybWFsLWZpbGxlci1kb3MtYW5kLWRvbnRzLXdyaW5rbGVzLWxpcHMtYW5kLW1vcmXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvZGVybWFsLWZpbGxlci1kb3MtYW5kLWRvbnRzLXdyaW5rbGVzLWxpcHMtYW5kLW1vcmXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 07 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvZGVybWFsLWZpbGxlci1kb3MtYW5kLWRvbnRzLXdyaW5rbGVzLWxpcHMtYW5kLW1vcmXSAQA?oc=5\" target=\"_blank\">Dermal Filler Do's and Don'ts for Wrinkles, Lips and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FDA.gov</font>"
+            ],
+            "source": [
+              {
+                "_": "FDA.gov",
+                "$": {
+                  "url": "https://www.fda.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Safely Treating Molluscum, a Common Skin Condition - FDA.gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvc2FmZWx5LXRyZWF0aW5nLW1vbGx1c2N1bS1jb21tb24tc2tpbi1jb25kaXRpb27SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvc2FmZWx5LXRyZWF0aW5nLW1vbGx1c2N1bS1jb21tb24tc2tpbi1jb25kaXRpb27SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 23 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvc2FmZWx5LXRyZWF0aW5nLW1vbGx1c2N1bS1jb21tb24tc2tpbi1jb25kaXRpb27SAQA?oc=5\" target=\"_blank\">Safely Treating Molluscum, a Common Skin Condition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FDA.gov</font>"
+            ],
+            "source": [
+              {
+                "_": "FDA.gov",
+                "$": {
+                  "url": "https://www.fda.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Beware of Illegally Marketed Diabetes Treatments, Fraudulent Pharmacie - FDA.gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvYmV3YXJlLWlsbGVnYWxseS1tYXJrZXRlZC1kaWFiZXRlcy10cmVhdG1lbnRzLWZyYXVkdWxlbnQtcGhhcm1hY2llc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvYmV3YXJlLWlsbGVnYWxseS1tYXJrZXRlZC1kaWFiZXRlcy10cmVhdG1lbnRzLWZyYXVkdWxlbnQtcGhhcm1hY2llc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmZkYS5nb3YvY29uc3VtZXJzL2NvbnN1bWVyLXVwZGF0ZXMvYmV3YXJlLWlsbGVnYWxseS1tYXJrZXRlZC1kaWFiZXRlcy10cmVhdG1lbnRzLWZyYXVkdWxlbnQtcGhhcm1hY2llc9IBAA?oc=5\" target=\"_blank\">Beware of Illegally Marketed Diabetes Treatments, Fraudulent Pharmacie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FDA.gov</font>"
+            ],
+            "source": [
+              {
+                "_": "FDA.gov",
+                "$": {
+                  "url": "https://www.fda.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lupin resolves US FDA warning letter concerns for its facilities in Goa, Pithampur - ETHealthWorld"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipgFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcGhhcm1hL3BvbGljeS1yZWd1bGF0aW9ucy9sdXBpbi1yZXNvbHZlcy11cy1mZGEtd2FybmluZy1sZXR0ZXItY29uY2VybnMtZm9yLWl0cy1mYWNpbGl0aWVzLWluLWdvYS1waXRoYW1wdXIvMTAyMTkwNDYw0gGqAWh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vYW1wL25ld3MvcGhhcm1hL3BvbGljeS1yZWd1bGF0aW9ucy9sdXBpbi1yZXNvbHZlcy11cy1mZGEtd2FybmluZy1sZXR0ZXItY29uY2VybnMtZm9yLWl0cy1mYWNpbGl0aWVzLWluLWdvYS1waXRoYW1wdXIvMTAyMTkwNDYw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipgFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcGhhcm1hL3BvbGljeS1yZWd1bGF0aW9ucy9sdXBpbi1yZXNvbHZlcy11cy1mZGEtd2FybmluZy1sZXR0ZXItY29uY2VybnMtZm9yLWl0cy1mYWNpbGl0aWVzLWluLWdvYS1waXRoYW1wdXIvMTAyMTkwNDYw0gGqAWh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vYW1wL25ld3MvcGhhcm1hL3BvbGljeS1yZWd1bGF0aW9ucy9sdXBpbi1yZXNvbHZlcy11cy1mZGEtd2FybmluZy1sZXR0ZXItY29uY2VybnMtZm9yLWl0cy1mYWNpbGl0aWVzLWluLWdvYS1waXRoYW1wdXIvMTAyMTkwNDYw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipgFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcGhhcm1hL3BvbGljeS1yZWd1bGF0aW9ucy9sdXBpbi1yZXNvbHZlcy11cy1mZGEtd2FybmluZy1sZXR0ZXItY29uY2VybnMtZm9yLWl0cy1mYWNpbGl0aWVzLWluLWdvYS1waXRoYW1wdXIvMTAyMTkwNDYw0gGqAWh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vYW1wL25ld3MvcGhhcm1hL3BvbGljeS1yZWd1bGF0aW9ucy9sdXBpbi1yZXNvbHZlcy11cy1mZGEtd2FybmluZy1sZXR0ZXItY29uY2VybnMtZm9yLWl0cy1mYWNpbGl0aWVzLWluLWdvYS1waXRoYW1wdXIvMTAyMTkwNDYw?oc=5\" target=\"_blank\">Lupin resolves US FDA warning letter concerns for its facilities in Goa, Pithampur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETHealthWorld</font>"
+            ],
+            "source": [
+              {
+                "_": "ETHealthWorld",
+                "$": {
+                  "url": "https://health.economictimes.indiatimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Warns AstraZeneca on 'Misleading Claims' About COPD Drug - Medscape"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3Lm1lZHNjYXBlLmNvbS92aWV3YXJ0aWNsZS85OTU1NTPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiK2h0dHBzOi8vd3d3Lm1lZHNjYXBlLmNvbS92aWV3YXJ0aWNsZS85OTU1NTPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 16 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3Lm1lZHNjYXBlLmNvbS92aWV3YXJ0aWNsZS85OTU1NTPSAQA?oc=5\" target=\"_blank\">FDA Warns AstraZeneca on 'Misleading Claims' About COPD Drug</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medscape</font>"
+            ],
+            "source": [
+              {
+                "_": "Medscape",
+                "$": {
+                  "url": "https://www.medscape.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Consumers Warned About Acetaminophen Overdose, Liver Failure Risks by FDA - AboutLawsuits.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmFib3V0bGF3c3VpdHMuY29tL2FjZXRhbWlub3BoZW4tb3ZlcmRvc2UtbGl2ZXItZmFpbHVyZS1yaXNrcy1mZGEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3LmFib3V0bGF3c3VpdHMuY29tL2FjZXRhbWlub3BoZW4tb3ZlcmRvc2UtbGl2ZXItZmFpbHVyZS1yaXNrcy1mZGEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:53:47 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmFib3V0bGF3c3VpdHMuY29tL2FjZXRhbWlub3BoZW4tb3ZlcmRvc2UtbGl2ZXItZmFpbHVyZS1yaXNrcy1mZGEv0gEA?oc=5\" target=\"_blank\">Consumers Warned About Acetaminophen Overdose, Liver Failure Risks by FDA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AboutLawsuits.com</font>"
+            ],
+            "source": [
+              {
+                "_": "AboutLawsuits.com",
+                "$": {
+                  "url": "https://www.aboutlawsuits.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Amazon to stop selling 7 brands of eyedrops following FDA warning - ABC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vYWJjbmV3cy5nby5jb20vR01BL1dlbGxuZXNzL2FtYXpvbi1zdG9wLXNlbGxpbmctNy1icmFuZHMtZXllZHJvcHMtZmRhLXdhcm5pbmcvc3Rvcnk_aWQ9MTA0OTM2ODEy0gFsaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvR01BL1dlbGxuZXNzL2FtYXpvbi1zdG9wLXNlbGxpbmctNy1icmFuZHMtZXllZHJvcHMtZmRhLXdhcm5pbmcvc3Rvcnk_aWQ9MTA0OTM2ODEy?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vYWJjbmV3cy5nby5jb20vR01BL1dlbGxuZXNzL2FtYXpvbi1zdG9wLXNlbGxpbmctNy1icmFuZHMtZXllZHJvcHMtZmRhLXdhcm5pbmcvc3Rvcnk_aWQ9MTA0OTM2ODEy0gFsaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvR01BL1dlbGxuZXNzL2FtYXpvbi1zdG9wLXNlbGxpbmctNy1icmFuZHMtZXllZHJvcHMtZmRhLXdhcm5pbmcvc3Rvcnk_aWQ9MTA0OTM2ODEy",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vYWJjbmV3cy5nby5jb20vR01BL1dlbGxuZXNzL2FtYXpvbi1zdG9wLXNlbGxpbmctNy1icmFuZHMtZXllZHJvcHMtZmRhLXdhcm5pbmcvc3Rvcnk_aWQ9MTA0OTM2ODEy0gFsaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvR01BL1dlbGxuZXNzL2FtYXpvbi1zdG9wLXNlbGxpbmctNy1icmFuZHMtZXllZHJvcHMtZmRhLXdhcm5pbmcvc3Rvcnk_aWQ9MTA0OTM2ODEy?oc=5\" target=\"_blank\">Amazon to stop selling 7 brands of eyedrops following FDA warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC News",
+                "$": {
+                  "url": "https://abcnews.go.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Why the FDA Issued a Warning About These Eye Drops - Healthline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC1uZXdzL2ZkYS1pc3N1ZXMtd2FybmluZy1vdmVyLWV5ZS1kcm9wcy1jbGFpbWluZy10by10cmVhdC1jYXRhcmFjdHMtZ2xhdWNvbWHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC1uZXdzL2ZkYS1pc3N1ZXMtd2FybmluZy1vdmVyLWV5ZS1kcm9wcy1jbGFpbWluZy10by10cmVhdC1jYXRhcmFjdHMtZ2xhdWNvbWHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC1uZXdzL2ZkYS1pc3N1ZXMtd2FybmluZy1vdmVyLWV5ZS1kcm9wcy1jbGFpbWluZy10by10cmVhdC1jYXRhcmFjdHMtZ2xhdWNvbWHSAQA?oc=5\" target=\"_blank\">Why the FDA Issued a Warning About These Eye Drops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthline</font>"
+            ],
+            "source": [
+              {
+                "_": "Healthline",
+                "$": {
+                  "url": "https://www.healthline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AstraZeneca hit with FDA warning letter over 'misleading' Breztri efficacy claims - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL2FzdHJhemVuZWNhLWhpdC1mZGEtd2FybmluZy1sZXR0ZXItb3Zlci1taXNsZWFkaW5nLWJyZXp0cmktZWZmaWNhY3ktY2xhaW1z0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL2FzdHJhemVuZWNhLWhpdC1mZGEtd2FybmluZy1sZXR0ZXItb3Zlci1taXNsZWFkaW5nLWJyZXp0cmktZWZmaWNhY3ktY2xhaW1z0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 16 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL2FzdHJhemVuZWNhLWhpdC1mZGEtd2FybmluZy1sZXR0ZXItb3Zlci1taXNsZWFkaW5nLWJyZXp0cmktZWZmaWNhY3ktY2xhaW1z0gEA?oc=5\" target=\"_blank\">AstraZeneca hit with FDA warning letter over 'misleading' Breztri efficacy claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cancer Drug Manufacturer Intas Slapped with FDA Warning Letter - BioSpace"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmJpb3NwYWNlLmNvbS9hcnRpY2xlL2dlbmVyaWNzLW1hbnVmYWN0dXJlci1pbnRhcy1zbGFwcGVkLXdpdGgtZmRhLXdhcm5pbmctbGV0dGVyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3LmJpb3NwYWNlLmNvbS9hcnRpY2xlL2dlbmVyaWNzLW1hbnVmYWN0dXJlci1pbnRhcy1zbGFwcGVkLXdpdGgtZmRhLXdhcm5pbmctbGV0dGVyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmJpb3NwYWNlLmNvbS9hcnRpY2xlL2dlbmVyaWNzLW1hbnVmYWN0dXJlci1pbnRhcy1zbGFwcGVkLXdpdGgtZmRhLXdhcm5pbmctbGV0dGVyL9IBAA?oc=5\" target=\"_blank\">Cancer Drug Manufacturer Intas Slapped with FDA Warning Letter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioSpace</font>"
+            ],
+            "source": [
+              {
+                "_": "BioSpace",
+                "$": {
+                  "url": "https://www.biospace.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA issues warning letters to 8 companies for marketing unapproved eye products - Healio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmhlYWxpby5jb20vbmV3cy9vcHRvbWV0cnkvMjAyMzA5MTQvZmRhLWlzc3Vlcy13YXJuaW5nLWxldHRlcnMtdG8tOC1jb21wYW5pZXMtZm9yLW1hcmtldGluZy11bmFwcHJvdmVkLWV5ZS1wcm9kdWN0c9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LmhlYWxpby5jb20vbmV3cy9vcHRvbWV0cnkvMjAyMzA5MTQvZmRhLWlzc3Vlcy13YXJuaW5nLWxldHRlcnMtdG8tOC1jb21wYW5pZXMtZm9yLW1hcmtldGluZy11bmFwcHJvdmVkLWV5ZS1wcm9kdWN0c9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmhlYWxpby5jb20vbmV3cy9vcHRvbWV0cnkvMjAyMzA5MTQvZmRhLWlzc3Vlcy13YXJuaW5nLWxldHRlcnMtdG8tOC1jb21wYW5pZXMtZm9yLW1hcmtldGluZy11bmFwcHJvdmVkLWV5ZS1wcm9kdWN0c9IBAA?oc=5\" target=\"_blank\">FDA issues warning letters to 8 companies for marketing unapproved eye products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healio</font>"
+            ],
+            "source": [
+              {
+                "_": "Healio",
+                "$": {
+                  "url": "https://www.healio.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Warning Letters Dipped But Don't Get Cozy - BioProcess Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmJpb3Byb2Nlc3NvbmxpbmUuY29tL2RvYy9mZGEtd2FybmluZy1sZXR0ZXJzLWRpcHBlZC1idXQtZG9uLXQtZ2V0LWNvenktMDAwMdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3LmJpb3Byb2Nlc3NvbmxpbmUuY29tL2RvYy9mZGEtd2FybmluZy1sZXR0ZXJzLWRpcHBlZC1idXQtZG9uLXQtZ2V0LWNvenktMDAwMdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmJpb3Byb2Nlc3NvbmxpbmUuY29tL2RvYy9mZGEtd2FybmluZy1sZXR0ZXJzLWRpcHBlZC1idXQtZG9uLXQtZ2V0LWNvenktMDAwMdIBAA?oc=5\" target=\"_blank\">FDA Warning Letters Dipped But Don't Get Cozy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioProcess Online</font>"
+            ],
+            "source": [
+              {
+                "_": "BioProcess Online",
+                "$": {
+                  "url": "https://www.bioprocessonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Approves Lilly's Zepbound™ (tirzepatide) for Chronic Weight Management, a Powerful New Option for the ... - Investors | Eli Lilly and Company"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vaW52ZXN0b3IubGlsbHkuY29tL25ld3MtcmVsZWFzZXMvbmV3cy1yZWxlYXNlLWRldGFpbHMvZmRhLWFwcHJvdmVzLWxpbGx5cy16ZXBib3VuZHRtLXRpcnplcGF0aWRlLWNocm9uaWMtd2VpZ2h00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vaW52ZXN0b3IubGlsbHkuY29tL25ld3MtcmVsZWFzZXMvbmV3cy1yZWxlYXNlLWRldGFpbHMvZmRhLWFwcHJvdmVzLWxpbGx5cy16ZXBib3VuZHRtLXRpcnplcGF0aWRlLWNocm9uaWMtd2VpZ2h00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vaW52ZXN0b3IubGlsbHkuY29tL25ld3MtcmVsZWFzZXMvbmV3cy1yZWxlYXNlLWRldGFpbHMvZmRhLWFwcHJvdmVzLWxpbGx5cy16ZXBib3VuZHRtLXRpcnplcGF0aWRlLWNocm9uaWMtd2VpZ2h00gEA?oc=5\" target=\"_blank\">FDA Approves Lilly's Zepbound™ (tirzepatide) for Chronic Weight Management, a Powerful New Option for the ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investors | Eli Lilly and Company</font>"
+            ],
+            "source": [
+              {
+                "_": "Investors | Eli Lilly and Company",
+                "$": {
+                  "url": "https://investor.lilly.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Intas and other manufacturers hit with FDA warning letters - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2ludGFzLWFuYWx5c3QtZG91c2VzLW1hbnVmYWN0dXJpbmctZG9jcy1hY2lkLXNjYXRoaW5nLWZkYS13YXJuaW5nLWxldHRlctIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2ludGFzLWFuYWx5c3QtZG91c2VzLW1hbnVmYWN0dXJpbmctZG9jcy1hY2lkLXNjYXRoaW5nLWZkYS13YXJuaW5nLWxldHRlctIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2ludGFzLWFuYWx5c3QtZG91c2VzLW1hbnVmYWN0dXJpbmctZG9jcy1hY2lkLXNjYXRoaW5nLWZkYS13YXJuaW5nLWxldHRlctIBAA?oc=5\" target=\"_blank\">Intas and other manufacturers hit with FDA warning letters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Inspection Result: Warning Letters and Form 483s - Pharmaceutical Technology Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnBoYXJtdGVjaC5jb20vdmlldy90aGUtaW5zcGVjdGlvbi1yZXN1bHQtd2FybmluZy1sZXR0ZXJzLWFuZC1mb3JtLTQ4M3PSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3LnBoYXJtdGVjaC5jb20vdmlldy90aGUtaW5zcGVjdGlvbi1yZXN1bHQtd2FybmluZy1sZXR0ZXJzLWFuZC1mb3JtLTQ4M3PSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 02 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnBoYXJtdGVjaC5jb20vdmlldy90aGUtaW5zcGVjdGlvbi1yZXN1bHQtd2FybmluZy1sZXR0ZXJzLWFuZC1mb3JtLTQ4M3PSAQA?oc=5\" target=\"_blank\">The Inspection Result: Warning Letters and Form 483s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmaceutical Technology Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Pharmaceutical Technology Magazine",
+                "$": {
+                  "url": "https://www.pharmtech.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA sends warning letters to sellers of unapproved versions of Novo's Wegovy and Lilly's Mounjaro for obesity - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL2ZkYS1zZW5kcy13YXJuaW5nLWxldHRlcnMtc2VsbGVycy11bmFwcHJvdmVkLXZlcnNpb25zLW5vdm9zLXdlZ292eS1hbmQtbGlsbHlzLW1vdW5qYXJv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL2ZkYS1zZW5kcy13YXJuaW5nLWxldHRlcnMtc2VsbGVycy11bmFwcHJvdmVkLXZlcnNpb25zLW5vdm9zLXdlZ292eS1hbmQtbGlsbHlzLW1vdW5qYXJv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 11 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL2ZkYS1zZW5kcy13YXJuaW5nLWxldHRlcnMtc2VsbGVycy11bmFwcHJvdmVkLXZlcnNpb25zLW5vdm9zLXdlZ292eS1hbmQtbGlsbHlzLW1vdW5qYXJv0gEA?oc=5\" target=\"_blank\">FDA sends warning letters to sellers of unapproved versions of Novo's Wegovy and Lilly's Mounjaro for obesity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Lists 27 Eye Drop Products that May Cause Infections - Health.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmhlYWx0aC5jb20vZmRhLWV5ZS1kcm9wLXdhcm5pbmctMjAyMy04Mzg1MzUy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOGh0dHBzOi8vd3d3LmhlYWx0aC5jb20vZmRhLWV5ZS1kcm9wLXdhcm5pbmctMjAyMy04Mzg1MzUy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 01 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmhlYWx0aC5jb20vZmRhLWV5ZS1kcm9wLXdhcm5pbmctMjAyMy04Mzg1MzUy0gEA?oc=5\" target=\"_blank\">FDA Lists 27 Eye Drop Products that May Cause Infections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Health.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Health.com",
+                "$": {
+                  "url": "https://www.health.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warns against using copycat eye drops - Hawaii News Now"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjQvMDEvMzEvZmRhLXdhcm5zLWFnYWluc3QtdXNpbmctY29weWNhdC1leWUtZHJvcHMv0gFiaHR0cHM6Ly93d3cuaGF3YWlpbmV3c25vdy5jb20vMjAyNC8wMS8zMS9mZGEtd2FybnMtYWdhaW5zdC11c2luZy1jb3B5Y2F0LWV5ZS1kcm9wcy8_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjQvMDEvMzEvZmRhLXdhcm5zLWFnYWluc3QtdXNpbmctY29weWNhdC1leWUtZHJvcHMv0gFiaHR0cHM6Ly93d3cuaGF3YWlpbmV3c25vdy5jb20vMjAyNC8wMS8zMS9mZGEtd2FybnMtYWdhaW5zdC11c2luZy1jb3B5Y2F0LWV5ZS1kcm9wcy8_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 23:14:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjQvMDEvMzEvZmRhLXdhcm5zLWFnYWluc3QtdXNpbmctY29weWNhdC1leWUtZHJvcHMv0gFiaHR0cHM6Ly93d3cuaGF3YWlpbmV3c25vdy5jb20vMjAyNC8wMS8zMS9mZGEtd2FybnMtYWdhaW5zdC11c2luZy1jb3B5Y2F0LWV5ZS1kcm9wcy8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">FDA warns against using copycat eye drops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii News Now</font>"
+            ],
+            "source": [
+              {
+                "_": "Hawaii News Now",
+                "$": {
+                  "url": "https://www.hawaiinewsnow.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US FDA warns Chewy, others over selling unapproved animal antibiotics - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy91cy1mZGEtd2FybnMtY2hld3ktb3RoZXJzLW92ZXItc2VsbGluZy11bmFwcHJvdmVkLWFuaW1hbC1hbnRpYmlvdGljcy0yMDIzLTEyLTE0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy91cy1mZGEtd2FybnMtY2hld3ktb3RoZXJzLW92ZXItc2VsbGluZy11bmFwcHJvdmVkLWFuaW1hbC1hbnRpYmlvdGljcy0yMDIzLTEyLTE0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy91cy1mZGEtd2FybnMtY2hld3ktb3RoZXJzLW92ZXItc2VsbGluZy11bmFwcHJvdmVkLWFuaW1hbC1hbnRpYmlvdGljcy0yMDIzLTEyLTE0L9IBAA?oc=5\" target=\"_blank\">US FDA warns Chewy, others over selling unapproved animal antibiotics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Centaur Pharmaceuticals slapped with FDA warning letter outlining quality, cleaning lapses - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2NlbnRhdXItcGhhcm1hY2V1dGljYWxzLXNsYXBwZWQtYnJpZWYtZmRhLXdhcm5pbmctb3V0bGluaW5nLXF1YWxpdHktYW5kLWNsZWFuaW5nLWxhcHNlc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2NlbnRhdXItcGhhcm1hY2V1dGljYWxzLXNsYXBwZWQtYnJpZWYtZmRhLXdhcm5pbmctb3V0bGluaW5nLXF1YWxpdHktYW5kLWNsZWFuaW5nLWxhcHNlc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2NlbnRhdXItcGhhcm1hY2V1dGljYWxzLXNsYXBwZWQtYnJpZWYtZmRhLXdhcm5pbmctb3V0bGluaW5nLXF1YWxpdHktYW5kLWNsZWFuaW5nLWxhcHNlc9IBAA?oc=5\" target=\"_blank\">Centaur Pharmaceuticals slapped with FDA warning letter outlining quality, cleaning lapses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Warns Amazon Over Supplements Containing Erectile Dysfunction Drugs - Medpage Today"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm1lZHBhZ2V0b2RheS5jb20vc3BlY2lhbC1yZXBvcnRzL2ZlYXR1cmVzLzEwODA2MdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vd3d3Lm1lZHBhZ2V0b2RheS5jb20vc3BlY2lhbC1yZXBvcnRzL2ZlYXR1cmVzLzEwODA2MdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm1lZHBhZ2V0b2RheS5jb20vc3BlY2lhbC1yZXBvcnRzL2ZlYXR1cmVzLzEwODA2MdIBAA?oc=5\" target=\"_blank\">FDA Warns Amazon Over Supplements Containing Erectile Dysfunction Drugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medpage Today</font>"
+            ],
+            "source": [
+              {
+                "_": "Medpage Today",
+                "$": {
+                  "url": "https://www.medpagetoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A Top New York Hospital, an Unapproved Treatment and an F.D.A. Warning - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDkvMjAvaGVhbHRoL3JlZ2VuZXJhdGl2ZS1tZWRpY2luZS1yaXNrcy1ldGhpY3MuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDkvMjAvaGVhbHRoL3JlZ2VuZXJhdGl2ZS1tZWRpY2luZS1yaXNrcy1ldGhpY3MuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDkvMjAvaGVhbHRoL3JlZ2VuZXJhdGl2ZS1tZWRpY2luZS1yaXNrcy1ldGhpY3MuaHRtbNIBAA?oc=5\" target=\"_blank\">A Top New York Hospital, an Unapproved Treatment and an F.D.A. Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Amazon pulling seven brands of eye drops after FDA warning - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8xNi9oZWFsdGgvYW1hem9uLWZkYS1leWUtZHJvcHMvaW5kZXguaHRtbNIBSWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMTEvMTYvaGVhbHRoL2FtYXpvbi1mZGEtZXllLWRyb3BzL2luZGV4Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8xNi9oZWFsdGgvYW1hem9uLWZkYS1leWUtZHJvcHMvaW5kZXguaHRtbNIBSWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMTEvMTYvaGVhbHRoL2FtYXpvbi1mZGEtZXllLWRyb3BzL2luZGV4Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8xNi9oZWFsdGgvYW1hem9uLWZkYS1leWUtZHJvcHMvaW5kZXguaHRtbNIBSWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMTEvMTYvaGVhbHRoL2FtYXpvbi1mZGEtZXllLWRyb3BzL2luZGV4Lmh0bWw?oc=5\" target=\"_blank\">Amazon pulling seven brands of eye drops after FDA warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How serious is FDA warning about revolutionary blood-cancer treatment?— Harvard Gazette - Harvard Gazette"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL25ld3MuaGFydmFyZC5lZHUvZ2F6ZXR0ZS9zdG9yeS8yMDIzLzEyL2hvdy1zZXJpb3VzLWlzLWZkYS13YXJuaW5nLWFib3V0LXJldm9sdXRpb25hcnktYmxvb2QtY2FuY2VyLXRyZWF0bWVudC1jYXItdC1jZWxsLXRoZXJhcHkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL25ld3MuaGFydmFyZC5lZHUvZ2F6ZXR0ZS9zdG9yeS8yMDIzLzEyL2hvdy1zZXJpb3VzLWlzLWZkYS13YXJuaW5nLWFib3V0LXJldm9sdXRpb25hcnktYmxvb2QtY2FuY2VyLXRyZWF0bWVudC1jYXItdC1jZWxsLXRoZXJhcHkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL25ld3MuaGFydmFyZC5lZHUvZ2F6ZXR0ZS9zdG9yeS8yMDIzLzEyL2hvdy1zZXJpb3VzLWlzLWZkYS13YXJuaW5nLWFib3V0LXJldm9sdXRpb25hcnktYmxvb2QtY2FuY2VyLXRyZWF0bWVudC1jYXItdC1jZWxsLXRoZXJhcHkv0gEA?oc=5\" target=\"_blank\">How serious is FDA warning about revolutionary blood-cancer treatment?— Harvard Gazette</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Harvard Gazette</font>"
+            ],
+            "source": [
+              {
+                "_": "Harvard Gazette",
+                "$": {
+                  "url": "https://news.harvard.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Problem with FDA's Warning to Abiomed - The Problem with FDA's Warning to Abiomed - Medical Device and Diagnostics Industry"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm1kZGlvbmxpbmUuY29tL3JlZ3VsYXRvcnktcXVhbGl0eS90aGUtcHJvYmxlbS13aXRoLWZkYS1zLXdhcm5pbmctdG8tYWJpb21lZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3Lm1kZGlvbmxpbmUuY29tL3JlZ3VsYXRvcnktcXVhbGl0eS90aGUtcHJvYmxlbS13aXRoLWZkYS1zLXdhcm5pbmctdG8tYWJpb21lZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm1kZGlvbmxpbmUuY29tL3JlZ3VsYXRvcnktcXVhbGl0eS90aGUtcHJvYmxlbS13aXRoLWZkYS1zLXdhcm5pbmctdG8tYWJpb21lZNIBAA?oc=5\" target=\"_blank\">The Problem with FDA's Warning to Abiomed - The Problem with FDA's Warning to Abiomed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Device and Diagnostics Industry</font>"
+            ],
+            "source": [
+              {
+                "_": "Medical Device and Diagnostics Industry",
+                "$": {
+                  "url": "https://www.mddionline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA warning and Matthew Perry's death darken ketamine's glow - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9idXNpbmVzcy8yMDIzLzEyLzI2L2tldGFtaW5lLWZkYS1tYXR0aGV3LXBlcnJ5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9idXNpbmVzcy8yMDIzLzEyLzI2L2tldGFtaW5lLWZkYS1tYXR0aGV3LXBlcnJ5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 26 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9idXNpbmVzcy8yMDIzLzEyLzI2L2tldGFtaW5lLWZkYS1tYXR0aGV3LXBlcnJ5L9IBAA?oc=5\" target=\"_blank\">FDA warning and Matthew Perry's death darken ketamine's glow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA adds Carvykti's secondary cancer risk to boxed warning - FiercePharma"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2pqLWxlZ2VuZHMtY2FydnlrdGktc2xhcHBlZC1mZGEtYm94ZWQtd2FybmluZy1zZWNvbmRhcnktY2FuY2VyLXJpc2vSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2pqLWxlZ2VuZHMtY2FydnlrdGktc2xhcHBlZC1mZGEtYm94ZWQtd2FybmluZy1zZWNvbmRhcnktY2FuY2VyLXJpc2vSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2pqLWxlZ2VuZHMtY2FydnlrdGktc2xhcHBlZC1mZGEtYm94ZWQtd2FybmluZy1zZWNvbmRhcnktY2FuY2VyLXJpc2vSAQA?oc=5\" target=\"_blank\">FDA adds Carvykti's secondary cancer risk to boxed warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FiercePharma</font>"
+            ],
+            "source": [
+              {
+                "_": "FiercePharma",
+                "$": {
+                  "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

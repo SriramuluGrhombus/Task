@@ -1,0 +1,3008 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Tony Evers\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Tony+Evers&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Gov. Evers releases UW faculty, staff pay raises after nearly 6 month delay - The Badger Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYmFkZ2VyaGVyYWxkLmNvbS9uZXdzLzIwMjQvMDIvMDUvZ292LWV2ZXJzLXJlbGVhc2VzLXV3LWZhY3VsdHktc3RhZmYtcGF5LXJhaXNlcy1hZnRlci1uZWFybHktNi1tb250aC1kZWxheS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vYmFkZ2VyaGVyYWxkLmNvbS9uZXdzLzIwMjQvMDIvMDUvZ292LWV2ZXJzLXJlbGVhc2VzLXV3LWZhY3VsdHktc3RhZmYtcGF5LXJhaXNlcy1hZnRlci1uZWFybHktNi1tb250aC1kZWxheS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 05:08:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYmFkZ2VyaGVyYWxkLmNvbS9uZXdzLzIwMjQvMDIvMDUvZ292LWV2ZXJzLXJlbGVhc2VzLXV3LWZhY3VsdHktc3RhZmYtcGF5LXJhaXNlcy1hZnRlci1uZWFybHktNi1tb250aC1kZWxheS_SAQA?oc=5\" target=\"_blank\">Gov. Evers releases UW faculty, staff pay raises after nearly 6 month delay</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Badger Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "The Badger Herald",
+                "$": {
+                  "url": "https://badgerherald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Supreme Court agrees to hear Evers’ challenge to legislature - The Center Square"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vd2lzY29uc2luL2FydGljbGVfNjViNjhhNDgtYzQyZi0xMWVlLWFlZWItYWY0MzE1OTAxNTg4Lmh0bWzSAV9odHRwczovL3d3dy50aGVjZW50ZXJzcXVhcmUuY29tL3dpc2NvbnNpbi9hcnRpY2xlXzY1YjY4YTQ4LWM0MmYtMTFlZS1hZWViLWFmNDMxNTkwMTU4OC5hbXAuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vd2lzY29uc2luL2FydGljbGVfNjViNjhhNDgtYzQyZi0xMWVlLWFlZWItYWY0MzE1OTAxNTg4Lmh0bWzSAV9odHRwczovL3d3dy50aGVjZW50ZXJzcXVhcmUuY29tL3dpc2NvbnNpbi9hcnRpY2xlXzY1YjY4YTQ4LWM0MmYtMTFlZS1hZWViLWFmNDMxNTkwMTU4OC5hbXAuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 14:03:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vd2lzY29uc2luL2FydGljbGVfNjViNjhhNDgtYzQyZi0xMWVlLWFlZWItYWY0MzE1OTAxNTg4Lmh0bWzSAV9odHRwczovL3d3dy50aGVjZW50ZXJzcXVhcmUuY29tL3dpc2NvbnNpbi9hcnRpY2xlXzY1YjY4YTQ4LWM0MmYtMTFlZS1hZWViLWFmNDMxNTkwMTU4OC5hbXAuaHRtbA?oc=5\" target=\"_blank\">Wisconsin Supreme Court agrees to hear Evers’ challenge to legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>"
+            ],
+            "source": [
+              {
+                "_": "The Center Square",
+                "$": {
+                  "url": "https://www.thecentersquare.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers in State of the State address vows to veto any bill that would limit access to abortions - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1zdGF0ZS1vZi1zdGF0ZS04ODBkODNhNTU5OTMzMjBiMTllZDU0ZTgxYjUxYmMxMNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1zdGF0ZS1vZi1zdGF0ZS04ODBkODNhNTU5OTMzMjBiMTllZDU0ZTgxYjUxYmMxMNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 03:26:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1zdGF0ZS1vZi1zdGF0ZS04ODBkODNhNTU5OTMzMjBiMTllZDU0ZTgxYjUxYmMxMNIBAA?oc=5\" target=\"_blank\">Evers in State of the State address vows to veto any bill that would limit access to abortions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers vetoes new legislative maps passed by Wisconsin Legislature - Wisconsin Public Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy9ldmVycy12ZXRvZXMtbmV3LWxlZ2lzbGF0aXZlLW1hcHMtcGFzc2VkLWJ5LXdpc2NvbnNpbi1sZWdpc2xhdHVyZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy9ldmVycy12ZXRvZXMtbmV3LWxlZ2lzbGF0aXZlLW1hcHMtcGFzc2VkLWJ5LXdpc2NvbnNpbi1sZWdpc2xhdHVyZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 18:17:27 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy9ldmVycy12ZXRvZXMtbmV3LWxlZ2lzbGF0aXZlLW1hcHMtcGFzc2VkLWJ5LXdpc2NvbnNpbi1sZWdpc2xhdHVyZdIBAA?oc=5\" target=\"_blank\">Evers vetoes new legislative maps passed by Wisconsin Legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Public Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Public Radio",
+                "$": {
+                  "url": "https://www.wpr.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Supreme Court agrees to hear Gov. Evers' suit against GOP Legislature for blocking 'basic functions' - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3dpc2NvbnNpbi1zdXByZW1lLWNvdXJ0LWFncmVlcy1oZWFyLWdvdi1ldmVycy1zdWl0LWdvcC1sZWdpc2xhdHVyZS1ibG9ja2luZy1iYXNpYy1mdW5jdGlvbnPSAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mvd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLWhlYXItZ292LWV2ZXJzLXN1aXQtZ29wLWxlZ2lzbGF0dXJlLWJsb2NraW5nLWJhc2ljLWZ1bmN0aW9ucy5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3dpc2NvbnNpbi1zdXByZW1lLWNvdXJ0LWFncmVlcy1oZWFyLWdvdi1ldmVycy1zdWl0LWdvcC1sZWdpc2xhdHVyZS1ibG9ja2luZy1iYXNpYy1mdW5jdGlvbnPSAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mvd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLWhlYXItZ292LWV2ZXJzLXN1aXQtZ29wLWxlZ2lzbGF0dXJlLWJsb2NraW5nLWJhc2ljLWZ1bmN0aW9ucy5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 01:25:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3dpc2NvbnNpbi1zdXByZW1lLWNvdXJ0LWFncmVlcy1oZWFyLWdvdi1ldmVycy1zdWl0LWdvcC1sZWdpc2xhdHVyZS1ibG9ja2luZy1iYXNpYy1mdW5jdGlvbnPSAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mvd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLWhlYXItZ292LWV2ZXJzLXN1aXQtZ29wLWxlZ2lzbGF0dXJlLWJsb2NraW5nLWJhc2ljLWZ1bmN0aW9ucy5hbXA?oc=5\" target=\"_blank\">Wisconsin Supreme Court agrees to hear Gov. Evers' suit against GOP Legislature for blocking 'basic functions'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin governor who called for marijuana legalization says he'll back limited GOP proposal - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21lZGljYWwtbWFyaWp1YW5hLXdpc2NvbnNpbi03OTFlYzdiNTlkMmQzMmUxOTViOWI3ZDhmNTJmNDRjN9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21lZGljYWwtbWFyaWp1YW5hLXdpc2NvbnNpbi03OTFlYzdiNTlkMmQzMmUxOTViOWI3ZDhmNTJmNDRjN9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 05 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21lZGljYWwtbWFyaWp1YW5hLXdpc2NvbnNpbi03OTFlYzdiNTlkMmQzMmUxOTViOWI3ZDhmNTJmNDRjN9IBAA?oc=5\" target=\"_blank\">Wisconsin governor who called for marijuana legalization says he'll back limited GOP proposal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin's Democratic governor sues Republican Legislature over blocking basic functions - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1nb3Zlcm5vci1sZWdpc2xhdHVyZS1sYXdzdWl0LTA1Yjk2OWVjMzgwYzExZjE4ZDRhOWQxZTM3OGJlNWQ10gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1nb3Zlcm5vci1sZWdpc2xhdHVyZS1sYXdzdWl0LTA1Yjk2OWVjMzgwYzExZjE4ZDRhOWQxZTM3OGJlNWQ10gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1nb3Zlcm5vci1sZWdpc2xhdHVyZS1sYXdzdWl0LTA1Yjk2OWVjMzgwYzExZjE4ZDRhOWQxZTM3OGJlNWQ10gEA?oc=5\" target=\"_blank\">Wisconsin's Democratic governor sues Republican Legislature over blocking basic functions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Republicans' large majorities expected to shrink under new legislative maps - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1yZWRpc3RyaWN0aW5nLXN1cHJlbWUtY291cnQtcmVwdWJsaWNhbi1kZW1vY3JhdC1kZGFmMGZmZjVhMmQ5MWRkYmVmYzRhODVhMzA1MzRjZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1yZWRpc3RyaWN0aW5nLXN1cHJlbWUtY291cnQtcmVwdWJsaWNhbi1kZW1vY3JhdC1kZGFmMGZmZjVhMmQ5MWRkYmVmYzRhODVhMzA1MzRjZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 15 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1yZWRpc3RyaWN0aW5nLXN1cHJlbWUtY291cnQtcmVwdWJsaWNhbi1kZW1vY3JhdC1kZGFmMGZmZjVhMmQ5MWRkYmVmYzRhODVhMzA1MzRjZdIBAA?oc=5\" target=\"_blank\">Wisconsin Republicans' large majorities expected to shrink under new legislative maps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers visit to Washburn highlighting mental health access - WDIO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LndkaW8uY29tL2Zyb250LXBhZ2UvdG9wLXN0b3JpZXMvZ292LWV2ZXJzLXZpc2l0LXRvLXdhc2hidXJuLWhpZ2hsaWdodGluZy1raWRzLW1lbnRhbC1oZWFsdGgtYWNjZXNzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LndkaW8uY29tL2Zyb250LXBhZ2UvdG9wLXN0b3JpZXMvZ292LWV2ZXJzLXZpc2l0LXRvLXdhc2hidXJuLWhpZ2hsaWdodGluZy1raWRzLW1lbnRhbC1oZWFsdGgtYWNjZXNzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:59:10 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LndkaW8uY29tL2Zyb250LXBhZ2UvdG9wLXN0b3JpZXMvZ292LWV2ZXJzLXZpc2l0LXRvLXdhc2hidXJuLWhpZ2hsaWdodGluZy1raWRzLW1lbnRhbC1oZWFsdGgtYWNjZXNzL9IBAA?oc=5\" target=\"_blank\">Gov. Evers visit to Washburn highlighting mental health access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDIO</font>"
+            ],
+            "source": [
+              {
+                "_": "WDIO",
+                "$": {
+                  "url": "https://www.wdio.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Tony Evers visits The Production Farm in Sheboygan Falls - Sheboygan Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5zaGVib3lnYW5wcmVzcy5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvMjAyNC8wMi8wNS9nb3Zlcm5vci10b255LWV2ZXJzLXZpc2l0cy1zaGVib3lnYW4tZmFsbHMtdGhlLXByb2R1Y3Rpb24tZmFybS83MjQ4NjY2MDAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy5zaGVib3lnYW5wcmVzcy5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvMjAyNC8wMi8wNS9nb3Zlcm5vci10b255LWV2ZXJzLXZpc2l0cy1zaGVib3lnYW4tZmFsbHMtdGhlLXByb2R1Y3Rpb24tZmFybS83MjQ4NjY2MDAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 23:12:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5zaGVib3lnYW5wcmVzcy5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvMjAyNC8wMi8wNS9nb3Zlcm5vci10b255LWV2ZXJzLXZpc2l0cy1zaGVib3lnYW4tZmFsbHMtdGhlLXByb2R1Y3Rpb24tZmFybS83MjQ4NjY2MDAwNy_SAQA?oc=5\" target=\"_blank\">Gov. Tony Evers visits The Production Farm in Sheboygan Falls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sheboygan Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Sheboygan Press",
+                "$": {
+                  "url": "https://www.sheboyganpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Tony Evers right to demand accountability for senator's role - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3Rvcnkvb3Bpbmlvbi9yZWFkZXJzLzIwMjQvMDIvMDYvdG9ueS1ldmVycy1yb24tam9obnNvbi1kb25hbGQtdHJ1bXAtb3ZlcnR1cm4tMjAyMC1lbGVjdGlvbi83MjQ4NzU4MjAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3Rvcnkvb3Bpbmlvbi9yZWFkZXJzLzIwMjQvMDIvMDYvdG9ueS1ldmVycy1yb24tam9obnNvbi1kb25hbGQtdHJ1bXAtb3ZlcnR1cm4tMjAyMC1lbGVjdGlvbi83MjQ4NzU4MjAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 11:15:01 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3Rvcnkvb3Bpbmlvbi9yZWFkZXJzLzIwMjQvMDIvMDYvdG9ueS1ldmVycy1yb24tam9obnNvbi1kb25hbGQtdHJ1bXAtb3ZlcnR1cm4tMjAyMC1lbGVjdGlvbi83MjQ4NzU4MjAwNy_SAQA?oc=5\" target=\"_blank\">Gov. Tony Evers right to demand accountability for senator's role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers discusses layoffs, health care access in western Wisconsin ahead of regional closures - Wisconsin Public Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy9nb3YtZXZlcnMtbGF5b2Zmcy1oZWFsdGgtY2FyZS1hY2Nlc3Mtd2VzdGVybi13aXNjb25zaW4tY2xvc3VyZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy9nb3YtZXZlcnMtbGF5b2Zmcy1oZWFsdGgtY2FyZS1hY2Nlc3Mtd2VzdGVybi13aXNjb25zaW4tY2xvc3VyZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 23:05:21 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy9nb3YtZXZlcnMtbGF5b2Zmcy1oZWFsdGgtY2FyZS1hY2Nlc3Mtd2VzdGVybi13aXNjb25zaW4tY2xvc3VyZXPSAQA?oc=5\" target=\"_blank\">Gov. Evers discusses layoffs, health care access in western Wisconsin ahead of regional closures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Public Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Public Radio",
+                "$": {
+                  "url": "https://www.wpr.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | Evers thwarts anti-conservation effort | Guest Columns | captimes.com - The Capital Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL2NhcHRpbWVzLmNvbS9vcGluaW9uL2d1ZXN0LWNvbHVtbnMvb3Bpbmlvbi1ldmVycy10aHdhcnRzLWFudGktY29uc2VydmF0aW9uLWVmZm9ydC9hcnRpY2xlXzFjNWZlNWNlLWMxM2MtMTFlZS1hNmNkLWM3MDA0MGRlMTkzMy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL2NhcHRpbWVzLmNvbS9vcGluaW9uL2d1ZXN0LWNvbHVtbnMvb3Bpbmlvbi1ldmVycy10aHdhcnRzLWFudGktY29uc2VydmF0aW9uLWVmZm9ydC9hcnRpY2xlXzFjNWZlNWNlLWMxM2MtMTFlZS1hNmNkLWM3MDA0MGRlMTkzMy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL2NhcHRpbWVzLmNvbS9vcGluaW9uL2d1ZXN0LWNvbHVtbnMvb3Bpbmlvbi1ldmVycy10aHdhcnRzLWFudGktY29uc2VydmF0aW9uLWVmZm9ydC9hcnRpY2xlXzFjNWZlNWNlLWMxM2MtMTFlZS1hNmNkLWM3MDA0MGRlMTkzMy5odG1s0gEA?oc=5\" target=\"_blank\">Opinion | Evers thwarts anti-conservation effort | Guest Columns | captimes.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Capital Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Capital Times",
+                "$": {
+                  "url": "https://captimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How will Tony Evers use the State of the State? - WisconsinWatch.org"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjQvMDEvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtc3RhdGUtb2YtdGhlLXN0YXRlLWZvcndhcmQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjQvMDEvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtc3RhdGUtb2YtdGhlLXN0YXRlLWZvcndhcmQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Jan 2024 16:20:12 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjQvMDEvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtc3RhdGUtb2YtdGhlLXN0YXRlLWZvcndhcmQv0gEA?oc=5\" target=\"_blank\">How will Tony Evers use the State of the State?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WisconsinWatch.org</font>"
+            ],
+            "source": [
+              {
+                "_": "WisconsinWatch.org",
+                "$": {
+                  "url": "https://wisconsinwatch.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers in State of the State address vows to veto any bill that would limit access to abortions - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi10b255LWV2ZXJzLXNwZWVjaC0xOWI5MmM2ZTBmNjFmYzhjNTQ4ZmZiY2JhYjI2ODM2ZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi10b255LWV2ZXJzLXNwZWVjaC0xOWI5MmM2ZTBmNjFmYzhjNTQ4ZmZiY2JhYjI2ODM2ZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi10b255LWV2ZXJzLXNwZWVjaC0xOWI5MmM2ZTBmNjFmYzhjNTQ4ZmZiY2JhYjI2ODM2ZNIBAA?oc=5\" target=\"_blank\">Evers in State of the State address vows to veto any bill that would limit access to abortions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Judge says Wisconsin Gov. Tony Evers can be questioned in Trump fake electors lawsuit - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL2p1ZGdlLXNheXMtd2lzY29uc2luLWdvdi10b255LWV2ZXJzLWNhbi1iZS1xdWVzdGlvbmVkLWluLXRydW1wLWZha2UtZWxlY3RvcnMtbGF3c3VpdC_SAYABaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL2p1ZGdlLXNheXMtd2lzY29uc2luLWdvdi10b255LWV2ZXJzLWNhbi1iZS1xdWVzdGlvbmVkLWluLXRydW1wLWZha2UtZWxlY3RvcnMtbGF3c3VpdC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL2p1ZGdlLXNheXMtd2lzY29uc2luLWdvdi10b255LWV2ZXJzLWNhbi1iZS1xdWVzdGlvbmVkLWluLXRydW1wLWZha2UtZWxlY3RvcnMtbGF3c3VpdC_SAYABaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL2p1ZGdlLXNheXMtd2lzY29uc2luLWdvdi10b255LWV2ZXJzLWNhbi1iZS1xdWVzdGlvbmVkLWluLXRydW1wLWZha2UtZWxlY3RvcnMtbGF3c3VpdC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL2p1ZGdlLXNheXMtd2lzY29uc2luLWdvdi10b255LWV2ZXJzLWNhbi1iZS1xdWVzdGlvbmVkLWluLXRydW1wLWZha2UtZWxlY3RvcnMtbGF3c3VpdC_SAYABaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL2p1ZGdlLXNheXMtd2lzY29uc2luLWdvdi10b255LWV2ZXJzLWNhbi1iZS1xdWVzdGlvbmVkLWluLXRydW1wLWZha2UtZWxlY3RvcnMtbGF3c3VpdC8?oc=5\" target=\"_blank\">Judge says Wisconsin Gov. Tony Evers can be questioned in Trump fake electors lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers doubts lawsuit challenging GOP Legislature will have broader consequences Gov. Evers doubts lawsuit ... - WDJT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2dvdi1ldmVycy1kb3VidHMtbGF3c3VpdC1jaGFsbGVuZ2luZy1nb3AtbGVnaXNsYXR1cmUtd2lsbC1oYXZlLWJyb2FkZXItY29uc2VxdWVuY2Vz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2dvdi1ldmVycy1kb3VidHMtbGF3c3VpdC1jaGFsbGVuZ2luZy1nb3AtbGVnaXNsYXR1cmUtd2lsbC1oYXZlLWJyb2FkZXItY29uc2VxdWVuY2Vz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 22:56:37 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2dvdi1ldmVycy1kb3VidHMtbGF3c3VpdC1jaGFsbGVuZ2luZy1nb3AtbGVnaXNsYXR1cmUtd2lsbC1oYXZlLWJyb2FkZXItY29uc2VxdWVuY2Vz0gEA?oc=5\" target=\"_blank\">Gov. Evers doubts lawsuit challenging GOP Legislature will have broader consequences Gov. Evers doubts lawsuit ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDJT</font>"
+            ],
+            "source": [
+              {
+                "_": "WDJT",
+                "$": {
+                  "url": "https://www.cbs58.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Van Orden Urges Governor Evers to Join His Request for State, Federal Resources Following Recent Hospital Closures in Western Wisconsin - WEAU"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy53ZWF1LmNvbS8yMDI0LzAyLzA1L3Zhbi1vcmRlbi11cmdlcy1nb3Zlcm5vci1ldmVycy1qb2luLWhpcy1yZXF1ZXN0LXN0YXRlLWZlZGVyYWwtcmVzb3VyY2VzLWZvbGxvd2luZy1yZWNlbnQtaG9zcGl0YWwtY2xvc3VyZXMtd2VzdGVybi13aXNjb25zaW4v0gGsAWh0dHBzOi8vd3d3LndlYXUuY29tLzIwMjQvMDIvMDUvdmFuLW9yZGVuLXVyZ2VzLWdvdmVybm9yLWV2ZXJzLWpvaW4taGlzLXJlcXVlc3Qtc3RhdGUtZmVkZXJhbC1yZXNvdXJjZXMtZm9sbG93aW5nLXJlY2VudC1ob3NwaXRhbC1jbG9zdXJlcy13ZXN0ZXJuLXdpc2NvbnNpbi8_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinQFodHRwczovL3d3dy53ZWF1LmNvbS8yMDI0LzAyLzA1L3Zhbi1vcmRlbi11cmdlcy1nb3Zlcm5vci1ldmVycy1qb2luLWhpcy1yZXF1ZXN0LXN0YXRlLWZlZGVyYWwtcmVzb3VyY2VzLWZvbGxvd2luZy1yZWNlbnQtaG9zcGl0YWwtY2xvc3VyZXMtd2VzdGVybi13aXNjb25zaW4v0gGsAWh0dHBzOi8vd3d3LndlYXUuY29tLzIwMjQvMDIvMDUvdmFuLW9yZGVuLXVyZ2VzLWdvdmVybm9yLWV2ZXJzLWpvaW4taGlzLXJlcXVlc3Qtc3RhdGUtZmVkZXJhbC1yZXNvdXJjZXMtZm9sbG93aW5nLXJlY2VudC1ob3NwaXRhbC1jbG9zdXJlcy13ZXN0ZXJuLXdpc2NvbnNpbi8_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 15:02:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy53ZWF1LmNvbS8yMDI0LzAyLzA1L3Zhbi1vcmRlbi11cmdlcy1nb3Zlcm5vci1ldmVycy1qb2luLWhpcy1yZXF1ZXN0LXN0YXRlLWZlZGVyYWwtcmVzb3VyY2VzLWZvbGxvd2luZy1yZWNlbnQtaG9zcGl0YWwtY2xvc3VyZXMtd2VzdGVybi13aXNjb25zaW4v0gGsAWh0dHBzOi8vd3d3LndlYXUuY29tLzIwMjQvMDIvMDUvdmFuLW9yZGVuLXVyZ2VzLWdvdmVybm9yLWV2ZXJzLWpvaW4taGlzLXJlcXVlc3Qtc3RhdGUtZmVkZXJhbC1yZXNvdXJjZXMtZm9sbG93aW5nLXJlY2VudC1ob3NwaXRhbC1jbG9zdXJlcy13ZXN0ZXJuLXdpc2NvbnNpbi8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Van Orden Urges Governor Evers to Join His Request for State, Federal Resources Following Recent Hospital Closures in Western Wisconsin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAU</font>"
+            ],
+            "source": [
+              {
+                "_": "WEAU",
+                "$": {
+                  "url": "https://www.weau.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers signs bills releasing UW pay raises - Wisconsin Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tL2JyaWVmL2V2ZXJzLXNpZ25zLWJpbGxzLXJlbGVhc2luZy11dy1wYXktcmFpc2VzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tL2JyaWVmL2V2ZXJzLXNpZ25zLWJpbGxzLXJlbGVhc2luZy11dy1wYXktcmFpc2VzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 23:16:47 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tL2JyaWVmL2V2ZXJzLXNpZ25zLWJpbGxzLXJlbGVhc2luZy11dy1wYXktcmFpc2VzL9IBAA?oc=5\" target=\"_blank\">Evers signs bills releasing UW pay raises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Examiner",
+                "$": {
+                  "url": "https://wisconsinexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tony Evers signs bill creating 'dental therapist' profession to bolster healthcare workforce - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2dvdi10b255LWV2ZXJzLXNpZ25zLWJpbGwtY3JlYXRpbmctZGVudGFsLXRoZXJhcGlzdC1wcm9mZXNzaW9uLzcyNDI0OTg2MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2dvdi10b255LWV2ZXJzLXNpZ25zLWJpbGwtY3JlYXRpbmctZGVudGFsLXRoZXJhcGlzdC1wcm9mZXNzaW9uLzcyNDI0OTg2MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 19:58:34 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2dvdi10b255LWV2ZXJzLXNpZ25zLWJpbGwtY3JlYXRpbmctZGVudGFsLXRoZXJhcGlzdC1wcm9mZXNzaW9uLzcyNDI0OTg2MDA3L9IBAA?oc=5\" target=\"_blank\">Tony Evers signs bill creating 'dental therapist' profession to bolster healthcare workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin governor secures grant for largest land conservation buy - WisconsinWatch.org"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjQvMDEvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtbGFuZC1jb25zZXJ2YXRpb24tcHVyY2hhc2Uv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjQvMDEvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtbGFuZC1jb25zZXJ2YXRpb24tcHVyY2hhc2Uv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 16:56:09 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjQvMDEvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtbGFuZC1jb25zZXJ2YXRpb24tcHVyY2hhc2Uv0gEA?oc=5\" target=\"_blank\">Wisconsin governor secures grant for largest land conservation buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WisconsinWatch.org</font>"
+            ],
+            "source": [
+              {
+                "_": "WisconsinWatch.org",
+                "$": {
+                  "url": "https://wisconsinwatch.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Supreme Court takes up Evers lawsuit against Legislature over blocked UW pay raises, conservation projects - Wisconsin Public Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy93aXNjb25zaW4tc3VwcmVtZS1jb3VydC10YWtlLXVwLWV2ZXJzLWxhd3N1aXQtYWdhaW5zdC1sZWdpc2xhdHVyZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy93aXNjb25zaW4tc3VwcmVtZS1jb3VydC10YWtlLXVwLWV2ZXJzLWxhd3N1aXQtYWdhaW5zdC1sZWdpc2xhdHVyZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 00:02:42 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy93aXNjb25zaW4tc3VwcmVtZS1jb3VydC10YWtlLXVwLWV2ZXJzLWxhd3N1aXQtYWdhaW5zdC1sZWdpc2xhdHVyZdIBAA?oc=5\" target=\"_blank\">Wisconsin Supreme Court takes up Evers lawsuit against Legislature over blocked UW pay raises, conservation projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Public Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Public Radio",
+                "$": {
+                  "url": "https://www.wpr.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Supreme Court agrees to hear governor's lawsuit against GOP-controlled Legislature - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1ldmVycy1zdXByZW1lLWNvdXJ0LWxlZ2lzbGF0dXJlLTQyMThjMmRiNDcyN2I4ZWQ1MTQwODIzMzU5NGQxYmVm0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1ldmVycy1zdXByZW1lLWNvdXJ0LWxlZ2lzbGF0dXJlLTQyMThjMmRiNDcyN2I4ZWQ1MTQwODIzMzU5NGQxYmVm0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 22:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1ldmVycy1zdXByZW1lLWNvdXJ0LWxlZ2lzbGF0dXJlLTQyMThjMmRiNDcyN2I4ZWQ1MTQwODIzMzU5NGQxYmVm0gEA?oc=5\" target=\"_blank\">Wisconsin Supreme Court agrees to hear governor's lawsuit against GOP-controlled Legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers hosts hospital shutdown discussion in Eau Claire - WEAU"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LndlYXUuY29tLzIwMjQvMDIvMDUvZ292LWV2ZXJzLWhvc3RzLWhvc3BpdGFsLXNodXRkb3duLWRpc2N1c3Npb24tZWF1LWNsYWlyZS_SAWdodHRwczovL3d3dy53ZWF1LmNvbS8yMDI0LzAyLzA1L2dvdi1ldmVycy1ob3N0cy1ob3NwaXRhbC1zaHV0ZG93bi1kaXNjdXNzaW9uLWVhdS1jbGFpcmUvP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LndlYXUuY29tLzIwMjQvMDIvMDUvZ292LWV2ZXJzLWhvc3RzLWhvc3BpdGFsLXNodXRkb3duLWRpc2N1c3Npb24tZWF1LWNsYWlyZS_SAWdodHRwczovL3d3dy53ZWF1LmNvbS8yMDI0LzAyLzA1L2dvdi1ldmVycy1ob3N0cy1ob3NwaXRhbC1zaHV0ZG93bi1kaXNjdXNzaW9uLWVhdS1jbGFpcmUvP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 19:07:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LndlYXUuY29tLzIwMjQvMDIvMDUvZ292LWV2ZXJzLWhvc3RzLWhvc3BpdGFsLXNodXRkb3duLWRpc2N1c3Npb24tZWF1LWNsYWlyZS_SAWdodHRwczovL3d3dy53ZWF1LmNvbS8yMDI0LzAyLzA1L2dvdi1ldmVycy1ob3N0cy1ob3NwaXRhbC1zaHV0ZG93bi1kaXNjdXNzaW9uLWVhdS1jbGFpcmUvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">Gov. Evers hosts hospital shutdown discussion in Eau Claire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAU</font>"
+            ],
+            "source": [
+              {
+                "_": "WEAU",
+                "$": {
+                  "url": "https://www.weau.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Supreme Court will hear Gov. Tony Evers' challenge against GOP Legislature - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAyLzAyL2NvdXJ0LXdpbGwtaGVhci1nb3YtdG9ueS1ldmVycy1jaGFsbGVuZ2UtYWdhaW5zdC1nb3AtbGVnaXNsYXR1cmUvNzI0NTYyMDYwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAyLzAyL2NvdXJ0LXdpbGwtaGVhci1nb3YtdG9ueS1ldmVycy1jaGFsbGVuZ2UtYWdhaW5zdC1nb3AtbGVnaXNsYXR1cmUvNzI0NTYyMDYwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 23:35:40 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAyLzAyL2NvdXJ0LXdpbGwtaGVhci1nb3YtdG9ueS1ldmVycy1jaGFsbGVuZ2UtYWdhaW5zdC1nb3AtbGVnaXNsYXR1cmUvNzI0NTYyMDYwMDcv0gEA?oc=5\" target=\"_blank\">Wisconsin Supreme Court will hear Gov. Tony Evers' challenge against GOP Legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tony Evers' Wisconsin State of the State address tonight; time, TV - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzIzL3RvbnktZXZlcnMtd2lzY29uc2luLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzLXRvbmlnaHQtdGltZS10di83MjI3MzI5MjAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzIzL3RvbnktZXZlcnMtd2lzY29uc2luLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzLXRvbmlnaHQtdGltZS10di83MjI3MzI5MjAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzIzL3RvbnktZXZlcnMtd2lzY29uc2luLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzLXRvbmlnaHQtdGltZS10di83MjI3MzI5MjAwNy_SAQA?oc=5\" target=\"_blank\">Tony Evers' Wisconsin State of the State address tonight; time, TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers calls handling of HSHS, Prevea closures 'just wrong;' officials vow to help affected patients and workers - Chippewa Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiwQFodHRwczovL2NoaXBwZXdhLmNvbS9uZXdzL2xvY2FsL2J1c2luZXNzL2hlYWx0aC1jYXJlL2dvdi1ldmVycy1jYWxscy1oYW5kbGluZy1vZi1oc2hzLXByZXZlYS1jbG9zdXJlcy1qdXN0LXdyb25nLW9mZmljaWFscy12b3ctdG8taGVscC1hZmZlY3RlZC9hcnRpY2xlX2I5ODE4NGRjLWM0NTQtMTFlZS1iOWI1LTQzNjE4NTU3MzdhNy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiwQFodHRwczovL2NoaXBwZXdhLmNvbS9uZXdzL2xvY2FsL2J1c2luZXNzL2hlYWx0aC1jYXJlL2dvdi1ldmVycy1jYWxscy1oYW5kbGluZy1vZi1oc2hzLXByZXZlYS1jbG9zdXJlcy1qdXN0LXdyb25nLW9mZmljaWFscy12b3ctdG8taGVscC1hZmZlY3RlZC9hcnRpY2xlX2I5ODE4NGRjLWM0NTQtMTFlZS1iOWI1LTQzNjE4NTU3MzdhNy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 20:15:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiwQFodHRwczovL2NoaXBwZXdhLmNvbS9uZXdzL2xvY2FsL2J1c2luZXNzL2hlYWx0aC1jYXJlL2dvdi1ldmVycy1jYWxscy1oYW5kbGluZy1vZi1oc2hzLXByZXZlYS1jbG9zdXJlcy1qdXN0LXdyb25nLW9mZmljaWFscy12b3ctdG8taGVscC1hZmZlY3RlZC9hcnRpY2xlX2I5ODE4NGRjLWM0NTQtMTFlZS1iOWI1LTQzNjE4NTU3MzdhNy5odG1s0gEA?oc=5\" target=\"_blank\">Gov. Evers calls handling of HSHS, Prevea closures 'just wrong;' officials vow to help affected patients and workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chippewa Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "Chippewa Herald",
+                "$": {
+                  "url": "https://chippewa.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WisPolitics Luncheon with Governor Tony Evers - WisconsinEye"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd2lzZXllLm9yZy8yMDI0LzAxLzMwL3dpc3BvbGl0aWNzLWx1bmNoZW9uLXdpdGgtZ292ZXJub3ItdG9ueS1ldmVycy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd2lzZXllLm9yZy8yMDI0LzAxLzMwL3dpc3BvbGl0aWNzLWx1bmNoZW9uLXdpdGgtZ292ZXJub3ItdG9ueS1ldmVycy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd2lzZXllLm9yZy8yMDI0LzAxLzMwL3dpc3BvbGl0aWNzLWx1bmNoZW9uLXdpdGgtZ292ZXJub3ItdG9ueS1ldmVycy_SAQA?oc=5\" target=\"_blank\">WisPolitics Luncheon with Governor Tony Evers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WisconsinEye</font>"
+            ],
+            "source": [
+              {
+                "_": "WisconsinEye",
+                "$": {
+                  "url": "https://wiseye.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers; State officials visit CVTC to discuss response to HSHS and Prevea closures - WQOW TV News 18"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy53cW93LmNvbS9leWVfb25fZWF1X2NsYWlyZS9nb3YtZXZlcnMtc3RhdGUtb2ZmaWNpYWxzLXZpc2l0LWN2dGMtdG8tZGlzY3Vzcy1yZXNwb25zZS10by1oc2hzLWFuZC1wcmV2ZWEtY2xvc3VyZXMvYXJ0aWNsZV8zN2NiMTZjOC1jNDczLTExZWUtYTNkZS00MzA5ZDgxYjBjZGMuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirQFodHRwczovL3d3dy53cW93LmNvbS9leWVfb25fZWF1X2NsYWlyZS9nb3YtZXZlcnMtc3RhdGUtb2ZmaWNpYWxzLXZpc2l0LWN2dGMtdG8tZGlzY3Vzcy1yZXNwb25zZS10by1oc2hzLWFuZC1wcmV2ZWEtY2xvc3VyZXMvYXJ0aWNsZV8zN2NiMTZjOC1jNDczLTExZWUtYTNkZS00MzA5ZDgxYjBjZGMuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 00:12:34 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy53cW93LmNvbS9leWVfb25fZWF1X2NsYWlyZS9nb3YtZXZlcnMtc3RhdGUtb2ZmaWNpYWxzLXZpc2l0LWN2dGMtdG8tZGlzY3Vzcy1yZXNwb25zZS10by1oc2hzLWFuZC1wcmV2ZWEtY2xvc3VyZXMvYXJ0aWNsZV8zN2NiMTZjOC1jNDczLTExZWUtYTNkZS00MzA5ZDgxYjBjZGMuaHRtbNIBAA?oc=5\" target=\"_blank\">Gov. Evers; State officials visit CVTC to discuss response to HSHS and Prevea closures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WQOW TV News 18</font>"
+            ],
+            "source": [
+              {
+                "_": "WQOW TV News 18",
+                "$": {
+                  "url": "https://www.wqow.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Supreme Court to hear Evers lawsuit against GOP's 'legislative vetoes' - Daily Cardinal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmRhaWx5Y2FyZGluYWwuY29tL2FydGljbGUvMjAyNC8wMi93aXNjb25zaW4tc3VwcmVtZS1jb3VydC10by1oZWFyLWV2ZXJzLWxhd3N1aXQtYWdhaW5zdC1nb3BzLWxlZ2lzbGF0aXZlLXZldG9lc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LmRhaWx5Y2FyZGluYWwuY29tL2FydGljbGUvMjAyNC8wMi93aXNjb25zaW4tc3VwcmVtZS1jb3VydC10by1oZWFyLWV2ZXJzLWxhd3N1aXQtYWdhaW5zdC1nb3BzLWxlZ2lzbGF0aXZlLXZldG9lc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 23:15:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmRhaWx5Y2FyZGluYWwuY29tL2FydGljbGUvMjAyNC8wMi93aXNjb25zaW4tc3VwcmVtZS1jb3VydC10by1oZWFyLWV2ZXJzLWxhd3N1aXQtYWdhaW5zdC1nb3BzLWxlZ2lzbGF0aXZlLXZldG9lc9IBAA?oc=5\" target=\"_blank\">Wisconsin Supreme Court to hear Evers lawsuit against GOP's 'legislative vetoes'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Cardinal</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Cardinal",
+                "$": {
+                  "url": "https://www.dailycardinal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers signs executive order creating task force on the healthcare workforce - Lake Geneva Regional News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipgFodHRwczovL2xha2VnZW5ldmFuZXdzLm5ldC9hbm5vdW5jZW1lbnRzL2V2ZXJzLXNpZ25zLWV4ZWN1dGl2ZS1vcmRlci1jcmVhdGluZy10YXNrLWZvcmNlLW9uLXRoZS1oZWFsdGhjYXJlLXdvcmtmb3JjZS9hcnRpY2xlX2I3MTMxNjkwLWMzY2ItMTFlZS04YTBhLTdmMjFiNjgwNDE1Yy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipgFodHRwczovL2xha2VnZW5ldmFuZXdzLm5ldC9hbm5vdW5jZW1lbnRzL2V2ZXJzLXNpZ25zLWV4ZWN1dGl2ZS1vcmRlci1jcmVhdGluZy10YXNrLWZvcmNlLW9uLXRoZS1oZWFsdGhjYXJlLXdvcmtmb3JjZS9hcnRpY2xlX2I3MTMxNjkwLWMzY2ItMTFlZS04YTBhLTdmMjFiNjgwNDE1Yy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipgFodHRwczovL2xha2VnZW5ldmFuZXdzLm5ldC9hbm5vdW5jZW1lbnRzL2V2ZXJzLXNpZ25zLWV4ZWN1dGl2ZS1vcmRlci1jcmVhdGluZy10YXNrLWZvcmNlLW9uLXRoZS1oZWFsdGhjYXJlLXdvcmtmb3JjZS9hcnRpY2xlX2I3MTMxNjkwLWMzY2ItMTFlZS04YTBhLTdmMjFiNjgwNDE1Yy5odG1s0gEA?oc=5\" target=\"_blank\">Evers signs executive order creating task force on the healthcare workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lake Geneva Regional News</font>"
+            ],
+            "source": [
+              {
+                "_": "Lake Geneva Regional News",
+                "$": {
+                  "url": "https://lakegenevanews.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "In State of the State, Wisconsin Gov. Tony Evers announces 2024 is Year of the Worker - WUWM"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lnd1d20uY29tLzIwMjQtMDEtMjQvaW4tc3RhdGUtb2YtdGhlLXN0YXRlLXdpc2NvbnNpbi1nb3YtdG9ueS1ldmVycy1hbm5vdW5jZXMtMjAyNC1pcy15ZWFyLW9mLXRoZS13b3JrZXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3Lnd1d20uY29tLzIwMjQtMDEtMjQvaW4tc3RhdGUtb2YtdGhlLXN0YXRlLXdpc2NvbnNpbi1nb3YtdG9ueS1ldmVycy1hbm5vdW5jZXMtMjAyNC1pcy15ZWFyLW9mLXRoZS13b3JrZXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 16:41:44 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lnd1d20uY29tLzIwMjQtMDEtMjQvaW4tc3RhdGUtb2YtdGhlLXN0YXRlLXdpc2NvbnNpbi1nb3YtdG9ueS1ldmVycy1hbm5vdW5jZXMtMjAyNC1pcy15ZWFyLW9mLXRoZS13b3JrZXLSAQA?oc=5\" target=\"_blank\">In State of the State, Wisconsin Gov. Tony Evers announces 2024 is Year of the Worker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUWM</font>"
+            ],
+            "source": [
+              {
+                "_": "WUWM",
+                "$": {
+                  "url": "https://www.wuwm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Supreme Court accepts Evers lawsuit against 'legislative vetoes' - Wisconsin Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tL2JyaWVmL3dpc2NvbnNpbi1zdXByZW1lLWNvdXJ0LWFjY2VwdHMtZXZlcnMtbGF3c3VpdC1hZ2FpbnN0LWxlZ2lzbGF0aXZlLXZldG9lcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tL2JyaWVmL3dpc2NvbnNpbi1zdXByZW1lLWNvdXJ0LWFjY2VwdHMtZXZlcnMtbGF3c3VpdC1hZ2FpbnN0LWxlZ2lzbGF0aXZlLXZldG9lcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 23:16:59 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tL2JyaWVmL3dpc2NvbnNpbi1zdXByZW1lLWNvdXJ0LWFjY2VwdHMtZXZlcnMtbGF3c3VpdC1hZ2FpbnN0LWxlZ2lzbGF0aXZlLXZldG9lcy_SAQA?oc=5\" target=\"_blank\">Wisconsin Supreme Court accepts Evers lawsuit against 'legislative vetoes'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Examiner",
+                "$": {
+                  "url": "https://wisconsinexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Governor Sues Legislature | Nation/World | bdtonline.com - Bluefield Daily Telegraph"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmJkdG9ubGluZS5jb20vbmV3cy9uYXRpb25fd29ybGQvd2lzY29uc2luLWdvdmVybm9yLXN1ZXMtbGVnaXNsYXR1cmUvaW1hZ2VfMjNhMGNkMjEtYTYxNy01N2UyLTg4YWMtNTg3N2I5MDM2MDZjLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3LmJkdG9ubGluZS5jb20vbmV3cy9uYXRpb25fd29ybGQvd2lzY29uc2luLWdvdmVybm9yLXN1ZXMtbGVnaXNsYXR1cmUvaW1hZ2VfMjNhMGNkMjEtYTYxNy01N2UyLTg4YWMtNTg3N2I5MDM2MDZjLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:49:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmJkdG9ubGluZS5jb20vbmV3cy9uYXRpb25fd29ybGQvd2lzY29uc2luLWdvdmVybm9yLXN1ZXMtbGVnaXNsYXR1cmUvaW1hZ2VfMjNhMGNkMjEtYTYxNy01N2UyLTg4YWMtNTg3N2I5MDM2MDZjLmh0bWzSAQA?oc=5\" target=\"_blank\">Wisconsin Governor Sues Legislature | Nation/World | bdtonline.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bluefield Daily Telegraph</font>"
+            ],
+            "source": [
+              {
+                "_": "Bluefield Daily Telegraph",
+                "$": {
+                  "url": "https://www.bdtonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Tony Evers calls out Republicans over 'breathtaking' inaction on PFAS - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzI0L3RvbnktZXZlcnMtY2FsbHMtb3V0LXJlcHVibGljYW5zLW92ZXItYnJlYXRodGFraW5nLWluYWN0aW9uLW9uLXBmYXMvNzIzMTE4MTYwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzI0L3RvbnktZXZlcnMtY2FsbHMtb3V0LXJlcHVibGljYW5zLW92ZXItYnJlYXRodGFraW5nLWluYWN0aW9uLW9uLXBmYXMvNzIzMTE4MTYwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzI0L3RvbnktZXZlcnMtY2FsbHMtb3V0LXJlcHVibGljYW5zLW92ZXItYnJlYXRodGFraW5nLWluYWN0aW9uLW9uLXBmYXMvNzIzMTE4MTYwMDcv0gEA?oc=5\" target=\"_blank\">Gov. Tony Evers calls out Republicans over 'breathtaking' inaction on PFAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers to give sixth State of the State address - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vd2kvbWlsd2F1a2VlL25ld3MvMjAyNC8wMS8xNy9nb3YtLWV2ZXJzLXRvLWdpdmUtc2l4dGgtc3RhdGUtb2YtdGhlLXN0YXRlLWFkZHJlc3PSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vd2kvbWlsd2F1a2VlL25ld3MvMjAyNC8wMS8xNy9nb3YtLWV2ZXJzLXRvLWdpdmUtc2l4dGgtc3RhdGUtb2YtdGhlLXN0YXRlLWFkZHJlc3PSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vd2kvbWlsd2F1a2VlL25ld3MvMjAyNC8wMS8xNy9nb3YtLWV2ZXJzLXRvLWdpdmUtc2l4dGgtc3RhdGUtb2YtdGhlLXN0YXRlLWFkZHJlc3PSAQA?oc=5\" target=\"_blank\">Gov. Evers to give sixth State of the State address</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Assembly lawmakers pass 14-week abortion ban Evers has vowed to veto - Wisconsin Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tLzIwMjQvMDEvMjYvYXNzZW1ibHktbGF3bWFrZXJzLXBhc3MtMTQtd2Vlay1hYm9ydGlvbi1iYW4tZXZlcnMtaGFzLXZvd2VkLXRvLXZldG8v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tLzIwMjQvMDEvMjYvYXNzZW1ibHktbGF3bWFrZXJzLXBhc3MtMTQtd2Vlay1hYm9ydGlvbi1iYW4tZXZlcnMtaGFzLXZvd2VkLXRvLXZldG8v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 11:47:54 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tLzIwMjQvMDEvMjYvYXNzZW1ibHktbGF3bWFrZXJzLXBhc3MtMTQtd2Vlay1hYm9ydGlvbi1iYW4tZXZlcnMtaGFzLXZvd2VkLXRvLXZldG8v0gEA?oc=5\" target=\"_blank\">Assembly lawmakers pass 14-week abortion ban Evers has vowed to veto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Examiner",
+                "$": {
+                  "url": "https://wisconsinexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lawmakers react to Gov. Tony Evers' State of the State - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vd2kvbWlsd2F1a2VlL25ld3MvMjAyNC8wMS8yNC9sYXdtYWtlcnMtcmVhY3QtdG8tZ292LS10b255LWV2ZXJzLS1zdGF0ZS1vZi10aGUtc3RhdGXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vd2kvbWlsd2F1a2VlL25ld3MvMjAyNC8wMS8yNC9sYXdtYWtlcnMtcmVhY3QtdG8tZ292LS10b255LWV2ZXJzLS1zdGF0ZS1vZi10aGUtc3RhdGXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 12:36:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vd2kvbWlsd2F1a2VlL25ld3MvMjAyNC8wMS8yNC9sYXdtYWtlcnMtcmVhY3QtdG8tZ292LS10b255LWV2ZXJzLS1zdGF0ZS1vZi10aGUtc3RhdGXSAQA?oc=5\" target=\"_blank\">Lawmakers react to Gov. Tony Evers' State of the State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gundersen president and UWL department chair among western Wisconsin appointees to Evers healthcare task force - WIZM NEWS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy53aXptbmV3cy5jb20vMjAyNC8wMi8wNi9ndW5kZXJzZW4tcHJlc2lkZW50LWFuZC11d2wtZGVwYXJ0bWVudC1jaGFpci1hbW9uZy13ZXN0ZXJuLXdpc2NvbnNpbi1hcHBvaW50ZWVzLXRvLWV2ZXJzLWhlYWx0aGNhcmUtdGFzay1mb3JjZS_SAZcBaHR0cHM6Ly93d3cud2l6bW5ld3MuY29tLzIwMjQvMDIvMDYvZ3VuZGVyc2VuLXByZXNpZGVudC1hbmQtdXdsLWRlcGFydG1lbnQtY2hhaXItYW1vbmctd2VzdGVybi13aXNjb25zaW4tYXBwb2ludGVlcy10by1ldmVycy1oZWFsdGhjYXJlLXRhc2stZm9yY2UvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3d3dy53aXptbmV3cy5jb20vMjAyNC8wMi8wNi9ndW5kZXJzZW4tcHJlc2lkZW50LWFuZC11d2wtZGVwYXJ0bWVudC1jaGFpci1hbW9uZy13ZXN0ZXJuLXdpc2NvbnNpbi1hcHBvaW50ZWVzLXRvLWV2ZXJzLWhlYWx0aGNhcmUtdGFzay1mb3JjZS_SAZcBaHR0cHM6Ly93d3cud2l6bW5ld3MuY29tLzIwMjQvMDIvMDYvZ3VuZGVyc2VuLXByZXNpZGVudC1hbmQtdXdsLWRlcGFydG1lbnQtY2hhaXItYW1vbmctd2VzdGVybi13aXNjb25zaW4tYXBwb2ludGVlcy10by1ldmVycy1oZWFsdGhjYXJlLXRhc2stZm9yY2UvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 03:27:40 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy53aXptbmV3cy5jb20vMjAyNC8wMi8wNi9ndW5kZXJzZW4tcHJlc2lkZW50LWFuZC11d2wtZGVwYXJ0bWVudC1jaGFpci1hbW9uZy13ZXN0ZXJuLXdpc2NvbnNpbi1hcHBvaW50ZWVzLXRvLWV2ZXJzLWhlYWx0aGNhcmUtdGFzay1mb3JjZS_SAZcBaHR0cHM6Ly93d3cud2l6bW5ld3MuY29tLzIwMjQvMDIvMDYvZ3VuZGVyc2VuLXByZXNpZGVudC1hbmQtdXdsLWRlcGFydG1lbnQtY2hhaXItYW1vbmctd2VzdGVybi13aXNjb25zaW4tYXBwb2ludGVlcy10by1ldmVycy1oZWFsdGhjYXJlLXRhc2stZm9yY2UvYW1wLw?oc=5\" target=\"_blank\">Gundersen president and UWL department chair among western Wisconsin appointees to Evers healthcare task force</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIZM NEWS</font>"
+            ],
+            "source": [
+              {
+                "_": "WIZM NEWS",
+                "$": {
+                  "url": "https://www.wizmnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers defends redistricting veto at WisPolitics event - Daily Cardinal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5Y2FyZGluYWwuY29tL2FydGljbGUvMjAyNC8wMi9ldmVycy1kZWZlbmRzLXJlZGlzdHJpY3RpbmctdmV0by1hdC13aXNwb2xpdGljcy1ldmVudNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LmRhaWx5Y2FyZGluYWwuY29tL2FydGljbGUvMjAyNC8wMi9ldmVycy1kZWZlbmRzLXJlZGlzdHJpY3RpbmctdmV0by1hdC13aXNwb2xpdGljcy1ldmVudNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 16:57:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5Y2FyZGluYWwuY29tL2FydGljbGUvMjAyNC8wMi9ldmVycy1kZWZlbmRzLXJlZGlzdHJpY3RpbmctdmV0by1hdC13aXNwb2xpdGljcy1ldmVudNIBAA?oc=5\" target=\"_blank\">Evers defends redistricting veto at WisPolitics event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Cardinal</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Cardinal",
+                "$": {
+                  "url": "https://www.dailycardinal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Supreme Court agrees to take up Gov. Evers’s lawsuit against GOP lawmakers - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGhlaGlsbC5jb20vcmVndWxhdGlvbi9jb3VydC1iYXR0bGVzLzQ0NDUzODgtd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRha2UtZXZlcnMtbGF3c3VpdC1nb3AtbGF3bWFrZXJzL9IBeWh0dHBzOi8vdGhlaGlsbC5jb20vcmVndWxhdGlvbi9jb3VydC1iYXR0bGVzLzQ0NDUzODgtd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRha2UtZXZlcnMtbGF3c3VpdC1nb3AtbGF3bWFrZXJzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vdGhlaGlsbC5jb20vcmVndWxhdGlvbi9jb3VydC1iYXR0bGVzLzQ0NDUzODgtd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRha2UtZXZlcnMtbGF3c3VpdC1nb3AtbGF3bWFrZXJzL9IBeWh0dHBzOi8vdGhlaGlsbC5jb20vcmVndWxhdGlvbi9jb3VydC1iYXR0bGVzLzQ0NDUzODgtd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRha2UtZXZlcnMtbGF3c3VpdC1nb3AtbGF3bWFrZXJzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 22:45:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGhlaGlsbC5jb20vcmVndWxhdGlvbi9jb3VydC1iYXR0bGVzLzQ0NDUzODgtd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRha2UtZXZlcnMtbGF3c3VpdC1nb3AtbGF3bWFrZXJzL9IBeWh0dHBzOi8vdGhlaGlsbC5jb20vcmVndWxhdGlvbi9jb3VydC1iYXR0bGVzLzQ0NDUzODgtd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRha2UtZXZlcnMtbGF3c3VpdC1nb3AtbGF3bWFrZXJzL2FtcC8?oc=5\" target=\"_blank\">Wisconsin Supreme Court agrees to take up Gov. Evers’s lawsuit against GOP lawmakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lena Taylor is now a Milwaukee Circuit Court judge - Isthmus"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vaXN0aG11cy5jb20vbmV3cy9uZXdzL2xlbmEtdGF5bG9yLWlzLW5vdy1hLW1pbHdhdWtlZS1jaXJjdWl0LWNvdXJ0LWp1ZGdlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vaXN0aG11cy5jb20vbmV3cy9uZXdzL2xlbmEtdGF5bG9yLWlzLW5vdy1hLW1pbHdhdWtlZS1jaXJjdWl0LWNvdXJ0LWp1ZGdlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 15:03:04 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vaXN0aG11cy5jb20vbmV3cy9uZXdzL2xlbmEtdGF5bG9yLWlzLW5vdy1hLW1pbHdhdWtlZS1jaXJjdWl0LWNvdXJ0LWp1ZGdlL9IBAA?oc=5\" target=\"_blank\">Lena Taylor is now a Milwaukee Circuit Court judge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Isthmus</font>"
+            ],
+            "source": [
+              {
+                "_": "Isthmus",
+                "$": {
+                  "url": "https://isthmus.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers vetoes Republican legislative maps as congressional redistricting lawsuit looms - PBS Wisconsin"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vZXZlcnMtdmV0b2VzLXJlcHVibGljYW4tbGVnaXNsYXRpdmUtbWFwcy1hcy1jb25ncmVzc2lvbmFsLXJlZGlzdHJpY3RpbmctbGF3c3VpdC1sb29tcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vZXZlcnMtdmV0b2VzLXJlcHVibGljYW4tbGVnaXNsYXRpdmUtbWFwcy1hcy1jb25ncmVzc2lvbmFsLXJlZGlzdHJpY3RpbmctbGF3c3VpdC1sb29tcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 21:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vZXZlcnMtdmV0b2VzLXJlcHVibGljYW4tbGVnaXNsYXRpdmUtbWFwcy1hcy1jb25ncmVzc2lvbmFsLXJlZGlzdHJpY3RpbmctbGF3c3VpdC1sb29tcy_SAQA?oc=5\" target=\"_blank\">Evers vetoes Republican legislative maps as congressional redistricting lawsuit looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS Wisconsin</font>"
+            ],
+            "source": [
+              {
+                "_": "PBS Wisconsin",
+                "$": {
+                  "url": "https://pbswisconsin.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tony Evers' Appointee's Parolee Is Person of Interest in Elkhorn Homicides - Wisconsin Right Now"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lndpc2NvbnNpbnJpZ2h0bm93LmNvbS90aG9tYXMtcm91dHQtanIv0gEyaHR0cHM6Ly93d3cud2lzY29uc2lucmlnaHRub3cuY29tL3Rob21hcy1yb3V0dC1qci8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMmh0dHBzOi8vd3d3Lndpc2NvbnNpbnJpZ2h0bm93LmNvbS90aG9tYXMtcm91dHQtanIv0gEyaHR0cHM6Ly93d3cud2lzY29uc2lucmlnaHRub3cuY29tL3Rob21hcy1yb3V0dC1qci8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 00:09:30 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lndpc2NvbnNpbnJpZ2h0bm93LmNvbS90aG9tYXMtcm91dHQtanIv0gEyaHR0cHM6Ly93d3cud2lzY29uc2lucmlnaHRub3cuY29tL3Rob21hcy1yb3V0dC1qci8?oc=5\" target=\"_blank\">Tony Evers' Appointee's Parolee Is Person of Interest in Elkhorn Homicides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Right Now</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Right Now",
+                "$": {
+                  "url": "https://www.wisconsinrightnow.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Assembly sends redrawn maps to Tony Evers, arguing they give governor most of what he wanted - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lmpzb25saW5lLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjQvMDEvMjQvYXNzZW1ibHktc2VuZHMtcmVkcmF3bi1sZWdpc2xhdGl2ZS1tYXBzLXRvLWdvdi10b255LWV2ZXJzLzcyMzM2MDY2MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3Lmpzb25saW5lLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjQvMDEvMjQvYXNzZW1ibHktc2VuZHMtcmVkcmF3bi1sZWdpc2xhdGl2ZS1tYXBzLXRvLWdvdi10b255LWV2ZXJzLzcyMzM2MDY2MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 20:36:08 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lmpzb25saW5lLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjQvMDEvMjQvYXNzZW1ibHktc2VuZHMtcmVkcmF3bi1sZWdpc2xhdGl2ZS1tYXBzLXRvLWdvdi10b255LWV2ZXJzLzcyMzM2MDY2MDA3L9IBAA?oc=5\" target=\"_blank\">Assembly sends redrawn maps to Tony Evers, arguing they give governor most of what he wanted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | Gov. Tony Evers is a 'radical' on abortion? Please. - The Capital Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL2NhcHRpbWVzLmNvbS9vcGluaW9uL3BhdWwtZmFubHVuZC9vcGluaW9uLWdvdi10b255LWV2ZXJzLWlzLWEtcmFkaWNhbC1vbi1hYm9ydGlvbi1wbGVhc2UvYXJ0aWNsZV8wY2I5NGY4Mi1iZWZhLTExZWUtYTY1Ny00MzE5NWExMmYyYTguaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL2NhcHRpbWVzLmNvbS9vcGluaW9uL3BhdWwtZmFubHVuZC9vcGluaW9uLWdvdi10b255LWV2ZXJzLWlzLWEtcmFkaWNhbC1vbi1hYm9ydGlvbi1wbGVhc2UvYXJ0aWNsZV8wY2I5NGY4Mi1iZWZhLTExZWUtYTY1Ny00MzE5NWExMmYyYTguaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 12:30:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL2NhcHRpbWVzLmNvbS9vcGluaW9uL3BhdWwtZmFubHVuZC9vcGluaW9uLWdvdi10b255LWV2ZXJzLWlzLWEtcmFkaWNhbC1vbi1hYm9ydGlvbi1wbGVhc2UvYXJ0aWNsZV8wY2I5NGY4Mi1iZWZhLTExZWUtYTY1Ny00MzE5NWExMmYyYTguaHRtbNIBAA?oc=5\" target=\"_blank\">Opinion | Gov. Tony Evers is a 'radical' on abortion? Please.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Capital Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Capital Times",
+                "$": {
+                  "url": "https://captimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers visits Eau Claire to discuss HSHS and Prevea closures; Van Orden sends a letter urging use of government funding - FOX 25/48 - WiProud.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy53aXByb3VkLmNvbS9uZXdzL2xvY2FsLW5ld3MvZXZlcnMtdmlzaXRzLWVhdS1jbGFpcmUtdG8tZGlzY3Vzcy1oc2hzLWFuZC1wcmV2ZWEtY2xvc3VyZXMtdmFuLW9yZGVuLXNlbmRzLWEtbGV0dGVyLXVyZ2luZy11c2Utb2YtZ292ZXJubWVudC1mdW5kaW5nL9IBogFodHRwczovL3d3dy53aXByb3VkLmNvbS9uZXdzL2xvY2FsLW5ld3MvZXZlcnMtdmlzaXRzLWVhdS1jbGFpcmUtdG8tZGlzY3Vzcy1oc2hzLWFuZC1wcmV2ZWEtY2xvc3VyZXMtdmFuLW9yZGVuLXNlbmRzLWEtbGV0dGVyLXVyZ2luZy11c2Utb2YtZ292ZXJubWVudC1mdW5kaW5nL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMingFodHRwczovL3d3dy53aXByb3VkLmNvbS9uZXdzL2xvY2FsLW5ld3MvZXZlcnMtdmlzaXRzLWVhdS1jbGFpcmUtdG8tZGlzY3Vzcy1oc2hzLWFuZC1wcmV2ZWEtY2xvc3VyZXMtdmFuLW9yZGVuLXNlbmRzLWEtbGV0dGVyLXVyZ2luZy11c2Utb2YtZ292ZXJubWVudC1mdW5kaW5nL9IBogFodHRwczovL3d3dy53aXByb3VkLmNvbS9uZXdzL2xvY2FsLW5ld3MvZXZlcnMtdmlzaXRzLWVhdS1jbGFpcmUtdG8tZGlzY3Vzcy1oc2hzLWFuZC1wcmV2ZWEtY2xvc3VyZXMtdmFuLW9yZGVuLXNlbmRzLWEtbGV0dGVyLXVyZ2luZy11c2Utb2YtZ292ZXJubWVudC1mdW5kaW5nL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 15:22:38 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy53aXByb3VkLmNvbS9uZXdzL2xvY2FsLW5ld3MvZXZlcnMtdmlzaXRzLWVhdS1jbGFpcmUtdG8tZGlzY3Vzcy1oc2hzLWFuZC1wcmV2ZWEtY2xvc3VyZXMtdmFuLW9yZGVuLXNlbmRzLWEtbGV0dGVyLXVyZ2luZy11c2Utb2YtZ292ZXJubWVudC1mdW5kaW5nL9IBogFodHRwczovL3d3dy53aXByb3VkLmNvbS9uZXdzL2xvY2FsLW5ld3MvZXZlcnMtdmlzaXRzLWVhdS1jbGFpcmUtdG8tZGlzY3Vzcy1oc2hzLWFuZC1wcmV2ZWEtY2xvc3VyZXMtdmFuLW9yZGVuLXNlbmRzLWEtbGV0dGVyLXVyZ2luZy11c2Utb2YtZ292ZXJubWVudC1mdW5kaW5nL2FtcC8?oc=5\" target=\"_blank\">Evers visits Eau Claire to discuss HSHS and Prevea closures; Van Orden sends a letter urging use of government funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 25/48 - WiProud.com</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX 25/48 - WiProud.com",
+                "$": {
+                  "url": "https://www.wiproud.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Gov. Tony Evers vetoes trans youth care ban - WisconsinWatch.org"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjMvMTIvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtdmV0by10cmFuc2dlbmRlci1jYXJlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjMvMTIvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtdmV0by10cmFuc2dlbmRlci1jYXJlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjMvMTIvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtdmV0by10cmFuc2dlbmRlci1jYXJlL9IBAA?oc=5\" target=\"_blank\">Wisconsin Gov. Tony Evers vetoes trans youth care ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WisconsinWatch.org</font>"
+            ],
+            "source": [
+              {
+                "_": "WisconsinWatch.org",
+                "$": {
+                  "url": "https://wisconsinwatch.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Man With Rifle Arrested While Demanding To See Wisconsin Gov. Tony Evers - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbW9sbHlib2hhbm5vbi8yMDIzLzEwLzA1L21hbi13aXRoLXJpZmxlLWFycmVzdGVkLXdoaWxlLWRlbWFuZGluZy10by1zZWUtd2lzY29uc2luLWdvdi10b255LWV2ZXJzL9IBggFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL21vbGx5Ym9oYW5ub24vMjAyMy8xMC8wNS9tYW4td2l0aC1yaWZsZS1hcnJlc3RlZC13aGlsZS1kZW1hbmRpbmctdG8tc2VlLXdpc2NvbnNpbi1nb3YtdG9ueS1ldmVycy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbW9sbHlib2hhbm5vbi8yMDIzLzEwLzA1L21hbi13aXRoLXJpZmxlLWFycmVzdGVkLXdoaWxlLWRlbWFuZGluZy10by1zZWUtd2lzY29uc2luLWdvdi10b255LWV2ZXJzL9IBggFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL21vbGx5Ym9oYW5ub24vMjAyMy8xMC8wNS9tYW4td2l0aC1yaWZsZS1hcnJlc3RlZC13aGlsZS1kZW1hbmRpbmctdG8tc2VlLXdpc2NvbnNpbi1nb3YtdG9ueS1ldmVycy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbW9sbHlib2hhbm5vbi8yMDIzLzEwLzA1L21hbi13aXRoLXJpZmxlLWFycmVzdGVkLXdoaWxlLWRlbWFuZGluZy10by1zZWUtd2lzY29uc2luLWdvdi10b255LWV2ZXJzL9IBggFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL21vbGx5Ym9oYW5ub24vMjAyMy8xMC8wNS9tYW4td2l0aC1yaWZsZS1hcnJlc3RlZC13aGlsZS1kZW1hbmRpbmctdG8tc2VlLXdpc2NvbnNpbi1nb3YtdG9ueS1ldmVycy9hbXAv?oc=5\" target=\"_blank\">Man With Rifle Arrested While Demanding To See Wisconsin Gov. Tony Evers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Tony Evers announces appointment of Sen. Lena Taylor to Milwaukee County Circuit Court - WDJT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2dvdi10b255LWV2ZXJzLWFubm91bmNlcy1hcHBvaW50bWVudC1vZi1zZW4tbGVuYS10YXlsb3ItdG8tbWlsd2F1a2VlLWNvdW50eS1jaXJjdWl0LWNvdXJ00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2dvdi10b255LWV2ZXJzLWFubm91bmNlcy1hcHBvaW50bWVudC1vZi1zZW4tbGVuYS10YXlsb3ItdG8tbWlsd2F1a2VlLWNvdW50eS1jaXJjdWl0LWNvdXJ00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2dvdi10b255LWV2ZXJzLWFubm91bmNlcy1hcHBvaW50bWVudC1vZi1zZW4tbGVuYS10YXlsb3ItdG8tbWlsd2F1a2VlLWNvdW50eS1jaXJjdWl0LWNvdXJ00gEA?oc=5\" target=\"_blank\">Gov. Tony Evers announces appointment of Sen. Lena Taylor to Milwaukee County Circuit Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDJT</font>"
+            ],
+            "source": [
+              {
+                "_": "WDJT",
+                "$": {
+                  "url": "https://www.cbs58.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Tony Evers delivers the annual State of the State address at the Capitol - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5qc29ubGluZS5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yMy9nb3YtdG9ueS1ldmVycy1kZWxpdmVycy10aGUtYW5udWFsLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzLzcyMzMwNTE2MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5qc29ubGluZS5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yMy9nb3YtdG9ueS1ldmVycy1kZWxpdmVycy10aGUtYW5udWFsLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzLzcyMzMwNTE2MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 02:08:54 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5qc29ubGluZS5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yMy9nb3YtdG9ueS1ldmVycy1kZWxpdmVycy10aGUtYW5udWFsLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzLzcyMzMwNTE2MDA3L9IBAA?oc=5\" target=\"_blank\">Gov. Tony Evers delivers the annual State of the State address at the Capitol</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Tony Evers announces expanded access to contraception in State of the State speech - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzIzL3RvbnktZXZlcnMtc3RhdGUtb2YtdGhlLXN0YXRlLWluY2x1ZGVzLWVtZXJnZW5jeS1jb250cmFjZXB0aW9uLWFjY2Vzcy83MjMyNzUzNjAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzIzL3RvbnktZXZlcnMtc3RhdGUtb2YtdGhlLXN0YXRlLWluY2x1ZGVzLWVtZXJnZW5jeS1jb250cmFjZXB0aW9uLWFjY2Vzcy83MjMyNzUzNjAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzIzL3RvbnktZXZlcnMtc3RhdGUtb2YtdGhlLXN0YXRlLWluY2x1ZGVzLWVtZXJnZW5jeS1jb250cmFjZXB0aW9uLWFjY2Vzcy83MjMyNzUzNjAwNy_SAQA?oc=5\" target=\"_blank\">Gov. Tony Evers announces expanded access to contraception in State of the State speech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Republicans seek to curtail governor's veto power - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi12ZXRvLWdvdmVybm9yLWFtZW5kbWVudC1kMzM2MzI0MDYzOGQ0Yzg3YjYwODFkNDkwM2U3MTg4YdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi12ZXRvLWdvdmVybm9yLWFtZW5kbWVudC1kMzM2MzI0MDYzOGQ0Yzg3YjYwODFkNDkwM2U3MTg4YdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 20:53:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi12ZXRvLWdvdmVybm9yLWFtZW5kbWVudC1kMzM2MzI0MDYzOGQ0Yzg3YjYwODFkNDkwM2U3MTg4YdIBAA?oc=5\" target=\"_blank\">Wisconsin Republicans seek to curtail governor's veto power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers to focus on workforce challenges during tonight’s State of the State - WSAW"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LndzYXcuY29tLzIwMjQvMDEvMjMvZ292LWV2ZXJzLWZvY3VzLXdvcmtmb3JjZS1jaGFsbGVuZ2VzLWR1cmluZy10b25pZ2h0cy1zdGF0ZS1zdGF0ZS_SAXBodHRwczovL3d3dy53c2F3LmNvbS8yMDI0LzAxLzIzL2dvdi1ldmVycy1mb2N1cy13b3JrZm9yY2UtY2hhbGxlbmdlcy1kdXJpbmctdG9uaWdodHMtc3RhdGUtc3RhdGUvP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LndzYXcuY29tLzIwMjQvMDEvMjMvZ292LWV2ZXJzLWZvY3VzLXdvcmtmb3JjZS1jaGFsbGVuZ2VzLWR1cmluZy10b25pZ2h0cy1zdGF0ZS1zdGF0ZS_SAXBodHRwczovL3d3dy53c2F3LmNvbS8yMDI0LzAxLzIzL2dvdi1ldmVycy1mb2N1cy13b3JrZm9yY2UtY2hhbGxlbmdlcy1kdXJpbmctdG9uaWdodHMtc3RhdGUtc3RhdGUvP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 18:33:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LndzYXcuY29tLzIwMjQvMDEvMjMvZ292LWV2ZXJzLWZvY3VzLXdvcmtmb3JjZS1jaGFsbGVuZ2VzLWR1cmluZy10b25pZ2h0cy1zdGF0ZS1zdGF0ZS_SAXBodHRwczovL3d3dy53c2F3LmNvbS8yMDI0LzAxLzIzL2dvdi1ldmVycy1mb2N1cy13b3JrZm9yY2UtY2hhbGxlbmdlcy1kdXJpbmctdG9uaWdodHMtc3RhdGUtc3RhdGUvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">Gov. Evers to focus on workforce challenges during tonight’s State of the State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAW</font>"
+            ],
+            "source": [
+              {
+                "_": "WSAW",
+                "$": {
+                  "url": "https://www.wsaw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Gov. Tony Evers announces council dedicated to mental health - Green Bay Press Gazette"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5ncmVlbmJheXByZXNzZ2F6ZXR0ZS5jb20vc3RvcnkvbmV3cy9oZWFsdGgvMjAyNC8wMS8yNS9nb3YtdG9ueS1ldmVycy1hbm5vdW5jZXMtYS1uZXctY291bmNpbC1kZWRpY2F0ZWQtdG8tbWVudGFsLWhlYWx0aC1pbi13aXNjb25zaW4vNzIzMzcyNDYwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinQFodHRwczovL3d3dy5ncmVlbmJheXByZXNzZ2F6ZXR0ZS5jb20vc3RvcnkvbmV3cy9oZWFsdGgvMjAyNC8wMS8yNS9nb3YtdG9ueS1ldmVycy1hbm5vdW5jZXMtYS1uZXctY291bmNpbC1kZWRpY2F0ZWQtdG8tbWVudGFsLWhlYWx0aC1pbi13aXNjb25zaW4vNzIzMzcyNDYwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 11:10:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5ncmVlbmJheXByZXNzZ2F6ZXR0ZS5jb20vc3RvcnkvbmV3cy9oZWFsdGgvMjAyNC8wMS8yNS9nb3YtdG9ueS1ldmVycy1hbm5vdW5jZXMtYS1uZXctY291bmNpbC1kZWRpY2F0ZWQtdG8tbWVudGFsLWhlYWx0aC1pbi13aXNjb25zaW4vNzIzMzcyNDYwMDcv0gEA?oc=5\" target=\"_blank\">Wisconsin Gov. Tony Evers announces council dedicated to mental health</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Green Bay Press Gazette</font>"
+            ],
+            "source": [
+              {
+                "_": "Green Bay Press Gazette",
+                "$": {
+                  "url": "https://www.greenbaypressgazette.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers signs bills releasing UW System pay raises - Wisconsin Law Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd2lzbGF3am91cm5hbC5jb20vMjAyNC8wMi8wNS9nb3YtZXZlcnMtc2lnbnMtYmlsbHMtcmVsZWFzaW5nLXV3LXN5c3RlbS1wYXktcmFpc2VzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd2lzbGF3am91cm5hbC5jb20vMjAyNC8wMi8wNS9nb3YtZXZlcnMtc2lnbnMtYmlsbHMtcmVsZWFzaW5nLXV3LXN5c3RlbS1wYXktcmFpc2VzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:31:42 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd2lzbGF3am91cm5hbC5jb20vMjAyNC8wMi8wNS9nb3YtZXZlcnMtc2lnbnMtYmlsbHMtcmVsZWFzaW5nLXV3LXN5c3RlbS1wYXktcmFpc2VzL9IBAA?oc=5\" target=\"_blank\">Gov. Evers signs bills releasing UW System pay raises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Law Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Law Journal",
+                "$": {
+                  "url": "https://wislawjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers promises help for Chippewa Valley health care workers, congressman wants more - The Center Square"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vd2lzY29uc2luL2FydGljbGVfZDU5NTJhODAtYzRmZC0xMWVlLTkxNGMtMjc5OTEzMDUxZjA1Lmh0bWzSAV9odHRwczovL3d3dy50aGVjZW50ZXJzcXVhcmUuY29tL3dpc2NvbnNpbi9hcnRpY2xlX2Q1OTUyYTgwLWM0ZmQtMTFlZS05MTRjLTI3OTkxMzA1MWYwNS5hbXAuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vd2lzY29uc2luL2FydGljbGVfZDU5NTJhODAtYzRmZC0xMWVlLTkxNGMtMjc5OTEzMDUxZjA1Lmh0bWzSAV9odHRwczovL3d3dy50aGVjZW50ZXJzcXVhcmUuY29tL3dpc2NvbnNpbi9hcnRpY2xlX2Q1OTUyYTgwLWM0ZmQtMTFlZS05MTRjLTI3OTkxMzA1MWYwNS5hbXAuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:41:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRoZWNlbnRlcnNxdWFyZS5jb20vd2lzY29uc2luL2FydGljbGVfZDU5NTJhODAtYzRmZC0xMWVlLTkxNGMtMjc5OTEzMDUxZjA1Lmh0bWzSAV9odHRwczovL3d3dy50aGVjZW50ZXJzcXVhcmUuY29tL3dpc2NvbnNpbi9hcnRpY2xlX2Q1OTUyYTgwLWM0ZmQtMTFlZS05MTRjLTI3OTkxMzA1MWYwNS5hbXAuaHRtbA?oc=5\" target=\"_blank\">Evers promises help for Chippewa Valley health care workers, congressman wants more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>"
+            ],
+            "source": [
+              {
+                "_": "The Center Square",
+                "$": {
+                  "url": "https://www.thecentersquare.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Tony Evers labels Dean Phillips bid to get on Wisconsin presidential ballot 'ridiculous' - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMwL2V2ZXJzLWNhbGxzLWRlYW4tcGhpbGxpcHMtYmlkLXRvLWdldC1vbi1wcmltYXJ5LWJhbGxvdC1yaWRpY3Vsb3VzLzcyNDEwNzk1MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMwL2V2ZXJzLWNhbGxzLWRlYW4tcGhpbGxpcHMtYmlkLXRvLWdldC1vbi1wcmltYXJ5LWJhbGxvdC1yaWRpY3Vsb3VzLzcyNDEwNzk1MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 19:58:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMwL2V2ZXJzLWNhbGxzLWRlYW4tcGhpbGxpcHMtYmlkLXRvLWdldC1vbi1wcmltYXJ5LWJhbGxvdC1yaWRpY3Vsb3VzLzcyNDEwNzk1MDA3L9IBAA?oc=5\" target=\"_blank\">Gov. Tony Evers labels Dean Phillips bid to get on Wisconsin presidential ballot 'ridiculous'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Tony Evers vetoes Wisconsin Republican map proposal - Madison.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilQFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy93aXNjb25zaW4tdG9ueS1ldmVycy1yZWRpc3RyaWN0aW5nLXZldG8vYXJ0aWNsZV84MGVlZjQyYS03ZDlhLTExZWUtYTdkYi0zYmM4YTBkNjYzOTIuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilQFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy93aXNjb25zaW4tdG9ueS1ldmVycy1yZWRpc3RyaWN0aW5nLXZldG8vYXJ0aWNsZV84MGVlZjQyYS03ZDlhLTExZWUtYTdkYi0zYmM4YTBkNjYzOTIuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 11:40:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilQFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy93aXNjb25zaW4tdG9ueS1ldmVycy1yZWRpc3RyaWN0aW5nLXZldG8vYXJ0aWNsZV84MGVlZjQyYS03ZDlhLTExZWUtYTdkYi0zYmM4YTBkNjYzOTIuaHRtbNIBAA?oc=5\" target=\"_blank\">Gov. Tony Evers vetoes Wisconsin Republican map proposal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Madison.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Madison.com",
+                "$": {
+                  "url": "https://madison.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers talks hospital closures and workforce issues - La Crosse Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiyAFodHRwczovL2xhY3Jvc3NldHJpYnVuZS5jb20vbmV3cy9sb2NhbC9idXNpbmVzcy9oZWFsdGgtY2FyZS9nb3YtZXZlcnMtZnJ1c3RyYXRlZC1ieS1oYW5kbGluZy1vZi1oc2hzLWhvc3BpdGFsLWNsb3N1cmVzLXRvdXRzLWhlYWx0aC1jYXJlLXRhc2stZm9yY2UtaW4vYXJ0aWNsZV80MzdhMWM3NC1jMTE0LTExZWUtODY5MS1lM2Y3NjhjMDY5ODQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiyAFodHRwczovL2xhY3Jvc3NldHJpYnVuZS5jb20vbmV3cy9sb2NhbC9idXNpbmVzcy9oZWFsdGgtY2FyZS9nb3YtZXZlcnMtZnJ1c3RyYXRlZC1ieS1oYW5kbGluZy1vZi1oc2hzLWhvc3BpdGFsLWNsb3N1cmVzLXRvdXRzLWhlYWx0aC1jYXJlLXRhc2stZm9yY2UtaW4vYXJ0aWNsZV80MzdhMWM3NC1jMTE0LTExZWUtODY5MS1lM2Y3NjhjMDY5ODQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 18:45:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiyAFodHRwczovL2xhY3Jvc3NldHJpYnVuZS5jb20vbmV3cy9sb2NhbC9idXNpbmVzcy9oZWFsdGgtY2FyZS9nb3YtZXZlcnMtZnJ1c3RyYXRlZC1ieS1oYW5kbGluZy1vZi1oc2hzLWhvc3BpdGFsLWNsb3N1cmVzLXRvdXRzLWhlYWx0aC1jYXJlLXRhc2stZm9yY2UtaW4vYXJ0aWNsZV80MzdhMWM3NC1jMTE0LTExZWUtODY5MS1lM2Y3NjhjMDY5ODQuaHRtbNIBAA?oc=5\" target=\"_blank\">Gov. Evers talks hospital closures and workforce issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Crosse Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "La Crosse Tribune",
+                "$": {
+                  "url": "https://lacrossetribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Report: Wisconsin Gov. Tony Evers used alternate email under name of Hall of Fame pitcher - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3dpc2NvbnNpbi1nb3Zlcm5vci10b255LWV2ZXJzLXdhcnJlbi1zcGFobi1lbWFpbC_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbWlubmVzb3RhL25ld3Mvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtd2FycmVuLXNwYWhuLWVtYWlsLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3dpc2NvbnNpbi1nb3Zlcm5vci10b255LWV2ZXJzLXdhcnJlbi1zcGFobi1lbWFpbC_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbWlubmVzb3RhL25ld3Mvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtd2FycmVuLXNwYWhuLWVtYWlsLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3dpc2NvbnNpbi1nb3Zlcm5vci10b255LWV2ZXJzLXdhcnJlbi1zcGFobi1lbWFpbC_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbWlubmVzb3RhL25ld3Mvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtd2FycmVuLXNwYWhuLWVtYWlsLw?oc=5\" target=\"_blank\">Report: Wisconsin Gov. Tony Evers used alternate email under name of Hall of Fame pitcher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Congressman Calls Upon Governor to Address Impending Hospital Closures in Western Wisconsin - seehafernews.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5zZWVoYWZlcm5ld3MuY29tLzIwMjQvMDIvMDYvY29uZ3Jlc3NtYW4tY2FsbHMtdXBvbi1nb3Zlcm5vci10by1hZGRyZXNzLWltcGVuZGluZy1ob3NwaXRhbC1jbG9zdXJlcy1pbi13ZXN0ZXJuLXdpc2NvbnNpbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5zZWVoYWZlcm5ld3MuY29tLzIwMjQvMDIvMDYvY29uZ3Jlc3NtYW4tY2FsbHMtdXBvbi1nb3Zlcm5vci10by1hZGRyZXNzLWltcGVuZGluZy1ob3NwaXRhbC1jbG9zdXJlcy1pbi13ZXN0ZXJuLXdpc2NvbnNpbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:47:46 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5zZWVoYWZlcm5ld3MuY29tLzIwMjQvMDIvMDYvY29uZ3Jlc3NtYW4tY2FsbHMtdXBvbi1nb3Zlcm5vci10by1hZGRyZXNzLWltcGVuZGluZy1ob3NwaXRhbC1jbG9zdXJlcy1pbi13ZXN0ZXJuLXdpc2NvbnNpbi_SAQA?oc=5\" target=\"_blank\">Congressman Calls Upon Governor to Address Impending Hospital Closures in Western Wisconsin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">seehafernews.com</font>"
+            ],
+            "source": [
+              {
+                "_": "seehafernews.com",
+                "$": {
+                  "url": "https://www.seehafernews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers signs executive order to help healthcare workforce - WSAW"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LndzYXcuY29tLzIwMjQvMDEvMjkvZ292LWV2ZXJzLXNpZ25zLWV4ZWN1dGl2ZS1vcmRlci1oZWxwLWhlYWx0aGNhcmUtd29ya2ZvcmNlL9IBaWh0dHBzOi8vd3d3LndzYXcuY29tLzIwMjQvMDEvMjkvZ292LWV2ZXJzLXNpZ25zLWV4ZWN1dGl2ZS1vcmRlci1oZWxwLWhlYWx0aGNhcmUtd29ya2ZvcmNlLz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3LndzYXcuY29tLzIwMjQvMDEvMjkvZ292LWV2ZXJzLXNpZ25zLWV4ZWN1dGl2ZS1vcmRlci1oZWxwLWhlYWx0aGNhcmUtd29ya2ZvcmNlL9IBaWh0dHBzOi8vd3d3LndzYXcuY29tLzIwMjQvMDEvMjkvZ292LWV2ZXJzLXNpZ25zLWV4ZWN1dGl2ZS1vcmRlci1oZWxwLWhlYWx0aGNhcmUtd29ya2ZvcmNlLz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jan 2024 21:05:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LndzYXcuY29tLzIwMjQvMDEvMjkvZ292LWV2ZXJzLXNpZ25zLWV4ZWN1dGl2ZS1vcmRlci1oZWxwLWhlYWx0aGNhcmUtd29ya2ZvcmNlL9IBaWh0dHBzOi8vd3d3LndzYXcuY29tLzIwMjQvMDEvMjkvZ292LWV2ZXJzLXNpZ25zLWV4ZWN1dGl2ZS1vcmRlci1oZWxwLWhlYWx0aGNhcmUtd29ya2ZvcmNlLz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">Gov. Evers signs executive order to help healthcare workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAW</font>"
+            ],
+            "source": [
+              {
+                "_": "WSAW",
+                "$": {
+                  "url": "https://www.wsaw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Legal Battle Over UW System Pay Hikes Continues - WTAQ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3RhcS5jb20vMjAyNC8wMi8wNS9sZWdhbC1iYXR0bGUtb3Zlci11dy1zeXN0ZW0tcGF5LWhpa2VzLWNvbnRpbnVlcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3RhcS5jb20vMjAyNC8wMi8wNS9sZWdhbC1iYXR0bGUtb3Zlci11dy1zeXN0ZW0tcGF5LWhpa2VzLWNvbnRpbnVlcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 08:31:18 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3RhcS5jb20vMjAyNC8wMi8wNS9sZWdhbC1iYXR0bGUtb3Zlci11dy1zeXN0ZW0tcGF5LWhpa2VzLWNvbnRpbnVlcy_SAQA?oc=5\" target=\"_blank\">Legal Battle Over UW System Pay Hikes Continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTAQ</font>"
+            ],
+            "source": [
+              {
+                "_": "WTAQ",
+                "$": {
+                  "url": "https://wtaq.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin's Democratic governor vetoes Republican map as another redistricting court fight looms - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1yZWRpc3RyaWN0aW5nLWNvbmdyZXNzLTRkNjkxMWRkYzU5MTRkOTI2MTFiOWQ4OTgxODU4MmNh0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1yZWRpc3RyaWN0aW5nLWNvbmdyZXNzLTRkNjkxMWRkYzU5MTRkOTI2MTFiOWQ4OTgxODU4MmNh0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 21:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1yZWRpc3RyaWN0aW5nLWNvbmdyZXNzLTRkNjkxMWRkYzU5MTRkOTI2MTFiOWQ4OTgxODU4MmNh0gEA?oc=5\" target=\"_blank\">Wisconsin's Democratic governor vetoes Republican map as another redistricting court fight looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tony Evers bypasses GOP on Pelican River Forest conservation project - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzIzL3RvbnktZXZlcnMtYnlwYXNzZXMtZ29wLW9uLXBlbGljYW4tcml2ZXItZm9yZXN0LWNvbnNlcnZhdGlvbi1wcm9qZWN0LzcyMTg4NzAyMDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzIzL3RvbnktZXZlcnMtYnlwYXNzZXMtZ29wLW9uLXBlbGljYW4tcml2ZXItZm9yZXN0LWNvbnNlcnZhdGlvbi1wcm9qZWN0LzcyMTg4NzAyMDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 02:28:26 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzIzL3RvbnktZXZlcnMtYnlwYXNzZXMtZ29wLW9uLXBlbGljYW4tcml2ZXItZm9yZXN0LWNvbnNlcnZhdGlvbi1wcm9qZWN0LzcyMTg4NzAyMDA3L9IBAA?oc=5\" target=\"_blank\">Tony Evers bypasses GOP on Pelican River Forest conservation project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers discusses future of CV healthcare after closures with community leaders - Leader-Telegram"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5sZWFkZXJ0ZWxlZ3JhbS5jb20vbmV3cy9sb2NhbC9nb3YtZXZlcnMtZGlzY3Vzc2VzLWZ1dHVyZS1vZi1jdi1oZWFsdGhjYXJlLWFmdGVyLWNsb3N1cmVzLXdpdGgtY29tbXVuaXR5LWxlYWRlcnMvYXJ0aWNsZV8wNDJkMmIyNi1jNDUwLTExZWUtOWNjOC0yNzVmNmViMjQxM2QuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirQFodHRwczovL3d3dy5sZWFkZXJ0ZWxlZ3JhbS5jb20vbmV3cy9sb2NhbC9nb3YtZXZlcnMtZGlzY3Vzc2VzLWZ1dHVyZS1vZi1jdi1oZWFsdGhjYXJlLWFmdGVyLWNsb3N1cmVzLXdpdGgtY29tbXVuaXR5LWxlYWRlcnMvYXJ0aWNsZV8wNDJkMmIyNi1jNDUwLTExZWUtOWNjOC0yNzVmNmViMjQxM2QuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 21:30:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5sZWFkZXJ0ZWxlZ3JhbS5jb20vbmV3cy9sb2NhbC9nb3YtZXZlcnMtZGlzY3Vzc2VzLWZ1dHVyZS1vZi1jdi1oZWFsdGhjYXJlLWFmdGVyLWNsb3N1cmVzLXdpdGgtY29tbXVuaXR5LWxlYWRlcnMvYXJ0aWNsZV8wNDJkMmIyNi1jNDUwLTExZWUtOWNjOC0yNzVmNmViMjQxM2QuaHRtbNIBAA?oc=5\" target=\"_blank\">Gov. Evers discusses future of CV healthcare after closures with community leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Leader-Telegram</font>"
+            ],
+            "source": [
+              {
+                "_": "Leader-Telegram",
+                "$": {
+                  "url": "https://www.leadertelegram.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Capitol Report: State's largest conservation deal ever occurs via a work-around by Gov. Tony Evers - wausaupilotandreview.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3dhdXNhdXBpbG90YW5kcmV2aWV3LmNvbS8yMDI0LzAyLzAzL3RoZS1jYXBpdG9sLXJlcG9ydC1zdGF0ZXMtbGFyZ2VzdC1jb25zZXJ2YXRpb24tZGVhbC1ldmVyLW9jY3Vycy12aWEtYS13b3JrLWFyb3VuZC1ieS1nb3YtdG9ueS1ldmVycy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL3dhdXNhdXBpbG90YW5kcmV2aWV3LmNvbS8yMDI0LzAyLzAzL3RoZS1jYXBpdG9sLXJlcG9ydC1zdGF0ZXMtbGFyZ2VzdC1jb25zZXJ2YXRpb24tZGVhbC1ldmVyLW9jY3Vycy12aWEtYS13b3JrLWFyb3VuZC1ieS1nb3YtdG9ueS1ldmVycy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 14:45:14 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3dhdXNhdXBpbG90YW5kcmV2aWV3LmNvbS8yMDI0LzAyLzAzL3RoZS1jYXBpdG9sLXJlcG9ydC1zdGF0ZXMtbGFyZ2VzdC1jb25zZXJ2YXRpb24tZGVhbC1ldmVyLW9jY3Vycy12aWEtYS13b3JrLWFyb3VuZC1ieS1nb3YtdG9ueS1ldmVycy_SAQA?oc=5\" target=\"_blank\">The Capitol Report: State's largest conservation deal ever occurs via a work-around by Gov. Tony Evers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wausaupilotandreview.com</font>"
+            ],
+            "source": [
+              {
+                "_": "wausaupilotandreview.com",
+                "$": {
+                  "url": "https://wausaupilotandreview.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers approves raises for Universities of Wisconsin building trades employees - Fox11online.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMizwFodHRwczovL2ZveDExb25saW5lLmNvbS9uZXdzL3BvbGl0aWNhbC9nb3YtZXZlcnMtYXBwcm92ZXMtcmFpc2VzLWZvci11bml2ZXJzaXRpZXMtb2Ytd2lzY29uc2luLWJ1aWxkaW5nLXRyYWRlcy1lbXBsb3llZXMtc2VuYXRlLWJpbGxzLWNyYWZ0cy1jb2xsZWN0aXZlLWJhcmdhaW5pbmctbWFkaXNvbi13YWdlLWluY3JlYXNlLXJlcHVibGljYW4tbGVnaXNsYXR1cmXSAdMBaHR0cHM6Ly9mb3gxMW9ubGluZS5jb20vYW1wL25ld3MvcG9saXRpY2FsL2dvdi1ldmVycy1hcHByb3Zlcy1yYWlzZXMtZm9yLXVuaXZlcnNpdGllcy1vZi13aXNjb25zaW4tYnVpbGRpbmctdHJhZGVzLWVtcGxveWVlcy1zZW5hdGUtYmlsbHMtY3JhZnRzLWNvbGxlY3RpdmUtYmFyZ2FpbmluZy1tYWRpc29uLXdhZ2UtaW5jcmVhc2UtcmVwdWJsaWNhbi1sZWdpc2xhdHVyZQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMizwFodHRwczovL2ZveDExb25saW5lLmNvbS9uZXdzL3BvbGl0aWNhbC9nb3YtZXZlcnMtYXBwcm92ZXMtcmFpc2VzLWZvci11bml2ZXJzaXRpZXMtb2Ytd2lzY29uc2luLWJ1aWxkaW5nLXRyYWRlcy1lbXBsb3llZXMtc2VuYXRlLWJpbGxzLWNyYWZ0cy1jb2xsZWN0aXZlLWJhcmdhaW5pbmctbWFkaXNvbi13YWdlLWluY3JlYXNlLXJlcHVibGljYW4tbGVnaXNsYXR1cmXSAdMBaHR0cHM6Ly9mb3gxMW9ubGluZS5jb20vYW1wL25ld3MvcG9saXRpY2FsL2dvdi1ldmVycy1hcHByb3Zlcy1yYWlzZXMtZm9yLXVuaXZlcnNpdGllcy1vZi13aXNjb25zaW4tYnVpbGRpbmctdHJhZGVzLWVtcGxveWVlcy1zZW5hdGUtYmlsbHMtY3JhZnRzLWNvbGxlY3RpdmUtYmFyZ2FpbmluZy1tYWRpc29uLXdhZ2UtaW5jcmVhc2UtcmVwdWJsaWNhbi1sZWdpc2xhdHVyZQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 23:46:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMizwFodHRwczovL2ZveDExb25saW5lLmNvbS9uZXdzL3BvbGl0aWNhbC9nb3YtZXZlcnMtYXBwcm92ZXMtcmFpc2VzLWZvci11bml2ZXJzaXRpZXMtb2Ytd2lzY29uc2luLWJ1aWxkaW5nLXRyYWRlcy1lbXBsb3llZXMtc2VuYXRlLWJpbGxzLWNyYWZ0cy1jb2xsZWN0aXZlLWJhcmdhaW5pbmctbWFkaXNvbi13YWdlLWluY3JlYXNlLXJlcHVibGljYW4tbGVnaXNsYXR1cmXSAdMBaHR0cHM6Ly9mb3gxMW9ubGluZS5jb20vYW1wL25ld3MvcG9saXRpY2FsL2dvdi1ldmVycy1hcHByb3Zlcy1yYWlzZXMtZm9yLXVuaXZlcnNpdGllcy1vZi13aXNjb25zaW4tYnVpbGRpbmctdHJhZGVzLWVtcGxveWVlcy1zZW5hdGUtYmlsbHMtY3JhZnRzLWNvbGxlY3RpdmUtYmFyZ2FpbmluZy1tYWRpc29uLXdhZ2UtaW5jcmVhc2UtcmVwdWJsaWNhbi1sZWdpc2xhdHVyZQ?oc=5\" target=\"_blank\">Gov. Evers approves raises for Universities of Wisconsin building trades employees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox11online.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox11online.com",
+                "$": {
+                  "url": "https://fox11online.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tony Evers secures federal grant for largest land conservation purchase in Wisconsin history - Madison.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqQFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy93aXNjb25zaW4tdG9ueS1ldmVycy1sYW5kLWNvbnNlcnZhdGlvbi1wZWxpY2FuLXJpdmVyLWZvcmVzdC9hcnRpY2xlX2Q3M2RjYmYyLWJhYjMtMTFlZS1iNzRkLTEzNWIwYTM3MWRlMS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqQFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy93aXNjb25zaW4tdG9ueS1ldmVycy1sYW5kLWNvbnNlcnZhdGlvbi1wZWxpY2FuLXJpdmVyLWZvcmVzdC9hcnRpY2xlX2Q3M2RjYmYyLWJhYjMtMTFlZS1iNzRkLTEzNWIwYTM3MWRlMS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqQFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy93aXNjb25zaW4tdG9ueS1ldmVycy1sYW5kLWNvbnNlcnZhdGlvbi1wZWxpY2FuLXJpdmVyLWZvcmVzdC9hcnRpY2xlX2Q3M2RjYmYyLWJhYjMtMTFlZS1iNzRkLTEzNWIwYTM3MWRlMS5odG1s0gEA?oc=5\" target=\"_blank\">Tony Evers secures federal grant for largest land conservation purchase in Wisconsin history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Madison.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Madison.com",
+                "$": {
+                  "url": "https://madison.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin governor vetoes $2 billion tax cut, calls Republican plan 'completely unserious' - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2V2ZXJzLXZldG8tc3BlY2lhbC1zZXNzaW9uLXRheC1jdXQtZGVpLWJhOWI1MTVkN2FjZGM2NGU4ZmRhYzE5NGFlYjRiYzIy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2V2ZXJzLXZldG8tc3BlY2lhbC1zZXNzaW9uLXRheC1jdXQtZGVpLWJhOWI1MTVkN2FjZGM2NGU4ZmRhYzE5NGFlYjRiYzIy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2V2ZXJzLXZldG8tc3BlY2lhbC1zZXNzaW9uLXRheC1jdXQtZGVpLWJhOWI1MTVkN2FjZGM2NGU4ZmRhYzE5NGFlYjRiYzIy0gEA?oc=5\" target=\"_blank\">Wisconsin governor vetoes $2 billion tax cut, calls Republican plan 'completely unserious'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Tony Evers should support GOP abortion compromise -- Vera Terec - Madison.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL21hZGlzb24uY29tL29waW5pb24vbGV0dGVycy9wb2xpdGljYWwtcGFydGllcy1jb21wcm9taXNlLWV2ZXJzLWFib3J0aW9uL2FydGljbGVfZTFmZjMyYWUtYmVjMC0xMWVlLWIzZmQtOGY2ZGYxNDJlNTk4Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL21hZGlzb24uY29tL29waW5pb24vbGV0dGVycy9wb2xpdGljYWwtcGFydGllcy1jb21wcm9taXNlLWV2ZXJzLWFib3J0aW9uL2FydGljbGVfZTFmZjMyYWUtYmVjMC0xMWVlLWIzZmQtOGY2ZGYxNDJlNTk4Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 11:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL21hZGlzb24uY29tL29waW5pb24vbGV0dGVycy9wb2xpdGljYWwtcGFydGllcy1jb21wcm9taXNlLWV2ZXJzLWFib3J0aW9uL2FydGljbGVfZTFmZjMyYWUtYmVjMC0xMWVlLWIzZmQtOGY2ZGYxNDJlNTk4Lmh0bWzSAQA?oc=5\" target=\"_blank\">Gov. Tony Evers should support GOP abortion compromise -- Vera Terec</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Madison.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Madison.com",
+                "$": {
+                  "url": "https://madison.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Governor Evers Signs Five Bills Expanding Dental Healthcare - seehafernews.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnNlZWhhZmVybmV3cy5jb20vMjAyNC8wMi8wMS9nb3Zlcm5vci1ldmVycy1zaWducy1maXZlLWJpbGxzLWV4cGFuZGluZy1kZW50YWwtaGVhbHRoY2FyZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LnNlZWhhZmVybmV3cy5jb20vMjAyNC8wMi8wMS9nb3Zlcm5vci1ldmVycy1zaWducy1maXZlLWJpbGxzLWV4cGFuZGluZy1kZW50YWwtaGVhbHRoY2FyZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 18:07:41 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnNlZWhhZmVybmV3cy5jb20vMjAyNC8wMi8wMS9nb3Zlcm5vci1ldmVycy1zaWducy1maXZlLWJpbGxzLWV4cGFuZGluZy1kZW50YWwtaGVhbHRoY2FyZS_SAQA?oc=5\" target=\"_blank\">Governor Evers Signs Five Bills Expanding Dental Healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">seehafernews.com</font>"
+            ],
+            "source": [
+              {
+                "_": "seehafernews.com",
+                "$": {
+                  "url": "https://www.seehafernews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans Seek To Limit Governor's Veto Power - Urban Milwaukee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdXJiYW5taWx3YXVrZWUuY29tLzIwMjQvMDIvMDEvcmVwdWJsaWNhbi1zZWVrLXRvLWxpbWl0LWdvdmVybm9ycy12ZXRvLXBvd2VyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vdXJiYW5taWx3YXVrZWUuY29tLzIwMjQvMDIvMDEvcmVwdWJsaWNhbi1zZWVrLXRvLWxpbWl0LWdvdmVybm9ycy12ZXRvLXBvd2VyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 21:39:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdXJiYW5taWx3YXVrZWUuY29tLzIwMjQvMDIvMDEvcmVwdWJsaWNhbi1zZWVrLXRvLWxpbWl0LWdvdmVybm9ycy12ZXRvLXBvd2VyL9IBAA?oc=5\" target=\"_blank\">Republicans Seek To Limit Governor's Veto Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urban Milwaukee</font>"
+            ],
+            "source": [
+              {
+                "_": "Urban Milwaukee",
+                "$": {
+                  "url": "https://urbanmilwaukee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Here's how to watch Gov. Tony Evers' State of the State - Madison.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy90b255LWV2ZXJzLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzL2FydGljbGVfZDY5OWU0Y2MtYmExZi0xMWVlLThhNjctMTdkYTA1MGE2ODk3Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy90b255LWV2ZXJzLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzL2FydGljbGVfZDY5OWU0Y2MtYmExZi0xMWVlLThhNjctMTdkYTA1MGE2ODk3Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy90b255LWV2ZXJzLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzL2FydGljbGVfZDY5OWU0Y2MtYmExZi0xMWVlLThhNjctMTdkYTA1MGE2ODk3Lmh0bWzSAQA?oc=5\" target=\"_blank\">Here's how to watch Gov. Tony Evers' State of the State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Madison.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Madison.com",
+                "$": {
+                  "url": "https://madison.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bice: Sen. Lena Taylor appointed Milwaukee County judge by Gov. Tony Evers - Milwaukee Journal Sentinel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzI2L3Nlbi1sZW5hLXRheWxvci1leHBlY3RlZC10by1iZS1hcHBvaW50ZWQtbWlsd2F1a2VlLWNvdW50eS1qdWRnZS83MjM2Mzc5MzAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzI2L3Nlbi1sZW5hLXRheWxvci1leHBlY3RlZC10by1iZS1hcHBvaW50ZWQtbWlsd2F1a2VlLWNvdW50eS1qdWRnZS83MjM2Mzc5MzAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzI2L3Nlbi1sZW5hLXRheWxvci1leHBlY3RlZC10by1iZS1hcHBvaW50ZWQtbWlsd2F1a2VlLWNvdW50eS1qdWRnZS83MjM2Mzc5MzAwNy_SAQA?oc=5\" target=\"_blank\">Bice: Sen. Lena Taylor appointed Milwaukee County judge by Gov. Tony Evers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>"
+            ],
+            "source": [
+              {
+                "_": "Milwaukee Journal Sentinel",
+                "$": {
+                  "url": "https://www.jsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Senate Republicans amend Tony Evers' maps - Madison.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirQFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy93aXNjb25zaW4tc2VuYXRlLW1hcHMtcmVkaXN0cmljdGluZy1ldmVycy1sZWdpc2xhdHVyZS1kaXN0cmljdHMvYXJ0aWNsZV8zNDc3NDA3Mi1iOTdhLTExZWUtYWMzMC1mNzQ0N2M4OTgwZGYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirQFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy93aXNjb25zaW4tc2VuYXRlLW1hcHMtcmVkaXN0cmljdGluZy1ldmVycy1sZWdpc2xhdHVyZS1kaXN0cmljdHMvYXJ0aWNsZV8zNDc3NDA3Mi1iOTdhLTExZWUtYWMzMC1mNzQ0N2M4OTgwZGYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirQFodHRwczovL21hZGlzb24uY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy93aXNjb25zaW4tc2VuYXRlLW1hcHMtcmVkaXN0cmljdGluZy1ldmVycy1sZWdpc2xhdHVyZS1kaXN0cmljdHMvYXJ0aWNsZV8zNDc3NDA3Mi1iOTdhLTExZWUtYWMzMC1mNzQ0N2M4OTgwZGYuaHRtbNIBAA?oc=5\" target=\"_blank\">Wisconsin Senate Republicans amend Tony Evers' maps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Madison.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Madison.com",
+                "$": {
+                  "url": "https://madison.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers signs off on raises for Universities of Wisconsin employees - Channel3000.com - WISC-TV3"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5jaGFubmVsMzAwMC5jb20vbmV3cy9ldmVycy1zaWducy1vZmYtb24tcmFpc2VzLWZvci11bml2ZXJzaXRpZXMtb2Ytd2lzY29uc2luLWVtcGxveWVlcy9hcnRpY2xlXzBiZTU4ZGNlLWMxZmItMTFlZS1hMDRmLTNmMjZmOGQ5MTZmNS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilAFodHRwczovL3d3dy5jaGFubmVsMzAwMC5jb20vbmV3cy9ldmVycy1zaWducy1vZmYtb24tcmFpc2VzLWZvci11bml2ZXJzaXRpZXMtb2Ytd2lzY29uc2luLWVtcGxveWVlcy9hcnRpY2xlXzBiZTU4ZGNlLWMxZmItMTFlZS1hMDRmLTNmMjZmOGQ5MTZmNS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 18:44:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5jaGFubmVsMzAwMC5jb20vbmV3cy9ldmVycy1zaWducy1vZmYtb24tcmFpc2VzLWZvci11bml2ZXJzaXRpZXMtb2Ytd2lzY29uc2luLWVtcGxveWVlcy9hcnRpY2xlXzBiZTU4ZGNlLWMxZmItMTFlZS1hMDRmLTNmMjZmOGQ5MTZmNS5odG1s0gEA?oc=5\" target=\"_blank\">Evers signs off on raises for Universities of Wisconsin employees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Channel3000.com - WISC-TV3</font>"
+            ],
+            "source": [
+              {
+                "_": "Channel3000.com - WISC-TV3",
+                "$": {
+                  "url": "https://www.channel3000.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Year of the Worker in Wisconsin - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vd2kvbWlsd2F1a2VlL25ld3MvMjAyNC8wMS8yNC95ZWFyLW9mLXRoZS13b3JrZXItaW4td2lzY29uc2lu0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vd2kvbWlsd2F1a2VlL25ld3MvMjAyNC8wMS8yNC95ZWFyLW9mLXRoZS13b3JrZXItaW4td2lzY29uc2lu0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 05:28:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vd2kvbWlsd2F1a2VlL25ld3MvMjAyNC8wMS8yNC95ZWFyLW9mLXRoZS13b3JrZXItaW4td2lzY29uc2lu0gEA?oc=5\" target=\"_blank\">Year of the Worker in Wisconsin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Supreme Court agrees to hear lawsuit on governor's, Legislature's powers - PBS Wisconsin"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRvLWhlYXItbGF3c3VpdC1vbi1nb3Zlcm5vcnMtbGVnaXNsYXR1cmVzLXBvd2Vycy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRvLWhlYXItbGF3c3VpdC1vbi1nb3Zlcm5vcnMtbGVnaXNsYXR1cmVzLXBvd2Vycy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 02:06:54 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRvLWhlYXItbGF3c3VpdC1vbi1nb3Zlcm5vcnMtbGVnaXNsYXR1cmVzLXBvd2Vycy_SAQA?oc=5\" target=\"_blank\">Wisconsin Supreme Court agrees to hear lawsuit on governor's, Legislature's powers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS Wisconsin</font>"
+            ],
+            "source": [
+              {
+                "_": "PBS Wisconsin",
+                "$": {
+                  "url": "https://pbswisconsin.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Four takeaways from Tony Evers' state of the state address - The Capital Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL2NhcHRpbWVzLmNvbS9uZXdzL2dvdmVybm1lbnQvZm91ci10YWtlYXdheXMtZnJvbS10b255LWV2ZXJzLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzL2FydGljbGVfYzdlYWVlMTYtYmE1Ny0xMWVlLWJhMTItNTdlN2VkNTM4NDMyLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL2NhcHRpbWVzLmNvbS9uZXdzL2dvdmVybm1lbnQvZm91ci10YWtlYXdheXMtZnJvbS10b255LWV2ZXJzLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzL2FydGljbGVfYzdlYWVlMTYtYmE1Ny0xMWVlLWJhMTItNTdlN2VkNTM4NDMyLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 02:15:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL2NhcHRpbWVzLmNvbS9uZXdzL2dvdmVybm1lbnQvZm91ci10YWtlYXdheXMtZnJvbS10b255LWV2ZXJzLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzL2FydGljbGVfYzdlYWVlMTYtYmE1Ny0xMWVlLWJhMTItNTdlN2VkNTM4NDMyLmh0bWzSAQA?oc=5\" target=\"_blank\">Four takeaways from Tony Evers' state of the state address</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Capital Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Capital Times",
+                "$": {
+                  "url": "https://captimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Tony Evers signs Brewers stadium bill, ensuring team stays in city until 2050 - Wisconsin Public Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lndwci5vcmcvcG9saXRpY3MvZ292LXRvbnktZXZlcnMtc2lnbnMtYnJld2Vycy1zdGFkaXVtLWJpbGwtZW5zdXJpbmctdGVhbS1zdGF5cy1jaXR5LXVudGlsLTIwNTDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3Lndwci5vcmcvcG9saXRpY3MvZ292LXRvbnktZXZlcnMtc2lnbnMtYnJld2Vycy1zdGFkaXVtLWJpbGwtZW5zdXJpbmctdGVhbS1zdGF5cy1jaXR5LXVudGlsLTIwNTDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lndwci5vcmcvcG9saXRpY3MvZ292LXRvbnktZXZlcnMtc2lnbnMtYnJld2Vycy1zdGFkaXVtLWJpbGwtZW5zdXJpbmctdGVhbS1zdGF5cy1jaXR5LXVudGlsLTIwNTDSAQA?oc=5\" target=\"_blank\">Gov. Tony Evers signs Brewers stadium bill, ensuring team stays in city until 2050</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Public Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Public Radio",
+                "$": {
+                  "url": "https://www.wpr.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Gov. Tony Evers used email with baseball pitcher's name - WisconsinWatch.org"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjMvMTEvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtZW1haWwtYmFzZWJhbGwtd2FycmVuLXNwYWhuL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjMvMTEvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtZW1haWwtYmFzZWJhbGwtd2FycmVuLXNwYWhuL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd2lzY29uc2lud2F0Y2gub3JnLzIwMjMvMTEvd2lzY29uc2luLWdvdmVybm9yLXRvbnktZXZlcnMtZW1haWwtYmFzZWJhbGwtd2FycmVuLXNwYWhuL9IBAA?oc=5\" target=\"_blank\">Wisconsin Gov. Tony Evers used email with baseball pitcher's name</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WisconsinWatch.org</font>"
+            ],
+            "source": [
+              {
+                "_": "WisconsinWatch.org",
+                "$": {
+                  "url": "https://wisconsinwatch.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin governor signs off on $500 million plan to fund repairs and upgrades at Brewers stadium - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21pbHdhdWtlZS1icmV3ZXJzLWFtZXJpY2FuLWZhbWlseS1maWVsZC1yZXBhaXJzLWM0YTYwY2RkYzkwMWZlMWQ4ZDVlOGE0MDE3NDgzN2Fh0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21pbHdhdWtlZS1icmV3ZXJzLWFtZXJpY2FuLWZhbWlseS1maWVsZC1yZXBhaXJzLWM0YTYwY2RkYzkwMWZlMWQ4ZDVlOGE0MDE3NDgzN2Fh0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21pbHdhdWtlZS1icmV3ZXJzLWFtZXJpY2FuLWZhbWlseS1maWVsZC1yZXBhaXJzLWM0YTYwY2RkYzkwMWZlMWQ4ZDVlOGE0MDE3NDgzN2Fh0gEA?oc=5\" target=\"_blank\">Wisconsin governor signs off on $500 million plan to fund repairs and upgrades at Brewers stadium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers vetoes GOP bill that would ban gender affirming medical care for minors - Wisconsin Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tL2JyaWVmL2dvdi1ldmVycy12ZXRvZXMtZ29wLWJpbGwtdGhhdC13b3VsZC1iYW4tZ2VuZGVyLWFmZmlybWluZy1tZWRpY2FsLWNhcmUtZm9yLW1pbm9ycy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tL2JyaWVmL2dvdi1ldmVycy12ZXRvZXMtZ29wLWJpbGwtdGhhdC13b3VsZC1iYW4tZ2VuZGVyLWFmZmlybWluZy1tZWRpY2FsLWNhcmUtZm9yLW1pbm9ycy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tL2JyaWVmL2dvdi1ldmVycy12ZXRvZXMtZ29wLWJpbGwtdGhhdC13b3VsZC1iYW4tZ2VuZGVyLWFmZmlybWluZy1tZWRpY2FsLWNhcmUtZm9yLW1pbm9ycy_SAQA?oc=5\" target=\"_blank\">Gov. Evers vetoes GOP bill that would ban gender affirming medical care for minors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Examiner",
+                "$": {
+                  "url": "https://wisconsinexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers conducted state business in emails using alias of Hall of Fame pitcher - Wisconsin Public Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndwci5vcmcvcG9saXRpY3MvZXZlcnMtY29uZHVjdGVkLXN0YXRlLWJ1c2luZXNzLWVtYWlscy11c2luZy1hbGlhcy1oYWxsLWZhbWUtcGl0Y2hlctIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lndwci5vcmcvcG9saXRpY3MvZXZlcnMtY29uZHVjdGVkLXN0YXRlLWJ1c2luZXNzLWVtYWlscy11c2luZy1hbGlhcy1oYWxsLWZhbWUtcGl0Y2hlctIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndwci5vcmcvcG9saXRpY3MvZXZlcnMtY29uZHVjdGVkLXN0YXRlLWJ1c2luZXNzLWVtYWlscy11c2luZy1hbGlhcy1oYWxsLWZhbWUtcGl0Y2hlctIBAA?oc=5\" target=\"_blank\">Evers conducted state business in emails using alias of Hall of Fame pitcher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Public Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Public Radio",
+                "$": {
+                  "url": "https://www.wpr.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Tony Evers silent on new Republican tax-cut plan - Isthmus"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vaXN0aG11cy5jb20vbmV3cy9uZXdzL2dvdi10b255LWV2ZXJzLXNpbGVudC1vbi1uZXctcmVwdWJsaWNhbi10YXgtY3V0LXBsYW4v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vaXN0aG11cy5jb20vbmV3cy9uZXdzL2dvdi10b255LWV2ZXJzLXNpbGVudC1vbi1uZXctcmVwdWJsaWNhbi10YXgtY3V0LXBsYW4v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jan 2024 21:00:30 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vaXN0aG11cy5jb20vbmV3cy9uZXdzL2dvdi10b255LWV2ZXJzLXNpbGVudC1vbi1uZXctcmVwdWJsaWNhbi10YXgtY3V0LXBsYW4v0gEA?oc=5\" target=\"_blank\">Gov. Tony Evers silent on new Republican tax-cut plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Isthmus</font>"
+            ],
+            "source": [
+              {
+                "_": "Isthmus",
+                "$": {
+                  "url": "https://isthmus.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans react to Evers lawsuit over joint committees - PBS Wisconsin"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vcmVwdWJsaWNhbnMtcmVhY3QtdG8tZXZlcnMtbGF3c3VpdC1vdmVyLWpvaW50LWNvbW1pdHRlZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vcmVwdWJsaWNhbnMtcmVhY3QtdG8tZXZlcnMtbGF3c3VpdC1vdmVyLWpvaW50LWNvbW1pdHRlZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vcmVwdWJsaWNhbnMtcmVhY3QtdG8tZXZlcnMtbGF3c3VpdC1vdmVyLWpvaW50LWNvbW1pdHRlZXMv0gEA?oc=5\" target=\"_blank\">Republicans react to Evers lawsuit over joint committees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS Wisconsin</font>"
+            ],
+            "source": [
+              {
+                "_": "PBS Wisconsin",
+                "$": {
+                  "url": "https://pbswisconsin.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers says he's concerned GOP's Iowa-style redistricting proposal wouldn't guarantee nonpartisan process - WisPolitics.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy53aXNwb2xpdGljcy5jb20vMjAyNC9ldmVycy1zYXlzLWhlcy1jb25jZXJuZWQtZ29wcy1pb3dhLXN0eWxlLXJlZGlzdHJpY3RpbmctcHJvcG9zYWwtd291bGRudC1ndWFyYW50ZWUtbm9ucGFydGlzYW4tcHJvY2Vzcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy53aXNwb2xpdGljcy5jb20vMjAyNC9ldmVycy1zYXlzLWhlcy1jb25jZXJuZWQtZ29wcy1pb3dhLXN0eWxlLXJlZGlzdHJpY3RpbmctcHJvcG9zYWwtd291bGRudC1ndWFyYW50ZWUtbm9ucGFydGlzYW4tcHJvY2Vzcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy53aXNwb2xpdGljcy5jb20vMjAyNC9ldmVycy1zYXlzLWhlcy1jb25jZXJuZWQtZ29wcy1pb3dhLXN0eWxlLXJlZGlzdHJpY3RpbmctcHJvcG9zYWwtd291bGRudC1ndWFyYW50ZWUtbm9ucGFydGlzYW4tcHJvY2Vzcy_SAQA?oc=5\" target=\"_blank\">Evers says he's concerned GOP's Iowa-style redistricting proposal wouldn't guarantee nonpartisan process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WisPolitics.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WisPolitics.com",
+                "$": {
+                  "url": "https://www.wispolitics.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Republicans reject eight Evers appointees, including majority of environmental board - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1sZWdpc2xhdHVyZS1nb3Zlcm5vci1hcHBvaW50bWVudHMtcmVqZWN0ZWQtM2Q4ZmU3NWFmYmIxNGIxM2M3OGM3YzJiMjQ3MDRlOGHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1sZWdpc2xhdHVyZS1nb3Zlcm5vci1hcHBvaW50bWVudHMtcmVqZWN0ZWQtM2Q4ZmU3NWFmYmIxNGIxM2M3OGM3YzJiMjQ3MDRlOGHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 17 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1sZWdpc2xhdHVyZS1nb3Zlcm5vci1hcHBvaW50bWVudHMtcmVqZWN0ZWQtM2Q4ZmU3NWFmYmIxNGIxM2M3OGM3YzJiMjQ3MDRlOGHSAQA?oc=5\" target=\"_blank\">Wisconsin Republicans reject eight Evers appointees, including majority of environmental board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin 2024 State of the State highlights from Evers - PBS Wisconsin"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vd2lzY29uc2luLTIwMjQtc3RhdGUtb2YtdGhlLXN0YXRlLWhpZ2hsaWdodHMtZnJvbS1ldmVycy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vd2lzY29uc2luLTIwMjQtc3RhdGUtb2YtdGhlLXN0YXRlLWhpZ2hsaWdodHMtZnJvbS1ldmVycy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vcGJzd2lzY29uc2luLm9yZy9uZXdzLWl0ZW0vd2lzY29uc2luLTIwMjQtc3RhdGUtb2YtdGhlLXN0YXRlLWhpZ2hsaWdodHMtZnJvbS1ldmVycy_SAQA?oc=5\" target=\"_blank\">Wisconsin 2024 State of the State highlights from Evers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS Wisconsin</font>"
+            ],
+            "source": [
+              {
+                "_": "PBS Wisconsin",
+                "$": {
+                  "url": "https://pbswisconsin.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Supreme Court agrees to hear governor’s lawsuit against GOP-controlled Legislature - WWTI - InformNNY.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5pbmZvcm1ubnkuY29tL25ld3MvcG9saXRpY3MvYXAtd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRvLWhlYXItZ292ZXJub3JzLWxhd3N1aXQtYWdhaW5zdC1nb3AtY29udHJvbGxlZC1sZWdpc2xhdHVyZS_SAYsBaHR0cHM6Ly93d3cuaW5mb3Jtbm55LmNvbS9uZXdzL3BvbGl0aWNzL2FwLXdpc2NvbnNpbi1zdXByZW1lLWNvdXJ0LWFncmVlcy10by1oZWFyLWdvdmVybm9ycy1sYXdzdWl0LWFnYWluc3QtZ29wLWNvbnRyb2xsZWQtbGVnaXNsYXR1cmUvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5pbmZvcm1ubnkuY29tL25ld3MvcG9saXRpY3MvYXAtd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRvLWhlYXItZ292ZXJub3JzLWxhd3N1aXQtYWdhaW5zdC1nb3AtY29udHJvbGxlZC1sZWdpc2xhdHVyZS_SAYsBaHR0cHM6Ly93d3cuaW5mb3Jtbm55LmNvbS9uZXdzL3BvbGl0aWNzL2FwLXdpc2NvbnNpbi1zdXByZW1lLWNvdXJ0LWFncmVlcy10by1oZWFyLWdvdmVybm9ycy1sYXdzdWl0LWFnYWluc3QtZ29wLWNvbnRyb2xsZWQtbGVnaXNsYXR1cmUvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 22:00:57 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5pbmZvcm1ubnkuY29tL25ld3MvcG9saXRpY3MvYXAtd2lzY29uc2luLXN1cHJlbWUtY291cnQtYWdyZWVzLXRvLWhlYXItZ292ZXJub3JzLWxhd3N1aXQtYWdhaW5zdC1nb3AtY29udHJvbGxlZC1sZWdpc2xhdHVyZS_SAYsBaHR0cHM6Ly93d3cuaW5mb3Jtbm55LmNvbS9uZXdzL3BvbGl0aWNzL2FwLXdpc2NvbnNpbi1zdXByZW1lLWNvdXJ0LWFncmVlcy10by1oZWFyLWdvdmVybm9ycy1sYXdzdWl0LWFnYWluc3QtZ29wLWNvbnRyb2xsZWQtbGVnaXNsYXR1cmUvYW1wLw?oc=5\" target=\"_blank\">Wisconsin Supreme Court agrees to hear governor’s lawsuit against GOP-controlled Legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWTI - InformNNY.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WWTI - InformNNY.com",
+                "$": {
+                  "url": "https://www.informnny.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Governor Tony Evers Promotes Year of the Worker in Wisconsin | Local Politics - News8000.com - WKBT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiwgFodHRwczovL3d3dy5uZXdzODAwMC5jb20vbmV3cy9wb2xpdGljcy9sb2NhbC1wb2xpdGljcy9nb3Zlcm5vci1ldmVycy10b3Vycy13aXNjb25zaW4tZm9sbG93aW5nLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzLXN0b3BzLWF0LXV3LWVhdS1jbGFpcmUvYXJ0aWNsZV80ZGJiMGQ3Yy1iYjFjLTExZWUtOGNlOS0yYmQ1NDY0YzQ4NmEuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiwgFodHRwczovL3d3dy5uZXdzODAwMC5jb20vbmV3cy9wb2xpdGljcy9sb2NhbC1wb2xpdGljcy9nb3Zlcm5vci1ldmVycy10b3Vycy13aXNjb25zaW4tZm9sbG93aW5nLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzLXN0b3BzLWF0LXV3LWVhdS1jbGFpcmUvYXJ0aWNsZV80ZGJiMGQ3Yy1iYjFjLTExZWUtOGNlOS0yYmQ1NDY0YzQ4NmEuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 14:56:58 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiwgFodHRwczovL3d3dy5uZXdzODAwMC5jb20vbmV3cy9wb2xpdGljcy9sb2NhbC1wb2xpdGljcy9nb3Zlcm5vci1ldmVycy10b3Vycy13aXNjb25zaW4tZm9sbG93aW5nLXN0YXRlLW9mLXRoZS1zdGF0ZS1hZGRyZXNzLXN0b3BzLWF0LXV3LWVhdS1jbGFpcmUvYXJ0aWNsZV80ZGJiMGQ3Yy1iYjFjLTExZWUtOGNlOS0yYmQ1NDY0YzQ4NmEuaHRtbNIBAA?oc=5\" target=\"_blank\">Governor Tony Evers Promotes Year of the Worker in Wisconsin | Local Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News8000.com - WKBT</font>"
+            ],
+            "source": [
+              {
+                "_": "News8000.com - WKBT",
+                "$": {
+                  "url": "https://www.news8000.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers appoints longtime state Sen. Lena Taylor to be Milwaukee judge - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1zZW5hdGUtanVkZ2UtbGVuYS10YXlsb3ItZXZlcnMtM2M2MTEyZjY2YzkzYzJhMjUxNzUyZGFlOGM2YTFkNzfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1zZW5hdGUtanVkZ2UtbGVuYS10YXlsb3ItZXZlcnMtM2M2MTEyZjY2YzkzYzJhMjUxNzUyZGFlOGM2YTFkNzfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dpc2NvbnNpbi1zZW5hdGUtanVkZ2UtbGVuYS10YXlsb3ItZXZlcnMtM2M2MTEyZjY2YzkzYzJhMjUxNzUyZGFlOGM2YTFkNzfSAQA?oc=5\" target=\"_blank\">Gov. Evers appoints longtime state Sen. Lena Taylor to be Milwaukee judge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Brewers deal clears Legislature and Gov. Tony Evers promises to sign it - Wisconsin Public Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndwci5vcmcvcG9saXRpY3MvYnJld2Vycy1kZWFsLWNsZWFycy1sZWdpc2xhdHVyZS1hbmQtZ292LXRvbnktZXZlcnMtcHJvbWlzZXMtc2lnbi1pdNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lndwci5vcmcvcG9saXRpY3MvYnJld2Vycy1kZWFsLWNsZWFycy1sZWdpc2xhdHVyZS1hbmQtZ292LXRvbnktZXZlcnMtcHJvbWlzZXMtc2lnbi1pdNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndwci5vcmcvcG9saXRpY3MvYnJld2Vycy1kZWFsLWNsZWFycy1sZWdpc2xhdHVyZS1hbmQtZ292LXRvbnktZXZlcnMtcHJvbWlzZXMtc2lnbi1pdNIBAA?oc=5\" target=\"_blank\">Brewers deal clears Legislature and Gov. Tony Evers promises to sign it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Public Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Public Radio",
+                "$": {
+                  "url": "https://www.wpr.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evers sues GOP leaders in the Legislature over ‘legislative vetoes’ - Wisconsin Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tLzIwMjMvMTAvMzEvZXZlcnMtc3Vlcy1nb3AtbGVhZGVycy1pbi10aGUtbGVnaXNsYXR1cmUtb3Zlci1sZWdpc2xhdGl2ZS12ZXRvZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tLzIwMjMvMTAvMzEvZXZlcnMtc3Vlcy1nb3AtbGVhZGVycy1pbi10aGUtbGVnaXNsYXR1cmUtb3Zlci1sZWdpc2xhdGl2ZS12ZXRvZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd2lzY29uc2luZXhhbWluZXIuY29tLzIwMjMvMTAvMzEvZXZlcnMtc3Vlcy1nb3AtbGVhZGVycy1pbi10aGUtbGVnaXNsYXR1cmUtb3Zlci1sZWdpc2xhdGl2ZS12ZXRvZXMv0gEA?oc=5\" target=\"_blank\">Evers sues GOP leaders in the Legislature over ‘legislative vetoes’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Wisconsin Examiner",
+                "$": {
+                  "url": "https://wisconsinexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "For the Record: Wisconsin Lt. Gov. on state's healthcare workforce shortage - Channel3000.com - WISC-TV3"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5jaGFubmVsMzAwMC5jb20vbmV3cy9mb3ItdGhlLXJlY29yZC9mb3ItdGhlLXJlY29yZC13aXNjb25zaW4tbHQtZ292LW9uLXN0YXRlcy1oZWFsdGhjYXJlLXdvcmtmb3JjZS1zaG9ydGFnZS9hcnRpY2xlXzY0NmJlN2YwLWMzOGEtMTFlZS1iZGJlLTQzYmE0ZWM1YjAyNy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqQFodHRwczovL3d3dy5jaGFubmVsMzAwMC5jb20vbmV3cy9mb3ItdGhlLXJlY29yZC9mb3ItdGhlLXJlY29yZC13aXNjb25zaW4tbHQtZ292LW9uLXN0YXRlcy1oZWFsdGhjYXJlLXdvcmtmb3JjZS1zaG9ydGFnZS9hcnRpY2xlXzY0NmJlN2YwLWMzOGEtMTFlZS1iZGJlLTQzYmE0ZWM1YjAyNy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 18:12:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5jaGFubmVsMzAwMC5jb20vbmV3cy9mb3ItdGhlLXJlY29yZC9mb3ItdGhlLXJlY29yZC13aXNjb25zaW4tbHQtZ292LW9uLXN0YXRlcy1oZWFsdGhjYXJlLXdvcmtmb3JjZS1zaG9ydGFnZS9hcnRpY2xlXzY0NmJlN2YwLWMzOGEtMTFlZS1iZGJlLTQzYmE0ZWM1YjAyNy5odG1s0gEA?oc=5\" target=\"_blank\">For the Record: Wisconsin Lt. Gov. on state's healthcare workforce shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Channel3000.com - WISC-TV3</font>"
+            ],
+            "source": [
+              {
+                "_": "Channel3000.com - WISC-TV3",
+                "$": {
+                  "url": "https://www.channel3000.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Evers grants 82 more pardons, bringing total to 1,111 - WBAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LndiYXkuY29tLzIwMjMvMTEvMjIvZ292LWV2ZXJzLWdyYW50cy04Mi1tb3JlLXBhcmRvbnMtYnJpbmdpbmctdG90YWwtMTExMS_SAWRodHRwczovL3d3dy53YmF5LmNvbS8yMDIzLzExLzIyL2dvdi1ldmVycy1ncmFudHMtODItbW9yZS1wYXJkb25zLWJyaW5naW5nLXRvdGFsLTExMTEvP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3LndiYXkuY29tLzIwMjMvMTEvMjIvZ292LWV2ZXJzLWdyYW50cy04Mi1tb3JlLXBhcmRvbnMtYnJpbmdpbmctdG90YWwtMTExMS_SAWRodHRwczovL3d3dy53YmF5LmNvbS8yMDIzLzExLzIyL2dvdi1ldmVycy1ncmFudHMtODItbW9yZS1wYXJkb25zLWJyaW5naW5nLXRvdGFsLTExMTEvP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LndiYXkuY29tLzIwMjMvMTEvMjIvZ292LWV2ZXJzLWdyYW50cy04Mi1tb3JlLXBhcmRvbnMtYnJpbmdpbmctdG90YWwtMTExMS_SAWRodHRwczovL3d3dy53YmF5LmNvbS8yMDIzLzExLzIyL2dvdi1ldmVycy1ncmFudHMtODItbW9yZS1wYXJkb25zLWJyaW5naW5nLXRvdGFsLTExMTEvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">Gov. Evers grants 82 more pardons, bringing total to 1,111</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBAY</font>"
+            ],
+            "source": [
+              {
+                "_": "WBAY",
+                "$": {
+                  "url": "https://www.wbay.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wisconsin Republicans race to reach deal on legislative maps to avoid court drawing their own - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9taW5uZXNvdGEvbmV3cy93aXNjb25zaW4tcmVwdWJsaWNhbnMtcmFjZS10by1yZWFjaC1kZWFsLW9uLWxlZ2lzbGF0aXZlLW1hcHMtdG8taGVhZC1vZmYtY291cnQtZHJhd2luZy1pdHMtb3duL9IBigFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbWlubmVzb3RhL25ld3Mvd2lzY29uc2luLXJlcHVibGljYW5zLXJhY2UtdG8tcmVhY2gtZGVhbC1vbi1sZWdpc2xhdGl2ZS1tYXBzLXRvLWhlYWQtb2ZmLWNvdXJ0LWRyYXdpbmctaXRzLW93bi8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9taW5uZXNvdGEvbmV3cy93aXNjb25zaW4tcmVwdWJsaWNhbnMtcmFjZS10by1yZWFjaC1kZWFsLW9uLWxlZ2lzbGF0aXZlLW1hcHMtdG8taGVhZC1vZmYtY291cnQtZHJhd2luZy1pdHMtb3duL9IBigFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbWlubmVzb3RhL25ld3Mvd2lzY29uc2luLXJlcHVibGljYW5zLXJhY2UtdG8tcmVhY2gtZGVhbC1vbi1sZWdpc2xhdGl2ZS1tYXBzLXRvLWhlYWQtb2ZmLWNvdXJ0LWRyYXdpbmctaXRzLW93bi8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9taW5uZXNvdGEvbmV3cy93aXNjb25zaW4tcmVwdWJsaWNhbnMtcmFjZS10by1yZWFjaC1kZWFsLW9uLWxlZ2lzbGF0aXZlLW1hcHMtdG8taGVhZC1vZmYtY291cnQtZHJhd2luZy1pdHMtb3duL9IBigFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbWlubmVzb3RhL25ld3Mvd2lzY29uc2luLXJlcHVibGljYW5zLXJhY2UtdG8tcmVhY2gtZGVhbC1vbi1sZWdpc2xhdGl2ZS1tYXBzLXRvLWhlYWQtb2ZmLWNvdXJ0LWRyYXdpbmctaXRzLW93bi8?oc=5\" target=\"_blank\">Wisconsin Republicans race to reach deal on legislative maps to avoid court drawing their own</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1268 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Bobby Hanig\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Bobby+Hanig&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Sen. Bobby Hanig - Tying it Together with Tim Boyum - Spectrum News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL25jL2NoYXJsb3R0ZS9wb2RjYXN0cy8yMDIzLzA3LzI1L3Nlbi0tYm9iYnktaGFuaWctLS10eWluZy1pdC10b2dldGhlci13aXRoLXRpbS1ib3l1bdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL25jL2NoYXJsb3R0ZS9wb2RjYXN0cy8yMDIzLzA3LzI1L3Nlbi0tYm9iYnktaGFuaWctLS10eWluZy1pdC10b2dldGhlci13aXRoLXRpbS1ib3l1bdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL25jL2NoYXJsb3R0ZS9wb2RjYXN0cy8yMDIzLzA3LzI1L3Nlbi0tYm9iYnktaGFuaWctLS10eWluZy1pdC10b2dldGhlci13aXRoLXRpbS1ib3l1bdIBAA?oc=5\" target=\"_blank\">Sen. Bobby Hanig - Tying it Together with Tim Boyum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News",
+                "$": {
+                  "url": "https://spectrumlocalnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hanig: Local Republican representation in Raleigh paying off for northeast NC - The Daily Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL3BlcnF1aW1hbnMvbmV3cy9sb2NhbC9oYW5pZy1sb2NhbC1yZXB1YmxpY2FuLXJlcHJlc2VudGF0aW9uLWluLXJhbGVpZ2gtcGF5aW5nLW9mZi1mb3Itbm9ydGhlYXN0LW5jL2FydGljbGVfNDAwN2U4YzItYmY5NC0xMWVlLTg4NWMtOTczYjk0Yjg5MTBlLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMisQFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL3BlcnF1aW1hbnMvbmV3cy9sb2NhbC9oYW5pZy1sb2NhbC1yZXB1YmxpY2FuLXJlcHJlc2VudGF0aW9uLWluLXJhbGVpZ2gtcGF5aW5nLW9mZi1mb3Itbm9ydGhlYXN0LW5jL2FydGljbGVfNDAwN2U4YzItYmY5NC0xMWVlLTg4NWMtOTczYjk0Yjg5MTBlLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 07:30:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL3BlcnF1aW1hbnMvbmV3cy9sb2NhbC9oYW5pZy1sb2NhbC1yZXB1YmxpY2FuLXJlcHJlc2VudGF0aW9uLWluLXJhbGVpZ2gtcGF5aW5nLW9mZi1mb3Itbm9ydGhlYXN0LW5jL2FydGljbGVfNDAwN2U4YzItYmY5NC0xMWVlLTg4NWMtOTczYjk0Yjg5MTBlLmh0bWzSAQA?oc=5\" target=\"_blank\">Hanig: Local Republican representation in Raleigh paying off for northeast NC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Advance",
+                "$": {
+                  "url": "https://www.dailyadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hanig will seek another term on NC Senate - http://www.rrspin.com/"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnJyc3Bpbi5jb20vbmV3cy84MDAzLWhhbmlnLXdpbGwtc2Vlay1hbm90aGVyLXRlcm0tb24tbmMtc2VuYXRlLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LnJyc3Bpbi5jb20vbmV3cy84MDAzLWhhbmlnLXdpbGwtc2Vlay1hbm90aGVyLXRlcm0tb24tbmMtc2VuYXRlLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnJyc3Bpbi5jb20vbmV3cy84MDAzLWhhbmlnLXdpbGwtc2Vlay1hbm90aGVyLXRlcm0tb24tbmMtc2VuYXRlLmh0bWzSAQA?oc=5\" target=\"_blank\">Hanig will seek another term on NC Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">http://www.rrspin.com/</font>"
+            ],
+            "source": [
+              {
+                "_": "http://www.rrspin.com/",
+                "$": {
+                  "url": "https://www.rrspin.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Serving in 2 NC chambers means 2 tattoos for this legislator. Check out his ink - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzc0MDQ1MzguaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzc0MDQ1MzguaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzc0MDQ1MzguaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzc0MDQ1MzguaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzc0MDQ1MzguaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzc0MDQ1MzguaHRtbA?oc=5\" target=\"_blank\">Serving in 2 NC chambers means 2 tattoos for this legislator. Check out his ink</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Area state budget impacts roundup - WCTI12.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd2N0aTEyLmNvbS9uZXdzL2xvY2FsL2FyZWEtc3RhdGUtYnVkZ2V0LWltcGFjdHMtcm91bmR1cNIBQ2h0dHBzOi8vd2N0aTEyLmNvbS9hbXAvbmV3cy9sb2NhbC9hcmVhLXN0YXRlLWJ1ZGdldC1pbXBhY3RzLXJvdW5kdXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd2N0aTEyLmNvbS9uZXdzL2xvY2FsL2FyZWEtc3RhdGUtYnVkZ2V0LWltcGFjdHMtcm91bmR1cNIBQ2h0dHBzOi8vd2N0aTEyLmNvbS9hbXAvbmV3cy9sb2NhbC9hcmVhLXN0YXRlLWJ1ZGdldC1pbXBhY3RzLXJvdW5kdXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd2N0aTEyLmNvbS9uZXdzL2xvY2FsL2FyZWEtc3RhdGUtYnVkZ2V0LWltcGFjdHMtcm91bmR1cNIBQ2h0dHBzOi8vd2N0aTEyLmNvbS9hbXAvbmV3cy9sb2NhbC9hcmVhLXN0YXRlLWJ1ZGdldC1pbXBhY3RzLXJvdW5kdXA?oc=5\" target=\"_blank\">Area state budget impacts roundup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCTI12.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WCTI12.com",
+                "$": {
+                  "url": "https://wcti12.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC state senators file bill to ban participation trophies - WCNC.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy53Y25jLmNvbS9hcnRpY2xlL25ld3MvcG9saXRpY3Mvbm9ydGgtY2Fyb2xpbmEtcG9saXRpY3MvYmlsbC1uYy1zZW5hdGUtc2Vla3MtYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMtcG9saXRpY3MvMjc1LWZhNzU2YTJkLTcxNzgtNGIyMC05YjNmLTkzZGM0OTE2ZTE1MNIBqAFodHRwczovL3d3dy53Y25jLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL3BvbGl0aWNzL25vcnRoLWNhcm9saW5hLXBvbGl0aWNzL2JpbGwtbmMtc2VuYXRlLXNlZWtzLWJhbi1wYXJ0aWNpcGF0aW9uLXRyb3BoaWVzLXBvbGl0aWNzLzI3NS1mYTc1NmEyZC03MTc4LTRiMjAtOWIzZi05M2RjNDkxNmUxNTA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipAFodHRwczovL3d3dy53Y25jLmNvbS9hcnRpY2xlL25ld3MvcG9saXRpY3Mvbm9ydGgtY2Fyb2xpbmEtcG9saXRpY3MvYmlsbC1uYy1zZW5hdGUtc2Vla3MtYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMtcG9saXRpY3MvMjc1LWZhNzU2YTJkLTcxNzgtNGIyMC05YjNmLTkzZGM0OTE2ZTE1MNIBqAFodHRwczovL3d3dy53Y25jLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL3BvbGl0aWNzL25vcnRoLWNhcm9saW5hLXBvbGl0aWNzL2JpbGwtbmMtc2VuYXRlLXNlZWtzLWJhbi1wYXJ0aWNpcGF0aW9uLXRyb3BoaWVzLXBvbGl0aWNzLzI3NS1mYTc1NmEyZC03MTc4LTRiMjAtOWIzZi05M2RjNDkxNmUxNTA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy53Y25jLmNvbS9hcnRpY2xlL25ld3MvcG9saXRpY3Mvbm9ydGgtY2Fyb2xpbmEtcG9saXRpY3MvYmlsbC1uYy1zZW5hdGUtc2Vla3MtYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMtcG9saXRpY3MvMjc1LWZhNzU2YTJkLTcxNzgtNGIyMC05YjNmLTkzZGM0OTE2ZTE1MNIBqAFodHRwczovL3d3dy53Y25jLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL3BvbGl0aWNzL25vcnRoLWNhcm9saW5hLXBvbGl0aWNzL2JpbGwtbmMtc2VuYXRlLXNlZWtzLWJhbi1wYXJ0aWNpcGF0aW9uLXRyb3BoaWVzLXBvbGl0aWNzLzI3NS1mYTc1NmEyZC03MTc4LTRiMjAtOWIzZi05M2RjNDkxNmUxNTA?oc=5\" target=\"_blank\">NC state senators file bill to ban participation trophies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCNC.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WCNC.com",
+                "$": {
+                  "url": "https://www.wcnc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC State Senate bill seeks to 'Eliminae Participation Trophies' - Citizen Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jaXRpemVuLXRpbWVzLmNvbS9zdG9yeS9zcG9ydHMvMjAyMy8wMy8zMC9uYy1zdGF0ZS1zZW5hdGUtcGFydGljaXBhdGlvbi10cm9waGllcy1iaWxsLXlvdXRoLXNwb3J0cy1tb2ZmaXR0LXNldHRsZS1oYW5pZy83MDA2NDg2NjAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL3d3dy5jaXRpemVuLXRpbWVzLmNvbS9zdG9yeS9zcG9ydHMvMjAyMy8wMy8zMC9uYy1zdGF0ZS1zZW5hdGUtcGFydGljaXBhdGlvbi10cm9waGllcy1iaWxsLXlvdXRoLXNwb3J0cy1tb2ZmaXR0LXNldHRsZS1oYW5pZy83MDA2NDg2NjAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jaXRpemVuLXRpbWVzLmNvbS9zdG9yeS9zcG9ydHMvMjAyMy8wMy8zMC9uYy1zdGF0ZS1zZW5hdGUtcGFydGljaXBhdGlvbi10cm9waGllcy1iaWxsLXlvdXRoLXNwb3J0cy1tb2ZmaXR0LXNldHRsZS1oYW5pZy83MDA2NDg2NjAwNy_SAQA?oc=5\" target=\"_blank\">NC State Senate bill seeks to 'Eliminae Participation Trophies'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Citizen Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Citizen Times",
+                "$": {
+                  "url": "https://www.citizen-times.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Long-time Dare resident Harman-Scott launches campaign for state Senate - The Daily Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvbG9uZy10aW1lLWRhcmUtcmVzaWRlbnQtaGFybWFuLXNjb3R0LWxhdW5jaGVzLWNhbXBhaWduLWZvci1zdGF0ZS1zZW5hdGUvYXJ0aWNsZV81ZjBjY2M4ZS05ZDFhLTExZWUtYTVkOC02Mzc1NmQ3ODU2ZDUuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioQFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvbG9uZy10aW1lLWRhcmUtcmVzaWRlbnQtaGFybWFuLXNjb3R0LWxhdW5jaGVzLWNhbXBhaWduLWZvci1zdGF0ZS1zZW5hdGUvYXJ0aWNsZV81ZjBjY2M4ZS05ZDFhLTExZWUtYTVkOC02Mzc1NmQ3ODU2ZDUuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 30 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvbG9uZy10aW1lLWRhcmUtcmVzaWRlbnQtaGFybWFuLXNjb3R0LWxhdW5jaGVzLWNhbXBhaWduLWZvci1zdGF0ZS1zZW5hdGUvYXJ0aWNsZV81ZjBjY2M4ZS05ZDFhLTExZWUtYTVkOC02Mzc1NmQ3ODU2ZDUuaHRtbNIBAA?oc=5\" target=\"_blank\">Long-time Dare resident Harman-Scott launches campaign for state Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Advance",
+                "$": {
+                  "url": "https://www.dailyadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC senators propose eliminating participation trophies for youth sports - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25jLXNlbmF0b3JzLXByb3Bvc2UtZWxpbWluYXRpbmctcGFydGljaXBhdGlvbi10cm9waGllcy1mb3IteW91dGgtc3BvcnRzLzIwNzg4MjM0L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMDc4ODIzNC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25jLXNlbmF0b3JzLXByb3Bvc2UtZWxpbWluYXRpbmctcGFydGljaXBhdGlvbi10cm9waGllcy1mb3IteW91dGgtc3BvcnRzLzIwNzg4MjM0L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMDc4ODIzNC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25jLXNlbmF0b3JzLXByb3Bvc2UtZWxpbWluYXRpbmctcGFydGljaXBhdGlvbi10cm9waGllcy1mb3IteW91dGgtc3BvcnRzLzIwNzg4MjM0L9IBImh0dHBzOi8vd3d3LndyYWwuY29tL2FtcC8yMDc4ODIzNC8?oc=5\" target=\"_blank\">NC senators propose eliminating participation trophies for youth sports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North Carolina state lawmakers seek to ban participation trophies in youth sports - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3Nwb3J0cy9ub3J0aC1jYXJvbGluYS1zdGF0ZS1sYXdtYWtlcnMtc2Vlay1iYW4tcGFydGljaXBhdGlvbi10cm9waGllcy15b3V0aC1zcG9ydHPSAW5odHRwczovL3d3dy5mb3huZXdzLmNvbS9zcG9ydHMvbm9ydGgtY2Fyb2xpbmEtc3RhdGUtbGF3bWFrZXJzLXNlZWstYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMteW91dGgtc3BvcnRzLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3Nwb3J0cy9ub3J0aC1jYXJvbGluYS1zdGF0ZS1sYXdtYWtlcnMtc2Vlay1iYW4tcGFydGljaXBhdGlvbi10cm9waGllcy15b3V0aC1zcG9ydHPSAW5odHRwczovL3d3dy5mb3huZXdzLmNvbS9zcG9ydHMvbm9ydGgtY2Fyb2xpbmEtc3RhdGUtbGF3bWFrZXJzLXNlZWstYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMteW91dGgtc3BvcnRzLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3Nwb3J0cy9ub3J0aC1jYXJvbGluYS1zdGF0ZS1sYXdtYWtlcnMtc2Vlay1iYW4tcGFydGljaXBhdGlvbi10cm9waGllcy15b3V0aC1zcG9ydHPSAW5odHRwczovL3d3dy5mb3huZXdzLmNvbS9zcG9ydHMvbm9ydGgtY2Fyb2xpbmEtc3RhdGUtbGF3bWFrZXJzLXNlZWstYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMteW91dGgtc3BvcnRzLmFtcA?oc=5\" target=\"_blank\">North Carolina state lawmakers seek to ban participation trophies in youth sports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rep. Bobby Hanig unanimous choice to fill N.C. Senate First District seat - Ocracoke Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vb2NyYWNva2VvYnNlcnZlci5jb20vMjAyMi8wOC8yMC9yZXAtYm9iYnktaGFuaWctdW5hbmltb3VzLWNob2ljZS10by1maWxsLW4tYy1zZW5hdGUtZmlyc3QtZGlzdHJpY3Qtc2VhdC_SAXRodHRwczovL29jcmFjb2tlb2JzZXJ2ZXIuY29tLzIwMjIvMDgvMjAvcmVwLWJvYmJ5LWhhbmlnLXVuYW5pbW91cy1jaG9pY2UtdG8tZmlsbC1uLWMtc2VuYXRlLWZpcnN0LWRpc3RyaWN0LXNlYXQvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vb2NyYWNva2VvYnNlcnZlci5jb20vMjAyMi8wOC8yMC9yZXAtYm9iYnktaGFuaWctdW5hbmltb3VzLWNob2ljZS10by1maWxsLW4tYy1zZW5hdGUtZmlyc3QtZGlzdHJpY3Qtc2VhdC_SAXRodHRwczovL29jcmFjb2tlb2JzZXJ2ZXIuY29tLzIwMjIvMDgvMjAvcmVwLWJvYmJ5LWhhbmlnLXVuYW5pbW91cy1jaG9pY2UtdG8tZmlsbC1uLWMtc2VuYXRlLWZpcnN0LWRpc3RyaWN0LXNlYXQvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 20 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vb2NyYWNva2VvYnNlcnZlci5jb20vMjAyMi8wOC8yMC9yZXAtYm9iYnktaGFuaWctdW5hbmltb3VzLWNob2ljZS10by1maWxsLW4tYy1zZW5hdGUtZmlyc3QtZGlzdHJpY3Qtc2VhdC_SAXRodHRwczovL29jcmFjb2tlb2JzZXJ2ZXIuY29tLzIwMjIvMDgvMjAvcmVwLWJvYmJ5LWhhbmlnLXVuYW5pbW91cy1jaG9pY2UtdG8tZmlsbC1uLWMtc2VuYXRlLWZpcnN0LWRpc3RyaWN0LXNlYXQvYW1wLw?oc=5\" target=\"_blank\">Rep. Bobby Hanig unanimous choice to fill N.C. Senate First District seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ocracoke Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Ocracoke Observer",
+                "$": {
+                  "url": "https://ocracokeobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC legislators present C4EE $150K appropriation - http://www.rrspin.com/"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnJyc3Bpbi5jb20vbmV3cy83OTQyLW5jLWxlZ2lzbGF0b3JzLXByZXNlbnQtYzRlZS0xNTBrLWFwcHJvcHJpYXRpb24uaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LnJyc3Bpbi5jb20vbmV3cy83OTQyLW5jLWxlZ2lzbGF0b3JzLXByZXNlbnQtYzRlZS0xNTBrLWFwcHJvcHJpYXRpb24uaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnJyc3Bpbi5jb20vbmV3cy83OTQyLW5jLWxlZ2lzbGF0b3JzLXByZXNlbnQtYzRlZS0xNTBrLWFwcHJvcHJpYXRpb24uaHRtbNIBAA?oc=5\" target=\"_blank\">NC legislators present C4EE $150K appropriation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">http://www.rrspin.com/</font>"
+            ],
+            "source": [
+              {
+                "_": "http://www.rrspin.com/",
+                "$": {
+                  "url": "https://www.rrspin.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Steinburg to leave N.C. Senate at end of month; Hanig expected to be named replacement - Island Free Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL2lzbGFuZGZyZWVwcmVzcy5vcmcvb3V0ZXItYmFua3MtbmV3cy9zdGVpbmJ1cmctdG8tbGVhdmUtbi1jLXNlbmF0ZS1hdC1lbmQtb2YtbW9udGgtaGFuaWctZXhwZWN0ZWQtdG8tYmUtbmFtZWQtcmVwbGFjZW1lbnQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL2lzbGFuZGZyZWVwcmVzcy5vcmcvb3V0ZXItYmFua3MtbmV3cy9zdGVpbmJ1cmctdG8tbGVhdmUtbi1jLXNlbmF0ZS1hdC1lbmQtb2YtbW9udGgtaGFuaWctZXhwZWN0ZWQtdG8tYmUtbmFtZWQtcmVwbGFjZW1lbnQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL2lzbGFuZGZyZWVwcmVzcy5vcmcvb3V0ZXItYmFua3MtbmV3cy9zdGVpbmJ1cmctdG8tbGVhdmUtbi1jLXNlbmF0ZS1hdC1lbmQtb2YtbW9udGgtaGFuaWctZXhwZWN0ZWQtdG8tYmUtbmFtZWQtcmVwbGFjZW1lbnQv0gEA?oc=5\" target=\"_blank\">Steinburg to leave N.C. Senate at end of month; Hanig expected to be named replacement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Island Free Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Island Free Press",
+                "$": {
+                  "url": "https://islandfreepress.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bobby Hanig sworn in as state senator - The Coastland Times | The Coastland Times - The Coastland Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoZWNvYXN0bGFuZHRpbWVzLmNvbS8yMDIyLzA4LzMxL2JvYmJ5LWhhbmlnLXN3b3JuLWluLWFzLXN0YXRlLXNlbmF0b3Iv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LnRoZWNvYXN0bGFuZHRpbWVzLmNvbS8yMDIyLzA4LzMxL2JvYmJ5LWhhbmlnLXN3b3JuLWluLWFzLXN0YXRlLXNlbmF0b3Iv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoZWNvYXN0bGFuZHRpbWVzLmNvbS8yMDIyLzA4LzMxL2JvYmJ5LWhhbmlnLXN3b3JuLWluLWFzLXN0YXRlLXNlbmF0b3Iv0gEA?oc=5\" target=\"_blank\">Bobby Hanig sworn in as state senator - The Coastland Times | The Coastland Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Coastland Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Coastland Times",
+                "$": {
+                  "url": "https://www.thecoastlandtimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "No more participation trophies? NC state senator wants to ban them - WCHS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiuQFodHRwczovL3djaHN0di5jb20vbmV3cy9uYXRpb24td29ybGQvbmMtc3RhdGUtc2VuYXRvci1wcm9wb3Nlcy1iaWxsLXRvLWVuZC1wYXJ0aWNpcGF0aW9uLXRyb3BoaWVzLWluLXlvdXRoLXNwb3J0cy1ub3J0aC1jYXJvbGluYS1zZW4tdGltb3RoeS1tb2ZmaXR0LWVsaW1pbmF0ZS1wYXJ0aWNpcGF0aW9uLXRyb3BoaWVzLWFjdNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiuQFodHRwczovL3djaHN0di5jb20vbmV3cy9uYXRpb24td29ybGQvbmMtc3RhdGUtc2VuYXRvci1wcm9wb3Nlcy1iaWxsLXRvLWVuZC1wYXJ0aWNpcGF0aW9uLXRyb3BoaWVzLWluLXlvdXRoLXNwb3J0cy1ub3J0aC1jYXJvbGluYS1zZW4tdGltb3RoeS1tb2ZmaXR0LWVsaW1pbmF0ZS1wYXJ0aWNpcGF0aW9uLXRyb3BoaWVzLWFjdNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 31 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiuQFodHRwczovL3djaHN0di5jb20vbmV3cy9uYXRpb24td29ybGQvbmMtc3RhdGUtc2VuYXRvci1wcm9wb3Nlcy1iaWxsLXRvLWVuZC1wYXJ0aWNpcGF0aW9uLXRyb3BoaWVzLWluLXlvdXRoLXNwb3J0cy1ub3J0aC1jYXJvbGluYS1zZW4tdGltb3RoeS1tb2ZmaXR0LWVsaW1pbmF0ZS1wYXJ0aWNpcGF0aW9uLXRyb3BoaWVzLWFjdNIBAA?oc=5\" target=\"_blank\">No more participation trophies? NC state senator wants to ban them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCHS</font>"
+            ],
+            "source": [
+              {
+                "_": "WCHS",
+                "$": {
+                  "url": "https://wchstv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Education of a Lifetime – Elizabeth City State University - Elizabeth City State University"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vbmV3c3Jvb20uZWNzdS5lZHUvZWR1Y2F0aW9uLW9mLWEtbGlmZXRpbWUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMmh0dHBzOi8vbmV3c3Jvb20uZWNzdS5lZHUvZWR1Y2F0aW9uLW9mLWEtbGlmZXRpbWUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vbmV3c3Jvb20uZWNzdS5lZHUvZWR1Y2F0aW9uLW9mLWEtbGlmZXRpbWUv0gEA?oc=5\" target=\"_blank\">Education of a Lifetime – Elizabeth City State University</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elizabeth City State University</font>"
+            ],
+            "source": [
+              {
+                "_": "Elizabeth City State University",
+                "$": {
+                  "url": "https://newsroom.ecsu.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rep. Bobby Hanig named to leadership post in North Carolina House - OBXToday.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm9ieHRvZGF5LmNvbS9yZXAtYm9iYnktaGFuaWctbmFtZWQtdG8tbGVhZGVyc2hpcC1wb3N0LWluLW5vcnRoLWNhcm9saW5hLWhvdXNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3Lm9ieHRvZGF5LmNvbS9yZXAtYm9iYnktaGFuaWctbmFtZWQtdG8tbGVhZGVyc2hpcC1wb3N0LWluLW5vcnRoLWNhcm9saW5hLWhvdXNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Dec 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm9ieHRvZGF5LmNvbS9yZXAtYm9iYnktaGFuaWctbmFtZWQtdG8tbGVhZGVyc2hpcC1wb3N0LWluLW5vcnRoLWNhcm9saW5hLWhvdXNlL9IBAA?oc=5\" target=\"_blank\">Rep. Bobby Hanig named to leadership post in North Carolina House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OBXToday.com</font>"
+            ],
+            "source": [
+              {
+                "_": "OBXToday.com",
+                "$": {
+                  "url": "https://www.obxtoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Didn’t matter where candidate parked her car, as NC board lets Democrat stay on ballot - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNjUxNTUyNzYuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNjUxNTUyNzYuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNjUxNTUyNzYuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNjUxNTUyNzYuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNjUxNTUyNzYuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNjUxNTUyNzYuaHRtbA?oc=5\" target=\"_blank\">Didn’t matter where candidate parked her car, as NC board lets Democrat stay on ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hanig defeats Jordan by 3600 votes in newly drawn 3rd Senate District - The Daily Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvaGFuaWctZGVmZWF0cy1qb3JkYW4tYnktMy02MDAtdm90ZXMtaW4tbmV3bHktZHJhd24tM3JkLXNlbmF0ZS1kaXN0cmljdC9hcnRpY2xlXzhlMGQwYTE4LWZlMzItNWU2YS1hOWMyLWNhMTZiZDMxYmRiZC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioAFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvaGFuaWctZGVmZWF0cy1qb3JkYW4tYnktMy02MDAtdm90ZXMtaW4tbmV3bHktZHJhd24tM3JkLXNlbmF0ZS1kaXN0cmljdC9hcnRpY2xlXzhlMGQwYTE4LWZlMzItNWU2YS1hOWMyLWNhMTZiZDMxYmRiZC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvaGFuaWctZGVmZWF0cy1qb3JkYW4tYnktMy02MDAtdm90ZXMtaW4tbmV3bHktZHJhd24tM3JkLXNlbmF0ZS1kaXN0cmljdC9hcnRpY2xlXzhlMGQwYTE4LWZlMzItNWU2YS1hOWMyLWNhMTZiZDMxYmRiZC5odG1s0gEA?oc=5\" target=\"_blank\">Hanig defeats Jordan by 3600 votes in newly drawn 3rd Senate District</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Advance",
+                "$": {
+                  "url": "https://www.dailyadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hanig: Construction to start on long-delayed Mid-Currituck Bridge in 2023 - The Daily Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvaGFuaWctY29uc3RydWN0aW9uLXRvLXN0YXJ0LW9uLWxvbmctZGVsYXllZC1taWQtY3Vycml0dWNrLWJyaWRnZS1pbi0yMDIzL2FydGljbGVfZGYyNzI3ZDMtYTc2Ny01YTMxLWI4OTUtYWNhMDZhZmZkMDQ2Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiogFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvaGFuaWctY29uc3RydWN0aW9uLXRvLXN0YXJ0LW9uLWxvbmctZGVsYXllZC1taWQtY3Vycml0dWNrLWJyaWRnZS1pbi0yMDIzL2FydGljbGVfZGYyNzI3ZDMtYTc2Ny01YTMxLWI4OTUtYWNhMDZhZmZkMDQ2Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvaGFuaWctY29uc3RydWN0aW9uLXRvLXN0YXJ0LW9uLWxvbmctZGVsYXllZC1taWQtY3Vycml0dWNrLWJyaWRnZS1pbi0yMDIzL2FydGljbGVfZGYyNzI3ZDMtYTc2Ny01YTMxLWI4OTUtYWNhMDZhZmZkMDQ2Lmh0bWzSAQA?oc=5\" target=\"_blank\">Hanig: Construction to start on long-delayed Mid-Currituck Bridge in 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Advance",
+                "$": {
+                  "url": "https://www.dailyadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "INSTITUTE INDEX: The money behind disinformation attacks on NC voting machines - Facing South"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZhY2luZ3NvdXRoLm9yZy8yMDIxLzA3L2luc3RpdHV0ZS1pbmRleC1tb25leS1iZWhpbmQtZGlzaW5mb3JtYXRpb24tYXR0YWNrcy1uYy12b3RpbmctbWFjaGluZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmZhY2luZ3NvdXRoLm9yZy8yMDIxLzA3L2luc3RpdHV0ZS1pbmRleC1tb25leS1iZWhpbmQtZGlzaW5mb3JtYXRpb24tYXR0YWNrcy1uYy12b3RpbmctbWFjaGluZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 23 Jul 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZhY2luZ3NvdXRoLm9yZy8yMDIxLzA3L2luc3RpdHV0ZS1pbmRleC1tb25leS1iZWhpbmQtZGlzaW5mb3JtYXRpb24tYXR0YWNrcy1uYy12b3RpbmctbWFjaGluZXPSAQA?oc=5\" target=\"_blank\">INSTITUTE INDEX: The money behind disinformation attacks on NC voting machines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facing South</font>"
+            ],
+            "source": [
+              {
+                "_": "Facing South",
+                "$": {
+                  "url": "https://www.facingsouth.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "N.C. Rep. Kidwell, Hanig named to reformation of NC House Freedom Caucus - WNCT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnduY3QuY29tL25ld3MvcG9saXRpY3Mvbi1jLXJlcC1raWR3ZWxsLWhhbmlnLW5hbWVkLXRvLXJlZm9ybWF0aW9uLW9mLW5jLWhvdXNlLWZyZWVkb20tY2F1Y3VzL9IBbWh0dHBzOi8vd3d3LnduY3QuY29tL25ld3MvcG9saXRpY3Mvbi1jLXJlcC1raWR3ZWxsLWhhbmlnLW5hbWVkLXRvLXJlZm9ybWF0aW9uLW9mLW5jLWhvdXNlLWZyZWVkb20tY2F1Y3VzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LnduY3QuY29tL25ld3MvcG9saXRpY3Mvbi1jLXJlcC1raWR3ZWxsLWhhbmlnLW5hbWVkLXRvLXJlZm9ybWF0aW9uLW9mLW5jLWhvdXNlLWZyZWVkb20tY2F1Y3VzL9IBbWh0dHBzOi8vd3d3LnduY3QuY29tL25ld3MvcG9saXRpY3Mvbi1jLXJlcC1raWR3ZWxsLWhhbmlnLW5hbWVkLXRvLXJlZm9ybWF0aW9uLW9mLW5jLWhvdXNlLWZyZWVkb20tY2F1Y3VzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Jan 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnduY3QuY29tL25ld3MvcG9saXRpY3Mvbi1jLXJlcC1raWR3ZWxsLWhhbmlnLW5hbWVkLXRvLXJlZm9ybWF0aW9uLW9mLW5jLWhvdXNlLWZyZWVkb20tY2F1Y3VzL9IBbWh0dHBzOi8vd3d3LnduY3QuY29tL25ld3MvcG9saXRpY3Mvbi1jLXJlcC1raWR3ZWxsLWhhbmlnLW5hbWVkLXRvLXJlZm9ybWF0aW9uLW9mLW5jLWhvdXNlLWZyZWVkb20tY2F1Y3VzL2FtcC8?oc=5\" target=\"_blank\">N.C. Rep. Kidwell, Hanig named to reformation of NC House Freedom Caucus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WNCT</font>"
+            ],
+            "source": [
+              {
+                "_": "WNCT",
+                "$": {
+                  "url": "https://www.wnct.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "From 1st to 3rd: Hanig: New Senate district trending GOP - The Daily Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvZnJvbS0xc3QtdG8tM3JkLWhhbmlnLW5ldy1zZW5hdGUtZGlzdHJpY3QtdHJlbmRpbmctZ29wL2FydGljbGVfZDViODEzMzgtNzU4Mi01NDhjLWFiYWEtZjkxN2RmMmYwMTUwLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvZnJvbS0xc3QtdG8tM3JkLWhhbmlnLW5ldy1zZW5hdGUtZGlzdHJpY3QtdHJlbmRpbmctZ29wL2FydGljbGVfZDViODEzMzgtNzU4Mi01NDhjLWFiYWEtZjkxN2RmMmYwMTUwLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 23 Feb 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvZnJvbS0xc3QtdG8tM3JkLWhhbmlnLW5ldy1zZW5hdGUtZGlzdHJpY3QtdHJlbmRpbmctZ29wL2FydGljbGVfZDViODEzMzgtNzU4Mi01NDhjLWFiYWEtZjkxN2RmMmYwMTUwLmh0bWzSAQA?oc=5\" target=\"_blank\">From 1st to 3rd: Hanig: New Senate district trending GOP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Advance",
+                "$": {
+                  "url": "https://www.dailyadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North Carolina Senate bill would ban participation trophies in youth recreation leagues - WBTW"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy53YnR3LmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsLW5ld3Mvbm9ydGgtY2Fyb2xpbmEtc2VuYXRlLWJpbGwtd291bGQtYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMtaW4teW91dGgtcmVjcmVhdGlvbi1sZWFndWVzL9IBigFodHRwczovL3d3dy53YnR3LmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsLW5ld3Mvbm9ydGgtY2Fyb2xpbmEtc2VuYXRlLWJpbGwtd291bGQtYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMtaW4teW91dGgtcmVjcmVhdGlvbi1sZWFndWVzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy53YnR3LmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsLW5ld3Mvbm9ydGgtY2Fyb2xpbmEtc2VuYXRlLWJpbGwtd291bGQtYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMtaW4teW91dGgtcmVjcmVhdGlvbi1sZWFndWVzL9IBigFodHRwczovL3d3dy53YnR3LmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsLW5ld3Mvbm9ydGgtY2Fyb2xpbmEtc2VuYXRlLWJpbGwtd291bGQtYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMtaW4teW91dGgtcmVjcmVhdGlvbi1sZWFndWVzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 31 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy53YnR3LmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsLW5ld3Mvbm9ydGgtY2Fyb2xpbmEtc2VuYXRlLWJpbGwtd291bGQtYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMtaW4teW91dGgtcmVjcmVhdGlvbi1sZWFndWVzL9IBigFodHRwczovL3d3dy53YnR3LmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsLW5ld3Mvbm9ydGgtY2Fyb2xpbmEtc2VuYXRlLWJpbGwtd291bGQtYmFuLXBhcnRpY2lwYXRpb24tdHJvcGhpZXMtaW4teW91dGgtcmVjcmVhdGlvbi1sZWFndWVzL2FtcC8?oc=5\" target=\"_blank\">North Carolina Senate bill would ban participation trophies in youth recreation leagues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBTW</font>"
+            ],
+            "source": [
+              {
+                "_": "WBTW",
+                "$": {
+                  "url": "https://www.wbtw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UPDATED: Protest over residency of N.C. Senate candidate headed to state elections board - Island Free Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL2lzbGFuZGZyZWVwcmVzcy5vcmcvb3V0ZXItYmFua3MtbmV3cy91cGRhdGVkLXByb3Rlc3Qtb3Zlci1yZXNpZGVuY3ktb2Ytbi1jLXNlbmF0ZS1jYW5kaWRhdGUtaGVhZGVkLXRvLXN0YXRlLWVsZWN0aW9ucy1ib2FyZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL2lzbGFuZGZyZWVwcmVzcy5vcmcvb3V0ZXItYmFua3MtbmV3cy91cGRhdGVkLXByb3Rlc3Qtb3Zlci1yZXNpZGVuY3ktb2Ytbi1jLXNlbmF0ZS1jYW5kaWRhdGUtaGVhZGVkLXRvLXN0YXRlLWVsZWN0aW9ucy1ib2FyZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL2lzbGFuZGZyZWVwcmVzcy5vcmcvb3V0ZXItYmFua3MtbmV3cy91cGRhdGVkLXByb3Rlc3Qtb3Zlci1yZXNpZGVuY3ktb2Ytbi1jLXNlbmF0ZS1jYW5kaWRhdGUtaGVhZGVkLXRvLXN0YXRlLWVsZWN0aW9ucy1ib2FyZC_SAQA?oc=5\" target=\"_blank\">UPDATED: Protest over residency of N.C. Senate candidate headed to state elections board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Island Free Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Island Free Press",
+                "$": {
+                  "url": "https://islandfreepress.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Currituck elections board forwards Jordan residency decision to state board - The Daily Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvY3Vycml0dWNrLWVsZWN0aW9ucy1ib2FyZC1mb3J3YXJkcy1qb3JkYW4tcmVzaWRlbmN5LWRlY2lzaW9uLXRvLXN0YXRlLWJvYXJkL2FydGljbGVfY2FkM2MzZWItZmIzZC01YTQ4LTg5ZjUtMzA4MDE4Zjg0MTRjLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipQFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvY3Vycml0dWNrLWVsZWN0aW9ucy1ib2FyZC1mb3J3YXJkcy1qb3JkYW4tcmVzaWRlbmN5LWRlY2lzaW9uLXRvLXN0YXRlLWJvYXJkL2FydGljbGVfY2FkM2MzZWItZmIzZC01YTQ4LTg5ZjUtMzA4MDE4Zjg0MTRjLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvY3Vycml0dWNrLWVsZWN0aW9ucy1ib2FyZC1mb3J3YXJkcy1qb3JkYW4tcmVzaWRlbmN5LWRlY2lzaW9uLXRvLXN0YXRlLWJvYXJkL2FydGljbGVfY2FkM2MzZWItZmIzZC01YTQ4LTg5ZjUtMzA4MDE4Zjg0MTRjLmh0bWzSAQA?oc=5\" target=\"_blank\">Currituck elections board forwards Jordan residency decision to state board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Advance",
+                "$": {
+                  "url": "https://www.dailyadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Steinburg to resign seat, Hanig wants appointment - North State Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbnNqb25saW5lLmNvbS9hcnRpY2xlLzIwMjIvMDcvc3RlaW5idXJnLXRvLXJlc2lnbi1zZWF0LWhhbmlnLXdhbnRzLWFwcG9pbnRtZW50L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vbnNqb25saW5lLmNvbS9hcnRpY2xlLzIwMjIvMDcvc3RlaW5idXJnLXRvLXJlc2lnbi1zZWF0LWhhbmlnLXdhbnRzLWFwcG9pbnRtZW50L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbnNqb25saW5lLmNvbS9hcnRpY2xlLzIwMjIvMDcvc3RlaW5idXJnLXRvLXJlc2lnbi1zZWF0LWhhbmlnLXdhbnRzLWFwcG9pbnRtZW50L9IBAA?oc=5\" target=\"_blank\">Steinburg to resign seat, Hanig wants appointment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North State Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "North State Journal",
+                "$": {
+                  "url": "https://nsjonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Where an NC candidate’s car is parked becomes evidence for opponent in a swing district - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjQ1NjcyNzEuaHRtbNIBVGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjQ1NjcyNzEuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjQ1NjcyNzEuaHRtbNIBVGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjQ1NjcyNzEuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjQ1NjcyNzEuaHRtbNIBVGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNjQ1NjcyNzEuaHRtbA?oc=5\" target=\"_blank\">Where an NC candidate’s car is parked becomes evidence for opponent in a swing district</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Steinburg to resign N.C. Senate seat - Carolina Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vc3RlaW5idXJnLXRvLXJlc2lnbi1uLWMtc2VuYXRlLXNlYXQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vc3RlaW5idXJnLXRvLXJlc2lnbi1uLWMtc2VuYXRlLXNlYXQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNhcm9saW5ham91cm5hbC5jb20vc3RlaW5idXJnLXRvLXJlc2lnbi1uLWMtc2VuYXRlLXNlYXQv0gEA?oc=5\" target=\"_blank\">Steinburg to resign N.C. Senate seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carolina Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Carolina Journal",
+                "$": {
+                  "url": "https://www.carolinajournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rollason challenges Hanig in House District 6 | Local News | dailyadvance.com - The Daily Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvcm9sbGFzb24tY2hhbGxlbmdlcy1oYW5pZy1pbi1ob3VzZS1kaXN0cmljdC02L2FydGljbGVfMjFhYWFjNTMtMmM2ZC01NmIxLTlmYjQtYWEyMzdhNGVhMWUwLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvcm9sbGFzb24tY2hhbGxlbmdlcy1oYW5pZy1pbi1ob3VzZS1kaXN0cmljdC02L2FydGljbGVfMjFhYWFjNTMtMmM2ZC01NmIxLTlmYjQtYWEyMzdhNGVhMWUwLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 06 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvcm9sbGFzb24tY2hhbGxlbmdlcy1oYW5pZy1pbi1ob3VzZS1kaXN0cmljdC02L2FydGljbGVfMjFhYWFjNTMtMmM2ZC01NmIxLTlmYjQtYWEyMzdhNGVhMWUwLmh0bWzSAQA?oc=5\" target=\"_blank\">Rollason challenges Hanig in House District 6 | Local News | dailyadvance.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Advance",
+                "$": {
+                  "url": "https://www.dailyadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hanig, Judge to vie in House 6 | Local News | dailyadvance.com - The Daily Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmRhaWx5YWR2YW5jZS5jb20vbmV3cy9sb2NhbC9oYW5pZy1qdWRnZS10by12aWUtaW4taG91c2UtNi9hcnRpY2xlXzBiODY1NTE3LWEyMjItNTUwYS05N2M3LTZkYWYwZDdmYTM4NS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmRhaWx5YWR2YW5jZS5jb20vbmV3cy9sb2NhbC9oYW5pZy1qdWRnZS10by12aWUtaW4taG91c2UtNi9hcnRpY2xlXzBiODY1NTE3LWEyMjItNTUwYS05N2M3LTZkYWYwZDdmYTM4NS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmRhaWx5YWR2YW5jZS5jb20vbmV3cy9sb2NhbC9oYW5pZy1qdWRnZS10by12aWUtaW4taG91c2UtNi9hcnRpY2xlXzBiODY1NTE3LWEyMjItNTUwYS05N2M3LTZkYWYwZDdmYTM4NS5odG1s0gEA?oc=5\" target=\"_blank\">Hanig, Judge to vie in House 6 | Local News | dailyadvance.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Advance",
+                "$": {
+                  "url": "https://www.dailyadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hanig announces bid for State Senate - The Roanoke-Chowan News-Herald - Roanoke Chowan News Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnJvYW5va2UtY2hvd2FubmV3c2hlcmFsZC5jb20vMjAyMi8wMy8wMS9oYW5pZy1hbm5vdW5jZXMtYmlkLWZvci1zdGF0ZS1zZW5hdGUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LnJvYW5va2UtY2hvd2FubmV3c2hlcmFsZC5jb20vMjAyMi8wMy8wMS9oYW5pZy1hbm5vdW5jZXMtYmlkLWZvci1zdGF0ZS1zZW5hdGUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Mar 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnJvYW5va2UtY2hvd2FubmV3c2hlcmFsZC5jb20vMjAyMi8wMy8wMS9oYW5pZy1hbm5vdW5jZXMtYmlkLWZvci1zdGF0ZS1zZW5hdGUv0gEA?oc=5\" target=\"_blank\">Hanig announces bid for State Senate - The Roanoke-Chowan News-Herald</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roanoke Chowan News Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "Roanoke Chowan News Herald",
+                "$": {
+                  "url": "https://www.roanoke-chowannewsherald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Moss elected vice chairman of NC House Freedom Caucus - Richmond County Daily Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnlvdXJkYWlseWpvdXJuYWwuY29tL25ld3MvMTA4MTkxL21vc3MtZWxlY3RlZC12aWNlLWNoYWlybWFuLW9mLW5jLWhvdXNlLWZyZWVkb20tY2F1Y3Vz0gFmaHR0cHM6Ly93d3cueW91cmRhaWx5am91cm5hbC5jb20vbmV3cy8xMDgxOTEvbW9zcy1lbGVjdGVkLXZpY2UtY2hhaXJtYW4tb2YtbmMtaG91c2UtZnJlZWRvbS1jYXVjdXMvYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3LnlvdXJkYWlseWpvdXJuYWwuY29tL25ld3MvMTA4MTkxL21vc3MtZWxlY3RlZC12aWNlLWNoYWlybWFuLW9mLW5jLWhvdXNlLWZyZWVkb20tY2F1Y3Vz0gFmaHR0cHM6Ly93d3cueW91cmRhaWx5am91cm5hbC5jb20vbmV3cy8xMDgxOTEvbW9zcy1lbGVjdGVkLXZpY2UtY2hhaXJtYW4tb2YtbmMtaG91c2UtZnJlZWRvbS1jYXVjdXMvYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 24 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnlvdXJkYWlseWpvdXJuYWwuY29tL25ld3MvMTA4MTkxL21vc3MtZWxlY3RlZC12aWNlLWNoYWlybWFuLW9mLW5jLWhvdXNlLWZyZWVkb20tY2F1Y3Vz0gFmaHR0cHM6Ly93d3cueW91cmRhaWx5am91cm5hbC5jb20vbmV3cy8xMDgxOTEvbW9zcy1lbGVjdGVkLXZpY2UtY2hhaXJtYW4tb2YtbmMtaG91c2UtZnJlZWRvbS1jYXVjdXMvYW1w?oc=5\" target=\"_blank\">Moss elected vice chairman of NC House Freedom Caucus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Richmond County Daily Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Richmond County Daily Journal",
+                "$": {
+                  "url": "https://www.yourdailyjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Valerie Jordan, candidate for NC Senate District 3 - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3NzcyODYuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3NzcyODYuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3NzcyODYuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3NzcyODYuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 10 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3NzcyODYuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3NzcyODYuaHRtbA?oc=5\" target=\"_blank\">Valerie Jordan, candidate for NC Senate District 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hanig, Steinburg sworn in, ready for session | Local News | dailyadvance.com - The Daily Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvaGFuaWctc3RlaW5idXJnLXN3b3JuLWluLXJlYWR5LWZvci1zZXNzaW9uL2FydGljbGVfODlhODNlNmYtZDlhNy01ODFhLThlNTEtMzUwMjc4ZmYzOTY4Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvaGFuaWctc3RlaW5idXJnLXN3b3JuLWluLXJlYWR5LWZvci1zZXNzaW9uL2FydGljbGVfODlhODNlNmYtZDlhNy01ODFhLThlNTEtMzUwMjc4ZmYzOTY4Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 05 Jan 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5kYWlseWFkdmFuY2UuY29tL25ld3MvbG9jYWwvaGFuaWctc3RlaW5idXJnLXN3b3JuLWluLXJlYWR5LWZvci1zZXNzaW9uL2FydGljbGVfODlhODNlNmYtZDlhNy01ODFhLThlNTEtMzUwMjc4ZmYzOTY4Lmh0bWzSAQA?oc=5\" target=\"_blank\">Hanig, Steinburg sworn in, ready for session | Local News | dailyadvance.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Advance",
+                "$": {
+                  "url": "https://www.dailyadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Boswell seeks Hanig apology | Local News | dailyadvance.com - The Daily Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRhaWx5YWR2YW5jZS5jb20vbmV3cy9sb2NhbC9ib3N3ZWxsLXNlZWtzLWhhbmlnLWFwb2xvZ3kvYXJ0aWNsZV8xMjNlYWEwNy01NDU0LTU4ZDItOTQ5Ni00ODQyZmU4NjE5NjAuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmRhaWx5YWR2YW5jZS5jb20vbmV3cy9sb2NhbC9ib3N3ZWxsLXNlZWtzLWhhbmlnLWFwb2xvZ3kvYXJ0aWNsZV8xMjNlYWEwNy01NDU0LTU4ZDItOTQ5Ni00ODQyZmU4NjE5NjAuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 07 May 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRhaWx5YWR2YW5jZS5jb20vbmV3cy9sb2NhbC9ib3N3ZWxsLXNlZWtzLWhhbmlnLWFwb2xvZ3kvYXJ0aWNsZV8xMjNlYWEwNy01NDU0LTU4ZDItOTQ5Ni00ODQyZmU4NjE5NjAuaHRtbNIBAA?oc=5\" target=\"_blank\">Boswell seeks Hanig apology | Local News | dailyadvance.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Advance",
+                "$": {
+                  "url": "https://www.dailyadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New maps drawn for General Assembly seats: Dare has split House district; Hanig running for N.C. Senate - The ... - The Coastland Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy50aGVjb2FzdGxhbmR0aW1lcy5jb20vMjAyMS8xMS8wNi9uZXctbWFwcy1kcmF3bi1mb3ItZ2VuZXJhbC1hc3NlbWJseS1zZWF0cy1kYXJlLWhhcy1zcGxpdC1ob3VzZS1kaXN0cmljdC1oYW5pZy1ydW5uaW5nLWZvci1uLWMtc2VuYXRlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3d3dy50aGVjb2FzdGxhbmR0aW1lcy5jb20vMjAyMS8xMS8wNi9uZXctbWFwcy1kcmF3bi1mb3ItZ2VuZXJhbC1hc3NlbWJseS1zZWF0cy1kYXJlLWhhcy1zcGxpdC1ob3VzZS1kaXN0cmljdC1oYW5pZy1ydW5uaW5nLWZvci1uLWMtc2VuYXRlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 06 Nov 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy50aGVjb2FzdGxhbmR0aW1lcy5jb20vMjAyMS8xMS8wNi9uZXctbWFwcy1kcmF3bi1mb3ItZ2VuZXJhbC1hc3NlbWJseS1zZWF0cy1kYXJlLWhhcy1zcGxpdC1ob3VzZS1kaXN0cmljdC1oYW5pZy1ydW5uaW5nLWZvci1uLWMtc2VuYXRlL9IBAA?oc=5\" target=\"_blank\">New maps drawn for General Assembly seats: Dare has split House district; Hanig running for N.C. Senate - The ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Coastland Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Coastland Times",
+                "$": {
+                  "url": "https://www.thecoastlandtimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election protest filed to remove democrat from ballot in key NC Senate race - CBS17.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hLW5ld3MvZWxlY3Rpb24tcHJvdGVzdC1maWxlZC10by1yZW1vdmUtZGVtb2NyYXQtZnJvbS1iYWxsb3QtaW4ta2V5LW5jLXNlbmF0ZS1yYWNlL9IBf2h0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hLW5ld3MvZWxlY3Rpb24tcHJvdGVzdC1maWxlZC10by1yZW1vdmUtZGVtb2NyYXQtZnJvbS1iYWxsb3QtaW4ta2V5LW5jLXNlbmF0ZS1yYWNlL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hLW5ld3MvZWxlY3Rpb24tcHJvdGVzdC1maWxlZC10by1yZW1vdmUtZGVtb2NyYXQtZnJvbS1iYWxsb3QtaW4ta2V5LW5jLXNlbmF0ZS1yYWNlL9IBf2h0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hLW5ld3MvZWxlY3Rpb24tcHJvdGVzdC1maWxlZC10by1yZW1vdmUtZGVtb2NyYXQtZnJvbS1iYWxsb3QtaW4ta2V5LW5jLXNlbmF0ZS1yYWNlL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 15 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hLW5ld3MvZWxlY3Rpb24tcHJvdGVzdC1maWxlZC10by1yZW1vdmUtZGVtb2NyYXQtZnJvbS1iYWxsb3QtaW4ta2V5LW5jLXNlbmF0ZS1yYWNlL9IBf2h0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hLW5ld3MvZWxlY3Rpb24tcHJvdGVzdC1maWxlZC10by1yZW1vdmUtZGVtb2NyYXQtZnJvbS1iYWxsb3QtaW4ta2V5LW5jLXNlbmF0ZS1yYWNlL2FtcC8?oc=5\" target=\"_blank\">Election protest filed to remove democrat from ballot in key NC Senate race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS17.com</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS17.com",
+                "$": {
+                  "url": "https://www.cbs17.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Honest, truthful' Republican challenges NC lawmaker who claimed to be a nurse - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3BvbGl0aWNzLWNvbHVtbnMtYmxvZ3MvdW5kZXItdGhlLWRvbWUvYXJ0aWNsZTIwNjQ0MjM3OS5odG1s0gFxaHR0cHM6Ly9hbXAubmV3c29ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvcG9saXRpY3MtY29sdW1ucy1ibG9ncy91bmRlci10aGUtZG9tZS9hcnRpY2xlMjA2NDQyMzc5Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3BvbGl0aWNzLWNvbHVtbnMtYmxvZ3MvdW5kZXItdGhlLWRvbWUvYXJ0aWNsZTIwNjQ0MjM3OS5odG1s0gFxaHR0cHM6Ly9hbXAubmV3c29ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvcG9saXRpY3MtY29sdW1ucy1ibG9ncy91bmRlci10aGUtZG9tZS9hcnRpY2xlMjA2NDQyMzc5Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 23 Mar 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L3BvbGl0aWNzLWNvbHVtbnMtYmxvZ3MvdW5kZXItdGhlLWRvbWUvYXJ0aWNsZTIwNjQ0MjM3OS5odG1s0gFxaHR0cHM6Ly9hbXAubmV3c29ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvcG9saXRpY3MtY29sdW1ucy1ibG9ncy91bmRlci10aGUtZG9tZS9hcnRpY2xlMjA2NDQyMzc5Lmh0bWw?oc=5\" target=\"_blank\">'Honest, truthful' Republican challenges NC lawmaker who claimed to be a nurse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Another mistake? Campaign paperwork also identifies Beverly Boswell as a 'nurse.' - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMTAzMjU1ODQuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMTAzMjU1ODQuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMTAzMjU1ODQuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMTAzMjU1ODQuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 May 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMTAzMjU1ODQuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMTAzMjU1ODQuaHRtbA?oc=5\" target=\"_blank\">Another mistake? Campaign paperwork also identifies Beverly Boswell as a 'nurse.'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A look back at 2018, part two - The Coastland Times | The Coastland Times - The Coastland Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZWNvYXN0bGFuZHRpbWVzLmNvbS8yMDE5LzAxLzI0L2EtbG9vay1iYWNrLWF0LTIwMTgtcGFydC10d28v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3LnRoZWNvYXN0bGFuZHRpbWVzLmNvbS8yMDE5LzAxLzI0L2EtbG9vay1iYWNrLWF0LTIwMTgtcGFydC10d28v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 24 Jan 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZWNvYXN0bGFuZHRpbWVzLmNvbS8yMDE5LzAxLzI0L2EtbG9vay1iYWNrLWF0LTIwMTgtcGFydC10d28v0gEA?oc=5\" target=\"_blank\">A look back at 2018, part two - The Coastland Times | The Coastland Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Coastland Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Coastland Times",
+                "$": {
+                  "url": "https://www.thecoastlandtimes.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

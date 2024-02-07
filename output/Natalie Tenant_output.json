@@ -1,0 +1,1928 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Natalie Tenant\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Natalie+Tenant&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "San Francisco Office Demand Surges With Tenants on the Hunt - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTA3LTI1L3Nhbi1mcmFuY2lzY28tcy1vZmZpY2UtZGVtYW5kLXN1cmdlcy13aXRoLXRlbmFudHMtb24tdGhlLWh1bnTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTA3LTI1L3Nhbi1mcmFuY2lzY28tcy1vZmZpY2UtZGVtYW5kLXN1cmdlcy13aXRoLXRlbmFudHMtb24tdGhlLWh1bnTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 25 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTA3LTI1L3Nhbi1mcmFuY2lzY28tcy1vZmZpY2UtZGVtYW5kLXN1cmdlcy13aXRoLXRlbmFudHMtb24tdGhlLWh1bnTSAQA?oc=5\" target=\"_blank\">San Francisco Office Demand Surges With Tenants on the Hunt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Desperation' in Alameda County eviction court after moratorium - The Oaklandside"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMDkvbGFuZGxvcmRzLXRlbmFudHMtYWxhbWVkYS1jb3VudHktZXZpY3Rpb24tY291cnQtbW9yYXRvcml1bS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMDkvbGFuZGxvcmRzLXRlbmFudHMtYWxhbWVkYS1jb3VudHktZXZpY3Rpb24tY291cnQtbW9yYXRvcml1bS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMDkvbGFuZGxvcmRzLXRlbmFudHMtYWxhbWVkYS1jb3VudHktZXZpY3Rpb24tY291cnQtbW9yYXRvcml1bS_SAQA?oc=5\" target=\"_blank\">'Desperation' in Alameda County eviction court after moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>"
+            ],
+            "source": [
+              {
+                "_": "The Oaklandside",
+                "$": {
+                  "url": "https://oaklandside.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Solar panels could be a lifesaver for public housing tenants grappling with Australia’s soaring energy costs - The Guardian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvMjAyMy9hcHIvMDMvc29sYXItcGFuZWxzLWNvdWxkLWJlLWEtbGlmZXNhdmVyLWZvci1wdWJsaWMtaG91c2luZy10ZW5hbnRzLWdyYXBwbGluZy13aXRoLWF1c3RyYWxpYXMtc29hcmluZy1lbmVyZ3ktY29zdHPSAZ8BaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50LzIwMjMvYXByLzAzL3NvbGFyLXBhbmVscy1jb3VsZC1iZS1hLWxpZmVzYXZlci1mb3ItcHVibGljLWhvdXNpbmctdGVuYW50cy1ncmFwcGxpbmctd2l0aC1hdXN0cmFsaWFzLXNvYXJpbmctZW5lcmd5LWNvc3Rz?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinwFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvMjAyMy9hcHIvMDMvc29sYXItcGFuZWxzLWNvdWxkLWJlLWEtbGlmZXNhdmVyLWZvci1wdWJsaWMtaG91c2luZy10ZW5hbnRzLWdyYXBwbGluZy13aXRoLWF1c3RyYWxpYXMtc29hcmluZy1lbmVyZ3ktY29zdHPSAZ8BaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50LzIwMjMvYXByLzAzL3NvbGFyLXBhbmVscy1jb3VsZC1iZS1hLWxpZmVzYXZlci1mb3ItcHVibGljLWhvdXNpbmctdGVuYW50cy1ncmFwcGxpbmctd2l0aC1hdXN0cmFsaWFzLXNvYXJpbmctZW5lcmd5LWNvc3Rz",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 02 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvMjAyMy9hcHIvMDMvc29sYXItcGFuZWxzLWNvdWxkLWJlLWEtbGlmZXNhdmVyLWZvci1wdWJsaWMtaG91c2luZy10ZW5hbnRzLWdyYXBwbGluZy13aXRoLWF1c3RyYWxpYXMtc29hcmluZy1lbmVyZ3ktY29zdHPSAZ8BaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50LzIwMjMvYXByLzAzL3NvbGFyLXBhbmVscy1jb3VsZC1iZS1hLWxpZmVzYXZlci1mb3ItcHVibGljLWhvdXNpbmctdGVuYW50cy1ncmFwcGxpbmctd2l0aC1hdXN0cmFsaWFzLXNvYXJpbmctZW5lcmd5LWNvc3Rz?oc=5\" target=\"_blank\">Solar panels could be a lifesaver for public housing tenants grappling with Australia’s soaring energy costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+            ],
+            "source": [
+              {
+                "_": "The Guardian",
+                "$": {
+                  "url": "https://www.theguardian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rest of Briarwood Apartments unanimously declared nuisance despite tenant's plea - Searcy Daily Citizen"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy50aGVkYWlseWNpdGl6ZW4uY29tL25ld3MvcmVzdC1vZi1icmlhcndvb2QtYXBhcnRtZW50cy11bmFuaW1vdXNseS1kZWNsYXJlZC1udWlzYW5jZS1kZXNwaXRlLXRlbmFudHMtcGxlYS9hcnRpY2xlXzExZGViMWQwLTgzNTktNWJjNy1hOWNiLWFkYTIxNDUwNzJkZS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipgFodHRwczovL3d3dy50aGVkYWlseWNpdGl6ZW4uY29tL25ld3MvcmVzdC1vZi1icmlhcndvb2QtYXBhcnRtZW50cy11bmFuaW1vdXNseS1kZWNsYXJlZC1udWlzYW5jZS1kZXNwaXRlLXRlbmFudHMtcGxlYS9hcnRpY2xlXzExZGViMWQwLTgzNTktNWJjNy1hOWNiLWFkYTIxNDUwNzJkZS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 16 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy50aGVkYWlseWNpdGl6ZW4uY29tL25ld3MvcmVzdC1vZi1icmlhcndvb2QtYXBhcnRtZW50cy11bmFuaW1vdXNseS1kZWNsYXJlZC1udWlzYW5jZS1kZXNwaXRlLXRlbmFudHMtcGxlYS9hcnRpY2xlXzExZGViMWQwLTgzNTktNWJjNy1hOWNiLWFkYTIxNDUwNzJkZS5odG1s0gEA?oc=5\" target=\"_blank\">Rest of Briarwood Apartments unanimously declared nuisance despite tenant's plea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Searcy Daily Citizen</font>"
+            ],
+            "source": [
+              {
+                "_": "Searcy Daily Citizen",
+                "$": {
+                  "url": "https://www.thedailycitizen.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tenant left with no heating or hot water for months - Newark Advertiser"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5ld2Fya2FkdmVydGlzZXIuY28udWsvbmV3cy90ZW5hbnQtbGVmdC13aXRoLW5vLWhlYXRpbmctb3ItaG90LXdhdGVyLWZvci1tb250aHMtOTMzNjc0NS_SAWhodHRwczovL3d3dy5uZXdhcmthZHZlcnRpc2VyLmNvLnVrL25ld3MvYW1wL3RlbmFudC1sZWZ0LXdpdGgtbm8taGVhdGluZy1vci1ob3Qtd2F0ZXItZm9yLW1vbnRocy05MzM2NzQ1Lw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3Lm5ld2Fya2FkdmVydGlzZXIuY28udWsvbmV3cy90ZW5hbnQtbGVmdC13aXRoLW5vLWhlYXRpbmctb3ItaG90LXdhdGVyLWZvci1tb250aHMtOTMzNjc0NS_SAWhodHRwczovL3d3dy5uZXdhcmthZHZlcnRpc2VyLmNvLnVrL25ld3MvYW1wL3RlbmFudC1sZWZ0LXdpdGgtbm8taGVhdGluZy1vci1ob3Qtd2F0ZXItZm9yLW1vbnRocy05MzM2NzQ1Lw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5ld2Fya2FkdmVydGlzZXIuY28udWsvbmV3cy90ZW5hbnQtbGVmdC13aXRoLW5vLWhlYXRpbmctb3ItaG90LXdhdGVyLWZvci1tb250aHMtOTMzNjc0NS_SAWhodHRwczovL3d3dy5uZXdhcmthZHZlcnRpc2VyLmNvLnVrL25ld3MvYW1wL3RlbmFudC1sZWZ0LXdpdGgtbm8taGVhdGluZy1vci1ob3Qtd2F0ZXItZm9yLW1vbnRocy05MzM2NzQ1Lw?oc=5\" target=\"_blank\">Tenant left with no heating or hot water for months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newark Advertiser</font>"
+            ],
+            "source": [
+              {
+                "_": "Newark Advertiser",
+                "$": {
+                  "url": "https://www.newarkadvertiser.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Woman who alleges she miscarried after falling through Melbourne floor suing real estate agency - ABC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTEwLTI1L3RlbmFudHMtc3VlLWxhbmRsb3JkLWFuZC1yZWFsLWVzdGF0ZS1hZ2VuY3ktYWxsZWdlZC1mYWxsLzEwMzAwOTQwNtIBKGh0dHBzOi8vYW1wLmFiYy5uZXQuYXUvYXJ0aWNsZS8xMDMwMDk0MDY?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTEwLTI1L3RlbmFudHMtc3VlLWxhbmRsb3JkLWFuZC1yZWFsLWVzdGF0ZS1hZ2VuY3ktYWxsZWdlZC1mYWxsLzEwMzAwOTQwNtIBKGh0dHBzOi8vYW1wLmFiYy5uZXQuYXUvYXJ0aWNsZS8xMDMwMDk0MDY",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTEwLTI1L3RlbmFudHMtc3VlLWxhbmRsb3JkLWFuZC1yZWFsLWVzdGF0ZS1hZ2VuY3ktYWxsZWdlZC1mYWxsLzEwMzAwOTQwNtIBKGh0dHBzOi8vYW1wLmFiYy5uZXQuYXUvYXJ0aWNsZS8xMDMwMDk0MDY?oc=5\" target=\"_blank\">Woman who alleges she miscarried after falling through Melbourne floor suing real estate agency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC News",
+                "$": {
+                  "url": "https://www.abc.net.au"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The ACT is the only territory to limit rent increases but tenant groups say gaps in protection leave tenants vulnerable - The Canberra Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNhbmJlcnJhdGltZXMuY29tLmF1L3N0b3J5LzgyOTYwNTEvdGhlcmVzLWEtYmlnLWdhcC1pbi10aGUtbGF3LXdoZW4taXQtY29tZXMtdG8tcHJvdGVjdGluZy10ZW5hbnRzLWFkdm9jYXRlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmNhbmJlcnJhdGltZXMuY29tLmF1L3N0b3J5LzgyOTYwNTEvdGhlcmVzLWEtYmlnLWdhcC1pbi10aGUtbGF3LXdoZW4taXQtY29tZXMtdG8tcHJvdGVjdGluZy10ZW5hbnRzLWFkdm9jYXRlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNhbmJlcnJhdGltZXMuY29tLmF1L3N0b3J5LzgyOTYwNTEvdGhlcmVzLWEtYmlnLWdhcC1pbi10aGUtbGF3LXdoZW4taXQtY29tZXMtdG8tcHJvdGVjdGluZy10ZW5hbnRzLWFkdm9jYXRlL9IBAA?oc=5\" target=\"_blank\">The ACT is the only territory to limit rent increases but tenant groups say gaps in protection leave tenants vulnerable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Canberra Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Canberra Times",
+                "$": {
+                  "url": "https://www.canberratimes.com.au"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'A fight for everyone:' Community coalition backs Toronto tenant rent strike - CTV News Toronto"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdG9yb250by5jdHZuZXdzLmNhL2EtZmlnaHQtZm9yLWV2ZXJ5b25lLWNvbW11bml0eS1jb2FsaXRpb24tYmFja3MtdG9yb250by10ZW5hbnQtcmVudC1zdHJpa2UtMS42NTMyMjg50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vdG9yb250by5jdHZuZXdzLmNhL2EtZmlnaHQtZm9yLWV2ZXJ5b25lLWNvbW11bml0eS1jb2FsaXRpb24tYmFja3MtdG9yb250by10ZW5hbnQtcmVudC1zdHJpa2UtMS42NTMyMjg50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 23 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdG9yb250by5jdHZuZXdzLmNhL2EtZmlnaHQtZm9yLWV2ZXJ5b25lLWNvbW11bml0eS1jb2FsaXRpb24tYmFja3MtdG9yb250by10ZW5hbnQtcmVudC1zdHJpa2UtMS42NTMyMjg50gEA?oc=5\" target=\"_blank\">'A fight for everyone:' Community coalition backs Toronto tenant rent strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News Toronto</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News Toronto",
+                "$": {
+                  "url": "https://toronto.ctvnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Winnipeg mother living in car with son advocates for rental insurance after apartment fire - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tYW5pdG9iYS9xdWFpbC1yaWRnZS1hcGFydG1lbnRzLXJlbnRhbC1pbnN1cmFuY2UtMS42ODUxNDU50gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjY4NTE0NTk?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tYW5pdG9iYS9xdWFpbC1yaWRnZS1hcGFydG1lbnRzLXJlbnRhbC1pbnN1cmFuY2UtMS42ODUxNDU50gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjY4NTE0NTk",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tYW5pdG9iYS9xdWFpbC1yaWRnZS1hcGFydG1lbnRzLXJlbnRhbC1pbnN1cmFuY2UtMS42ODUxNDU50gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjY4NTE0NTk?oc=5\" target=\"_blank\">Winnipeg mother living in car with son advocates for rental insurance after apartment fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A week in the life of… a building safety manager - Inside Housing"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lmluc2lkZWhvdXNpbmcuY28udWsvaW5zaWdodC9hLXdlZWstaW4tdGhlLWxpZmUtb2YtYS1idWlsZGluZy1zYWZldHktbWFuYWdlci0yLTc5Mjg40gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3Lmluc2lkZWhvdXNpbmcuY28udWsvaW5zaWdodC9hLXdlZWstaW4tdGhlLWxpZmUtb2YtYS1idWlsZGluZy1zYWZldHktbWFuYWdlci0yLTc5Mjg40gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lmluc2lkZWhvdXNpbmcuY28udWsvaW5zaWdodC9hLXdlZWstaW4tdGhlLWxpZmUtb2YtYS1idWlsZGluZy1zYWZldHktbWFuYWdlci0yLTc5Mjg40gEA?oc=5\" target=\"_blank\">A week in the life of… a building safety manager</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Housing</font>"
+            ],
+            "source": [
+              {
+                "_": "Inside Housing",
+                "$": {
+                  "url": "https://www.insidehousing.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NoHo Tenants Fearful After Landlord Begins Tearing Down Building - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9ob3VzaW5nLzIwMjAvMDcvMTYvbm9oby10ZW5hbnRzLWZlYXJmdWwtYWZ0ZXItbGFuZGxvcmQtYmVnaW5zLXRlYXJpbmctZG93bi1idWlsZGluZ9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9ob3VzaW5nLzIwMjAvMDcvMTYvbm9oby10ZW5hbnRzLWZlYXJmdWwtYWZ0ZXItbGFuZGxvcmQtYmVnaW5zLXRlYXJpbmctZG93bi1idWlsZGluZ9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Jul 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9ob3VzaW5nLzIwMjAvMDcvMTYvbm9oby10ZW5hbnRzLWZlYXJmdWwtYWZ0ZXItbGFuZGxvcmQtYmVnaW5zLXRlYXJpbmctZG93bi1idWlsZGluZ9IBAA?oc=5\" target=\"_blank\">NoHo Tenants Fearful After Landlord Begins Tearing Down Building</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Landlord says city is responsible for flood that displaced hundreds of East Oakland tenants - The Oaklandside"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMTcvY29saXNldW0tY29ubmVjdGlvbnMtbGVnYWwtY2xhaW0tb2FrbGFuZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMTcvY29saXNldW0tY29ubmVjdGlvbnMtbGVnYWwtY2xhaW0tb2FrbGFuZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 17 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMTcvY29saXNldW0tY29ubmVjdGlvbnMtbGVnYWwtY2xhaW0tb2FrbGFuZC_SAQA?oc=5\" target=\"_blank\">Landlord says city is responsible for flood that displaced hundreds of East Oakland tenants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>"
+            ],
+            "source": [
+              {
+                "_": "The Oaklandside",
+                "$": {
+                  "url": "https://oaklandside.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "$500 to Apply for an Apartment? So Much for the $20 Cap (Published 2019) - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTkvMDkvMDMvbnlyZWdpb24vYXBhcnRtZW50LXJlbnRhbC1hcHBsaWNhdGlvbi1mZWVzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTkvMDkvMDMvbnlyZWdpb24vYXBhcnRtZW50LXJlbnRhbC1hcHBsaWNhdGlvbi1mZWVzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Sep 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTkvMDkvMDMvbnlyZWdpb24vYXBhcnRtZW50LXJlbnRhbC1hcHBsaWNhdGlvbi1mZWVzLmh0bWzSAQA?oc=5\" target=\"_blank\">$500 to Apply for an Apartment? So Much for the $20 Cap (Published 2019)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Elizabeth Warren and Paul Ryan Campaign in West Virginia Senate Race | TIME - TIME"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGltZS5jb20vMjk4MzAyMC9lbGl6YWJldGgtd2FycmVuLXBhdWwtcnlhbi13ZXN0LXZpcmdpbmlhLTIwMTQtZWxlY3Rpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vdGltZS5jb20vMjk4MzAyMC9lbGl6YWJldGgtd2FycmVuLXBhdWwtcnlhbi13ZXN0LXZpcmdpbmlhLTIwMTQtZWxlY3Rpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 14 Jul 2014 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGltZS5jb20vMjk4MzAyMC9lbGl6YWJldGgtd2FycmVuLXBhdWwtcnlhbi13ZXN0LXZpcmdpbmlhLTIwMTQtZWxlY3Rpb24v0gEA?oc=5\" target=\"_blank\">Elizabeth Warren and Paul Ryan Campaign in West Virginia Senate Race | TIME</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIME</font>"
+            ],
+            "source": [
+              {
+                "_": "TIME",
+                "$": {
+                  "url": "https://time.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rent control for RVs? Policy could extend protections to nontraditional tenants - The Oaklandside"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjEvMTAvMjIvcmVudC1jb250cm9sLWZvci1ydnMtcG9saWN5LWNvdWxkLWV4dGVuZC1wcm90ZWN0aW9ucy10by1ub250cmFkaXRpb25hbC10ZW5hbnRzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjEvMTAvMjIvcmVudC1jb250cm9sLWZvci1ydnMtcG9saWN5LWNvdWxkLWV4dGVuZC1wcm90ZWN0aW9ucy10by1ub250cmFkaXRpb25hbC10ZW5hbnRzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Oct 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjEvMTAvMjIvcmVudC1jb250cm9sLWZvci1ydnMtcG9saWN5LWNvdWxkLWV4dGVuZC1wcm90ZWN0aW9ucy10by1ub250cmFkaXRpb25hbC10ZW5hbnRzL9IBAA?oc=5\" target=\"_blank\">Rent control for RVs? Policy could extend protections to nontraditional tenants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>"
+            ],
+            "source": [
+              {
+                "_": "The Oaklandside",
+                "$": {
+                  "url": "https://oaklandside.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A 'tsunami' of evictions hits Alameda County housing court - The Oaklandside"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMDgvYWxhbWVkYS1jb3VudHktZXZpY3Rpb24tY291cnQtb2FrbGFuZC1oYXl3YXJkL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMDgvYWxhbWVkYS1jb3VudHktZXZpY3Rpb24tY291cnQtb2FrbGFuZC1oYXl3YXJkL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMDgvYWxhbWVkYS1jb3VudHktZXZpY3Rpb24tY291cnQtb2FrbGFuZC1oYXl3YXJkL9IBAA?oc=5\" target=\"_blank\">A 'tsunami' of evictions hits Alameda County housing court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>"
+            ],
+            "source": [
+              {
+                "_": "The Oaklandside",
+                "$": {
+                  "url": "https://oaklandside.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Oakland landlord hit with $3.9 million penalty for hazardous housing conditions - The Oaklandside"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjEvMDkvMTMvb2FrbGFuZC1sYW5kbG9yZC1oaXQtd2l0aC0zLTktbWlsbGlvbi1wZW5hbHR5LWZvci1oYXphcmRvdXMtaG91c2luZy1jb25kaXRpb25zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjEvMDkvMTMvb2FrbGFuZC1sYW5kbG9yZC1oaXQtd2l0aC0zLTktbWlsbGlvbi1wZW5hbHR5LWZvci1oYXphcmRvdXMtaG91c2luZy1jb25kaXRpb25zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Sep 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjEvMDkvMTMvb2FrbGFuZC1sYW5kbG9yZC1oaXQtd2l0aC0zLTktbWlsbGlvbi1wZW5hbHR5LWZvci1oYXphcmRvdXMtaG91c2luZy1jb25kaXRpb25zL9IBAA?oc=5\" target=\"_blank\">Oakland landlord hit with $3.9 million penalty for hazardous housing conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>"
+            ],
+            "source": [
+              {
+                "_": "The Oaklandside",
+                "$": {
+                  "url": "https://oaklandside.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tenants protest no heat, leaks, cockroaches at apartments owned by KP Market grocer - The Oaklandside"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMTEvMjkvb2FrbGFuZC1rb3JlYW5hLXBsYXphLXRlbmFudC1wcm90ZXN0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMTEvMjkvb2FrbGFuZC1rb3JlYW5hLXBsYXphLXRlbmFudC1wcm90ZXN0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMTEvMjkvb2FrbGFuZC1rb3JlYW5hLXBsYXphLXRlbmFudC1wcm90ZXN0L9IBAA?oc=5\" target=\"_blank\">Tenants protest no heat, leaks, cockroaches at apartments owned by KP Market grocer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>"
+            ],
+            "source": [
+              {
+                "_": "The Oaklandside",
+                "$": {
+                  "url": "https://oaklandside.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2 years into a rent strike, Fruitvale tenants say they have a deal to buy their building - The Oaklandside"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjEvMTIvMTcvZnJ1aXR2YWxlLW9ha2xhbmQtcmVudC1zdHJpa2UtbGFuZC10cnVzdC1kZWFsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjEvMTIvMTcvZnJ1aXR2YWxlLW9ha2xhbmQtcmVudC1zdHJpa2UtbGFuZC10cnVzdC1kZWFsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjEvMTIvMTcvZnJ1aXR2YWxlLW9ha2xhbmQtcmVudC1zdHJpa2UtbGFuZC10cnVzdC1kZWFsL9IBAA?oc=5\" target=\"_blank\">2 years into a rent strike, Fruitvale tenants say they have a deal to buy their building</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>"
+            ],
+            "source": [
+              {
+                "_": "The Oaklandside",
+                "$": {
+                  "url": "https://oaklandside.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Under a new Oakland law, there could be fewer 'trivial' evictions - The Oaklandside"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDYvMDcvb2FrbGFuZC1jaXR5LWNvdW5jaWwtZXZpY3Rpb24tbGVhc2Uv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDYvMDcvb2FrbGFuZC1jaXR5LWNvdW5jaWwtZXZpY3Rpb24tbGVhc2Uv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDYvMDcvb2FrbGFuZC1jaXR5LWNvdW5jaWwtZXZpY3Rpb24tbGVhc2Uv0gEA?oc=5\" target=\"_blank\">Under a new Oakland law, there could be fewer 'trivial' evictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>"
+            ],
+            "source": [
+              {
+                "_": "The Oaklandside",
+                "$": {
+                  "url": "https://oaklandside.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Boxed in: Eviction moving costs shock Dane County landlords, tenants - The Capital Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL2NhcHRpbWVzLmNvbS9uZXdzL2JveGVkLWluLWV2aWN0aW9uLW1vdmluZy1jb3N0cy1zaG9jay1kYW5lLWNvdW50eS1sYW5kbG9yZHMtdGVuYW50cy9hcnRpY2xlXzQ5ZmVhODIxLTkzM2YtNTU3NC1iZWY5LTVhMWUwZjliYjRlOC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL2NhcHRpbWVzLmNvbS9uZXdzL2JveGVkLWluLWV2aWN0aW9uLW1vdmluZy1jb3N0cy1zaG9jay1kYW5lLWNvdW50eS1sYW5kbG9yZHMtdGVuYW50cy9hcnRpY2xlXzQ5ZmVhODIxLTkzM2YtNTU3NC1iZWY5LTVhMWUwZjliYjRlOC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 11 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL2NhcHRpbWVzLmNvbS9uZXdzL2JveGVkLWluLWV2aWN0aW9uLW1vdmluZy1jb3N0cy1zaG9jay1kYW5lLWNvdW50eS1sYW5kbG9yZHMtdGVuYW50cy9hcnRpY2xlXzQ5ZmVhODIxLTkzM2YtNTU3NC1iZWY5LTVhMWUwZjliYjRlOC5odG1s0gEA?oc=5\" target=\"_blank\">Boxed in: Eviction moving costs shock Dane County landlords, tenants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Capital Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Capital Times",
+                "$": {
+                  "url": "https://captimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tenant sues after eviction from home of 29 years - - Santa Monica Daily Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vc21kcC5jb20vMjAxOS8xMS8wNy90ZW5hbnQtaW5pdGlhdGVzLWxhd3N1aXQtYWdhaW5zdC1sYW5kbG9yZC1hZnRlci1sb3NpbmctcmVudC1jb250cm9sbGVkLWFwYXJ0bWVudC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vc21kcC5jb20vMjAxOS8xMS8wNy90ZW5hbnQtaW5pdGlhdGVzLWxhd3N1aXQtYWdhaW5zdC1sYW5kbG9yZC1hZnRlci1sb3NpbmctcmVudC1jb250cm9sbGVkLWFwYXJ0bWVudC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Nov 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vc21kcC5jb20vMjAxOS8xMS8wNy90ZW5hbnQtaW5pdGlhdGVzLWxhd3N1aXQtYWdhaW5zdC1sYW5kbG9yZC1hZnRlci1sb3NpbmctcmVudC1jb250cm9sbGVkLWFwYXJ0bWVudC_SAQA?oc=5\" target=\"_blank\">Tenant sues after eviction from home of 29 years -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Santa Monica Daily Press",
+                "$": {
+                  "url": "https://smdp.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Houston woman charged with killing landlord, hiding him, stealing rent - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIzL2hvdXN0b24td29tYW4tY2hhcmdlZC13aXRoLWtpbGxpbmctbGFuZGxvcmQtaGlkaW5nLWJvZHkvNzA2NTcwOTkwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIzL2hvdXN0b24td29tYW4tY2hhcmdlZC13aXRoLWtpbGxpbmctbGFuZGxvcmQtaGlkaW5nLWJvZHkvNzA2NTcwOTkwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 23 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIzL2hvdXN0b24td29tYW4tY2hhcmdlZC13aXRoLWtpbGxpbmctbGFuZGxvcmQtaGlkaW5nLWJvZHkvNzA2NTcwOTkwMDcv0gEA?oc=5\" target=\"_blank\">Houston woman charged with killing landlord, hiding him, stealing rent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bedbugs, break-ins plague Uptown senior housing, tenants say - The Oaklandside"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMTEvYWNjZS1zZW5pb3ItaG91c2luZy1vYWtsYW5kLXJlbnRhbC1pbnNwZWN0aW9uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMTEvYWNjZS1zZW5pb3ItaG91c2luZy1vYWtsYW5kLXJlbnRhbC1pbnNwZWN0aW9uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 11 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjMvMDgvMTEvYWNjZS1zZW5pb3ItaG91c2luZy1vYWtsYW5kLXJlbnRhbC1pbnNwZWN0aW9uL9IBAA?oc=5\" target=\"_blank\">Bedbugs, break-ins plague Uptown senior housing, tenants say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>"
+            ],
+            "source": [
+              {
+                "_": "The Oaklandside",
+                "$": {
+                  "url": "https://oaklandside.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NYC's 41 Broadway Theaters, Ranked - Vulture"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnZ1bHR1cmUuY29tLzIwMTgvMDYvbnljcy00MS1icm9hZHdheS10aGVhdGVycy1yYW5rZWQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vd3d3LnZ1bHR1cmUuY29tLzIwMTgvMDYvbnljcy00MS1icm9hZHdheS10aGVhdGVycy1yYW5rZWQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Jun 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnZ1bHR1cmUuY29tLzIwMTgvMDYvbnljcy00MS1icm9hZHdheS10aGVhdGVycy1yYW5rZWQuaHRtbNIBAA?oc=5\" target=\"_blank\">NYC's 41 Broadway Theaters, Ranked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vulture</font>"
+            ],
+            "source": [
+              {
+                "_": "Vulture",
+                "$": {
+                  "url": "https://www.vulture.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Oakland tenants facing highest rent hike in decades - The Oaklandside"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjIvMDQvMjgvb2FrbGFuZC10ZW5hbnRzLWZhY2luZy1oaWdoZXN0LXJlbnQtaGlrZS1pbi1kZWNhZGVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjIvMDQvMjgvb2FrbGFuZC10ZW5hbnRzLWZhY2luZy1oaWdoZXN0LXJlbnQtaGlrZS1pbi1kZWNhZGVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjIvMDQvMjgvb2FrbGFuZC10ZW5hbnRzLWZhY2luZy1oaWdoZXN0LXJlbnQtaGlrZS1pbi1kZWNhZGVzL9IBAA?oc=5\" target=\"_blank\">Oakland tenants facing highest rent hike in decades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>"
+            ],
+            "source": [
+              {
+                "_": "The Oaklandside",
+                "$": {
+                  "url": "https://oaklandside.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tenants Say It's a Nightmare at $100M 'Co-Living' Startup - The Daily Beast"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL2NvbW1vbnMtdGVuYW50cy1zYXktaXRzLWEtbmlnaHRtYXJlLWF0LWRvbGxhcjEwMG0tY28tbGl2aW5nLXN0YXJ0dXDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL2NvbW1vbnMtdGVuYW50cy1zYXktaXRzLWEtbmlnaHRtYXJlLWF0LWRvbGxhcjEwMG0tY28tbGl2aW5nLXN0YXJ0dXDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 08 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL2NvbW1vbnMtdGVuYW50cy1zYXktaXRzLWEtbmlnaHRtYXJlLWF0LWRvbGxhcjEwMG0tY28tbGl2aW5nLXN0YXJ0dXDSAQA?oc=5\" target=\"_blank\">Tenants Say It's a Nightmare at $100M 'Co-Living' Startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Beast",
+                "$": {
+                  "url": "https://www.thedailybeast.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North Carolina homeowner says her new home was listed on Airbnb by evicted tenant - Fox Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS90ZWNobm9sb2d5L25vcnRoLWNhcm9saW5hLWhvbWVvd25lci1zYXlzLW5ldy1ob21lLWxpc3RlZC1haXJibmItZXZpY3RlZC10ZW5hbnTSAW5odHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vdGVjaG5vbG9neS9ub3J0aC1jYXJvbGluYS1ob21lb3duZXItc2F5cy1uZXctaG9tZS1saXN0ZWQtYWlyYm5iLWV2aWN0ZWQtdGVuYW50LmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS90ZWNobm9sb2d5L25vcnRoLWNhcm9saW5hLWhvbWVvd25lci1zYXlzLW5ldy1ob21lLWxpc3RlZC1haXJibmItZXZpY3RlZC10ZW5hbnTSAW5odHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vdGVjaG5vbG9neS9ub3J0aC1jYXJvbGluYS1ob21lb3duZXItc2F5cy1uZXctaG9tZS1saXN0ZWQtYWlyYm5iLWV2aWN0ZWQtdGVuYW50LmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS90ZWNobm9sb2d5L25vcnRoLWNhcm9saW5hLWhvbWVvd25lci1zYXlzLW5ldy1ob21lLWxpc3RlZC1haXJibmItZXZpY3RlZC10ZW5hbnTSAW5odHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vdGVjaG5vbG9neS9ub3J0aC1jYXJvbGluYS1ob21lb3duZXItc2F5cy1uZXctaG9tZS1saXN0ZWQtYWlyYm5iLWV2aWN0ZWQtdGVuYW50LmFtcA?oc=5\" target=\"_blank\">North Carolina homeowner says her new home was listed on Airbnb by evicted tenant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox Business",
+                "$": {
+                  "url": "https://www.foxbusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "D.C. renters can come out winners if their building is up for sale - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcmVhbGVzdGF0ZS9kYy1yZW50ZXJzLWNhbi1jb21lLW91dC13aW5uZXJzLWlmLXRoZWlyLWJ1aWxkaW5nLWlzLXVwLWZvci1zYWxlLzIwMTUvMTAvMTQvNTMzYTI3YzAtMzIzMC0xMWU1LTk3YWUtMzBhMzBjY2E5NWQ3X3N0b3J5Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipQFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcmVhbGVzdGF0ZS9kYy1yZW50ZXJzLWNhbi1jb21lLW91dC13aW5uZXJzLWlmLXRoZWlyLWJ1aWxkaW5nLWlzLXVwLWZvci1zYWxlLzIwMTUvMTAvMTQvNTMzYTI3YzAtMzIzMC0xMWU1LTk3YWUtMzBhMzBjY2E5NWQ3X3N0b3J5Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 15 Oct 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcmVhbGVzdGF0ZS9kYy1yZW50ZXJzLWNhbi1jb21lLW91dC13aW5uZXJzLWlmLXRoZWlyLWJ1aWxkaW5nLWlzLXVwLWZvci1zYWxlLzIwMTUvMTAvMTQvNTMzYTI3YzAtMzIzMC0xMWU1LTk3YWUtMzBhMzBjY2E5NWQ3X3N0b3J5Lmh0bWzSAQA?oc=5\" target=\"_blank\">D.C. renters can come out winners if their building is up for sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Police: Landlord arrested for hiding camera in female tenant's bathroom - Tennessean"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy50ZW5uZXNzZWFuLmNvbS9zdG9yeS9uZXdzLzIwMTkvMDYvMjYvbGFuZGxvcmQtYXJyZXN0ZWQtaGlkaW5nLWNhbWVyYS1mZW1hbGUtdGVuYW50LWJhdGhyb29tLWFuZHJldy13YWxzaC1uYXNodmlsbGUtcG9saWNlLzE1NzQxMDgwMDEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3d3dy50ZW5uZXNzZWFuLmNvbS9zdG9yeS9uZXdzLzIwMTkvMDYvMjYvbGFuZGxvcmQtYXJyZXN0ZWQtaGlkaW5nLWNhbWVyYS1mZW1hbGUtdGVuYW50LWJhdGhyb29tLWFuZHJldy13YWxzaC1uYXNodmlsbGUtcG9saWNlLzE1NzQxMDgwMDEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jun 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy50ZW5uZXNzZWFuLmNvbS9zdG9yeS9uZXdzLzIwMTkvMDYvMjYvbGFuZGxvcmQtYXJyZXN0ZWQtaGlkaW5nLWNhbWVyYS1mZW1hbGUtdGVuYW50LWJhdGhyb29tLWFuZHJldy13YWxzaC1uYXNodmlsbGUtcG9saWNlLzE1NzQxMDgwMDEv0gEA?oc=5\" target=\"_blank\">Police: Landlord arrested for hiding camera in female tenant's bathroom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessean</font>"
+            ],
+            "source": [
+              {
+                "_": "Tennessean",
+                "$": {
+                  "url": "https://www.tennessean.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "5 new tenants heading to Mall at Fairfield Commons - dayton.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRheXRvbi5jb20vd2hhdC10by1rbm93LzUtbmV3LXRlbmFudHMtaGVhZGluZy10by1tYWxsLWF0LWZhaXJmaWVsZC1jb21tb25zLzdTTDJPTklEVlpERUhCWURXQVAyTkRTSU40L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmRheXRvbi5jb20vd2hhdC10by1rbm93LzUtbmV3LXRlbmFudHMtaGVhZGluZy10by1tYWxsLWF0LWZhaXJmaWVsZC1jb21tb25zLzdTTDJPTklEVlpERUhCWURXQVAyTkRTSU40L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 25 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRheXRvbi5jb20vd2hhdC10by1rbm93LzUtbmV3LXRlbmFudHMtaGVhZGluZy10by1tYWxsLWF0LWZhaXJmaWVsZC1jb21tb25zLzdTTDJPTklEVlpERUhCWURXQVAyTkRTSU40L9IBAA?oc=5\" target=\"_blank\">5 new tenants heading to Mall at Fairfield Commons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dayton.com</font>"
+            ],
+            "source": [
+              {
+                "_": "dayton.com",
+                "$": {
+                  "url": "https://www.dayton.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Law to stop bad-faith evictions not working, lawyers and tenants say - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL3RlbmFudC1sYW5kbG9yZC1ldmljdGlvbi1yZWd1bGF0aW9ucy1jb3JrdG93bi1yZWFsZXN0YXRlYWdlbnQtMS40ODY1NzQ20gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjQ4NjU3NDY?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL3RlbmFudC1sYW5kbG9yZC1ldmljdGlvbi1yZWd1bGF0aW9ucy1jb3JrdG93bi1yZWFsZXN0YXRlYWdlbnQtMS40ODY1NzQ20gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjQ4NjU3NDY",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL3RlbmFudC1sYW5kbG9yZC1ldmljdGlvbi1yZWd1bGF0aW9ucy1jb3JrdG93bi1yZWFsZXN0YXRlYWdlbnQtMS40ODY1NzQ20gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjQ4NjU3NDY?oc=5\" target=\"_blank\">Law to stop bad-faith evictions not working, lawyers and tenants say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Chief Master Sergeant NATALIE L. GRAY - Minuteman"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRvYmJpbnMuYWZyYy5hZi5taWwvQWJvdXQtVXMvQmlvZ3JhcGhpZXMvRGlzcGxheS9BcnRpY2xlLzI5NTY0NTcvbmF0YWxpZS1sLWdyYXkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LmRvYmJpbnMuYWZyYy5hZi5taWwvQWJvdXQtVXMvQmlvZ3JhcGhpZXMvRGlzcGxheS9BcnRpY2xlLzI5NTY0NTcvbmF0YWxpZS1sLWdyYXkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 17:25:07 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRvYmJpbnMuYWZyYy5hZi5taWwvQWJvdXQtVXMvQmlvZ3JhcGhpZXMvRGlzcGxheS9BcnRpY2xlLzI5NTY0NTcvbmF0YWxpZS1sLWdyYXkv0gEA?oc=5\" target=\"_blank\">Chief Master Sergeant NATALIE L. GRAY</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Minuteman</font>"
+            ],
+            "source": [
+              {
+                "_": "Minuteman",
+                "$": {
+                  "url": "https://www.dobbins.afrc.af.mil"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "East Oakland artists halt plan to redevelop their live-work building - The Oaklandside"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjIvMDgvMTIvZWFzdC1vYWtsYW5kLWFydGlzdHMtaGFsdC1kZXZlbG9wbWVudC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjIvMDgvMTIvZWFzdC1vYWtsYW5kLWFydGlzdHMtaGFsdC1kZXZlbG9wbWVudC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vb2FrbGFuZHNpZGUub3JnLzIwMjIvMDgvMTIvZWFzdC1vYWtsYW5kLWFydGlzdHMtaGFsdC1kZXZlbG9wbWVudC_SAQA?oc=5\" target=\"_blank\">East Oakland artists halt plan to redevelop their live-work building</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>"
+            ],
+            "source": [
+              {
+                "_": "The Oaklandside",
+                "$": {
+                  "url": "https://oaklandside.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Hen House Family Restaurant is back - The State Journal-Register"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5zai1yLmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L2RpbmluZy9yZXN0YXVyYW50LXJldmlld3MvMjAyMy8wNy8wMi90aGUtaGVuLWhvdXNlLWZhbWlseS1yZXN0YXVyYW50LWlzLWJhY2svNzAzNjU1NDgwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5zai1yLmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L2RpbmluZy9yZXN0YXVyYW50LXJldmlld3MvMjAyMy8wNy8wMi90aGUtaGVuLWhvdXNlLWZhbWlseS1yZXN0YXVyYW50LWlzLWJhY2svNzAzNjU1NDgwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 02 Jul 2023 10:05:50 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5zai1yLmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L2RpbmluZy9yZXN0YXVyYW50LXJldmlld3MvMjAyMy8wNy8wMi90aGUtaGVuLWhvdXNlLWZhbWlseS1yZXN0YXVyYW50LWlzLWJhY2svNzAzNjU1NDgwMDcv0gEA?oc=5\" target=\"_blank\">The Hen House Family Restaurant is back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The State Journal-Register</font>"
+            ],
+            "source": [
+              {
+                "_": "The State Journal-Register",
+                "$": {
+                  "url": "https://www.sj-r.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "In Yellow Springs: Pizza shop owners buy building; tenant Subway closes - dayton.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5kYXl0b24uY29tL3doYXQtdG8ta25vdy9pbi15ZWxsb3ctc3ByaW5ncy1waXp6YS1zaG9wLW93bmVycy1idXktYnVpbGRpbmctdGVuYW50LXN1YndheS1jbG9zZXMvVlBBSjZMNTdKVkFHNVA0QU9TWE5aSUNGTEEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5kYXl0b24uY29tL3doYXQtdG8ta25vdy9pbi15ZWxsb3ctc3ByaW5ncy1waXp6YS1zaG9wLW93bmVycy1idXktYnVpbGRpbmctdGVuYW50LXN1YndheS1jbG9zZXMvVlBBSjZMNTdKVkFHNVA0QU9TWE5aSUNGTEEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 26 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5kYXl0b24uY29tL3doYXQtdG8ta25vdy9pbi15ZWxsb3ctc3ByaW5ncy1waXp6YS1zaG9wLW93bmVycy1idXktYnVpbGRpbmctdGVuYW50LXN1YndheS1jbG9zZXMvVlBBSjZMNTdKVkFHNVA0QU9TWE5aSUNGTEEv0gEA?oc=5\" target=\"_blank\">In Yellow Springs: Pizza shop owners buy building; tenant Subway closes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dayton.com</font>"
+            ],
+            "source": [
+              {
+                "_": "dayton.com",
+                "$": {
+                  "url": "https://www.dayton.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What every renter needs to know about tenant's insurance - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL2Rpc3BsYWNlZC1zdC1qYW1lcy10b3duLWZpcmUtc3RydWdnbGluZy13aXRob3V0LWluc3VyYW5jZS0xLjQ4MDUyMTDSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNDgwNTIxMA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL2Rpc3BsYWNlZC1zdC1qYW1lcy10b3duLWZpcmUtc3RydWdnbGluZy13aXRob3V0LWluc3VyYW5jZS0xLjQ4MDUyMTDSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNDgwNTIxMA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Sep 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL2Rpc3BsYWNlZC1zdC1qYW1lcy10b3duLWZpcmUtc3RydWdnbGluZy13aXRob3V0LWluc3VyYW5jZS0xLjQ4MDUyMTDSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNDgwNTIxMA?oc=5\" target=\"_blank\">What every renter needs to know about tenant's insurance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Failure to provide safe and healthy housing': Tenants sue the Cambridge Square Apartments - KTVB.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5rdHZiLmNvbS9hcnRpY2xlL25ld3MvbG9jYWwvbG9jYWwtZmFpbHVyZS10by1wcm92aWRlLXNhZmUtYW5kLWhlYWx0aHktaG91c2luZy10ZW5hbnRzLXN1ZS10aGUtY2FtYnJpZGdlLXNxdWFyZS1hcGFydG1lbnRzLzI3Ny1lYzAwYjY3Mi01M2MwLTQ5MWItODU2NC03ZTdhMjVmNzRkMmXSAbIBaHR0cHM6Ly93d3cua3R2Yi5jb20vYW1wL2FydGljbGUvbmV3cy9sb2NhbC9sb2NhbC1mYWlsdXJlLXRvLXByb3ZpZGUtc2FmZS1hbmQtaGVhbHRoeS1ob3VzaW5nLXRlbmFudHMtc3VlLXRoZS1jYW1icmlkZ2Utc3F1YXJlLWFwYXJ0bWVudHMvMjc3LWVjMDBiNjcyLTUzYzAtNDkxYi04NTY0LTdlN2EyNWY3NGQyZQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirgFodHRwczovL3d3dy5rdHZiLmNvbS9hcnRpY2xlL25ld3MvbG9jYWwvbG9jYWwtZmFpbHVyZS10by1wcm92aWRlLXNhZmUtYW5kLWhlYWx0aHktaG91c2luZy10ZW5hbnRzLXN1ZS10aGUtY2FtYnJpZGdlLXNxdWFyZS1hcGFydG1lbnRzLzI3Ny1lYzAwYjY3Mi01M2MwLTQ5MWItODU2NC03ZTdhMjVmNzRkMmXSAbIBaHR0cHM6Ly93d3cua3R2Yi5jb20vYW1wL2FydGljbGUvbmV3cy9sb2NhbC9sb2NhbC1mYWlsdXJlLXRvLXByb3ZpZGUtc2FmZS1hbmQtaGVhbHRoeS1ob3VzaW5nLXRlbmFudHMtc3VlLXRoZS1jYW1icmlkZ2Utc3F1YXJlLWFwYXJ0bWVudHMvMjc3LWVjMDBiNjcyLTUzYzAtNDkxYi04NTY0LTdlN2EyNWY3NGQyZQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 01 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5rdHZiLmNvbS9hcnRpY2xlL25ld3MvbG9jYWwvbG9jYWwtZmFpbHVyZS10by1wcm92aWRlLXNhZmUtYW5kLWhlYWx0aHktaG91c2luZy10ZW5hbnRzLXN1ZS10aGUtY2FtYnJpZGdlLXNxdWFyZS1hcGFydG1lbnRzLzI3Ny1lYzAwYjY3Mi01M2MwLTQ5MWItODU2NC03ZTdhMjVmNzRkMmXSAbIBaHR0cHM6Ly93d3cua3R2Yi5jb20vYW1wL2FydGljbGUvbmV3cy9sb2NhbC9sb2NhbC1mYWlsdXJlLXRvLXByb3ZpZGUtc2FmZS1hbmQtaGVhbHRoeS1ob3VzaW5nLXRlbmFudHMtc3VlLXRoZS1jYW1icmlkZ2Utc3F1YXJlLWFwYXJ0bWVudHMvMjc3LWVjMDBiNjcyLTUzYzAtNDkxYi04NTY0LTdlN2EyNWY3NGQyZQ?oc=5\" target=\"_blank\">'Failure to provide safe and healthy housing': Tenants sue the Cambridge Square Apartments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVB.com</font>"
+            ],
+            "source": [
+              {
+                "_": "KTVB.com",
+                "$": {
+                  "url": "https://www.ktvb.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "3 Practical Ways to Limit a Tenant’s Indemnification Obligation - Globe St."
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lmdsb2Jlc3QuY29tL3NpdGVzL25hdGFsaWVkb2xjZS8yMDE3LzAyLzAzLzMtcHJhY3RpY2FsLXdheXMtdG8tbGltaXQtYS10ZW5hbnRzLWluZGVtbmlmaWNhdGlvbi1vYmxpZ2F0aW9uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3Lmdsb2Jlc3QuY29tL3NpdGVzL25hdGFsaWVkb2xjZS8yMDE3LzAyLzAzLzMtcHJhY3RpY2FsLXdheXMtdG8tbGltaXQtYS10ZW5hbnRzLWluZGVtbmlmaWNhdGlvbi1vYmxpZ2F0aW9uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Feb 2017 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lmdsb2Jlc3QuY29tL3NpdGVzL25hdGFsaWVkb2xjZS8yMDE3LzAyLzAzLzMtcHJhY3RpY2FsLXdheXMtdG8tbGltaXQtYS10ZW5hbnRzLWluZGVtbmlmaWNhdGlvbi1vYmxpZ2F0aW9uL9IBAA?oc=5\" target=\"_blank\">3 Practical Ways to Limit a Tenant’s Indemnification Obligation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Globe St.</font>"
+            ],
+            "source": [
+              {
+                "_": "Globe St.",
+                "$": {
+                  "url": "https://www.globest.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Longtime Tenants in Manhattan See an Effort to Push Them Out (Published 2015) - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTUvMDYvMTkvbnlyZWdpb24vbG9uZ3RpbWUtdGVuYW50cy1pbi1tYW5oYXR0YW4tc2VlLWFuLWVmZm9ydC10by1wdXNoLXRoZW0tb3V0Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTUvMDYvMTkvbnlyZWdpb24vbG9uZ3RpbWUtdGVuYW50cy1pbi1tYW5oYXR0YW4tc2VlLWFuLWVmZm9ydC10by1wdXNoLXRoZW0tb3V0Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jun 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTUvMDYvMTkvbnlyZWdpb24vbG9uZ3RpbWUtdGVuYW50cy1pbi1tYW5oYXR0YW4tc2VlLWFuLWVmZm9ydC10by1wdXNoLXRoZW0tb3V0Lmh0bWzSAQA?oc=5\" target=\"_blank\">Longtime Tenants in Manhattan See an Effort to Push Them Out (Published 2015)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Natalie Tyrrell named Chief Judge of North Las Vegas Justice Court - KTNV 13 Action News Las Vegas"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lmt0bnYuY29tL3Bvc2l0aXZlbHlsdi9uYXRhbGllLXR5cnJlbGwtbmFtZWQtY2hpZWYtanVkZ2Utb2Ytbm9ydGgtbGFzLXZlZ2FzLWp1c3RpY2UtY291cnTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3Lmt0bnYuY29tL3Bvc2l0aXZlbHlsdi9uYXRhbGllLXR5cnJlbGwtbmFtZWQtY2hpZWYtanVkZ2Utb2Ytbm9ydGgtbGFzLXZlZ2FzLWp1c3RpY2UtY291cnTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 26 Jan 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lmt0bnYuY29tL3Bvc2l0aXZlbHlsdi9uYXRhbGllLXR5cnJlbGwtbmFtZWQtY2hpZWYtanVkZ2Utb2Ytbm9ydGgtbGFzLXZlZ2FzLWp1c3RpY2UtY291cnTSAQA?oc=5\" target=\"_blank\">Natalie Tyrrell named Chief Judge of North Las Vegas Justice Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTNV 13 Action News Las Vegas</font>"
+            ],
+            "source": [
+              {
+                "_": "KTNV 13 Action News Las Vegas",
+                "$": {
+                  "url": "https://www.ktnv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘I had to uproot my family’: Surrey, B.C. parents awarded over $33K for wrongful eviction - Global News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzkyOTUyMDYvc3VycmV5LWJjLXBhcmVudHMtYXdhcmRlZC13cm9uZ2Z1bC1ldmljdGlvbi_SAVNodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy85Mjk1MjA2L3N1cnJleS1iYy1wYXJlbnRzLWF3YXJkZWQtd3JvbmdmdWwtZXZpY3Rpb24vYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzkyOTUyMDYvc3VycmV5LWJjLXBhcmVudHMtYXdhcmRlZC13cm9uZ2Z1bC1ldmljdGlvbi_SAVNodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy85Mjk1MjA2L3N1cnJleS1iYy1wYXJlbnRzLWF3YXJkZWQtd3JvbmdmdWwtZXZpY3Rpb24vYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 21 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzkyOTUyMDYvc3VycmV5LWJjLXBhcmVudHMtYXdhcmRlZC13cm9uZ2Z1bC1ldmljdGlvbi_SAVNodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy85Mjk1MjA2L3N1cnJleS1iYy1wYXJlbnRzLWF3YXJkZWQtd3JvbmdmdWwtZXZpY3Rpb24vYW1wLw?oc=5\" target=\"_blank\">‘I had to uproot my family’: Surrey, B.C. parents awarded over $33K for wrongful eviction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
+            ],
+            "source": [
+              {
+                "_": "Global News",
+                "$": {
+                  "url": "https://globalnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tenants looking for new place after $1,660 rent increase - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL3JlbnQtdG9yb250by1jb25kby10ZW5hbnRzLTEuNDA1NDA1NtIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS40MDU0MDU2?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL3JlbnQtdG9yb250by1jb25kby10ZW5hbnRzLTEuNDA1NDA1NtIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS40MDU0MDU2",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL3JlbnQtdG9yb250by1jb25kby10ZW5hbnRzLTEuNDA1NDA1NtIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS40MDU0MDU2?oc=5\" target=\"_blank\">Tenants looking for new place after $1,660 rent increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'How do you recoup $195,000?': Ottawa landlords and tenants at odds over rent payments - Ottawa Citizen"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vb3R0YXdhY2l0aXplbi5jb20vbmV3cy9sb2NhbC1uZXdzL2hvdy1kby15b3UtcmVjdXBlcmF0ZS0xOTUwMDAtb3R0YXdhLWxhbmRsb3Jkcy1hbmQtdGVuYW50cy1hdC1vZGRzLW92ZXItcmVudC1wYXltZW50c9IBrAFodHRwczovL290dGF3YWNpdGl6ZW4uY29tL25ld3MvbG9jYWwtbmV3cy9ob3ctZG8teW91LXJlY3VwZXJhdGUtMTk1MDAwLW90dGF3YS1sYW5kbG9yZHMtYW5kLXRlbmFudHMtYXQtb2Rkcy1vdmVyLXJlbnQtcGF5bWVudHMvd2NtLzA3NjYwNjg1LTc1ZWEtNDk1Mi04YmRhLTc2NWE3MzVkODg0Yy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vb3R0YXdhY2l0aXplbi5jb20vbmV3cy9sb2NhbC1uZXdzL2hvdy1kby15b3UtcmVjdXBlcmF0ZS0xOTUwMDAtb3R0YXdhLWxhbmRsb3Jkcy1hbmQtdGVuYW50cy1hdC1vZGRzLW92ZXItcmVudC1wYXltZW50c9IBrAFodHRwczovL290dGF3YWNpdGl6ZW4uY29tL25ld3MvbG9jYWwtbmV3cy9ob3ctZG8teW91LXJlY3VwZXJhdGUtMTk1MDAwLW90dGF3YS1sYW5kbG9yZHMtYW5kLXRlbmFudHMtYXQtb2Rkcy1vdmVyLXJlbnQtcGF5bWVudHMvd2NtLzA3NjYwNjg1LTc1ZWEtNDk1Mi04YmRhLTc2NWE3MzVkODg0Yy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 May 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vb3R0YXdhY2l0aXplbi5jb20vbmV3cy9sb2NhbC1uZXdzL2hvdy1kby15b3UtcmVjdXBlcmF0ZS0xOTUwMDAtb3R0YXdhLWxhbmRsb3Jkcy1hbmQtdGVuYW50cy1hdC1vZGRzLW92ZXItcmVudC1wYXltZW50c9IBrAFodHRwczovL290dGF3YWNpdGl6ZW4uY29tL25ld3MvbG9jYWwtbmV3cy9ob3ctZG8teW91LXJlY3VwZXJhdGUtMTk1MDAwLW90dGF3YS1sYW5kbG9yZHMtYW5kLXRlbmFudHMtYXQtb2Rkcy1vdmVyLXJlbnQtcGF5bWVudHMvd2NtLzA3NjYwNjg1LTc1ZWEtNDk1Mi04YmRhLTc2NWE3MzVkODg0Yy9hbXAv?oc=5\" target=\"_blank\">'How do you recoup $195,000?': Ottawa landlords and tenants at odds over rent payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ottawa Citizen</font>"
+            ],
+            "source": [
+              {
+                "_": "Ottawa Citizen",
+                "$": {
+                  "url": "https://ottawacitizen.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Landlords help evicted Tacoma tenant find housing solution - KING5.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lmtpbmc1LmNvbS9hcnRpY2xlL25ld3MvbG9jYWwvbGFuZGxvcmRzLWhlbHAtdGlraS1hcGFydG1lbnQtdGVuYW50LWZpbmQtaG91c2luZy1zb2x1dGlvbi8yODEtNTYwODEzMDAw0gF1aHR0cHM6Ly93d3cua2luZzUuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvbGFuZGxvcmRzLWhlbHAtZXZpY3RlZC10YWNvbWEtdGVuYW50LWZpbmQtaG91c2luZy1zb2x1dGlvbi8yODEtNTYwODEzMDAw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3Lmtpbmc1LmNvbS9hcnRpY2xlL25ld3MvbG9jYWwvbGFuZGxvcmRzLWhlbHAtdGlraS1hcGFydG1lbnQtdGVuYW50LWZpbmQtaG91c2luZy1zb2x1dGlvbi8yODEtNTYwODEzMDAw0gF1aHR0cHM6Ly93d3cua2luZzUuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvbGFuZGxvcmRzLWhlbHAtZXZpY3RlZC10YWNvbWEtdGVuYW50LWZpbmQtaG91c2luZy1zb2x1dGlvbi8yODEtNTYwODEzMDAw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Jun 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lmtpbmc1LmNvbS9hcnRpY2xlL25ld3MvbG9jYWwvbGFuZGxvcmRzLWhlbHAtdGlraS1hcGFydG1lbnQtdGVuYW50LWZpbmQtaG91c2luZy1zb2x1dGlvbi8yODEtNTYwODEzMDAw0gF1aHR0cHM6Ly93d3cua2luZzUuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvbGFuZGxvcmRzLWhlbHAtZXZpY3RlZC10YWNvbWEtdGVuYW50LWZpbmQtaG91c2luZy1zb2x1dGlvbi8yODEtNTYwODEzMDAw?oc=5\" target=\"_blank\">Landlords help evicted Tacoma tenant find housing solution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KING5.com</font>"
+            ],
+            "source": [
+              {
+                "_": "KING5.com",
+                "$": {
+                  "url": "https://www.king5.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lettings agency fined £60k for bullying student tenants it wanted to illegally evict - Brighton and Hove News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5icmlnaHRvbmFuZGhvdmVuZXdzLm9yZy8yMDIzLzEwLzA5L2xldHRpbmdzLWFnZW5jeS1maW5lZC02MGstZm9yLWJ1bGx5aW5nLXN0dWRlbnQtdGVuYW50cy1pdC13YW50ZWQtdG8taWxsZWdhbGx5LWV2aWN0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5icmlnaHRvbmFuZGhvdmVuZXdzLm9yZy8yMDIzLzEwLzA5L2xldHRpbmdzLWFnZW5jeS1maW5lZC02MGstZm9yLWJ1bGx5aW5nLXN0dWRlbnQtdGVuYW50cy1pdC13YW50ZWQtdG8taWxsZWdhbGx5LWV2aWN0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 09 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5icmlnaHRvbmFuZGhvdmVuZXdzLm9yZy8yMDIzLzEwLzA5L2xldHRpbmdzLWFnZW5jeS1maW5lZC02MGstZm9yLWJ1bGx5aW5nLXN0dWRlbnQtdGVuYW50cy1pdC13YW50ZWQtdG8taWxsZWdhbGx5LWV2aWN0L9IBAA?oc=5\" target=\"_blank\">Lettings agency fined £60k for bullying student tenants it wanted to illegally evict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brighton and Hove News</font>"
+            ],
+            "source": [
+              {
+                "_": "Brighton and Hove News",
+                "$": {
+                  "url": "https://www.brightonandhovenews.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Charlotte woman shocked to find her new home on Airbnb, listed by evicted tenant - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL2xvY2FsL2FydGljbGUyNjc2OTYzMTIuaHRtbNIBQmh0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL2xvY2FsL2FydGljbGUyNjc2OTYzMTIuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQmh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL2xvY2FsL2FydGljbGUyNjc2OTYzMTIuaHRtbNIBQmh0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL2xvY2FsL2FydGljbGUyNjc2OTYzMTIuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL2xvY2FsL2FydGljbGUyNjc2OTYzMTIuaHRtbNIBQmh0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL2xvY2FsL2FydGljbGUyNjc2OTYzMTIuaHRtbA?oc=5\" target=\"_blank\">Charlotte woman shocked to find her new home on Airbnb, listed by evicted tenant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "B.C. family awarded $33,700 for wrongful eviction - Business in Vancouver"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vYml2LmNvbS9hcnRpY2xlLzIwMjIvMTEvYmMtZmFtaWx5LWF3YXJkZWQtMzM3MDAtd3JvbmdmdWwtZXZpY3Rpb27SAU1odHRwczovL2Jpdi5jb20vYXJ0aWNsZS8yMDIyLzExL2JjLWZhbWlseS1hd2FyZGVkLTMzNzAwLXdyb25nZnVsLWV2aWN0aW9uP2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vYml2LmNvbS9hcnRpY2xlLzIwMjIvMTEvYmMtZmFtaWx5LWF3YXJkZWQtMzM3MDAtd3JvbmdmdWwtZXZpY3Rpb27SAU1odHRwczovL2Jpdi5jb20vYXJ0aWNsZS8yMDIyLzExL2JjLWZhbWlseS1hd2FyZGVkLTMzNzAwLXdyb25nZnVsLWV2aWN0aW9uP2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 16 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vYml2LmNvbS9hcnRpY2xlLzIwMjIvMTEvYmMtZmFtaWx5LWF3YXJkZWQtMzM3MDAtd3JvbmdmdWwtZXZpY3Rpb27SAU1odHRwczovL2Jpdi5jb20vYXJ0aWNsZS8yMDIyLzExL2JjLWZhbWlseS1hd2FyZGVkLTMzNzAwLXdyb25nZnVsLWV2aWN0aW9uP2FtcA?oc=5\" target=\"_blank\">B.C. family awarded $33,700 for wrongful eviction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business in Vancouver</font>"
+            ],
+            "source": [
+              {
+                "_": "Business in Vancouver",
+                "$": {
+                  "url": "https://biv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Evicted Tenant Operated Illegal Airbnb out of Charlotte Condo - The Real Deal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3RoZXJlYWxkZWFsLmNvbS9uZXcteW9yay8yMDIyLzEwLzI5L3lvdS1taWdodC1oYXZlLXRoZS13cm9uZy1hZGRyZXNzLWV2aWN0ZWQtdGVuYW50LW9wZXJhdGVkLWlsbGVnYWwtYWlyYm5iLW91dC1vZi1jaGFybG90dGUtY29uZG8v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3RoZXJlYWxkZWFsLmNvbS9uZXcteW9yay8yMDIyLzEwLzI5L3lvdS1taWdodC1oYXZlLXRoZS13cm9uZy1hZGRyZXNzLWV2aWN0ZWQtdGVuYW50LW9wZXJhdGVkLWlsbGVnYWwtYWlyYm5iLW91dC1vZi1jaGFybG90dGUtY29uZG8v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 29 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3RoZXJlYWxkZWFsLmNvbS9uZXcteW9yay8yMDIyLzEwLzI5L3lvdS1taWdodC1oYXZlLXRoZS13cm9uZy1hZGRyZXNzLWV2aWN0ZWQtdGVuYW50LW9wZXJhdGVkLWlsbGVnYWwtYWlyYm5iLW91dC1vZi1jaGFybG90dGUtY29uZG8v0gEA?oc=5\" target=\"_blank\">Evicted Tenant Operated Illegal Airbnb out of Charlotte Condo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>"
+            ],
+            "source": [
+              {
+                "_": "The Real Deal",
+                "$": {
+                  "url": "https://therealdeal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "There She Goes is a searingly honest, beautiful tribute to parents of disabled children - inews"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vaW5ld3MuY28udWsvY3VsdHVyZS90ZWxldmlzaW9uL3RoZXJlLXNoZS1nb2VzLWJiYy1vbmUtcmV2aWV3LXRyaWJ1dGUtcGFyZW50cy1kaXNhYmxlZC1jaGlsZHJlbi0yNDIxNTk30gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vaW5ld3MuY28udWsvY3VsdHVyZS90ZWxldmlzaW9uL3RoZXJlLXNoZS1nb2VzLWJiYy1vbmUtcmV2aWV3LXRyaWJ1dGUtcGFyZW50cy1kaXNhYmxlZC1jaGlsZHJlbi0yNDIxNTk30gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 21 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vaW5ld3MuY28udWsvY3VsdHVyZS90ZWxldmlzaW9uL3RoZXJlLXNoZS1nb2VzLWJiYy1vbmUtcmV2aWV3LXRyaWJ1dGUtcGFyZW50cy1kaXNhYmxlZC1jaGlsZHJlbi0yNDIxNTk30gEA?oc=5\" target=\"_blank\">There She Goes is a searingly honest, beautiful tribute to parents of disabled children</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inews</font>"
+            ],
+            "source": [
+              {
+                "_": "inews",
+                "$": {
+                  "url": "https://inews.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Two tenants get creepy letter to 'woman who Sydney forgot' who died in their house - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtNzQwNTUyMy9Ud28tdGVuYW50cy1jcmVlcHktbGV0dGVyLXdvbWFuLVN5ZG5leS1mb3Jnb3QtZGllZC1ob3VzZS5odG1s0gFyaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS03NDA1NTIzL2FtcC9Ud28tdGVuYW50cy1jcmVlcHktbGV0dGVyLXdvbWFuLVN5ZG5leS1mb3Jnb3QtZGllZC1ob3VzZS5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtNzQwNTUyMy9Ud28tdGVuYW50cy1jcmVlcHktbGV0dGVyLXdvbWFuLVN5ZG5leS1mb3Jnb3QtZGllZC1ob3VzZS5odG1s0gFyaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS03NDA1NTIzL2FtcC9Ud28tdGVuYW50cy1jcmVlcHktbGV0dGVyLXdvbWFuLVN5ZG5leS1mb3Jnb3QtZGllZC1ob3VzZS5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 29 Aug 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtNzQwNTUyMy9Ud28tdGVuYW50cy1jcmVlcHktbGV0dGVyLXdvbWFuLVN5ZG5leS1mb3Jnb3QtZGllZC1ob3VzZS5odG1s0gFyaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS03NDA1NTIzL2FtcC9Ud28tdGVuYW50cy1jcmVlcHktbGV0dGVyLXdvbWFuLVN5ZG5leS1mb3Jnb3QtZGllZC1ob3VzZS5odG1s?oc=5\" target=\"_blank\">Two tenants get creepy letter to 'woman who Sydney forgot' who died in their house</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Communities Resist' is Defending Tenants Against Housing Discrimination and Harassment - bushwickdaily.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL2J1c2h3aWNrZGFpbHkuY29tL25ld3MvNjYyMS1jb21tdW5pdGllcy1yZXNpc3Qtbm9ucHJvZml0LXdvcmtzLXRvLWRlZmVuZC10ZW5hbnRzLWFnYWluc3QtaG91c2luZy1kaXNjcmltaW5hdGlvbi1hbmQtaGFyYXNzbWVudC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL2J1c2h3aWNrZGFpbHkuY29tL25ld3MvNjYyMS1jb21tdW5pdGllcy1yZXNpc3Qtbm9ucHJvZml0LXdvcmtzLXRvLWRlZmVuZC10ZW5hbnRzLWFnYWluc3QtaG91c2luZy1kaXNjcmltaW5hdGlvbi1hbmQtaGFyYXNzbWVudC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 03 Sep 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL2J1c2h3aWNrZGFpbHkuY29tL25ld3MvNjYyMS1jb21tdW5pdGllcy1yZXNpc3Qtbm9ucHJvZml0LXdvcmtzLXRvLWRlZmVuZC10ZW5hbnRzLWFnYWluc3QtaG91c2luZy1kaXNjcmltaW5hdGlvbi1hbmQtaGFyYXNzbWVudC_SAQA?oc=5\" target=\"_blank\">'Communities Resist' is Defending Tenants Against Housing Discrimination and Harassment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bushwickdaily.com</font>"
+            ],
+            "source": [
+              {
+                "_": "bushwickdaily.com",
+                "$": {
+                  "url": "https://bushwickdaily.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Landlord on city watchlist accused of failing to fix serious health and safety violations - WABC-TV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYWJjN255LmNvbS9sYW5kbG9yZC1vbi1jaXR5LXdhdGNobGlzdC1hY2N1c2VkLW9mLWZhaWxpbmctdG8tZml4LXNlcmlvdXMtdmlvbGF0aW9ucy81NzcyODE3L9IBZ2h0dHBzOi8vYWJjN255LmNvbS9hbXAvbGFuZGxvcmQtb24tY2l0eS13YXRjaGxpc3QtYWNjdXNlZC1vZi1mYWlsaW5nLXRvLWZpeC1zZXJpb3VzLXZpb2xhdGlvbnMvNTc3MjgxNy8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vYWJjN255LmNvbS9sYW5kbG9yZC1vbi1jaXR5LXdhdGNobGlzdC1hY2N1c2VkLW9mLWZhaWxpbmctdG8tZml4LXNlcmlvdXMtdmlvbGF0aW9ucy81NzcyODE3L9IBZ2h0dHBzOi8vYWJjN255LmNvbS9hbXAvbGFuZGxvcmQtb24tY2l0eS13YXRjaGxpc3QtYWNjdXNlZC1vZi1mYWlsaW5nLXRvLWZpeC1zZXJpb3VzLXZpb2xhdGlvbnMvNTc3MjgxNy8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Dec 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYWJjN255LmNvbS9sYW5kbG9yZC1vbi1jaXR5LXdhdGNobGlzdC1hY2N1c2VkLW9mLWZhaWxpbmctdG8tZml4LXNlcmlvdXMtdmlvbGF0aW9ucy81NzcyODE3L9IBZ2h0dHBzOi8vYWJjN255LmNvbS9hbXAvbGFuZGxvcmQtb24tY2l0eS13YXRjaGxpc3QtYWNjdXNlZC1vZi1mYWlsaW5nLXRvLWZpeC1zZXJpb3VzLXZpb2xhdGlvbnMvNTc3MjgxNy8?oc=5\" target=\"_blank\">Landlord on city watchlist accused of failing to fix serious health and safety violations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABC-TV</font>"
+            ],
+            "source": [
+              {
+                "_": "WABC-TV",
+                "$": {
+                  "url": "https://abc7ny.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "BC real estate: Buyer accused of evicting tenants to hike rent - Vancouver Is Awesome"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vaGlnaGxpZ2h0cy9ldmljdGVkLWJjLWZhbWlseS1zYXlzLWhvbWVidXllci1ldmljdGVkLXRoZW0tdG8tcmFpc2UtcmVudC03MC01NDM3OTU50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vaGlnaGxpZ2h0cy9ldmljdGVkLWJjLWZhbWlseS1zYXlzLWhvbWVidXllci1ldmljdGVkLXRoZW0tdG8tcmFpc2UtcmVudC03MC01NDM3OTU50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vaGlnaGxpZ2h0cy9ldmljdGVkLWJjLWZhbWlseS1zYXlzLWhvbWVidXllci1ldmljdGVkLXRoZW0tdG8tcmFpc2UtcmVudC03MC01NDM3OTU50gEA?oc=5\" target=\"_blank\">BC real estate: Buyer accused of evicting tenants to hike rent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vancouver Is Awesome</font>"
+            ],
+            "source": [
+              {
+                "_": "Vancouver Is Awesome",
+                "$": {
+                  "url": "https://www.vancouverisawesome.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Housing Trust photographic exhibition celebrates social housing tenants - Illawarra Mercury"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5pbGxhd2FycmFtZXJjdXJ5LmNvbS5hdS9zdG9yeS84MjQzMzU5L2FjY2xhaW1lZC1waG90b2dyYXBoZXItY2FwdHVyZXMtdGhlLXN0b3JpZXMtb2YtaWxsYXdhcnJhLXNvY2lhbC1ob3VzaW5nLXRlbmFudHMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5pbGxhd2FycmFtZXJjdXJ5LmNvbS5hdS9zdG9yeS84MjQzMzU5L2FjY2xhaW1lZC1waG90b2dyYXBoZXItY2FwdHVyZXMtdGhlLXN0b3JpZXMtb2YtaWxsYXdhcnJhLXNvY2lhbC1ob3VzaW5nLXRlbmFudHMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5pbGxhd2FycmFtZXJjdXJ5LmNvbS5hdS9zdG9yeS84MjQzMzU5L2FjY2xhaW1lZC1waG90b2dyYXBoZXItY2FwdHVyZXMtdGhlLXN0b3JpZXMtb2YtaWxsYXdhcnJhLXNvY2lhbC1ob3VzaW5nLXRlbmFudHMv0gEA?oc=5\" target=\"_blank\">Housing Trust photographic exhibition celebrates social housing tenants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Illawarra Mercury</font>"
+            ],
+            "source": [
+              {
+                "_": "Illawarra Mercury",
+                "$": {
+                  "url": "https://www.illawarramercury.com.au"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Manhattan Beach Goat Hill tenants move out early, making way for senior community - Daily Breeze"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRhaWx5YnJlZXplLmNvbS8yMDIyLzA5LzA3L21hbmhhdHRhbi1iZWFjaC1nb2F0LWhpbGwtdGVuYW50cy1tb3ZlLW91dC1lYXJseS1tYWtpbmctd2F5LWZvci1zZW5pb3ItY29tbXVuaXR5L9IBfGh0dHBzOi8vd3d3LmRhaWx5YnJlZXplLmNvbS8yMDIyLzA5LzA3L21hbmhhdHRhbi1iZWFjaC1nb2F0LWhpbGwtdGVuYW50cy1tb3ZlLW91dC1lYXJseS1tYWtpbmctd2F5LWZvci1zZW5pb3ItY29tbXVuaXR5L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmRhaWx5YnJlZXplLmNvbS8yMDIyLzA5LzA3L21hbmhhdHRhbi1iZWFjaC1nb2F0LWhpbGwtdGVuYW50cy1tb3ZlLW91dC1lYXJseS1tYWtpbmctd2F5LWZvci1zZW5pb3ItY29tbXVuaXR5L9IBfGh0dHBzOi8vd3d3LmRhaWx5YnJlZXplLmNvbS8yMDIyLzA5LzA3L21hbmhhdHRhbi1iZWFjaC1nb2F0LWhpbGwtdGVuYW50cy1tb3ZlLW91dC1lYXJseS1tYWtpbmctd2F5LWZvci1zZW5pb3ItY29tbXVuaXR5L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRhaWx5YnJlZXplLmNvbS8yMDIyLzA5LzA3L21hbmhhdHRhbi1iZWFjaC1nb2F0LWhpbGwtdGVuYW50cy1tb3ZlLW91dC1lYXJseS1tYWtpbmctd2F5LWZvci1zZW5pb3ItY29tbXVuaXR5L9IBfGh0dHBzOi8vd3d3LmRhaWx5YnJlZXplLmNvbS8yMDIyLzA5LzA3L21hbmhhdHRhbi1iZWFjaC1nb2F0LWhpbGwtdGVuYW50cy1tb3ZlLW91dC1lYXJseS1tYWtpbmctd2F5LWZvci1zZW5pb3ItY29tbXVuaXR5L2FtcC8?oc=5\" target=\"_blank\">Manhattan Beach Goat Hill tenants move out early, making way for senior community</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Breeze</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Breeze",
+                "$": {
+                  "url": "https://www.dailybreeze.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Landlord's son strangles Atlanta tenant and her son - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtNDQxOTI4Mi9MYW5kbG9yZC1zLXNvbi0zMi1zdHJhbmdsZXMtdGVuYW50LXNvbi5odG1s0gFgaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS00NDE5MjgyL2FtcC9MYW5kbG9yZC1zLXNvbi0zMi1zdHJhbmdsZXMtdGVuYW50LXNvbi5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtNDQxOTI4Mi9MYW5kbG9yZC1zLXNvbi0zMi1zdHJhbmdsZXMtdGVuYW50LXNvbi5odG1s0gFgaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS00NDE5MjgyL2FtcC9MYW5kbG9yZC1zLXNvbi0zMi1zdHJhbmdsZXMtdGVuYW50LXNvbi5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Apr 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtNDQxOTI4Mi9MYW5kbG9yZC1zLXNvbi0zMi1zdHJhbmdsZXMtdGVuYW50LXNvbi5odG1s0gFgaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS00NDE5MjgyL2FtcC9MYW5kbG9yZC1zLXNvbi0zMi1zdHJhbmdsZXMtdGVuYW50LXNvbi5odG1s?oc=5\" target=\"_blank\">Landlord's son strangles Atlanta tenant and her son</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Horror tenants frustrate landlord - New Zealand Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L256L2hvcnJvci10ZW5hbnRzLWZydXN0cmF0ZS1sYW5kbG9yZC9CUFFLM0hFWEpKTEU3Vkc2TkoyUE82TjRJNC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L256L2hvcnJvci10ZW5hbnRzLWZydXN0cmF0ZS1sYW5kbG9yZC9CUFFLM0hFWEpKTEU3Vkc2TkoyUE82TjRJNC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 08 Jun 2014 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L256L2hvcnJvci10ZW5hbnRzLWZydXN0cmF0ZS1sYW5kbG9yZC9CUFFLM0hFWEpKTEU3Vkc2TkoyUE82TjRJNC_SAQA?oc=5\" target=\"_blank\">Horror tenants frustrate landlord</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Zealand Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "New Zealand Herald",
+                "$": {
+                  "url": "https://www.nzherald.co.nz"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Montreal tenant fights her landlord for right of privacy - Montreal | Globalnews.ca - Global News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzE0MDczMTEvbW9udHJlYWwtdGVuYW50LWZpZ2h0cy1oZXItbGFuZGxvcmQtZm9yLXJpZ2h0LW9mLXByaXZhY3kv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzE0MDczMTEvbW9udHJlYWwtdGVuYW50LWZpZ2h0cy1oZXItbGFuZGxvcmQtZm9yLXJpZ2h0LW9mLXByaXZhY3kv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Jun 2014 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzE0MDczMTEvbW9udHJlYWwtdGVuYW50LWZpZ2h0cy1oZXItbGFuZGxvcmQtZm9yLXJpZ2h0LW9mLXByaXZhY3kv0gEA?oc=5\" target=\"_blank\">Montreal tenant fights her landlord for right of privacy - Montreal | Globalnews.ca</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
+            ],
+            "source": [
+              {
+                "_": "Global News",
+                "$": {
+                  "url": "https://globalnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Newest Tenant Headed for the Mid Main Lofts Wants To Bring Booze to Apartment Complex’s Travis St. Side - swamplot.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwOi8vc3dhbXBsb3QuY29tL25ld2VzdC10ZW5hbnQtaGVhZGVkLWZvci10aGUtbWlkLW1haW4tbG9mdHMtd2FudHMtdG8tYnJpbmctYm9vemUtdG8tYXBhcnRtZW50LWNvbXBsZXhzLXRyYXZpcy1zdC1zaWRlLzIwMTgtMDMtMDUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwOi8vc3dhbXBsb3QuY29tL25ld2VzdC10ZW5hbnQtaGVhZGVkLWZvci10aGUtbWlkLW1haW4tbG9mdHMtd2FudHMtdG8tYnJpbmctYm9vemUtdG8tYXBhcnRtZW50LWNvbXBsZXhzLXRyYXZpcy1zdC1zaWRlLzIwMTgtMDMtMDUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Mar 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwOi8vc3dhbXBsb3QuY29tL25ld2VzdC10ZW5hbnQtaGVhZGVkLWZvci10aGUtbWlkLW1haW4tbG9mdHMtd2FudHMtdG8tYnJpbmctYm9vemUtdG8tYXBhcnRtZW50LWNvbXBsZXhzLXRyYXZpcy1zdC1zaWRlLzIwMTgtMDMtMDUv0gEA?oc=5\" target=\"_blank\">Newest Tenant Headed for the Mid Main Lofts Wants To Bring Booze to Apartment Complex’s Travis St. Side</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">swamplot.com</font>"
+            ],
+            "source": [
+              {
+                "_": "swamplot.com",
+                "$": {
+                  "url": "http://swamplot.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lack of permits could lead to widespread rent refunds, landlords fear - Stuff"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzk2NDcxMDk3L2xhY2stb2YtcGVybWl0cy1jb3VsZC1sZWFkLXRvLXdpZGVzcHJlYWQtcmVudC1yZWZ1bmRzLWxhbmRsb3Jkcy1mZWFy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzk2NDcxMDk3L2xhY2stb2YtcGVybWl0cy1jb3VsZC1sZWFkLXRvLXdpZGVzcHJlYWQtcmVudC1yZWZ1bmRzLWxhbmRsb3Jkcy1mZWFy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 04 Sep 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzk2NDcxMDk3L2xhY2stb2YtcGVybWl0cy1jb3VsZC1sZWFkLXRvLXdpZGVzcHJlYWQtcmVudC1yZWZ1bmRzLWxhbmRsb3Jkcy1mZWFy0gEA?oc=5\" target=\"_blank\">Lack of permits could lead to widespread rent refunds, landlords fear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stuff</font>"
+            ],
+            "source": [
+              {
+                "_": "Stuff",
+                "$": {
+                  "url": "https://www.stuff.co.nz"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Public housing tenants frustrated over ongoing construction in Scarborough building - CTV News Toronto"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdG9yb250by5jdHZuZXdzLmNhL3B1YmxpYy1ob3VzaW5nLXRlbmFudHMtZnJ1c3RyYXRlZC1vdmVyLW9uZ29pbmctY29uc3RydWN0aW9uLWluLXNjYXJib3JvdWdoLWJ1aWxkaW5nLTEuMzU2MDAxMtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vdG9yb250by5jdHZuZXdzLmNhL3B1YmxpYy1ob3VzaW5nLXRlbmFudHMtZnJ1c3RyYXRlZC1vdmVyLW9uZ29pbmctY29uc3RydWN0aW9uLWluLXNjYXJib3JvdWdoLWJ1aWxkaW5nLTEuMzU2MDAxMtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 24 Aug 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdG9yb250by5jdHZuZXdzLmNhL3B1YmxpYy1ob3VzaW5nLXRlbmFudHMtZnJ1c3RyYXRlZC1vdmVyLW9uZ29pbmctY29uc3RydWN0aW9uLWluLXNjYXJib3JvdWdoLWJ1aWxkaW5nLTEuMzU2MDAxMtIBAA?oc=5\" target=\"_blank\">Public housing tenants frustrated over ongoing construction in Scarborough building</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News Toronto</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News Toronto",
+                "$": {
+                  "url": "https://toronto.ctvnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tenant feels like a winner - New Zealand News - New Zealand Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L256L3RlbmFudC1mZWVscy1saWtlLWEtd2lubmVyL0ZGTkFaR1AzNEJSQkxNTVU0MjJCVklaQzZFL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L256L3RlbmFudC1mZWVscy1saWtlLWEtd2lubmVyL0ZGTkFaR1AzNEJSQkxNTVU0MjJCVklaQzZFL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 06 Feb 2011 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L256L3RlbmFudC1mZWVscy1saWtlLWEtd2lubmVyL0ZGTkFaR1AzNEJSQkxNTVU0MjJCVklaQzZFL9IBAA?oc=5\" target=\"_blank\">Tenant feels like a winner - New Zealand News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Zealand Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "New Zealand Herald",
+                "$": {
+                  "url": "https://www.nzherald.co.nz"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

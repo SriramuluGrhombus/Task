@@ -1,0 +1,338 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Deb Buzby-Cope\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Deb+Buzby-Cope&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Democratic Incumbent Schwartz and GOP Challenger Buzby-Cope Discuss Achievements, Qualifications in County ... - Pine Barrens Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWluY3VtYmVudC1zY2h3YXJ0ei1hbmQtZ29wLWNoYWxsZW5nZXItYnV6Ynljb3BlLWRpc2N1c3MtYWNoaWV2ZS1wNTQwNi0xNjUuaHRt0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWluY3VtYmVudC1zY2h3YXJ0ei1hbmQtZ29wLWNoYWxsZW5nZXItYnV6Ynljb3BlLWRpc2N1c3MtYWNoaWV2ZS1wNTQwNi0xNjUuaHRt0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 04 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWluY3VtYmVudC1zY2h3YXJ0ei1hbmQtZ29wLWNoYWxsZW5nZXItYnV6Ynljb3BlLWRpc2N1c3MtYWNoaWV2ZS1wNTQwNi0xNjUuaHRt0gEA?oc=5\" target=\"_blank\">Democratic Incumbent Schwartz and GOP Challenger Buzby-Cope Discuss Achievements, Qualifications in County ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pine Barrens Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Pine Barrens Tribune",
+                "$": {
+                  "url": "https://pinebarrenstribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington Dems hold three county offices - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA?oc=5\" target=\"_blank\">Burlington Dems hold three county offices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Buzby-Cope and Hazard of Bass River Township Endorse Richter for Congress - InsiderNJ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lmluc2lkZXJuai5jb20vcHJlc3MtcmVsZWFzZS9idXpieS1jb3BlLWhhemFyZC1iYXNzLXJpdmVyLXRvd25zaGlwLWVuZG9yc2UtcmljaHRlci1jb25ncmVzcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lmluc2lkZXJuai5jb20vcHJlc3MtcmVsZWFzZS9idXpieS1jb3BlLWhhemFyZC1iYXNzLXJpdmVyLXRvd25zaGlwLWVuZG9yc2UtcmljaHRlci1jb25ncmVzcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Jan 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lmluc2lkZXJuai5jb20vcHJlc3MtcmVsZWFzZS9idXpieS1jb3BlLWhhemFyZC1iYXNzLXJpdmVyLXRvd25zaGlwLWVuZG9yc2UtcmljaHRlci1jb25ncmVzcy_SAQA?oc=5\" target=\"_blank\">Buzby-Cope and Hazard of Bass River Township Endorse Richter for Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InsiderNJ</font>"
+            ],
+            "source": [
+              {
+                "_": "InsiderNJ",
+                "$": {
+                  "url": "https://www.insidernj.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington County mail-in ballots had wrong political party name - Courier Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8wNC8yOC9idXJsaW5ndG9uLWNvdW50eS1tYWlsLWluLWJhbGxvdHMtaGFkLXdyb25nLXBvbGl0aWNhbC1wYXJ0eS1uYW1lLzcwMTU2MjI2MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimAFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8wNC8yOC9idXJsaW5ndG9uLWNvdW50eS1tYWlsLWluLWJhbGxvdHMtaGFkLXdyb25nLXBvbGl0aWNhbC1wYXJ0eS1uYW1lLzcwMTU2MjI2MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMy8wNC8yOC9idXJsaW5ndG9uLWNvdW50eS1tYWlsLWluLWJhbGxvdHMtaGFkLXdyb25nLXBvbGl0aWNhbC1wYXJ0eS1uYW1lLzcwMTU2MjI2MDA3L9IBAA?oc=5\" target=\"_blank\">Burlington County mail-in ballots had wrong political party name</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courier Post</font>"
+            ],
+            "source": [
+              {
+                "_": "Courier Post",
+                "$": {
+                  "url": "https://www.courierpostonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington Dems pull brochure that had a photo of alleged wife beater - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1wdWxsLWJyb2NodXJlLXRoYXQtaGFkLWEtcGhvdG8tb2YtYWxsZWdlZC13aWZlLWJlYXRlci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1wdWxsLWJyb2NodXJlLXRoYXQtaGFkLWEtcGhvdG8tb2YtYWxsZWdlZC13aWZlLWJlYXRlci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1wdWxsLWJyb2NodXJlLXRoYXQtaGFkLWEtcGhvdG8tb2YtYWxsZWdlZC13aWZlLWJlYXRlci_SAQA?oc=5\" target=\"_blank\">Burlington Dems pull brochure that had a photo of alleged wife beater</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bass River State Forest: Crews battle forest fire in Burlington County, New Jersey; Blaze is 50% contained - WPVI-TV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vNmFiYy5jb20vYmFzcy1yaXZlci1zdGF0ZS1mb3Jlc3Qtbmotd2lsZGZpcmUtYnVybGluZ3Rvbi1jb3VudHktbmV3LWplcnNleS1ibGF6ZS8xMzMyODAzMy_SAWVodHRwczovLzZhYmMuY29tL2FtcC9iYXNzLXJpdmVyLXN0YXRlLWZvcmVzdC1uai13aWxkZmlyZS1idXJsaW5ndG9uLWNvdW50eS1uZXctamVyc2V5LWJsYXplLzEzMzI4MDMzLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vNmFiYy5jb20vYmFzcy1yaXZlci1zdGF0ZS1mb3Jlc3Qtbmotd2lsZGZpcmUtYnVybGluZ3Rvbi1jb3VudHktbmV3LWplcnNleS1ibGF6ZS8xMzMyODAzMy_SAWVodHRwczovLzZhYmMuY29tL2FtcC9iYXNzLXJpdmVyLXN0YXRlLWZvcmVzdC1uai13aWxkZmlyZS1idXJsaW5ndG9uLWNvdW50eS1uZXctamVyc2V5LWJsYXplLzEzMzI4MDMzLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vNmFiYy5jb20vYmFzcy1yaXZlci1zdGF0ZS1mb3Jlc3Qtbmotd2lsZGZpcmUtYnVybGluZ3Rvbi1jb3VudHktbmV3LWplcnNleS1ibGF6ZS8xMzMyODAzMy_SAWVodHRwczovLzZhYmMuY29tL2FtcC9iYXNzLXJpdmVyLXN0YXRlLWZvcmVzdC1uai13aWxkZmlyZS1idXJsaW5ndG9uLWNvdW50eS1uZXctamVyc2V5LWJsYXplLzEzMzI4MDMzLw?oc=5\" target=\"_blank\">Bass River State Forest: Crews battle forest fire in Burlington County, New Jersey; Blaze is 50% contained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPVI-TV</font>"
+            ],
+            "source": [
+              {
+                "_": "WPVI-TV",
+                "$": {
+                  "url": "https://6abc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Officials: Massive wildfire in Bass River State Forest now 80% contained - News 12 New Jersey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmV3amVyc2V5Lm5ld3MxMi5jb20vb2ZmaWNpYWxzLW1hc3NpdmUtd2lsZGZpcmUtaW4tYmFzcy1yaXZlci1zdGF0ZS1mb3Jlc3Qtbm93LTgwLWNvbnRhaW5lZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vbmV3amVyc2V5Lm5ld3MxMi5jb20vb2ZmaWNpYWxzLW1hc3NpdmUtd2lsZGZpcmUtaW4tYmFzcy1yaXZlci1zdGF0ZS1mb3Jlc3Qtbm93LTgwLWNvbnRhaW5lZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmV3amVyc2V5Lm5ld3MxMi5jb20vb2ZmaWNpYWxzLW1hc3NpdmUtd2lsZGZpcmUtaW4tYmFzcy1yaXZlci1zdGF0ZS1mb3Jlc3Qtbm93LTgwLWNvbnRhaW5lZNIBAA?oc=5\" target=\"_blank\">Officials: Massive wildfire in Bass River State Forest now 80% contained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News 12 New Jersey</font>"
+            ],
+            "source": [
+              {
+                "_": "News 12 New Jersey",
+                "$": {
+                  "url": "https://newjersey.news12.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election 2023: Clean Sweep for Democrats in Bordentown Township, Fieldsboro, County, Legislature - TAPinto.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2VsZWN0aW9ucy9hcnRpY2xlcy9lbGVjdGlvbi0yMDIzLWNsZWFuLXN3ZWVwLWZvci1kZW1vY3JhdHMtaW4tYm9yZGVudG93bi10b3duc2hpcC1maWVsZHNib3JvLWNvdW50eS1sZWdpc2xhdHVyZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2VsZWN0aW9ucy9hcnRpY2xlcy9lbGVjdGlvbi0yMDIzLWNsZWFuLXN3ZWVwLWZvci1kZW1vY3JhdHMtaW4tYm9yZGVudG93bi10b3duc2hpcC1maWVsZHNib3JvLWNvdW50eS1sZWdpc2xhdHVyZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2VsZWN0aW9ucy9hcnRpY2xlcy9lbGVjdGlvbi0yMDIzLWNsZWFuLXN3ZWVwLWZvci1kZW1vY3JhdHMtaW4tYm9yZGVudG93bi10b3duc2hpcC1maWVsZHNib3JvLWNvdW50eS1sZWdpc2xhdHVyZdIBAA?oc=5\" target=\"_blank\">Election 2023: Clean Sweep for Democrats in Bordentown Township, Fieldsboro, County, Legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TAPinto.net</font>"
+            ],
+            "source": [
+              {
+                "_": "TAPinto.net",
+                "$": {
+                  "url": "https://www.tapinto.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Buyer of School Building in Bass River Reported Discussing Converting It to Yeshiva with Officials - Pine Barrens Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9idXllci1vZi1zY2hvb2wtYnVpbGRpbmctaW4tYmFzcy1yaXZlci1yZXBvcnRlZC1kaXNjdXNzaW5nLWNvbnZlcnRpbmctaXQtdG8tcDUwODgtMTY1Lmh0bdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9idXllci1vZi1zY2hvb2wtYnVpbGRpbmctaW4tYmFzcy1yaXZlci1yZXBvcnRlZC1kaXNjdXNzaW5nLWNvbnZlcnRpbmctaXQtdG8tcDUwODgtMTY1Lmh0bdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9idXllci1vZi1zY2hvb2wtYnVpbGRpbmctaW4tYmFzcy1yaXZlci1yZXBvcnRlZC1kaXNjdXNzaW5nLWNvbnZlcnRpbmctaXQtdG8tcDUwODgtMTY1Lmh0bdIBAA?oc=5\" target=\"_blank\">Buyer of School Building in Bass River Reported Discussing Converting It to Yeshiva with Officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pine Barrens Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Pine Barrens Tribune",
+                "$": {
+                  "url": "https://pinebarrenstribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington Democrats flip surrogate’s office, hold commission seats - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtb2NyYXRzLWZsaXAtc3Vycm9nYXRlcy1vZmZpY2UtaG9sZC1jb21taXNzaW9uLXNlYXRzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtb2NyYXRzLWZsaXAtc3Vycm9nYXRlcy1vZmZpY2UtaG9sZC1jb21taXNzaW9uLXNlYXRzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Nov 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtb2NyYXRzLWZsaXAtc3Vycm9nYXRlcy1vZmZpY2UtaG9sZC1jb21taXNzaW9uLXNlYXRzL9IBAA?oc=5\" target=\"_blank\">Burlington Democrats flip surrogate’s office, hold commission seats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

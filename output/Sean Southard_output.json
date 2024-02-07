@@ -1,0 +1,1268 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Sean Southard\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Sean+Southard&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Beshear maintains fundraising lead in governor's race - Hoptown Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvYmVzaGVhci1tYWludGFpbnMtZnVuZHJhaXNpbmctbGVhZC1pbi1nb3Zlcm5vcnMtcmFjZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvYmVzaGVhci1tYWludGFpbnMtZnVuZHJhaXNpbmctbGVhZC1pbi1nb3Zlcm5vcnMtcmFjZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 15 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvYmVzaGVhci1tYWludGFpbnMtZnVuZHJhaXNpbmctbGVhZC1pbi1nb3Zlcm5vcnMtcmFjZS_SAQA?oc=5\" target=\"_blank\">Beshear maintains fundraising lead in governor's race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoptown Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "Hoptown Chronicle",
+                "$": {
+                  "url": "https://hoptownchronicle.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democratic governor seizes commanding fundraising lead over GOP challenger in Kentucky campaign - The Seattle Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5zZWF0dGxldGltZXMuY29tL25hdGlvbi13b3JsZC9kZW1vY3JhdGljLWdvdmVybm9yLXNlaXplcy1jb21tYW5kaW5nLWZ1bmRyYWlzaW5nLWxlYWQtb3Zlci1nb3AtY2hhbGxlbmdlci1pbi1rZW50dWNreS1jYW1wYWlnbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy5zZWF0dGxldGltZXMuY29tL25hdGlvbi13b3JsZC9kZW1vY3JhdGljLWdvdmVybm9yLXNlaXplcy1jb21tYW5kaW5nLWZ1bmRyYWlzaW5nLWxlYWQtb3Zlci1nb3AtY2hhbGxlbmdlci1pbi1rZW50dWNreS1jYW1wYWlnbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5zZWF0dGxldGltZXMuY29tL25hdGlvbi13b3JsZC9kZW1vY3JhdGljLWdvdmVybm9yLXNlaXplcy1jb21tYW5kaW5nLWZ1bmRyYWlzaW5nLWxlYWQtb3Zlci1nb3AtY2hhbGxlbmdlci1pbi1rZW50dWNreS1jYW1wYWlnbi_SAQA?oc=5\" target=\"_blank\">Democratic governor seizes commanding fundraising lead over GOP challenger in Kentucky campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Seattle Times",
+                "$": {
+                  "url": "https://www.seattletimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Key governor race going down to the wire in fight that could have 2024 implications - Washington Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMjQ0MjcxMy9rZXktZ292ZXJub3ItcmFjZS1nb2luZy1kb3duLXRvLXRoZS13aXJlLWluLWZpZ2h0LXRoYXQtY291bGQtaGF2ZS0yMDI0LWltcGxpY2F0aW9ucy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMjQ0MjcxMy9rZXktZ292ZXJub3ItcmFjZS1nb2luZy1kb3duLXRvLXRoZS13aXJlLWluLWZpZ2h0LXRoYXQtY291bGQtaGF2ZS0yMDI0LWltcGxpY2F0aW9ucy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMjQ0MjcxMy9rZXktZ292ZXJub3ItcmFjZS1nb2luZy1kb3duLXRvLXRoZS13aXJlLWluLWZpZ2h0LXRoYXQtY291bGQtaGF2ZS0yMDI0LWltcGxpY2F0aW9ucy_SAQA?oc=5\" target=\"_blank\">Key governor race going down to the wire in fight that could have 2024 implications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Examiner",
+                "$": {
+                  "url": "https://www.washingtonexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Andy Beshear’s allies form group to promote the Democrat’s agenda in GOP-leaning Kentucky - Idaho Statesman"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmlkYWhvc3RhdGVzbWFuLmNvbS9uZXdzL25hdGlvbi13b3JsZC9uYXRpb25hbC9hcnRpY2xlMjg0MzM3MjU5Lmh0bWzSAU9odHRwczovL2FtcC5pZGFob3N0YXRlc21hbi5jb20vbmV3cy9uYXRpb24td29ybGQvbmF0aW9uYWwvYXJ0aWNsZTI4NDMzNzI1OS5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LmlkYWhvc3RhdGVzbWFuLmNvbS9uZXdzL25hdGlvbi13b3JsZC9uYXRpb25hbC9hcnRpY2xlMjg0MzM3MjU5Lmh0bWzSAU9odHRwczovL2FtcC5pZGFob3N0YXRlc21hbi5jb20vbmV3cy9uYXRpb24td29ybGQvbmF0aW9uYWwvYXJ0aWNsZTI4NDMzNzI1OS5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 15:20:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmlkYWhvc3RhdGVzbWFuLmNvbS9uZXdzL25hdGlvbi13b3JsZC9uYXRpb25hbC9hcnRpY2xlMjg0MzM3MjU5Lmh0bWzSAU9odHRwczovL2FtcC5pZGFob3N0YXRlc21hbi5jb20vbmV3cy9uYXRpb24td29ybGQvbmF0aW9uYWwvYXJ0aWNsZTI4NDMzNzI1OS5odG1s?oc=5\" target=\"_blank\">Gov. Andy Beshear’s allies form group to promote the Democrat’s agenda in GOP-leaning Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Idaho Statesman</font>"
+            ],
+            "source": [
+              {
+                "_": "Idaho Statesman",
+                "$": {
+                  "url": "https://www.idahostatesman.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wrapping up Fancy Farm 2023 - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9pbi1mb2N1cy1zaG93cy8yMDIzLzA4LzE0L3dyYXBwaW5nLXVwLWZhbmN5LWZhcm0tMjAyM9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9pbi1mb2N1cy1zaG93cy8yMDIzLzA4LzE0L3dyYXBwaW5nLXVwLWZhbmN5LWZhcm0tMjAyM9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 14 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9pbi1mb2N1cy1zaG93cy8yMDIzLzA4LzE0L3dyYXBwaW5nLXVwLWZhbmN5LWZhcm0tMjAyM9IBAA?oc=5\" target=\"_blank\">Wrapping up Fancy Farm 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Key McConnell aide joining Kentucky GOP gubernatorial campaign, boosting GOP efforts to unseat Gov. Beshear - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9rZXktbWNjb25uZWxsLWFpZGUtam9pbmluZy1rZW50dWNreS1nb3AtZ3ViZXJuYXRvcmlhbC1jYW1wYWlnbi1ib29zdGluZy1nb3AtZWZmb3J0cy11bnNlYXQtZ292LWJlc2hlYXLSAYsBaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mva2V5LW1jY29ubmVsbC1haWRlLWpvaW5pbmcta2VudHVja3ktZ29wLWd1YmVybmF0b3JpYWwtY2FtcGFpZ24tYm9vc3RpbmctZ29wLWVmZm9ydHMtdW5zZWF0LWdvdi1iZXNoZWFyLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9rZXktbWNjb25uZWxsLWFpZGUtam9pbmluZy1rZW50dWNreS1nb3AtZ3ViZXJuYXRvcmlhbC1jYW1wYWlnbi1ib29zdGluZy1nb3AtZWZmb3J0cy11bnNlYXQtZ292LWJlc2hlYXLSAYsBaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mva2V5LW1jY29ubmVsbC1haWRlLWpvaW5pbmcta2VudHVja3ktZ29wLWd1YmVybmF0b3JpYWwtY2FtcGFpZ24tYm9vc3RpbmctZ29wLWVmZm9ydHMtdW5zZWF0LWdvdi1iZXNoZWFyLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9rZXktbWNjb25uZWxsLWFpZGUtam9pbmluZy1rZW50dWNreS1nb3AtZ3ViZXJuYXRvcmlhbC1jYW1wYWlnbi1ib29zdGluZy1nb3AtZWZmb3J0cy11bnNlYXQtZ292LWJlc2hlYXLSAYsBaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mva2V5LW1jY29ubmVsbC1haWRlLWpvaW5pbmcta2VudHVja3ktZ29wLWd1YmVybmF0b3JpYWwtY2FtcGFpZ24tYm9vc3RpbmctZ29wLWVmZm9ydHMtdW5zZWF0LWdvdi1iZXNoZWFyLmFtcA?oc=5\" target=\"_blank\">Key McConnell aide joining Kentucky GOP gubernatorial campaign, boosting GOP efforts to unseat Gov. Beshear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky AG calls for FBI probe into donations to gubernatorial rival - WUKY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy53dWt5Lm9yZy9sb2NhbC1yZWdpb25hbC1uZXdzLzIwMjMtMDYtMjIva2VudHVja3ktYXR0b3JuZXktZ2VuZXJhbC1hc2tzLWZiaS10by1pbnZlc3RpZ2F0ZS1kb25hdGlvbnMtdG8taGlzLXJpdmFsLWluLWdvdmVybm9ycy1yYWNl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL3d3dy53dWt5Lm9yZy9sb2NhbC1yZWdpb25hbC1uZXdzLzIwMjMtMDYtMjIva2VudHVja3ktYXR0b3JuZXktZ2VuZXJhbC1hc2tzLWZiaS10by1pbnZlc3RpZ2F0ZS1kb25hdGlvbnMtdG8taGlzLXJpdmFsLWluLWdvdmVybm9ycy1yYWNl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy53dWt5Lm9yZy9sb2NhbC1yZWdpb25hbC1uZXdzLzIwMjMtMDYtMjIva2VudHVja3ktYXR0b3JuZXktZ2VuZXJhbC1hc2tzLWZiaS10by1pbnZlc3RpZ2F0ZS1kb25hdGlvbnMtdG8taGlzLXJpdmFsLWluLWdvdmVybm9ycy1yYWNl0gEA?oc=5\" target=\"_blank\">Kentucky AG calls for FBI probe into donations to gubernatorial rival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUKY</font>"
+            ],
+            "source": [
+              {
+                "_": "WUKY",
+                "$": {
+                  "url": "https://www.wuky.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Poll shows Beshear with 16-point lead over Cameron in Ky. governor's race - Forward Kentucky"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZm9yd2FyZGt5LmNvbS9wb2xsLXNob3dzLWJlc2hlYXItd2l0aC0xNi1wb2ludC1sZWFkLW92ZXItY2FtZXJvbi1pbi1reS1nb3Zlcm5vcnMtcmFjZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vZm9yd2FyZGt5LmNvbS9wb2xsLXNob3dzLWJlc2hlYXItd2l0aC0xNi1wb2ludC1sZWFkLW92ZXItY2FtZXJvbi1pbi1reS1nb3Zlcm5vcnMtcmFjZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 09 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZm9yd2FyZGt5LmNvbS9wb2xsLXNob3dzLWJlc2hlYXItd2l0aC0xNi1wb2ludC1sZWFkLW92ZXItY2FtZXJvbi1pbi1reS1nb3Zlcm5vcnMtcmFjZS_SAQA?oc=5\" target=\"_blank\">Poll shows Beshear with 16-point lead over Cameron in Ky. governor's race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forward Kentucky</font>"
+            ],
+            "source": [
+              {
+                "_": "Forward Kentucky",
+                "$": {
+                  "url": "https://forwardky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hilary Clinton faces backlash for her 'deprogramming Trump supporters' remark - IndiaTimes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9oaWxhcnktY2xpbnRvbi1mYWNlcy1iYWNrbGFzaC1mb3ItaGVyLWRlcHJvZ3JhbW1pbmctdHJ1bXAtc3VwcG9ydGVycy1yZW1hcmsvYXJ0aWNsZXNob3cvMTA0MjQzODYzLmNtc9IBjQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9oaWxhcnktY2xpbnRvbi1mYWNlcy1iYWNrbGFzaC1mb3ItaGVyLWRlcHJvZ3JhbW1pbmctdHJ1bXAtc3VwcG9ydGVycy1yZW1hcmsvYW1wX2FydGljbGVzaG93LzEwNDI0Mzg2My5jbXM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9oaWxhcnktY2xpbnRvbi1mYWNlcy1iYWNrbGFzaC1mb3ItaGVyLWRlcHJvZ3JhbW1pbmctdHJ1bXAtc3VwcG9ydGVycy1yZW1hcmsvYXJ0aWNsZXNob3cvMTA0MjQzODYzLmNtc9IBjQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9oaWxhcnktY2xpbnRvbi1mYWNlcy1iYWNrbGFzaC1mb3ItaGVyLWRlcHJvZ3JhbW1pbmctdHJ1bXAtc3VwcG9ydGVycy1yZW1hcmsvYW1wX2FydGljbGVzaG93LzEwNDI0Mzg2My5jbXM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 07 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9oaWxhcnktY2xpbnRvbi1mYWNlcy1iYWNrbGFzaC1mb3ItaGVyLWRlcHJvZ3JhbW1pbmctdHJ1bXAtc3VwcG9ydGVycy1yZW1hcmsvYXJ0aWNsZXNob3cvMTA0MjQzODYzLmNtc9IBjQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9oaWxhcnktY2xpbnRvbi1mYWNlcy1iYWNrbGFzaC1mb3ItaGVyLWRlcHJvZ3JhbW1pbmctdHJ1bXAtc3VwcG9ydGVycy1yZW1hcmsvYW1wX2FydGljbGVzaG93LzEwNDI0Mzg2My5jbXM?oc=5\" target=\"_blank\">Hilary Clinton faces backlash for her 'deprogramming Trump supporters' remark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndiaTimes</font>"
+            ],
+            "source": [
+              {
+                "_": "IndiaTimes",
+                "$": {
+                  "url": "https://m.timesofindia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ford delays operations on second EV battery plant in Hardin County - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MTA2NzI2My5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgxMDY3MjYzLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MTA2NzI2My5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgxMDY3MjYzLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 26 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MTA2NzI2My5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgxMDY3MjYzLmh0bWw?oc=5\" target=\"_blank\">Ford delays operations on second EV battery plant in Hardin County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Closer look into lawsuit filed against Attorney General Daniel Cameron - WKYT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LndreXQuY29tLzIwMjMvMDgvMTcvbGF3c3VpdC1maWxlZC1hZ2FpbnN0LWF0dG9ybmV5LWdlbmVyYWwtZGFuaWVsLWNhbWVyb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3LndreXQuY29tLzIwMjMvMDgvMTcvbGF3c3VpdC1maWxlZC1hZ2FpbnN0LWF0dG9ybmV5LWdlbmVyYWwtZGFuaWVsLWNhbWVyb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 17 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LndreXQuY29tLzIwMjMvMDgvMTcvbGF3c3VpdC1maWxlZC1hZ2FpbnN0LWF0dG9ybmV5LWdlbmVyYWwtZGFuaWVsLWNhbWVyb24v0gEA?oc=5\" target=\"_blank\">Closer look into lawsuit filed against Attorney General Daniel Cameron</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKYT</font>"
+            ],
+            "source": [
+              {
+                "_": "WKYT",
+                "$": {
+                  "url": "https://www.wkyt.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Beshear expresses willingness to debate in race for governor; no confirmation from Cameron - NKyTribune - User-generated content"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbmt5dHJpYnVuZS5jb20vMjAyMy8wNy9iZXNoZWFyLWV4cHJlc3Nlcy13aWxsaW5nbmVzcy10by1kZWJhdGUtaW4tcmFjZS1mb3ItZ292ZXJub3Itbm8tY29uZmlybWF0aW9uLWZyb20tY2FtZXJvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vbmt5dHJpYnVuZS5jb20vMjAyMy8wNy9iZXNoZWFyLWV4cHJlc3Nlcy13aWxsaW5nbmVzcy10by1kZWJhdGUtaW4tcmFjZS1mb3ItZ292ZXJub3Itbm8tY29uZmlybWF0aW9uLWZyb20tY2FtZXJvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 15 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbmt5dHJpYnVuZS5jb20vMjAyMy8wNy9iZXNoZWFyLWV4cHJlc3Nlcy13aWxsaW5nbmVzcy10by1kZWJhdGUtaW4tcmFjZS1mb3ItZ292ZXJub3Itbm8tY29uZmlybWF0aW9uLWZyb20tY2FtZXJvbi_SAQA?oc=5\" target=\"_blank\">Beshear expresses willingness to debate in race for governor; no confirmation from Cameron - NKyTribune</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">User-generated content</font>"
+            ],
+            "source": [
+              {
+                "_": "User-generated content",
+                "$": {
+                  "url": "https://nkytribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Supreme Court rules to dismiss state Democrats' challenge to election maps - WDRB"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy53ZHJiLmNvbS9uZXdzL3BvbGl0aWNzL2tlbnR1Y2t5LXN1cHJlbWUtY291cnQtcnVsZXMtdG8tZGlzbWlzcy1zdGF0ZS1kZW1vY3JhdHMtY2hhbGxlbmdlLXRvLWVsZWN0aW9uLW1hcHMvYXJ0aWNsZV9hM2MzZmUyZS05YWE0LTExZWUtODk4ZS01Mzk2OWNjOWI0N2MuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipwFodHRwczovL3d3dy53ZHJiLmNvbS9uZXdzL3BvbGl0aWNzL2tlbnR1Y2t5LXN1cHJlbWUtY291cnQtcnVsZXMtdG8tZGlzbWlzcy1zdGF0ZS1kZW1vY3JhdHMtY2hhbGxlbmdlLXRvLWVsZWN0aW9uLW1hcHMvYXJ0aWNsZV9hM2MzZmUyZS05YWE0LTExZWUtODk4ZS01Mzk2OWNjOWI0N2MuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy53ZHJiLmNvbS9uZXdzL3BvbGl0aWNzL2tlbnR1Y2t5LXN1cHJlbWUtY291cnQtcnVsZXMtdG8tZGlzbWlzcy1zdGF0ZS1kZW1vY3JhdHMtY2hhbGxlbmdlLXRvLWVsZWN0aW9uLW1hcHMvYXJ0aWNsZV9hM2MzZmUyZS05YWE0LTExZWUtODk4ZS01Mzk2OWNjOWI0N2MuaHRtbNIBAA?oc=5\" target=\"_blank\">Kentucky Supreme Court rules to dismiss state Democrats' challenge to election maps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font>"
+            ],
+            "source": [
+              {
+                "_": "WDRB",
+                "$": {
+                  "url": "https://www.wdrb.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Beshear continues to outpace Cameron in fundraising for Ky. governor's race - WKMS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LndrbXMub3JnL2dvdmVybm1lbnQtcG9saXRpY3MvMjAyMy0xMC0xMy9iZXNoZWFyLWNvbnRpbnVlcy10by1vdXRwYWNlLWNhbWVyb24taW4tZnVuZHJhaXNpbmctZm9yLWt5LWdvdmVybm9ycy1yYWNl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LndrbXMub3JnL2dvdmVybm1lbnQtcG9saXRpY3MvMjAyMy0xMC0xMy9iZXNoZWFyLWNvbnRpbnVlcy10by1vdXRwYWNlLWNhbWVyb24taW4tZnVuZHJhaXNpbmctZm9yLWt5LWdvdmVybm9ycy1yYWNl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 13 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LndrbXMub3JnL2dvdmVybm1lbnQtcG9saXRpY3MvMjAyMy0xMC0xMy9iZXNoZWFyLWNvbnRpbnVlcy10by1vdXRwYWNlLWNhbWVyb24taW4tZnVuZHJhaXNpbmctZm9yLWt5LWdvdmVybm9ycy1yYWNl0gEA?oc=5\" target=\"_blank\">Beshear continues to outpace Cameron in fundraising for Ky. governor's race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMS</font>"
+            ],
+            "source": [
+              {
+                "_": "WKMS",
+                "$": {
+                  "url": "https://www.wkms.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democratic nominee for AG isn't yet licensed to practice law in Kentucky - Hoptown Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvZGVtb2NyYXRpYy1ub21pbmVlLWZvci1hZy1pc250LXlldC1saWNlbnNlZC10by1wcmFjdGljZS1sYXctaW4ta2VudHVja3kv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvZGVtb2NyYXRpYy1ub21pbmVlLWZvci1hZy1pc250LXlldC1saWNlbnNlZC10by1wcmFjdGljZS1sYXctaW4ta2VudHVja3kv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 06 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvZGVtb2NyYXRpYy1ub21pbmVlLWZvci1hZy1pc250LXlldC1saWNlbnNlZC10by1wcmFjdGljZS1sYXctaW4ta2VudHVja3kv0gEA?oc=5\" target=\"_blank\">Democratic nominee for AG isn't yet licensed to practice law in Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoptown Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "Hoptown Chronicle",
+                "$": {
+                  "url": "https://hoptownchronicle.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Beshear holds large lead over Cameron as Kentucky gubernatorial election nears: Poll - Washington Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMjQ0NzE1NS9iZXNoZWFyLWhvbGRzLWxhcmdlLWxlYWQtb3Zlci1jYW1lcm9uLWFzLWtlbnR1Y2t5LWd1YmVybmF0b3JpYWwtZWxlY3Rpb24tbmVhcnMtcG9sbC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMjQ0NzE1NS9iZXNoZWFyLWhvbGRzLWxhcmdlLWxlYWQtb3Zlci1jYW1lcm9uLWFzLWtlbnR1Y2t5LWd1YmVybmF0b3JpYWwtZWxlY3Rpb24tbmVhcnMtcG9sbC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 06 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMjQ0NzE1NS9iZXNoZWFyLWhvbGRzLWxhcmdlLWxlYWQtb3Zlci1jYW1lcm9uLWFzLWtlbnR1Y2t5LWd1YmVybmF0b3JpYWwtZWxlY3Rpb24tbmVhcnMtcG9sbC_SAQA?oc=5\" target=\"_blank\">Beshear holds large lead over Cameron as Kentucky gubernatorial election nears: Poll</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Examiner",
+                "$": {
+                  "url": "https://www.washingtonexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former State Rep. Robert Benvenuti elected as next Ky. Republican Party chairman - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTExL2Zvcm1lci1zdGF0ZS1yZXAtcm9iZXJ0LWJlbnZlbnV0aS1lbGVjdGVkLWFzLW5leHQta3ktcmVwdWJsaWNhbi1wYXJ0eS1jaGFpcm1hbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTExL2Zvcm1lci1zdGF0ZS1yZXAtcm9iZXJ0LWJlbnZlbnV0aS1lbGVjdGVkLWFzLW5leHQta3ktcmVwdWJsaWNhbi1wYXJ0eS1jaGFpcm1hbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTExL2Zvcm1lci1zdGF0ZS1yZXAtcm9iZXJ0LWJlbnZlbnV0aS1lbGVjdGVkLWFzLW5leHQta3ktcmVwdWJsaWNhbi1wYXJ0eS1jaGFpcm1hbtIBAA?oc=5\" target=\"_blank\">Former State Rep. Robert Benvenuti elected as next Ky. Republican Party chairman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cameron asks FBI to investigate Beshear's campaign - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9uZXdzLzIwMjMvMDYvMjQvY2FtZXJvbi1hc2tzLWZiaS10by1pbnZlc3RpZ2F0ZS1sYXJnZS1jYW1wYWlnbi1kb25hdGlvbi10by1iZXNoZWFy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9uZXdzLzIwMjMvMDYvMjQvY2FtZXJvbi1hc2tzLWZiaS10by1pbnZlc3RpZ2F0ZS1sYXJnZS1jYW1wYWlnbi1kb25hdGlvbi10by1iZXNoZWFy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 24 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9uZXdzLzIwMjMvMDYvMjQvY2FtZXJvbi1hc2tzLWZiaS10by1pbnZlc3RpZ2F0ZS1sYXJnZS1jYW1wYWlnbi1kb25hdGlvbi10by1iZXNoZWFy0gEA?oc=5\" target=\"_blank\">Cameron asks FBI to investigate Beshear's campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Good Question: Why are Ky. Governor candidates not saying ‘I approve this message’ in TV ads? - WKYT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LndreXQuY29tLzIwMjMvMDQvMjgvZ29vZC1xdWVzdGlvbi13aHktYXJlLWt5LWdvdmVybm9yLWNhbmRpZGF0ZXMtbm90LXNheWluZy1pLWFwcHJvdmUtdGhpcy1tZXNzYWdlLXR2LWFkcy_SAYUBaHR0cHM6Ly93d3cud2t5dC5jb20vMjAyMy8wNC8yOC9nb29kLXF1ZXN0aW9uLXdoeS1hcmUta3ktZ292ZXJub3ItY2FuZGlkYXRlcy1ub3Qtc2F5aW5nLWktYXBwcm92ZS10aGlzLW1lc3NhZ2UtdHYtYWRzLz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LndreXQuY29tLzIwMjMvMDQvMjgvZ29vZC1xdWVzdGlvbi13aHktYXJlLWt5LWdvdmVybm9yLWNhbmRpZGF0ZXMtbm90LXNheWluZy1pLWFwcHJvdmUtdGhpcy1tZXNzYWdlLXR2LWFkcy_SAYUBaHR0cHM6Ly93d3cud2t5dC5jb20vMjAyMy8wNC8yOC9nb29kLXF1ZXN0aW9uLXdoeS1hcmUta3ktZ292ZXJub3ItY2FuZGlkYXRlcy1ub3Qtc2F5aW5nLWktYXBwcm92ZS10aGlzLW1lc3NhZ2UtdHYtYWRzLz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LndreXQuY29tLzIwMjMvMDQvMjgvZ29vZC1xdWVzdGlvbi13aHktYXJlLWt5LWdvdmVybm9yLWNhbmRpZGF0ZXMtbm90LXNheWluZy1pLWFwcHJvdmUtdGhpcy1tZXNzYWdlLXR2LWFkcy_SAYUBaHR0cHM6Ly93d3cud2t5dC5jb20vMjAyMy8wNC8yOC9nb29kLXF1ZXN0aW9uLXdoeS1hcmUta3ktZ292ZXJub3ItY2FuZGlkYXRlcy1ub3Qtc2F5aW5nLWktYXBwcm92ZS10aGlzLW1lc3NhZ2UtdHYtYWRzLz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">Good Question: Why are Ky. Governor candidates not saying ‘I approve this message’ in TV ads?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKYT</font>"
+            ],
+            "source": [
+              {
+                "_": "WKYT",
+                "$": {
+                  "url": "https://www.wkyt.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Gov. Beshear allows ‘book-banning’ bill to become law without his signature - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3MzY1NTI1MC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjczNjU1MjUwLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3MzY1NTI1MC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjczNjU1MjUwLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3MzY1NTI1MC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjczNjU1MjUwLmh0bWw?oc=5\" target=\"_blank\">Kentucky Gov. Beshear allows ‘book-banning’ bill to become law without his signature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Florence resident appointed to Kentucky Board of Education - LINK nky"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbGlua25reS5jb20vcG9saXRpY3MvZnJhbmtmb3J0LzIwMjMvMDUvMzEvZmxvcmVuY2UtcmVzaWRlbnQtYXBwb2ludGVkLXRvLXN0YXRlLWJvYXJkLW9mLWVkdWNhdGlvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vbGlua25reS5jb20vcG9saXRpY3MvZnJhbmtmb3J0LzIwMjMvMDUvMzEvZmxvcmVuY2UtcmVzaWRlbnQtYXBwb2ludGVkLXRvLXN0YXRlLWJvYXJkLW9mLWVkdWNhdGlvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbGlua25reS5jb20vcG9saXRpY3MvZnJhbmtmb3J0LzIwMjMvMDUvMzEvZmxvcmVuY2UtcmVzaWRlbnQtYXBwb2ludGVkLXRvLXN0YXRlLWJvYXJkLW9mLWVkdWNhdGlvbi_SAQA?oc=5\" target=\"_blank\">Florence resident appointed to Kentucky Board of Education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LINK nky</font>"
+            ],
+            "source": [
+              {
+                "_": "LINK nky",
+                "$": {
+                  "url": "https://linknky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Southard to handle PR for state Republican Party - ABC 36 News - WTVQ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lnd0dnEuY29tL3NvdXRoYXJkLXRvLWhhbmRsZS1wci1mb3Itc3RhdGUtcmVwdWJsaWNhbi1wYXJ0eS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3Lnd0dnEuY29tL3NvdXRoYXJkLXRvLWhhbmRsZS1wci1mb3Itc3RhdGUtcmVwdWJsaWNhbi1wYXJ0eS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 31 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lnd0dnEuY29tL3NvdXRoYXJkLXRvLWhhbmRsZS1wci1mb3Itc3RhdGUtcmVwdWJsaWNhbi1wYXJ0eS_SAQA?oc=5\" target=\"_blank\">Southard to handle PR for state Republican Party - ABC 36 News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVQ</font>"
+            ],
+            "source": [
+              {
+                "_": "WTVQ",
+                "$": {
+                  "url": "https://www.wtvq.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Corporate dollars keep pouring into Republican Party of Kentucky building fund - Hoptown Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvY29ycG9yYXRlLWRvbGxhcnMta2VlcC1wb3VyaW5nLWludG8tcmVwdWJsaWNhbi1wYXJ0eS1vZi1rZW50dWNreS1idWlsZGluZy1mdW5kL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvY29ycG9yYXRlLWRvbGxhcnMta2VlcC1wb3VyaW5nLWludG8tcmVwdWJsaWNhbi1wYXJ0eS1vZi1rZW50dWNreS1idWlsZGluZy1mdW5kL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvY29ycG9yYXRlLWRvbGxhcnMta2VlcC1wb3VyaW5nLWludG8tcmVwdWJsaWNhbi1wYXJ0eS1vZi1rZW50dWNreS1idWlsZGluZy1mdW5kL9IBAA?oc=5\" target=\"_blank\">Corporate dollars keep pouring into Republican Party of Kentucky building fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoptown Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "Hoptown Chronicle",
+                "$": {
+                  "url": "https://hoptownchronicle.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Legal sports betting opens to fanfare in Kentucky; governor makes the first wager - wnky.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lndua3kuY29tL2xlZ2FsLXNwb3J0cy1iZXR0aW5nLW9wZW5zLXRvLWZhbmZhcmUtaW4ta2VudHVja3ktZ292ZXJub3ItbWFrZXMtdGhlLWZpcnN0LXdhZ2VyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3Lndua3kuY29tL2xlZ2FsLXNwb3J0cy1iZXR0aW5nLW9wZW5zLXRvLWZhbmZhcmUtaW4ta2VudHVja3ktZ292ZXJub3ItbWFrZXMtdGhlLWZpcnN0LXdhZ2VyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lndua3kuY29tL2xlZ2FsLXNwb3J0cy1iZXR0aW5nLW9wZW5zLXRvLWZhbmZhcmUtaW4ta2VudHVja3ktZ292ZXJub3ItbWFrZXMtdGhlLWZpcnN0LXdhZ2VyL9IBAA?oc=5\" target=\"_blank\">Legal sports betting opens to fanfare in Kentucky; governor makes the first wager</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wnky.com</font>"
+            ],
+            "source": [
+              {
+                "_": "wnky.com",
+                "$": {
+                  "url": "https://www.wnky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Beshear signs historic bipartisan bills as reelection campaign looms - WHAS11.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9rZW50dWNreS9hbmR5LWJlc2hlYXItcmVlbGVjdGlvbi1tZWRpY2FsLW1hcmlqdWFuYS1zcG9ydHMtYmV0dGluZy80MTctNmMyNDE4OWMtMGVjMC00YmJiLTg2MTAtYTMxYzVjMTA3MzBh0gGSAWh0dHBzOi8vd3d3LndoYXMxMS5jb20vYW1wL2FydGljbGUvbmV3cy9rZW50dWNreS9hbmR5LWJlc2hlYXItcmVlbGVjdGlvbi1tZWRpY2FsLW1hcmlqdWFuYS1zcG9ydHMtYmV0dGluZy80MTctNmMyNDE4OWMtMGVjMC00YmJiLTg2MTAtYTMxYzVjMTA3MzBh?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9rZW50dWNreS9hbmR5LWJlc2hlYXItcmVlbGVjdGlvbi1tZWRpY2FsLW1hcmlqdWFuYS1zcG9ydHMtYmV0dGluZy80MTctNmMyNDE4OWMtMGVjMC00YmJiLTg2MTAtYTMxYzVjMTA3MzBh0gGSAWh0dHBzOi8vd3d3LndoYXMxMS5jb20vYW1wL2FydGljbGUvbmV3cy9rZW50dWNreS9hbmR5LWJlc2hlYXItcmVlbGVjdGlvbi1tZWRpY2FsLW1hcmlqdWFuYS1zcG9ydHMtYmV0dGluZy80MTctNmMyNDE4OWMtMGVjMC00YmJiLTg2MTAtYTMxYzVjMTA3MzBh",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 31 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9rZW50dWNreS9hbmR5LWJlc2hlYXItcmVlbGVjdGlvbi1tZWRpY2FsLW1hcmlqdWFuYS1zcG9ydHMtYmV0dGluZy80MTctNmMyNDE4OWMtMGVjMC00YmJiLTg2MTAtYTMxYzVjMTA3MzBh0gGSAWh0dHBzOi8vd3d3LndoYXMxMS5jb20vYW1wL2FydGljbGUvbmV3cy9rZW50dWNreS9hbmR5LWJlc2hlYXItcmVlbGVjdGlvbi1tZWRpY2FsLW1hcmlqdWFuYS1zcG9ydHMtYmV0dGluZy80MTctNmMyNDE4OWMtMGVjMC00YmJiLTg2MTAtYTMxYzVjMTA3MzBh?oc=5\" target=\"_blank\">Beshear signs historic bipartisan bills as reelection campaign looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHAS11.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WHAS11.com",
+                "$": {
+                  "url": "https://www.whas11.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Beshear Signs Bills Legalizing Medical Marijuana And Sports Betting - Louisville Eccentric Observer (LEO Weekly)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lmxlb3dlZWtseS5jb20vMjAyMy8wMy9iZXNoZWFyLXNpZ25zLWJpbGxzLWxlZ2FsaXppbmctbWVkaWNhbC1tYXJpanVhbmEtYW5kLXNwb3J0cy1iZXR0aW5nL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3Lmxlb3dlZWtseS5jb20vMjAyMy8wMy9iZXNoZWFyLXNpZ25zLWJpbGxzLWxlZ2FsaXppbmctbWVkaWNhbC1tYXJpanVhbmEtYW5kLXNwb3J0cy1iZXR0aW5nL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 31 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lmxlb3dlZWtseS5jb20vMjAyMy8wMy9iZXNoZWFyLXNpZ25zLWJpbGxzLWxlZ2FsaXppbmctbWVkaWNhbC1tYXJpanVhbmEtYW5kLXNwb3J0cy1iZXR0aW5nL9IBAA?oc=5\" target=\"_blank\">Beshear Signs Bills Legalizing Medical Marijuana And Sports Betting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Eccentric Observer (LEO Weekly)</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Eccentric Observer (LEO Weekly)",
+                "$": {
+                  "url": "https://www.leoweekly.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Beshear appoints Charles Booker to administration - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9uZXdzLzIwMjMvMDEvMTMvYmVzaGVhci1hcHBvaW50bWVudHPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9uZXdzLzIwMjMvMDEvMTMvYmVzaGVhci1hcHBvaW50bWVudHPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 13 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9uZXdzLzIwMjMvMDEvMTMvYmVzaGVhci1hcHBvaW50bWVudHPSAQA?oc=5\" target=\"_blank\">Beshear appoints Charles Booker to administration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky governor vetoes proposed 15-week abortion ban - Gray DC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmdyYXlkYy5jb20vMjAyMi8wNC8wOC9rZW50dWNreS1nb3Zlcm5vci12ZXRvZXMtcHJvcG9zZWQtMTUtd2Vlay1hYm9ydGlvbi1iYW4v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmdyYXlkYy5jb20vMjAyMi8wNC8wOC9rZW50dWNreS1nb3Zlcm5vci12ZXRvZXMtcHJvcG9zZWQtMTUtd2Vlay1hYm9ydGlvbi1iYW4v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmdyYXlkYy5jb20vMjAyMi8wNC8wOC9rZW50dWNreS1nb3Zlcm5vci12ZXRvZXMtcHJvcG9zZWQtMTUtd2Vlay1hYm9ydGlvbi1iYW4v0gEA?oc=5\" target=\"_blank\">Kentucky governor vetoes proposed 15-week abortion ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gray DC</font>"
+            ],
+            "source": [
+              {
+                "_": "Gray DC",
+                "$": {
+                  "url": "https://www.graydc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Dem chairman compares Republicans to Judas on eve of Good Friday - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2tlbnR1Y2t5LWRlbS1jaGFpcm1hbi1jb21wYXJlcy1yZXB1YmxpY2Fucy1qdWRhcy1ldmUtZ29vZC1mcmlkYXnSAWVodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9rZW50dWNreS1kZW0tY2hhaXJtYW4tY29tcGFyZXMtcmVwdWJsaWNhbnMtanVkYXMtZXZlLWdvb2QtZnJpZGF5LmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2tlbnR1Y2t5LWRlbS1jaGFpcm1hbi1jb21wYXJlcy1yZXB1YmxpY2Fucy1qdWRhcy1ldmUtZ29vZC1mcmlkYXnSAWVodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9rZW50dWNreS1kZW0tY2hhaXJtYW4tY29tcGFyZXMtcmVwdWJsaWNhbnMtanVkYXMtZXZlLWdvb2QtZnJpZGF5LmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 07 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2tlbnR1Y2t5LWRlbS1jaGFpcm1hbi1jb21wYXJlcy1yZXB1YmxpY2Fucy1qdWRhcy1ldmUtZ29vZC1mcmlkYXnSAWVodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9rZW50dWNreS1kZW0tY2hhaXJtYW4tY29tcGFyZXMtcmVwdWJsaWNhbnMtanVkYXMtZXZlLWdvb2QtZnJpZGF5LmFtcA?oc=5\" target=\"_blank\">Kentucky Dem chairman compares Republicans to Judas on eve of Good Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky governor accused of violating open records act on COVID school closures - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2tlbnR1Y2t5LWdvdmVybm9yLWFjY3VzZWQtdmlvbGF0aW5nLW9wZW4tcmVjb3Jkcy1hY3QtY292aWQtc2Nob29sLWNsb3N1cmVz0gFvaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mva2VudHVja3ktZ292ZXJub3ItYWNjdXNlZC12aW9sYXRpbmctb3Blbi1yZWNvcmRzLWFjdC1jb3ZpZC1zY2hvb2wtY2xvc3VyZXMuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2tlbnR1Y2t5LWdvdmVybm9yLWFjY3VzZWQtdmlvbGF0aW5nLW9wZW4tcmVjb3Jkcy1hY3QtY292aWQtc2Nob29sLWNsb3N1cmVz0gFvaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mva2VudHVja3ktZ292ZXJub3ItYWNjdXNlZC12aW9sYXRpbmctb3Blbi1yZWNvcmRzLWFjdC1jb3ZpZC1zY2hvb2wtY2xvc3VyZXMuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2tlbnR1Y2t5LWdvdmVybm9yLWFjY3VzZWQtdmlvbGF0aW5nLW9wZW4tcmVjb3Jkcy1hY3QtY292aWQtc2Nob29sLWNsb3N1cmVz0gFvaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mva2VudHVja3ktZ292ZXJub3ItYWNjdXNlZC12aW9sYXRpbmctb3Blbi1yZWNvcmRzLWFjdC1jb3ZpZC1zY2hvb2wtY2xvc3VyZXMuYW1w?oc=5\" target=\"_blank\">Kentucky governor accused of violating open records act on COVID school closures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "With Kentucky governor election days away, new poll has Andy Beshear, Daniel Cameron tied - Courier Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTEvMDMvYW5keS1iZXNoZWFyLWRhbmllbC1jYW1lcm9uLXRpZWQta2VudHVja3ktZ292ZXJub3JzLXJhY2UtZW1lcnNvbi1wb2xsLzcxNDM1NjM4MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimwFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTEvMDMvYW5keS1iZXNoZWFyLWRhbmllbC1jYW1lcm9uLXRpZWQta2VudHVja3ktZ292ZXJub3JzLXJhY2UtZW1lcnNvbi1wb2xsLzcxNDM1NjM4MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTEvMDMvYW5keS1iZXNoZWFyLWRhbmllbC1jYW1lcm9uLXRpZWQta2VudHVja3ktZ292ZXJub3JzLXJhY2UtZW1lcnNvbi1wb2xsLzcxNDM1NjM4MDA3L9IBAA?oc=5\" target=\"_blank\">With Kentucky governor election days away, new poll has Andy Beshear, Daniel Cameron tied</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courier Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Courier Journal",
+                "$": {
+                  "url": "https://www.courier-journal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How Law Firms are Reimagining Office Space - Globe St."
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lmdsb2Jlc3QuY29tL3NpdGVzL2NhcnJpZXJvc3NlbmZlbGQvMjAxOC8wMi8xMy9ob3ctbGF3LWZpcm1zLWFyZS1yZWltYWdpbmluZy1vZmZpY2Utc3BhY2Uv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3Lmdsb2Jlc3QuY29tL3NpdGVzL2NhcnJpZXJvc3NlbmZlbGQvMjAxOC8wMi8xMy9ob3ctbGF3LWZpcm1zLWFyZS1yZWltYWdpbmluZy1vZmZpY2Utc3BhY2Uv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Feb 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lmdsb2Jlc3QuY29tL3NpdGVzL2NhcnJpZXJvc3NlbmZlbGQvMjAxOC8wMi8xMy9ob3ctbGF3LWZpcm1zLWFyZS1yZWltYWdpbmluZy1vZmZpY2Utc3BhY2Uv0gEA?oc=5\" target=\"_blank\">How Law Firms are Reimagining Office Space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Globe St.</font>"
+            ],
+            "source": [
+              {
+                "_": "Globe St.",
+                "$": {
+                  "url": "https://www.globest.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "State Rep. Pamela Stevenson not licensed to practice law in Kentucky amid attorney general bid - Washington Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMTkwOTQ5Ni9zdGF0ZS1yZXAtcGFtZWxhLXN0ZXZlbnNvbi1ub3QtbGljZW5zZWQtdG8tcHJhY3RpY2UtbGF3LWluLWtlbnR1Y2t5LWFtaWQtYXR0b3JuZXktZ2VuZXJhbC1iaWQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMTkwOTQ5Ni9zdGF0ZS1yZXAtcGFtZWxhLXN0ZXZlbnNvbi1ub3QtbGljZW5zZWQtdG8tcHJhY3RpY2UtbGF3LWluLWtlbnR1Y2t5LWFtaWQtYXR0b3JuZXktZ2VuZXJhbC1iaWQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMTkwOTQ5Ni9zdGF0ZS1yZXAtcGFtZWxhLXN0ZXZlbnNvbi1ub3QtbGljZW5zZWQtdG8tcHJhY3RpY2UtbGF3LWluLWtlbnR1Y2t5LWFtaWQtYXR0b3JuZXktZ2VuZXJhbC1iaWQv0gEA?oc=5\" target=\"_blank\">State Rep. Pamela Stevenson not licensed to practice law in Kentucky amid attorney general bid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Examiner",
+                "$": {
+                  "url": "https://www.washingtonexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Gov. Andy Beshear signs tax cut bill into law - Courier Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8wMi8xNy9rZW50dWNreS1nb3YtYW5keS1iZXNoZWFyLXNpZ25zLWluY29tZS10YXgtY3V0LWJpbGwtaW50by1sYXcvNjk5MDMzNTgwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8wMi8xNy9rZW50dWNreS1nb3YtYW5keS1iZXNoZWFyLXNpZ25zLWluY29tZS10YXgtY3V0LWJpbGwtaW50by1sYXcvNjk5MDMzNTgwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8wMi8xNy9rZW50dWNreS1nb3YtYW5keS1iZXNoZWFyLXNpZ25zLWluY29tZS10YXgtY3V0LWJpbGwtaW50by1sYXcvNjk5MDMzNTgwMDcv0gEA?oc=5\" target=\"_blank\">Kentucky Gov. Andy Beshear signs tax cut bill into law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courier Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Courier Journal",
+                "$": {
+                  "url": "https://www.courier-journal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Dem governor files for red-state reelection bid - WZTV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZm94MTcuY29tL25ld3MvbG9jYWwva2VudHVja3lzLWRlbS1nb3Zlcm5vci1maWxlcy1mb3ItcmVkLXN0YXRlLXJlZWxlY3Rpb24tYmlk0gFaaHR0cHM6Ly9mb3gxNy5jb20vYW1wL25ld3MvbG9jYWwva2VudHVja3lzLWRlbS1nb3Zlcm5vci1maWxlcy1mb3ItcmVkLXN0YXRlLXJlZWxlY3Rpb24tYmlk?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vZm94MTcuY29tL25ld3MvbG9jYWwva2VudHVja3lzLWRlbS1nb3Zlcm5vci1maWxlcy1mb3ItcmVkLXN0YXRlLXJlZWxlY3Rpb24tYmlk0gFaaHR0cHM6Ly9mb3gxNy5jb20vYW1wL25ld3MvbG9jYWwva2VudHVja3lzLWRlbS1nb3Zlcm5vci1maWxlcy1mb3ItcmVkLXN0YXRlLXJlZWxlY3Rpb24tYmlk",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZm94MTcuY29tL25ld3MvbG9jYWwva2VudHVja3lzLWRlbS1nb3Zlcm5vci1maWxlcy1mb3ItcmVkLXN0YXRlLXJlZWxlY3Rpb24tYmlk0gFaaHR0cHM6Ly9mb3gxNy5jb20vYW1wL25ld3MvbG9jYWwva2VudHVja3lzLWRlbS1nb3Zlcm5vci1maWxlcy1mb3ItcmVkLXN0YXRlLXJlZWxlY3Rpb24tYmlk?oc=5\" target=\"_blank\">Kentucky Dem governor files for red-state reelection bid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WZTV</font>"
+            ],
+            "source": [
+              {
+                "_": "WZTV",
+                "$": {
+                  "url": "https://fox17.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Foreign ag delegates visit Owensboro Grain - The Owensboro Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm93ZW5zYm9yb3RpbWVzLmNvbS9mZWF0dXJlcy9hZ3JpY3VsdHVyZS8yMDE5LzA5L2ZvcmVpZ24tYWctZGVsZWdhdGVzLXZpc2l0LW93ZW5zYm9yby1ncmFpbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lm93ZW5zYm9yb3RpbWVzLmNvbS9mZWF0dXJlcy9hZ3JpY3VsdHVyZS8yMDE5LzA5L2ZvcmVpZ24tYWctZGVsZWdhdGVzLXZpc2l0LW93ZW5zYm9yby1ncmFpbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Sep 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm93ZW5zYm9yb3RpbWVzLmNvbS9mZWF0dXJlcy9hZ3JpY3VsdHVyZS8yMDE5LzA5L2ZvcmVpZ24tYWctZGVsZWdhdGVzLXZpc2l0LW93ZW5zYm9yby1ncmFpbi_SAQA?oc=5\" target=\"_blank\">Foreign ag delegates visit Owensboro Grain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Owensboro Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Owensboro Times",
+                "$": {
+                  "url": "https://www.owensborotimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Agriculture chief Quarles replaces Beshear’s appointee to head farm policy office - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI1MDYxMTQyNC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjUwNjExNDI0Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI1MDYxMTQyNC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjUwNjExNDI0Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Apr 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI1MDYxMTQyNC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjUwNjExNDI0Lmh0bWw?oc=5\" target=\"_blank\">Agriculture chief Quarles replaces Beshear’s appointee to head farm policy office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tweets, teases, a long speech to the media – then Matt Bevin walks out of the Capitol - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3MDg1ODQyNy5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjcwODU4NDI3Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3MDg1ODQyNy5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjcwODU4NDI3Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 06 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3MDg1ODQyNy5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjcwODU4NDI3Lmh0bWw?oc=5\" target=\"_blank\">Tweets, teases, a long speech to the media – then Matt Bevin walks out of the Capitol</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Beshear says current unemployment rate is the lowest in state history - WKYT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LndreXQuY29tLzIwMjIvMDUvMTkvYmVzaGVhci1zYXlzLWN1cnJlbnQtdW5lbXBsb3ltZW50LXJhdGUtaXMtbG93ZXN0LXN0YXRlLWhpc3Rvcnkv0gFuaHR0cHM6Ly93d3cud2t5dC5jb20vMjAyMi8wNS8xOS9iZXNoZWFyLXNheXMtY3VycmVudC11bmVtcGxveW1lbnQtcmF0ZS1pcy1sb3dlc3Qtc3RhdGUtaGlzdG9yeS8_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LndreXQuY29tLzIwMjIvMDUvMTkvYmVzaGVhci1zYXlzLWN1cnJlbnQtdW5lbXBsb3ltZW50LXJhdGUtaXMtbG93ZXN0LXN0YXRlLWhpc3Rvcnkv0gFuaHR0cHM6Ly93d3cud2t5dC5jb20vMjAyMi8wNS8xOS9iZXNoZWFyLXNheXMtY3VycmVudC11bmVtcGxveW1lbnQtcmF0ZS1pcy1sb3dlc3Qtc3RhdGUtaGlzdG9yeS8_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LndreXQuY29tLzIwMjIvMDUvMTkvYmVzaGVhci1zYXlzLWN1cnJlbnQtdW5lbXBsb3ltZW50LXJhdGUtaXMtbG93ZXN0LXN0YXRlLWhpc3Rvcnkv0gFuaHR0cHM6Ly93d3cud2t5dC5jb20vMjAyMi8wNS8xOS9iZXNoZWFyLXNheXMtY3VycmVudC11bmVtcGxveW1lbnQtcmF0ZS1pcy1sb3dlc3Qtc3RhdGUtaGlzdG9yeS8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Beshear says current unemployment rate is the lowest in state history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKYT</font>"
+            ],
+            "source": [
+              {
+                "_": "WKYT",
+                "$": {
+                  "url": "https://www.wkyt.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dowling cites bond burden in bankruptcy filing - Long Island Business News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbGlibi5jb20vMjAxNi8xMS8zMC9kb3dsaW5nLWNpdGVzLWJvbmQtYnVyZGVuLWluLWJhbmtydXB0Y3ktZmlsaW5nL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vbGlibi5jb20vMjAxNi8xMS8zMC9kb3dsaW5nLWNpdGVzLWJvbmQtYnVyZGVuLWluLWJhbmtydXB0Y3ktZmlsaW5nL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 30 Nov 2016 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbGlibi5jb20vMjAxNi8xMS8zMC9kb3dsaW5nLWNpdGVzLWJvbmQtYnVyZGVuLWluLWJhbmtydXB0Y3ktZmlsaW5nL9IBAA?oc=5\" target=\"_blank\">Dowling cites bond burden in bankruptcy filing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Long Island Business News</font>"
+            ],
+            "source": [
+              {
+                "_": "Long Island Business News",
+                "$": {
+                  "url": "https://libn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'He Sees Himself As God': Fauci Says He No Longer Needs Church, Claims His 'Personal Ethics' Are Enough - Independent Journal Review"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vaWpyLmNvbS9hbnRob255LWZhdWNpLWNsYWltcy1uby1sb25nZXItbmVlZHMtY2h1cmNoLXBlcnNvbmFsLWV0aGljcy1lbm91Z2gv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vaWpyLmNvbS9hbnRob255LWZhdWNpLWNsYWltcy1uby1sb25nZXItbmVlZHMtY2h1cmNoLXBlcnNvbmFsLWV0aGljcy1lbm91Z2gv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vaWpyLmNvbS9hbnRob255LWZhdWNpLWNsYWltcy1uby1sb25nZXItbmVlZHMtY2h1cmNoLXBlcnNvbmFsLWV0aGljcy1lbm91Z2gv0gEA?oc=5\" target=\"_blank\">'He Sees Himself As God': Fauci Says He No Longer Needs Church, Claims His 'Personal Ethics' Are Enough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Independent Journal Review</font>"
+            ],
+            "source": [
+              {
+                "_": "Independent Journal Review",
+                "$": {
+                  "url": "https://ijr.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

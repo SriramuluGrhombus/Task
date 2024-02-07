@@ -1,0 +1,308 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Valentina Gomez Noriega\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Valentina+Gomez+Noriega&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Field of GOP candidates grows in 2024 Missouri Secretary of State race - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzEwLzI5L2NhbmRpZGF0ZXMtZmllbGQtZ3Jvd3MtMjAyNC1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS83MTMwNDkzODAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzEwLzI5L2NhbmRpZGF0ZXMtZmllbGQtZ3Jvd3MtMjAyNC1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS83MTMwNDkzODAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 29 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzEwLzI5L2NhbmRpZGF0ZXMtZmllbGQtZ3Jvd3MtMjAyNC1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS83MTMwNDkzODAwNy_SAQA?oc=5\" target=\"_blank\">Field of GOP candidates grows in 2024 Missouri Secretary of State race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Caleb Rowden running for Missouri secretary of state in increasingly crowded GOP field - Columbia Daily Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8xMC8yOS9jYWxlYi1yb3dkZW4tcnVubmluZy1taXNzb3VyaS1zZWNyZXRhcnktc3RhdGUtaW5jcmVhc2luZ2x5LWNyb3dkZWQtZ29wLWZpZWxkLzcxMzQ1Mzk2MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimAFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8xMC8yOS9jYWxlYi1yb3dkZW4tcnVubmluZy1taXNzb3VyaS1zZWNyZXRhcnktc3RhdGUtaW5jcmVhc2luZ2x5LWNyb3dkZWQtZ29wLWZpZWxkLzcxMzQ1Mzk2MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 29 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8xMC8yOS9jYWxlYi1yb3dkZW4tcnVubmluZy1taXNzb3VyaS1zZWNyZXRhcnktc3RhdGUtaW5jcmVhc2luZ2x5LWNyb3dkZWQtZ29wLWZpZWxkLzcxMzQ1Mzk2MDA3L9IBAA?oc=5\" target=\"_blank\">Caleb Rowden running for Missouri secretary of state in increasingly crowded GOP field</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbia Daily Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Columbia Daily Tribune",
+                "$": {
+                  "url": "https://www.columbiatribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "MOScout Daily Update: SOS Field Expands - Rook = McDowell? - Atchison To Retire - State of Floor Leader Race ... - Moscout"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMisAFodHRwczovL21vc2NvdXQuY29tL2RhaWx5LXVwZGF0ZXMtMS8yMDIzLzEwLzIzL21vc2NvdXQtZGFpbHktdXBkYXRlLXNvcy1maWVsZC1leHBhbmRzLXJvb2stbWNkb3dlbGwtYXRjaGlzb24tcnRvLXJldGlyZS1zdGF0ZS1vZi1mbG9vci1sZWFkZXItcmFjZS1uZXRoLW9uLWxpYmVydHktZGVhbC1hbmQtbW9yZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMisAFodHRwczovL21vc2NvdXQuY29tL2RhaWx5LXVwZGF0ZXMtMS8yMDIzLzEwLzIzL21vc2NvdXQtZGFpbHktdXBkYXRlLXNvcy1maWVsZC1leHBhbmRzLXJvb2stbWNkb3dlbGwtYXRjaGlzb24tcnRvLXJldGlyZS1zdGF0ZS1vZi1mbG9vci1sZWFkZXItcmFjZS1uZXRoLW9uLWxpYmVydHktZGVhbC1hbmQtbW9yZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMisAFodHRwczovL21vc2NvdXQuY29tL2RhaWx5LXVwZGF0ZXMtMS8yMDIzLzEwLzIzL21vc2NvdXQtZGFpbHktdXBkYXRlLXNvcy1maWVsZC1leHBhbmRzLXJvb2stbWNkb3dlbGwtYXRjaGlzb24tcnRvLXJldGlyZS1zdGF0ZS1vZi1mbG9vci1sZWFkZXItcmFjZS1uZXRoLW9uLWxpYmVydHktZGVhbC1hbmQtbW9yZdIBAA?oc=5\" target=\"_blank\">MOScout Daily Update: SOS Field Expands - Rook = McDowell? - Atchison To Retire - State of Floor Leader Race ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moscout</font>"
+            ],
+            "source": [
+              {
+                "_": "Moscout",
+                "$": {
+                  "url": "https://moscout.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri GOP candidate wants all ballots counted by hand - St. Louis Post-Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL21pc3NvdXJpLXJlcHVibGljYW4tc2Vla2luZy10b3AtZWxlY3Rpb24tcG9zdC13YW50cy10by1oYW5kLWNvdW50LWFsbC1iYWxsb3RzL2FydGljbGVfZjJmZDU5NWMtOTNiNy0xMWVlLWIxOGItMmYwYTBjYjQxYzZkLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitwFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL21pc3NvdXJpLXJlcHVibGljYW4tc2Vla2luZy10b3AtZWxlY3Rpb24tcG9zdC13YW50cy10by1oYW5kLWNvdW50LWFsbC1iYWxsb3RzL2FydGljbGVfZjJmZDU5NWMtOTNiNy0xMWVlLWIxOGItMmYwYTBjYjQxYzZkLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL21pc3NvdXJpLXJlcHVibGljYW4tc2Vla2luZy10b3AtZWxlY3Rpb24tcG9zdC13YW50cy10by1oYW5kLWNvdW50LWFsbC1iYWxsb3RzL2FydGljbGVfZjJmZDU5NWMtOTNiNy0xMWVlLWIxOGItMmYwYTBjYjQxYzZkLmh0bWzSAQA?oc=5\" target=\"_blank\">Missouri GOP candidate wants all ballots counted by hand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis Post-Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Louis Post-Dispatch",
+                "$": {
+                  "url": "https://www.stltoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rowden jumps into Missouri Secretary of State race - Missourinet.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzIzL3Jvd2Rlbi1qdW1wcy1pbnRvLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1yYWNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzIzL3Jvd2Rlbi1qdW1wcy1pbnRvLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1yYWNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzIzL3Jvd2Rlbi1qdW1wcy1pbnRvLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1yYWNlL9IBAA?oc=5\" target=\"_blank\">Rowden jumps into Missouri Secretary of State race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missourinet.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Missourinet.com",
+                "$": {
+                  "url": "https://www.missourinet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Olympic swimming a family affair for Gomez - William & Mary News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LndtLmVkdS9uZXdzL3N0b3JpZXMvMjAxNi9vbHltcGljLXN3aW1taW5nLWEtZmFtaWx5LWFmZmFpci1mb3ItZ29tZXoucGhw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LndtLmVkdS9uZXdzL3N0b3JpZXMvMjAxNi9vbHltcGljLXN3aW1taW5nLWEtZmFtaWx5LWFmZmFpci1mb3ItZ29tZXoucGhw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 05 Aug 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LndtLmVkdS9uZXdzL3N0b3JpZXMvMjAxNi9vbHltcGljLXN3aW1taW5nLWEtZmFtaWx5LWFmZmFpci1mb3ItZ29tZXoucGhw0gEA?oc=5\" target=\"_blank\">Olympic swimming a family affair for Gomez</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">William & Mary News</font>"
+            ],
+            "source": [
+              {
+                "_": "William & Mary News",
+                "$": {
+                  "url": "https://www.wm.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "MOScout Daily Update: Hamra Moves Forward - Plocher Announcement Day - DoD Schools' Secret Sauce - SCOMO ... - Moscout"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiowFodHRwczovL21vc2NvdXQuY29tL2RhaWx5LXVwZGF0ZXMtMS8yMDIzLzEwLzExL21vc2NvdXQtZGFpbHktdXBkYXRlLWhhbXJhLW1vdmVzLWZvcndhcmQtcGxvY2hlci1hbm5vdW5jZW1lbnQtZGF5LWRvZC1zY2hvb2xzLXNlY3JldC1zYXVjZS1zY29tby1hcHBsaWNhbnRzLWFuZC1tb3Jl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiowFodHRwczovL21vc2NvdXQuY29tL2RhaWx5LXVwZGF0ZXMtMS8yMDIzLzEwLzExL21vc2NvdXQtZGFpbHktdXBkYXRlLWhhbXJhLW1vdmVzLWZvcndhcmQtcGxvY2hlci1hbm5vdW5jZW1lbnQtZGF5LWRvZC1zY2hvb2xzLXNlY3JldC1zYXVjZS1zY29tby1hcHBsaWNhbnRzLWFuZC1tb3Jl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 11 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiowFodHRwczovL21vc2NvdXQuY29tL2RhaWx5LXVwZGF0ZXMtMS8yMDIzLzEwLzExL21vc2NvdXQtZGFpbHktdXBkYXRlLWhhbXJhLW1vdmVzLWZvcndhcmQtcGxvY2hlci1hbm5vdW5jZW1lbnQtZGF5LWRvZC1zY2hvb2xzLXNlY3JldC1zYXVjZS1zY29tby1hcHBsaWNhbnRzLWFuZC1tb3Jl0gEA?oc=5\" target=\"_blank\">MOScout Daily Update: Hamra Moves Forward - Plocher Announcement Day - DoD Schools' Secret Sauce - SCOMO ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moscout</font>"
+            ],
+            "source": [
+              {
+                "_": "Moscout",
+                "$": {
+                  "url": "https://moscout.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bayonne's Jonathan Gomez will swim for Colombia at Summer Olympics - NJ.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm5qLmNvbS9odWRzb24vMjAxNi8wNy9iYXlvbm5lc19qb25hdGhhbl9nb21lel93aWxsX3N3aW1fZm9yX2NvbG9tYmlhX2F0Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3Lm5qLmNvbS9odWRzb24vMjAxNi8wNy9iYXlvbm5lc19qb25hdGhhbl9nb21lel93aWxsX3N3aW1fZm9yX2NvbG9tYmlhX2F0Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Jul 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm5qLmNvbS9odWRzb24vMjAxNi8wNy9iYXlvbm5lc19qb25hdGhhbl9nb21lel93aWxsX3N3aW1fZm9yX2NvbG9tYmlhX2F0Lmh0bWzSAQA?oc=5\" target=\"_blank\">Bayonne's Jonathan Gomez will swim for Colombia at Summer Olympics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJ.com</font>"
+            ],
+            "source": [
+              {
+                "_": "NJ.com",
+                "$": {
+                  "url": "https://www.nj.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gomez gets early start on career of service to others - William & Mary News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LndtLmVkdS9uZXdzL3N0b3JpZXMvMjAxOC9nb21lei1nZXRzLWVhcmx5LXN0YXJ0LW9uLWNhcmVlci1vZi1zZXJ2aWNlLXRvLW90aGVycy5waHDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LndtLmVkdS9uZXdzL3N0b3JpZXMvMjAxOC9nb21lei1nZXRzLWVhcmx5LXN0YXJ0LW9uLWNhcmVlci1vZi1zZXJ2aWNlLXRvLW90aGVycy5waHDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Jun 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LndtLmVkdS9uZXdzL3N0b3JpZXMvMjAxOC9nb21lei1nZXRzLWVhcmx5LXN0YXJ0LW9uLWNhcmVlci1vZi1zZXJ2aWNlLXRvLW90aGVycy5waHDSAQA?oc=5\" target=\"_blank\">Gomez gets early start on career of service to others</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">William & Mary News</font>"
+            ],
+            "source": [
+              {
+                "_": "William & Mary News",
+                "$": {
+                  "url": "https://www.wm.edu"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

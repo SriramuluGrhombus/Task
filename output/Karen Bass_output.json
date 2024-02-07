@@ -1,0 +1,2618 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Karen Bass\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Karen+Bass&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Mayor Karen Bass declares local emergency in response to powerful SoCal storm - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9sb3NhbmdlbGVzL25ld3MvZXZhY3VhdGlvbi1vcmRlcnMtYW5kLXdhcm5pbmdzLWluLWVmZmVjdC1pbi1zb3V0aGVybi1jYWxpZm9ybmlhLWxpdmUtd2ludGVyLXN0b3JtLXVwZGF0ZXMv0gGGAWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9sb3NhbmdlbGVzL25ld3MvZXZhY3VhdGlvbi1vcmRlcnMtYW5kLXdhcm5pbmdzLWluLWVmZmVjdC1pbi1zb3V0aGVybi1jYWxpZm9ybmlhLWxpdmUtd2ludGVyLXN0b3JtLXVwZGF0ZXMv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9sb3NhbmdlbGVzL25ld3MvZXZhY3VhdGlvbi1vcmRlcnMtYW5kLXdhcm5pbmdzLWluLWVmZmVjdC1pbi1zb3V0aGVybi1jYWxpZm9ybmlhLWxpdmUtd2ludGVyLXN0b3JtLXVwZGF0ZXMv0gGGAWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9sb3NhbmdlbGVzL25ld3MvZXZhY3VhdGlvbi1vcmRlcnMtYW5kLXdhcm5pbmdzLWluLWVmZmVjdC1pbi1zb3V0aGVybi1jYWxpZm9ybmlhLWxpdmUtd2ludGVyLXN0b3JtLXVwZGF0ZXMv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:34:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9sb3NhbmdlbGVzL25ld3MvZXZhY3VhdGlvbi1vcmRlcnMtYW5kLXdhcm5pbmdzLWluLWVmZmVjdC1pbi1zb3V0aGVybi1jYWxpZm9ybmlhLWxpdmUtd2ludGVyLXN0b3JtLXVwZGF0ZXMv0gGGAWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9sb3NhbmdlbGVzL25ld3MvZXZhY3VhdGlvbi1vcmRlcnMtYW5kLXdhcm5pbmdzLWluLWVmZmVjdC1pbi1zb3V0aGVybi1jYWxpZm9ybmlhLWxpdmUtd2ludGVyLXN0b3JtLXVwZGF0ZXMv?oc=5\" target=\"_blank\">Mayor Karen Bass declares local emergency in response to powerful SoCal storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass Declares Local Emergency in Response to Powerful Storm - Westside Current"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvcmVnaW9uYWwvbWF5b3Ita2FyZW4tYmFzcy1kZWNsYXJlcy1sb2NhbC1lbWVyZ2VuY3ktaW4tcmVzcG9uc2UtdG8tcG93ZXJmdWwtc3Rvcm0vYXJ0aWNsZV82NGZlMmU0NC1jNDc1LTExZWUtYjYyNC1iYjM2ZWE2ZTU4OTEuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipwFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvcmVnaW9uYWwvbWF5b3Ita2FyZW4tYmFzcy1kZWNsYXJlcy1sb2NhbC1lbWVyZ2VuY3ktaW4tcmVzcG9uc2UtdG8tcG93ZXJmdWwtc3Rvcm0vYXJ0aWNsZV82NGZlMmU0NC1jNDc1LTExZWUtYjYyNC1iYjM2ZWE2ZTU4OTEuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 22:24:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvcmVnaW9uYWwvbWF5b3Ita2FyZW4tYmFzcy1kZWNsYXJlcy1sb2NhbC1lbWVyZ2VuY3ktaW4tcmVzcG9uc2UtdG8tcG93ZXJmdWwtc3Rvcm0vYXJ0aWNsZV82NGZlMmU0NC1jNDc1LTExZWUtYjYyNC1iYjM2ZWE2ZTU4OTEuaHRtbNIBAA?oc=5\" target=\"_blank\">Mayor Karen Bass Declares Local Emergency in Response to Powerful Storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Westside Current</font>"
+            ],
+            "source": [
+              {
+                "_": "Westside Current",
+                "$": {
+                  "url": "https://www.westsidecurrent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘All hands on deck.' LA Mayor Bass mobilizes resources ahead of ‘major storm' - NBC Southern California"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvd2F0Y2gtbGEtbWF5b3ItYmFzcy1ob2xkcy1uZXdzLWNvbmZlcmVuY2UtYmVmb3JlLW1ham9yLXN0b3JtLXRoaXMtd2Vla2VuZC8zMzI5NTcxL9IBgQFodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS9uZXdzL2xvY2FsL3dhdGNoLWxhLW1heW9yLWJhc3MtaG9sZHMtbmV3cy1jb25mZXJlbmNlLWJlZm9yZS1tYWpvci1zdG9ybS10aGlzLXdlZWtlbmQvMzMyOTU3MS8_YW1wPTE?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvd2F0Y2gtbGEtbWF5b3ItYmFzcy1ob2xkcy1uZXdzLWNvbmZlcmVuY2UtYmVmb3JlLW1ham9yLXN0b3JtLXRoaXMtd2Vla2VuZC8zMzI5NTcxL9IBgQFodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS9uZXdzL2xvY2FsL3dhdGNoLWxhLW1heW9yLWJhc3MtaG9sZHMtbmV3cy1jb25mZXJlbmNlLWJlZm9yZS1tYWpvci1zdG9ybS10aGlzLXdlZWtlbmQvMzMyOTU3MS8_YW1wPTE",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 07:41:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvd2F0Y2gtbGEtbWF5b3ItYmFzcy1ob2xkcy1uZXdzLWNvbmZlcmVuY2UtYmVmb3JlLW1ham9yLXN0b3JtLXRoaXMtd2Vla2VuZC8zMzI5NTcxL9IBgQFodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS9uZXdzL2xvY2FsL3dhdGNoLWxhLW1heW9yLWJhc3MtaG9sZHMtbmV3cy1jb25mZXJlbmNlLWJlZm9yZS1tYWpvci1zdG9ybS10aGlzLXdlZWtlbmQvMzMyOTU3MS8_YW1wPTE?oc=5\" target=\"_blank\">‘All hands on deck.' LA Mayor Bass mobilizes resources ahead of ‘major storm'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Southern California</font>"
+            ],
+            "source": [
+              {
+                "_": "NBC Southern California",
+                "$": {
+                  "url": "https://www.nbclosangeles.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Biden Calls Los Angeles Mayor and Promises Aid for Storm Damage - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDUvdXMvYmlkZW4tbG9zLWFuZ2VsZXMtc3Rvcm1zLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDUvdXMvYmlkZW4tbG9zLWFuZ2VsZXMtc3Rvcm1zLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 03:58:09 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDUvdXMvYmlkZW4tbG9zLWFuZ2VsZXMtc3Rvcm1zLmh0bWzSAQA?oc=5\" target=\"_blank\">Biden Calls Los Angeles Mayor and Promises Aid for Storm Damage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Relentless rain impacts in-person class attendance on storm's third day - uscannenbergmedia.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnVzY2FubmVuYmVyZ21lZGlhLmNvbS8yMDI0LzAyLzA2L3JlbGVudGxlc3MtcmFpbi1pbXBhY3RzLWluLXBlcnNvbi1jbGFzcy1hdHRlbmRhbmNlLW9uLXN0b3Jtcy10aGlyZC1kYXkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LnVzY2FubmVuYmVyZ21lZGlhLmNvbS8yMDI0LzAyLzA2L3JlbGVudGxlc3MtcmFpbi1pbXBhY3RzLWluLXBlcnNvbi1jbGFzcy1hdHRlbmRhbmNlLW9uLXN0b3Jtcy10aGlyZC1kYXkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 00:20:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnVzY2FubmVuYmVyZ21lZGlhLmNvbS8yMDI0LzAyLzA2L3JlbGVudGxlc3MtcmFpbi1pbXBhY3RzLWluLXBlcnNvbi1jbGFzcy1hdHRlbmRhbmNlLW9uLXN0b3Jtcy10aGlyZC1kYXkv0gEA?oc=5\" target=\"_blank\">Relentless rain impacts in-person class attendance on storm's third day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uscannenbergmedia.com</font>"
+            ],
+            "source": [
+              {
+                "_": "uscannenbergmedia.com",
+                "$": {
+                  "url": "https://www.uscannenbergmedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass Urges Caution After Declaring Local Emergency for Storm - MyNewsLA.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vbXluZXdzbGEuY29tL2dvdmVybm1lbnQvMjAyNC8wMi8wNi9tYXlvci1rYXJlbi1iYXNzLXVyZ2VzLWNhdXRpb24tYWZ0ZXItZGVjbGFyaW5nLWxvY2FsLWVtZXJnZW5jeS1mb3Itc3Rvcm0tMy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vbXluZXdzbGEuY29tL2dvdmVybm1lbnQvMjAyNC8wMi8wNi9tYXlvci1rYXJlbi1iYXNzLXVyZ2VzLWNhdXRpb24tYWZ0ZXItZGVjbGFyaW5nLWxvY2FsLWVtZXJnZW5jeS1mb3Itc3Rvcm0tMy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:42:36 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vbXluZXdzbGEuY29tL2dvdmVybm1lbnQvMjAyNC8wMi8wNi9tYXlvci1rYXJlbi1iYXNzLXVyZ2VzLWNhdXRpb24tYWZ0ZXItZGVjbGFyaW5nLWxvY2FsLWVtZXJnZW5jeS1mb3Itc3Rvcm0tMy_SAQA?oc=5\" target=\"_blank\">Mayor Karen Bass Urges Caution After Declaring Local Emergency for Storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>"
+            ],
+            "source": [
+              {
+                "_": "MyNewsLA.com",
+                "$": {
+                  "url": "https://mynewsla.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "President Biden calls Mayor Karen Bass during LA storm briefing to offer federal assistance - FOX 11 Los Angeles"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZveGxhLmNvbS9uZXdzL3ByZXNpZGVudC1iaWRlbi1jYWxscy1tYXlvci1rYXJlbi1iYXNzLWR1cmluZy1sYS1zdG9ybS1icmllZmluZy10by1vZmZlci1mZWRlcmFsLWFzc2lzdGFuY2XSAXpodHRwczovL3d3dy5mb3hsYS5jb20vbmV3cy9wcmVzaWRlbnQtYmlkZW4tY2FsbHMtbWF5b3Ita2FyZW4tYmFzcy1kdXJpbmctbGEtc3Rvcm0tYnJpZWZpbmctdG8tb2ZmZXItZmVkZXJhbC1hc3Npc3RhbmNlLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmZveGxhLmNvbS9uZXdzL3ByZXNpZGVudC1iaWRlbi1jYWxscy1tYXlvci1rYXJlbi1iYXNzLWR1cmluZy1sYS1zdG9ybS1icmllZmluZy10by1vZmZlci1mZWRlcmFsLWFzc2lzdGFuY2XSAXpodHRwczovL3d3dy5mb3hsYS5jb20vbmV3cy9wcmVzaWRlbnQtYmlkZW4tY2FsbHMtbWF5b3Ita2FyZW4tYmFzcy1kdXJpbmctbGEtc3Rvcm0tYnJpZWZpbmctdG8tb2ZmZXItZmVkZXJhbC1hc3Npc3RhbmNlLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 07:16:31 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZveGxhLmNvbS9uZXdzL3ByZXNpZGVudC1iaWRlbi1jYWxscy1tYXlvci1rYXJlbi1iYXNzLWR1cmluZy1sYS1zdG9ybS1icmllZmluZy10by1vZmZlci1mZWRlcmFsLWFzc2lzdGFuY2XSAXpodHRwczovL3d3dy5mb3hsYS5jb20vbmV3cy9wcmVzaWRlbnQtYmlkZW4tY2FsbHMtbWF5b3Ita2FyZW4tYmFzcy1kdXJpbmctbGEtc3Rvcm0tYnJpZWZpbmctdG8tb2ZmZXItZmVkZXJhbC1hc3Npc3RhbmNlLmFtcA?oc=5\" target=\"_blank\">President Biden calls Mayor Karen Bass during LA storm briefing to offer federal assistance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX 11 Los Angeles",
+                "$": {
+                  "url": "https://www.foxla.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Proven CIRCLE Program Expands Into Harbor Area | Mayor Karen Bass - City of Los Angeles (.gov)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL3Byb3Zlbi1jaXJjbGUtcHJvZ3JhbS1leHBhbmRzLWhhcmJvci1hcmVh0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL3Byb3Zlbi1jaXJjbGUtcHJvZ3JhbS1leHBhbmRzLWhhcmJvci1hcmVh0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 12:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL3Byb3Zlbi1jaXJjbGUtcHJvZ3JhbS1leHBhbmRzLWhhcmJvci1hcmVh0gEA?oc=5\" target=\"_blank\">Proven CIRCLE Program Expands Into Harbor Area | Mayor Karen Bass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>"
+            ],
+            "source": [
+              {
+                "_": "City of Los Angeles (.gov)",
+                "$": {
+                  "url": "https://mayor.lacity.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | After one year, Karen Bass still focused on L.A. homelessness - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDIzLzEyL21heW9yLWthcmVuLWJhc3MtbG9zLWFuZ2VsZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDIzLzEyL21heW9yLWthcmVuLWJhc3MtbG9zLWFuZ2VsZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDIzLzEyL21heW9yLWthcmVuLWJhc3MtbG9zLWFuZ2VsZXMv0gEA?oc=5\" target=\"_blank\">Opinion | After one year, Karen Bass still focused on L.A. homelessness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Los Angeles records more than 400 mudslides during violent storm - Express & Star"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmV4cHJlc3NhbmRzdGFyLmNvbS9uZXdzL3dvcmxkLW5ld3MvMjAyNC8wMi8wNi9sb3MtYW5nZWxlcy1yZWNvcmRzLW1vcmUtdGhhbi0zMDAtbXVkc2xpZGVzLWR1cmluZy12aW9sZW50LXN0b3JtL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LmV4cHJlc3NhbmRzdGFyLmNvbS9uZXdzL3dvcmxkLW5ld3MvMjAyNC8wMi8wNi9sb3MtYW5nZWxlcy1yZWNvcmRzLW1vcmUtdGhhbi0zMDAtbXVkc2xpZGVzLWR1cmluZy12aW9sZW50LXN0b3JtL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:42:29 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmV4cHJlc3NhbmRzdGFyLmNvbS9uZXdzL3dvcmxkLW5ld3MvMjAyNC8wMi8wNi9sb3MtYW5nZWxlcy1yZWNvcmRzLW1vcmUtdGhhbi0zMDAtbXVkc2xpZGVzLWR1cmluZy12aW9sZW50LXN0b3JtL9IBAA?oc=5\" target=\"_blank\">Los Angeles records more than 400 mudslides during violent storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Express & Star</font>"
+            ],
+            "source": [
+              {
+                "_": "Express & Star",
+                "$": {
+                  "url": "https://www.expressandstar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Outdoor Dining in LA Gets Easier With Mayor Bass's Permanent New Program - Eater LA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbGEuZWF0ZXIuY29tLzIwMjQvMi81LzI0MDYxNTk5L3Blcm1hbmVudC1hbC1mcmVzY28tZGluaW5nLWxvcy1hbmdlbGVzLW1heW9yLWJhc3MtYWlk0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vbGEuZWF0ZXIuY29tLzIwMjQvMi81LzI0MDYxNTk5L3Blcm1hbmVudC1hbC1mcmVzY28tZGluaW5nLWxvcy1hbmdlbGVzLW1heW9yLWJhc3MtYWlk0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:41:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbGEuZWF0ZXIuY29tLzIwMjQvMi81LzI0MDYxNTk5L3Blcm1hbmVudC1hbC1mcmVzY28tZGluaW5nLWxvcy1hbmdlbGVzLW1heW9yLWJhc3MtYWlk0gEA?oc=5\" target=\"_blank\">Outdoor Dining in LA Gets Easier With Mayor Bass's Permanent New Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eater LA</font>"
+            ],
+            "source": [
+              {
+                "_": "Eater LA",
+                "$": {
+                  "url": "https://la.eater.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FEMA poised to help California after massive storm - MSN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy91cy9mZW1hLXBvaXNlZC10by1oZWxwLWNhbGlmb3JuaWEtYWZ0ZXItbWFzc2l2ZS1zdG9ybS9hci1CQjFoU3VIaNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy91cy9mZW1hLXBvaXNlZC10by1oZWxwLWNhbGlmb3JuaWEtYWZ0ZXItbWFzc2l2ZS1zdG9ybS9hci1CQjFoU3VIaNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:24:10 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy91cy9mZW1hLXBvaXNlZC10by1oZWxwLWNhbGlmb3JuaWEtYWZ0ZXItbWFzc2l2ZS1zdG9ybS9hci1CQjFoU3VIaNIBAA?oc=5\" target=\"_blank\">FEMA poised to help California after massive storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>"
+            ],
+            "source": [
+              {
+                "_": "MSN",
+                "$": {
+                  "url": "https://www.msn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Bass on her 1st year in office - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9wb2xpdGljcy8yMDIzLzEyLzE4L21heW9yLXJlZmxlY3RzLW9uLWZpcnN0LXllYXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9wb2xpdGljcy8yMDIzLzEyLzE4L21heW9yLXJlZmxlY3RzLW9uLWZpcnN0LXllYXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9wb2xpdGljcy8yMDIzLzEyLzE4L21heW9yLXJlZmxlY3RzLW9uLWZpcnN0LXllYXLSAQA?oc=5\" target=\"_blank\">Mayor Bass on her 1st year in office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass addresses safety ahead of storm - NBC Southern California"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvbWF5b3Ita2FyZW4tYmFzcy1hZGRyZXNzZXMtc2FmZXR5LWFoZWFkLW9mLXN0b3JtLzMzMjk3NTIv0gFoaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vbmV3cy9sb2NhbC9tYXlvci1rYXJlbi1iYXNzLWFkZHJlc3Nlcy1zYWZldHktYWhlYWQtb2Ytc3Rvcm0vMzMyOTc1Mi8_YW1wPTE?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvbWF5b3Ita2FyZW4tYmFzcy1hZGRyZXNzZXMtc2FmZXR5LWFoZWFkLW9mLXN0b3JtLzMzMjk3NTIv0gFoaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vbmV3cy9sb2NhbC9tYXlvci1rYXJlbi1iYXNzLWFkZHJlc3Nlcy1zYWZldHktYWhlYWQtb2Ytc3Rvcm0vMzMyOTc1Mi8_YW1wPTE",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 23:09:34 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvbWF5b3Ita2FyZW4tYmFzcy1hZGRyZXNzZXMtc2FmZXR5LWFoZWFkLW9mLXN0b3JtLzMzMjk3NTIv0gFoaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vbmV3cy9sb2NhbC9tYXlvci1rYXJlbi1iYXNzLWFkZHJlc3Nlcy1zYWZldHktYWhlYWQtb2Ytc3Rvcm0vMzMyOTc1Mi8_YW1wPTE?oc=5\" target=\"_blank\">Mayor Karen Bass addresses safety ahead of storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Southern California</font>"
+            ],
+            "source": [
+              {
+                "_": "NBC Southern California",
+                "$": {
+                  "url": "https://www.nbclosangeles.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Video: Biden Offers Aid to California as It Deals with Floods and Mudslides - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm55dGltZXMuY29tL3ZpZGVvL3VzLzEwMDAwMDAwOTI5OTM4Mi9iaWRlbi1vZmZlcnMtYWlkLXRvLWNhbGlmb3JuaWEtYXMtaXQtZGVhbHMtd2l0aC1mbG9vZHMtYW5kLW11ZHNsaWRlcy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3Lm55dGltZXMuY29tL3ZpZGVvL3VzLzEwMDAwMDAwOTI5OTM4Mi9iaWRlbi1vZmZlcnMtYWlkLXRvLWNhbGlmb3JuaWEtYXMtaXQtZGVhbHMtd2l0aC1mbG9vZHMtYW5kLW11ZHNsaWRlcy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 04:50:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm55dGltZXMuY29tL3ZpZGVvL3VzLzEwMDAwMDAwOTI5OTM4Mi9iaWRlbi1vZmZlcnMtYWlkLXRvLWNhbGlmb3JuaWEtYXMtaXQtZGVhbHMtd2l0aC1mbG9vZHMtYW5kLW11ZHNsaWRlcy5odG1s0gEA?oc=5\" target=\"_blank\">Video: Biden Offers Aid to California as It Deals with Floods and Mudslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bass gives update on LA rain storm - FOX 11 Los Angeles"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3LmZveGxhLmNvbS92aWRlby8xNDA3MTYz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiI2h0dHBzOi8vd3d3LmZveGxhLmNvbS92aWRlby8xNDA3MTYz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:48:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3LmZveGxhLmNvbS92aWRlby8xNDA3MTYz0gEA?oc=5\" target=\"_blank\">Bass gives update on LA rain storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX 11 Los Angeles",
+                "$": {
+                  "url": "https://www.foxla.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass Releases Community Safety Survey - City of Los Angeles (.gov)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vbGFjaXR5Lmdvdi9oaWdobGlnaHRzL21heW9yLWthcmVuLWJhc3MtcmVsZWFzZXMtY29tbXVuaXR5LXNhZmV0eS1zdXJ2ZXnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vbGFjaXR5Lmdvdi9oaWdobGlnaHRzL21heW9yLWthcmVuLWJhc3MtcmVsZWFzZXMtY29tbXVuaXR5LXNhZmV0eS1zdXJ2ZXnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vbGFjaXR5Lmdvdi9oaWdobGlnaHRzL21heW9yLWthcmVuLWJhc3MtcmVsZWFzZXMtY29tbXVuaXR5LXNhZmV0eS1zdXJ2ZXnSAQA?oc=5\" target=\"_blank\">Mayor Karen Bass Releases Community Safety Survey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>"
+            ],
+            "source": [
+              {
+                "_": "City of Los Angeles (.gov)",
+                "$": {
+                  "url": "https://lacity.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA Mayor Karen Bass Wants Public Input On Police Chief Search. Here's How The LAPD's New Leader Will Be Picked - LAist"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL2xhaXN0LmNvbS9uZXdzL2NyaW1pbmFsLWp1c3RpY2UvbG9zLWFuZ2VsZXMtbGFwZC1jaGllZi1zZWFyY2gtYmFzcy1tb29yZS1wdWJsaWMtaW5wdXQtY29tbXVuaXR5LWZlZWRiYWNrLWNoYXJ0ZXItZXhwbGFpbmVy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL2xhaXN0LmNvbS9uZXdzL2NyaW1pbmFsLWp1c3RpY2UvbG9zLWFuZ2VsZXMtbGFwZC1jaGllZi1zZWFyY2gtYmFzcy1tb29yZS1wdWJsaWMtaW5wdXQtY29tbXVuaXR5LWZlZWRiYWNrLWNoYXJ0ZXItZXhwbGFpbmVy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 13:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL2xhaXN0LmNvbS9uZXdzL2NyaW1pbmFsLWp1c3RpY2UvbG9zLWFuZ2VsZXMtbGFwZC1jaGllZi1zZWFyY2gtYmFzcy1tb29yZS1wdWJsaWMtaW5wdXQtY29tbXVuaXR5LWZlZWRiYWNrLWNoYXJ0ZXItZXhwbGFpbmVy0gEA?oc=5\" target=\"_blank\">LA Mayor Karen Bass Wants Public Input On Police Chief Search. Here's How The LAPD's New Leader Will Be Picked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>"
+            ],
+            "source": [
+              {
+                "_": "LAist",
+                "$": {
+                  "url": "https://laist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass Comes Out in Support of Studio Development - The Real Deal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjQvMDIvMDUvbWF5b3Ita2FyZW4tYmFzcy1jb21lcy1vdXQtaW4tc3VwcG9ydC1vZi1zdHVkaW8tZGV2ZWxvcG1lbnQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjQvMDIvMDUvbWF5b3Ita2FyZW4tYmFzcy1jb21lcy1vdXQtaW4tc3VwcG9ydC1vZi1zdHVkaW8tZGV2ZWxvcG1lbnQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 21:26:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjQvMDIvMDUvbWF5b3Ita2FyZW4tYmFzcy1jb21lcy1vdXQtaW4tc3VwcG9ydC1vZi1zdHVkaW8tZGV2ZWxvcG1lbnQv0gEA?oc=5\" target=\"_blank\">Mayor Karen Bass Comes Out in Support of Studio Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>"
+            ],
+            "source": [
+              {
+                "_": "The Real Deal",
+                "$": {
+                  "url": "https://therealdeal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass Announces Resources Ahead of Feb. 1 Rent Deadline and RSO Rent Increase - Random Lengths"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnJhbmRvbWxlbmd0aHNuZXdzLmNvbS9hcmNoaXZlcy8yMDI0LzAxLzMxL2ZlYi0xLXJlbnQtZGVhZGxpbmUvNDkwMTHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LnJhbmRvbWxlbmd0aHNuZXdzLmNvbS9hcmNoaXZlcy8yMDI0LzAxLzMxL2ZlYi0xLXJlbnQtZGVhZGxpbmUvNDkwMTHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 17:42:24 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnJhbmRvbWxlbmd0aHNuZXdzLmNvbS9hcmNoaXZlcy8yMDI0LzAxLzMxL2ZlYi0xLXJlbnQtZGVhZGxpbmUvNDkwMTHSAQA?oc=5\" target=\"_blank\">Mayor Karen Bass Announces Resources Ahead of Feb. 1 Rent Deadline and RSO Rent Increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Random Lengths</font>"
+            ],
+            "source": [
+              {
+                "_": "Random Lengths",
+                "$": {
+                  "url": "https://www.randomlengthsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Bass Urges Preparation Ahead of Heavy Rain - MyNewsLA.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbXluZXdzbGEuY29tL3dlYXRoZXIvMjAyNC8wMi8wMy9tYXlvci1iYXNzLXVyZ2VzLXByZXBhcmF0aW9uLWFoZWFkLW9mLWhlYXZ5LXJhaW4v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vbXluZXdzbGEuY29tL3dlYXRoZXIvMjAyNC8wMi8wMy9tYXlvci1iYXNzLXVyZ2VzLXByZXBhcmF0aW9uLWFoZWFkLW9mLWhlYXZ5LXJhaW4v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 15:27:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbXluZXdzbGEuY29tL3dlYXRoZXIvMjAyNC8wMi8wMy9tYXlvci1iYXNzLXVyZ2VzLXByZXBhcmF0aW9uLWFoZWFkLW9mLWhlYXZ5LXJhaW4v0gEA?oc=5\" target=\"_blank\">Mayor Bass Urges Preparation Ahead of Heavy Rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>"
+            ],
+            "source": [
+              {
+                "_": "MyNewsLA.com",
+                "$": {
+                  "url": "https://mynewsla.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA Mayor Karen Bass announces members of Small Business Cabinet - LA Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8xMi9sYS1tYXlvci1rYXJlbi1iYXNzLWFubm91bmNlcy1tZW1iZXJzLW9mLXNtYWxsLWJ1c2luZXNzLWNhYmluZXQv0gFpaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDI0LzAxLzEyL2xhLW1heW9yLWthcmVuLWJhc3MtYW5ub3VuY2VzLW1lbWJlcnMtb2Ytc21hbGwtYnVzaW5lc3MtY2FiaW5ldC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8xMi9sYS1tYXlvci1rYXJlbi1iYXNzLWFubm91bmNlcy1tZW1iZXJzLW9mLXNtYWxsLWJ1c2luZXNzLWNhYmluZXQv0gFpaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDI0LzAxLzEyL2xhLW1heW9yLWthcmVuLWJhc3MtYW5ub3VuY2VzLW1lbWJlcnMtb2Ytc21hbGwtYnVzaW5lc3MtY2FiaW5ldC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8xMi9sYS1tYXlvci1rYXJlbi1iYXNzLWFubm91bmNlcy1tZW1iZXJzLW9mLXNtYWxsLWJ1c2luZXNzLWNhYmluZXQv0gFpaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDI0LzAxLzEyL2xhLW1heW9yLWthcmVuLWJhc3MtYW5ub3VuY2VzLW1lbWJlcnMtb2Ytc21hbGwtYnVzaW5lc3MtY2FiaW5ldC9hbXAv?oc=5\" target=\"_blank\">LA Mayor Karen Bass announces members of Small Business Cabinet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "LA Daily News",
+                "$": {
+                  "url": "https://www.dailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mudslides In Hollywood Hills - NBC Palm Springs"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbmJjcGFsbXNwcmluZ3MuY29tLzIwMjQvMDIvMDUvbXVkc2xpZGVzLWluLWhvbGx5d29vZC1oaWxscy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vbmJjcGFsbXNwcmluZ3MuY29tLzIwMjQvMDIvMDUvbXVkc2xpZGVzLWluLWhvbGx5d29vZC1oaWxscy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 05:10:13 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbmJjcGFsbXNwcmluZ3MuY29tLzIwMjQvMDIvMDUvbXVkc2xpZGVzLWluLWhvbGx5d29vZC1oaWxscy_SAQA?oc=5\" target=\"_blank\">Mudslides In Hollywood Hills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Palm Springs</font>"
+            ],
+            "source": [
+              {
+                "_": "NBC Palm Springs",
+                "$": {
+                  "url": "https://nbcpalmsprings.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Bass Convenes Small Business Cabinet Continuing Efforts to Stand With Los Angeles Businesses - City of Los Angeles (.gov)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3MtY29udmVuZXMtc21hbGwtYnVzaW5lc3MtY2FiaW5ldC1jb250aW51aW5nLWVmZm9ydHMtc3RhbmQtbG9zLWFuZ2VsZXMtYnVzaW5lc3Nlc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3MtY29udmVuZXMtc21hbGwtYnVzaW5lc3MtY2FiaW5ldC1jb250aW51aW5nLWVmZm9ydHMtc3RhbmQtbG9zLWFuZ2VsZXMtYnVzaW5lc3Nlc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3MtY29udmVuZXMtc21hbGwtYnVzaW5lc3MtY2FiaW5ldC1jb250aW51aW5nLWVmZm9ydHMtc3RhbmQtbG9zLWFuZ2VsZXMtYnVzaW5lc3Nlc9IBAA?oc=5\" target=\"_blank\">Mayor Bass Convenes Small Business Cabinet Continuing Efforts to Stand With Los Angeles Businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>"
+            ],
+            "source": [
+              {
+                "_": "City of Los Angeles (.gov)",
+                "$": {
+                  "url": "https://mayor.lacity.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass Marks One-Year Anniversary in Office with Venice Visit - Westside Current"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvbWF5b3Ita2FyZW4tYmFzcy1tYXJrcy1vbmUteWVhci1hbm5pdmVyc2FyeS1pbi1vZmZpY2Utd2l0aC12ZW5pY2UtdmlzaXQvYXJ0aWNsZV8wN2NhNmVhMi05OTJmLTExZWUtYWFiMC01MzM5ZWIwNjBlOWYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMingFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvbWF5b3Ita2FyZW4tYmFzcy1tYXJrcy1vbmUteWVhci1hbm5pdmVyc2FyeS1pbi1vZmZpY2Utd2l0aC12ZW5pY2UtdmlzaXQvYXJ0aWNsZV8wN2NhNmVhMi05OTJmLTExZWUtYWFiMC01MzM5ZWIwNjBlOWYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvbWF5b3Ita2FyZW4tYmFzcy1tYXJrcy1vbmUteWVhci1hbm5pdmVyc2FyeS1pbi1vZmZpY2Utd2l0aC12ZW5pY2UtdmlzaXQvYXJ0aWNsZV8wN2NhNmVhMi05OTJmLTExZWUtYWFiMC01MzM5ZWIwNjBlOWYuaHRtbNIBAA?oc=5\" target=\"_blank\">Mayor Karen Bass Marks One-Year Anniversary in Office with Venice Visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Westside Current</font>"
+            ],
+            "source": [
+              {
+                "_": "Westside Current",
+                "$": {
+                  "url": "https://www.westsidecurrent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | Bass shows her strengths with quick fix of L.A. freeway - CalMatters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDIzLzExL2thcmVuLWJhc3Mtc3RyZW5ndGhzLXJlb3BlbmluZy1mcmVld2F5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDIzLzExL2thcmVuLWJhc3Mtc3RyZW5ndGhzLXJlb3BlbmluZy1mcmVld2F5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vY2FsbWF0dGVycy5vcmcvY29tbWVudGFyeS8yMDIzLzExL2thcmVuLWJhc3Mtc3RyZW5ndGhzLXJlb3BlbmluZy1mcmVld2F5L9IBAA?oc=5\" target=\"_blank\">Opinion | Bass shows her strengths with quick fix of L.A. freeway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>"
+            ],
+            "source": [
+              {
+                "_": "CalMatters",
+                "$": {
+                  "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA Mayor Karen Bass appointed Metro chair prior to 2028 Olympics - Insidethegames.biz"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lmluc2lkZXRoZWdhbWVzLmJpei9hcnRpY2xlcy8xMTM5NjExL2thcmVuLWJhc3MtbGEtbWV0cm_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vd3d3Lmluc2lkZXRoZWdhbWVzLmJpei9hcnRpY2xlcy8xMTM5NjExL2thcmVuLWJhc3MtbGEtbWV0cm_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 06 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lmluc2lkZXRoZWdhbWVzLmJpei9hcnRpY2xlcy8xMTM5NjExL2thcmVuLWJhc3MtbGEtbWV0cm_SAQA?oc=5\" target=\"_blank\">LA Mayor Karen Bass appointed Metro chair prior to 2028 Olympics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insidethegames.biz</font>"
+            ],
+            "source": [
+              {
+                "_": "Insidethegames.biz",
+                "$": {
+                  "url": "https://www.insidethegames.biz"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Grading Mayor Karen Bass's First Year in City Hall - Los Angeles Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbGFtYWcuY29tL3BvbGl0aWNzL2dyYWRpbmctbWF5b3Ita2FyZW4tYmFzc3MtZmlyc3QteWVhci1pbi1jaXR5LWhhbGzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vbGFtYWcuY29tL3BvbGl0aWNzL2dyYWRpbmctbWF5b3Ita2FyZW4tYmFzc3MtZmlyc3QteWVhci1pbi1jaXR5LWhhbGzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbGFtYWcuY29tL3BvbGl0aWNzL2dyYWRpbmctbWF5b3Ita2FyZW4tYmFzc3MtZmlyc3QteWVhci1pbi1jaXR5LWhhbGzSAQA?oc=5\" target=\"_blank\">Grading Mayor Karen Bass's First Year in City Hall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Los Angeles Magazine",
+                "$": {
+                  "url": "https://lamag.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Local Emergency Declared In Los Angeles - NBC Palm Springs"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbmJjcGFsbXNwcmluZ3MuY29tLzIwMjQvMDIvMDUvbG9jYWwtZW1lcmdlbmN5LWRlY2xhcmVkLWluLWxvcy1hbmdlbGVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vbmJjcGFsbXNwcmluZ3MuY29tLzIwMjQvMDIvMDUvbG9jYWwtZW1lcmdlbmN5LWRlY2xhcmVkLWluLWxvcy1hbmdlbGVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 04:50:31 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbmJjcGFsbXNwcmluZ3MuY29tLzIwMjQvMDIvMDUvbG9jYWwtZW1lcmdlbmN5LWRlY2xhcmVkLWluLWxvcy1hbmdlbGVzL9IBAA?oc=5\" target=\"_blank\">Local Emergency Declared In Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Palm Springs</font>"
+            ],
+            "source": [
+              {
+                "_": "NBC Palm Springs",
+                "$": {
+                  "url": "https://nbcpalmsprings.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA Mayor Bass kicks off week of events to highlight her first year in office - LA Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8wNC9sYS1tYXlvci1iYXNzLWtpY2tzLW9mZi13ZWVrLW9mLWV2ZW50cy10by1oaWdobGlnaHQtaGVyLWZpcnN0LXllYXItaW4tb2ZmaWNlL9IBdmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8wNC9sYS1tYXlvci1iYXNzLWtpY2tzLW9mZi13ZWVrLW9mLWV2ZW50cy10by1oaWdobGlnaHQtaGVyLWZpcnN0LXllYXItaW4tb2ZmaWNlL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8wNC9sYS1tYXlvci1iYXNzLWtpY2tzLW9mZi13ZWVrLW9mLWV2ZW50cy10by1oaWdobGlnaHQtaGVyLWZpcnN0LXllYXItaW4tb2ZmaWNlL9IBdmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8wNC9sYS1tYXlvci1iYXNzLWtpY2tzLW9mZi13ZWVrLW9mLWV2ZW50cy10by1oaWdobGlnaHQtaGVyLWZpcnN0LXllYXItaW4tb2ZmaWNlL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 04 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8wNC9sYS1tYXlvci1iYXNzLWtpY2tzLW9mZi13ZWVrLW9mLWV2ZW50cy10by1oaWdobGlnaHQtaGVyLWZpcnN0LXllYXItaW4tb2ZmaWNlL9IBdmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8wNC9sYS1tYXlvci1iYXNzLWtpY2tzLW9mZi13ZWVrLW9mLWV2ZW50cy10by1oaWdobGlnaHQtaGVyLWZpcnN0LXllYXItaW4tb2ZmaWNlL2FtcC8?oc=5\" target=\"_blank\">LA Mayor Bass kicks off week of events to highlight her first year in office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "LA Daily News",
+                "$": {
+                  "url": "https://www.dailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "One Year In: Mayor Karen Bass's Efforts Against Homelessness and Crime in Los Angeles - Westside Current"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3Mvb25lLXllYXItaW4tbWF5b3Ita2FyZW4tYmFzc3MtZWZmb3J0cy1hZ2FpbnN0LWhvbWVsZXNzbmVzcy1hbmQtY3JpbWUtaW4tbG9zLWFuZ2VsZXMvYXJ0aWNsZV85MjVkZGIxZS1hMDVkLTExZWUtYTI2NC01ZmMyM2FhMGI3ZWEuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqgFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3Mvb25lLXllYXItaW4tbWF5b3Ita2FyZW4tYmFzc3MtZWZmb3J0cy1hZ2FpbnN0LWhvbWVsZXNzbmVzcy1hbmQtY3JpbWUtaW4tbG9zLWFuZ2VsZXMvYXJ0aWNsZV85MjVkZGIxZS1hMDVkLTExZWUtYTI2NC01ZmMyM2FhMGI3ZWEuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 30 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3Mvb25lLXllYXItaW4tbWF5b3Ita2FyZW4tYmFzc3MtZWZmb3J0cy1hZ2FpbnN0LWhvbWVsZXNzbmVzcy1hbmQtY3JpbWUtaW4tbG9zLWFuZ2VsZXMvYXJ0aWNsZV85MjVkZGIxZS1hMDVkLTExZWUtYTI2NC01ZmMyM2FhMGI3ZWEuaHRtbNIBAA?oc=5\" target=\"_blank\">One Year In: Mayor Karen Bass's Efforts Against Homelessness and Crime in Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Westside Current</font>"
+            ],
+            "source": [
+              {
+                "_": "Westside Current",
+                "$": {
+                  "url": "https://www.westsidecurrent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Los Angeles Mayor Karen Bass says \"we are ready\" for Hilary - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2xvcy1hbmdlbGVzLW1heW9yLWthcmVuLWJhc3Mtc2F5cy13ZS1hcmUtcmVhZHktZm9yLWhpbGFyeS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2xvcy1hbmdlbGVzLW1heW9yLWthcmVuLWJhc3Mtc2F5cy13ZS1hcmUtcmVhZHktZm9yLWhpbGFyeS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 20 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2xvcy1hbmdlbGVzLW1heW9yLWthcmVuLWJhc3Mtc2F5cy13ZS1hcmUtcmVhZHktZm9yLWhpbGFyeS_SAQA?oc=5\" target=\"_blank\">Los Angeles Mayor Karen Bass says \"we are ready\" for Hilary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Union leaders, Mayor Bass celebrate deal to remodel iconic Radford Studio Center - LA Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8zMS91bmlvbi1sZWFkZXJzLW1heW9yLWJhc3MtY2VsZWJyYXRlLWRlYWwtdG8tcmVtb2RlbC1pY29uaWMtcmFkZm9yZC1zdHVkaW8tY2VudGVyL9IBeWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8zMS91bmlvbi1sZWFkZXJzLW1heW9yLWJhc3MtY2VsZWJyYXRlLWRlYWwtdG8tcmVtb2RlbC1pY29uaWMtcmFkZm9yZC1zdHVkaW8tY2VudGVyL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8zMS91bmlvbi1sZWFkZXJzLW1heW9yLWJhc3MtY2VsZWJyYXRlLWRlYWwtdG8tcmVtb2RlbC1pY29uaWMtcmFkZm9yZC1zdHVkaW8tY2VudGVyL9IBeWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8zMS91bmlvbi1sZWFkZXJzLW1heW9yLWJhc3MtY2VsZWJyYXRlLWRlYWwtdG8tcmVtb2RlbC1pY29uaWMtcmFkZm9yZC1zdHVkaW8tY2VudGVyL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 16:54:43 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8zMS91bmlvbi1sZWFkZXJzLW1heW9yLWJhc3MtY2VsZWJyYXRlLWRlYWwtdG8tcmVtb2RlbC1pY29uaWMtcmFkZm9yZC1zdHVkaW8tY2VudGVyL9IBeWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8zMS91bmlvbi1sZWFkZXJzLW1heW9yLWJhc3MtY2VsZWJyYXRlLWRlYWwtdG8tcmVtb2RlbC1pY29uaWMtcmFkZm9yZC1zdHVkaW8tY2VudGVyL2FtcC8?oc=5\" target=\"_blank\">Union leaders, Mayor Bass celebrate deal to remodel iconic Radford Studio Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "LA Daily News",
+                "$": {
+                  "url": "https://www.dailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "L.A. Mayor Karen Bass Calls for ‘Immediate’ Resolution of Hollywood Strikes - Variety"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy9maWxtL25ld3Mva2FyZW4tYmFzcy1pbW1lZGlhdGUtcmVzb2x1dGlvbi1zdHJpa2VzLTEyMzU2ODgyNTMv0gFaaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL2ZpbG0vbmV3cy9rYXJlbi1iYXNzLWltbWVkaWF0ZS1yZXNvbHV0aW9uLXN0cmlrZXMtMTIzNTY4ODI1My9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy9maWxtL25ld3Mva2FyZW4tYmFzcy1pbW1lZGlhdGUtcmVzb2x1dGlvbi1zdHJpa2VzLTEyMzU2ODgyNTMv0gFaaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL2ZpbG0vbmV3cy9rYXJlbi1iYXNzLWltbWVkaWF0ZS1yZXNvbHV0aW9uLXN0cmlrZXMtMTIzNTY4ODI1My9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy9maWxtL25ld3Mva2FyZW4tYmFzcy1pbW1lZGlhdGUtcmVzb2x1dGlvbi1zdHJpa2VzLTEyMzU2ODgyNTMv0gFaaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL2ZpbG0vbmV3cy9rYXJlbi1iYXNzLWltbWVkaWF0ZS1yZXNvbHV0aW9uLXN0cmlrZXMtMTIzNTY4ODI1My9hbXAv?oc=5\" target=\"_blank\">L.A. Mayor Karen Bass Calls for ‘Immediate’ Resolution of Hollywood Strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>"
+            ],
+            "source": [
+              {
+                "_": "Variety",
+                "$": {
+                  "url": "https://variety.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Los Angeles Mayor urges India to open consulate in America's second-largest city - The New Indian Express"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9uYXRpb24vMjAyMy9vY3QvMDMvbG9zLWFuZ2VsZXMtbWF5b3ItdXJnZXMtaW5kaWEtdG8tb3Blbi1jb25zdWxhdGUtaW4tYW1lcmljYXMtc2Vjb25kLWxhcmdlc3QtY2l0eS0yNjIwNDU5Lmh0bWzSAZoBaHR0cHM6Ly93d3cubmV3aW5kaWFuZXhwcmVzcy5jb20vYW1wL3N0b3J5L25hdGlvbi8yMDIzL09jdC8wMy9sb3MtYW5nZWxlcy1tYXlvci11cmdlcy1pbmRpYS10by1vcGVuLWNvbnN1bGF0ZS1pbi1hbWVyaWNhcy1zZWNvbmQtbGFyZ2VzdC1jaXR5LTI2MjA0NTkuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9uYXRpb24vMjAyMy9vY3QvMDMvbG9zLWFuZ2VsZXMtbWF5b3ItdXJnZXMtaW5kaWEtdG8tb3Blbi1jb25zdWxhdGUtaW4tYW1lcmljYXMtc2Vjb25kLWxhcmdlc3QtY2l0eS0yNjIwNDU5Lmh0bWzSAZoBaHR0cHM6Ly93d3cubmV3aW5kaWFuZXhwcmVzcy5jb20vYW1wL3N0b3J5L25hdGlvbi8yMDIzL09jdC8wMy9sb3MtYW5nZWxlcy1tYXlvci11cmdlcy1pbmRpYS10by1vcGVuLWNvbnN1bGF0ZS1pbi1hbWVyaWNhcy1zZWNvbmQtbGFyZ2VzdC1jaXR5LTI2MjA0NTkuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9uYXRpb24vMjAyMy9vY3QvMDMvbG9zLWFuZ2VsZXMtbWF5b3ItdXJnZXMtaW5kaWEtdG8tb3Blbi1jb25zdWxhdGUtaW4tYW1lcmljYXMtc2Vjb25kLWxhcmdlc3QtY2l0eS0yNjIwNDU5Lmh0bWzSAZoBaHR0cHM6Ly93d3cubmV3aW5kaWFuZXhwcmVzcy5jb20vYW1wL3N0b3J5L25hdGlvbi8yMDIzL09jdC8wMy9sb3MtYW5nZWxlcy1tYXlvci11cmdlcy1pbmRpYS10by1vcGVuLWNvbnN1bGF0ZS1pbi1hbWVyaWNhcy1zZWNvbmQtbGFyZ2VzdC1jaXR5LTI2MjA0NTkuaHRtbA?oc=5\" target=\"_blank\">Los Angeles Mayor urges India to open consulate in America's second-largest city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>"
+            ],
+            "source": [
+              {
+                "_": "The New Indian Express",
+                "$": {
+                  "url": "https://www.newindianexpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "“Karen Bass — where are you?” Vendors at the Fiesta Mini Mall swap meet still fighting for their space - uscannenbergmedia.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy51c2Nhbm5lbmJlcmdtZWRpYS5jb20vMjAyMy8xMi8wMS9rYXJlbi1iYXNzLXdoZXJlLWFyZS15b3UtdmVuZG9ycy1hdC10aGUtZmllc3RhLW1pbmktbWFsbC1zd2FwLW1lZXQtc3RpbGwtZmlnaHRpbmctZm9yLXRoZWlyLXNwYWNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy51c2Nhbm5lbmJlcmdtZWRpYS5jb20vMjAyMy8xMi8wMS9rYXJlbi1iYXNzLXdoZXJlLWFyZS15b3UtdmVuZG9ycy1hdC10aGUtZmllc3RhLW1pbmktbWFsbC1zd2FwLW1lZXQtc3RpbGwtZmlnaHRpbmctZm9yLXRoZWlyLXNwYWNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy51c2Nhbm5lbmJlcmdtZWRpYS5jb20vMjAyMy8xMi8wMS9rYXJlbi1iYXNzLXdoZXJlLWFyZS15b3UtdmVuZG9ycy1hdC10aGUtZmllc3RhLW1pbmktbWFsbC1zd2FwLW1lZXQtc3RpbGwtZmlnaHRpbmctZm9yLXRoZWlyLXNwYWNlL9IBAA?oc=5\" target=\"_blank\">“Karen Bass — where are you?” Vendors at the Fiesta Mini Mall swap meet still fighting for their space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uscannenbergmedia.com</font>"
+            ],
+            "source": [
+              {
+                "_": "uscannenbergmedia.com",
+                "$": {
+                  "url": "https://www.uscannenbergmedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Bass in Las Vegas to campaign for Biden ahead of Nevada Primary - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2xvc2FuZ2VsZXMvbmV3cy9tYXlvci1iYXNzLWluLWxhcy12ZWdhcy10by1jYW1wYWlnbi1mb3ItYmlkZW4tYWhlYWQtb2YtbmV2YWRhLXByaW1hcnkv0gFyaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL2xvc2FuZ2VsZXMvbmV3cy9tYXlvci1iYXNzLWluLWxhcy12ZWdhcy10by1jYW1wYWlnbi1mb3ItYmlkZW4tYWhlYWQtb2YtbmV2YWRhLXByaW1hcnkv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2xvc2FuZ2VsZXMvbmV3cy9tYXlvci1iYXNzLWluLWxhcy12ZWdhcy10by1jYW1wYWlnbi1mb3ItYmlkZW4tYWhlYWQtb2YtbmV2YWRhLXByaW1hcnkv0gFyaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL2xvc2FuZ2VsZXMvbmV3cy9tYXlvci1iYXNzLWluLWxhcy12ZWdhcy10by1jYW1wYWlnbi1mb3ItYmlkZW4tYWhlYWQtb2YtbmV2YWRhLXByaW1hcnkv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 28 Jan 2024 20:55:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2xvc2FuZ2VsZXMvbmV3cy9tYXlvci1iYXNzLWluLWxhcy12ZWdhcy10by1jYW1wYWlnbi1mb3ItYmlkZW4tYWhlYWQtb2YtbmV2YWRhLXByaW1hcnkv0gFyaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL2xvc2FuZ2VsZXMvbmV3cy9tYXlvci1iYXNzLWluLWxhcy12ZWdhcy10by1jYW1wYWlnbi1mb3ItYmlkZW4tYWhlYWQtb2YtbmV2YWRhLXByaW1hcnkv?oc=5\" target=\"_blank\">Mayor Bass in Las Vegas to campaign for Biden ahead of Nevada Primary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Bass and Superintendent Carvalho take action to address school safety for first day of school - City of Los Angeles (.gov)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3MtYW5kLXN1cGVyaW50ZW5kZW50LWNhcnZhbGhvLXRha2UtYWN0aW9uLWFkZHJlc3Mtc2Nob29sLXNhZmV0eS1maXJzdC1kYXktc2Nob29s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3MtYW5kLXN1cGVyaW50ZW5kZW50LWNhcnZhbGhvLXRha2UtYWN0aW9uLWFkZHJlc3Mtc2Nob29sLXNhZmV0eS1maXJzdC1kYXktc2Nob29s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 13 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3MtYW5kLXN1cGVyaW50ZW5kZW50LWNhcnZhbGhvLXRha2UtYWN0aW9uLWFkZHJlc3Mtc2Nob29sLXNhZmV0eS1maXJzdC1kYXktc2Nob29s0gEA?oc=5\" target=\"_blank\">Mayor Bass and Superintendent Carvalho take action to address school safety for first day of school</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>"
+            ],
+            "source": [
+              {
+                "_": "City of Los Angeles (.gov)",
+                "$": {
+                  "url": "https://mayor.lacity.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Bass secures critical permanent housing agreement with federal housing department to cut red tape and bring ... - City of Los Angeles (.gov)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3Mtc2VjdXJlcy1jcml0aWNhbC1wZXJtYW5lbnQtaG91c2luZy1hZ3JlZW1lbnQtZmVkZXJhbC1ob3VzaW5nLWRlcGFydG1lbnQtY3V0LXJlZNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3Mtc2VjdXJlcy1jcml0aWNhbC1wZXJtYW5lbnQtaG91c2luZy1hZ3JlZW1lbnQtZmVkZXJhbC1ob3VzaW5nLWRlcGFydG1lbnQtY3V0LXJlZNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 16 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3Mtc2VjdXJlcy1jcml0aWNhbC1wZXJtYW5lbnQtaG91c2luZy1hZ3JlZW1lbnQtZmVkZXJhbC1ob3VzaW5nLWRlcGFydG1lbnQtY3V0LXJlZNIBAA?oc=5\" target=\"_blank\">Mayor Bass secures critical permanent housing agreement with federal housing department to cut red tape and bring ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>"
+            ],
+            "source": [
+              {
+                "_": "City of Los Angeles (.gov)",
+                "$": {
+                  "url": "https://mayor.lacity.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lawsuit over homeless project on Westside takes aim at Mayor Karen Bass - LA Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8yMi9sYXdzdWl0LW92ZXItaG9tZWxlc3MtcHJvamVjdC1vbi13ZXN0c2lkZS10YWtlcy1haW0tYXQtbWF5b3Ita2FyZW4tYmFzcy_SAXFodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjMvMTIvMjIvbGF3c3VpdC1vdmVyLWhvbWVsZXNzLXByb2plY3Qtb24td2VzdHNpZGUtdGFrZXMtYWltLWF0LW1heW9yLWthcmVuLWJhc3MvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8yMi9sYXdzdWl0LW92ZXItaG9tZWxlc3MtcHJvamVjdC1vbi13ZXN0c2lkZS10YWtlcy1haW0tYXQtbWF5b3Ita2FyZW4tYmFzcy_SAXFodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjMvMTIvMjIvbGF3c3VpdC1vdmVyLWhvbWVsZXNzLXByb2plY3Qtb24td2VzdHNpZGUtdGFrZXMtYWltLWF0LW1heW9yLWthcmVuLWJhc3MvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8yMi9sYXdzdWl0LW92ZXItaG9tZWxlc3MtcHJvamVjdC1vbi13ZXN0c2lkZS10YWtlcy1haW0tYXQtbWF5b3Ita2FyZW4tYmFzcy_SAXFodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjMvMTIvMjIvbGF3c3VpdC1vdmVyLWhvbWVsZXNzLXByb2plY3Qtb24td2VzdHNpZGUtdGFrZXMtYWltLWF0LW1heW9yLWthcmVuLWJhc3MvYW1wLw?oc=5\" target=\"_blank\">Lawsuit over homeless project on Westside takes aim at Mayor Karen Bass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "LA Daily News",
+                "$": {
+                  "url": "https://www.dailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Los Angeles Mayor Karen Bass \"fearful that any day\" planes of migrants could be sent to L.A. - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzA5LzE1L2F4aW9zLWV2ZW50cy1rYXJlbi1iYXNzLWxvcy1hbmdlbGVz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzA5LzE1L2F4aW9zLWV2ZW50cy1rYXJlbi1iYXNzLWxvcy1hbmdlbGVz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzA5LzE1L2F4aW9zLWV2ZW50cy1rYXJlbi1iYXNzLWxvcy1hbmdlbGVz0gEA?oc=5\" target=\"_blank\">Los Angeles Mayor Karen Bass \"fearful that any day\" planes of migrants could be sent to L.A.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Maximize our resources': Mayor Karen Bass on her Washington visit - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9wb2xpdGljcy8yMDIzLzEwLzIwL2xvcy1hbmdlbGVzLW1heW9yLWthcmVuLWJhc3MtY2l0eS1jb3VuY2lsLXdhc2hpbmd0b24tdmlzaXTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9wb2xpdGljcy8yMDIzLzEwLzIwL2xvcy1hbmdlbGVzLW1heW9yLWthcmVuLWJhc3MtY2l0eS1jb3VuY2lsLXdhc2hpbmd0b24tdmlzaXTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9wb2xpdGljcy8yMDIzLzEwLzIwL2xvcy1hbmdlbGVzLW1heW9yLWthcmVuLWJhc3MtY2l0eS1jb3VuY2lsLXdhc2hpbmd0b24tdmlzaXTSAQA?oc=5\" target=\"_blank\">'Maximize our resources': Mayor Karen Bass on her Washington visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'It's Been Intense': Karen Bass Discusses Her First Year as Mayor - Los Angeles Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbGFtYWcuY29tL25ld3Mva2FyZW4tYmFzcy1maXJzdC15ZWFyLWFzLWxvcy1hbmdlbGVzLW1heW9yLWludGVydmlld9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vbGFtYWcuY29tL25ld3Mva2FyZW4tYmFzcy1maXJzdC15ZWFyLWFzLWxvcy1hbmdlbGVzLW1heW9yLWludGVydmlld9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbGFtYWcuY29tL25ld3Mva2FyZW4tYmFzcy1maXJzdC15ZWFyLWFzLWxvcy1hbmdlbGVzLW1heW9yLWludGVydmlld9IBAA?oc=5\" target=\"_blank\">'It's Been Intense': Karen Bass Discusses Her First Year as Mayor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Los Angeles Magazine",
+                "$": {
+                  "url": "https://lamag.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Press Conference with Los Angeles Mayor Karen Bass and Banc of California on Dec. 5 - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9wcmVzcy1jb25mZXJlbmNlLWxvcy1hbmdlbGVzLW1heW9yLTAxMTEwMDkyMS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9wcmVzcy1jb25mZXJlbmNlLWxvcy1hbmdlbGVzLW1heW9yLTAxMTEwMDkyMS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 04 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9wcmVzcy1jb25mZXJlbmNlLWxvcy1hbmdlbGVzLW1heW9yLTAxMTEwMDkyMS5odG1s0gEA?oc=5\" target=\"_blank\">Press Conference with Los Angeles Mayor Karen Bass and Banc of California on Dec. 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "City lays out 'all-hands-on-deck' plan as second storm heads toward LA; urges residents to prepare - KABC-TV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vYWJjNy5jb20vbG9zLWFuZ2VsZXMtd2VhdGhlci1yYWluLWluLWxhLXN0b3JtLXNvdXRoZXJuLWNhbGlmb3JuaWEvMTQzODIyNzQv0gFXaHR0cHM6Ly9hYmM3LmNvbS9hbXAvbG9zLWFuZ2VsZXMtd2VhdGhlci1yYWluLWluLWxhLXN0b3JtLXNvdXRoZXJuLWNhbGlmb3JuaWEvMTQzODIyNzQv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vYWJjNy5jb20vbG9zLWFuZ2VsZXMtd2VhdGhlci1yYWluLWluLWxhLXN0b3JtLXNvdXRoZXJuLWNhbGlmb3JuaWEvMTQzODIyNzQv0gFXaHR0cHM6Ly9hYmM3LmNvbS9hbXAvbG9zLWFuZ2VsZXMtd2VhdGhlci1yYWluLWluLWxhLXN0b3JtLXNvdXRoZXJuLWNhbGlmb3JuaWEvMTQzODIyNzQv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 02:08:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vYWJjNy5jb20vbG9zLWFuZ2VsZXMtd2VhdGhlci1yYWluLWluLWxhLXN0b3JtLXNvdXRoZXJuLWNhbGlmb3JuaWEvMTQzODIyNzQv0gFXaHR0cHM6Ly9hYmM3LmNvbS9hbXAvbG9zLWFuZ2VsZXMtd2VhdGhlci1yYWluLWluLWxhLXN0b3JtLXNvdXRoZXJuLWNhbGlmb3JuaWEvMTQzODIyNzQv?oc=5\" target=\"_blank\">City lays out 'all-hands-on-deck' plan as second storm heads toward LA; urges residents to prepare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KABC-TV</font>"
+            ],
+            "source": [
+              {
+                "_": "KABC-TV",
+                "$": {
+                  "url": "https://abc7.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "President Biden calls in to Mayor Bass’ press conference to offer help as storm rages on - LA Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMi8wNS9sb3MtYW5nZWxlcy1vZmZpY2lhbHMtdXJnZS1yZXNpZGVudHMtdG8tcmVtYWluLXZpZ2lsYW50LWFzLXN0b3JtLXJhZ2VzLW9uL9IBc2h0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMi8wNS9sb3MtYW5nZWxlcy1vZmZpY2lhbHMtdXJnZS1yZXNpZGVudHMtdG8tcmVtYWluLXZpZ2lsYW50LWFzLXN0b3JtLXJhZ2VzLW9uL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMi8wNS9sb3MtYW5nZWxlcy1vZmZpY2lhbHMtdXJnZS1yZXNpZGVudHMtdG8tcmVtYWluLXZpZ2lsYW50LWFzLXN0b3JtLXJhZ2VzLW9uL9IBc2h0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMi8wNS9sb3MtYW5nZWxlcy1vZmZpY2lhbHMtdXJnZS1yZXNpZGVudHMtdG8tcmVtYWluLXZpZ2lsYW50LWFzLXN0b3JtLXJhZ2VzLW9uL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 22:08:27 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMi8wNS9sb3MtYW5nZWxlcy1vZmZpY2lhbHMtdXJnZS1yZXNpZGVudHMtdG8tcmVtYWluLXZpZ2lsYW50LWFzLXN0b3JtLXJhZ2VzLW9uL9IBc2h0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMi8wNS9sb3MtYW5nZWxlcy1vZmZpY2lhbHMtdXJnZS1yZXNpZGVudHMtdG8tcmVtYWluLXZpZ2lsYW50LWFzLXN0b3JtLXJhZ2VzLW9uL2FtcC8?oc=5\" target=\"_blank\">President Biden calls in to Mayor Bass’ press conference to offer help as storm rages on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "LA Daily News",
+                "$": {
+                  "url": "https://www.dailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA workers strike: What is Mayor Karen Bass' role? | Press Play - KCRW"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmtjcncuY29tL25ld3Mvc2hvd3MvcHJlc3MtcGxheS13aXRoLW1hZGVsZWluZS1icmFuZC9sYWJvci1jb2xsZWdlLXNwb3J0cy10ZWQtaGFsbC9jaXR5LXdvcmtlcnMtc3RyaWtlLWJhc3PSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmtjcncuY29tL25ld3Mvc2hvd3MvcHJlc3MtcGxheS13aXRoLW1hZGVsZWluZS1icmFuZC9sYWJvci1jb2xsZWdlLXNwb3J0cy10ZWQtaGFsbC9jaXR5LXdvcmtlcnMtc3RyaWtlLWJhc3PSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmtjcncuY29tL25ld3Mvc2hvd3MvcHJlc3MtcGxheS13aXRoLW1hZGVsZWluZS1icmFuZC9sYWJvci1jb2xsZWdlLXNwb3J0cy10ZWQtaGFsbC9jaXR5LXdvcmtlcnMtc3RyaWtlLWJhc3PSAQA?oc=5\" target=\"_blank\">LA workers strike: What is Mayor Karen Bass' role? | Press Play</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCRW</font>"
+            ],
+            "source": [
+              {
+                "_": "KCRW",
+                "$": {
+                  "url": "https://www.kcrw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA Mayor Karen Bass' plan for RV encampments - NBC Southern California"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL29uLWFpci9sYS1tYXlvci1rYXJlbi1iYXNzLXBsYW4tZm9yLXJ2LWVuY2FtcG1lbnRzLzMzMTYyODUv0gFfaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vb24tYWlyL2xhLW1heW9yLWthcmVuLWJhc3MtcGxhbi1mb3ItcnYtZW5jYW1wbWVudHMvMzMxNjI4NS8_YW1wPTE?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL29uLWFpci9sYS1tYXlvci1rYXJlbi1iYXNzLXBsYW4tZm9yLXJ2LWVuY2FtcG1lbnRzLzMzMTYyODUv0gFfaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vb24tYWlyL2xhLW1heW9yLWthcmVuLWJhc3MtcGxhbi1mb3ItcnYtZW5jYW1wbWVudHMvMzMxNjI4NS8_YW1wPTE",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL29uLWFpci9sYS1tYXlvci1rYXJlbi1iYXNzLXBsYW4tZm9yLXJ2LWVuY2FtcG1lbnRzLzMzMTYyODUv0gFfaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vb24tYWlyL2xhLW1heW9yLWthcmVuLWJhc3MtcGxhbi1mb3ItcnYtZW5jYW1wbWVudHMvMzMxNjI4NS8_YW1wPTE?oc=5\" target=\"_blank\">LA Mayor Karen Bass' plan for RV encampments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Southern California</font>"
+            ],
+            "source": [
+              {
+                "_": "NBC Southern California",
+                "$": {
+                  "url": "https://www.nbclosangeles.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Los Angeles Mayor Karen Bass to Give Welcome Remarks at 7th Annual POSiBLE L.A. Entrepreneur Summit Geared ... - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMi4QFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMTAxMjMzNjE4OS9lbi9Mb3MtQW5nZWxlcy1NYXlvci1LYXJlbi1CYXNzLXRvLUdpdmUtV2VsY29tZS1SZW1hcmtzLWF0LTd0aC1Bbm51YWwtUE9TaUJMRS1MLkEuLUVudHJlcHJlbmV1ci1TdW1taXQtR2VhcmVkLVRvd2FyZHMtTG9jYWwtTGF0aW5vLUJ1c2luZXNzLU93bmVycy10by1Hcm93LVRoZWlyLUJ1c2luZXNzZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMi4QFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMTAxMjMzNjE4OS9lbi9Mb3MtQW5nZWxlcy1NYXlvci1LYXJlbi1CYXNzLXRvLUdpdmUtV2VsY29tZS1SZW1hcmtzLWF0LTd0aC1Bbm51YWwtUE9TaUJMRS1MLkEuLUVudHJlcHJlbmV1ci1TdW1taXQtR2VhcmVkLVRvd2FyZHMtTG9jYWwtTGF0aW5vLUJ1c2luZXNzLU93bmVycy10by1Hcm93LVRoZWlyLUJ1c2luZXNzZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMi4QFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMTAxMjMzNjE4OS9lbi9Mb3MtQW5nZWxlcy1NYXlvci1LYXJlbi1CYXNzLXRvLUdpdmUtV2VsY29tZS1SZW1hcmtzLWF0LTd0aC1Bbm51YWwtUE9TaUJMRS1MLkEuLUVudHJlcHJlbmV1ci1TdW1taXQtR2VhcmVkLVRvd2FyZHMtTG9jYWwtTGF0aW5vLUJ1c2luZXNzLU93bmVycy10by1Hcm93LVRoZWlyLUJ1c2luZXNzZXPSAQA?oc=5\" target=\"_blank\">Los Angeles Mayor Karen Bass to Give Welcome Remarks at 7th Annual POSiBLE L.A. Entrepreneur Summit Geared ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Karen Bass attends funeral in Dallas of first nurse to serve in Congress - LA Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8wOS9rYXJlbi1iYXNzLWF0dGVuZHMtZnVuZXJhbC1pbi1kYWxsYXMtb2YtZmlyc3QtbnVyc2UtdG8tc2VydmUtaW4tY29uZ3Jlc3Mv0gFyaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDI0LzAxLzA5L2thcmVuLWJhc3MtYXR0ZW5kcy1mdW5lcmFsLWluLWRhbGxhcy1vZi1maXJzdC1udXJzZS10by1zZXJ2ZS1pbi1jb25ncmVzcy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8wOS9rYXJlbi1iYXNzLWF0dGVuZHMtZnVuZXJhbC1pbi1kYWxsYXMtb2YtZmlyc3QtbnVyc2UtdG8tc2VydmUtaW4tY29uZ3Jlc3Mv0gFyaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDI0LzAxLzA5L2thcmVuLWJhc3MtYXR0ZW5kcy1mdW5lcmFsLWluLWRhbGxhcy1vZi1maXJzdC1udXJzZS10by1zZXJ2ZS1pbi1jb25ncmVzcy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wMS8wOS9rYXJlbi1iYXNzLWF0dGVuZHMtZnVuZXJhbC1pbi1kYWxsYXMtb2YtZmlyc3QtbnVyc2UtdG8tc2VydmUtaW4tY29uZ3Jlc3Mv0gFyaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDI0LzAxLzA5L2thcmVuLWJhc3MtYXR0ZW5kcy1mdW5lcmFsLWluLWRhbGxhcy1vZi1maXJzdC1udXJzZS10by1zZXJ2ZS1pbi1jb25ncmVzcy9hbXAv?oc=5\" target=\"_blank\">Karen Bass attends funeral in Dallas of first nurse to serve in Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "LA Daily News",
+                "$": {
+                  "url": "https://www.dailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Los Angeles Mayor Karen Bass Says She’s Ready To “Personally Engage” To Resolve Strikes, Calls WGA-AMPTP Meeting An “Encouraging Development” - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDgvYWN0b3JzLXN0cmlrZS1sb3MtYW5nZWxlcy1tYXlvci1rYXJlbi1iYXNzLXNhZy1hZnRyYS13Z2EtMTIzNTQ1NTMyMS_SAWVodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzA4L2FjdG9ycy1zdHJpa2UtbG9zLWFuZ2VsZXMtbWF5b3Ita2FyZW4tYmFzcy1zYWctYWZ0cmEtd2dhLTEyMzU0NTUzMjEvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDgvYWN0b3JzLXN0cmlrZS1sb3MtYW5nZWxlcy1tYXlvci1rYXJlbi1iYXNzLXNhZy1hZnRyYS13Z2EtMTIzNTQ1NTMyMS_SAWVodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzA4L2FjdG9ycy1zdHJpa2UtbG9zLWFuZ2VsZXMtbWF5b3Ita2FyZW4tYmFzcy1zYWctYWZ0cmEtd2dhLTEyMzU0NTUzMjEvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDgvYWN0b3JzLXN0cmlrZS1sb3MtYW5nZWxlcy1tYXlvci1rYXJlbi1iYXNzLXNhZy1hZnRyYS13Z2EtMTIzNTQ1NTMyMS_SAWVodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzA4L2FjdG9ycy1zdHJpa2UtbG9zLWFuZ2VsZXMtbWF5b3Ita2FyZW4tYmFzcy1zYWctYWZ0cmEtd2dhLTEyMzU0NTUzMjEvYW1wLw?oc=5\" target=\"_blank\">Los Angeles Mayor Karen Bass Says She’s Ready To “Personally Engage” To Resolve Strikes, Calls WGA-AMPTP Meeting An “Encouraging Development”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass wants to bring more businesses to L.A. as part of her 2024 goal - KTLA Los Angeles"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8va3RsYS5jb20vbW9ybmluZy1uZXdzL21heW9yLWthcmVuLWJhc3Mtd2FudHMtdG8tYnJpbmctbW9yZS1idXNpbmVzc2VzLXRvLWwtYS1hcy1wYXJ0LW9mLWhlci0yMDI0LWdvYWwv0gFyaHR0cHM6Ly9rdGxhLmNvbS9tb3JuaW5nLW5ld3MvbWF5b3Ita2FyZW4tYmFzcy13YW50cy10by1icmluZy1tb3JlLWJ1c2luZXNzZXMtdG8tbC1hLWFzLXBhcnQtb2YtaGVyLTIwMjQtZ29hbC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8va3RsYS5jb20vbW9ybmluZy1uZXdzL21heW9yLWthcmVuLWJhc3Mtd2FudHMtdG8tYnJpbmctbW9yZS1idXNpbmVzc2VzLXRvLWwtYS1hcy1wYXJ0LW9mLWhlci0yMDI0LWdvYWwv0gFyaHR0cHM6Ly9rdGxhLmNvbS9tb3JuaW5nLW5ld3MvbWF5b3Ita2FyZW4tYmFzcy13YW50cy10by1icmluZy1tb3JlLWJ1c2luZXNzZXMtdG8tbC1hLWFzLXBhcnQtb2YtaGVyLTIwMjQtZ29hbC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8va3RsYS5jb20vbW9ybmluZy1uZXdzL21heW9yLWthcmVuLWJhc3Mtd2FudHMtdG8tYnJpbmctbW9yZS1idXNpbmVzc2VzLXRvLWwtYS1hcy1wYXJ0LW9mLWhlci0yMDI0LWdvYWwv0gFyaHR0cHM6Ly9rdGxhLmNvbS9tb3JuaW5nLW5ld3MvbWF5b3Ita2FyZW4tYmFzcy13YW50cy10by1icmluZy1tb3JlLWJ1c2luZXNzZXMtdG8tbC1hLWFzLXBhcnQtb2YtaGVyLTIwMjQtZ29hbC9hbXAv?oc=5\" target=\"_blank\">Mayor Karen Bass wants to bring more businesses to L.A. as part of her 2024 goal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA Los Angeles</font>"
+            ],
+            "source": [
+              {
+                "_": "KTLA Los Angeles",
+                "$": {
+                  "url": "https://ktla.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Bass & officials warn Angelenos to prep for Sunday's storm - Los Angeles Blade"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lmxvc2FuZ2VsZXNibGFkZS5jb20vMjAyNC8wMi8wMi9tYXlvci1iYXNzLW9mZmljaWFscy13YXJuLWFuZ2VsZW5vcy10by1wcmVwLWZvci1zdW5kYXlzLXN0b3JtL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3Lmxvc2FuZ2VsZXNibGFkZS5jb20vMjAyNC8wMi8wMi9tYXlvci1iYXNzLW9mZmljaWFscy13YXJuLWFuZ2VsZW5vcy10by1wcmVwLWZvci1zdW5kYXlzLXN0b3JtL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 02:03:57 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lmxvc2FuZ2VsZXNibGFkZS5jb20vMjAyNC8wMi8wMi9tYXlvci1iYXNzLW9mZmljaWFscy13YXJuLWFuZ2VsZW5vcy10by1wcmVwLWZvci1zdW5kYXlzLXN0b3JtL9IBAA?oc=5\" target=\"_blank\">Mayor Bass & officials warn Angelenos to prep for Sunday's storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Blade</font>"
+            ],
+            "source": [
+              {
+                "_": "Los Angeles Blade",
+                "$": {
+                  "url": "https://www.losangelesblade.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass Announces I-10 Freeway Safe to Reopen - City of Los Angeles (.gov)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vbGFjaXR5Lmdvdi9oaWdobGlnaHRzL21heW9yLWthcmVuLWJhc3MtYW5ub3VuY2VzLWktMTAtZnJlZXdheS1zYWZlLXJlb3BlbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vbGFjaXR5Lmdvdi9oaWdobGlnaHRzL21heW9yLWthcmVuLWJhc3MtYW5ub3VuY2VzLWktMTAtZnJlZXdheS1zYWZlLXJlb3BlbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vbGFjaXR5Lmdvdi9oaWdobGlnaHRzL21heW9yLWthcmVuLWJhc3MtYW5ub3VuY2VzLWktMTAtZnJlZXdheS1zYWZlLXJlb3BlbtIBAA?oc=5\" target=\"_blank\">Mayor Karen Bass Announces I-10 Freeway Safe to Reopen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>"
+            ],
+            "source": [
+              {
+                "_": "City of Los Angeles (.gov)",
+                "$": {
+                  "url": "https://lacity.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass Warns of Killer Preying on L.A. Homeless - LAmag - Culture, Food, Fashion, News & Los Angeles - Los Angeles Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vbGFtYWcuY29tL2NyaW1laW5sYS9rYXJlbi1iYXNzLWxhcGQtaG9tZWxlc3Mtc2VyaWFsLWtpbGxlctIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQmh0dHBzOi8vbGFtYWcuY29tL2NyaW1laW5sYS9rYXJlbi1iYXNzLWxhcGQtaG9tZWxlc3Mtc2VyaWFsLWtpbGxlctIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vbGFtYWcuY29tL2NyaW1laW5sYS9rYXJlbi1iYXNzLWxhcGQtaG9tZWxlc3Mtc2VyaWFsLWtpbGxlctIBAA?oc=5\" target=\"_blank\">Mayor Karen Bass Warns of Killer Preying on L.A. Homeless - LAmag - Culture, Food, Fashion, News & Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Los Angeles Magazine",
+                "$": {
+                  "url": "https://lamag.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass Signs Executive Directive to Upgrade City Services | Mayor Karen Bass - City of Los Angeles (.gov)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWthcmVuLWJhc3Mtc2lnbnMtZXhlY3V0aXZlLWRpcmVjdGl2ZS11cGdyYWRlLWNpdHktc2VydmljZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWthcmVuLWJhc3Mtc2lnbnMtZXhlY3V0aXZlLWRpcmVjdGl2ZS11cGdyYWRlLWNpdHktc2VydmljZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWthcmVuLWJhc3Mtc2lnbnMtZXhlY3V0aXZlLWRpcmVjdGl2ZS11cGdyYWRlLWNpdHktc2VydmljZXPSAQA?oc=5\" target=\"_blank\">Mayor Karen Bass Signs Executive Directive to Upgrade City Services | Mayor Karen Bass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>"
+            ],
+            "source": [
+              {
+                "_": "City of Los Angeles (.gov)",
+                "$": {
+                  "url": "https://mayor.lacity.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "ICYMI: Mayor Karen Bass Kicks Off Year At Opening of Nearly 100 Units of Housing in Northeast L.A. | Mayor Karen Bass - City of Los Angeles (.gov)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL2ljeW1pLW1heW9yLWthcmVuLWJhc3Mta2lja3MteWVhci1vcGVuaW5nLW5lYXJseS0xMDAtdW5pdHMtaG91c2luZy1ub3J0aGVhc3QtbGHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL2ljeW1pLW1heW9yLWthcmVuLWJhc3Mta2lja3MteWVhci1vcGVuaW5nLW5lYXJseS0xMDAtdW5pdHMtaG91c2luZy1ub3J0aGVhc3QtbGHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL2ljeW1pLW1heW9yLWthcmVuLWJhc3Mta2lja3MteWVhci1vcGVuaW5nLW5lYXJseS0xMDAtdW5pdHMtaG91c2luZy1ub3J0aGVhc3QtbGHSAQA?oc=5\" target=\"_blank\">ICYMI: Mayor Karen Bass Kicks Off Year At Opening of Nearly 100 Units of Housing in Northeast L.A. | Mayor Karen Bass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>"
+            ],
+            "source": [
+              {
+                "_": "City of Los Angeles (.gov)",
+                "$": {
+                  "url": "https://mayor.lacity.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bass: I want to end Los Angeles homelessness by 2026 - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vdmlkZW9zL3BvbGl0aWNzLzIwMjMvMDYvMTgvbWF5b3Ita2FyZW4tYmFzcy1zb3R1LTYtMTguY25u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vdmlkZW9zL3BvbGl0aWNzLzIwMjMvMDYvMTgvbWF5b3Ita2FyZW4tYmFzcy1zb3R1LTYtMTguY25u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 18 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vdmlkZW9zL3BvbGl0aWNzLzIwMjMvMDYvMTgvbWF5b3Ita2FyZW4tYmFzcy1zb3R1LTYtMTguY25u0gEA?oc=5\" target=\"_blank\">Bass: I want to end Los Angeles homelessness by 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Los Angeles records nearly 400 mudslides during storm drenching Southern California - Bakersfield Now"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioQJodHRwczovL2Jha2Vyc2ZpZWxkbm93LmNvbS9uZXdzL25hdGlvbi13b3JsZC9sb3MtYW5nZWxlcy1yZWNvcmRzLW1vcmUtdGhhbi0zMDAtbXVkc2xpZGVzLWR1cmluZy1zdG9ybS1kcmVuY2hpbmctc291dGhlcm4tY2FsaWZvcm5pYS1tYXlvci1rYXJlbi1iYXNzLXdldHRlc3Qtc3Rvcm0tZmFzdC1tb3ZpbmctY3JlZWtzLWFuZC1yaXZlcnMtaG9sbHl3b29kLWhpbGxzLWZsb29kd2F0ZXJzLWNhcnJpZWQtbXVkLXJvY2tzLWFuZC1ob3VzZWhvbGQtb2JqZWN0cy1kb3duaGlsbC10aHJvdWdoLXN0dWRpby1jaXR50gGlAmh0dHBzOi8vYmFrZXJzZmllbGRub3cuY29tL2FtcC9uZXdzL25hdGlvbi13b3JsZC9sb3MtYW5nZWxlcy1yZWNvcmRzLW1vcmUtdGhhbi0zMDAtbXVkc2xpZGVzLWR1cmluZy1zdG9ybS1kcmVuY2hpbmctc291dGhlcm4tY2FsaWZvcm5pYS1tYXlvci1rYXJlbi1iYXNzLXdldHRlc3Qtc3Rvcm0tZmFzdC1tb3ZpbmctY3JlZWtzLWFuZC1yaXZlcnMtaG9sbHl3b29kLWhpbGxzLWZsb29kd2F0ZXJzLWNhcnJpZWQtbXVkLXJvY2tzLWFuZC1ob3VzZWhvbGQtb2JqZWN0cy1kb3duaGlsbC10aHJvdWdoLXN0dWRpby1jaXR5?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioQJodHRwczovL2Jha2Vyc2ZpZWxkbm93LmNvbS9uZXdzL25hdGlvbi13b3JsZC9sb3MtYW5nZWxlcy1yZWNvcmRzLW1vcmUtdGhhbi0zMDAtbXVkc2xpZGVzLWR1cmluZy1zdG9ybS1kcmVuY2hpbmctc291dGhlcm4tY2FsaWZvcm5pYS1tYXlvci1rYXJlbi1iYXNzLXdldHRlc3Qtc3Rvcm0tZmFzdC1tb3ZpbmctY3JlZWtzLWFuZC1yaXZlcnMtaG9sbHl3b29kLWhpbGxzLWZsb29kd2F0ZXJzLWNhcnJpZWQtbXVkLXJvY2tzLWFuZC1ob3VzZWhvbGQtb2JqZWN0cy1kb3duaGlsbC10aHJvdWdoLXN0dWRpby1jaXR50gGlAmh0dHBzOi8vYmFrZXJzZmllbGRub3cuY29tL2FtcC9uZXdzL25hdGlvbi13b3JsZC9sb3MtYW5nZWxlcy1yZWNvcmRzLW1vcmUtdGhhbi0zMDAtbXVkc2xpZGVzLWR1cmluZy1zdG9ybS1kcmVuY2hpbmctc291dGhlcm4tY2FsaWZvcm5pYS1tYXlvci1rYXJlbi1iYXNzLXdldHRlc3Qtc3Rvcm0tZmFzdC1tb3ZpbmctY3JlZWtzLWFuZC1yaXZlcnMtaG9sbHl3b29kLWhpbGxzLWZsb29kd2F0ZXJzLWNhcnJpZWQtbXVkLXJvY2tzLWFuZC1ob3VzZWhvbGQtb2JqZWN0cy1kb3duaGlsbC10aHJvdWdoLXN0dWRpby1jaXR5",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:47:04 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioQJodHRwczovL2Jha2Vyc2ZpZWxkbm93LmNvbS9uZXdzL25hdGlvbi13b3JsZC9sb3MtYW5nZWxlcy1yZWNvcmRzLW1vcmUtdGhhbi0zMDAtbXVkc2xpZGVzLWR1cmluZy1zdG9ybS1kcmVuY2hpbmctc291dGhlcm4tY2FsaWZvcm5pYS1tYXlvci1rYXJlbi1iYXNzLXdldHRlc3Qtc3Rvcm0tZmFzdC1tb3ZpbmctY3JlZWtzLWFuZC1yaXZlcnMtaG9sbHl3b29kLWhpbGxzLWZsb29kd2F0ZXJzLWNhcnJpZWQtbXVkLXJvY2tzLWFuZC1ob3VzZWhvbGQtb2JqZWN0cy1kb3duaGlsbC10aHJvdWdoLXN0dWRpby1jaXR50gGlAmh0dHBzOi8vYmFrZXJzZmllbGRub3cuY29tL2FtcC9uZXdzL25hdGlvbi13b3JsZC9sb3MtYW5nZWxlcy1yZWNvcmRzLW1vcmUtdGhhbi0zMDAtbXVkc2xpZGVzLWR1cmluZy1zdG9ybS1kcmVuY2hpbmctc291dGhlcm4tY2FsaWZvcm5pYS1tYXlvci1rYXJlbi1iYXNzLXdldHRlc3Qtc3Rvcm0tZmFzdC1tb3ZpbmctY3JlZWtzLWFuZC1yaXZlcnMtaG9sbHl3b29kLWhpbGxzLWZsb29kd2F0ZXJzLWNhcnJpZWQtbXVkLXJvY2tzLWFuZC1ob3VzZWhvbGQtb2JqZWN0cy1kb3duaGlsbC10aHJvdWdoLXN0dWRpby1jaXR5?oc=5\" target=\"_blank\">Los Angeles records nearly 400 mudslides during storm drenching Southern California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bakersfield Now</font>"
+            ],
+            "source": [
+              {
+                "_": "Bakersfield Now",
+                "$": {
+                  "url": "https://bakersfieldnow.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Karen Bass reflects on her first year as Mayor of LA - NBC Southern California"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL29uLWFpci9rYXJlbi1iYXNzLXJlZmxlY3RzLW9uLWhlci1maXJzdC15ZWFyLWFzLW1heW9yLW9mLWxhLzMyNzQ0OTMv0gFoaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vb24tYWlyL2thcmVuLWJhc3MtcmVmbGVjdHMtb24taGVyLWZpcnN0LXllYXItYXMtbWF5b3Itb2YtbGEvMzI3NDQ5My8_YW1wPTE?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL29uLWFpci9rYXJlbi1iYXNzLXJlZmxlY3RzLW9uLWhlci1maXJzdC15ZWFyLWFzLW1heW9yLW9mLWxhLzMyNzQ0OTMv0gFoaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vb24tYWlyL2thcmVuLWJhc3MtcmVmbGVjdHMtb24taGVyLWZpcnN0LXllYXItYXMtbWF5b3Itb2YtbGEvMzI3NDQ5My8_YW1wPTE",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL29uLWFpci9rYXJlbi1iYXNzLXJlZmxlY3RzLW9uLWhlci1maXJzdC15ZWFyLWFzLW1heW9yLW9mLWxhLzMyNzQ0OTMv0gFoaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vb24tYWlyL2thcmVuLWJhc3MtcmVmbGVjdHMtb24taGVyLWZpcnN0LXllYXItYXMtbWF5b3Itb2YtbGEvMzI3NDQ5My8_YW1wPTE?oc=5\" target=\"_blank\">Karen Bass reflects on her first year as Mayor of LA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Southern California</font>"
+            ],
+            "source": [
+              {
+                "_": "NBC Southern California",
+                "$": {
+                  "url": "https://www.nbclosangeles.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "KCAL News Investigates: LA Mayor Karen Bass proposes changes to Metro stations to make them safer - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9sb3NhbmdlbGVzL25ld3Mva2NhbC1uZXdzLWludmVzdGlnYXRlcy1sYS1tYXlvci1rYXJlbi1iYXNzLXByb3Bvc2VzLWNoYW5nZXMtdG8tbWV0cm8tc3RhdGlvbnMtdG8tbWFrZS10aGVtLXNhZmVyL9IBjQFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbG9zYW5nZWxlcy9uZXdzL2tjYWwtbmV3cy1pbnZlc3RpZ2F0ZXMtbGEtbWF5b3Ita2FyZW4tYmFzcy1wcm9wb3Nlcy1jaGFuZ2VzLXRvLW1ldHJvLXN0YXRpb25zLXRvLW1ha2UtdGhlbS1zYWZlci8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9sb3NhbmdlbGVzL25ld3Mva2NhbC1uZXdzLWludmVzdGlnYXRlcy1sYS1tYXlvci1rYXJlbi1iYXNzLXByb3Bvc2VzLWNoYW5nZXMtdG8tbWV0cm8tc3RhdGlvbnMtdG8tbWFrZS10aGVtLXNhZmVyL9IBjQFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbG9zYW5nZWxlcy9uZXdzL2tjYWwtbmV3cy1pbnZlc3RpZ2F0ZXMtbGEtbWF5b3Ita2FyZW4tYmFzcy1wcm9wb3Nlcy1jaGFuZ2VzLXRvLW1ldHJvLXN0YXRpb25zLXRvLW1ha2UtdGhlbS1zYWZlci8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 17 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9sb3NhbmdlbGVzL25ld3Mva2NhbC1uZXdzLWludmVzdGlnYXRlcy1sYS1tYXlvci1rYXJlbi1iYXNzLXByb3Bvc2VzLWNoYW5nZXMtdG8tbWV0cm8tc3RhdGlvbnMtdG8tbWFrZS10aGVtLXNhZmVyL9IBjQFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbG9zYW5nZWxlcy9uZXdzL2tjYWwtbmV3cy1pbnZlc3RpZ2F0ZXMtbGEtbWF5b3Ita2FyZW4tYmFzcy1wcm9wb3Nlcy1jaGFuZ2VzLXRvLW1ldHJvLXN0YXRpb25zLXRvLW1ha2UtdGhlbS1zYWZlci8?oc=5\" target=\"_blank\">KCAL News Investigates: LA Mayor Karen Bass proposes changes to Metro stations to make them safer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Gavin Newsom, LA Mayor Karen Bass announce mental health development - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2xvc2FuZ2VsZXMvbmV3cy9nb3YtZ2F2aW4tbmV3c29tLWxhLW1heW9yLWthcmVuLWJhc3MtYW5ub3VuY2UtbWVudGFsLWhlYWx0aC1kZXZlbG9wbWVudC_SAXRodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbG9zYW5nZWxlcy9uZXdzL2dvdi1nYXZpbi1uZXdzb20tbGEtbWF5b3Ita2FyZW4tYmFzcy1hbm5vdW5jZS1tZW50YWwtaGVhbHRoLWRldmVsb3BtZW50Lw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2xvc2FuZ2VsZXMvbmV3cy9nb3YtZ2F2aW4tbmV3c29tLWxhLW1heW9yLWthcmVuLWJhc3MtYW5ub3VuY2UtbWVudGFsLWhlYWx0aC1kZXZlbG9wbWVudC_SAXRodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbG9zYW5nZWxlcy9uZXdzL2dvdi1nYXZpbi1uZXdzb20tbGEtbWF5b3Ita2FyZW4tYmFzcy1hbm5vdW5jZS1tZW50YWwtaGVhbHRoLWRldmVsb3BtZW50Lw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2xvc2FuZ2VsZXMvbmV3cy9nb3YtZ2F2aW4tbmV3c29tLWxhLW1heW9yLWthcmVuLWJhc3MtYW5ub3VuY2UtbWVudGFsLWhlYWx0aC1kZXZlbG9wbWVudC_SAXRodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbG9zYW5nZWxlcy9uZXdzL2dvdi1nYXZpbi1uZXdzb20tbGEtbWF5b3Ita2FyZW4tYmFzcy1hbm5vdW5jZS1tZW50YWwtaGVhbHRoLWRldmVsb3BtZW50Lw?oc=5\" target=\"_blank\">Gov. Gavin Newsom, LA Mayor Karen Bass announce mental health development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Brawls Erupt Outside L.A. Screening Of Footage Of Oct. 7 Hamas Attack On Israel; Mayor Karen Bass Responds To “Unacceptable Violence” - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvYnJhd2xzLWVydXB0LWwtYS1zY3JlZW5pbmctb2N0LTctaGFtYXMtYXR0YWNrLWlzcmFlbC1rYXJlbi1iYXNzLTEyMzU1OTgyODIv0gFsaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyMy8xMS9icmF3bHMtZXJ1cHQtbC1hLXNjcmVlbmluZy1vY3QtNy1oYW1hcy1hdHRhY2staXNyYWVsLWthcmVuLWJhc3MtMTIzNTU5ODI4Mi9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvYnJhd2xzLWVydXB0LWwtYS1zY3JlZW5pbmctb2N0LTctaGFtYXMtYXR0YWNrLWlzcmFlbC1rYXJlbi1iYXNzLTEyMzU1OTgyODIv0gFsaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyMy8xMS9icmF3bHMtZXJ1cHQtbC1hLXNjcmVlbmluZy1vY3QtNy1oYW1hcy1hdHRhY2staXNyYWVsLWthcmVuLWJhc3MtMTIzNTU5ODI4Mi9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvYnJhd2xzLWVydXB0LWwtYS1zY3JlZW5pbmctb2N0LTctaGFtYXMtYXR0YWNrLWlzcmFlbC1rYXJlbi1iYXNzLTEyMzU1OTgyODIv0gFsaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyMy8xMS9icmF3bHMtZXJ1cHQtbC1hLXNjcmVlbmluZy1vY3QtNy1oYW1hcy1hdHRhY2staXNyYWVsLWthcmVuLWJhc3MtMTIzNTU5ODI4Mi9hbXAv?oc=5\" target=\"_blank\">Brawls Erupt Outside L.A. Screening Of Footage Of Oct. 7 Hamas Attack On Israel; Mayor Karen Bass Responds To “Unacceptable Violence”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "L.A. Mayor Karen Bass, California Gov. Gavin Newsom React To WGA Deal - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDkvbWF5b3Ita2FyZW4tYmFzcy1yZWFjdHMtd2dhLWFtcHRwLWRlYWwtMTIzNTU1NTAyMy_SAVNodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzA5L21heW9yLWthcmVuLWJhc3MtcmVhY3RzLXdnYS1hbXB0cC1kZWFsLTEyMzU1NTUwMjMvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDkvbWF5b3Ita2FyZW4tYmFzcy1yZWFjdHMtd2dhLWFtcHRwLWRlYWwtMTIzNTU1NTAyMy_SAVNodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzA5L21heW9yLWthcmVuLWJhc3MtcmVhY3RzLXdnYS1hbXB0cC1kZWFsLTEyMzU1NTUwMjMvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 24 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDkvbWF5b3Ita2FyZW4tYmFzcy1yZWFjdHMtd2dhLWFtcHRwLWRlYWwtMTIzNTU1NTAyMy_SAVNodHRwczovL2RlYWRsaW5lLmNvbS8yMDIzLzA5L21heW9yLWthcmVuLWJhc3MtcmVhY3RzLXdnYS1hbXB0cC1kZWFsLTEyMzU1NTUwMjMvYW1wLw?oc=5\" target=\"_blank\">L.A. Mayor Karen Bass, California Gov. Gavin Newsom React To WGA Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Bass's $67 Million Homeless Program Has Only Housed 255 in One Year - Los Angeles Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vbGFtYWcuY29tL25ld3Mva2FyZW4tYmFzcy1pbnNpZGUtc2FmZS1ob21lbGVzc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiNmh0dHBzOi8vbGFtYWcuY29tL25ld3Mva2FyZW4tYmFzcy1pbnNpZGUtc2FmZS1ob21lbGVzc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 04 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vbGFtYWcuY29tL25ld3Mva2FyZW4tYmFzcy1pbnNpZGUtc2FmZS1ob21lbGVzc9IBAA?oc=5\" target=\"_blank\">Mayor Bass's $67 Million Homeless Program Has Only Housed 255 in One Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Los Angeles Magazine",
+                "$": {
+                  "url": "https://lamag.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Chief Moore Denies Ordering Internal Affairs to Investigate Mayor Karen Bass - Westside Current"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvY2hpZWYtbW9vcmUtZGVuaWVzLW9yZGVyaW5nLWludGVybmFsLWFmZmFpcnMtdG8taW52ZXN0aWdhdGUtbWF5b3Ita2FyZW4tYmFzcy9hcnRpY2xlXzFiNjNmNmYwLTlmNmUtMTFlZS1hMjE1LTA3NTk2YjYyZGJkMC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiowFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvY2hpZWYtbW9vcmUtZGVuaWVzLW9yZGVyaW5nLWludGVybmFsLWFmZmFpcnMtdG8taW52ZXN0aWdhdGUtbWF5b3Ita2FyZW4tYmFzcy9hcnRpY2xlXzFiNjNmNmYwLTlmNmUtMTFlZS1hMjE1LTA3NTk2YjYyZGJkMC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvY2hpZWYtbW9vcmUtZGVuaWVzLW9yZGVyaW5nLWludGVybmFsLWFmZmFpcnMtdG8taW52ZXN0aWdhdGUtbWF5b3Ita2FyZW4tYmFzcy9hcnRpY2xlXzFiNjNmNmYwLTlmNmUtMTFlZS1hMjE1LTA3NTk2YjYyZGJkMC5odG1s0gEA?oc=5\" target=\"_blank\">Chief Moore Denies Ordering Internal Affairs to Investigate Mayor Karen Bass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Westside Current</font>"
+            ],
+            "source": [
+              {
+                "_": "Westside Current",
+                "$": {
+                  "url": "https://www.westsidecurrent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Did Mayor Karen Bass Meet Her First Year Goal Of Housing 17000 Angelenos? (And Other Headlines) - LAist"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vbGFpc3QuY29tL25ld3MvaG93LXRvLWxhL2RpZC1tYXlvci1rYXJlbi1iYXNzLW1lZXQtaGVyLWZpcnN0LXllYXItZ29hbC1vZi1ob3VzaW5nLTE3MDAwLWFuZ2VsZW5vcy1hbmQtb3RoZXItaGVhZGxpbmVz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vbGFpc3QuY29tL25ld3MvaG93LXRvLWxhL2RpZC1tYXlvci1rYXJlbi1iYXNzLW1lZXQtaGVyLWZpcnN0LXllYXItZ29hbC1vZi1ob3VzaW5nLTE3MDAwLWFuZ2VsZW5vcy1hbmQtb3RoZXItaGVhZGxpbmVz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vbGFpc3QuY29tL25ld3MvaG93LXRvLWxhL2RpZC1tYXlvci1rYXJlbi1iYXNzLW1lZXQtaGVyLWZpcnN0LXllYXItZ29hbC1vZi1ob3VzaW5nLTE3MDAwLWFuZ2VsZW5vcy1hbmQtb3RoZXItaGVhZGxpbmVz0gEA?oc=5\" target=\"_blank\">Did Mayor Karen Bass Meet Her First Year Goal Of Housing 17000 Angelenos? (And Other Headlines)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>"
+            ],
+            "source": [
+              {
+                "_": "LAist",
+                "$": {
+                  "url": "https://laist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Angelenos reflect on LA Mayor Karen Bass’ first year on the job - LA Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8xMS9hbmdlbGVub3MtcmVmbGVjdC1vbi1sYS1tYXlvci1rYXJlbi1iYXNzLWZpcnN0LXllYXItb24tdGhlLWpvYi_SAWhodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjMvMTIvMTEvYW5nZWxlbm9zLXJlZmxlY3Qtb24tbGEtbWF5b3Ita2FyZW4tYmFzcy1maXJzdC15ZWFyLW9uLXRoZS1qb2IvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8xMS9hbmdlbGVub3MtcmVmbGVjdC1vbi1sYS1tYXlvci1rYXJlbi1iYXNzLWZpcnN0LXllYXItb24tdGhlLWpvYi_SAWhodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjMvMTIvMTEvYW5nZWxlbm9zLXJlZmxlY3Qtb24tbGEtbWF5b3Ita2FyZW4tYmFzcy1maXJzdC15ZWFyLW9uLXRoZS1qb2IvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMi8xMS9hbmdlbGVub3MtcmVmbGVjdC1vbi1sYS1tYXlvci1rYXJlbi1iYXNzLWZpcnN0LXllYXItb24tdGhlLWpvYi_SAWhodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjMvMTIvMTEvYW5nZWxlbm9zLXJlZmxlY3Qtb24tbGEtbWF5b3Ita2FyZW4tYmFzcy1maXJzdC15ZWFyLW9uLXRoZS1qb2IvYW1wLw?oc=5\" target=\"_blank\">Angelenos reflect on LA Mayor Karen Bass’ first year on the job</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "LA Daily News",
+                "$": {
+                  "url": "https://www.dailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass discusses homelessness, public safety at telephone town hall - Daily Bruin"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vZGFpbHlicnVpbi5jb20vMjAyMy8xMC8wNC9tYXlvci1rYXJlbi1iYXNzLWRpc2N1c3Nlcy1ob21lbGVzc25lc3MtcHVibGljLXNhZmV0eS1hdC10ZWxlcGhvbmUtdG93bi1oYWxs0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vZGFpbHlicnVpbi5jb20vMjAyMy8xMC8wNC9tYXlvci1rYXJlbi1iYXNzLWRpc2N1c3Nlcy1ob21lbGVzc25lc3MtcHVibGljLXNhZmV0eS1hdC10ZWxlcGhvbmUtdG93bi1oYWxs0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 04 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vZGFpbHlicnVpbi5jb20vMjAyMy8xMC8wNC9tYXlvci1rYXJlbi1iYXNzLWRpc2N1c3Nlcy1ob21lbGVzc25lc3MtcHVibGljLXNhZmV0eS1hdC10ZWxlcGhvbmUtdG93bi1oYWxs0gEA?oc=5\" target=\"_blank\">Mayor Karen Bass discusses homelessness, public safety at telephone town hall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Bruin</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Bruin",
+                "$": {
+                  "url": "https://dailybruin.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Who gets first dibs on affordable housing? Karen Bass changes the rules - KCRW"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmtjcncuY29tL25ld3Mvc2hvd3MvZ3JlYXRlci1sYS9ob21lbGVzcy1qdXN0aW4tdG9ycmVzL2Jhc3MtaG9tZWxlc3PSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LmtjcncuY29tL25ld3Mvc2hvd3MvZ3JlYXRlci1sYS9ob21lbGVzcy1qdXN0aW4tdG9ycmVzL2Jhc3MtaG9tZWxlc3PSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmtjcncuY29tL25ld3Mvc2hvd3MvZ3JlYXRlci1sYS9ob21lbGVzcy1qdXN0aW4tdG9ycmVzL2Jhc3MtaG9tZWxlc3PSAQA?oc=5\" target=\"_blank\">Who gets first dibs on affordable housing? Karen Bass changes the rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCRW</font>"
+            ],
+            "source": [
+              {
+                "_": "KCRW",
+                "$": {
+                  "url": "https://www.kcrw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "L.A. Mayor Karen Bass Says Biden Isn't Too Old for Presidency - TMZ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRtei5jb20vMjAyMy8xMS8yNy9sYS1tYXlvci1rYXJlbi1iYXNzLWJpZGVuLW5vdC10b28tb2xkLXByZXNpZGVudC_SAU9odHRwczovL2FtcC50bXouY29tLzIwMjMvMTEvMjcvbGEtbWF5b3Ita2FyZW4tYmFzcy1iaWRlbi1ub3QtdG9vLW9sZC1wcmVzaWRlbnQv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LnRtei5jb20vMjAyMy8xMS8yNy9sYS1tYXlvci1rYXJlbi1iYXNzLWJpZGVuLW5vdC10b28tb2xkLXByZXNpZGVudC_SAU9odHRwczovL2FtcC50bXouY29tLzIwMjMvMTEvMjcvbGEtbWF5b3Ita2FyZW4tYmFzcy1iaWRlbi1ub3QtdG9vLW9sZC1wcmVzaWRlbnQv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRtei5jb20vMjAyMy8xMS8yNy9sYS1tYXlvci1rYXJlbi1iYXNzLWJpZGVuLW5vdC10b28tb2xkLXByZXNpZGVudC_SAU9odHRwczovL2FtcC50bXouY29tLzIwMjMvMTEvMjcvbGEtbWF5b3Ita2FyZW4tYmFzcy1iaWRlbi1ub3QtdG9vLW9sZC1wcmVzaWRlbnQv?oc=5\" target=\"_blank\">L.A. Mayor Karen Bass Says Biden Isn't Too Old for Presidency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TMZ</font>"
+            ],
+            "source": [
+              {
+                "_": "TMZ",
+                "$": {
+                  "url": "https://www.tmz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bass, Harris, Newsom Announce 10 Freeway Safe To Reopen Before Monday Rush Hour Thanks To Urgent Action ... - City of Los Angeles (.gov)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL2Jhc3MtaGFycmlzLW5ld3NvbS1hbm5vdW5jZS0xMC1mcmVld2F5LXNhZmUtcmVvcGVuLW1vbmRheS1ydXNoLWhvdXItdGhhbmtzLXVyZ2VudC1hY3Rpb24tYW5k0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL2Jhc3MtaGFycmlzLW5ld3NvbS1hbm5vdW5jZS0xMC1mcmVld2F5LXNhZmUtcmVvcGVuLW1vbmRheS1ydXNoLWhvdXItdGhhbmtzLXVyZ2VudC1hY3Rpb24tYW5k0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL2Jhc3MtaGFycmlzLW5ld3NvbS1hbm5vdW5jZS0xMC1mcmVld2F5LXNhZmUtcmVvcGVuLW1vbmRheS1ydXNoLWhvdXItdGhhbmtzLXVyZ2VudC1hY3Rpb24tYW5k0gEA?oc=5\" target=\"_blank\">Bass, Harris, Newsom Announce 10 Freeway Safe To Reopen Before Monday Rush Hour Thanks To Urgent Action ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>"
+            ],
+            "source": [
+              {
+                "_": "City of Los Angeles (.gov)",
+                "$": {
+                  "url": "https://mayor.lacity.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA Mayor Karen Bass Announces I-10 Freeway Reopening: A Triumph of Local, State, and Federal Collaboration - Hoodline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL2hvb2RsaW5lLmNvbS8yMDIzLzExL2xhLW1heW9yLWthcmVuLWJhc3MtYW5ub3VuY2VzLWktMTAtZnJlZXdheS1yZW9wZW5pbmctYS10cml1bXBoLW9mLWxvY2FsLXN0YXRlLWFuZC1mZWRlcmFsLWNvbGxhYm9yYXRpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL2hvb2RsaW5lLmNvbS8yMDIzLzExL2xhLW1heW9yLWthcmVuLWJhc3MtYW5ub3VuY2VzLWktMTAtZnJlZXdheS1yZW9wZW5pbmctYS10cml1bXBoLW9mLWxvY2FsLXN0YXRlLWFuZC1mZWRlcmFsLWNvbGxhYm9yYXRpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL2hvb2RsaW5lLmNvbS8yMDIzLzExL2xhLW1heW9yLWthcmVuLWJhc3MtYW5ub3VuY2VzLWktMTAtZnJlZXdheS1yZW9wZW5pbmctYS10cml1bXBoLW9mLWxvY2FsLXN0YXRlLWFuZC1mZWRlcmFsLWNvbGxhYm9yYXRpb24v0gEA?oc=5\" target=\"_blank\">LA Mayor Karen Bass Announces I-10 Freeway Reopening: A Triumph of Local, State, and Federal Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>"
+            ],
+            "source": [
+              {
+                "_": "Hoodline",
+                "$": {
+                  "url": "https://hoodline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA Mayor Karen Bass helps city employee escape war-ravaged Gaza - LA Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMS8wMy9sYS1tYXlvci1rYXJlbi1iYXNzLWhlbHBzLWNpdHktZW1wbG95ZWUtZXNjYXBlLXdhci1yYXZhZ2VkLWdhemEv0gFpaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDIzLzExLzAzL2xhLW1heW9yLWthcmVuLWJhc3MtaGVscHMtY2l0eS1lbXBsb3llZS1lc2NhcGUtd2FyLXJhdmFnZWQtZ2F6YS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMS8wMy9sYS1tYXlvci1rYXJlbi1iYXNzLWhlbHBzLWNpdHktZW1wbG95ZWUtZXNjYXBlLXdhci1yYXZhZ2VkLWdhemEv0gFpaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDIzLzExLzAzL2xhLW1heW9yLWthcmVuLWJhc3MtaGVscHMtY2l0eS1lbXBsb3llZS1lc2NhcGUtd2FyLXJhdmFnZWQtZ2F6YS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMS8wMy9sYS1tYXlvci1rYXJlbi1iYXNzLWhlbHBzLWNpdHktZW1wbG95ZWUtZXNjYXBlLXdhci1yYXZhZ2VkLWdhemEv0gFpaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDIzLzExLzAzL2xhLW1heW9yLWthcmVuLWJhc3MtaGVscHMtY2l0eS1lbXBsb3llZS1lc2NhcGUtd2FyLXJhdmFnZWQtZ2F6YS9hbXAv?oc=5\" target=\"_blank\">LA Mayor Karen Bass helps city employee escape war-ravaged Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "LA Daily News",
+                "$": {
+                  "url": "https://www.dailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A man's journey from Inside Safe to the streets of LA again - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9ob21lbGVzc25lc3MvMjAyMy8xMS8wMy9uZXdzLWhvbWVsZXNzbmVzcy12ZW5pY2UtbWF5b3ItYmFzcy0taW5zaWRlLXNhZmUtaG91c2luZy3SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9ob21lbGVzc25lc3MvMjAyMy8xMS8wMy9uZXdzLWhvbWVsZXNzbmVzcy12ZW5pY2UtbWF5b3ItYmFzcy0taW5zaWRlLXNhZmUtaG91c2luZy3SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9ob21lbGVzc25lc3MvMjAyMy8xMS8wMy9uZXdzLWhvbWVsZXNzbmVzcy12ZW5pY2UtbWF5b3ItYmFzcy0taW5zaWRlLXNhZmUtaG91c2luZy3SAQA?oc=5\" target=\"_blank\">A man's journey from Inside Safe to the streets of LA again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Bass and BLM - Jewish Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vamV3aXNoam91cm5hbC5jb20vY29tbWVudGFyeS9vcGluaW9uLzM2NDA3Mi9tYXlvci1iYXNzLWFuZC1ibG0v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vamV3aXNoam91cm5hbC5jb20vY29tbWVudGFyeS9vcGluaW9uLzM2NDA3Mi9tYXlvci1iYXNzLWFuZC1ibG0v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vamV3aXNoam91cm5hbC5jb20vY29tbWVudGFyeS9vcGluaW9uLzM2NDA3Mi9tYXlvci1iYXNzLWFuZC1ibG0v0gEA?oc=5\" target=\"_blank\">Mayor Bass and BLM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jewish Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Jewish Journal",
+                "$": {
+                  "url": "https://jewishjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass and CD13 Councilmember Hugo Soto-Martinez Spoke to Windsor Square Residents - Larchmont Buzz"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL2xhcmNobW9udGJ1enouY29tL2xhcmNobW9udC12aWxsYWdlLW5ld3MvbWF5b3Ita2FyZW4tYmFzcy1hbmQtY2QxMy1jb3VuY2lsbWVtYmVyLWh1Z28tc290by1tYXJ0aW5lei1zcG9rZS10by13aW5kc29yLXNxdWFyZS1yZXNpZGVudHMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL2xhcmNobW9udGJ1enouY29tL2xhcmNobW9udC12aWxsYWdlLW5ld3MvbWF5b3Ita2FyZW4tYmFzcy1hbmQtY2QxMy1jb3VuY2lsbWVtYmVyLWh1Z28tc290by1tYXJ0aW5lei1zcG9rZS10by13aW5kc29yLXNxdWFyZS1yZXNpZGVudHMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL2xhcmNobW9udGJ1enouY29tL2xhcmNobW9udC12aWxsYWdlLW5ld3MvbWF5b3Ita2FyZW4tYmFzcy1hbmQtY2QxMy1jb3VuY2lsbWVtYmVyLWh1Z28tc290by1tYXJ0aW5lei1zcG9rZS10by13aW5kc29yLXNxdWFyZS1yZXNpZGVudHMv0gEA?oc=5\" target=\"_blank\">Mayor Karen Bass and CD13 Councilmember Hugo Soto-Martinez Spoke to Windsor Square Residents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Buzz</font>"
+            ],
+            "source": [
+              {
+                "_": "Larchmont Buzz",
+                "$": {
+                  "url": "https://larchmontbuzz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA Mayor Karen Bass appoints Matt Hale as deputy mayor of finance - LA Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMS8yOC9sYS1tYXlvci1rYXJlbi1iYXNzLWFwcG9pbnRzLW1hdHQtaGFsZS1hcy1kZXB1dHktbWF5b3Itb2YtZmluYW5jZS_SAWtodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjMvMTEvMjgvbGEtbWF5b3Ita2FyZW4tYmFzcy1hcHBvaW50cy1tYXR0LWhhbGUtYXMtZGVwdXR5LW1heW9yLW9mLWZpbmFuY2UvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMS8yOC9sYS1tYXlvci1rYXJlbi1iYXNzLWFwcG9pbnRzLW1hdHQtaGFsZS1hcy1kZXB1dHktbWF5b3Itb2YtZmluYW5jZS_SAWtodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjMvMTEvMjgvbGEtbWF5b3Ita2FyZW4tYmFzcy1hcHBvaW50cy1tYXR0LWhhbGUtYXMtZGVwdXR5LW1heW9yLW9mLWZpbmFuY2UvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8xMS8yOC9sYS1tYXlvci1rYXJlbi1iYXNzLWFwcG9pbnRzLW1hdHQtaGFsZS1hcy1kZXB1dHktbWF5b3Itb2YtZmluYW5jZS_SAWtodHRwczovL3d3dy5kYWlseW5ld3MuY29tLzIwMjMvMTEvMjgvbGEtbWF5b3Ita2FyZW4tYmFzcy1hcHBvaW50cy1tYXR0LWhhbGUtYXMtZGVwdXR5LW1heW9yLW9mLWZpbmFuY2UvYW1wLw?oc=5\" target=\"_blank\">LA Mayor Karen Bass appoints Matt Hale as deputy mayor of finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "LA Daily News",
+                "$": {
+                  "url": "https://www.dailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Bass Joins Federal, County and City Partners To Kick Off Point-In-Time Count - City of Los Angeles (.gov)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3Mtam9pbnMtZmVkZXJhbC1jb3VudHktYW5kLWNpdHktcGFydG5lcnMta2ljay1wb2ludC10aW1lLWNvdW500gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3Mtam9pbnMtZmVkZXJhbC1jb3VudHktYW5kLWNpdHktcGFydG5lcnMta2ljay1wb2ludC10aW1lLWNvdW500gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbWF5b3IubGFjaXR5Lmdvdi9uZXdzL21heW9yLWJhc3Mtam9pbnMtZmVkZXJhbC1jb3VudHktYW5kLWNpdHktcGFydG5lcnMta2ljay1wb2ludC10aW1lLWNvdW500gEA?oc=5\" target=\"_blank\">Mayor Bass Joins Federal, County and City Partners To Kick Off Point-In-Time Count</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>"
+            ],
+            "source": [
+              {
+                "_": "City of Los Angeles (.gov)",
+                "$": {
+                  "url": "https://mayor.lacity.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass has made some progress for small businesses, report says - LA Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8wOS8yOS9tYXlvci1rYXJlbi1iYXNzLWhhcy1tYWRlLXNvbWUtcHJvZ3Jlc3MtZm9yLXNtYWxsLWJ1c2luZXNzZXMtcmVwb3J0LXNheXMv0gFyaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDIzLzA5LzI5L21heW9yLWthcmVuLWJhc3MtaGFzLW1hZGUtc29tZS1wcm9ncmVzcy1mb3Itc21hbGwtYnVzaW5lc3Nlcy1yZXBvcnQtc2F5cy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8wOS8yOS9tYXlvci1rYXJlbi1iYXNzLWhhcy1tYWRlLXNvbWUtcHJvZ3Jlc3MtZm9yLXNtYWxsLWJ1c2luZXNzZXMtcmVwb3J0LXNheXMv0gFyaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDIzLzA5LzI5L21heW9yLWthcmVuLWJhc3MtaGFzLW1hZGUtc29tZS1wcm9ncmVzcy1mb3Itc21hbGwtYnVzaW5lc3Nlcy1yZXBvcnQtc2F5cy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 29 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyMy8wOS8yOS9tYXlvci1rYXJlbi1iYXNzLWhhcy1tYWRlLXNvbWUtcHJvZ3Jlc3MtZm9yLXNtYWxsLWJ1c2luZXNzZXMtcmVwb3J0LXNheXMv0gFyaHR0cHM6Ly93d3cuZGFpbHluZXdzLmNvbS8yMDIzLzA5LzI5L21heW9yLWthcmVuLWJhc3MtaGFzLW1hZGUtc29tZS1wcm9ncmVzcy1mb3Itc21hbGwtYnVzaW5lc3Nlcy1yZXBvcnQtc2F5cy9hbXAv?oc=5\" target=\"_blank\">Mayor Karen Bass has made some progress for small businesses, report says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "LA Daily News",
+                "$": {
+                  "url": "https://www.dailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Candid Conversation with Mayor Karen Bass on Homelessness - Larchmont Buzz"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbGFyY2htb250YnV6ei5jb20vbGFyY2htb250LXZpbGxhZ2UtbmV3cy9jYW5kaWQtY29udmVyc2F0aW9uLXdpdGgtbWF5b3Ita2FyZW4tYmFzcy1vbi1ob21lbGVzc25lc3Mv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vbGFyY2htb250YnV6ei5jb20vbGFyY2htb250LXZpbGxhZ2UtbmV3cy9jYW5kaWQtY29udmVyc2F0aW9uLXdpdGgtbWF5b3Ita2FyZW4tYmFzcy1vbi1ob21lbGVzc25lc3Mv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbGFyY2htb250YnV6ei5jb20vbGFyY2htb250LXZpbGxhZ2UtbmV3cy9jYW5kaWQtY29udmVyc2F0aW9uLXdpdGgtbWF5b3Ita2FyZW4tYmFzcy1vbi1ob21lbGVzc25lc3Mv0gEA?oc=5\" target=\"_blank\">Candid Conversation with Mayor Karen Bass on Homelessness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Buzz</font>"
+            ],
+            "source": [
+              {
+                "_": "Larchmont Buzz",
+                "$": {
+                  "url": "https://larchmontbuzz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayor Karen Bass Unveils Comprehensive First-Year Achievements in Los Angeles 'Year in Review' Report - Hoodline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL2hvb2RsaW5lLmNvbS8yMDIzLzEyL21heW9yLWthcmVuLWJhc3MtdW52ZWlscy1jb21wcmVoZW5zaXZlLWZpcnN0LXllYXItYWNoaWV2ZW1lbnRzLWluLWxvcy1hbmdlbGVzLXllYXItaW4tcmV2aWV3LXJlcG9ydC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL2hvb2RsaW5lLmNvbS8yMDIzLzEyL21heW9yLWthcmVuLWJhc3MtdW52ZWlscy1jb21wcmVoZW5zaXZlLWZpcnN0LXllYXItYWNoaWV2ZW1lbnRzLWluLWxvcy1hbmdlbGVzLXllYXItaW4tcmV2aWV3LXJlcG9ydC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL2hvb2RsaW5lLmNvbS8yMDIzLzEyL21heW9yLWthcmVuLWJhc3MtdW52ZWlscy1jb21wcmVoZW5zaXZlLWZpcnN0LXllYXItYWNoaWV2ZW1lbnRzLWluLWxvcy1hbmdlbGVzLXllYXItaW4tcmV2aWV3LXJlcG9ydC_SAQA?oc=5\" target=\"_blank\">Mayor Karen Bass Unveils Comprehensive First-Year Achievements in Los Angeles 'Year in Review' Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>"
+            ],
+            "source": [
+              {
+                "_": "Hoodline",
+                "$": {
+                  "url": "https://hoodline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA Mayor Karen Bass reflects on Washington visit - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9pbnNpZGUtdGhlLWlzc3Vlcy8yMDIzLzEwLzIwL21heW9yLWJhc3MtdmlzaXRzLWRj0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9pbnNpZGUtdGhlLWlzc3Vlcy8yMDIzLzEwLzIwL21heW9yLWJhc3MtdmlzaXRzLWRj0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtd2VzdC9pbnNpZGUtdGhlLWlzc3Vlcy8yMDIzLzEwLzIwL21heW9yLWJhc3MtdmlzaXRzLWRj0gEA?oc=5\" target=\"_blank\">LA Mayor Karen Bass reflects on Washington visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bass Touts First-Year Accomplishments; Critics Give Mixed Reviews - LAist"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvYmFzcy10b3V0cy1maXJzdC15ZWFyLWFjY29tcGxpc2htZW50cy1jcml0aWNzLWdpdmUtbWl4ZWQtcmV2aWV3c9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvYmFzcy10b3V0cy1maXJzdC15ZWFyLWFjY29tcGxpc2htZW50cy1jcml0aWNzLWdpdmUtbWl4ZWQtcmV2aWV3c9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbGFpc3QuY29tL25ld3MvcG9saXRpY3MvYmFzcy10b3V0cy1maXJzdC15ZWFyLWFjY29tcGxpc2htZW50cy1jcml0aWNzLWdpdmUtbWl4ZWQtcmV2aWV3c9IBAA?oc=5\" target=\"_blank\">Bass Touts First-Year Accomplishments; Critics Give Mixed Reviews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>"
+            ],
+            "source": [
+              {
+                "_": "LAist",
+                "$": {
+                  "url": "https://laist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Watch Hilary press conference live: Los Angeles Mayor Karen Bass shares updates on storm - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIxL2hpbGFyeS1zdG9ybS1wcmVzcy1jb25mZXJlbmNlLzcwNjQwNzMyMDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIxL2hpbGFyeS1zdG9ybS1wcmVzcy1jb25mZXJlbmNlLzcwNjQwNzMyMDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 21 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIxL2hpbGFyeS1zdG9ybS1wcmVzcy1jb25mZXJlbmNlLzcwNjQwNzMyMDA3L9IBAA?oc=5\" target=\"_blank\">Watch Hilary press conference live: Los Angeles Mayor Karen Bass shares updates on storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LA Mayor Karen Bass honored with award from Congressional Black Caucus - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2xvc2FuZ2VsZXMvdmlkZW8vbGEtbWF5b3Ita2FyZW4tYmFzcy1ob25vcmVkLXdpdGgtYXdhcmQtZnJvbS1jb25ncmVzc2lvbmFsLWJsYWNrLWNhdWN1cy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2xvc2FuZ2VsZXMvdmlkZW8vbGEtbWF5b3Ita2FyZW4tYmFzcy1ob25vcmVkLXdpdGgtYXdhcmQtZnJvbS1jb25ncmVzc2lvbmFsLWJsYWNrLWNhdWN1cy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 23 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2xvc2FuZ2VsZXMvdmlkZW8vbGEtbWF5b3Ita2FyZW4tYmFzcy1ob25vcmVkLXdpdGgtYXdhcmQtZnJvbS1jb25ncmVzc2lvbmFsLWJsYWNrLWNhdWN1cy_SAQA?oc=5\" target=\"_blank\">LA Mayor Karen Bass honored with award from Congressional Black Caucus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

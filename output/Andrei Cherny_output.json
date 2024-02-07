@@ -1,0 +1,1898 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Andrei Cherny\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Andrei+Cherny&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Andrei Cherny's former company under inquiry over carbon offset claims - The Arizona Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjQvMDEvMjAvYXNwaXJhdGlvbi1mb3VuZGVyLWFuZHJlaS1jaGVybnktYnVzaW5lc3MtZW52aXJvbm1lbnRhbC1jbGFpbXMtdW5kZXItc2NydXRpbnkvNzIyODY2MTgwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjQvMDEvMjAvYXNwaXJhdGlvbi1mb3VuZGVyLWFuZHJlaS1jaGVybnktYnVzaW5lc3MtZW52aXJvbm1lbnRhbC1jbGFpbXMtdW5kZXItc2NydXRpbnkvNzIyODY2MTgwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 20 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjQvMDEvMjAvYXNwaXJhdGlvbi1mb3VuZGVyLWFuZHJlaS1jaGVybnktYnVzaW5lc3MtZW52aXJvbm1lbnRhbC1jbGFpbXMtdW5kZXItc2NydXRpbnkvNzIyODY2MTgwMDcv0gEA?oc=5\" target=\"_blank\">Andrei Cherny's former company under inquiry over carbon offset claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Arizona Republic",
+                "$": {
+                  "url": "https://www.azcentral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Report: Financial regulators probe Arizona congressional candidate's former company - KJZZ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xODY4ODAwL3JlcG9ydC1maW5hbmNpYWwtcmVndWxhdG9ycy1wcm9iZS1hcml6b25hLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlcy1mb3JtZXItY29tcGFuedIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xODY4ODAwL3JlcG9ydC1maW5hbmNpYWwtcmVndWxhdG9ycy1wcm9iZS1hcml6b25hLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlcy1mb3JtZXItY29tcGFuedIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 20 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xODY4ODAwL3JlcG9ydC1maW5hbmNpYWwtcmVndWxhdG9ycy1wcm9iZS1hcml6b25hLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlcy1mb3JtZXItY29tcGFuedIBAA?oc=5\" target=\"_blank\">Report: Financial regulators probe Arizona congressional candidate's former company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KJZZ</font>"
+            ],
+            "source": [
+              {
+                "_": "KJZZ",
+                "$": {
+                  "url": "https://kjzz.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A Floundering Fintech's Risky Reboot - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvamVmZmthdWZsaW4vMjAyMy8wMy8wNi9hLWZsb3VuZGVyaW5nLWZpbnRlY2hzLXJpc2t5LXJlYm9vdC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvamVmZmthdWZsaW4vMjAyMy8wMy8wNi9hLWZsb3VuZGVyaW5nLWZpbnRlY2hzLXJpc2t5LXJlYm9vdC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvamVmZmthdWZsaW4vMjAyMy8wMy8wNi9hLWZsb3VuZGVyaW5nLWZpbnRlY2hzLXJpc2t5LXJlYm9vdC_SAQA?oc=5\" target=\"_blank\">A Floundering Fintech's Risky Reboot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A bunch of losers are running for Congress again - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzbGV0dGVycy93ZWVrbHktc2NvcmUvMjAyMy8wNy8xMC9taWR0ZXJtLWxvc2Vycy10cnktdHJ5LWFnYWluLTAwMTA1Mzcy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzbGV0dGVycy93ZWVrbHktc2NvcmUvMjAyMy8wNy8xMC9taWR0ZXJtLWxvc2Vycy10cnktdHJ5LWFnYWluLTAwMTA1Mzcy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 10 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzbGV0dGVycy93ZWVrbHktc2NvcmUvMjAyMy8wNy8xMC9taWR0ZXJtLWxvc2Vycy10cnktdHJ5LWFnYWluLTAwMTA1Mzcy0gEA?oc=5\" target=\"_blank\">A bunch of losers are running for Congress again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Andrei Cherny is Democrats' worst nightmare to unseat David Schweikert - The Arizona Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L29waW5pb24vb3AtZWQvbGF1cmllcm9iZXJ0cy8yMDI0LzAxLzIzL2FuZHJlaS1jaGVybnktYXNwaXJhdGlvbi1pbnZlc3RpZ2F0aW9uLWhlbHAtZGF2aWQtc2Nod2Vpa2VydC83MjMxNjI2NTAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L29waW5pb24vb3AtZWQvbGF1cmllcm9iZXJ0cy8yMDI0LzAxLzIzL2FuZHJlaS1jaGVybnktYXNwaXJhdGlvbi1pbnZlc3RpZ2F0aW9uLWhlbHAtZGF2aWQtc2Nod2Vpa2VydC83MjMxNjI2NTAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L29waW5pb24vb3AtZWQvbGF1cmllcm9iZXJ0cy8yMDI0LzAxLzIzL2FuZHJlaS1jaGVybnktYXNwaXJhdGlvbi1pbnZlc3RpZ2F0aW9uLWhlbHAtZGF2aWQtc2Nod2Vpa2VydC83MjMxNjI2NTAwNy_SAQA?oc=5\" target=\"_blank\">Andrei Cherny is Democrats' worst nightmare to unseat David Schweikert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Arizona Republic",
+                "$": {
+                  "url": "https://www.azcentral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jewish candidate for congress is 'part of a legacy' - Jewish News of Greater Phoenix"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5qZXdpc2hhei5jb20vY29tbXVuaXR5L2pld2lzaC1jYW5kaWRhdGUtZm9yLWNvbmdyZXNzLWlzLXBhcnQtb2YtYS1sZWdhY3kvYXJ0aWNsZV8xZDM3M2E1MC03NzczLTExZWUtOTM0Mi1mYmY3YTFlODc3ZDIuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5qZXdpc2hhei5jb20vY29tbXVuaXR5L2pld2lzaC1jYW5kaWRhdGUtZm9yLWNvbmdyZXNzLWlzLXBhcnQtb2YtYS1sZWdhY3kvYXJ0aWNsZV8xZDM3M2E1MC03NzczLTExZWUtOTM0Mi1mYmY3YTFlODc3ZDIuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5qZXdpc2hhei5jb20vY29tbXVuaXR5L2pld2lzaC1jYW5kaWRhdGUtZm9yLWNvbmdyZXNzLWlzLXBhcnQtb2YtYS1sZWdhY3kvYXJ0aWNsZV8xZDM3M2E1MC03NzczLTExZWUtOTM0Mi1mYmY3YTFlODc3ZDIuaHRtbNIBAA?oc=5\" target=\"_blank\">Jewish candidate for congress is 'part of a legacy'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jewish News of Greater Phoenix</font>"
+            ],
+            "source": [
+              {
+                "_": "Jewish News of Greater Phoenix",
+                "$": {
+                  "url": "https://www.jewishaz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Race to Watch: Andrei Cherny on run for Congress - 12news.com KPNX"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy4xMm5ld3MuY29tL3ZpZGVvL25ld3MvcG9saXRpY3Mvc3VuZGF5LXNxdWFyZS1vZmYvcmFjZS10by13YXRjaC1hbmRyZWktY2hlcm55LW9uLXJ1bi1mb3ItY29uZ3Jlc3MvNzUtYjc5N2I3YmEtMDkwNS00Zjk3LWE3NTctZGE4ZGFiNTZkZDdj0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilAFodHRwczovL3d3dy4xMm5ld3MuY29tL3ZpZGVvL25ld3MvcG9saXRpY3Mvc3VuZGF5LXNxdWFyZS1vZmYvcmFjZS10by13YXRjaC1hbmRyZWktY2hlcm55LW9uLXJ1bi1mb3ItY29uZ3Jlc3MvNzUtYjc5N2I3YmEtMDkwNS00Zjk3LWE3NTctZGE4ZGFiNTZkZDdj0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 30 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy4xMm5ld3MuY29tL3ZpZGVvL25ld3MvcG9saXRpY3Mvc3VuZGF5LXNxdWFyZS1vZmYvcmFjZS10by13YXRjaC1hbmRyZWktY2hlcm55LW9uLXJ1bi1mb3ItY29uZ3Jlc3MvNzUtYjc5N2I3YmEtMDkwNS00Zjk3LWE3NTctZGE4ZGFiNTZkZDdj0gEA?oc=5\" target=\"_blank\">Race to Watch: Andrei Cherny on run for Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">12news.com KPNX</font>"
+            ],
+            "source": [
+              {
+                "_": "12news.com KPNX",
+                "$": {
+                  "url": "https://www.12news.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FH Dems to host six House candidates - Fountain Hills Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHA6Ly93d3cuZmh0aW1lcy5jb20vZm91bnRhaW4taGlsbHMtaW5kZXBlbmRlbnQvc3Rvcmllcy9maC1kZW1zLXRvLWhvc3Qtc2l4LWhvdXNlLWNhbmRpZGF0ZXMsNDIyNzg00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHA6Ly93d3cuZmh0aW1lcy5jb20vZm91bnRhaW4taGlsbHMtaW5kZXBlbmRlbnQvc3Rvcmllcy9maC1kZW1zLXRvLWhvc3Qtc2l4LWhvdXNlLWNhbmRpZGF0ZXMsNDIyNzg00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHA6Ly93d3cuZmh0aW1lcy5jb20vZm91bnRhaW4taGlsbHMtaW5kZXBlbmRlbnQvc3Rvcmllcy9maC1kZW1zLXRvLWhvc3Qtc2l4LWhvdXNlLWNhbmRpZGF0ZXMsNDIyNzg00gEA?oc=5\" target=\"_blank\">FH Dems to host six House candidates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fountain Hills Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Fountain Hills Times",
+                "$": {
+                  "url": "http://www.fhtimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Aspiration CEO Cherny Stepping Down as SPAC Merger Faces a Delay - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEwLTEzL2FzcGlyYXRpb24tY2VvLWNoZXJueS1zdGVwcGluZy1kb3duLWFzLXNwYWMtbWVyZ2VyLWZhY2VzLWEtZGVsYXnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEwLTEzL2FzcGlyYXRpb24tY2VvLWNoZXJueS1zdGVwcGluZy1kb3duLWFzLXNwYWMtbWVyZ2VyLWZhY2VzLWEtZGVsYXnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEwLTEzL2FzcGlyYXRpb24tY2VvLWNoZXJueS1zdGVwcGluZy1kb3duLWFzLXNwYWMtbWVyZ2VyLWZhY2VzLWEtZGVsYXnSAQA?oc=5\" target=\"_blank\">Aspiration CEO Cherny Stepping Down as SPAC Merger Faces a Delay</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Meet the candidates in Arizona Congressional Districts 1 and 3 - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9waG9lbml4LzIwMjMvMDQvMDcvYXJpem9uYS1jb25ncmVzcy0yMDI0LWFuc2FyaS10ZXJhbi1jaGVybnktc2hhaC1ob3JuZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9waG9lbml4LzIwMjMvMDQvMDcvYXJpem9uYS1jb25ncmVzcy0yMDI0LWFuc2FyaS10ZXJhbi1jaGVybnktc2hhaC1ob3JuZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 07 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9waG9lbml4LzIwMjMvMDQvMDcvYXJpem9uYS1jb25ncmVzcy0yMDI0LWFuc2FyaS10ZXJhbi1jaGVybnktc2hhaC1ob3JuZdIBAA?oc=5\" target=\"_blank\">Meet the candidates in Arizona Congressional Districts 1 and 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Some Arizona Democrats stay home while their primary opponents get invited to schmooze in Washington - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMTEvMjIvYXJpem9uYS1kZW1vY3JhdHMtcHJpbWFyeS13YXNoaW5ndG9uLTAwMTI4NDAw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMTEvMjIvYXJpem9uYS1kZW1vY3JhdHMtcHJpbWFyeS13YXNoaW5ndG9uLTAwMTI4NDAw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMTEvMjIvYXJpem9uYS1kZW1vY3JhdHMtcHJpbWFyeS13YXNoaW5ndG9uLTAwMTI4NDAw0gEA?oc=5\" target=\"_blank\">Some Arizona Democrats stay home while their primary opponents get invited to schmooze in Washington</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bill Clinton headlines fundraiser for Andrei Cherny in Tucson - The Arizona Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTEvMDMvYmlsbC1jbGludG9uLWhlYWRsaW5lcy1mdW5kcmFpc2VyLWZvci1hbmRyZWktY2hlcm55LWluLXR1Y3Nvbi83MTQ0NDk0MDAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTEvMDMvYmlsbC1jbGludG9uLWhlYWRsaW5lcy1mdW5kcmFpc2VyLWZvci1hbmRyZWktY2hlcm55LWluLXR1Y3Nvbi83MTQ0NDk0MDAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTEvMDMvYmlsbC1jbGludG9uLWhlYWRsaW5lcy1mdW5kcmFpc2VyLWZvci1hbmRyZWktY2hlcm55LWluLXR1Y3Nvbi83MTQ0NDk0MDAwNy_SAQA?oc=5\" target=\"_blank\">Bill Clinton headlines fundraiser for Andrei Cherny in Tucson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Arizona Republic",
+                "$": {
+                  "url": "https://www.azcentral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The rise of antisemitism is a threat to all of us - Jewish News of Greater Phoenix"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5qZXdpc2hhei5jb20vb3Bpbmlvbi90aGUtcmlzZS1vZi1hbnRpc2VtaXRpc20taXMtYS10aHJlYXQtdG8tYWxsLW9mLXVzL2FydGljbGVfZTBiOWQ1ZmMtOWU4Yi0xMWVlLTljMDEtNjdjZDBmZTAxNjBhLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5qZXdpc2hhei5jb20vb3Bpbmlvbi90aGUtcmlzZS1vZi1hbnRpc2VtaXRpc20taXMtYS10aHJlYXQtdG8tYWxsLW9mLXVzL2FydGljbGVfZTBiOWQ1ZmMtOWU4Yi0xMWVlLTljMDEtNjdjZDBmZTAxNjBhLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5qZXdpc2hhei5jb20vb3Bpbmlvbi90aGUtcmlzZS1vZi1hbnRpc2VtaXRpc20taXMtYS10aHJlYXQtdG8tYWxsLW9mLXVzL2FydGljbGVfZTBiOWQ1ZmMtOWU4Yi0xMWVlLTljMDEtNjdjZDBmZTAxNjBhLmh0bWzSAQA?oc=5\" target=\"_blank\">The rise of antisemitism is a threat to all of us</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jewish News of Greater Phoenix</font>"
+            ],
+            "source": [
+              {
+                "_": "Jewish News of Greater Phoenix",
+                "$": {
+                  "url": "https://www.jewishaz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican Congressman David Schweikert criticized for promoting a company that donated to him - KJZZ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xODY1OTcyL3JlcHVibGljYW4tY29uZ3Jlc3NtYW4tZGF2aWQtc2Nod2Vpa2VydC1jcml0aWNpemVkLXByb21vdGluZy1jb21wYW55LWRvbmF0ZWQtaGlt0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xODY1OTcyL3JlcHVibGljYW4tY29uZ3Jlc3NtYW4tZGF2aWQtc2Nod2Vpa2VydC1jcml0aWNpemVkLXByb21vdGluZy1jb21wYW55LWRvbmF0ZWQtaGlt0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xODY1OTcyL3JlcHVibGljYW4tY29uZ3Jlc3NtYW4tZGF2aWQtc2Nod2Vpa2VydC1jcml0aWNpemVkLXByb21vdGluZy1jb21wYW55LWRvbmF0ZWQtaGlt0gEA?oc=5\" target=\"_blank\">Republican Congressman David Schweikert criticized for promoting a company that donated to him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KJZZ</font>"
+            ],
+            "source": [
+              {
+                "_": "KJZZ",
+                "$": {
+                  "url": "https://kjzz.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Andrei Cherny evacuated from violent DNC protest in Washington - The Arizona Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvYXJpem9uYS8yMDIzLzExLzE2L2FuZHJlaS1jaGVybnktZXZhY3VhdGVkLWZyb20tdmlvbGVudC1kbmMtcHJvdGVzdC1pbi13YXNoaW5ndG9uLzcxNjA0NDk5MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvYXJpem9uYS8yMDIzLzExLzE2L2FuZHJlaS1jaGVybnktZXZhY3VhdGVkLWZyb20tdmlvbGVudC1kbmMtcHJvdGVzdC1pbi13YXNoaW5ndG9uLzcxNjA0NDk5MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvYXJpem9uYS8yMDIzLzExLzE2L2FuZHJlaS1jaGVybnktZXZhY3VhdGVkLWZyb20tdmlvbGVudC1kbmMtcHJvdGVzdC1pbi13YXNoaW5ndG9uLzcxNjA0NDk5MDA3L9IBAA?oc=5\" target=\"_blank\">Andrei Cherny evacuated from violent DNC protest in Washington</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Arizona Republic",
+                "$": {
+                  "url": "https://www.azcentral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrat Andrei Cherny to challenge Rep. David Schweikert - The Arizona Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDQvMDYvZGVtb2NyYXQtYW5kcmVpLWNoZXJueS10by1jaGFsbGVuZ2UtcmVwdWJsaWNhbi1yZXAtZGF2aWQtc2Nod2Vpa2VydC83MDA4MjM0NjAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDQvMDYvZGVtb2NyYXQtYW5kcmVpLWNoZXJueS10by1jaGFsbGVuZ2UtcmVwdWJsaWNhbi1yZXAtZGF2aWQtc2Nod2Vpa2VydC83MDA4MjM0NjAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 06 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDQvMDYvZGVtb2NyYXQtYW5kcmVpLWNoZXJueS10by1jaGFsbGVuZ2UtcmVwdWJsaWNhbi1yZXAtZGF2aWQtc2Nod2Vpa2VydC83MDA4MjM0NjAwNy_SAQA?oc=5\" target=\"_blank\">Democrat Andrei Cherny to challenge Rep. David Schweikert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Arizona Republic",
+                "$": {
+                  "url": "https://www.azcentral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Poll tests negative ads on Democrats running in Arizona's CD1 - The Arizona Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTEvMjEvcG9sbC10ZXN0cy1uZWdhdGl2ZS1hZHMtb24tZGVtb2NyYXRzLXJ1bm5pbmctaW4tYXJpem9uYXMtY2QxLzcxNTg1ODA0MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTEvMjEvcG9sbC10ZXN0cy1uZWdhdGl2ZS1hZHMtb24tZGVtb2NyYXRzLXJ1bm5pbmctaW4tYXJpem9uYXMtY2QxLzcxNTg1ODA0MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTEvMjEvcG9sbC10ZXN0cy1uZWdhdGl2ZS1hZHMtb24tZGVtb2NyYXRzLXJ1bm5pbmctaW4tYXJpem9uYXMtY2QxLzcxNTg1ODA0MDA3L9IBAA?oc=5\" target=\"_blank\">Poll tests negative ads on Democrats running in Arizona's CD1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Arizona Republic",
+                "$": {
+                  "url": "https://www.azcentral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Where do David Schweikert and Arizona CD1 rivals get campaign money? - The Arizona Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTAvMTEvd2hlcmUtZG8tZGF2aWQtc2Nod2Vpa2VydC1hbmQtYXJpem9uYS1jZDEtcml2YWxzLWdldC1jYW1wYWlnbi1tb25leS83MDkxNDY1OTAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTAvMTEvd2hlcmUtZG8tZGF2aWQtc2Nod2Vpa2VydC1hbmQtYXJpem9uYS1jZDEtcml2YWxzLWdldC1jYW1wYWlnbi1tb25leS83MDkxNDY1OTAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 11 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMTAvMTEvd2hlcmUtZG8tZGF2aWQtc2Nod2Vpa2VydC1hbmQtYXJpem9uYS1jZDEtcml2YWxzLWdldC1jYW1wYWlnbi1tb25leS83MDkxNDY1OTAwNy_SAQA?oc=5\" target=\"_blank\">Where do David Schweikert and Arizona CD1 rivals get campaign money?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Arizona Republic",
+                "$": {
+                  "url": "https://www.azcentral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Arizona Democrats opt to pay party chair as independent contractor - The Arizona Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvYXJpem9uYS8yMDIzLzEyLzI2L2FyaXpvbmEtZGVtb2NyYXRzLW9wdC10by1wYXktcGFydHktY2hhaXItYXMtaW5kZXBlbmRlbnQtY29udHJhY3Rvci83MTk4NTM5MTAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvYXJpem9uYS8yMDIzLzEyLzI2L2FyaXpvbmEtZGVtb2NyYXRzLW9wdC10by1wYXktcGFydHktY2hhaXItYXMtaW5kZXBlbmRlbnQtY29udHJhY3Rvci83MTk4NTM5MTAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 26 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvYXJpem9uYS8yMDIzLzEyLzI2L2FyaXpvbmEtZGVtb2NyYXRzLW9wdC10by1wYXktcGFydHktY2hhaXItYXMtaW5kZXBlbmRlbnQtY29udHJhY3Rvci83MTk4NTM5MTAwNy_SAQA?oc=5\" target=\"_blank\">Arizona Democrats opt to pay party chair as independent contractor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Arizona Republic",
+                "$": {
+                  "url": "https://www.azcentral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Who is running against Rep. David Schweikert in 2024 election? - The Arizona Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDYvMDYvaGVyZXMtd2hvcy1ydW5uaW5nLWluLWFyaXpvbmFzLTFzdC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LzcwMjc5NDYzMDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDYvMDYvaGVyZXMtd2hvcy1ydW5uaW5nLWluLWFyaXpvbmFzLTFzdC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LzcwMjc5NDYzMDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjMvMDYvMDYvaGVyZXMtd2hvcy1ydW5uaW5nLWluLWFyaXpvbmFzLTFzdC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LzcwMjc5NDYzMDA3L9IBAA?oc=5\" target=\"_blank\">Who is running against Rep. David Schweikert in 2024 election?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Arizona Republic",
+                "$": {
+                  "url": "https://www.azcentral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "O'Callaghan joins crowded Democratic primary in CD1 - KJZZ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xODUzNjQ4L29jYWxsYWdoYW4tam9pbnMtY3Jvd2RlZC1kZW1vY3JhdGljLXByaW1hcnktY2Qx0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xODUzNjQ4L29jYWxsYWdoYW4tam9pbnMtY3Jvd2RlZC1kZW1vY3JhdGljLXByaW1hcnktY2Qx0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xODUzNjQ4L29jYWxsYWdoYW4tam9pbnMtY3Jvd2RlZC1kZW1vY3JhdGljLXByaW1hcnktY2Qx0gEA?oc=5\" target=\"_blank\">O'Callaghan joins crowded Democratic primary in CD1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KJZZ</font>"
+            ],
+            "source": [
+              {
+                "_": "KJZZ",
+                "$": {
+                  "url": "https://kjzz.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fighting climate change through banking: A conversation with Aspiration CEO Andrei Cherny - CNET"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5jbmV0LmNvbS9wZXJzb25hbC1maW5hbmNlL2JhbmtpbmcvbGVhdmUteW91ci1iYW5rLXNhdmUtdGhlLXBsYW5ldC1ncmVlbi1iYW5rLWFzcGlyYXRpb24tYnJpbmdzLWNsaW1hdGUtY29uc2Npb3VzbmVzcy10by1iYW5raW5nL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5jbmV0LmNvbS9wZXJzb25hbC1maW5hbmNlL2JhbmtpbmcvbGVhdmUteW91ci1iYW5rLXNhdmUtdGhlLXBsYW5ldC1ncmVlbi1iYW5rLWFzcGlyYXRpb24tYnJpbmdzLWNsaW1hdGUtY29uc2Npb3VzbmVzcy10by1iYW5raW5nL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 Nov 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5jbmV0LmNvbS9wZXJzb25hbC1maW5hbmNlL2JhbmtpbmcvbGVhdmUteW91ci1iYW5rLXNhdmUtdGhlLXBsYW5ldC1ncmVlbi1iYW5rLWFzcGlyYXRpb24tYnJpbmdzLWNsaW1hdGUtY29uc2Npb3VzbmVzcy10by1iYW5raW5nL9IBAA?oc=5\" target=\"_blank\">Fighting climate change through banking: A conversation with Aspiration CEO Andrei Cherny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>"
+            ],
+            "source": [
+              {
+                "_": "CNET",
+                "$": {
+                  "url": "https://www.cnet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Three races in crucial swing state getting overshadowed by blockbuster Senate contest - Washington Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMjcwODI5NS90aHJlZS1yYWNlcy1pbi1jcnVjaWFsLXN3aW5nLXN0YXRlLWdldHRpbmctb3ZlcnNoYWRvd2VkLWJ5LWJsb2NrYnVzdGVyLXNlbmF0ZS1jb250ZXN0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMjcwODI5NS90aHJlZS1yYWNlcy1pbi1jcnVjaWFsLXN3aW5nLXN0YXRlLWdldHRpbmctb3ZlcnNoYWRvd2VkLWJ5LWJsb2NrYnVzdGVyLXNlbmF0ZS1jb250ZXN0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 26 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvMjcwODI5NS90aHJlZS1yYWNlcy1pbi1jcnVjaWFsLXN3aW5nLXN0YXRlLWdldHRpbmctb3ZlcnNoYWRvd2VkLWJ5LWJsb2NrYnVzdGVyLXNlbmF0ZS1jb250ZXN0L9IBAA?oc=5\" target=\"_blank\">Three races in crucial swing state getting overshadowed by blockbuster Senate contest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Examiner",
+                "$": {
+                  "url": "https://www.washingtonexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Abortion rights group backs ex-Republican to face Schweikert - Roll Call "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjMvMTEvMDkvYWJvcnRpb24tcmlnaHRzLWdyb3VwLWJhY2tzLWV4LXJlcHVibGljYW4tdG8tZmFjZS1zY2h3ZWlrZXJ0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjMvMTEvMDkvYWJvcnRpb24tcmlnaHRzLWdyb3VwLWJhY2tzLWV4LXJlcHVibGljYW4tdG8tZmFjZS1zY2h3ZWlrZXJ0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjMvMTEvMDkvYWJvcnRpb24tcmlnaHRzLWdyb3VwLWJhY2tzLWV4LXJlcHVibGljYW4tdG8tZmFjZS1zY2h3ZWlrZXJ0L9IBAA?oc=5\" target=\"_blank\">Abortion rights group backs ex-Republican to face Schweikert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roll Call </font>"
+            ],
+            "source": [
+              {
+                "_": "Roll Call ",
+                "$": {
+                  "url": "https://rollcall.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Aspiration CEO Andrei Cherny shares his success tips - Fast Company"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5mYXN0Y29tcGFueS5jb20vOTAyOTc2NDcvYXNwaXJhdGlvbi1jZW8tYW5kcmVpLWNoZXJueS10aGlua3MtdGhpcy1icmVha2Zhc3Qtc2FuZHdpY2gtbWFrZXItaXMtb25lLXRoZS1ncmVhdGVzdC1pbnZlbnRpb25zLW9mLWFsbC10aW1l0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3d3dy5mYXN0Y29tcGFueS5jb20vOTAyOTc2NDcvYXNwaXJhdGlvbi1jZW8tYW5kcmVpLWNoZXJueS10aGlua3MtdGhpcy1icmVha2Zhc3Qtc2FuZHdpY2gtbWFrZXItaXMtb25lLXRoZS1ncmVhdGVzdC1pbnZlbnRpb25zLW9mLWFsbC10aW1l0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Feb 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5mYXN0Y29tcGFueS5jb20vOTAyOTc2NDcvYXNwaXJhdGlvbi1jZW8tYW5kcmVpLWNoZXJueS10aGlua3MtdGhpcy1icmVha2Zhc3Qtc2FuZHdpY2gtbWFrZXItaXMtb25lLXRoZS1ncmVhdGVzdC1pbnZlbnRpb25zLW9mLWFsbC10aW1l0gEA?oc=5\" target=\"_blank\">Aspiration CEO Andrei Cherny shares his success tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>"
+            ],
+            "source": [
+              {
+                "_": "Fast Company",
+                "$": {
+                  "url": "https://www.fastcompany.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Two candidates announce challenge to Schweikert - Fountain Hills Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5maHRpbWVzLmNvbS9uZXdzL2xvY2FsX25ld3MvdHdvLWNhbmRpZGF0ZXMtYW5ub3VuY2UtY2hhbGxlbmdlLXRvLXNjaHdlaWtlcnQvYXJ0aWNsZV80Mjg2ZTRlYy1lM2JhLTExZWQtOGQ3NC02NzMyMzljYmQ2YTguaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5maHRpbWVzLmNvbS9uZXdzL2xvY2FsX25ld3MvdHdvLWNhbmRpZGF0ZXMtYW5ub3VuY2UtY2hhbGxlbmdlLXRvLXNjaHdlaWtlcnQvYXJ0aWNsZV80Mjg2ZTRlYy1lM2JhLTExZWQtOGQ3NC02NzMyMzljYmQ2YTguaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 30 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5maHRpbWVzLmNvbS9uZXdzL2xvY2FsX25ld3MvdHdvLWNhbmRpZGF0ZXMtYW5ub3VuY2UtY2hhbGxlbmdlLXRvLXNjaHdlaWtlcnQvYXJ0aWNsZV80Mjg2ZTRlYy1lM2JhLTExZWQtOGQ3NC02NzMyMzljYmQ2YTguaHRtbNIBAA?oc=5\" target=\"_blank\">Two candidates announce challenge to Schweikert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fountain Hills Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Fountain Hills Times",
+                "$": {
+                  "url": "https://www.fhtimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "This Anti-Wall Street Startup Treats Small Investors Like Multimillionaires - WIRED"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LndpcmVkLmNvbS8yMDE0LzExL2FuZHJlaS1jaGVybnktYXNwaXJhdGlvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiN2h0dHBzOi8vd3d3LndpcmVkLmNvbS8yMDE0LzExL2FuZHJlaS1jaGVybnktYXNwaXJhdGlvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Nov 2014 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LndpcmVkLmNvbS8yMDE0LzExL2FuZHJlaS1jaGVybnktYXNwaXJhdGlvbi_SAQA?oc=5\" target=\"_blank\">This Anti-Wall Street Startup Treats Small Investors Like Multimillionaires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>"
+            ],
+            "source": [
+              {
+                "_": "WIRED",
+                "$": {
+                  "url": "https://www.wired.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former President Bill Clinton visiting Tucson - KGUN 9 Tucson News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmtndW45LmNvbS9uZXdzL2xvY2FsLW5ld3MvZm9ybWVyLXByZXNpZGVudC1iaWxsLWNsaW50b24tdmlzaXRpbmctdHVjc29u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LmtndW45LmNvbS9uZXdzL2xvY2FsLW5ld3MvZm9ybWVyLXByZXNpZGVudC1iaWxsLWNsaW50b24tdmlzaXRpbmctdHVjc29u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmtndW45LmNvbS9uZXdzL2xvY2FsLW5ld3MvZm9ybWVyLXByZXNpZGVudC1iaWxsLWNsaW50b24tdmlzaXRpbmctdHVjc29u0gEA?oc=5\" target=\"_blank\">Former President Bill Clinton visiting Tucson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGUN 9 Tucson News</font>"
+            ],
+            "source": [
+              {
+                "_": "KGUN 9 Tucson News",
+                "$": {
+                  "url": "https://www.kgun9.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Aspiration Reports 645% Yearly Revenue Rise in Third Quarter - Los Angeles Business Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbGFidXNpbmVzc2pvdXJuYWwuY29tL2ZpbmFuY2UvYXNwaXJhdGlvbi1yZXBvcnRzLTY0NS15ZWFybHktcmV2ZW51ZS1yaXNlLXRoaXJkLXEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vbGFidXNpbmVzc2pvdXJuYWwuY29tL2ZpbmFuY2UvYXNwaXJhdGlvbi1yZXBvcnRzLTY0NS15ZWFybHktcmV2ZW51ZS1yaXNlLXRoaXJkLXEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbGFidXNpbmVzc2pvdXJuYWwuY29tL2ZpbmFuY2UvYXNwaXJhdGlvbi1yZXBvcnRzLTY0NS15ZWFybHktcmV2ZW51ZS1yaXNlLXRoaXJkLXEv0gEA?oc=5\" target=\"_blank\">Aspiration Reports 645% Yearly Revenue Rise in Third Quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Business Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Los Angeles Business Journal",
+                "$": {
+                  "url": "https://labusinessjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Aspiration names a new CEO - American Banker"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmFtZXJpY2FuYmFua2VyLmNvbS9uZXdzL2FzcGlyYXRpb24tbmFtZXMtYS1uZXctY2Vv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPmh0dHBzOi8vd3d3LmFtZXJpY2FuYmFua2VyLmNvbS9uZXdzL2FzcGlyYXRpb24tbmFtZXMtYS1uZXctY2Vv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 14 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmFtZXJpY2FuYmFua2VyLmNvbS9uZXdzL2FzcGlyYXRpb24tbmFtZXMtYS1uZXctY2Vv0gEA?oc=5\" target=\"_blank\">Aspiration names a new CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Banker</font>"
+            ],
+            "source": [
+              {
+                "_": "American Banker",
+                "$": {
+                  "url": "https://www.americanbanker.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Leonardo Dicaprio-backed fintech Aspiration names new Chief Executive Officer - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2xlb25hcmRvLWRpY2FwcmlvLWJhY2tlZC1maW50ZWNoLWFzcGlyYXRpb24tbmFtZXMtbmV3LWNoaWVmLWV4ZWN1dGl2ZS1vZmZpY2VyLTIwMjItMTAtMTMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2xlb25hcmRvLWRpY2FwcmlvLWJhY2tlZC1maW50ZWNoLWFzcGlyYXRpb24tbmFtZXMtbmV3LWNoaWVmLWV4ZWN1dGl2ZS1vZmZpY2VyLTIwMjItMTAtMTMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2xlb25hcmRvLWRpY2FwcmlvLWJhY2tlZC1maW50ZWNoLWFzcGlyYXRpb24tbmFtZXMtbmV3LWNoaWVmLWV4ZWN1dGl2ZS1vZmZpY2VyLTIwMjItMTAtMTMv0gEA?oc=5\" target=\"_blank\">Leonardo Dicaprio-backed fintech Aspiration names new Chief Executive Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Power Of Purpose: How Aspiration Is Leading The Charge To Fossil Fuel Free Banking - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2FmZGhlbGF6aXovMjAxOS8wNC8yMi90aGUtcG93ZXItb2YtcHVycG9zZS1ob3ctYXNwaXJhdGlvbi1pcy1sZWFkaW5nLXRoZS1jaGFyZ2UtdG8tZm9zc2lsLWZ1ZWwtZnJlZS1iYW5raW5nL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2FmZGhlbGF6aXovMjAxOS8wNC8yMi90aGUtcG93ZXItb2YtcHVycG9zZS1ob3ctYXNwaXJhdGlvbi1pcy1sZWFkaW5nLXRoZS1jaGFyZ2UtdG8tZm9zc2lsLWZ1ZWwtZnJlZS1iYW5raW5nL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Apr 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2FmZGhlbGF6aXovMjAxOS8wNC8yMi90aGUtcG93ZXItb2YtcHVycG9zZS1ob3ctYXNwaXJhdGlvbi1pcy1sZWFkaW5nLXRoZS1jaGFyZ2UtdG8tZm9zc2lsLWZ1ZWwtZnJlZS1iYW5raW5nL9IBAA?oc=5\" target=\"_blank\">The Power Of Purpose: How Aspiration Is Leading The Charge To Fossil Fuel Free Banking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "From Consumers To Corporations, Aspiration Is Turning Everyday Activities Into Environmental Good - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2NocmlzdG9waGVybWFycXVpcy8yMDIyLzA1LzAzL2Zyb20tY29uc3VtZXJzLXRvLWNvcnBvcmF0aW9ucy1hc3BpcmF0aW9uLWlzLXR1cm5pbmctZXZlcnlkYXktYWN0aXZpdGllcy1pbnRvLWVudmlyb25tZW50YWwtZ29vZC_SAaABaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9jaHJpc3RvcGhlcm1hcnF1aXMvMjAyMi8wNS8wMy9mcm9tLWNvbnN1bWVycy10by1jb3Jwb3JhdGlvbnMtYXNwaXJhdGlvbi1pcy10dXJuaW5nLWV2ZXJ5ZGF5LWFjdGl2aXRpZXMtaW50by1lbnZpcm9ubWVudGFsLWdvb2QvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2NocmlzdG9waGVybWFycXVpcy8yMDIyLzA1LzAzL2Zyb20tY29uc3VtZXJzLXRvLWNvcnBvcmF0aW9ucy1hc3BpcmF0aW9uLWlzLXR1cm5pbmctZXZlcnlkYXktYWN0aXZpdGllcy1pbnRvLWVudmlyb25tZW50YWwtZ29vZC_SAaABaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9jaHJpc3RvcGhlcm1hcnF1aXMvMjAyMi8wNS8wMy9mcm9tLWNvbnN1bWVycy10by1jb3Jwb3JhdGlvbnMtYXNwaXJhdGlvbi1pcy10dXJuaW5nLWV2ZXJ5ZGF5LWFjdGl2aXRpZXMtaW50by1lbnZpcm9ubWVudGFsLWdvb2QvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2NocmlzdG9waGVybWFycXVpcy8yMDIyLzA1LzAzL2Zyb20tY29uc3VtZXJzLXRvLWNvcnBvcmF0aW9ucy1hc3BpcmF0aW9uLWlzLXR1cm5pbmctZXZlcnlkYXktYWN0aXZpdGllcy1pbnRvLWVudmlyb25tZW50YWwtZ29vZC_SAaABaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9jaHJpc3RvcGhlcm1hcnF1aXMvMjAyMi8wNS8wMy9mcm9tLWNvbnN1bWVycy10by1jb3Jwb3JhdGlvbnMtYXNwaXJhdGlvbi1pcy10dXJuaW5nLWV2ZXJ5ZGF5LWFjdGl2aXRpZXMtaW50by1lbnZpcm9ubWVudGFsLWdvb2QvYW1wLw?oc=5\" target=\"_blank\">From Consumers To Corporations, Aspiration Is Turning Everyday Activities Into Environmental Good</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Green Finance Podcast Ep. 1: How banks can encourage sustainability with Aspiration CEO Andrei Cherny - Tearsheet"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3RlYXJzaGVldC5jby9wb2RjYXN0cy90aGUtZ3JlZW4tZmluYW5jZS1wb2RjYXN0LWVwLTEtaG93LWJhbmtzLWNhbi1lbmNvdXJhZ2Utc3VzdGFpbmFiaWxpdHktd2l0aC1hc3BpcmF0aW9uLWNlby1hbmRyZWktY2hlcm55L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3RlYXJzaGVldC5jby9wb2RjYXN0cy90aGUtZ3JlZW4tZmluYW5jZS1wb2RjYXN0LWVwLTEtaG93LWJhbmtzLWNhbi1lbmNvdXJhZ2Utc3VzdGFpbmFiaWxpdHktd2l0aC1hc3BpcmF0aW9uLWNlby1hbmRyZWktY2hlcm55L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 27 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3RlYXJzaGVldC5jby9wb2RjYXN0cy90aGUtZ3JlZW4tZmluYW5jZS1wb2RjYXN0LWVwLTEtaG93LWJhbmtzLWNhbi1lbmNvdXJhZ2Utc3VzdGFpbmFiaWxpdHktd2l0aC1hc3BpcmF0aW9uLWNlby1hbmRyZWktY2hlcm55L9IBAA?oc=5\" target=\"_blank\">The Green Finance Podcast Ep. 1: How banks can encourage sustainability with Aspiration CEO Andrei Cherny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tearsheet</font>"
+            ],
+            "source": [
+              {
+                "_": "Tearsheet",
+                "$": {
+                  "url": "https://tearsheet.co"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Would Your Financial Advisor Trust You Enough To Let You Decide How Much To Pay? - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RldmludGhvcnBlLzIwMTUvMDgvMTIvd291bGQteW91ci1maW5hbmNpYWwtYWR2aXNvci10cnVzdC15b3UtZW5vdWdoLXRvLWxldC15b3UtZGVjaWRlLWhvdy1tdWNoLXRvLXBheS_SAYgBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9kZXZpbnRob3JwZS8yMDE1LzA4LzEyL3dvdWxkLXlvdXItZmluYW5jaWFsLWFkdmlzb3ItdHJ1c3QteW91LWVub3VnaC10by1sZXQteW91LWRlY2lkZS1ob3ctbXVjaC10by1wYXkvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RldmludGhvcnBlLzIwMTUvMDgvMTIvd291bGQteW91ci1maW5hbmNpYWwtYWR2aXNvci10cnVzdC15b3UtZW5vdWdoLXRvLWxldC15b3UtZGVjaWRlLWhvdy1tdWNoLXRvLXBheS_SAYgBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9kZXZpbnRob3JwZS8yMDE1LzA4LzEyL3dvdWxkLXlvdXItZmluYW5jaWFsLWFkdmlzb3ItdHJ1c3QteW91LWVub3VnaC10by1sZXQteW91LWRlY2lkZS1ob3ctbXVjaC10by1wYXkvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Aug 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RldmludGhvcnBlLzIwMTUvMDgvMTIvd291bGQteW91ci1maW5hbmNpYWwtYWR2aXNvci10cnVzdC15b3UtZW5vdWdoLXRvLWxldC15b3UtZGVjaWRlLWhvdy1tdWNoLXRvLXBheS_SAYgBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9kZXZpbnRob3JwZS8yMDE1LzA4LzEyL3dvdWxkLXlvdXItZmluYW5jaWFsLWFkdmlzb3ItdHJ1c3QteW91LWVub3VnaC10by1sZXQteW91LWRlY2lkZS1ob3ctbXVjaC10by1wYXkvYW1wLw?oc=5\" target=\"_blank\">Would Your Financial Advisor Trust You Enough To Let You Decide How Much To Pay?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A digital bank that raised $110 million from investors including Leonardo DiCaprio has run into trouble - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTkvMTEvMjEvZGljYXByaW8tYmFja2VkLWRpZ2l0YWwtYmFuay1hc3BpcmF0aW9uLWhhcy1ydW4taW50by1mdW5kaW5nLWlzc3VlLmh0bWzSAWtodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAxOS8xMS8yMS9kaWNhcHJpby1iYWNrZWQtZGlnaXRhbC1iYW5rLWFzcGlyYXRpb24taGFzLXJ1bi1pbnRvLWZ1bmRpbmctaXNzdWUuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTkvMTEvMjEvZGljYXByaW8tYmFja2VkLWRpZ2l0YWwtYmFuay1hc3BpcmF0aW9uLWhhcy1ydW4taW50by1mdW5kaW5nLWlzc3VlLmh0bWzSAWtodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAxOS8xMS8yMS9kaWNhcHJpby1iYWNrZWQtZGlnaXRhbC1iYW5rLWFzcGlyYXRpb24taGFzLXJ1bi1pbnRvLWZ1bmRpbmctaXNzdWUuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Nov 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTkvMTEvMjEvZGljYXByaW8tYmFja2VkLWRpZ2l0YWwtYmFuay1hc3BpcmF0aW9uLWhhcy1ydW4taW50by1mdW5kaW5nLWlzc3VlLmh0bWzSAWtodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAxOS8xMS8yMS9kaWNhcHJpby1iYWNrZWQtZGlnaXRhbC1iYW5rLWFzcGlyYXRpb24taGFzLXJ1bi1pbnRvLWZ1bmRpbmctaXNzdWUuaHRtbA?oc=5\" target=\"_blank\">A digital bank that raised $110 million from investors including Leonardo DiCaprio has run into trouble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Aspiration CEO Andrei Cherny shares his playlist - Fast Company"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MDMwNTI2My93aHktdGhpcy1maW5hbmNpYWwtZmlybS1jZW8tbGlzdGVucy10by10aGUtbXVwcGV0cy1pbi10aGUtbW9ybmluZ9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MDMwNTI2My93aHktdGhpcy1maW5hbmNpYWwtZmlybS1jZW8tbGlzdGVucy10by10aGUtbXVwcGV0cy1pbi10aGUtbW9ybmluZ9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Mar 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MDMwNTI2My93aHktdGhpcy1maW5hbmNpYWwtZmlybS1jZW8tbGlzdGVucy10by10aGUtbXVwcGV0cy1pbi10aGUtbW9ybmluZ9IBAA?oc=5\" target=\"_blank\">Aspiration CEO Andrei Cherny shares his playlist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>"
+            ],
+            "source": [
+              {
+                "_": "Fast Company",
+                "$": {
+                  "url": "https://www.fastcompany.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "This former D.C. insider is building a bank for ‘forgotten Americans’ - Fortune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wMS8xNC9hc3BpcmF0aW9uLWZpbnRlY2gtYmFua2luZy1hbmRyZWktY2hlcm55L9IBTGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wMS8xNC9hc3BpcmF0aW9uLWZpbnRlY2gtYmFua2luZy1hbmRyZWktY2hlcm55L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wMS8xNC9hc3BpcmF0aW9uLWZpbnRlY2gtYmFua2luZy1hbmRyZWktY2hlcm55L9IBTGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wMS8xNC9hc3BpcmF0aW9uLWZpbnRlY2gtYmFua2luZy1hbmRyZWktY2hlcm55L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Jan 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wMS8xNC9hc3BpcmF0aW9uLWZpbnRlY2gtYmFua2luZy1hbmRyZWktY2hlcm55L9IBTGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wMS8xNC9hc3BpcmF0aW9uLWZpbnRlY2gtYmFua2luZy1hbmRyZWktY2hlcm55L2FtcC8?oc=5\" target=\"_blank\">This former D.C. insider is building a bank for ‘forgotten Americans’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+            ],
+            "source": [
+              {
+                "_": "Fortune",
+                "$": {
+                  "url": "https://fortune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Andrei Cherny’s ‘Aspiration’ Brings The Investment Tools Of The 1% To The Other 99% - TechCrunch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAxNC8xMC8xOS9hbmRyZWktY2hlcm55cy1hc3BpcmF0aW9uLWJyaW5ncy10aGUtaW52ZXN0bWVudC10b29scy1vZi10aGUtMS10by10aGUtb3RoZXItOTkv0gF1aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDE0LzEwLzE5L2FuZHJlaS1jaGVybnlzLWFzcGlyYXRpb24tYnJpbmdzLXRoZS1pbnZlc3RtZW50LXRvb2xzLW9mLXRoZS0xLXRvLXRoZS1vdGhlci05OS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAxNC8xMC8xOS9hbmRyZWktY2hlcm55cy1hc3BpcmF0aW9uLWJyaW5ncy10aGUtaW52ZXN0bWVudC10b29scy1vZi10aGUtMS10by10aGUtb3RoZXItOTkv0gF1aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDE0LzEwLzE5L2FuZHJlaS1jaGVybnlzLWFzcGlyYXRpb24tYnJpbmdzLXRoZS1pbnZlc3RtZW50LXRvb2xzLW9mLXRoZS0xLXRvLXRoZS1vdGhlci05OS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Oct 2014 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAxNC8xMC8xOS9hbmRyZWktY2hlcm55cy1hc3BpcmF0aW9uLWJyaW5ncy10aGUtaW52ZXN0bWVudC10b29scy1vZi10aGUtMS10by10aGUtb3RoZXItOTkv0gF1aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDE0LzEwLzE5L2FuZHJlaS1jaGVybnlzLWFzcGlyYXRpb24tYnJpbmdzLXRoZS1pbnZlc3RtZW50LXRvb2xzLW9mLXRoZS0xLXRvLXRoZS1vdGhlci05OS9hbXAv?oc=5\" target=\"_blank\">Andrei Cherny’s ‘Aspiration’ Brings The Investment Tools Of The 1% To The Other 99%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>"
+            ],
+            "source": [
+              {
+                "_": "TechCrunch",
+                "$": {
+                  "url": "https://techcrunch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Aspiration CEO Cherny Stepping Down as SPAC Merger Faces Delay | DealFlow's SPAC News - DealFlow's SPAC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3cy5zcGFjY29uZmVyZW5jZS5jb20vMjAyMi8xMC8xNC9hc3BpcmF0aW9uLWNlby1jaGVybnktc3RlcHBpbmctZG93bi1hcy1zcGFjLW1lcmdlci1mYWNlcy1kZWxheS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vbmV3cy5zcGFjY29uZmVyZW5jZS5jb20vMjAyMi8xMC8xNC9hc3BpcmF0aW9uLWNlby1jaGVybnktc3RlcHBpbmctZG93bi1hcy1zcGFjLW1lcmdlci1mYWNlcy1kZWxheS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 14 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3cy5zcGFjY29uZmVyZW5jZS5jb20vMjAyMi8xMC8xNC9hc3BpcmF0aW9uLWNlby1jaGVybnktc3RlcHBpbmctZG93bi1hcy1zcGFjLW1lcmdlci1mYWNlcy1kZWxheS_SAQA?oc=5\" target=\"_blank\">Aspiration CEO Cherny Stepping Down as SPAC Merger Faces Delay | DealFlow's SPAC News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DealFlow's SPAC News</font>"
+            ],
+            "source": [
+              {
+                "_": "DealFlow's SPAC News",
+                "$": {
+                  "url": "https://news.spacconference.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CORRECTING and REPLACING Aspiration Reports Fourth Quarter and Full Year 2021 Results - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDIxNzAwNTY2Ny9lbi9DT1JSRUNUSU5HLWFuZC1SRVBMQUNJTkctQXNwaXJhdGlvbi1SZXBvcnRzLUZvdXJ0aC1RdWFydGVyLWFuZC1GdWxsLVllYXItMjAyMS1SZXN1bHRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDIxNzAwNTY2Ny9lbi9DT1JSRUNUSU5HLWFuZC1SRVBMQUNJTkctQXNwaXJhdGlvbi1SZXBvcnRzLUZvdXJ0aC1RdWFydGVyLWFuZC1GdWxsLVllYXItMjAyMS1SZXN1bHRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 17 Feb 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDIxNzAwNTY2Ny9lbi9DT1JSRUNUSU5HLWFuZC1SRVBMQUNJTkctQXNwaXJhdGlvbi1SZXBvcnRzLUZvdXJ0aC1RdWFydGVyLWFuZC1GdWxsLVllYXItMjAyMS1SZXN1bHRz0gEA?oc=5\" target=\"_blank\">CORRECTING and REPLACING Aspiration Reports Fourth Quarter and Full Year 2021 Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Aspiration CEO Says Shift to ESG Investing 'Permanent' - Bloomberg"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy92aWRlb3MvMjAyMS0wNS0yNC9hc3BpcmF0aW9uLWNlby1zYXlzLXNoaWZ0LXRvLWVzZy1pbnZlc3RpbmctcGVybWFuZW50LXZpZGVv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy92aWRlb3MvMjAyMS0wNS0yNC9hc3BpcmF0aW9uLWNlby1zYXlzLXNoaWZ0LXRvLWVzZy1pbnZlc3RpbmctcGVybWFuZW50LXZpZGVv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 May 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy92aWRlb3MvMjAyMS0wNS0yNC9hc3BpcmF0aW9uLWNlby1zYXlzLXNoaWZ0LXRvLWVzZy1pbnZlc3RpbmctcGVybWFuZW50LXZpZGVv0gEA?oc=5\" target=\"_blank\">Aspiration CEO Says Shift to ESG Investing 'Permanent'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg",
+                "$": {
+                  "url": "https://www.bloomberg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "This Founder Grew Up on Food Stamps. Now He Runs a Digital Money Manager for the Middle Class - Inc."
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmluYy5jb20vem9lLWhlbnJ5L2FzcGlyYXRpb24tZGlzcnVwdGl2ZS0yNS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiO2h0dHBzOi8vd3d3LmluYy5jb20vem9lLWhlbnJ5L2FzcGlyYXRpb24tZGlzcnVwdGl2ZS0yNS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 15 Jun 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmluYy5jb20vem9lLWhlbnJ5L2FzcGlyYXRpb24tZGlzcnVwdGl2ZS0yNS5odG1s0gEA?oc=5\" target=\"_blank\">This Founder Grew Up on Food Stamps. Now He Runs a Digital Money Manager for the Middle Class</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inc.</font>"
+            ],
+            "source": [
+              {
+                "_": "Inc.",
+                "$": {
+                  "url": "https://www.inc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Aspiration Announces Olivia Albrecht as CEO - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjIxMDEzMDA2MDM1L2VuL0FzcGlyYXRpb24tQW5ub3VuY2VzLU9saXZpYS1BbGJyZWNodC1hcy1DRU_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjIxMDEzMDA2MDM1L2VuL0FzcGlyYXRpb24tQW5ub3VuY2VzLU9saXZpYS1BbGJyZWNodC1hcy1DRU_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjIxMDEzMDA2MDM1L2VuL0FzcGlyYXRpb24tQW5ub3VuY2VzLU9saXZpYS1BbGJyZWNodC1hcy1DRU_SAQA?oc=5\" target=\"_blank\">Aspiration Announces Olivia Albrecht as CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "| KJZZ - KJZZ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xNjEzNTUyL2tqenpzLWZyaWRheS1uZXdzY2FwLWF1Zy0yOC0yMDIw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xNjEzNTUyL2tqenpzLWZyaWRheS1uZXdzY2FwLWF1Zy0yOC0yMDIw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Aug 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xNjEzNTUyL2tqenpzLWZyaWRheS1uZXdzY2FwLWF1Zy0yOC0yMDIw0gEA?oc=5\" target=\"_blank\">| KJZZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KJZZ</font>"
+            ],
+            "source": [
+              {
+                "_": "KJZZ",
+                "$": {
+                  "url": "https://kjzz.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "| KJZZ - KJZZ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xMTk1ODI2L2tqenpzLWZyaWRheS1uZXdzY2FwLXNlcHQtMjctMjAxOdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQmh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xMTk1ODI2L2tqenpzLWZyaWRheS1uZXdzY2FwLXNlcHQtMjctMjAxOdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 27 Sep 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xMTk1ODI2L2tqenpzLWZyaWRheS1uZXdzY2FwLXNlcHQtMjctMjAxOdIBAA?oc=5\" target=\"_blank\">| KJZZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KJZZ</font>"
+            ],
+            "source": [
+              {
+                "_": "KJZZ",
+                "$": {
+                  "url": "https://kjzz.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "| KJZZ - KJZZ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8va2p6ei5vcmcvY29udGVudC83NTUyMTMvYXJpem9uYS1jb21wYW55LWxlYWRlci1maW50ZWNo0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPmh0dHBzOi8va2p6ei5vcmcvY29udGVudC83NTUyMTMvYXJpem9uYS1jb21wYW55LWxlYWRlci1maW50ZWNo0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 30 Jan 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPmh0dHBzOi8va2p6ei5vcmcvY29udGVudC83NTUyMTMvYXJpem9uYS1jb21wYW55LWxlYWRlci1maW50ZWNo0gEA?oc=5\" target=\"_blank\">| KJZZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KJZZ</font>"
+            ],
+            "source": [
+              {
+                "_": "KJZZ",
+                "$": {
+                  "url": "https://kjzz.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Why Arizona Democrat Andrei Cherny, 'Clinton's Truest Heir,' Has Made Israel the Focus of His Congressional Race - Tablet Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnRhYmxldG1hZy5jb20vc2VjdGlvbnMvbmV3cy9hcnRpY2xlcy9hcml6b25hcy1zYXZ2eS1pc3JhZWwtYWxsedIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LnRhYmxldG1hZy5jb20vc2VjdGlvbnMvbmV3cy9hcnRpY2xlcy9hcml6b25hcy1zYXZ2eS1pc3JhZWwtYWxsedIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 18 May 2012 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnRhYmxldG1hZy5jb20vc2VjdGlvbnMvbmV3cy9hcnRpY2xlcy9hcml6b25hcy1zYXZ2eS1pc3JhZWwtYWxsedIBAA?oc=5\" target=\"_blank\">Why Arizona Democrat Andrei Cherny, 'Clinton's Truest Heir,' Has Made Israel the Focus of His Congressional Race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tablet Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Tablet Magazine",
+                "$": {
+                  "url": "https://www.tabletmag.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Want 1% Interest On Your Checking Account? You Can Get It, But Make Sure To Read The Fine Print - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3NhbWFudGhhc2hhcmYvMjAxNS8wNy8xMC93YW50LTEtaW50ZXJlc3Qtb24teW91ci1jaGVja2luZy1hY2NvdW50LXlvdS1jYW4tZ2V0LWl0LWJ1dC1tYWtlLXN1cmUtdG8tcmVhZC10aGUtZmluZS1wcmludC_SAZcBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9zYW1hbnRoYXNoYXJmLzIwMTUvMDcvMTAvd2FudC0xLWludGVyZXN0LW9uLXlvdXItY2hlY2tpbmctYWNjb3VudC15b3UtY2FuLWdldC1pdC1idXQtbWFrZS1zdXJlLXRvLXJlYWQtdGhlLWZpbmUtcHJpbnQvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3NhbWFudGhhc2hhcmYvMjAxNS8wNy8xMC93YW50LTEtaW50ZXJlc3Qtb24teW91ci1jaGVja2luZy1hY2NvdW50LXlvdS1jYW4tZ2V0LWl0LWJ1dC1tYWtlLXN1cmUtdG8tcmVhZC10aGUtZmluZS1wcmludC_SAZcBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9zYW1hbnRoYXNoYXJmLzIwMTUvMDcvMTAvd2FudC0xLWludGVyZXN0LW9uLXlvdXItY2hlY2tpbmctYWNjb3VudC15b3UtY2FuLWdldC1pdC1idXQtbWFrZS1zdXJlLXRvLXJlYWQtdGhlLWZpbmUtcHJpbnQvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Jul 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3NhbWFudGhhc2hhcmYvMjAxNS8wNy8xMC93YW50LTEtaW50ZXJlc3Qtb24teW91ci1jaGVja2luZy1hY2NvdW50LXlvdS1jYW4tZ2V0LWl0LWJ1dC1tYWtlLXN1cmUtdG8tcmVhZC10aGUtZmluZS1wcmludC_SAZcBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9zYW1hbnRoYXNoYXJmLzIwMTUvMDcvMTAvd2FudC0xLWludGVyZXN0LW9uLXlvdXItY2hlY2tpbmctYWNjb3VudC15b3UtY2FuLWdldC1pdC1idXQtbWFrZS1zdXJlLXRvLXJlYWQtdGhlLWZpbmUtcHJpbnQvYW1wLw?oc=5\" target=\"_blank\">Want 1% Interest On Your Checking Account? You Can Get It, But Make Sure To Read The Fine Print</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Showing Confidence, Hillary Clinton Pushes Into Republican Strongholds (Published 2016) - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTYvMTAvMTgvdXMvcG9saXRpY3MvaGlsbGFyeS1jbGludG9uLWNhbXBhaWduLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTYvMTAvMTgvdXMvcG9saXRpY3MvaGlsbGFyeS1jbGludG9uLWNhbXBhaWduLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Oct 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTYvMTAvMTgvdXMvcG9saXRpY3MvaGlsbGFyeS1jbGludG9uLWNhbXBhaWduLmh0bWzSAQA?oc=5\" target=\"_blank\">Showing Confidence, Hillary Clinton Pushes Into Republican Strongholds (Published 2016)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Celebration of Life in honor of 'Berlin Candy Bomber' - The Daily Universe - Universe.byu.edu"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiImh0dHBzOi8vdW5pdmVyc2UuYnl1LmVkdS8_cD03MjE2MDPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiImh0dHBzOi8vdW5pdmVyc2UuYnl1LmVkdS8_cD03MjE2MDPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 22 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiImh0dHBzOi8vdW5pdmVyc2UuYnl1LmVkdS8_cD03MjE2MDPSAQA?oc=5\" target=\"_blank\">Celebration of Life in honor of 'Berlin Candy Bomber' - The Daily Universe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Universe.byu.edu</font>"
+            ],
+            "source": [
+              {
+                "_": "Universe.byu.edu",
+                "$": {
+                  "url": "https://universe.byu.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cherny makes appearance at LD18 Democrat meeting | News | ahwatukee.com - Ahwatukee Foothills News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmFod2F0dWtlZS5jb20vbmV3cy9hcnRpY2xlXzg0Y2RlZTZhLTZlZjgtMTFlMS1hNTNhLTAwMTg3MWUzY2U2Yy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LmFod2F0dWtlZS5jb20vbmV3cy9hcnRpY2xlXzg0Y2RlZTZhLTZlZjgtMTFlMS1hNTNhLTAwMTg3MWUzY2U2Yy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 16 Mar 2012 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmFod2F0dWtlZS5jb20vbmV3cy9hcnRpY2xlXzg0Y2RlZTZhLTZlZjgtMTFlMS1hNTNhLTAwMTg3MWUzY2U2Yy5odG1s0gEA?oc=5\" target=\"_blank\">Cherny makes appearance at LD18 Democrat meeting | News | ahwatukee.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ahwatukee Foothills News</font>"
+            ],
+            "source": [
+              {
+                "_": "Ahwatukee Foothills News",
+                "$": {
+                  "url": "https://www.ahwatukee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Exclusive: Boston Red Sox pledge to make Fenway Park carbon neutral - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIyLzAzLzMwL2Jvc3Rvbi1yZWQtc294LWZlbndheS1jYXJib24tbmV1dHJhbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIyLzAzLzMwL2Jvc3Rvbi1yZWQtc294LWZlbndheS1jYXJib24tbmV1dHJhbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 30 Mar 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIyLzAzLzMwL2Jvc3Rvbi1yZWQtc294LWZlbndheS1jYXJib24tbmV1dHJhbNIBAA?oc=5\" target=\"_blank\">Exclusive: Boston Red Sox pledge to make Fenway Park carbon neutral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bi congressional candidate accuses opponent of homophobic tactics - Washington Blade"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lndhc2hpbmd0b25ibGFkZS5jb20vMjAxMi8wOC8yMi9iaS1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZS1hY2N1c2VzLW9wcG9uZW50LW9mLWhvbW9waG9iaWMtdGFjdGljcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3Lndhc2hpbmd0b25ibGFkZS5jb20vMjAxMi8wOC8yMi9iaS1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZS1hY2N1c2VzLW9wcG9uZW50LW9mLWhvbW9waG9iaWMtdGFjdGljcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Aug 2012 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lndhc2hpbmd0b25ibGFkZS5jb20vMjAxMi8wOC8yMi9iaS1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZS1hY2N1c2VzLW9wcG9uZW50LW9mLWhvbW9waG9iaWMtdGFjdGljcy_SAQA?oc=5\" target=\"_blank\">Bi congressional candidate accuses opponent of homophobic tactics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Blade</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Blade",
+                "$": {
+                  "url": "https://www.washingtonblade.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The legacy of Mario Cuomo's 1984 'Tale of Two Cities' speech - Yahoo News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbmV3cy55YWhvby5jb20vdGhlLWxlZ2FjeS1vZi1tYXJpby1jdW9tby1zLTE5ODQtJUUyJTgwJTlDdGFsZS1vZi10d28tY2l0aWVzJUUyJTgwJTlELXNwZWVjaC0xNTAzNDgzMjQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vbmV3cy55YWhvby5jb20vdGhlLWxlZ2FjeS1vZi1tYXJpby1jdW9tby1zLTE5ODQtJUUyJTgwJTlDdGFsZS1vZi10d28tY2l0aWVzJUUyJTgwJTlELXNwZWVjaC0xNTAzNDgzMjQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Jan 2015 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbmV3cy55YWhvby5jb20vdGhlLWxlZ2FjeS1vZi1tYXJpby1jdW9tby1zLTE5ODQtJUUyJTgwJTlDdGFsZS1vZi10d28tY2l0aWVzJUUyJTgwJTlELXNwZWVjaC0xNTAzNDgzMjQuaHRtbNIBAA?oc=5\" target=\"_blank\">The legacy of Mario Cuomo's 1984 'Tale of Two Cities' speech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News",
+                "$": {
+                  "url": "https://news.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Political Groups Compete to Represent the Center - The New York Times - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYXJjaGl2ZS5ueXRpbWVzLmNvbS90aGVjYXVjdXMuYmxvZ3Mubnl0aW1lcy5jb20vMjAxMS8wMi8wOS9wb2xpdGljYWwtZ3JvdXBzLWNvbXBldGUtdG8tcmVwcmVzZW50LXRoZS1jZW50ZXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vYXJjaGl2ZS5ueXRpbWVzLmNvbS90aGVjYXVjdXMuYmxvZ3Mubnl0aW1lcy5jb20vMjAxMS8wMi8wOS9wb2xpdGljYWwtZ3JvdXBzLWNvbXBldGUtdG8tcmVwcmVzZW50LXRoZS1jZW50ZXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Feb 2011 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYXJjaGl2ZS5ueXRpbWVzLmNvbS90aGVjYXVjdXMuYmxvZ3Mubnl0aW1lcy5jb20vMjAxMS8wMi8wOS9wb2xpdGljYWwtZ3JvdXBzLWNvbXBldGUtdG8tcmVwcmVzZW50LXRoZS1jZW50ZXIv0gEA?oc=5\" target=\"_blank\">Political Groups Compete to Represent the Center - The New York Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://archive.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cherny dominates CD9 fundraising - Arizona Capitol Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wNC8xNi9jaGVybnktZG9taW5hdGVzLWNkOS1mdW5kcmFpc2luZy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wNC8xNi9jaGVybnktZG9taW5hdGVzLWNkOS1mdW5kcmFpc2luZy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Apr 2012 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wNC8xNi9jaGVybnktZG9taW5hdGVzLWNkOS1mdW5kcmFpc2luZy_SAQA?oc=5\" target=\"_blank\">Cherny dominates CD9 fundraising</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arizona Capitol Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Arizona Capitol Times",
+                "$": {
+                  "url": "https://azcapitoltimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cherny steps down as Democratic Party chair - Arizona Capitol Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wMS8zMC9jaGVybnktc3RlcHMtZG93bi1hcy1kZW1vY3JhdGljLXBhcnR5LWNoYWlyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wMS8zMC9jaGVybnktc3RlcHMtZG93bi1hcy1kZW1vY3JhdGljLXBhcnR5LWNoYWlyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Jan 2012 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wMS8zMC9jaGVybnktc3RlcHMtZG93bi1hcy1kZW1vY3JhdGljLXBhcnR5LWNoYWlyL9IBAA?oc=5\" target=\"_blank\">Cherny steps down as Democratic Party chair</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arizona Capitol Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Arizona Capitol Times",
+                "$": {
+                  "url": "https://azcapitoltimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sinema dominates CD9 fundraising - Arizona Capitol Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wNy8xNi9zaW5lbWEtZG9taW5hdGVzLWNkOS1mdW5kcmFpc2luZy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wNy8xNi9zaW5lbWEtZG9taW5hdGVzLWNkOS1mdW5kcmFpc2luZy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Jul 2012 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wNy8xNi9zaW5lbWEtZG9taW5hdGVzLWNkOS1mdW5kcmFpc2luZy_SAQA?oc=5\" target=\"_blank\">Sinema dominates CD9 fundraising</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arizona Capitol Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Arizona Capitol Times",
+                "$": {
+                  "url": "https://azcapitoltimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Revisiting Clinton: A critical factor - POLITICO - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9zdG9yeS8yMDEyLzExL3JldmlzaXRpbmctY2xpbnRvbi1hLWNyaXRpY2FsLWVsZWN0aW9uLWZhY3Rvci0wODM1ODbSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9zdG9yeS8yMDEyLzExL3JldmlzaXRpbmctY2xpbnRvbi1hLWNyaXRpY2FsLWVsZWN0aW9uLWZhY3Rvci0wODM1ODbSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 09 Nov 2012 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9zdG9yeS8yMDEyLzExL3JldmlzaXRpbmctY2xpbnRvbi1hLWNyaXRpY2FsLWVsZWN0aW9uLWZhY3Rvci0wODM1ODbSAQA?oc=5\" target=\"_blank\">Revisiting Clinton: A critical factor - POLITICO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CD9 candidates debate tax cuts, health care, energy - Arizona Capitol Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wNi8wNS9jZDktY2FuZGlkYXRlcy1kZWJhdGUtdGF4LWN1dHMtaGVhbHRoLWNhcmUtZW5lcmd5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wNi8wNS9jZDktY2FuZGlkYXRlcy1kZWJhdGUtdGF4LWN1dHMtaGVhbHRoLWNhcmUtZW5lcmd5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Jun 2012 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAxMi8wNi8wNS9jZDktY2FuZGlkYXRlcy1kZWJhdGUtdGF4LWN1dHMtaGVhbHRoLWNhcmUtZW5lcmd5L9IBAA?oc=5\" target=\"_blank\">CD9 candidates debate tax cuts, health care, energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arizona Capitol Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Arizona Capitol Times",
+                "$": {
+                  "url": "https://azcapitoltimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Timely and Timeless, Part II - Harvard Political Review"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vaGFydmFyZHBvbGl0aWNzLmNvbS9ocHItaGlzdG9yeS1wYXJ0LTIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiL2h0dHBzOi8vaGFydmFyZHBvbGl0aWNzLmNvbS9ocHItaGlzdG9yeS1wYXJ0LTIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 10 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vaGFydmFyZHBvbGl0aWNzLmNvbS9ocHItaGlzdG9yeS1wYXJ0LTIv0gEA?oc=5\" target=\"_blank\">Timely and Timeless, Part II</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Harvard Political Review</font>"
+            ],
+            "source": [
+              {
+                "_": "Harvard Political Review",
+                "$": {
+                  "url": "https://harvardpolitics.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

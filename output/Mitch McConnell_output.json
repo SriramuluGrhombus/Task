@@ -1,0 +1,2828 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Mitch McConnell\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Mitch+McConnell&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Cruz says it’s time for McConnell to step down as GOP leader - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NTEyMzktY3J1ei1zYXlzLWl0cy10aW1lLWZvci1tY2Nvbm5lbGwtdG8tc3RlcC1kb3duLWFzLWdvcC1sZWFkZXIv0gFsaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDQ1MTIzOS1jcnV6LXNheXMtaXRzLXRpbWUtZm9yLW1jY29ubmVsbC10by1zdGVwLWRvd24tYXMtZ29wLWxlYWRlci9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NTEyMzktY3J1ei1zYXlzLWl0cy10aW1lLWZvci1tY2Nvbm5lbGwtdG8tc3RlcC1kb3duLWFzLWdvcC1sZWFkZXIv0gFsaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDQ1MTIzOS1jcnV6LXNheXMtaXRzLXRpbWUtZm9yLW1jY29ubmVsbC10by1zdGVwLWRvd24tYXMtZ29wLWxlYWRlci9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 18:23:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NTEyMzktY3J1ei1zYXlzLWl0cy10aW1lLWZvci1tY2Nvbm5lbGwtdG8tc3RlcC1kb3duLWFzLWdvcC1sZWFkZXIv0gFsaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDQ1MTIzOS1jcnV6LXNheXMtaXRzLXRpbWUtZm9yLW1jY29ubmVsbC10by1zdGVwLWRvd24tYXMtZ29wLWxlYWRlci9hbXAv?oc=5\" target=\"_blank\">Cruz says it’s time for McConnell to step down as GOP leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US: Senate Republican leader Mitch McConnell declares border bill has 'no real chance' - The Economic Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvdXMtc2VuYXRlLXJlcHVibGljYW4tbGVhZGVyLW1pdGNoLW1jY29ubmVsbC1kZWNsYXJlcy1ib3JkZXItYmlsbC1oYXMtbm8tcmVhbC1jaGFuY2UvdmlkZW9zaG93LzEwNzQ3MjcwMy5jbXPSAakBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvaW50ZXJuYXRpb25hbC93b3JsZC1uZXdzL3VzLXNlbmF0ZS1yZXB1YmxpY2FuLWxlYWRlci1taXRjaC1tY2Nvbm5lbGwtZGVjbGFyZXMtYm9yZGVyLWJpbGwtaGFzLW5vLXJlYWwtY2hhbmNlL2FtcF92aWRlb3Nob3cvMTA3NDcyNzAzLmNtcw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvdXMtc2VuYXRlLXJlcHVibGljYW4tbGVhZGVyLW1pdGNoLW1jY29ubmVsbC1kZWNsYXJlcy1ib3JkZXItYmlsbC1oYXMtbm8tcmVhbC1jaGFuY2UvdmlkZW9zaG93LzEwNzQ3MjcwMy5jbXPSAakBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvaW50ZXJuYXRpb25hbC93b3JsZC1uZXdzL3VzLXNlbmF0ZS1yZXB1YmxpY2FuLWxlYWRlci1taXRjaC1tY2Nvbm5lbGwtZGVjbGFyZXMtYm9yZGVyLWJpbGwtaGFzLW5vLXJlYWwtY2hhbmNlL2FtcF92aWRlb3Nob3cvMTA3NDcyNzAzLmNtcw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:14:58 GMT"
+            ],
+            "description": [
+              "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvdXMtc2VuYXRlLXJlcHVibGljYW4tbGVhZGVyLW1pdGNoLW1jY29ubmVsbC1kZWNsYXJlcy1ib3JkZXItYmlsbC1oYXMtbm8tcmVhbC1jaGFuY2UvdmlkZW9zaG93LzEwNzQ3MjcwMy5jbXPSAakBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvaW50ZXJuYXRpb25hbC93b3JsZC1uZXdzL3VzLXNlbmF0ZS1yZXB1YmxpY2FuLWxlYWRlci1taXRjaC1tY2Nvbm5lbGwtZGVjbGFyZXMtYm9yZGVyLWJpbGwtaGFzLW5vLXJlYWwtY2hhbmNlL2FtcF92aWRlb3Nob3cvMTA3NDcyNzAzLmNtcw?oc=5\" target=\"_blank\">US: Senate Republican leader Mitch McConnell declares border bill has 'no real chance'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMi8wNi9jb25ncmVzcy9ib3JkZXItc2VuYXRlLW1jY29ubmVsbC1zY2h1bWVyLXVrcmFpbmUtYWlkLTAwMTM5OTI10gEA?oc=5\" target=\"_blank\">McConnell admits defeat on border deal: 'It will not become law'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font></li></ol>"
+            ],
+            "source": [
+              {
+                "_": "The Economic Times",
+                "$": {
+                  "url": "https://m.economictimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP Sen. Cruz calls for McConnell to step down, Vance declares border bill 'unadulterated bulls---' - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2dvcC1zZW5hdG9ycy1tY2Nvbm5lbGwtc3RlcC1kb3duLWJvcmRlci1iaWxsLXVuYWR1bHRlcmF0ZWQtYnVsbNIBZGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2dvcC1zZW5hdG9ycy1tY2Nvbm5lbGwtc3RlcC1kb3duLWJvcmRlci1iaWxsLXVuYWR1bHRlcmF0ZWQtYnVsbC5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2dvcC1zZW5hdG9ycy1tY2Nvbm5lbGwtc3RlcC1kb3duLWJvcmRlci1iaWxsLXVuYWR1bHRlcmF0ZWQtYnVsbNIBZGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2dvcC1zZW5hdG9ycy1tY2Nvbm5lbGwtc3RlcC1kb3duLWJvcmRlci1iaWxsLXVuYWR1bHRlcmF0ZWQtYnVsbC5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 19:04:59 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2dvcC1zZW5hdG9ycy1tY2Nvbm5lbGwtc3RlcC1kb3duLWJvcmRlci1iaWxsLXVuYWR1bHRlcmF0ZWQtYnVsbNIBZGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2dvcC1zZW5hdG9ycy1tY2Nvbm5lbGwtc3RlcC1kb3duLWJvcmRlci1iaWxsLXVuYWR1bHRlcmF0ZWQtYnVsbC5hbXA?oc=5\" target=\"_blank\">GOP Sen. Cruz calls for McConnell to step down, Vance declares border bill 'unadulterated bulls---'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell says immigration talks in ‘quandary’ as Trump lobbies Congress to kill deal - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yNC9wb2xpdGljcy9tY2Nvbm5lbGwtc2VuYXRlLWdvcC1ib3JkZXItdWtyYWluZS1wYWNrYWdlL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzI0L3BvbGl0aWNzL21jY29ubmVsbC1zZW5hdGUtZ29wLWJvcmRlci11a3JhaW5lLXBhY2thZ2UvaW5kZXguaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yNC9wb2xpdGljcy9tY2Nvbm5lbGwtc2VuYXRlLWdvcC1ib3JkZXItdWtyYWluZS1wYWNrYWdlL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzI0L3BvbGl0aWNzL21jY29ubmVsbC1zZW5hdGUtZ29wLWJvcmRlci11a3JhaW5lLXBhY2thZ2UvaW5kZXguaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yNC9wb2xpdGljcy9tY2Nvbm5lbGwtc2VuYXRlLWdvcC1ib3JkZXItdWtyYWluZS1wYWNrYWdlL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzI0L3BvbGl0aWNzL21jY29ubmVsbC1zZW5hdGUtZ29wLWJvcmRlci11a3JhaW5lLXBhY2thZ2UvaW5kZXguaHRtbA?oc=5\" target=\"_blank\">McConnell says immigration talks in ‘quandary’ as Trump lobbies Congress to kill deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell Casts Doubt on Border Deal, Saying Trump Opposition May Sink It - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjUvdXMvcG9saXRpY3MvbWNjb25uZWxsLWJvcmRlci1kZWFsLXRydW1wLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjUvdXMvcG9saXRpY3MvbWNjb25uZWxsLWJvcmRlci1kZWFsLXRydW1wLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjUvdXMvcG9saXRpY3MvbWNjb25uZWxsLWJvcmRlci1kZWFsLXRydW1wLmh0bWzSAQA?oc=5\" target=\"_blank\">McConnell Casts Doubt on Border Deal, Saying Trump Opposition May Sink It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell pushes Ukraine-border plan despite Mike Johnson doubts - The Washington Post - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzE4L3VrcmFpbmUtYm9yZGVyLXNlY3VyaXR5LWRlYWwv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzE4L3VrcmFpbmUtYm9yZGVyLXNlY3VyaXR5LWRlYWwv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzE4L3VrcmFpbmUtYm9yZGVyLXNlY3VyaXR5LWRlYWwv0gEA?oc=5\" target=\"_blank\">Mitch McConnell pushes Ukraine-border plan despite Mike Johnson doubts - The Washington Post</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Immigration deal: Trump threw a wrench into Mitch McConnell's border bill. - Slate"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vc2xhdGUuY29tL25ld3MtYW5kLXBvbGl0aWNzLzIwMjQvMDEvaW1taWdyYXRpb24tZGVhbC1kb25hbGQtdHJ1bXAtbWl0Y2gtbWNjb25uZWxsLXNlbmF0ZS1kZW1vY3JhdHMuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vc2xhdGUuY29tL25ld3MtYW5kLXBvbGl0aWNzLzIwMjQvMDEvaW1taWdyYXRpb24tZGVhbC1kb25hbGQtdHJ1bXAtbWl0Y2gtbWNjb25uZWxsLXNlbmF0ZS1kZW1vY3JhdHMuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vc2xhdGUuY29tL25ld3MtYW5kLXBvbGl0aWNzLzIwMjQvMDEvaW1taWdyYXRpb24tZGVhbC1kb25hbGQtdHJ1bXAtbWl0Y2gtbWNjb25uZWxsLXNlbmF0ZS1kZW1vY3JhdHMuaHRtbNIBAA?oc=5\" target=\"_blank\">Immigration deal: Trump threw a wrench into Mitch McConnell's border bill.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Slate</font>"
+            ],
+            "source": [
+              {
+                "_": "Slate",
+                "$": {
+                  "url": "https://slate.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Schumer on McConnell: 'I got 99 problems but Mitch ain't one' - Business Insider"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vY2h1Y2stc2NodW1lci1tY2Nvbm5lbGwtYmlwYXJ0aXNhbi05OS1wcm9ibGVtcy1taXRjaC1haW50LW9uZS0yMDI0LTLSAWhodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL2NodWNrLXNjaHVtZXItbWNjb25uZWxsLWJpcGFydGlzYW4tOTktcHJvYmxlbXMtbWl0Y2gtYWludC1vbmUtMjAyNC0yP2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vY2h1Y2stc2NodW1lci1tY2Nvbm5lbGwtYmlwYXJ0aXNhbi05OS1wcm9ibGVtcy1taXRjaC1haW50LW9uZS0yMDI0LTLSAWhodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL2NodWNrLXNjaHVtZXItbWNjb25uZWxsLWJpcGFydGlzYW4tOTktcHJvYmxlbXMtbWl0Y2gtYWludC1vbmUtMjAyNC0yP2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 15:24:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vY2h1Y2stc2NodW1lci1tY2Nvbm5lbGwtYmlwYXJ0aXNhbi05OS1wcm9ibGVtcy1taXRjaC1haW50LW9uZS0yMDI0LTLSAWhodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL2NodWNrLXNjaHVtZXItbWNjb25uZWxsLWJpcGFydGlzYW4tOTktcHJvYmxlbXMtbWl0Y2gtYWludC1vbmUtMjAyNC0yP2FtcA?oc=5\" target=\"_blank\">Schumer on McConnell: 'I got 99 problems but Mitch ain't one'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Insider",
+                "$": {
+                  "url": "https://www.businessinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell bedeviled as Trump, GOP move goalposts on border - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0MzI2MzUtbWNjb25uZWxsLWJlZGV2aWxlZC1hcy10cnVtcC1nb3AtbW92ZS1nb2FscG9zdHMtb24tYm9yZGVyL9IBamh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0MzI2MzUtbWNjb25uZWxsLWJlZGV2aWxlZC1hcy10cnVtcC1nb3AtbW92ZS1nb2FscG9zdHMtb24tYm9yZGVyL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0MzI2MzUtbWNjb25uZWxsLWJlZGV2aWxlZC1hcy10cnVtcC1nb3AtbW92ZS1nb2FscG9zdHMtb24tYm9yZGVyL9IBamh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0MzI2MzUtbWNjb25uZWxsLWJlZGV2aWxlZC1hcy10cnVtcC1nb3AtbW92ZS1nb2FscG9zdHMtb24tYm9yZGVyL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0MzI2MzUtbWNjb25uZWxsLWJlZGV2aWxlZC1hcy10cnVtcC1nb3AtbW92ZS1nb2FscG9zdHMtb24tYm9yZGVyL9IBamh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0MzI2MzUtbWNjb25uZWxsLWJlZGV2aWxlZC1hcy10cnVtcC1nb3AtbW92ZS1nb2FscG9zdHMtb24tYm9yZGVyL2FtcC8?oc=5\" target=\"_blank\">McConnell bedeviled as Trump, GOP move goalposts on border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate Republican Agenda | February 6, 2024 - C-SPAN "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzQwNS0xL3NlbmF0ZS1yZXB1YmxpY2FuLWFnZW5kYdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzQwNS0xL3NlbmF0ZS1yZXB1YmxpY2FuLWFnZW5kYdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:51:37 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzQwNS0xL3NlbmF0ZS1yZXB1YmxpY2FuLWFnZW5kYdIBAA?oc=5\" target=\"_blank\">Senate Republican Agenda | February 6, 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C-SPAN </font>"
+            ],
+            "source": [
+              {
+                "_": "C-SPAN ",
+                "$": {
+                  "url": "https://www.c-span.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell Says There’s ‘No Real Chance’ Of Passing Border Bill - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYW50b25pb3BlcXVlbm9pdi8yMDI0LzAyLzA2L21jY29ubmVsbC1zYXlzLXRoZXJlcy1uby1yZWFsLWNoYW5jZS1vZi1wYXNzaW5nLWJvcmRlci1iaWxsL9IBeWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYW50b25pb3BlcXVlbm9pdi8yMDI0LzAyLzA2L21jY29ubmVsbC1zYXlzLXRoZXJlcy1uby1yZWFsLWNoYW5jZS1vZi1wYXNzaW5nLWJvcmRlci1iaWxsL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYW50b25pb3BlcXVlbm9pdi8yMDI0LzAyLzA2L21jY29ubmVsbC1zYXlzLXRoZXJlcy1uby1yZWFsLWNoYW5jZS1vZi1wYXNzaW5nLWJvcmRlci1iaWxsL9IBeWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYW50b25pb3BlcXVlbm9pdi8yMDI0LzAyLzA2L21jY29ubmVsbC1zYXlzLXRoZXJlcy1uby1yZWFsLWNoYW5jZS1vZi1wYXNzaW5nLWJvcmRlci1iaWxsL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:13:04 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYW50b25pb3BlcXVlbm9pdi8yMDI0LzAyLzA2L21jY29ubmVsbC1zYXlzLXRoZXJlcy1uby1yZWFsLWNoYW5jZS1vZi1wYXNzaW5nLWJvcmRlci1iaWxsL9IBeWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYW50b25pb3BlcXVlbm9pdi8yMDI0LzAyLzA2L21jY29ubmVsbC1zYXlzLXRoZXJlcy1uby1yZWFsLWNoYW5jZS1vZi1wYXNzaW5nLWJvcmRlci1iaWxsL2FtcC8?oc=5\" target=\"_blank\">McConnell Says There’s ‘No Real Chance’ Of Passing Border Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell Net Worth: A Closer Look at the Senate Majority Leader’s Finances - AWBI"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXdiaS5vcmcvbWl0Y2gtbWNjb25uZWxsLW5ldC13b3J0aC1hLWNsb3Nlci1sb29rLWF0LXRoZS1zZW5hdGUtbWFqb3JpdHktbGVhZGVycy1maW5hbmNlcy_SAWVodHRwczovL2F3Ymkub3JnL21pdGNoLW1jY29ubmVsbC1uZXQtd29ydGgtYS1jbG9zZXItbG9vay1hdC10aGUtc2VuYXRlLW1ham9yaXR5LWxlYWRlcnMtZmluYW5jZXMvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vYXdiaS5vcmcvbWl0Y2gtbWNjb25uZWxsLW5ldC13b3J0aC1hLWNsb3Nlci1sb29rLWF0LXRoZS1zZW5hdGUtbWFqb3JpdHktbGVhZGVycy1maW5hbmNlcy_SAWVodHRwczovL2F3Ymkub3JnL21pdGNoLW1jY29ubmVsbC1uZXQtd29ydGgtYS1jbG9zZXItbG9vay1hdC10aGUtc2VuYXRlLW1ham9yaXR5LWxlYWRlcnMtZmluYW5jZXMvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 10:03:54 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXdiaS5vcmcvbWl0Y2gtbWNjb25uZWxsLW5ldC13b3J0aC1hLWNsb3Nlci1sb29rLWF0LXRoZS1zZW5hdGUtbWFqb3JpdHktbGVhZGVycy1maW5hbmNlcy_SAWVodHRwczovL2F3Ymkub3JnL21pdGNoLW1jY29ubmVsbC1uZXQtd29ydGgtYS1jbG9zZXItbG9vay1hdC10aGUtc2VuYXRlLW1ham9yaXR5LWxlYWRlcnMtZmluYW5jZXMvYW1wLw?oc=5\" target=\"_blank\">Mitch McConnell Net Worth: A Closer Look at the Senate Majority Leader’s Finances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AWBI</font>"
+            ],
+            "source": [
+              {
+                "_": "AWBI",
+                "$": {
+                  "url": "https://awbi.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell says border bill has 'no real chance' - Olean Times Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5vbGVhbnRpbWVzaGVyYWxkLmNvbS9taXRjaC1tY2Nvbm5lbGwtc2F5cy1ib3JkZXItYmlsbC1oYXMtbm8tcmVhbC1jaGFuY2UvdmlkZW9fNzY1OWM2OGQtZjdiMy01N2IzLWEwYTEtOTQwNjNkOWYyYzc4Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5vbGVhbnRpbWVzaGVyYWxkLmNvbS9taXRjaC1tY2Nvbm5lbGwtc2F5cy1ib3JkZXItYmlsbC1oYXMtbm8tcmVhbC1jaGFuY2UvdmlkZW9fNzY1OWM2OGQtZjdiMy01N2IzLWEwYTEtOTQwNjNkOWYyYzc4Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:06:52 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5vbGVhbnRpbWVzaGVyYWxkLmNvbS9taXRjaC1tY2Nvbm5lbGwtc2F5cy1ib3JkZXItYmlsbC1oYXMtbm8tcmVhbC1jaGFuY2UvdmlkZW9fNzY1OWM2OGQtZjdiMy01N2IzLWEwYTEtOTQwNjNkOWYyYzc4Lmh0bWzSAQA?oc=5\" target=\"_blank\">Mitch McConnell says border bill has 'no real chance'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Olean Times Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "Olean Times Herald",
+                "$": {
+                  "url": "https://www.oleantimesherald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'No real chance': McConnell says Senate border deal is going nowhere - ABC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvc2VuYXRlcy1ib3JkZXItZGVhbC1pbmNyZWFzaW5nbHktdGhpbi1pY2UtYWhlYWQtdGVzdC9zdG9yeT9pZD0xMDY5ODYyOTXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvc2VuYXRlcy1ib3JkZXItZGVhbC1pbmNyZWFzaW5nbHktdGhpbi1pY2UtYWhlYWQtdGVzdC9zdG9yeT9pZD0xMDY5ODYyOTXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:37:30 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvc2VuYXRlcy1ib3JkZXItZGVhbC1pbmNyZWFzaW5nbHktdGhpbi1pY2UtYWhlYWQtdGVzdC9zdG9yeT9pZD0xMDY5ODYyOTXSAQA?oc=5\" target=\"_blank\">'No real chance': McConnell says Senate border deal is going nowhere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC News",
+                "$": {
+                  "url": "https://abcnews.go.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell Is on a Collision Course With Trump - The New Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3cmVwdWJsaWMuY29tL2FydGljbGUvMTc4NzY5L21pdGNoLW1jY29ubmVsbC1ib3JkZXItdWtyYWluZS10cnVtcNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vbmV3cmVwdWJsaWMuY29tL2FydGljbGUvMTc4NzY5L21pdGNoLW1jY29ubmVsbC1ib3JkZXItdWtyYWluZS10cnVtcNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 11:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3cmVwdWJsaWMuY29tL2FydGljbGUvMTc4NzY5L21pdGNoLW1jY29ubmVsbC1ib3JkZXItdWtyYWluZS10cnVtcNIBAA?oc=5\" target=\"_blank\">Mitch McConnell Is on a Collision Course With Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The New Republic",
+                "$": {
+                  "url": "https://newrepublic.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell says border bill has 'no real chance' - Iosco County News Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lmlvc2NvbmV3cy5jb20vdmlkZW9fMjI5NjI5NWMtMWZiMC01ODg1LWJlZGEtZjhhNzM3NDMzZThiLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3Lmlvc2NvbmV3cy5jb20vdmlkZW9fMjI5NjI5NWMtMWZiMC01ODg1LWJlZGEtZjhhNzM3NDMzZThiLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:06:52 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lmlvc2NvbmV3cy5jb20vdmlkZW9fMjI5NjI5NWMtMWZiMC01ODg1LWJlZGEtZjhhNzM3NDMzZThiLmh0bWzSAQA?oc=5\" target=\"_blank\">Mitch McConnell says border bill has 'no real chance'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Iosco County News Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "Iosco County News Herald",
+                "$": {
+                  "url": "https://www.iosconews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Donald Trump makes doubtful claims about Middle East, Nikki Haley and Mitch McConnell - Daijiworld.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmRhaWppd29ybGQuY29tL2luZGV4LnBocC9uZXdzL25ld3NEaXNwbGF5P25ld3NJRD0xMTY0ODY30gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3LmRhaWppd29ybGQuY29tL2luZGV4LnBocC9uZXdzL25ld3NEaXNwbGF5P25ld3NJRD0xMTY0ODY30gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 08:08:22 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmRhaWppd29ybGQuY29tL2luZGV4LnBocC9uZXdzL25ld3NEaXNwbGF5P25ld3NJRD0xMTY0ODY30gEA?oc=5\" target=\"_blank\">Donald Trump makes doubtful claims about Middle East, Nikki Haley and Mitch McConnell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daijiworld.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Daijiworld.com",
+                "$": {
+                  "url": "https://www.daijiworld.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell declares border bill has 'no real chance' - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vYXBuZXdzLmNvbS92aWRlby9ib3JkZXItc2VjdXJpdHktdW5pdGVkLXN0YXRlcy1zZW5hdGUtdWtyYWluZS1ldXJvcGUtZG9uYWxkLXRydW1wLTVmNmRmOTA1NGY1ODQ4MTY5MjcwMWEwMGRmYTVkMTY20gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vYXBuZXdzLmNvbS92aWRlby9ib3JkZXItc2VjdXJpdHktdW5pdGVkLXN0YXRlcy1zZW5hdGUtdWtyYWluZS1ldXJvcGUtZG9uYWxkLXRydW1wLTVmNmRmOTA1NGY1ODQ4MTY5MjcwMWEwMGRmYTVkMTY20gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:08:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vYXBuZXdzLmNvbS92aWRlby9ib3JkZXItc2VjdXJpdHktdW5pdGVkLXN0YXRlcy1zZW5hdGUtdWtyYWluZS1ldXJvcGUtZG9uYWxkLXRydW1wLTVmNmRmOTA1NGY1ODQ4MTY5MjcwMWEwMGRmYTVkMTY20gEA?oc=5\" target=\"_blank\">McConnell declares border bill has 'no real chance'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate border deal appears headed for failure as GOP opposition grows - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvaW1taWdyYXRpb24tYm9yZGVyLXNlY3VyaXR5LWJpbGwtc2VuYXRlLXZvdGUtcmVwdWJsaWNhbnMv0gFaaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvaW1taWdyYXRpb24tYm9yZGVyLXNlY3VyaXR5LWJpbGwtc2VuYXRlLXZvdGUtcmVwdWJsaWNhbnMv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvaW1taWdyYXRpb24tYm9yZGVyLXNlY3VyaXR5LWJpbGwtc2VuYXRlLXZvdGUtcmVwdWJsaWNhbnMv0gFaaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvaW1taWdyYXRpb24tYm9yZGVyLXNlY3VyaXR5LWJpbGwtc2VuYXRlLXZvdGUtcmVwdWJsaWNhbnMv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:28:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvaW1taWdyYXRpb24tYm9yZGVyLXNlY3VyaXR5LWJpbGwtc2VuYXRlLXZvdGUtcmVwdWJsaWNhbnMv0gFaaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvaW1taWdyYXRpb24tYm9yZGVyLXNlY3VyaXR5LWJpbGwtc2VuYXRlLXZvdGUtcmVwdWJsaWNhbnMv?oc=5\" target=\"_blank\">Senate border deal appears headed for failure as GOP opposition grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell: Most members feel we won't be able to make a law here - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDYzNjE4MjAxMTLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDYzNjE4MjAxMTLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 19:43:37 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDYzNjE4MjAxMTLSAQA?oc=5\" target=\"_blank\">Mitch McConnell: Most members feel we won't be able to make a law here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell staked his legacy on a border-Ukraine deal. He may be unable to save it from the GOP. - Business Insider"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbWNjb25uZWxsLXRydW1wLWltbWlncmF0aW9uLXVrcmFpbmUtZGVhbC1taWtlLWpvaG5zb24tY29uZ3Jlc3MtcmVwdWJsaWNhbnMtMtIBcGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbWNjb25uZWxsLXRydW1wLWltbWlncmF0aW9uLXVrcmFpbmUtZGVhbC1taWtlLWpvaG5zb24tY29uZ3Jlc3MtcmVwdWJsaWNhbnMtMj9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbWNjb25uZWxsLXRydW1wLWltbWlncmF0aW9uLXVrcmFpbmUtZGVhbC1taWtlLWpvaG5zb24tY29uZ3Jlc3MtcmVwdWJsaWNhbnMtMtIBcGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbWNjb25uZWxsLXRydW1wLWltbWlncmF0aW9uLXVrcmFpbmUtZGVhbC1taWtlLWpvaG5zb24tY29uZ3Jlc3MtcmVwdWJsaWNhbnMtMj9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 21:09:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbWNjb25uZWxsLXRydW1wLWltbWlncmF0aW9uLXVrcmFpbmUtZGVhbC1taWtlLWpvaG5zb24tY29uZ3Jlc3MtcmVwdWJsaWNhbnMtMtIBcGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbWNjb25uZWxsLXRydW1wLWltbWlncmF0aW9uLXVrcmFpbmUtZGVhbC1taWtlLWpvaG5zb24tY29uZ3Jlc3MtcmVwdWJsaWNhbnMtMj9hbXA?oc=5\" target=\"_blank\">McConnell staked his legacy on a border-Ukraine deal. He may be unable to save it from the GOP.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Insider",
+                "$": {
+                  "url": "https://www.businessinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rick Scott pillories Mitch McConnell after collapse of border deal - Florida Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NTc2NjAtcmljay1zY290dC1waWxsb3JpZXMtbWl0Y2gtbWNjb25uZWxsLWFmdGVyLWNvbGxhcHNlLW9mLWJvcmRlci1kZWFsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NTc2NjAtcmljay1zY290dC1waWxsb3JpZXMtbWl0Y2gtbWNjb25uZWxsLWFmdGVyLWNvbGxhcHNlLW9mLWJvcmRlci1kZWFsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 03:29:37 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82NTc2NjAtcmljay1zY290dC1waWxsb3JpZXMtbWl0Y2gtbWNjb25uZWxsLWFmdGVyLWNvbGxhcHNlLW9mLWJvcmRlci1kZWFsL9IBAA?oc=5\" target=\"_blank\">Rick Scott pillories Mitch McConnell after collapse of border deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "Florida Politics",
+                "$": {
+                  "url": "https://floridapolitics.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell says border bill has 'no real chance' - Mississippi Valley Publishing"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5taXNzaXNzaXBwaXZhbGxleXB1Ymxpc2hpbmcuY29tL21pdGNoLW1jY29ubmVsbC1zYXlzLWJvcmRlci1iaWxsLWhhcy1uby1yZWFsLWNoYW5jZS92aWRlb19kMTc2Y2Y1MC1kODgxLTU5MTctOTBhNC03OWUzNWZlNDM0MWYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy5taXNzaXNzaXBwaXZhbGxleXB1Ymxpc2hpbmcuY29tL21pdGNoLW1jY29ubmVsbC1zYXlzLWJvcmRlci1iaWxsLWhhcy1uby1yZWFsLWNoYW5jZS92aWRlb19kMTc2Y2Y1MC1kODgxLTU5MTctOTBhNC03OWUzNWZlNDM0MWYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:06:52 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5taXNzaXNzaXBwaXZhbGxleXB1Ymxpc2hpbmcuY29tL21pdGNoLW1jY29ubmVsbC1zYXlzLWJvcmRlci1iaWxsLWhhcy1uby1yZWFsLWNoYW5jZS92aWRlb19kMTc2Y2Y1MC1kODgxLTU5MTctOTBhNC03OWUzNWZlNDM0MWYuaHRtbNIBAA?oc=5\" target=\"_blank\">Mitch McConnell says border bill has 'no real chance'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mississippi Valley Publishing</font>"
+            ],
+            "source": [
+              {
+                "_": "Mississippi Valley Publishing",
+                "$": {
+                  "url": "https://www.mississippivalleypublishing.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "It Sure Looks Like Mitch McConnell Is About to Become the Next Kevin McCarthy - The New Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbmV3cmVwdWJsaWMuY29tL3Bvc3QvMTc4Nzk5L21pdGNoLW1jY29ubmVsbC1uZXh0LWtldmluLW1jY2FydGh5LXNlbmF0ZS1yZXB1YmxpY2Fucy1ib3JkZXItZGVhbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vbmV3cmVwdWJsaWMuY29tL3Bvc3QvMTc4Nzk5L21pdGNoLW1jY29ubmVsbC1uZXh0LWtldmluLW1jY2FydGh5LXNlbmF0ZS1yZXB1YmxpY2Fucy1ib3JkZXItZGVhbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 22:00:57 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbmV3cmVwdWJsaWMuY29tL3Bvc3QvMTc4Nzk5L21pdGNoLW1jY29ubmVsbC1uZXh0LWtldmluLW1jY2FydGh5LXNlbmF0ZS1yZXB1YmxpY2Fucy1ib3JkZXItZGVhbNIBAA?oc=5\" target=\"_blank\">It Sure Looks Like Mitch McConnell Is About to Become the Next Kevin McCarthy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The New Republic",
+                "$": {
+                  "url": "https://newrepublic.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate border bill careens toward defeat as McConnell tries to soothe GOP outrage - Washington Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2ZlYi82L3NlbmF0ZS1ib3JkZXItYmlsbC1jYXJlZW5zLXRvd2FyZC1kZWZlYXQtYXMtbWl0Y2gtL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2ZlYi82L3NlbmF0ZS1ib3JkZXItYmlsbC1jYXJlZW5zLXRvd2FyZC1kZWZlYXQtYXMtbWl0Y2gtL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:47:24 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2ZlYi82L3NlbmF0ZS1ib3JkZXItYmlsbC1jYXJlZW5zLXRvd2FyZC1kZWZlYXQtYXMtbWl0Y2gtL9IBAA?oc=5\" target=\"_blank\">Senate border bill careens toward defeat as McConnell tries to soothe GOP outrage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Times",
+                "$": {
+                  "url": "https://www.washingtontimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate border deal reignites conservative fury against McConnell, calls for his ouster - Washington Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2ZlYi82L3NlbmF0ZS1ib3JkZXItZGVhbC1yZWlnbml0ZXMtZ29wLWZ1cnktYWdhaW5zdC1taXRjL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2ZlYi82L3NlbmF0ZS1ib3JkZXItZGVhbC1yZWlnbml0ZXMtZ29wLWZ1cnktYWdhaW5zdC1taXRjL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:43:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2ZlYi82L3NlbmF0ZS1ib3JkZXItZGVhbC1yZWlnbml0ZXMtZ29wLWZ1cnktYWdhaW5zdC1taXRjL9IBAA?oc=5\" target=\"_blank\">Senate border deal reignites conservative fury against McConnell, calls for his ouster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Times",
+                "$": {
+                  "url": "https://www.washingtontimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bipartisan border deal falls apart as Mitch McConnell pushes back on blame - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDYzNzE1ODYxMTLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDYzNzE1ODYxMTLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:31:44 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDYzNzE1ODYxMTLSAQA?oc=5\" target=\"_blank\">Bipartisan border deal falls apart as Mitch McConnell pushes back on blame</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate Minority Leader Mitch McConnell says it appears the bipartisan border bill has “no real chance” of becoming law. - Yahoo News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vc2VuYXRlLW1pbm9yaXR5LWxlYWRlci1taXRjaC1tY2Nvbm5lbGwtMTU1OTMzMjIyLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vc2VuYXRlLW1pbm9yaXR5LWxlYWRlci1taXRjaC1tY2Nvbm5lbGwtMTU1OTMzMjIyLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 15:59:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vc2VuYXRlLW1pbm9yaXR5LWxlYWRlci1taXRjaC1tY2Nvbm5lbGwtMTU1OTMzMjIyLmh0bWzSAQA?oc=5\" target=\"_blank\">Senate Minority Leader Mitch McConnell says it appears the bipartisan border bill has “no real chance” of becoming law.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News",
+                "$": {
+                  "url": "https://news.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell surrenders to Maga – and leaves allies behind - The Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3ZvaWNlcy9taXRjaC1tY2Nvbm5lbGwtdWtyYWluZS1ib3JkZXItYmlsbC1iMjQ5MTY0NC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3ZvaWNlcy9taXRjaC1tY2Nvbm5lbGwtdWtyYWluZS1ib3JkZXItYmlsbC1iMjQ5MTY0NC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:22:17 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3ZvaWNlcy9taXRjaC1tY2Nvbm5lbGwtdWtyYWluZS1ib3JkZXItYmlsbC1iMjQ5MTY0NC5odG1s0gEA?oc=5\" target=\"_blank\">McConnell surrenders to Maga – and leaves allies behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "The Independent",
+                "$": {
+                  "url": "https://www.independent.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP delivers death blow to bipartisan border bill - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NTE5NDgtZ29wLWRlbGl2ZXJzLWRlYXRoLWJsb3ctdG8tYmlwYXJ0aXNhbi1ib3JkZXItYmlsbC_SAWJodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3NlbmF0ZS80NDUxOTQ4LWdvcC1kZWxpdmVycy1kZWF0aC1ibG93LXRvLWJpcGFydGlzYW4tYm9yZGVyLWJpbGwvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NTE5NDgtZ29wLWRlbGl2ZXJzLWRlYXRoLWJsb3ctdG8tYmlwYXJ0aXNhbi1ib3JkZXItYmlsbC_SAWJodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3NlbmF0ZS80NDUxOTQ4LWdvcC1kZWxpdmVycy1kZWF0aC1ibG93LXRvLWJpcGFydGlzYW4tYm9yZGVyLWJpbGwvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 22:59:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NTE5NDgtZ29wLWRlbGl2ZXJzLWRlYXRoLWJsb3ctdG8tYmlwYXJ0aXNhbi1ib3JkZXItYmlsbC_SAWJodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3NlbmF0ZS80NDUxOTQ4LWdvcC1kZWxpdmVycy1kZWF0aC1ibG93LXRvLWJpcGFydGlzYW4tYm9yZGVyLWJpbGwvYW1wLw?oc=5\" target=\"_blank\">GOP delivers death blow to bipartisan border bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell reverses course and joins Trump wing in blocking path for border bill - MarketWatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vc3RvcnkvbWNjb25uZWxsLXJldmVyc2VzLWNvdXJzZS1hcy1zZW5hdGUtcmVwdWJsaWNhbnMtcmVzaXN0LWFkdmFuY2luZy1vbi1ib3JkZXItcG9saWN5LWJpbGwtNDFlOWVhYTPSAYUBaHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL2FtcC9zdG9yeS9tY2Nvbm5lbGwtcmV2ZXJzZXMtY291cnNlLWFzLXNlbmF0ZS1yZXB1YmxpY2Fucy1yZXNpc3QtYWR2YW5jaW5nLW9uLWJvcmRlci1wb2xpY3ktYmlsbC00MWU5ZWFhMw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vc3RvcnkvbWNjb25uZWxsLXJldmVyc2VzLWNvdXJzZS1hcy1zZW5hdGUtcmVwdWJsaWNhbnMtcmVzaXN0LWFkdmFuY2luZy1vbi1ib3JkZXItcG9saWN5LWJpbGwtNDFlOWVhYTPSAYUBaHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL2FtcC9zdG9yeS9tY2Nvbm5lbGwtcmV2ZXJzZXMtY291cnNlLWFzLXNlbmF0ZS1yZXB1YmxpY2Fucy1yZXNpc3QtYWR2YW5jaW5nLW9uLWJvcmRlci1wb2xpY3ktYmlsbC00MWU5ZWFhMw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 01:56:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vc3RvcnkvbWNjb25uZWxsLXJldmVyc2VzLWNvdXJzZS1hcy1zZW5hdGUtcmVwdWJsaWNhbnMtcmVzaXN0LWFkdmFuY2luZy1vbi1ib3JkZXItcG9saWN5LWJpbGwtNDFlOWVhYTPSAYUBaHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL2FtcC9zdG9yeS9tY2Nvbm5lbGwtcmV2ZXJzZXMtY291cnNlLWFzLXNlbmF0ZS1yZXB1YmxpY2Fucy1yZXNpc3QtYWR2YW5jaW5nLW9uLWJvcmRlci1wb2xpY3ktYmlsbC00MWU5ZWFhMw?oc=5\" target=\"_blank\">McConnell reverses course and joins Trump wing in blocking path for border bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>"
+            ],
+            "source": [
+              {
+                "_": "MarketWatch",
+                "$": {
+                  "url": "https://www.marketwatch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate's border deal teeters on brink of collapse - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMi8wNS9jb25ncmVzcy9kZWFsLW5lYXJzLWNvbGxhcHNlLTAwMTM5Nzc50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMi8wNS9jb25ncmVzcy9kZWFsLW5lYXJzLWNvbGxhcHNlLTAwMTM5Nzc50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 01:47:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMi8wNS9jb25ncmVzcy9kZWFsLW5lYXJzLWNvbGxhcHNlLTAwMTM5Nzc50gEA?oc=5\" target=\"_blank\">Senate's border deal teeters on brink of collapse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell admits bipartisan Senate border bill has 'no real chance' at passing - New York Post "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzAyLzA2L25ld3MvbWNjb25uZWxsLWFkbWl0cy1zZW5hdGUtYm9yZGVyLWJpbGwtaGFzLW5vLXJlYWwtY2hhbmNlLWF0LXBhc3Npbmcv0gFpaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDIvMDYvbmV3cy9tY2Nvbm5lbGwtYWRtaXRzLXNlbmF0ZS1ib3JkZXItYmlsbC1oYXMtbm8tcmVhbC1jaGFuY2UtYXQtcGFzc2luZy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzAyLzA2L25ld3MvbWNjb25uZWxsLWFkbWl0cy1zZW5hdGUtYm9yZGVyLWJpbGwtaGFzLW5vLXJlYWwtY2hhbmNlLWF0LXBhc3Npbmcv0gFpaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDIvMDYvbmV3cy9tY2Nvbm5lbGwtYWRtaXRzLXNlbmF0ZS1ib3JkZXItYmlsbC1oYXMtbm8tcmVhbC1jaGFuY2UtYXQtcGFzc2luZy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:01:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzAyLzA2L25ld3MvbWNjb25uZWxsLWFkbWl0cy1zZW5hdGUtYm9yZGVyLWJpbGwtaGFzLW5vLXJlYWwtY2hhbmNlLWF0LXBhc3Npbmcv0gFpaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDIvMDYvbmV3cy9tY2Nvbm5lbGwtYWRtaXRzLXNlbmF0ZS1ib3JkZXItYmlsbC1oYXMtbm8tcmVhbC1jaGFuY2UtYXQtcGFzc2luZy9hbXAv?oc=5\" target=\"_blank\">Mitch McConnell admits bipartisan Senate border bill has 'no real chance' at passing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post </font>"
+            ],
+            "source": [
+              {
+                "_": "New York Post ",
+                "$": {
+                  "url": "https://nypost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell falters on immigration bill - The Week"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vdGhld2Vlay5jb20vcG9saXRpY3MvbWl0Y2gtbWNjb25uZWxsLXBvd2VyLWdvcC10cnVtcC1ib3JkZXItZGVhbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vdGhld2Vlay5jb20vcG9saXRpY3MvbWl0Y2gtbWNjb25uZWxsLXBvd2VyLWdvcC10cnVtcC1ib3JkZXItZGVhbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:22:39 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vdGhld2Vlay5jb20vcG9saXRpY3MvbWl0Y2gtbWNjb25uZWxsLXBvd2VyLWdvcC10cnVtcC1ib3JkZXItZGVhbNIBAA?oc=5\" target=\"_blank\">Mitch McConnell falters on immigration bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Week</font>"
+            ],
+            "source": [
+              {
+                "_": "The Week",
+                "$": {
+                  "url": "https://theweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell faces career-defining test in Trump battle over Ukraine, border - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NDU1MjItbWNjb25uZWxsLWZhY2VzLWNhcmVlci1kZWZpbmluZy10ZXN0LWluLXRydW1wLWJhdHRsZS1vdmVyLXVrcmFpbmUtYm9yZGVyL9IBeWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NDU1MjItbWNjb25uZWxsLWZhY2VzLWNhcmVlci1kZWZpbmluZy10ZXN0LWluLXRydW1wLWJhdHRsZS1vdmVyLXVrcmFpbmUtYm9yZGVyL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NDU1MjItbWNjb25uZWxsLWZhY2VzLWNhcmVlci1kZWZpbmluZy10ZXN0LWluLXRydW1wLWJhdHRsZS1vdmVyLXVrcmFpbmUtYm9yZGVyL9IBeWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NDU1MjItbWNjb25uZWxsLWZhY2VzLWNhcmVlci1kZWZpbmluZy10ZXN0LWluLXRydW1wLWJhdHRsZS1vdmVyLXVrcmFpbmUtYm9yZGVyL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 11:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NDU1MjItbWNjb25uZWxsLWZhY2VzLWNhcmVlci1kZWZpbmluZy10ZXN0LWluLXRydW1wLWJhdHRsZS1vdmVyLXVrcmFpbmUtYm9yZGVyL9IBeWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NDU1MjItbWNjb25uZWxsLWZhY2VzLWNhcmVlci1kZWZpbmluZy10ZXN0LWluLXRydW1wLWJhdHRsZS1vdmVyLXVrcmFpbmUtYm9yZGVyL2FtcC8?oc=5\" target=\"_blank\">McConnell faces career-defining test in Trump battle over Ukraine, border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate Republicans resist advancing border policy bill following criticism - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NvbmdyZXNzLWJvcmRlci1zZWN1cml0eS11a3JhaW5lLWEzOWUxODhmYTJjNmE1NjMyMDNkMmM2OWVhYWJkYzZk0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NvbmdyZXNzLWJvcmRlci1zZWN1cml0eS11a3JhaW5lLWEzOWUxODhmYTJjNmE1NjMyMDNkMmM2OWVhYWJkYzZk0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 04:40:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NvbmdyZXNzLWJvcmRlci1zZWN1cml0eS11a3JhaW5lLWEzOWUxODhmYTJjNmE1NjMyMDNkMmM2OWVhYWJkYzZk0gEA?oc=5\" target=\"_blank\">Senate Republicans resist advancing border policy bill following criticism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Press Release | Press Releases | THE NEWSROOM - Remark | Remarks | THE NEWSROOM | Republican Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJlcHVibGljYW5sZWFkZXIuc2VuYXRlLmdvdi9uZXdzcm9vbS9wcmVzcy1yZWxlYXNlcy9tY2Nvbm5lbGwtc3RhdGVtZW50LW9uLWJvcmRlci1zZWN1cml0eS1hZ3JlZW1lbnTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LnJlcHVibGljYW5sZWFkZXIuc2VuYXRlLmdvdi9uZXdzcm9vbS9wcmVzcy1yZWxlYXNlcy9tY2Nvbm5lbGwtc3RhdGVtZW50LW9uLWJvcmRlci1zZWN1cml0eS1hZ3JlZW1lbnTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 01:54:41 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJlcHVibGljYW5sZWFkZXIuc2VuYXRlLmdvdi9uZXdzcm9vbS9wcmVzcy1yZWxlYXNlcy9tY2Nvbm5lbGwtc3RhdGVtZW50LW9uLWJvcmRlci1zZWN1cml0eS1hZ3JlZW1lbnTSAQA?oc=5\" target=\"_blank\">Press Release | Press Releases | THE NEWSROOM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Remark | Remarks | THE NEWSROOM | Republican Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Remark | Remarks | THE NEWSROOM | Republican Leader",
+                "$": {
+                  "url": "https://www.republicanleader.senate.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The GOP Owns the Border Now. Here's How Democrats Make Sure of It. - The New Republic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbmV3cmVwdWJsaWMuY29tL2FydGljbGUvMTc4Nzc1L3JlcHVibGljYW5zLWtpbGwtYm9yZGVyLWRlYWwtb3duLWNyaXNpc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vbmV3cmVwdWJsaWMuY29tL2FydGljbGUvMTc4Nzc1L3JlcHVibGljYW5zLWtpbGwtYm9yZGVyLWRlYWwtb3duLWNyaXNpc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:28:28 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbmV3cmVwdWJsaWMuY29tL2FydGljbGUvMTc4Nzc1L3JlcHVibGljYW5zLWtpbGwtYm9yZGVyLWRlYWwtb3duLWNyaXNpc9IBAA?oc=5\" target=\"_blank\">The GOP Owns the Border Now. Here's How Democrats Make Sure of It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Republic</font>"
+            ],
+            "source": [
+              {
+                "_": "The New Republic",
+                "$": {
+                  "url": "https://newrepublic.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate Republicans resist advancing on border policy bill, leaving aid for Ukraine in doubt - Firstpost"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5maXJzdHBvc3QuY29tL3dvcmxkL3NlbmF0ZS1yZXB1YmxpY2Fucy1yZXNpc3QtYWR2YW5jaW5nLW9uLWJvcmRlci1wb2xpY3ktYmlsbC1sZWF2aW5nLWFpZC1mb3ItdWtyYWluZS1pbi1kb3VidC0xMzY5MzI0Mi5odG1s0gGMAWh0dHBzOi8vd3d3LmZpcnN0cG9zdC5jb20vd29ybGQvc2VuYXRlLXJlcHVibGljYW5zLXJlc2lzdC1hZHZhbmNpbmctb24tYm9yZGVyLXBvbGljeS1iaWxsLWxlYXZpbmctYWlkLWZvci11a3JhaW5lLWluLWRvdWJ0LTEzNjkzMjQyLmh0bWwvYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL3d3dy5maXJzdHBvc3QuY29tL3dvcmxkL3NlbmF0ZS1yZXB1YmxpY2Fucy1yZXNpc3QtYWR2YW5jaW5nLW9uLWJvcmRlci1wb2xpY3ktYmlsbC1sZWF2aW5nLWFpZC1mb3ItdWtyYWluZS1pbi1kb3VidC0xMzY5MzI0Mi5odG1s0gGMAWh0dHBzOi8vd3d3LmZpcnN0cG9zdC5jb20vd29ybGQvc2VuYXRlLXJlcHVibGljYW5zLXJlc2lzdC1hZHZhbmNpbmctb24tYm9yZGVyLXBvbGljeS1iaWxsLWxlYXZpbmctYWlkLWZvci11a3JhaW5lLWluLWRvdWJ0LTEzNjkzMjQyLmh0bWwvYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 03:17:57 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5maXJzdHBvc3QuY29tL3dvcmxkL3NlbmF0ZS1yZXB1YmxpY2Fucy1yZXNpc3QtYWR2YW5jaW5nLW9uLWJvcmRlci1wb2xpY3ktYmlsbC1sZWF2aW5nLWFpZC1mb3ItdWtyYWluZS1pbi1kb3VidC0xMzY5MzI0Mi5odG1s0gGMAWh0dHBzOi8vd3d3LmZpcnN0cG9zdC5jb20vd29ybGQvc2VuYXRlLXJlcHVibGljYW5zLXJlc2lzdC1hZHZhbmNpbmctb24tYm9yZGVyLXBvbGljeS1iaWxsLWxlYXZpbmctYWlkLWZvci11a3JhaW5lLWluLWRvdWJ0LTEzNjkzMjQyLmh0bWwvYW1w?oc=5\" target=\"_blank\">Senate Republicans resist advancing on border policy bill, leaving aid for Ukraine in doubt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firstpost</font>"
+            ],
+            "source": [
+              {
+                "_": "Firstpost",
+                "$": {
+                  "url": "https://www.firstpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate Republican Agenda | January 31, 2024 - C-SPAN "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzMwOS0xL3NlbmF0ZS1yZXB1YmxpY2FuLWFnZW5kYdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzMwOS0xL3NlbmF0ZS1yZXB1YmxpY2FuLWFnZW5kYdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 19:26:17 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzMwOS0xL3NlbmF0ZS1yZXB1YmxpY2FuLWFnZW5kYdIBAA?oc=5\" target=\"_blank\">Senate Republican Agenda | January 31, 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C-SPAN </font>"
+            ],
+            "source": [
+              {
+                "_": "C-SPAN ",
+                "$": {
+                  "url": "https://www.c-span.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Congress implodes as Senate border bill, Mayorkas impeachment collapse - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAyLzA3L3NlbmF0ZS1ib3JkZXItZGVhbC1tYXlvcmthcy1pbXBlYWNobWVudNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAyLzA3L3NlbmF0ZS1ib3JkZXItZGVhbC1tYXlvcmthcy1pbXBlYWNobWVudNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 01:05:59 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAyLzA3L3NlbmF0ZS1ib3JkZXItZGVhbC1tYXlvcmthcy1pbXBlYWNobWVudNIBAA?oc=5\" target=\"_blank\">Congress implodes as Senate border bill, Mayorkas impeachment collapse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell: Net worth, salary, and all you need to know about longest running Republican senator in U - The Economic Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitAFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL21pdGNoLW1jY29ubmVsbC1uZXQtd29ydGgtc2FsYXJ5LWFuZC1hbGwteW91LW5lZWQtdG8ta25vdy1hYm91dC1sb25nZXN0LXJ1bm5pbmctcmVwdWJsaWNhbi1zZW5hdG9yLWluLXVzL2FydGljbGVzaG93LzEwMjI1Mzc3OS5jbXPSAbgBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvaW50ZXJuYXRpb25hbC91cy9taXRjaC1tY2Nvbm5lbGwtbmV0LXdvcnRoLXNhbGFyeS1hbmQtYWxsLXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtbG9uZ2VzdC1ydW5uaW5nLXJlcHVibGljYW4tc2VuYXRvci1pbi11cy9hbXBfYXJ0aWNsZXNob3cvMTAyMjUzNzc5LmNtcw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitAFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL21pdGNoLW1jY29ubmVsbC1uZXQtd29ydGgtc2FsYXJ5LWFuZC1hbGwteW91LW5lZWQtdG8ta25vdy1hYm91dC1sb25nZXN0LXJ1bm5pbmctcmVwdWJsaWNhbi1zZW5hdG9yLWluLXVzL2FydGljbGVzaG93LzEwMjI1Mzc3OS5jbXPSAbgBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvaW50ZXJuYXRpb25hbC91cy9taXRjaC1tY2Nvbm5lbGwtbmV0LXdvcnRoLXNhbGFyeS1hbmQtYWxsLXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtbG9uZ2VzdC1ydW5uaW5nLXJlcHVibGljYW4tc2VuYXRvci1pbi11cy9hbXBfYXJ0aWNsZXNob3cvMTAyMjUzNzc5LmNtcw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 30 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitAFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL21pdGNoLW1jY29ubmVsbC1uZXQtd29ydGgtc2FsYXJ5LWFuZC1hbGwteW91LW5lZWQtdG8ta25vdy1hYm91dC1sb25nZXN0LXJ1bm5pbmctcmVwdWJsaWNhbi1zZW5hdG9yLWluLXVzL2FydGljbGVzaG93LzEwMjI1Mzc3OS5jbXPSAbgBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvaW50ZXJuYXRpb25hbC91cy9taXRjaC1tY2Nvbm5lbGwtbmV0LXdvcnRoLXNhbGFyeS1hbmQtYWxsLXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtbG9uZ2VzdC1ydW5uaW5nLXJlcHVibGljYW4tc2VuYXRvci1pbi11cy9hbXBfYXJ0aWNsZXNob3cvMTAyMjUzNzc5LmNtcw?oc=5\" target=\"_blank\">Mitch McConnell: Net worth, salary, and all you need to know about longest running Republican senator in U</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Economic Times",
+                "$": {
+                  "url": "https://m.economictimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell Kneels to Donald Trump Over Border - Newsweek"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9taXRjaC1tY2Nvbm5lbGwtYm9yZGVyLWJpbGwtdHJ1bXAtc2VuYXRlLXZvdGUtMTg2NzE2NtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9taXRjaC1tY2Nvbm5lbGwtYm9yZGVyLWJpbGwtdHJ1bXAtc2VuYXRlLXZvdGUtMTg2NzE2NtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 08:09:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9taXRjaC1tY2Nvbm5lbGwtYm9yZGVyLWJpbGwtdHJ1bXAtc2VuYXRlLXZvdGUtMTg2NzE2NtIBAA?oc=5\" target=\"_blank\">Mitch McConnell Kneels to Donald Trump Over Border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>"
+            ],
+            "source": [
+              {
+                "_": "Newsweek",
+                "$": {
+                  "url": "https://www.newsweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell freezes up in public appearance, second time in a month - Hindustan Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtb2YtdXMtc2VuYXRlLWZyZWV6ZXMtdXAtaW4tcHVibGljLWFwcGVhcmFuY2Utc2Vjb25kLXRpbWUtaW4tYS1tb250aC0xMDE2OTM0MjUzNDMwNDUuaHRtbNIBlgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtb2YtdXMtc2VuYXRlLWZyZWV6ZXMtdXAtaW4tcHVibGljLWFwcGVhcmFuY2Utc2Vjb25kLXRpbWUtaW4tYS1tb250aC0xMDE2OTM0MjUzNDMwNDUtYW1wLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtb2YtdXMtc2VuYXRlLWZyZWV6ZXMtdXAtaW4tcHVibGljLWFwcGVhcmFuY2Utc2Vjb25kLXRpbWUtaW4tYS1tb250aC0xMDE2OTM0MjUzNDMwNDUuaHRtbNIBlgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtb2YtdXMtc2VuYXRlLWZyZWV6ZXMtdXAtaW4tcHVibGljLWFwcGVhcmFuY2Utc2Vjb25kLXRpbWUtaW4tYS1tb250aC0xMDE2OTM0MjUzNDMwNDUtYW1wLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 31 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtb2YtdXMtc2VuYXRlLWZyZWV6ZXMtdXAtaW4tcHVibGljLWFwcGVhcmFuY2Utc2Vjb25kLXRpbWUtaW4tYS1tb250aC0xMDE2OTM0MjUzNDMwNDUuaHRtbNIBlgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtb2YtdXMtc2VuYXRlLWZyZWV6ZXMtdXAtaW4tcHVibGljLWFwcGVhcmFuY2Utc2Vjb25kLXRpbWUtaW4tYS1tb250aC0xMDE2OTM0MjUzNDMwNDUtYW1wLmh0bWw?oc=5\" target=\"_blank\">Mitch McConnell freezes up in public appearance, second time in a month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Hindustan Times",
+                "$": {
+                  "url": "https://www.hindustantimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ted Cruz Calls for McConnell to Resign from Leadership as Backlash to Border Deal Mounts - National Review"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9uZXdzL3RlZC1jcnV6LWNhbGxzLWZvci1tY2Nvbm5lbGwtdG8tcmVzaWduLWZyb20tbGVhZGVyc2hpcC1hcy1iYWNrbGFzaC10by1ib3JkZXItZGVhbC1tb3VudHMv0gGBAWh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9uZXdzL3RlZC1jcnV6LWNhbGxzLWZvci1tY2Nvbm5lbGwtdG8tcmVzaWduLWZyb20tbGVhZGVyc2hpcC1hcy1iYWNrbGFzaC10by1ib3JkZXItZGVhbC1tb3VudHMvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9uZXdzL3RlZC1jcnV6LWNhbGxzLWZvci1tY2Nvbm5lbGwtdG8tcmVzaWduLWZyb20tbGVhZGVyc2hpcC1hcy1iYWNrbGFzaC10by1ib3JkZXItZGVhbC1tb3VudHMv0gGBAWh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9uZXdzL3RlZC1jcnV6LWNhbGxzLWZvci1tY2Nvbm5lbGwtdG8tcmVzaWduLWZyb20tbGVhZGVyc2hpcC1hcy1iYWNrbGFzaC10by1ib3JkZXItZGVhbC1tb3VudHMvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:19:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9uZXdzL3RlZC1jcnV6LWNhbGxzLWZvci1tY2Nvbm5lbGwtdG8tcmVzaWduLWZyb20tbGVhZGVyc2hpcC1hcy1iYWNrbGFzaC10by1ib3JkZXItZGVhbC1tb3VudHMv0gGBAWh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9uZXdzL3RlZC1jcnV6LWNhbGxzLWZvci1tY2Nvbm5lbGwtdG8tcmVzaWduLWZyb20tbGVhZGVyc2hpcC1hcy1iYWNrbGFzaC10by1ib3JkZXItZGVhbC1tb3VudHMvYW1wLw?oc=5\" target=\"_blank\">Ted Cruz Calls for McConnell to Resign from Leadership as Backlash to Border Deal Mounts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Review</font>"
+            ],
+            "source": [
+              {
+                "_": "National Review",
+                "$": {
+                  "url": "https://www.nationalreview.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell admits $118billion border bill is DEAD just two days after a deal was reached: Defeated Republ - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTMwNTI5MTEvbWl0Y2gtbWNjb25uZWxsLWJvcmRlci1iaWxsLWRlYWQtcmVzaWduLmh0bWzSAWJodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzMDUyOTExL2FtcC9taXRjaC1tY2Nvbm5lbGwtYm9yZGVyLWJpbGwtZGVhZC1yZXNpZ24uaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTMwNTI5MTEvbWl0Y2gtbWNjb25uZWxsLWJvcmRlci1iaWxsLWRlYWQtcmVzaWduLmh0bWzSAWJodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzMDUyOTExL2FtcC9taXRjaC1tY2Nvbm5lbGwtYm9yZGVyLWJpbGwtZGVhZC1yZXNpZ24uaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 19:19:14 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTMwNTI5MTEvbWl0Y2gtbWNjb25uZWxsLWJvcmRlci1iaWxsLWRlYWQtcmVzaWduLmh0bWzSAWJodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzMDUyOTExL2FtcC9taXRjaC1tY2Nvbm5lbGwtYm9yZGVyLWJpbGwtZGVhZC1yZXNpZ24uaHRtbA?oc=5\" target=\"_blank\">Mitch McConnell admits $118billion border bill is DEAD just two days after a deal was reached: Defeated Republ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate Republican Leader McConnell Calls for Action on Foreign Aid, Border Security Bill - C-SPAN "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vP2M1MTA1MjQ4L3NlbmF0ZS1yZXB1YmxpY2FuLWxlYWRlci1tY2Nvbm5lbGwtY2FsbHMtYWN0aW9uLWZvcmVpZ24tYWlkLWJvcmRlci1zZWN1cml0eS1iaWxs0gEqaHR0cHM6Ly93d3cuYy1zcGFuLm9yZy9hbXAvdmlkZW8vP2M1MTA1MjQ4?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vP2M1MTA1MjQ4L3NlbmF0ZS1yZXB1YmxpY2FuLWxlYWRlci1tY2Nvbm5lbGwtY2FsbHMtYWN0aW9uLWZvcmVpZ24tYWlkLWJvcmRlci1zZWN1cml0eS1iaWxs0gEqaHR0cHM6Ly93d3cuYy1zcGFuLm9yZy9hbXAvdmlkZW8vP2M1MTA1MjQ4",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 20:29:17 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vP2M1MTA1MjQ4L3NlbmF0ZS1yZXB1YmxpY2FuLWxlYWRlci1tY2Nvbm5lbGwtY2FsbHMtYWN0aW9uLWZvcmVpZ24tYWlkLWJvcmRlci1zZWN1cml0eS1iaWxs0gEqaHR0cHM6Ly93d3cuYy1zcGFuLm9yZy9hbXAvdmlkZW8vP2M1MTA1MjQ4?oc=5\" target=\"_blank\">Senate Republican Leader McConnell Calls for Action on Foreign Aid, Border Security Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C-SPAN </font>"
+            ],
+            "source": [
+              {
+                "_": "C-SPAN ",
+                "$": {
+                  "url": "https://www.c-span.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell and Border Patrol union back embattled Senate border deal - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMi8wNS9jb25ncmVzcy90d28tYmlnLWJhY2tlcnMtYm9yZGVyLW1jY29ubmVsbC0wMDEzOTcwMNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMi8wNS9jb25ncmVzcy90d28tYmlnLWJhY2tlcnMtYm9yZGVyLW1jY29ubmVsbC0wMDEzOTcwMNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 21:16:31 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMi8wNS9jb25ncmVzcy90d28tYmlnLWJhY2tlcnMtYm9yZGVyLW1jY29ubmVsbC0wMDEzOTcwMNIBAA?oc=5\" target=\"_blank\">McConnell and Border Patrol union back embattled Senate border deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Biden blasts Trump as Senate GOP will block border security bill - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjQvMDIvMDYvc2VuYXRlLWdvcC1ib3JkZXItc2VjdXJpdHktaW1taWdyYXRpb24tdHJ1bXAtbWNjb25uZWxsLzcyNDkwNzA3MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjQvMDIvMDYvc2VuYXRlLWdvcC1ib3JkZXItc2VjdXJpdHktaW1taWdyYXRpb24tdHJ1bXAtbWNjb25uZWxsLzcyNDkwNzA3MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:15:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjQvMDIvMDYvc2VuYXRlLWdvcC1ib3JkZXItc2VjdXJpdHktaW1taWdyYXRpb24tdHJ1bXAtbWNjb25uZWxsLzcyNDkwNzA3MDA3L9IBAA?oc=5\" target=\"_blank\">Biden blasts Trump as Senate GOP will block border security bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Who is Mitch McConnell? Why is the Senate Minority Leader in the news? - Jagran Josh"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmphZ3Jhbmpvc2guY29tL2dlbmVyYWwta25vd2xlZGdlL3doby1pcy1taXRjaC1tY2Nvbm5lbGwtMTY5NDAwNjQyOS0x0gFUaHR0cHM6Ly93d3cuamFncmFuam9zaC5jb20vZ2VuZXJhbC1rbm93bGVkZ2UvYW1wL3doby1pcy1taXRjaC1tY2Nvbm5lbGwtMTY5NDAwNjQyOS0x?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LmphZ3Jhbmpvc2guY29tL2dlbmVyYWwta25vd2xlZGdlL3doby1pcy1taXRjaC1tY2Nvbm5lbGwtMTY5NDAwNjQyOS0x0gFUaHR0cHM6Ly93d3cuamFncmFuam9zaC5jb20vZ2VuZXJhbC1rbm93bGVkZ2UvYW1wL3doby1pcy1taXRjaC1tY2Nvbm5lbGwtMTY5NDAwNjQyOS0x",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmphZ3Jhbmpvc2guY29tL2dlbmVyYWwta25vd2xlZGdlL3doby1pcy1taXRjaC1tY2Nvbm5lbGwtMTY5NDAwNjQyOS0x0gFUaHR0cHM6Ly93d3cuamFncmFuam9zaC5jb20vZ2VuZXJhbC1rbm93bGVkZ2UvYW1wL3doby1pcy1taXRjaC1tY2Nvbm5lbGwtMTY5NDAwNjQyOS0x?oc=5\" target=\"_blank\">Who is Mitch McConnell? Why is the Senate Minority Leader in the news?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jagran Josh</font>"
+            ],
+            "source": [
+              {
+                "_": "Jagran Josh",
+                "$": {
+                  "url": "https://www.jagranjosh.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP’s Lee says border bill shows need for new Senate GOP leader - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3NlbmF0ZS80NDQ4NDY5LWdvcHMtbGVlLXNheXMtYm9yZGVyLWJpbGwtc2hvd3MtbmVlZC1mb3ItbmV3LWNvbnNlcnZhdGl2ZS1zZW5hdG9yLWNhbGxzLWZvci1uZXctc2VuYXRlLWdvcC1sZWFkZXIv0gGSAWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NDg0NjktZ29wcy1sZWUtc2F5cy1ib3JkZXItYmlsbC1zaG93cy1uZWVkLWZvci1uZXctY29uc2VydmF0aXZlLXNlbmF0b3ItY2FsbHMtZm9yLW5ldy1zZW5hdGUtZ29wLWxlYWRlci9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3NlbmF0ZS80NDQ4NDY5LWdvcHMtbGVlLXNheXMtYm9yZGVyLWJpbGwtc2hvd3MtbmVlZC1mb3ItbmV3LWNvbnNlcnZhdGl2ZS1zZW5hdG9yLWNhbGxzLWZvci1uZXctc2VuYXRlLWdvcC1sZWFkZXIv0gGSAWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NDg0NjktZ29wcy1sZWUtc2F5cy1ib3JkZXItYmlsbC1zaG93cy1uZWVkLWZvci1uZXctY29uc2VydmF0aXZlLXNlbmF0b3ItY2FsbHMtZm9yLW5ldy1zZW5hdGUtZ29wLWxlYWRlci9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 13:57:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3NlbmF0ZS80NDQ4NDY5LWdvcHMtbGVlLXNheXMtYm9yZGVyLWJpbGwtc2hvd3MtbmVlZC1mb3ItbmV3LWNvbnNlcnZhdGl2ZS1zZW5hdG9yLWNhbGxzLWZvci1uZXctc2VuYXRlLWdvcC1sZWFkZXIv0gGSAWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0NDg0NjktZ29wcy1sZWUtc2F5cy1ib3JkZXItYmlsbC1zaG93cy1uZWVkLWZvci1uZXctY29uc2VydmF0aXZlLXNlbmF0b3ItY2FsbHMtZm9yLW5ldy1zZW5hdGUtZ29wLWxlYWRlci9hbXAv?oc=5\" target=\"_blank\">GOP’s Lee says border bill shows need for new Senate GOP leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell mum on election as Republicans endorse Trump - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDI0LzAyLzA1L21jY29ubmVsbC1tdW0tb24tZWxlY3Rpb24tYXMtcmVwdWJsaWNhbnMtZW5kb3JzZS10cnVtcC3SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDI0LzAyLzA1L21jY29ubmVsbC1tdW0tb24tZWxlY3Rpb24tYXMtcmVwdWJsaWNhbnMtZW5kb3JzZS10cnVtcC3SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 17:25:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDI0LzAyLzA1L21jY29ubmVsbC1tdW0tb24tZWxlY3Rpb24tYXMtcmVwdWJsaWNhbnMtZW5kb3JzZS10cnVtcC3SAQA?oc=5\" target=\"_blank\">McConnell mum on election as Republicans endorse Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bipartisan border security bill killed by Republicans over opposition by pro-Trump hardliners - New York Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS8yMDI0LzAyLzA2L2JpcGFydGlzYW4tYm9yZGVyLXNlY3VyaXR5LWJpbGwtYWxsLWJ1dC1kZWFkLW92ZXItb3Bwb3NpdGlvbi1ieS1wcm8tdHJ1bXAtaGFyZGxpbmVycy_SAYABaHR0cHM6Ly93d3cubnlkYWlseW5ld3MuY29tLzIwMjQvMDIvMDYvYmlwYXJ0aXNhbi1ib3JkZXItc2VjdXJpdHktYmlsbC1hbGwtYnV0LWRlYWQtb3Zlci1vcHBvc2l0aW9uLWJ5LXByby10cnVtcC1oYXJkbGluZXJzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS8yMDI0LzAyLzA2L2JpcGFydGlzYW4tYm9yZGVyLXNlY3VyaXR5LWJpbGwtYWxsLWJ1dC1kZWFkLW92ZXItb3Bwb3NpdGlvbi1ieS1wcm8tdHJ1bXAtaGFyZGxpbmVycy_SAYABaHR0cHM6Ly93d3cubnlkYWlseW5ld3MuY29tLzIwMjQvMDIvMDYvYmlwYXJ0aXNhbi1ib3JkZXItc2VjdXJpdHktYmlsbC1hbGwtYnV0LWRlYWQtb3Zlci1vcHBvc2l0aW9uLWJ5LXByby10cnVtcC1oYXJkbGluZXJzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:56:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS8yMDI0LzAyLzA2L2JpcGFydGlzYW4tYm9yZGVyLXNlY3VyaXR5LWJpbGwtYWxsLWJ1dC1kZWFkLW92ZXItb3Bwb3NpdGlvbi1ieS1wcm8tdHJ1bXAtaGFyZGxpbmVycy_SAYABaHR0cHM6Ly93d3cubnlkYWlseW5ld3MuY29tLzIwMjQvMDIvMDYvYmlwYXJ0aXNhbi1ib3JkZXItc2VjdXJpdHktYmlsbC1hbGwtYnV0LWRlYWQtb3Zlci1vcHBvc2l0aW9uLWJ5LXByby10cnVtcC1oYXJkbGluZXJzL2FtcC8?oc=5\" target=\"_blank\">Bipartisan border security bill killed by Republicans over opposition by pro-Trump hardliners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "New York Daily News",
+                "$": {
+                  "url": "https://www.nydailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate Minority Leader Mitch McConnell (R-KY) urges support for the border bill amid pushback from Republicans. - Yahoo News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vc2VuYXRlLW1pbm9yaXR5LWxlYWRlci1taXRjaC1tY2Nvbm5lbGwtMTcyOTE0MzY4Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vc2VuYXRlLW1pbm9yaXR5LWxlYWRlci1taXRjaC1tY2Nvbm5lbGwtMTcyOTE0MzY4Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 17:29:14 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vc2VuYXRlLW1pbm9yaXR5LWxlYWRlci1taXRjaC1tY2Nvbm5lbGwtMTcyOTE0MzY4Lmh0bWzSAQA?oc=5\" target=\"_blank\">Senate Minority Leader Mitch McConnell (R-KY) urges support for the border bill amid pushback from Republicans.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News",
+                "$": {
+                  "url": "https://news.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell throws James Lankford under the bus - Washington Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL29waW5pb24vYmVsdHdheS1jb25maWRlbnRpYWwvMjgzOTk5OC9tY2Nvbm5lbGwtdGhyb3dzLWphbWVzLWxhbmtmb3JkLWJvcmRlci1iaWxsLXVuZGVyLXRoZS1idXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL29waW5pb24vYmVsdHdheS1jb25maWRlbnRpYWwvMjgzOTk5OC9tY2Nvbm5lbGwtdGhyb3dzLWphbWVzLWxhbmtmb3JkLWJvcmRlci1iaWxsLXVuZGVyLXRoZS1idXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 18:33:35 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL29waW5pb24vYmVsdHdheS1jb25maWRlbnRpYWwvMjgzOTk5OC9tY2Nvbm5lbGwtdGhyb3dzLWphbWVzLWxhbmtmb3JkLWJvcmRlci1iaWxsLXVuZGVyLXRoZS1idXMv0gEA?oc=5\" target=\"_blank\">Mitch McConnell throws James Lankford under the bus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Examiner",
+                "$": {
+                  "url": "https://www.washingtonexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell freezes during press conference, deteriorating health raises questions. Here’s what happen - The Economic Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL21pdGNoLW1jY29ubmVsbC1mcmVlemVzLWR1cmluZy1wcmVzcy1jb25mZXJlbmNlLWRldGVyaW9yYXRpbmctaGVhbHRoLXJhaXNlcy1xdWVzdGlvbnMtaGVyZXMtd2hhdC1oYXBwZW5lZC9hcnRpY2xlc2hvdy8xMDIxODIxNjAuY21z0gG5AWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvdXMvbWl0Y2gtbWNjb25uZWxsLWZyZWV6ZXMtZHVyaW5nLXByZXNzLWNvbmZlcmVuY2UtZGV0ZXJpb3JhdGluZy1oZWFsdGgtcmFpc2VzLXF1ZXN0aW9ucy1oZXJlcy13aGF0LWhhcHBlbmVkL2FtcF9hcnRpY2xlc2hvdy8xMDIxODIxNjAuY21z?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL21pdGNoLW1jY29ubmVsbC1mcmVlemVzLWR1cmluZy1wcmVzcy1jb25mZXJlbmNlLWRldGVyaW9yYXRpbmctaGVhbHRoLXJhaXNlcy1xdWVzdGlvbnMtaGVyZXMtd2hhdC1oYXBwZW5lZC9hcnRpY2xlc2hvdy8xMDIxODIxNjAuY21z0gG5AWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvdXMvbWl0Y2gtbWNjb25uZWxsLWZyZWV6ZXMtZHVyaW5nLXByZXNzLWNvbmZlcmVuY2UtZGV0ZXJpb3JhdGluZy1oZWFsdGgtcmFpc2VzLXF1ZXN0aW9ucy1oZXJlcy13aGF0LWhhcHBlbmVkL2FtcF9hcnRpY2xlc2hvdy8xMDIxODIxNjAuY21z",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL21pdGNoLW1jY29ubmVsbC1mcmVlemVzLWR1cmluZy1wcmVzcy1jb25mZXJlbmNlLWRldGVyaW9yYXRpbmctaGVhbHRoLXJhaXNlcy1xdWVzdGlvbnMtaGVyZXMtd2hhdC1oYXBwZW5lZC9hcnRpY2xlc2hvdy8xMDIxODIxNjAuY21z0gG5AWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvdXMvbWl0Y2gtbWNjb25uZWxsLWZyZWV6ZXMtZHVyaW5nLXByZXNzLWNvbmZlcmVuY2UtZGV0ZXJpb3JhdGluZy1oZWFsdGgtcmFpc2VzLXF1ZXN0aW9ucy1oZXJlcy13aGF0LWhhcHBlbmVkL2FtcF9hcnRpY2xlc2hvdy8xMDIxODIxNjAuY21z?oc=5\" target=\"_blank\">Mitch McConnell freezes during press conference, deteriorating health raises questions. Here’s what happen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Economic Times",
+                "$": {
+                  "url": "https://m.economictimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate GOP floats tactical retreat on border deal - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAyLzA2L3NlbmF0ZS1yZXB1YmxpY2Fucy1ib3JkZXItYmlsbC1jbG90dXJlLXZvdGXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAyLzA2L3NlbmF0ZS1yZXB1YmxpY2Fucy1ib3JkZXItYmlsbC1jbG90dXJlLXZvdGXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 02:18:10 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAyLzA2L3NlbmF0ZS1yZXB1YmxpY2Fucy1ib3JkZXItYmlsbC1jbG90dXJlLXZvdGXSAQA?oc=5\" target=\"_blank\">Senate GOP floats tactical retreat on border deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trump says he ‘heard’ McConnell wants to endorse him - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDQ0NzMzNy10cnVtcC1zYXlzLWhlLWhlYXJkLW1jY29ubmVsbC13YW50cy10by1lbmRvcnNlLWhpbS_SAWVodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2NhbXBhaWduLzQ0NDczMzctdHJ1bXAtc2F5cy1oZS1oZWFyZC1tY2Nvbm5lbGwtd2FudHMtdG8tZW5kb3JzZS1oaW0vYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDQ0NzMzNy10cnVtcC1zYXlzLWhlLWhlYXJkLW1jY29ubmVsbC13YW50cy10by1lbmRvcnNlLWhpbS_SAWVodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2NhbXBhaWduLzQ0NDczMzctdHJ1bXAtc2F5cy1oZS1oZWFyZC1tY2Nvbm5lbGwtd2FudHMtdG8tZW5kb3JzZS1oaW0vYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 16:34:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDQ0NzMzNy10cnVtcC1zYXlzLWhlLWhlYXJkLW1jY29ubmVsbC13YW50cy10by1lbmRvcnNlLWhpbS_SAWVodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2NhbXBhaWduLzQ0NDczMzctdHJ1bXAtc2F5cy1oZS1oZWFyZC1tY2Nvbm5lbGwtd2FudHMtdG8tZW5kb3JzZS1oaW0vYW1wLw?oc=5\" target=\"_blank\">Trump says he ‘heard’ McConnell wants to endorse him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell Throws Down 'Gauntlet' on Border - Newsweek"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9taXRjaC1tY2Nvbm5lbGwtcHVzaGVzLWJhY2stZ29wLW9wcG9zaXRpb24tb3Zlci1ib3JkZXItYmlsbC0xODY3MTIy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9taXRjaC1tY2Nvbm5lbGwtcHVzaGVzLWJhY2stZ29wLW9wcG9zaXRpb24tb3Zlci1ib3JkZXItYmlsbC0xODY3MTIy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 23:06:40 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9taXRjaC1tY2Nvbm5lbGwtcHVzaGVzLWJhY2stZ29wLW9wcG9zaXRpb24tb3Zlci1ib3JkZXItYmlsbC0xODY3MTIy0gEA?oc=5\" target=\"_blank\">Mitch McConnell Throws Down 'Gauntlet' on Border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>"
+            ],
+            "source": [
+              {
+                "_": "Newsweek",
+                "$": {
+                  "url": "https://www.newsweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell freezes and escorted away during press conference - Hindustan Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtZnJlZXplcy1hbmQtZXNjb3J0ZWQtYXdheS1kdXJpbmctcHJlc3MtY29uZmVyZW5jZS1ib3VuY2VzLWJhY2staW0tZmluZS0xMDE2OTA0MzE0MTQ3NzMuaHRtbNIBmQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtZnJlZXplcy1hbmQtZXNjb3J0ZWQtYXdheS1kdXJpbmctcHJlc3MtY29uZmVyZW5jZS1ib3VuY2VzLWJhY2staW0tZmluZS0xMDE2OTA0MzE0MTQ3NzMtYW1wLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtZnJlZXplcy1hbmQtZXNjb3J0ZWQtYXdheS1kdXJpbmctcHJlc3MtY29uZmVyZW5jZS1ib3VuY2VzLWJhY2staW0tZmluZS0xMDE2OTA0MzE0MTQ3NzMuaHRtbNIBmQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtZnJlZXplcy1hbmQtZXNjb3J0ZWQtYXdheS1kdXJpbmctcHJlc3MtY29uZmVyZW5jZS1ib3VuY2VzLWJhY2staW0tZmluZS0xMDE2OTA0MzE0MTQ3NzMtYW1wLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtZnJlZXplcy1hbmQtZXNjb3J0ZWQtYXdheS1kdXJpbmctcHJlc3MtY29uZmVyZW5jZS1ib3VuY2VzLWJhY2staW0tZmluZS0xMDE2OTA0MzE0MTQ3NzMuaHRtbNIBmQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9taXRjaC1tY2Nvbm5lbGwtZnJlZXplcy1hbmQtZXNjb3J0ZWQtYXdheS1kdXJpbmctcHJlc3MtY29uZmVyZW5jZS1ib3VuY2VzLWJhY2staW0tZmluZS0xMDE2OTA0MzE0MTQ3NzMtYW1wLmh0bWw?oc=5\" target=\"_blank\">Mitch McConnell freezes and escorted away during press conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Hindustan Times",
+                "$": {
+                  "url": "https://www.hindustantimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US Senate deal on border security and Ukraine aid facing defeat - Irish Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmlyaXNoZXhhbWluZXIuY29tL3dvcmxkL2FyaWQtNDEzMjYxMjkuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiNmh0dHBzOi8vd3d3LmlyaXNoZXhhbWluZXIuY29tL3dvcmxkL2FyaWQtNDEzMjYxMjkuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 18:41:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmlyaXNoZXhhbWluZXIuY29tL3dvcmxkL2FyaWQtNDEzMjYxMjkuaHRtbNIBAA?oc=5\" target=\"_blank\">US Senate deal on border security and Ukraine aid facing defeat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Irish Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Irish Examiner",
+                "$": {
+                  "url": "https://www.irishexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate deal on border security and Ukraine aid faces defeat as Republicans ready to block bill - CTV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5jdHZuZXdzLmNhL3dvcmxkL3NlbmF0ZS1kZWFsLW9uLWJvcmRlci1zZWN1cml0eS1hbmQtdWtyYWluZS1haWQtZmFjZXMtZGVmZWF0LWFzLXJlcHVibGljYW5zLXJlYWR5LXRvLWJsb2NrLWJpbGwtMS42NzU4MTAz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5jdHZuZXdzLmNhL3dvcmxkL3NlbmF0ZS1kZWFsLW9uLWJvcmRlci1zZWN1cml0eS1hbmQtdWtyYWluZS1haWQtZmFjZXMtZGVmZWF0LWFzLXJlcHVibGljYW5zLXJlYWR5LXRvLWJsb2NrLWJpbGwtMS42NzU4MTAz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 17:48:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5jdHZuZXdzLmNhL3dvcmxkL3NlbmF0ZS1kZWFsLW9uLWJvcmRlci1zZWN1cml0eS1hbmQtdWtyYWluZS1haWQtZmFjZXMtZGVmZWF0LWFzLXJlcHVibGljYW5zLXJlYWR5LXRvLWJsb2NrLWJpbGwtMS42NzU4MTAz0gEA?oc=5\" target=\"_blank\">Senate deal on border security and Ukraine aid faces defeat as Republicans ready to block bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News",
+                "$": {
+                  "url": "https://www.ctvnews.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Speaker Johnson warns McConnell: Senate border deal a 'waste of time' - Washington Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2ZlYi81L21pa2Utam9obnNvbi13YXJucy1tY2Nvbm5lbGwtc2VuYXRlLWJvcmRlci1kZWFsLXdhL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2ZlYi81L21pa2Utam9obnNvbi13YXJucy1tY2Nvbm5lbGwtc2VuYXRlLWJvcmRlci1kZWFsLXdhL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:31:53 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2ZlYi81L21pa2Utam9obnNvbi13YXJucy1tY2Nvbm5lbGwtc2VuYXRlLWJvcmRlci1kZWFsLXdhL9IBAA?oc=5\" target=\"_blank\">Speaker Johnson warns McConnell: Senate border deal a 'waste of time'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Times",
+                "$": {
+                  "url": "https://www.washingtontimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell meets another legacy moment - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAyLzAyL21jY29ubmVsbC1tZWV0cy1hbm90aGVyLWxlZ2FjeS1tb21lbnQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAyLzAyL21jY29ubmVsbC1tZWV0cy1hbm90aGVyLWxlZ2FjeS1tb21lbnQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 10:53:49 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAyLzAyL21jY29ubmVsbC1tZWV0cy1hbm90aGVyLWxlZ2FjeS1tb21lbnQv0gEA?oc=5\" target=\"_blank\">McConnell meets another legacy moment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘Gauntlet has been thrown’: KY’s McConnell confronts test on package for border, Ukraine - McClatchy Washington Bureau"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm1jY2xhdGNoeWRjLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NTExNDY4Mi5odG1s0gFKaHR0cHM6Ly9hbXAubWNjbGF0Y2h5ZGMuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg1MTE0NjgyLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3Lm1jY2xhdGNoeWRjLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NTExNDY4Mi5odG1s0gFKaHR0cHM6Ly9hbXAubWNjbGF0Y2h5ZGMuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg1MTE0NjgyLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 11:58:02 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm1jY2xhdGNoeWRjLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NTExNDY4Mi5odG1s0gFKaHR0cHM6Ly9hbXAubWNjbGF0Y2h5ZGMuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg1MTE0NjgyLmh0bWw?oc=5\" target=\"_blank\">‘Gauntlet has been thrown’: KY’s McConnell confronts test on package for border, Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McClatchy Washington Bureau</font>"
+            ],
+            "source": [
+              {
+                "_": "McClatchy Washington Bureau",
+                "$": {
+                  "url": "https://www.mcclatchydc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans rush to throw each other under the bus for Trump - Salon"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzAyLzA2L3J1c2gtdG8tdGhyb3ctZWFjaC1vdGhlci11bmRlci10aGUtYnVzLWZvci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzAyLzA2L3J1c2gtdG8tdGhyb3ctZWFjaC1vdGhlci11bmRlci10aGUtYnVzLWZvci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:04:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzAyLzA2L3J1c2gtdG8tdGhyb3ctZWFjaC1vdGhlci11bmRlci10aGUtYnVzLWZvci_SAQA?oc=5\" target=\"_blank\">Republicans rush to throw each other under the bus for Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salon</font>"
+            ],
+            "source": [
+              {
+                "_": "Salon",
+                "$": {
+                  "url": "https://www.salon.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP senators rail against conference leadership, McConnell, bipartisan border bill - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDYzNTk5MDUxMTLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDYzNTk5MDUxMTLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 19:04:59 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzNDYzNTk5MDUxMTLSAQA?oc=5\" target=\"_blank\">GOP senators rail against conference leadership, McConnell, bipartisan border bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Top US Senate Republican Mitch McConnell freezes up, leaves press conference - Deccan Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmRlY2NhbmhlcmFsZC5jb20vd29ybGQvdG9wLXVzLXNlbmF0ZS1yZXB1YmxpY2FuLW1pdGNoLW1jY29ubmVsbC1mcmVlemVzLXVwLWxlYXZlcy1wcmVzcy1jb25mZXJlbmNlLTEyNDExMzAuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LmRlY2NhbmhlcmFsZC5jb20vd29ybGQvdG9wLXVzLXNlbmF0ZS1yZXB1YmxpY2FuLW1pdGNoLW1jY29ubmVsbC1mcmVlemVzLXVwLWxlYXZlcy1wcmVzcy1jb25mZXJlbmNlLTEyNDExMzAuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmRlY2NhbmhlcmFsZC5jb20vd29ybGQvdG9wLXVzLXNlbmF0ZS1yZXB1YmxpY2FuLW1pdGNoLW1jY29ubmVsbC1mcmVlemVzLXVwLWxlYXZlcy1wcmVzcy1jb25mZXJlbmNlLTEyNDExMzAuaHRtbNIBAA?oc=5\" target=\"_blank\">Top US Senate Republican Mitch McConnell freezes up, leaves press conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "Deccan Herald",
+                "$": {
+                  "url": "https://www.deccanherald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate releases new $118 billion package for Ukraine, Israel, border - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAyLzA1L3NlbmF0ZS1ib3JkZXItZGVhbC1maW5hbC10ZXh0LXVrcmFpbmUtaXNyYWVsLXRhaXdhbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAyLzA1L3NlbmF0ZS1ib3JkZXItZGVhbC1maW5hbC10ZXh0LXVrcmFpbmUtaXNyYWVsLXRhaXdhbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 11:56:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAyLzA1L3NlbmF0ZS1ib3JkZXItZGVhbC1maW5hbC10ZXh0LXVrcmFpbmUtaXNyYWVsLXRhaXdhbtIBAA?oc=5\" target=\"_blank\">Senate releases new $118 billion package for Ukraine, Israel, border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "G.O.P. Backlash to Border Deal Reflects Vanishing Ground for a Compromise - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDUvdXMvcG9saXRpY3MvcmVwdWJsaWNhbnMtYm9yZGVyLWRlYWwuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDUvdXMvcG9saXRpY3MvcmVwdWJsaWNhbnMtYm9yZGVyLWRlYWwuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 23:25:19 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMDUvdXMvcG9saXRpY3MvcmVwdWJsaWNhbnMtYm9yZGVyLWRlYWwuaHRtbNIBAA?oc=5\" target=\"_blank\">G.O.P. Backlash to Border Deal Reflects Vanishing Ground for a Compromise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Border security and Ukraine aid collapses despite Biden's plea for Congress to 'show some spine' - KSTP"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8va3N0cC5jb20vd29ybGQvYm9yZGVyLXNlY3VyaXR5LWFuZC11a3JhaW5lLWFpZC1jb2xsYXBzZXMtZGVzcGl0ZS1iaWRlbnMtcGxlYS1mb3ItY29uZ3Jlc3MtdG8tc2hvdy1zb21lLXNwaW5lL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8va3N0cC5jb20vd29ybGQvYm9yZGVyLXNlY3VyaXR5LWFuZC11a3JhaW5lLWFpZC1jb2xsYXBzZXMtZGVzcGl0ZS1iaWRlbnMtcGxlYS1mb3ItY29uZ3Jlc3MtdG8tc2hvdy1zb21lLXNwaW5lL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 22:52:30 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8va3N0cC5jb20vd29ybGQvYm9yZGVyLXNlY3VyaXR5LWFuZC11a3JhaW5lLWFpZC1jb2xsYXBzZXMtZGVzcGl0ZS1iaWRlbnMtcGxlYS1mb3ItY29uZ3Jlc3MtdG8tc2hvdy1zb21lLXNwaW5lL9IBAA?oc=5\" target=\"_blank\">Border security and Ukraine aid collapses despite Biden's plea for Congress to 'show some spine'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSTP</font>"
+            ],
+            "source": [
+              {
+                "_": "KSTP",
+                "$": {
+                  "url": "https://kstp.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Remark | Remarks | THE NEWSROOM - Remark | Remarks | THE NEWSROOM | Republican Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJlcHVibGljYW5sZWFkZXIuc2VuYXRlLmdvdi9uZXdzcm9vbS9yZW1hcmtzL3N1cHBsZW1lbnRhbC13aWxsLWFkZHJlc3Mtc2VjdXJpdHktY2hhbGxlbmdlcy1kaXJlY3RsedIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LnJlcHVibGljYW5sZWFkZXIuc2VuYXRlLmdvdi9uZXdzcm9vbS9yZW1hcmtzL3N1cHBsZW1lbnRhbC13aWxsLWFkZHJlc3Mtc2VjdXJpdHktY2hhbGxlbmdlcy1kaXJlY3RsedIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 22:34:49 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJlcHVibGljYW5sZWFkZXIuc2VuYXRlLmdvdi9uZXdzcm9vbS9yZW1hcmtzL3N1cHBsZW1lbnRhbC13aWxsLWFkZHJlc3Mtc2VjdXJpdHktY2hhbGxlbmdlcy1kaXJlY3RsedIBAA?oc=5\" target=\"_blank\">Remark | Remarks | THE NEWSROOM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Remark | Remarks | THE NEWSROOM | Republican Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Remark | Remarks | THE NEWSROOM | Republican Leader",
+                "$": {
+                  "url": "https://www.republicanleader.senate.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell admits $118billion border deal is DEAD just two days after a deal was reached: Defeated Republican ... - MSN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQJodHRwczovL3d3dy5tc24uY29tL2VuLWF1L25ld3MvYXVzdHJhbGlhL21pdGNoLW1jY29ubmVsbC1hZG1pdHMtMTE4YmlsbGlvbi1ib3JkZXItZGVhbC1pcy1kZWFkLWp1c3QtdHdvLWRheXMtYWZ0ZXItYS1kZWFsLXdhcy1yZWFjaGVkLWRlZmVhdGVkLXJlcHVibGljYW4tbGVhZGVyLWZhY2luZy1jYWxscy10by1yZXNpZ24tYWRtaXRzLXdlLWhhdmUtbm8tY2hhbmNlLXRvLW1ha2UtYS1sYXctaW4tZmFyY2ljYWwtc2NlbmVzLWluLWNvbmdyZXNzL2FyLUJCMWhTdVlI0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQJodHRwczovL3d3dy5tc24uY29tL2VuLWF1L25ld3MvYXVzdHJhbGlhL21pdGNoLW1jY29ubmVsbC1hZG1pdHMtMTE4YmlsbGlvbi1ib3JkZXItZGVhbC1pcy1kZWFkLWp1c3QtdHdvLWRheXMtYWZ0ZXItYS1kZWFsLXdhcy1yZWFjaGVkLWRlZmVhdGVkLXJlcHVibGljYW4tbGVhZGVyLWZhY2luZy1jYWxscy10by1yZXNpZ24tYWRtaXRzLXdlLWhhdmUtbm8tY2hhbmNlLXRvLW1ha2UtYS1sYXctaW4tZmFyY2ljYWwtc2NlbmVzLWluLWNvbmdyZXNzL2FyLUJCMWhTdVlI0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:22:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQJodHRwczovL3d3dy5tc24uY29tL2VuLWF1L25ld3MvYXVzdHJhbGlhL21pdGNoLW1jY29ubmVsbC1hZG1pdHMtMTE4YmlsbGlvbi1ib3JkZXItZGVhbC1pcy1kZWFkLWp1c3QtdHdvLWRheXMtYWZ0ZXItYS1kZWFsLXdhcy1yZWFjaGVkLWRlZmVhdGVkLXJlcHVibGljYW4tbGVhZGVyLWZhY2luZy1jYWxscy10by1yZXNpZ24tYWRtaXRzLXdlLWhhdmUtbm8tY2hhbmNlLXRvLW1ha2UtYS1sYXctaW4tZmFyY2ljYWwtc2NlbmVzLWluLWNvbmdyZXNzL2FyLUJCMWhTdVlI0gEA?oc=5\" target=\"_blank\">Mitch McConnell admits $118billion border deal is DEAD just two days after a deal was reached: Defeated Republican ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>"
+            ],
+            "source": [
+              {
+                "_": "MSN",
+                "$": {
+                  "url": "https://www.msn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Border, Foreign Aid Package Meets Demise in U.S. Senate - Magnolia Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbWFnbm9saWF0cmlidW5lLmNvbS8yMDI0LzAyLzA2L2JvcmRlci1mb3JlaWduLWFpZC1wYWNrYWdlLW1lZXRzLWRlbWlzZS1pbi11LXMtc2VuYXRlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vbWFnbm9saWF0cmlidW5lLmNvbS8yMDI0LzAyLzA2L2JvcmRlci1mb3JlaWduLWFpZC1wYWNrYWdlLW1lZXRzLWRlbWlzZS1pbi11LXMtc2VuYXRlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:42:13 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbWFnbm9saWF0cmlidW5lLmNvbS8yMDI0LzAyLzA2L2JvcmRlci1mb3JlaWduLWFpZC1wYWNrYWdlLW1lZXRzLWRlbWlzZS1pbi11LXMtc2VuYXRlL9IBAA?oc=5\" target=\"_blank\">Border, Foreign Aid Package Meets Demise in U.S. Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Magnolia Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Magnolia Tribune",
+                "$": {
+                  "url": "https://magnoliatribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Border security and Ukraine aid collapses despite Biden's plea for Congress to 'show some spine' - The Virginian-Pilot"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5waWxvdG9ubGluZS5jb20vMjAyNC8wMi8wNi9ib3JkZXItc2VjdXJpdHktYW5kLXVrcmFpbmUtYWlkLWNvbGxhcHNlcy1kZXNwaXRlLWJpZGVucy1wbGVhLWZvci1jb25ncmVzcy10by1zaG93LXNvbWUtc3BpbmUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5waWxvdG9ubGluZS5jb20vMjAyNC8wMi8wNi9ib3JkZXItc2VjdXJpdHktYW5kLXVrcmFpbmUtYWlkLWNvbGxhcHNlcy1kZXNwaXRlLWJpZGVucy1wbGVhLWZvci1jb25ncmVzcy10by1zaG93LXNvbWUtc3BpbmUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:45:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5waWxvdG9ubGluZS5jb20vMjAyNC8wMi8wNi9ib3JkZXItc2VjdXJpdHktYW5kLXVrcmFpbmUtYWlkLWNvbGxhcHNlcy1kZXNwaXRlLWJpZGVucy1wbGVhLWZvci1jb25ncmVzcy10by1zaG93LXNvbWUtc3BpbmUv0gEA?oc=5\" target=\"_blank\">Border security and Ukraine aid collapses despite Biden's plea for Congress to 'show some spine'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Virginian-Pilot</font>"
+            ],
+            "source": [
+              {
+                "_": "The Virginian-Pilot",
+                "$": {
+                  "url": "https://www.pilotonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell freezes for second time during press event - BBC.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjY2NjU2ODLSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2NjY1NjgyLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjY2NjU2ODLSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2NjY1NjgyLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 31 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjY2NjU2ODLSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2NjY1NjgyLmFtcA?oc=5\" target=\"_blank\">Mitch McConnell freezes for second time during press event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC.com</font>"
+            ],
+            "source": [
+              {
+                "_": "BBC.com",
+                "$": {
+                  "url": "https://www.bbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "This Is a Good Time to Revisit Mitch McConnell’s Jurisprudence and Thoughts About Presidential Immunity - Justia Verdict"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3ZlcmRpY3QuanVzdGlhLmNvbS8yMDI0LzAxLzAyL3RoaXMtaXMtYS1nb29kLXRpbWUtdG8tcmV2aXNpdC1taXRjaC1tY2Nvbm5lbGxzLWp1cmlzcHJ1ZGVuY2UtYW5kLXRob3VnaHRzLWFib3V0LXByZXNpZGVudGlhbC1pbW11bml0edIBkAFodHRwczovL3ZlcmRpY3QuanVzdGlhLmNvbS9hbXAvMjAyNC8wMS8wMi90aGlzLWlzLWEtZ29vZC10aW1lLXRvLXJldmlzaXQtbWl0Y2gtbWNjb25uZWxscy1qdXJpc3BydWRlbmNlLWFuZC10aG91Z2h0cy1hYm91dC1wcmVzaWRlbnRpYWwtaW1tdW5pdHk?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3ZlcmRpY3QuanVzdGlhLmNvbS8yMDI0LzAxLzAyL3RoaXMtaXMtYS1nb29kLXRpbWUtdG8tcmV2aXNpdC1taXRjaC1tY2Nvbm5lbGxzLWp1cmlzcHJ1ZGVuY2UtYW5kLXRob3VnaHRzLWFib3V0LXByZXNpZGVudGlhbC1pbW11bml0edIBkAFodHRwczovL3ZlcmRpY3QuanVzdGlhLmNvbS9hbXAvMjAyNC8wMS8wMi90aGlzLWlzLWEtZ29vZC10aW1lLXRvLXJldmlzaXQtbWl0Y2gtbWNjb25uZWxscy1qdXJpc3BydWRlbmNlLWFuZC10aG91Z2h0cy1hYm91dC1wcmVzaWRlbnRpYWwtaW1tdW5pdHk",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3ZlcmRpY3QuanVzdGlhLmNvbS8yMDI0LzAxLzAyL3RoaXMtaXMtYS1nb29kLXRpbWUtdG8tcmV2aXNpdC1taXRjaC1tY2Nvbm5lbGxzLWp1cmlzcHJ1ZGVuY2UtYW5kLXRob3VnaHRzLWFib3V0LXByZXNpZGVudGlhbC1pbW11bml0edIBkAFodHRwczovL3ZlcmRpY3QuanVzdGlhLmNvbS9hbXAvMjAyNC8wMS8wMi90aGlzLWlzLWEtZ29vZC10aW1lLXRvLXJldmlzaXQtbWl0Y2gtbWNjb25uZWxscy1qdXJpc3BydWRlbmNlLWFuZC10aG91Z2h0cy1hYm91dC1wcmVzaWRlbnRpYWwtaW1tdW5pdHk?oc=5\" target=\"_blank\">This Is a Good Time to Revisit Mitch McConnell’s Jurisprudence and Thoughts About Presidential Immunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Justia Verdict</font>"
+            ],
+            "source": [
+              {
+                "_": "Justia Verdict",
+                "$": {
+                  "url": "https://verdict.justia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell: After health scare, voters weigh in on whether politicians are too old - BBC.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjY2ODEwNTXSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2NjgxMDU1LmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjY2ODEwNTXSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2NjgxMDU1LmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 02 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjY2ODEwNTXSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2NjgxMDU1LmFtcA?oc=5\" target=\"_blank\">Mitch McConnell: After health scare, voters weigh in on whether politicians are too old</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC.com</font>"
+            ],
+            "source": [
+              {
+                "_": "BBC.com",
+                "$": {
+                  "url": "https://www.bbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tax deal faces Senate reckoning - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdGhlaGlsbC5jb20vbmV3c2xldHRlcnMvYnVzaW5lc3MtZWNvbm9teS80NDQzMzg0LXRheC1kZWFsLWZhY2VzLXNlbmF0ZS1yZWNrb25pbmcv0gFdaHR0cHM6Ly90aGVoaWxsLmNvbS9uZXdzbGV0dGVycy9idXNpbmVzcy1lY29ub215LzQ0NDMzODQtdGF4LWRlYWwtZmFjZXMtc2VuYXRlLXJlY2tvbmluZy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vdGhlaGlsbC5jb20vbmV3c2xldHRlcnMvYnVzaW5lc3MtZWNvbm9teS80NDQzMzg0LXRheC1kZWFsLWZhY2VzLXNlbmF0ZS1yZWNrb25pbmcv0gFdaHR0cHM6Ly90aGVoaWxsLmNvbS9uZXdzbGV0dGVycy9idXNpbmVzcy1lY29ub215LzQ0NDMzODQtdGF4LWRlYWwtZmFjZXMtc2VuYXRlLXJlY2tvbmluZy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 23:13:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdGhlaGlsbC5jb20vbmV3c2xldHRlcnMvYnVzaW5lc3MtZWNvbm9teS80NDQzMzg0LXRheC1kZWFsLWZhY2VzLXNlbmF0ZS1yZWNrb25pbmcv0gFdaHR0cHM6Ly90aGVoaWxsLmNvbS9uZXdzbGV0dGVycy9idXNpbmVzcy1lY29ub215LzQ0NDMzODQtdGF4LWRlYWwtZmFjZXMtc2VuYXRlLXJlY2tvbmluZy9hbXAv?oc=5\" target=\"_blank\">Tax deal faces Senate reckoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell, standing apart in a changing GOP, digs in on his decades-long push against Russia - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21jY29ubmVsbC11a3JhaW5lLXJ1c3NpYS1zZW5hdGUtaXNyYWVsLWJmOGRjNDg5OWQxZTk5ZmQxODYwMjhhMzg3MDIzYjU30gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21jY29ubmVsbC11a3JhaW5lLXJ1c3NpYS1zZW5hdGUtaXNyYWVsLWJmOGRjNDg5OWQxZTk5ZmQxODYwMjhhMzg3MDIzYjU30gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21jY29ubmVsbC11a3JhaW5lLXJ1c3NpYS1zZW5hdGUtaXNyYWVsLWJmOGRjNDg5OWQxZTk5ZmQxODYwMjhhMzg3MDIzYjU30gEA?oc=5\" target=\"_blank\">Mitch McConnell, standing apart in a changing GOP, digs in on his decades-long push against Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell concedes border deal has 'no real chance' after GOP revolt - Washington Examiner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9zZW5hdGUvMjg0MDU1NC9taXRjaC1tY2Nvbm5lbGwtY29uY2VkZXMtYm9yZGVyLWRlYWwtZGVhZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9zZW5hdGUvMjg0MDU1NC9taXRjaC1tY2Nvbm5lbGwtY29uY2VkZXMtYm9yZGVyLWRlYWwtZGVhZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 19:40:09 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9zZW5hdGUvMjg0MDU1NC9taXRjaC1tY2Nvbm5lbGwtY29uY2VkZXMtYm9yZGVyLWRlYWwtZGVhZC_SAQA?oc=5\" target=\"_blank\">McConnell concedes border deal has 'no real chance' after GOP revolt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Examiner",
+                "$": {
+                  "url": "https://www.washingtonexaminer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell Faces Republican Fury Over Border Bill - Newsweek"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9taXRjaC1tY2Nvbm5lbGwtZmFjZXMtcmVwdWJsaWNhbi1mdXJ5LWJvcmRlci1iaWxsLTE4NjY4MDTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9taXRjaC1tY2Nvbm5lbGwtZmFjZXMtcmVwdWJsaWNhbi1mdXJ5LWJvcmRlci1iaWxsLTE4NjY4MDTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 11:53:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9taXRjaC1tY2Nvbm5lbGwtZmFjZXMtcmVwdWJsaWNhbi1mdXJ5LWJvcmRlci1iaWxsLTE4NjY4MDTSAQA?oc=5\" target=\"_blank\">Mitch McConnell Faces Republican Fury Over Border Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>"
+            ],
+            "source": [
+              {
+                "_": "Newsweek",
+                "$": {
+                  "url": "https://www.newsweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trump poses dilemma for Senate GOP leaders after years of battling with McConnell - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yOC9wb2xpdGljcy90cnVtcC1yZXB1YmxpY2FuLXNlbmF0ZS1sZWFkZXJzaGlwL2luZGV4Lmh0bWzSAVlodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzI4L3BvbGl0aWNzL3RydW1wLXJlcHVibGljYW4tc2VuYXRlLWxlYWRlcnNoaXAvaW5kZXguaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yOC9wb2xpdGljcy90cnVtcC1yZXB1YmxpY2FuLXNlbmF0ZS1sZWFkZXJzaGlwL2luZGV4Lmh0bWzSAVlodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzI4L3BvbGl0aWNzL3RydW1wLXJlcHVibGljYW4tc2VuYXRlLWxlYWRlcnNoaXAvaW5kZXguaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 28 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yOC9wb2xpdGljcy90cnVtcC1yZXB1YmxpY2FuLXNlbmF0ZS1sZWFkZXJzaGlwL2luZGV4Lmh0bWzSAVlodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzI4L3BvbGl0aWNzL3RydW1wLXJlcHVibGljYW4tc2VuYXRlLWxlYWRlcnNoaXAvaW5kZXguaHRtbA?oc=5\" target=\"_blank\">Trump poses dilemma for Senate GOP leaders after years of battling with McConnell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Border security and Ukraine aid collapses despite Biden’s plea for Congress to ‘show some spine’ - The News-Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5uZXdzLWhlcmFsZC5jb20vMjAyNC8wMi8wNi9ib3JkZXItc2VjdXJpdHktYW5kLXVrcmFpbmUtYWlkLWNvbGxhcHNlcy1kZXNwaXRlLWJpZGVucy1wbGVhLWZvci1jb25ncmVzcy10by1zaG93LXNvbWUtc3BpbmUv0gGJAWh0dHBzOi8vd3d3Lm5ld3MtaGVyYWxkLmNvbS8yMDI0LzAyLzA2L2JvcmRlci1zZWN1cml0eS1hbmQtdWtyYWluZS1haWQtY29sbGFwc2VzLWRlc3BpdGUtYmlkZW5zLXBsZWEtZm9yLWNvbmdyZXNzLXRvLXNob3ctc29tZS1zcGluZS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5uZXdzLWhlcmFsZC5jb20vMjAyNC8wMi8wNi9ib3JkZXItc2VjdXJpdHktYW5kLXVrcmFpbmUtYWlkLWNvbGxhcHNlcy1kZXNwaXRlLWJpZGVucy1wbGVhLWZvci1jb25ncmVzcy10by1zaG93LXNvbWUtc3BpbmUv0gGJAWh0dHBzOi8vd3d3Lm5ld3MtaGVyYWxkLmNvbS8yMDI0LzAyLzA2L2JvcmRlci1zZWN1cml0eS1hbmQtdWtyYWluZS1haWQtY29sbGFwc2VzLWRlc3BpdGUtYmlkZW5zLXBsZWEtZm9yLWNvbmdyZXNzLXRvLXNob3ctc29tZS1zcGluZS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:28:31 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5uZXdzLWhlcmFsZC5jb20vMjAyNC8wMi8wNi9ib3JkZXItc2VjdXJpdHktYW5kLXVrcmFpbmUtYWlkLWNvbGxhcHNlcy1kZXNwaXRlLWJpZGVucy1wbGVhLWZvci1jb25ncmVzcy10by1zaG93LXNvbWUtc3BpbmUv0gGJAWh0dHBzOi8vd3d3Lm5ld3MtaGVyYWxkLmNvbS8yMDI0LzAyLzA2L2JvcmRlci1zZWN1cml0eS1hbmQtdWtyYWluZS1haWQtY29sbGFwc2VzLWRlc3BpdGUtYmlkZW5zLXBsZWEtZm9yLWNvbmdyZXNzLXRvLXNob3ctc29tZS1zcGluZS9hbXAv?oc=5\" target=\"_blank\">Border security and Ukraine aid collapses despite Biden’s plea for Congress to ‘show some spine’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News-Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "The News-Herald",
+                "$": {
+                  "url": "https://www.news-herald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Nikki Haley calls for 'mental competency tests' for ageing US leaders - BBC.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjY2NzgxMzDSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2Njc4MTMwLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjY2NzgxMzDSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2Njc4MTMwLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjY2NzgxMzDSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2Njc4MTMwLmFtcA?oc=5\" target=\"_blank\">Nikki Haley calls for 'mental competency tests' for ageing US leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC.com</font>"
+            ],
+            "source": [
+              {
+                "_": "BBC.com",
+                "$": {
+                  "url": "https://www.bbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell and Other Senate Republicans Criticize Trump's Talk on Immigrants - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMTkvdXMvcG9saXRpY3MvbWNjb25uZWxsLXNlbmF0ZS1yZXB1YmxpY2Fucy10cnVtcC1pbW1pZ3JhbnRzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMTkvdXMvcG9saXRpY3MvbWNjb25uZWxsLXNlbmF0ZS1yZXB1YmxpY2Fucy10cnVtcC1pbW1pZ3JhbnRzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMTkvdXMvcG9saXRpY3MvbWNjb25uZWxsLXNlbmF0ZS1yZXB1YmxpY2Fucy10cnVtcC1pbW1pZ3JhbnRzLmh0bWzSAQA?oc=5\" target=\"_blank\">McConnell and Other Senate Republicans Criticize Trump's Talk on Immigrants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell has had 'multiple' recent falls - reports - BBC.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjYzMjA1ODjSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2MzIwNTg4LmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjYzMjA1ODjSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2MzIwNTg4LmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjYzMjA1ODjSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY2MzIwNTg4LmFtcA?oc=5\" target=\"_blank\">Mitch McConnell has had 'multiple' recent falls - reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC.com</font>"
+            ],
+            "source": [
+              {
+                "_": "BBC.com",
+                "$": {
+                  "url": "https://www.bbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Top US Senate Republican McConnell to serve out term despite health concerns - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL21jY29ubmVsbC1zYXlzLWhlLXdpbGwtZmluaXNoLWhpcy10ZXJtLXNlbmF0ZS0yMDIzLTA5LTA2L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL21jY29ubmVsbC1zYXlzLWhlLXdpbGwtZmluaXNoLWhpcy10ZXJtLXNlbmF0ZS0yMDIzLTA5LTA2L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL21jY29ubmVsbC1zYXlzLWhlLXdpbGwtZmluaXNoLWhpcy10ZXJtLXNlbmF0ZS0yMDIzLTA5LTA2L9IBAA?oc=5\" target=\"_blank\">Top US Senate Republican McConnell to serve out term despite health concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How Donald Trump reduced the GOP to groveling sycophants - Salon"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzAyLzA0L2hvdy1kb25hbGQtcmVkdWNlZC10aGUtdG8tZ3JvdmVsaW5nLXN5Y29waGFudHMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzAyLzA0L2hvdy1kb25hbGQtcmVkdWNlZC10aGUtdG8tZ3JvdmVsaW5nLXN5Y29waGFudHMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 11:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzAyLzA0L2hvdy1kb25hbGQtcmVkdWNlZC10aGUtdG8tZ3JvdmVsaW5nLXN5Y29waGFudHMv0gEA?oc=5\" target=\"_blank\">How Donald Trump reduced the GOP to groveling sycophants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salon</font>"
+            ],
+            "source": [
+              {
+                "_": "Salon",
+                "$": {
+                  "url": "https://www.salon.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Top US Senate Republican Mitch McConnell freezes up, leaves press conference - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL21pdGNoLW1jY29ubmVsbC1icmllZmx5LWludGVycnVwdHMtcmVtYXJrcy1yZXBvcnRlcnMtcmV1dGVycy13aXRuZXNzLTIwMjMtMDctMjYv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL21pdGNoLW1jY29ubmVsbC1icmllZmx5LWludGVycnVwdHMtcmVtYXJrcy1yZXBvcnRlcnMtcmV1dGVycy13aXRuZXNzLTIwMjMtMDctMjYv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL21pdGNoLW1jY29ubmVsbC1icmllZmx5LWludGVycnVwdHMtcmVtYXJrcy1yZXBvcnRlcnMtcmV1dGVycy13aXRuZXNzLTIwMjMtMDctMjYv0gEA?oc=5\" target=\"_blank\">Top US Senate Republican Mitch McConnell freezes up, leaves press conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell is the main reason Trump is back - The Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3MvbWl0Y2gtbWNjb25uZWxsLWRvbmFsZC10cnVtcC1yZXB1YmxpY2Fucy1iMjQ4NDIyMy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3MvbWl0Y2gtbWNjb25uZWxsLWRvbmFsZC10cnVtcC1yZXB1YmxpY2Fucy1iMjQ4NDIyMy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 21:36:07 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3MvbWl0Y2gtbWNjb25uZWxsLWRvbmFsZC10cnVtcC1yZXB1YmxpY2Fucy1iMjQ4NDIyMy5odG1s0gEA?oc=5\" target=\"_blank\">Mitch McConnell is the main reason Trump is back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "The Independent",
+                "$": {
+                  "url": "https://www.independent.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mitch McConnell: It's now or never for Senate border security talks - Washington Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2phbi8zMS9taXRjaC1tY2Nvbm5lbGwtaXRzLW5vdy1vci1uZXZlci1mb3Itc2VuYXRlLWJvcmRlci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2phbi8zMS9taXRjaC1tY2Nvbm5lbGwtaXRzLW5vdy1vci1uZXZlci1mb3Itc2VuYXRlLWJvcmRlci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 00:43:38 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDI0L2phbi8zMS9taXRjaC1tY2Nvbm5lbGwtaXRzLW5vdy1vci1uZXZlci1mb3Itc2VuYXRlLWJvcmRlci_SAQA?oc=5\" target=\"_blank\">Mitch McConnell: It's now or never for Senate border security talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Times",
+                "$": {
+                  "url": "https://www.washingtontimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | Mitch McConnell’s Plan to Sabotage Social Security From Within - Common Dreams"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNvbW1vbmRyZWFtcy5vcmcvb3Bpbmlvbi9taXRjaC1tY2Nvbm5lbGwtc29jaWFsLXNlY3VyaXR50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3LmNvbW1vbmRyZWFtcy5vcmcvb3Bpbmlvbi9taXRjaC1tY2Nvbm5lbGwtc29jaWFsLXNlY3VyaXR50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 23:04:42 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNvbW1vbmRyZWFtcy5vcmcvb3Bpbmlvbi9taXRjaC1tY2Nvbm5lbGwtc29jaWFsLXNlY3VyaXR50gEA?oc=5\" target=\"_blank\">Opinion | Mitch McConnell’s Plan to Sabotage Social Security From Within</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Common Dreams</font>"
+            ],
+            "source": [
+              {
+                "_": "Common Dreams",
+                "$": {
+                  "url": "https://www.commondreams.org"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

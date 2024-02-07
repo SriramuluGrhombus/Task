@@ -1,0 +1,2618 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"The Reynolds Company\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=The+Reynolds+Company&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Viral Post Claims Reynolds Is Discontinuing Its Iconic Blue Cap Pen, Company Responds - NDTV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5kdHYuY29tL29mZmJlYXQvdmlyYWwtcG9zdC1jbGFpbXMtcmV5bm9sZHMtaXMtZGlzY29udGludWluZy1pdHMtaWNvbmljLWJsdWUtY2FwLXBlbi1jb21wYW55LXJlc3BvbmRzLTQzMzIyMjnSAX9odHRwczovL3d3dy5uZHR2LmNvbS9vZmZiZWF0L3ZpcmFsLXBvc3QtY2xhaW1zLXJleW5vbGRzLWlzLWRpc2NvbnRpbnVpbmctaXRzLWljb25pYy1ibHVlLWNhcC1wZW4tY29tcGFueS1yZXNwb25kcy00MzMyMjI5L2FtcC8x?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vd3d3Lm5kdHYuY29tL29mZmJlYXQvdmlyYWwtcG9zdC1jbGFpbXMtcmV5bm9sZHMtaXMtZGlzY29udGludWluZy1pdHMtaWNvbmljLWJsdWUtY2FwLXBlbi1jb21wYW55LXJlc3BvbmRzLTQzMzIyMjnSAX9odHRwczovL3d3dy5uZHR2LmNvbS9vZmZiZWF0L3ZpcmFsLXBvc3QtY2xhaW1zLXJleW5vbGRzLWlzLWRpc2NvbnRpbnVpbmctaXRzLWljb25pYy1ibHVlLWNhcC1wZW4tY29tcGFueS1yZXNwb25kcy00MzMyMjI5L2FtcC8x",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 26 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5kdHYuY29tL29mZmJlYXQvdmlyYWwtcG9zdC1jbGFpbXMtcmV5bm9sZHMtaXMtZGlzY29udGludWluZy1pdHMtaWNvbmljLWJsdWUtY2FwLXBlbi1jb21wYW55LXJlc3BvbmRzLTQzMzIyMjnSAX9odHRwczovL3d3dy5uZHR2LmNvbS9vZmZiZWF0L3ZpcmFsLXBvc3QtY2xhaW1zLXJleW5vbGRzLWlzLWRpc2NvbnRpbnVpbmctaXRzLWljb25pYy1ibHVlLWNhcC1wZW4tY29tcGFueS1yZXNwb25kcy00MzMyMjI5L2FtcC8x?oc=5\" target=\"_blank\">Viral Post Claims Reynolds Is Discontinuing Its Iconic Blue Cap Pen, Company Responds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>"
+            ],
+            "source": [
+              {
+                "_": "NDTV",
+                "$": {
+                  "url": "https://www.ndtv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Is Reynolds discontinuing its iconic blue cap pen? Company responds - India Today"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL3RyZW5kaW5nLW5ld3Mvc3RvcnkvaXMtcmV5bm9sZHMtZGlzY29udGludWluZy1pdHMtaWNvbmljLWJsdWUtY2FwLXBlbi1jb21wYW55LXJlc3BvbmRzLTI0MjcxNjQtMjAyMy0wOC0yN9IBhwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2FtcC90cmVuZGluZy1uZXdzL3N0b3J5L2lzLXJleW5vbGRzLWRpc2NvbnRpbnVpbmctaXRzLWljb25pYy1ibHVlLWNhcC1wZW4tY29tcGFueS1yZXNwb25kcy0yNDI3MTY0LTIwMjMtMDgtMjc?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL3RyZW5kaW5nLW5ld3Mvc3RvcnkvaXMtcmV5bm9sZHMtZGlzY29udGludWluZy1pdHMtaWNvbmljLWJsdWUtY2FwLXBlbi1jb21wYW55LXJlc3BvbmRzLTI0MjcxNjQtMjAyMy0wOC0yN9IBhwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2FtcC90cmVuZGluZy1uZXdzL3N0b3J5L2lzLXJleW5vbGRzLWRpc2NvbnRpbnVpbmctaXRzLWljb25pYy1ibHVlLWNhcC1wZW4tY29tcGFueS1yZXNwb25kcy0yNDI3MTY0LTIwMjMtMDgtMjc",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 27 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL3RyZW5kaW5nLW5ld3Mvc3RvcnkvaXMtcmV5bm9sZHMtZGlzY29udGludWluZy1pdHMtaWNvbmljLWJsdWUtY2FwLXBlbi1jb21wYW55LXJlc3BvbmRzLTI0MjcxNjQtMjAyMy0wOC0yN9IBhwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2FtcC90cmVuZGluZy1uZXdzL3N0b3J5L2lzLXJleW5vbGRzLWRpc2NvbnRpbnVpbmctaXRzLWljb25pYy1ibHVlLWNhcC1wZW4tY29tcGFueS1yZXNwb25kcy0yNDI3MTY0LTIwMjMtMDgtMjc?oc=5\" target=\"_blank\">Is Reynolds discontinuing its iconic blue cap pen? Company responds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>"
+            ],
+            "source": [
+              {
+                "_": "India Today",
+                "$": {
+                  "url": "https://www.indiatoday.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mid-Coast Electric Supply Rebrands as the Reynolds Company - Industrial Distribution"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmluZGRpc3QuY29tL29wZXJhdGlvbnMvbmV3cy8yMjg2NzQyNS9taWRjb2FzdC1lbGVjdHJpYy1zdXBwbHktcmVicmFuZHMtYXMtdGhlLXJleW5vbGRzLWNvbXBhbnnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmluZGRpc3QuY29tL29wZXJhdGlvbnMvbmV3cy8yMjg2NzQyNS9taWRjb2FzdC1lbGVjdHJpYy1zdXBwbHktcmVicmFuZHMtYXMtdGhlLXJleW5vbGRzLWNvbXBhbnnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 14 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmluZGRpc3QuY29tL29wZXJhdGlvbnMvbmV3cy8yMjg2NzQyNS9taWRjb2FzdC1lbGVjdHJpYy1zdXBwbHktcmVicmFuZHMtYXMtdGhlLXJleW5vbGRzLWNvbXBhbnnSAQA?oc=5\" target=\"_blank\">Mid-Coast Electric Supply Rebrands as the Reynolds Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Industrial Distribution</font>"
+            ],
+            "source": [
+              {
+                "_": "Industrial Distribution",
+                "$": {
+                  "url": "https://www.inddist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "After rumours about its iconic blue cap pen strikes internet, Reynolds responds - The Indian Express"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS90cmVuZGluZy9yZXlub2xkcy1ydW1vdXJzLWRpc2NvbnRpbnVhdGlvbi1pY29uaWMtYmx1ZS1jYXAtcGVuLTg5MTE1MTMv0gFtaHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL3RyZW5kaW5nL3JleW5vbGRzLXJ1bW91cnMtZGlzY29udGludWF0aW9uLWljb25pYy1ibHVlLWNhcC1wZW4tODkxMTUxMy9saXRlLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS90cmVuZGluZy9yZXlub2xkcy1ydW1vdXJzLWRpc2NvbnRpbnVhdGlvbi1pY29uaWMtYmx1ZS1jYXAtcGVuLTg5MTE1MTMv0gFtaHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL3RyZW5kaW5nL3JleW5vbGRzLXJ1bW91cnMtZGlzY29udGludWF0aW9uLWljb25pYy1ibHVlLWNhcC1wZW4tODkxMTUxMy9saXRlLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 27 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS90cmVuZGluZy9yZXlub2xkcy1ydW1vdXJzLWRpc2NvbnRpbnVhdGlvbi1pY29uaWMtYmx1ZS1jYXAtcGVuLTg5MTE1MTMv0gFtaHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL3RyZW5kaW5nL3JleW5vbGRzLXJ1bW91cnMtZGlzY29udGludWF0aW9uLWljb25pYy1ibHVlLWNhcC1wZW4tODkxMTUxMy9saXRlLw?oc=5\" target=\"_blank\">After rumours about its iconic blue cap pen strikes internet, Reynolds responds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>"
+            ],
+            "source": [
+              {
+                "_": "The Indian Express",
+                "$": {
+                  "url": "https://indianexpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fact-check: Is Reynolds really discontinuing its iconic 045 ball pen? - Moneycontrol"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy90cmVuZHMvZmFjdC1jaGVjay1pcy1yZXlub2xkcy1yZWFsbHktZGlzY29udGludWluZy1pdHMtaWNvbmljLTA0NS1iYWxsLXBlbi0xMTI1NjIwMS5odG1s0gF-aHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL3RyZW5kcy9mYWN0LWNoZWNrLWlzLXJleW5vbGRzLXJlYWxseS1kaXNjb250aW51aW5nLWl0cy1pY29uaWMtMDQ1LWJhbGwtcGVuLTExMjU2MjAxLmh0bWwvYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy90cmVuZHMvZmFjdC1jaGVjay1pcy1yZXlub2xkcy1yZWFsbHktZGlzY29udGludWluZy1pdHMtaWNvbmljLTA0NS1iYWxsLXBlbi0xMTI1NjIwMS5odG1s0gF-aHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL3RyZW5kcy9mYWN0LWNoZWNrLWlzLXJleW5vbGRzLXJlYWxseS1kaXNjb250aW51aW5nLWl0cy1pY29uaWMtMDQ1LWJhbGwtcGVuLTExMjU2MjAxLmh0bWwvYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 25 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy90cmVuZHMvZmFjdC1jaGVjay1pcy1yZXlub2xkcy1yZWFsbHktZGlzY29udGludWluZy1pdHMtaWNvbmljLTA0NS1iYWxsLXBlbi0xMTI1NjIwMS5odG1s0gF-aHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL3RyZW5kcy9mYWN0LWNoZWNrLWlzLXJleW5vbGRzLXJlYWxseS1kaXNjb250aW51aW5nLWl0cy1pY29uaWMtMDQ1LWJhbGwtcGVuLTExMjU2MjAxLmh0bWwvYW1w?oc=5\" target=\"_blank\">Fact-check: Is Reynolds really discontinuing its iconic 045 ball pen?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>"
+            ],
+            "source": [
+              {
+                "_": "Moneycontrol",
+                "$": {
+                  "url": "https://www.moneycontrol.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fact-Check: No, Reynolds Pens Is Not Discontinuing Their Products in India - The Quint"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZXF1aW50LmNvbS9uZXdzL3dlYnFvb2YvcmV5bm9sZHMtcGVucy0wNDUtZmluZS1jYXJidXJlLWRpc2NvbnRpbnVlZC1pbi1pbmRpYS1mYWN0LWNoZWNr0gFvaHR0cHM6Ly93d3cudGhlcXVpbnQuY29tL2FtcC9zdG9yeS9uZXdzL3dlYnFvb2YvcmV5bm9sZHMtcGVucy0wNDUtZmluZS1jYXJidXJlLWRpc2NvbnRpbnVlZC1pbi1pbmRpYS1mYWN0LWNoZWNr?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LnRoZXF1aW50LmNvbS9uZXdzL3dlYnFvb2YvcmV5bm9sZHMtcGVucy0wNDUtZmluZS1jYXJidXJlLWRpc2NvbnRpbnVlZC1pbi1pbmRpYS1mYWN0LWNoZWNr0gFvaHR0cHM6Ly93d3cudGhlcXVpbnQuY29tL2FtcC9zdG9yeS9uZXdzL3dlYnFvb2YvcmV5bm9sZHMtcGVucy0wNDUtZmluZS1jYXJidXJlLWRpc2NvbnRpbnVlZC1pbi1pbmRpYS1mYWN0LWNoZWNr",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 28 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZXF1aW50LmNvbS9uZXdzL3dlYnFvb2YvcmV5bm9sZHMtcGVucy0wNDUtZmluZS1jYXJidXJlLWRpc2NvbnRpbnVlZC1pbi1pbmRpYS1mYWN0LWNoZWNr0gFvaHR0cHM6Ly93d3cudGhlcXVpbnQuY29tL2FtcC9zdG9yeS9uZXdzL3dlYnFvb2YvcmV5bm9sZHMtcGVucy0wNDUtZmluZS1jYXJidXJlLWRpc2NvbnRpbnVlZC1pbi1pbmRpYS1mYWN0LWNoZWNr?oc=5\" target=\"_blank\">Fact-Check: No, Reynolds Pens Is Not Discontinuing Their Products in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quint</font>"
+            ],
+            "source": [
+              {
+                "_": "The Quint",
+                "$": {
+                  "url": "https://www.thequint.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds Sold 2 Companies For Nearly $2 Billion In Less Than 4 Years But Has No Problem Admitting He ... - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9yeWFuLXJleW5vbGRzLXNlbGxzLTItY29tcGFuaWVzLTE5NDY1MjYzNy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9yeWFuLXJleW5vbGRzLXNlbGxzLTItY29tcGFuaWVzLTE5NDY1MjYzNy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9yeWFuLXJleW5vbGRzLXNlbGxzLTItY29tcGFuaWVzLTE5NDY1MjYzNy5odG1s0gEA?oc=5\" target=\"_blank\">Ryan Reynolds Sold 2 Companies For Nearly $2 Billion In Less Than 4 Years But Has No Problem Admitting He ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "KPA Partners With Reynolds and Reynolds to Expand F&I Compliance Services - GlobeNewswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9lbi9uZXdzLXJlbGVhc2UvMjAyMy8xMS8xNS8yNzgxMTI3LzAvZW4vS1BBLVBhcnRuZXJzLVdpdGgtUmV5bm9sZHMtYW5kLVJleW5vbGRzLXRvLUV4cGFuZC1GLUktQ29tcGxpYW5jZS1TZXJ2aWNlcy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilAFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9lbi9uZXdzLXJlbGVhc2UvMjAyMy8xMS8xNS8yNzgxMTI3LzAvZW4vS1BBLVBhcnRuZXJzLVdpdGgtUmV5bm9sZHMtYW5kLVJleW5vbGRzLXRvLUV4cGFuZC1GLUktQ29tcGxpYW5jZS1TZXJ2aWNlcy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 14:16:34 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9lbi9uZXdzLXJlbGVhc2UvMjAyMy8xMS8xNS8yNzgxMTI3LzAvZW4vS1BBLVBhcnRuZXJzLVdpdGgtUmV5bm9sZHMtYW5kLVJleW5vbGRzLXRvLUV4cGFuZC1GLUktQ29tcGxpYW5jZS1TZXJ2aWNlcy5odG1s0gEA?oc=5\" target=\"_blank\">KPA Partners With Reynolds and Reynolds to Expand F&I Compliance Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>"
+            ],
+            "source": [
+              {
+                "_": "GlobeNewswire",
+                "$": {
+                  "url": "https://www.globenewswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds and Reynolds provides $375K in scholarship assistance to NU students - Northwood University"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5vcnRod29vZC5lZHUvbmV3cy9yZXlub2xkcy1hbmQtcmV5bm9sZHMtcHJvdmlkZXMtc2Nob2xhcnNoaXAtYXNzaXN0YW5jZS10by1udS1zdHVkZW50cy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3Lm5vcnRod29vZC5lZHUvbmV3cy9yZXlub2xkcy1hbmQtcmV5bm9sZHMtcHJvdmlkZXMtc2Nob2xhcnNoaXAtYXNzaXN0YW5jZS10by1udS1zdHVkZW50cy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5vcnRod29vZC5lZHUvbmV3cy9yZXlub2xkcy1hbmQtcmV5bm9sZHMtcHJvdmlkZXMtc2Nob2xhcnNoaXAtYXNzaXN0YW5jZS10by1udS1zdHVkZW50cy_SAQA?oc=5\" target=\"_blank\">Reynolds and Reynolds provides $375K in scholarship assistance to NU students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northwood University</font>"
+            ],
+            "source": [
+              {
+                "_": "Northwood University",
+                "$": {
+                  "url": "https://www.northwood.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Everything to Know About Ryan Reynolds' Businesses - Entrepreneur"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVudHJlcHJlbmV1ci5jb20vYnVzaW5lc3MtbmV3cy9ldmVyeXRoaW5nLXRvLWtub3ctYWJvdXQtcnlhbi1yZXlub2xkcy1idXNpbmVzc2VzLzQ1NDk2M9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LmVudHJlcHJlbmV1ci5jb20vYnVzaW5lc3MtbmV3cy9ldmVyeXRoaW5nLXRvLWtub3ctYWJvdXQtcnlhbi1yZXlub2xkcy1idXNpbmVzc2VzLzQ1NDk2M9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 29 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVudHJlcHJlbmV1ci5jb20vYnVzaW5lc3MtbmV3cy9ldmVyeXRoaW5nLXRvLWtub3ctYWJvdXQtcnlhbi1yZXlub2xkcy1idXNpbmVzc2VzLzQ1NDk2M9IBAA?oc=5\" target=\"_blank\">Everything to Know About Ryan Reynolds' Businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Entrepreneur</font>"
+            ],
+            "source": [
+              {
+                "_": "Entrepreneur",
+                "$": {
+                  "url": "https://www.entrepreneur.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds' Companies Bring In Millions A Year, Here's What He Owns - TheThings"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoZXRoaW5ncy5jb20vcnlhbi1yZXlub2xkcy1jb21wYW5pZXMtZWFybmluZy1wcm9maXRzLW1pbGxpb25zLWEteWVhci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3LnRoZXRoaW5ncy5jb20vcnlhbi1yZXlub2xkcy1jb21wYW5pZXMtZWFybmluZy1wcm9maXRzLW1pbGxpb25zLWEteWVhci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoZXRoaW5ncy5jb20vcnlhbi1yZXlub2xkcy1jb21wYW5pZXMtZWFybmluZy1wcm9maXRzLW1pbGxpb25zLWEteWVhci_SAQA?oc=5\" target=\"_blank\">Ryan Reynolds' Companies Bring In Millions A Year, Here's What He Owns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheThings</font>"
+            ],
+            "source": [
+              {
+                "_": "TheThings",
+                "$": {
+                  "url": "https://www.thethings.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds partners with TrueSpot following 'significant investment' - Auto Remarketing"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtcGFydG5lcnMtd2l0aC10cnVlc3BvdC1mb2xsb3dpbmctc2lnbmlmaWNhbnQtaW52ZXN0bWVudC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtcGFydG5lcnMtd2l0aC10cnVlc3BvdC1mb2xsb3dpbmctc2lnbmlmaWNhbnQtaW52ZXN0bWVudC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtcGFydG5lcnMtd2l0aC10cnVlc3BvdC1mb2xsb3dpbmctc2lnbmlmaWNhbnQtaW52ZXN0bWVudC_SAQA?oc=5\" target=\"_blank\">Reynolds partners with TrueSpot following 'significant investment'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Remarketing</font>"
+            ],
+            "source": [
+              {
+                "_": "Auto Remarketing",
+                "$": {
+                  "url": "https://www.autoremarketing.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds and Reynolds acquires DealerCorp Solutions - Automotive News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWFuZC1yZXlub2xkcy1hY3F1aXJlcy1kZWFsZXJjb3JwLXNvbHV0aW9uc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWFuZC1yZXlub2xkcy1hY3F1aXJlcy1kZWFsZXJjb3JwLXNvbHV0aW9uc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWFuZC1yZXlub2xkcy1hY3F1aXJlcy1kZWFsZXJjb3JwLXNvbHV0aW9uc9IBAA?oc=5\" target=\"_blank\">Reynolds and Reynolds acquires DealerCorp Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
+            ],
+            "source": [
+              {
+                "_": "Automotive News",
+                "$": {
+                  "url": "https://www.autonews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds Net Worth and Business Empire Explained - Investopedia"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vcnlhbi1yZXlub2xkcy1uZXQtd29ydGgtNzExMTQwONIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vcnlhbi1yZXlub2xkcy1uZXQtd29ydGgtNzExMTQwONIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 18 Feb 2023 13:41:09 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vcnlhbi1yZXlub2xkcy1uZXQtd29ydGgtNzExMTQwONIBAA?oc=5\" target=\"_blank\">Ryan Reynolds Net Worth and Business Empire Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>"
+            ],
+            "source": [
+              {
+                "_": "Investopedia",
+                "$": {
+                  "url": "https://www.investopedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "ZEVX Closes Over $20 Million Funding Round Led by Reynolds Capital and Appoints New CEO and Board Members - The EV Report"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3RoZWV2cmVwb3J0LmNvbS96ZXZ4LWNsb3Nlcy1vdmVyLTIwLW1pbGxpb24tZnVuZGluZy1yb3VuZC1sZWQtYnktcmV5bm9sZHMtY2FwaXRhbC1hbmQtYXBwb2ludHMtbmV3LWNlby1hbmQtYm9hcmQtbWVtYmVyc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3RoZWV2cmVwb3J0LmNvbS96ZXZ4LWNsb3Nlcy1vdmVyLTIwLW1pbGxpb24tZnVuZGluZy1yb3VuZC1sZWQtYnktcmV5bm9sZHMtY2FwaXRhbC1hbmQtYXBwb2ludHMtbmV3LWNlby1hbmQtYm9hcmQtbWVtYmVyc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3RoZWV2cmVwb3J0LmNvbS96ZXZ4LWNsb3Nlcy1vdmVyLTIwLW1pbGxpb24tZnVuZGluZy1yb3VuZC1sZWQtYnktcmV5bm9sZHMtY2FwaXRhbC1hbmQtYXBwb2ludHMtbmV3LWNlby1hbmQtYm9hcmQtbWVtYmVyc9IBAA?oc=5\" target=\"_blank\">ZEVX Closes Over $20 Million Funding Round Led by Reynolds Capital and Appoints New CEO and Board Members</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The EV Report</font>"
+            ],
+            "source": [
+              {
+                "_": "The EV Report",
+                "$": {
+                  "url": "https://theevreport.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "T-Mobile to snap up Ryan Reynolds’ company in £1.1bn deal - Insider Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lmluc2lkZXJtZWRpYS5jb20vbmV3cy93YWxlcy90LW1vYmlsZS10by1zbmFwLXVwLXJ5YW4tcmV5bm9sZHMtY29tcGFueS1pbi0xLjFibi1kZWFs0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3Lmluc2lkZXJtZWRpYS5jb20vbmV3cy93YWxlcy90LW1vYmlsZS10by1zbmFwLXVwLXJ5YW4tcmV5bm9sZHMtY29tcGFueS1pbi0xLjFibi1kZWFs0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lmluc2lkZXJtZWRpYS5jb20vbmV3cy93YWxlcy90LW1vYmlsZS10by1zbmFwLXVwLXJ5YW4tcmV5bm9sZHMtY29tcGFueS1pbi0xLjFibi1kZWFs0gEA?oc=5\" target=\"_blank\">T-Mobile to snap up Ryan Reynolds’ company in £1.1bn deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Insider Media",
+                "$": {
+                  "url": "https://www.insidermedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds Sold His Company For $1.3 Billion; Now He's Investing In Something He Knows Nothing About - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9yeWFuLXJleW5vbGRzLXNvbGQtY29tcGFueS0xLTEzMDAzMTAzMC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9yeWFuLXJleW5vbGRzLXNvbGQtY29tcGFueS0xLTEzMDAzMTAzMC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9yeWFuLXJleW5vbGRzLXNvbGQtY29tcGFueS0xLTEzMDAzMTAzMC5odG1s0gEA?oc=5\" target=\"_blank\">Ryan Reynolds Sold His Company For $1.3 Billion; Now He's Investing In Something He Knows Nothing About</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds acquires Xzilon, representing fourth addition so far this year - Auto Remarketing"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtYWNxdWlyZXMteHppbG9uLXJlcHJlc2VudGluZy1mb3VydGgtYWRkaXRpb24tc28tZmFyLXRoaXMteWVhci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtYWNxdWlyZXMteHppbG9uLXJlcHJlc2VudGluZy1mb3VydGgtYWRkaXRpb24tc28tZmFyLXRoaXMteWVhci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 14 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXIvcmV5bm9sZHMtYWNxdWlyZXMteHppbG9uLXJlcHJlc2VudGluZy1mb3VydGgtYWRkaXRpb24tc28tZmFyLXRoaXMteWVhci_SAQA?oc=5\" target=\"_blank\">Reynolds acquires Xzilon, representing fourth addition so far this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Remarketing</font>"
+            ],
+            "source": [
+              {
+                "_": "Auto Remarketing",
+                "$": {
+                  "url": "https://www.autoremarketing.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds and Reynolds Provides Scholarship Assistance to Northwood University Students - AftermarketNews.com (AMN)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmFmdGVybWFya2V0bmV3cy5jb20vcmV5bm9sZHMtYW5kLXJleW5vbGRzLXByb3ZpZGVzLXNjaG9sYXJzaGlwLWFzc2lzdGFuY2UtdG8tbm9ydGh3b29kLXVuaXZlcnNpdHktc3R1ZGVudHMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmFmdGVybWFya2V0bmV3cy5jb20vcmV5bm9sZHMtYW5kLXJleW5vbGRzLXByb3ZpZGVzLXNjaG9sYXJzaGlwLWFzc2lzdGFuY2UtdG8tbm9ydGh3b29kLXVuaXZlcnNpdHktc3R1ZGVudHMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 19:02:26 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmFmdGVybWFya2V0bmV3cy5jb20vcmV5bm9sZHMtYW5kLXJleW5vbGRzLXByb3ZpZGVzLXNjaG9sYXJzaGlwLWFzc2lzdGFuY2UtdG8tbm9ydGh3b29kLXVuaXZlcnNpdHktc3R1ZGVudHMv0gEA?oc=5\" target=\"_blank\">Reynolds and Reynolds Provides Scholarship Assistance to Northwood University Students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AftermarketNews.com (AMN)</font>"
+            ],
+            "source": [
+              {
+                "_": "AftermarketNews.com (AMN)",
+                "$": {
+                  "url": "https://www.aftermarketnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds’s Mint Mobile sale will earn him an estimated $300 million. Here’s how he grew the telecom startup - Fortune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wMy8xNy9yeWFuLXJleW5vbGRzLW1pbnQtbW9iaWxlLXNhbGUtdC1tb2JpbGUtZ3Jvd3RoL9IBUmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wMy8xNy9yeWFuLXJleW5vbGRzLW1pbnQtbW9iaWxlLXNhbGUtdC1tb2JpbGUtZ3Jvd3RoL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wMy8xNy9yeWFuLXJleW5vbGRzLW1pbnQtbW9iaWxlLXNhbGUtdC1tb2JpbGUtZ3Jvd3RoL9IBUmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wMy8xNy9yeWFuLXJleW5vbGRzLW1pbnQtbW9iaWxlLXNhbGUtdC1tb2JpbGUtZ3Jvd3RoL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 17 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wMy8xNy9yeWFuLXJleW5vbGRzLW1pbnQtbW9iaWxlLXNhbGUtdC1tb2JpbGUtZ3Jvd3RoL9IBUmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8wMy8xNy9yeWFuLXJleW5vbGRzLW1pbnQtbW9iaWxlLXNhbGUtdC1tb2JpbGUtZ3Jvd3RoL2FtcC8?oc=5\" target=\"_blank\">Ryan Reynolds’s Mint Mobile sale will earn him an estimated $300 million. Here’s how he grew the telecom startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+            ],
+            "source": [
+              {
+                "_": "Fortune",
+                "$": {
+                  "url": "https://fortune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds Sells His Wireless Company for More Than $1 Billion: 'So Proud and Excited' - PEOPLE"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vcGVvcGxlLmNvbS9tb3ZpZXMvcnlhbi1yZXlub2xkcy1zZWxscy13aXJlbGVzcy1jb21wYW55LWZvci1tb3JlLXRoYW4tMS1iaWxsaW9uLWRvbGxhcnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vcGVvcGxlLmNvbS9tb3ZpZXMvcnlhbi1yZXlub2xkcy1zZWxscy13aXJlbGVzcy1jb21wYW55LWZvci1tb3JlLXRoYW4tMS1iaWxsaW9uLWRvbGxhcnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vcGVvcGxlLmNvbS9tb3ZpZXMvcnlhbi1yZXlub2xkcy1zZWxscy13aXJlbGVzcy1jb21wYW55LWZvci1tb3JlLXRoYW4tMS1iaWxsaW9uLWRvbGxhcnMv0gEA?oc=5\" target=\"_blank\">Ryan Reynolds Sells His Wireless Company for More Than $1 Billion: 'So Proud and Excited'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PEOPLE</font>"
+            ],
+            "source": [
+              {
+                "_": "PEOPLE",
+                "$": {
+                  "url": "https://people.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How Much Did Ryan Reynolds Just Spend To Own A Formula 1 Team? - TheThings"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnRoZXRoaW5ncy5jb20vZGlkLXJ5YW4tcmV5bm9sZHMtYnV5LWEtZm9ybXVsYS0xLXJhY2UtdGVhbS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3LnRoZXRoaW5ncy5jb20vZGlkLXJ5YW4tcmV5bm9sZHMtYnV5LWEtZm9ybXVsYS0xLXJhY2UtdGVhbS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 08 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnRoZXRoaW5ncy5jb20vZGlkLXJ5YW4tcmV5bm9sZHMtYnV5LWEtZm9ybXVsYS0xLXJhY2UtdGVhbS_SAQA?oc=5\" target=\"_blank\">How Much Did Ryan Reynolds Just Spend To Own A Formula 1 Team?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheThings</font>"
+            ],
+            "source": [
+              {
+                "_": "TheThings",
+                "$": {
+                  "url": "https://www.thethings.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds Sells Mobile Company in Jaw-Dropping $1.35 Billion Deal - E! NEWS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTM2ODEzNy9yeWFuLXJleW5vbGRzLXNlbGxzLW1vYmlsZS1jb21wYW55LWluLWphdy1kcm9wcGluZy1zMS0zNS1iaWxsaW9uLWRlYWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTM2ODEzNy9yeWFuLXJleW5vbGRzLXNlbGxzLW1vYmlsZS1jb21wYW55LWluLWphdy1kcm9wcGluZy1zMS0zNS1iaWxsaW9uLWRlYWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTM2ODEzNy9yeWFuLXJleW5vbGRzLXNlbGxzLW1vYmlsZS1jb21wYW55LWluLWphdy1kcm9wcGluZy1zMS0zNS1iaWxsaW9uLWRlYWzSAQA?oc=5\" target=\"_blank\">Ryan Reynolds Sells Mobile Company in Jaw-Dropping $1.35 Billion Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E! NEWS</font>"
+            ],
+            "source": [
+              {
+                "_": "E! NEWS",
+                "$": {
+                  "url": "https://www.eonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds' net worth: How much money the actor really makes - TheStreet"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vcGVyc29uYWxpdGllcy9yeWFuLXJleW5vbGRzLW5ldC13b3J0aC13aGF0LXRoZS1hY3Rvci1yZWFsbHktbWFrZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vcGVyc29uYWxpdGllcy9yeWFuLXJleW5vbGRzLW5ldC13b3J0aC13aGF0LXRoZS1hY3Rvci1yZWFsbHktbWFrZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 14 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vcGVyc29uYWxpdGllcy9yeWFuLXJleW5vbGRzLW5ldC13b3J0aC13aGF0LXRoZS1hY3Rvci1yZWFsbHktbWFrZXPSAQA?oc=5\" target=\"_blank\">Ryan Reynolds' net worth: How much money the actor really makes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet</font>"
+            ],
+            "source": [
+              {
+                "_": "TheStreet",
+                "$": {
+                  "url": "https://www.thestreet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds Announces Major Deadpool 3 Casting With X-Men Tease - The Direct"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdGhlZGlyZWN0LmNvbS9hcnRpY2xlL3J5YW4tcmV5bm9sZHMteC1tZW4tZGVhZHBvb2wtM9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vdGhlZGlyZWN0LmNvbS9hcnRpY2xlL3J5YW4tcmV5bm9sZHMteC1tZW4tZGVhZHBvb2wtM9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 08 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdGhlZGlyZWN0LmNvbS9hcnRpY2xlL3J5YW4tcmV5bm9sZHMteC1tZW4tZGVhZHBvb2wtM9IBAA?oc=5\" target=\"_blank\">Ryan Reynolds Announces Major Deadpool 3 Casting With X-Men Tease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Direct</font>"
+            ],
+            "source": [
+              {
+                "_": "The Direct",
+                "$": {
+                  "url": "https://thedirect.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Actor Ryan Reynolds adds payments company Nuvei to portfolio of business interests - Financial Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vZmluYW5jaWFscG9zdC5jb20vZnAtZmluYW5jZS9maW50ZWNoL3J5YW4tcmV5bm9sZHMtYWRkcy1maW50ZWNoLWNvbXBhbnktbnV2ZWktdG8tcG9ydGZvbGlv0gGQAWh0dHBzOi8vZmluYW5jaWFscG9zdC5jb20vZnAtZmluYW5jZS9maW50ZWNoL3J5YW4tcmV5bm9sZHMtYWRkcy1maW50ZWNoLWNvbXBhbnktbnV2ZWktdG8tcG9ydGZvbGlvL3djbS9jNTczOTY2My1jZGJmLTQzN2ItYTdiYS1lZjQ4N2FiNGZiM2UvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vZmluYW5jaWFscG9zdC5jb20vZnAtZmluYW5jZS9maW50ZWNoL3J5YW4tcmV5bm9sZHMtYWRkcy1maW50ZWNoLWNvbXBhbnktbnV2ZWktdG8tcG9ydGZvbGlv0gGQAWh0dHBzOi8vZmluYW5jaWFscG9zdC5jb20vZnAtZmluYW5jZS9maW50ZWNoL3J5YW4tcmV5bm9sZHMtYWRkcy1maW50ZWNoLWNvbXBhbnktbnV2ZWktdG8tcG9ydGZvbGlvL3djbS9jNTczOTY2My1jZGJmLTQzN2ItYTdiYS1lZjQ4N2FiNGZiM2UvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vZmluYW5jaWFscG9zdC5jb20vZnAtZmluYW5jZS9maW50ZWNoL3J5YW4tcmV5bm9sZHMtYWRkcy1maW50ZWNoLWNvbXBhbnktbnV2ZWktdG8tcG9ydGZvbGlv0gGQAWh0dHBzOi8vZmluYW5jaWFscG9zdC5jb20vZnAtZmluYW5jZS9maW50ZWNoL3J5YW4tcmV5bm9sZHMtYWRkcy1maW50ZWNoLWNvbXBhbnktbnV2ZWktdG8tcG9ydGZvbGlvL3djbS9jNTczOTY2My1jZGJmLTQzN2ItYTdiYS1lZjQ4N2FiNGZiM2UvYW1wLw?oc=5\" target=\"_blank\">Actor Ryan Reynolds adds payments company Nuvei to portfolio of business interests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Post</font>"
+            ],
+            "source": [
+              {
+                "_": "Financial Post",
+                "$": {
+                  "url": "https://financialpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds and Rob McElhenney Buy Stake in F1 Racing Team - Men's Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm1lbnNqb3VybmFsLmNvbS9uZXdzL3J5YW4tcmV5bm9sZHMtcm9iLW1jZWxoZW5uZXktYnV5LXN0YWtlLWZvcm11bGEtb25lLXRlYW3SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3Lm1lbnNqb3VybmFsLmNvbS9uZXdzL3J5YW4tcmV5bm9sZHMtcm9iLW1jZWxoZW5uZXktYnV5LXN0YWtlLWZvcm11bGEtb25lLXRlYW3SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 26 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm1lbnNqb3VybmFsLmNvbS9uZXdzL3J5YW4tcmV5bm9sZHMtcm9iLW1jZWxoZW5uZXktYnV5LXN0YWtlLWZvcm11bGEtb25lLXRlYW3SAQA?oc=5\" target=\"_blank\">Ryan Reynolds and Rob McElhenney Buy Stake in F1 Racing Team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Men's Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Men's Journal",
+                "$": {
+                  "url": "https://www.mensjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds has astonishing list of companies after $1bn deal and Wrexham cash injection - The Mirror"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9zcG9ydC9mb290YmFsbC9uZXdzL3J5YW4tcmV5bm9sZHMtd3JleGhhbS1uZXQtd29ydGgtMzEyOTgxNDPSAVlodHRwczovL3d3dy5taXJyb3IuY28udWsvc3BvcnQvZm9vdGJhbGwvbmV3cy9yeWFuLXJleW5vbGRzLXdyZXhoYW0tbmV0LXdvcnRoLTMxMjk4MTQzLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9zcG9ydC9mb290YmFsbC9uZXdzL3J5YW4tcmV5bm9sZHMtd3JleGhhbS1uZXQtd29ydGgtMzEyOTgxNDPSAVlodHRwczovL3d3dy5taXJyb3IuY28udWsvc3BvcnQvZm9vdGJhbGwvbmV3cy9yeWFuLXJleW5vbGRzLXdyZXhoYW0tbmV0LXdvcnRoLTMxMjk4MTQzLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 29 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9zcG9ydC9mb290YmFsbC9uZXdzL3J5YW4tcmV5bm9sZHMtd3JleGhhbS1uZXQtd29ydGgtMzEyOTgxNDPSAVlodHRwczovL3d3dy5taXJyb3IuY28udWsvc3BvcnQvZm9vdGJhbGwvbmV3cy9yeWFuLXJleW5vbGRzLXdyZXhoYW0tbmV0LXdvcnRoLTMxMjk4MTQzLmFtcA?oc=5\" target=\"_blank\">Ryan Reynolds has astonishing list of companies after $1bn deal and Wrexham cash injection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mirror</font>"
+            ],
+            "source": [
+              {
+                "_": "The Mirror",
+                "$": {
+                  "url": "https://www.mirror.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds and Reynolds Company Foundation creates new scholarships - University of Dayton - News Home"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vdWRheXRvbi5lZHUvbmV3cy9hcnRpY2xlcy8yMDIyLzEwL3JleW5vbGRzX2RvbmF0aW9uLnBocNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vdWRheXRvbi5lZHUvbmV3cy9hcnRpY2xlcy8yMDIyLzEwL3JleW5vbGRzX2RvbmF0aW9uLnBocNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vdWRheXRvbi5lZHUvbmV3cy9hcnRpY2xlcy8yMDIyLzEwL3JleW5vbGRzX2RvbmF0aW9uLnBocNIBAA?oc=5\" target=\"_blank\">Reynolds and Reynolds Company Foundation creates new scholarships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Dayton - News Home</font>"
+            ],
+            "source": [
+              {
+                "_": "University of Dayton - News Home",
+                "$": {
+                  "url": "https://udayton.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds becomes investor in Nuvei fintech company - Fox Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tYXJrZXRzL3J5YW4tcmV5bm9sZHMtYmVjb21lcy1pbnZlc3Rvci1udXZlaS1maW50ZWNoLWNvbXBhbnnSAVxodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vbWFya2V0cy9yeWFuLXJleW5vbGRzLWJlY29tZXMtaW52ZXN0b3ItbnV2ZWktZmludGVjaC1jb21wYW55LmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tYXJrZXRzL3J5YW4tcmV5bm9sZHMtYmVjb21lcy1pbnZlc3Rvci1udXZlaS1maW50ZWNoLWNvbXBhbnnSAVxodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vbWFya2V0cy9yeWFuLXJleW5vbGRzLWJlY29tZXMtaW52ZXN0b3ItbnV2ZWktZmludGVjaC1jb21wYW55LmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tYXJrZXRzL3J5YW4tcmV5bm9sZHMtYmVjb21lcy1pbnZlc3Rvci1udXZlaS1maW50ZWNoLWNvbXBhbnnSAVxodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vbWFya2V0cy9yeWFuLXJleW5vbGRzLWJlY29tZXMtaW52ZXN0b3ItbnV2ZWktZmludGVjaC1jb21wYW55LmFtcA?oc=5\" target=\"_blank\">Ryan Reynolds becomes investor in Nuvei fintech company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox Business",
+                "$": {
+                  "url": "https://www.foxbusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Reynolds Co. Expands Into PVF, Acquires Flow-Zone - Industrial Distribution"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmluZGRpc3QuY29tL21lcmdlcnMtYWNxdWlzaXRpb25zL25ld3MvMjExMTYxOTkvdGhlLXJleW5vbGRzLWNvLWV4cGFuZHMtaW50by1wdmYtYWNxdWlyZXMtZmxvd3pvbmXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmluZGRpc3QuY29tL21lcmdlcnMtYWNxdWlzaXRpb25zL25ld3MvMjExMTYxOTkvdGhlLXJleW5vbGRzLWNvLWV4cGFuZHMtaW50by1wdmYtYWNxdWlyZXMtZmxvd3pvbmXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 14 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmluZGRpc3QuY29tL21lcmdlcnMtYWNxdWlzaXRpb25zL25ld3MvMjExMTYxOTkvdGhlLXJleW5vbGRzLWNvLWV4cGFuZHMtaW50by1wdmYtYWNxdWlyZXMtZmxvd3pvbmXSAQA?oc=5\" target=\"_blank\">The Reynolds Co. Expands Into PVF, Acquires Flow-Zone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Industrial Distribution</font>"
+            ],
+            "source": [
+              {
+                "_": "Industrial Distribution",
+                "$": {
+                  "url": "https://www.inddist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds' Mint Mobile sale to T-Mobile earns actor over $300m - BBC.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjQ5ODQyOTHSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY0OTg0MjkxLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjQ5ODQyOTHSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY0OTg0MjkxLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjQ5ODQyOTHSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY0OTg0MjkxLmFtcA?oc=5\" target=\"_blank\">Ryan Reynolds' Mint Mobile sale to T-Mobile earns actor over $300m</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC.com</font>"
+            ],
+            "source": [
+              {
+                "_": "BBC.com",
+                "$": {
+                  "url": "https://www.bbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Reynolds Company Buying Mid-Coast Electric Supply - Industrial Distribution"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmluZGRpc3QuY29tL21lcmdlcnMtYWNxdWlzaXRpb25zL25ld3MvMjE1MzMwMDkvdGhlLXJleW5vbGRzLWNvbXBhbnktYnV5aW5nLW1pZGNvYXN0LWVsZWN0cmljLXN1cHBsedIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LmluZGRpc3QuY29tL21lcmdlcnMtYWNxdWlzaXRpb25zL25ld3MvMjE1MzMwMDkvdGhlLXJleW5vbGRzLWNvbXBhbnktYnV5aW5nLW1pZGNvYXN0LWVsZWN0cmljLXN1cHBsedIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 25 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmluZGRpc3QuY29tL21lcmdlcnMtYWNxdWlzaXRpb25zL25ld3MvMjE1MzMwMDkvdGhlLXJleW5vbGRzLWNvbXBhbnktYnV5aW5nLW1pZGNvYXN0LWVsZWN0cmljLXN1cHBsedIBAA?oc=5\" target=\"_blank\">The Reynolds Company Buying Mid-Coast Electric Supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Industrial Distribution</font>"
+            ],
+            "source": [
+              {
+                "_": "Industrial Distribution",
+                "$": {
+                  "url": "https://www.inddist.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds buys Canadian automotive software company DealerCorp Solutions - Auto Remarketing"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXJjYW5hZGEvcmV5bm9sZHMtYnV5cy1jYW5hZGlhbi1hdXRvbW90aXZlLXNvZnR3YXJlLWNvbXBhbnktZGVhbGVyY29ycC1zb2x1dGlvbnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXJjYW5hZGEvcmV5bm9sZHMtYnV5cy1jYW5hZGlhbi1hdXRvbW90aXZlLXNvZnR3YXJlLWNvbXBhbnktZGVhbGVyY29ycC1zb2x1dGlvbnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 03 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmF1dG9yZW1hcmtldGluZy5jb20vYXJjYW5hZGEvcmV5bm9sZHMtYnV5cy1jYW5hZGlhbi1hdXRvbW90aXZlLXNvZnR3YXJlLWNvbXBhbnktZGVhbGVyY29ycC1zb2x1dGlvbnMv0gEA?oc=5\" target=\"_blank\">Reynolds buys Canadian automotive software company DealerCorp Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Remarketing</font>"
+            ],
+            "source": [
+              {
+                "_": "Auto Remarketing",
+                "$": {
+                  "url": "https://www.autoremarketing.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Reynolds Company Strikes a Deal for Mid-Coast Electric Supply - Modern Distribution Management"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm1kbS5jb20vbmV3cy9vcGVyYXRpb25zL21lcmdlcnMtYWNxdWlzaXRpb25zL3RoZS1yZXlub2xkcy1jb21wYW55LXN0cmlrZXMtYS1kZWFsLWZvci1taWQtY29hc3QtZWxlY3RyaWMtc3VwcGx5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3Lm1kbS5jb20vbmV3cy9vcGVyYXRpb25zL21lcmdlcnMtYWNxdWlzaXRpb25zL3RoZS1yZXlub2xkcy1jb21wYW55LXN0cmlrZXMtYS1kZWFsLWZvci1taWQtY29hc3QtZWxlY3RyaWMtc3VwcGx5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 25 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm1kbS5jb20vbmV3cy9vcGVyYXRpb25zL21lcmdlcnMtYWNxdWlzaXRpb25zL3RoZS1yZXlub2xkcy1jb21wYW55LXN0cmlrZXMtYS1kZWFsLWZvci1taWQtY29hc3QtZWxlY3RyaWMtc3VwcGx5L9IBAA?oc=5\" target=\"_blank\">The Reynolds Company Strikes a Deal for Mid-Coast Electric Supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Distribution Management</font>"
+            ],
+            "source": [
+              {
+                "_": "Modern Distribution Management",
+                "$": {
+                  "url": "https://www.mdm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Serent Capital Announces Acquisition of Portfolio Company Motility Software By Reynolds and Reynolds - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDcxMTAwNTI5OC9lbi9TZXJlbnQtQ2FwaXRhbC1Bbm5vdW5jZXMtQWNxdWlzaXRpb24tb2YtUG9ydGZvbGlvLUNvbXBhbnktTW90aWxpdHktU29mdHdhcmUtQnktUmV5bm9sZHMtYW5kLVJleW5vbGRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDcxMTAwNTI5OC9lbi9TZXJlbnQtQ2FwaXRhbC1Bbm5vdW5jZXMtQWNxdWlzaXRpb24tb2YtUG9ydGZvbGlvLUNvbXBhbnktTW90aWxpdHktU29mdHdhcmUtQnktUmV5bm9sZHMtYW5kLVJleW5vbGRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDcxMTAwNTI5OC9lbi9TZXJlbnQtQ2FwaXRhbC1Bbm5vdW5jZXMtQWNxdWlzaXRpb24tb2YtUG9ydGZvbGlvLUNvbXBhbnktTW90aWxpdHktU29mdHdhcmUtQnktUmV5bm9sZHMtYW5kLVJleW5vbGRz0gEA?oc=5\" target=\"_blank\">Serent Capital Announces Acquisition of Portfolio Company Motility Software By Reynolds and Reynolds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Common Pen: how Reynolds makes and sells its most recognizable product yet - CNBCTV18"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5jbmJjdHYxOC5jb20vYnVzaW5lc3MvY29tcGFuaWVzL2NvbW1vbi1wZW4taG93LXJleW5vbGRzLW1ha2VzLWFuZC1zZWxscy1pdHMtbW9zdC1yZWNvZ25pemFibGUtcHJvZHVjdC15ZXQtMTA1NDY4MDEuaHRt0gGGAWh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS9idXNpbmVzcy9jb21wYW5pZXMvY29tbW9uLXBlbi1ob3ctcmV5bm9sZHMtbWFrZXMtYW5kLXNlbGxzLWl0cy1tb3N0LXJlY29nbml6YWJsZS1wcm9kdWN0LXlldC0xMDU0NjgwMS5odG0vYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5jbmJjdHYxOC5jb20vYnVzaW5lc3MvY29tcGFuaWVzL2NvbW1vbi1wZW4taG93LXJleW5vbGRzLW1ha2VzLWFuZC1zZWxscy1pdHMtbW9zdC1yZWNvZ25pemFibGUtcHJvZHVjdC15ZXQtMTA1NDY4MDEuaHRt0gGGAWh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS9idXNpbmVzcy9jb21wYW5pZXMvY29tbW9uLXBlbi1ob3ctcmV5bm9sZHMtbWFrZXMtYW5kLXNlbGxzLWl0cy1tb3N0LXJlY29nbml6YWJsZS1wcm9kdWN0LXlldC0xMDU0NjgwMS5odG0vYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Aug 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5jbmJjdHYxOC5jb20vYnVzaW5lc3MvY29tcGFuaWVzL2NvbW1vbi1wZW4taG93LXJleW5vbGRzLW1ha2VzLWFuZC1zZWxscy1pdHMtbW9zdC1yZWNvZ25pemFibGUtcHJvZHVjdC15ZXQtMTA1NDY4MDEuaHRt0gGGAWh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS9idXNpbmVzcy9jb21wYW5pZXMvY29tbW9uLXBlbi1ob3ctcmV5bm9sZHMtbWFrZXMtYW5kLXNlbGxzLWl0cy1tb3N0LXJlY29nbml6YWJsZS1wcm9kdWN0LXlldC0xMDU0NjgwMS5odG0vYW1w?oc=5\" target=\"_blank\">Common Pen: how Reynolds makes and sells its most recognizable product yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBCTV18</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBCTV18",
+                "$": {
+                  "url": "https://www.cnbctv18.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds joins other big celebrity business deals with $1.35B Mint Mobile sale - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9yeWFuLXJleW5vbGRzLWNlbGVicml0eS1idXNpbmVzcy1kZWFscy1taW50LW1vYmlsZS1zYWxlLTE0MjQxNDU5Ni5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9yeWFuLXJleW5vbGRzLWNlbGVicml0eS1idXNpbmVzcy1kZWFscy1taW50LW1vYmlsZS1zYWxlLTE0MjQxNDU5Ni5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9yeWFuLXJleW5vbGRzLWNlbGVicml0eS1idXNpbmVzcy1kZWFscy1taW50LW1vYmlsZS1zYWxlLTE0MjQxNDU5Ni5odG1s0gEA?oc=5\" target=\"_blank\">Ryan Reynolds joins other big celebrity business deals with $1.35B Mint Mobile sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How many companies does Ryan Reynolds own? Inside his business empire... - The US Sun"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZS1zdW4uY29tL21vbmV5Lzc5Njc1MzYvcnlhbi1yZXlub2xkcy1idXNpbmVzcy1vd25lci1jb21wYW55LW1pbnQtd3JleGhhbS_SAVxodHRwczovL3d3dy50aGUtc3VuLmNvbS9tb25leS83OTY3NTM2L3J5YW4tcmV5bm9sZHMtYnVzaW5lc3Mtb3duZXItY29tcGFueS1taW50LXdyZXhoYW0vYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LnRoZS1zdW4uY29tL21vbmV5Lzc5Njc1MzYvcnlhbi1yZXlub2xkcy1idXNpbmVzcy1vd25lci1jb21wYW55LW1pbnQtd3JleGhhbS_SAVxodHRwczovL3d3dy50aGUtc3VuLmNvbS9tb25leS83OTY3NTM2L3J5YW4tcmV5bm9sZHMtYnVzaW5lc3Mtb3duZXItY29tcGFueS1taW50LXdyZXhoYW0vYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZS1zdW4uY29tL21vbmV5Lzc5Njc1MzYvcnlhbi1yZXlub2xkcy1idXNpbmVzcy1vd25lci1jb21wYW55LW1pbnQtd3JleGhhbS_SAVxodHRwczovL3d3dy50aGUtc3VuLmNvbS9tb25leS83OTY3NTM2L3J5YW4tcmV5bm9sZHMtYnVzaW5lc3Mtb3duZXItY29tcGFueS1taW50LXdyZXhoYW0vYW1wLw?oc=5\" target=\"_blank\">How many companies does Ryan Reynolds own? Inside his business empire...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The US Sun</font>"
+            ],
+            "source": [
+              {
+                "_": "The US Sun",
+                "$": {
+                  "url": "https://www.the-sun.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "T-Mobile to Buy Ryan Reynolds’ Mint Mobile - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMTYvYnVzaW5lc3Mvcnlhbi1yZXlub2xkcy1taW50LXQtbW9iaWxlLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMTYvYnVzaW5lc3Mvcnlhbi1yZXlub2xkcy1taW50LXQtbW9iaWxlLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMTYvYnVzaW5lc3Mvcnlhbi1yZXlub2xkcy1taW50LXQtbW9iaWxlLmh0bWzSAQA?oc=5\" target=\"_blank\">T-Mobile to Buy Ryan Reynolds’ Mint Mobile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "T-Mobile acquires Ryan Reynolds' company Mint Mobile for $1.35billion - Metro.co.uk"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wMy8xNS90LW1vYmlsZS1hY3F1aXJlcy1yeWFuLXJleW5vbGRzLWNvbXBhbnktbWludC1tb2JpbGUtZm9yLTEtMzViaWxsaW9uLTE4NDUwNjUyL9IBcGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wMy8xNS90LW1vYmlsZS1hY3F1aXJlcy1yeWFuLXJleW5vbGRzLWNvbXBhbnktbWludC1tb2JpbGUtZm9yLTEtMzViaWxsaW9uLTE4NDUwNjUyL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wMy8xNS90LW1vYmlsZS1hY3F1aXJlcy1yeWFuLXJleW5vbGRzLWNvbXBhbnktbWludC1tb2JpbGUtZm9yLTEtMzViaWxsaW9uLTE4NDUwNjUyL9IBcGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wMy8xNS90LW1vYmlsZS1hY3F1aXJlcy1yeWFuLXJleW5vbGRzLWNvbXBhbnktbWludC1tb2JpbGUtZm9yLTEtMzViaWxsaW9uLTE4NDUwNjUyL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wMy8xNS90LW1vYmlsZS1hY3F1aXJlcy1yeWFuLXJleW5vbGRzLWNvbXBhbnktbWludC1tb2JpbGUtZm9yLTEtMzViaWxsaW9uLTE4NDUwNjUyL9IBcGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wMy8xNS90LW1vYmlsZS1hY3F1aXJlcy1yeWFuLXJleW5vbGRzLWNvbXBhbnktbWludC1tb2JpbGUtZm9yLTEtMzViaWxsaW9uLTE4NDUwNjUyL2FtcC8?oc=5\" target=\"_blank\">T-Mobile acquires Ryan Reynolds' company Mint Mobile for $1.35billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metro.co.uk</font>"
+            ],
+            "source": [
+              {
+                "_": "Metro.co.uk",
+                "$": {
+                  "url": "https://metro.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Minted: Ryan Reynolds-backed company sold in $2b deal - Sydney Morning Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnNtaC5jb20uYXUvYnVzaW5lc3MvY29tcGFuaWVzL21pbnRlZC1yeWFuLXJleW5vbGRzLWJhY2tlZC1jb21wYW55LXNvbGQtaW4tMmItZGVhbC0yMDIzMDMxNi1wNWNzajQuaHRtbNIBcmh0dHBzOi8vYW1wLnNtaC5jb20uYXUvYnVzaW5lc3MvY29tcGFuaWVzL21pbnRlZC1yeWFuLXJleW5vbGRzLWJhY2tlZC1jb21wYW55LXNvbGQtaW4tMmItZGVhbC0yMDIzMDMxNi1wNWNzajQuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LnNtaC5jb20uYXUvYnVzaW5lc3MvY29tcGFuaWVzL21pbnRlZC1yeWFuLXJleW5vbGRzLWJhY2tlZC1jb21wYW55LXNvbGQtaW4tMmItZGVhbC0yMDIzMDMxNi1wNWNzajQuaHRtbNIBcmh0dHBzOi8vYW1wLnNtaC5jb20uYXUvYnVzaW5lc3MvY29tcGFuaWVzL21pbnRlZC1yeWFuLXJleW5vbGRzLWJhY2tlZC1jb21wYW55LXNvbGQtaW4tMmItZGVhbC0yMDIzMDMxNi1wNWNzajQuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnNtaC5jb20uYXUvYnVzaW5lc3MvY29tcGFuaWVzL21pbnRlZC1yeWFuLXJleW5vbGRzLWJhY2tlZC1jb21wYW55LXNvbGQtaW4tMmItZGVhbC0yMDIzMDMxNi1wNWNzajQuaHRtbNIBcmh0dHBzOi8vYW1wLnNtaC5jb20uYXUvYnVzaW5lc3MvY29tcGFuaWVzL21pbnRlZC1yeWFuLXJleW5vbGRzLWJhY2tlZC1jb21wYW55LXNvbGQtaW4tMmItZGVhbC0yMDIzMDMxNi1wNWNzajQuaHRtbA?oc=5\" target=\"_blank\">Minted: Ryan Reynolds-backed company sold in $2b deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sydney Morning Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "Sydney Morning Herald",
+                "$": {
+                  "url": "https://www.smh.com.au"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds & Reynolds aims to shed its inflexible image - Automotive News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLXJleW5vbGRzLWFpbXMtc2hlZC1pdHMtaW5mbGV4aWJsZS1pbWFnZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLXJleW5vbGRzLWFpbXMtc2hlZC1pdHMtaW5mbGV4aWJsZS1pbWFnZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLXJleW5vbGRzLWFpbXMtc2hlZC1pdHMtaW5mbGV4aWJsZS1pbWFnZdIBAA?oc=5\" target=\"_blank\">Reynolds & Reynolds aims to shed its inflexible image</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
+            ],
+            "source": [
+              {
+                "_": "Automotive News",
+                "$": {
+                  "url": "https://www.autonews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wright State Newsroom – Powerful partnership - Wright State University"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd2ViYXBwMi53cmlnaHQuZWR1L3dlYjEvbmV3c3Jvb20vMjAyMi8xMC8yNy9wb3dlcmZ1bC1wYXJ0bmVyc2hpcC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd2ViYXBwMi53cmlnaHQuZWR1L3dlYjEvbmV3c3Jvb20vMjAyMi8xMC8yNy9wb3dlcmZ1bC1wYXJ0bmVyc2hpcC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd2ViYXBwMi53cmlnaHQuZWR1L3dlYjEvbmV3c3Jvb20vMjAyMi8xMC8yNy9wb3dlcmZ1bC1wYXJ0bmVyc2hpcC_SAQA?oc=5\" target=\"_blank\">Wright State Newsroom – Powerful partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wright State University</font>"
+            ],
+            "source": [
+              {
+                "_": "Wright State University",
+                "$": {
+                  "url": "https://webapp2.wright.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds’ company Mint Mobile sold for $2.2 billion - New Zealand Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L2VudGVydGFpbm1lbnQvcnlhbi1yZXlub2xkcy1jb21wYW55LW1pbnQtbW9iaWxlLXNvbGQtZm9yLTIyYi9SUVBPN0xISlg1Q0RYSFc2M01WWFVMNDROWS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L2VudGVydGFpbm1lbnQvcnlhbi1yZXlub2xkcy1jb21wYW55LW1pbnQtbW9iaWxlLXNvbGQtZm9yLTIyYi9SUVBPN0xISlg1Q0RYSFc2M01WWFVMNDROWS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L2VudGVydGFpbm1lbnQvcnlhbi1yZXlub2xkcy1jb21wYW55LW1pbnQtbW9iaWxlLXNvbGQtZm9yLTIyYi9SUVBPN0xISlg1Q0RYSFc2M01WWFVMNDROWS_SAQA?oc=5\" target=\"_blank\">Ryan Reynolds’ company Mint Mobile sold for $2.2 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Zealand Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "New Zealand Herald",
+                "$": {
+                  "url": "https://www.nzherald.co.nz"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds President Chris Walsh leads company's new direction - Automotive News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLXByZXNpZGVudC1jaHJpcy13YWxzaC1sZWFkcy1jb21wYW55cy1uZXctZGlyZWN0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLXByZXNpZGVudC1jaHJpcy13YWxzaC1sZWFkcy1jb21wYW55cy1uZXctZGlyZWN0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLXByZXNpZGVudC1jaHJpcy13YWxzaC1sZWFkcy1jb21wYW55cy1uZXctZGlyZWN0aW9u0gEA?oc=5\" target=\"_blank\">Reynolds President Chris Walsh leads company's new direction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
+            ],
+            "source": [
+              {
+                "_": "Automotive News",
+                "$": {
+                  "url": "https://www.autonews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds & Reynolds Rolls Out New Logo, Branding - Ward's Auto"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LndhcmRzYXV0by5jb20vbmFkYS1zaG93L3JleW5vbGRzLXJleW5vbGRzLXJvbGxzLW91dC1uZXctbG9nby1icmFuZGluZ9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LndhcmRzYXV0by5jb20vbmFkYS1zaG93L3JleW5vbGRzLXJleW5vbGRzLXJvbGxzLW91dC1uZXctbG9nby1icmFuZGluZ9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 27 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LndhcmRzYXV0by5jb20vbmFkYS1zaG93L3JleW5vbGRzLXJleW5vbGRzLXJvbGxzLW91dC1uZXctbG9nby1icmFuZGluZ9IBAA?oc=5\" target=\"_blank\">Reynolds & Reynolds Rolls Out New Logo, Branding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ward's Auto</font>"
+            ],
+            "source": [
+              {
+                "_": "Ward's Auto",
+                "$": {
+                  "url": "https://www.wardsauto.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wolters Kluwer, Reynolds and Reynolds Partner to Acquire IDS - DSNews.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZHNuZXdzLmNvbS9uZXdzLzAzLTEwLTIwMjIvY29tcGFueS1hY3F1aXNpdGlvbi1wYXJ0bmVy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPmh0dHBzOi8vZHNuZXdzLmNvbS9uZXdzLzAzLTEwLTIwMjIvY29tcGFueS1hY3F1aXNpdGlvbi1wYXJ0bmVy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Mar 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZHNuZXdzLmNvbS9uZXdzLzAzLTEwLTIwMjIvY29tcGFueS1hY3F1aXNpdGlvbi1wYXJ0bmVy0gEA?oc=5\" target=\"_blank\">Wolters Kluwer, Reynolds and Reynolds Partner to Acquire IDS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DSNews.com</font>"
+            ],
+            "source": [
+              {
+                "_": "DSNews.com",
+                "$": {
+                  "url": "https://dsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds Sells Mint Mobile Company in $1.35 Billion Deal --and Teases Mom Tammy in the Process - Entertainment Tonight"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9yeWFuLXJleW5vbGRzLXNlbGxzLW1pbnQtbW9iaWxlLWNvbXBhbnktaW4tMTM1LWJpbGxpb24tZGVhbC1hbmQtdGVhc2VzLW1vbS10YW1teS1pbi10aGUtcHJvY2Vzc9IBfGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9yeWFuLXJleW5vbGRzLXNlbGxzLW1pbnQtbW9iaWxlLWNvbXBhbnktaW4tMTM1LWJpbGxpb24tZGVhbC1hbmQtdGVhc2VzLW1vbS10YW1teS1pbi10aGUtcHJvY2Vzcz9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9yeWFuLXJleW5vbGRzLXNlbGxzLW1pbnQtbW9iaWxlLWNvbXBhbnktaW4tMTM1LWJpbGxpb24tZGVhbC1hbmQtdGVhc2VzLW1vbS10YW1teS1pbi10aGUtcHJvY2Vzc9IBfGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9yeWFuLXJleW5vbGRzLXNlbGxzLW1pbnQtbW9iaWxlLWNvbXBhbnktaW4tMTM1LWJpbGxpb24tZGVhbC1hbmQtdGVhc2VzLW1vbS10YW1teS1pbi10aGUtcHJvY2Vzcz9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9yeWFuLXJleW5vbGRzLXNlbGxzLW1pbnQtbW9iaWxlLWNvbXBhbnktaW4tMTM1LWJpbGxpb24tZGVhbC1hbmQtdGVhc2VzLW1vbS10YW1teS1pbi10aGUtcHJvY2Vzc9IBfGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9yeWFuLXJleW5vbGRzLXNlbGxzLW1pbnQtbW9iaWxlLWNvbXBhbnktaW4tMTM1LWJpbGxpb24tZGVhbC1hbmQtdGVhc2VzLW1vbS10YW1teS1pbi10aGUtcHJvY2Vzcz9hbXA?oc=5\" target=\"_blank\">Ryan Reynolds Sells Mint Mobile Company in $1.35 Billion Deal --and Teases Mom Tammy in the Process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Entertainment Tonight</font>"
+            ],
+            "source": [
+              {
+                "_": "Entertainment Tonight",
+                "$": {
+                  "url": "https://www.etonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds invests in Montreal payments firm Nuvei (and announces it the Reynolds way) - Montreal Gazette"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL21vbnRyZWFsZ2F6ZXR0ZS5jb20vYnVzaW5lc3MvbG9jYWwtYnVzaW5lc3Mvcnlhbi1yZXlub2xkcy1pbnZlc3RzLWluLW1vbnRyZWFsLXBheW1lbnRzLWZpcm0tbnV2ZWktYW5kLWFubm91bmNlcy1pdC10aGUtcmV5bm9sZHMtd2F50gG5AWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9idXNpbmVzcy9sb2NhbC1idXNpbmVzcy9yeWFuLXJleW5vbGRzLWludmVzdHMtaW4tbW9udHJlYWwtcGF5bWVudHMtZmlybS1udXZlaS1hbmQtYW5ub3VuY2VzLWl0LXRoZS1yZXlub2xkcy13YXkvd2NtL2MxMWI2YzM5LTY5MTgtNDM0OC1iYjIzLTAwN2ZmY2MyZWQ2Yi9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL21vbnRyZWFsZ2F6ZXR0ZS5jb20vYnVzaW5lc3MvbG9jYWwtYnVzaW5lc3Mvcnlhbi1yZXlub2xkcy1pbnZlc3RzLWluLW1vbnRyZWFsLXBheW1lbnRzLWZpcm0tbnV2ZWktYW5kLWFubm91bmNlcy1pdC10aGUtcmV5bm9sZHMtd2F50gG5AWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9idXNpbmVzcy9sb2NhbC1idXNpbmVzcy9yeWFuLXJleW5vbGRzLWludmVzdHMtaW4tbW9udHJlYWwtcGF5bWVudHMtZmlybS1udXZlaS1hbmQtYW5ub3VuY2VzLWl0LXRoZS1yZXlub2xkcy13YXkvd2NtL2MxMWI2YzM5LTY5MTgtNDM0OC1iYjIzLTAwN2ZmY2MyZWQ2Yi9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL21vbnRyZWFsZ2F6ZXR0ZS5jb20vYnVzaW5lc3MvbG9jYWwtYnVzaW5lc3Mvcnlhbi1yZXlub2xkcy1pbnZlc3RzLWluLW1vbnRyZWFsLXBheW1lbnRzLWZpcm0tbnV2ZWktYW5kLWFubm91bmNlcy1pdC10aGUtcmV5bm9sZHMtd2F50gG5AWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9idXNpbmVzcy9sb2NhbC1idXNpbmVzcy9yeWFuLXJleW5vbGRzLWludmVzdHMtaW4tbW9udHJlYWwtcGF5bWVudHMtZmlybS1udXZlaS1hbmQtYW5ub3VuY2VzLWl0LXRoZS1yZXlub2xkcy13YXkvd2NtL2MxMWI2YzM5LTY5MTgtNDM0OC1iYjIzLTAwN2ZmY2MyZWQ2Yi9hbXAv?oc=5\" target=\"_blank\">Ryan Reynolds invests in Montreal payments firm Nuvei (and announces it the Reynolds way)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montreal Gazette</font>"
+            ],
+            "source": [
+              {
+                "_": "Montreal Gazette",
+                "$": {
+                  "url": "https://montrealgazette.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wrexham priced up to sign Erling Haaland after Ryan Reynolds' company sold for £1billion - Daily Star"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmRhaWx5c3Rhci5jby51ay9zcG9ydC9mb290YmFsbC93cmV4aGFtLWVybGluZy1oYWFsYW5kLXJ5YW4tcmV5bm9sZHMtMjk1Mzk4NDLSAVxodHRwczovL3d3dy5kYWlseXN0YXIuY28udWsvc3BvcnQvZm9vdGJhbGwvd3JleGhhbS1lcmxpbmctaGFhbGFuZC1yeWFuLXJleW5vbGRzLTI5NTM5ODQyLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmRhaWx5c3Rhci5jby51ay9zcG9ydC9mb290YmFsbC93cmV4aGFtLWVybGluZy1oYWFsYW5kLXJ5YW4tcmV5bm9sZHMtMjk1Mzk4NDLSAVxodHRwczovL3d3dy5kYWlseXN0YXIuY28udWsvc3BvcnQvZm9vdGJhbGwvd3JleGhhbS1lcmxpbmctaGFhbGFuZC1yeWFuLXJleW5vbGRzLTI5NTM5ODQyLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmRhaWx5c3Rhci5jby51ay9zcG9ydC9mb290YmFsbC93cmV4aGFtLWVybGluZy1oYWFsYW5kLXJ5YW4tcmV5bm9sZHMtMjk1Mzk4NDLSAVxodHRwczovL3d3dy5kYWlseXN0YXIuY28udWsvc3BvcnQvZm9vdGJhbGwvd3JleGhhbS1lcmxpbmctaGFhbGFuZC1yeWFuLXJleW5vbGRzLTI5NTM5ODQyLmFtcA?oc=5\" target=\"_blank\">Wrexham priced up to sign Erling Haaland after Ryan Reynolds' company sold for £1billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Star</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Star",
+                "$": {
+                  "url": "https://www.dailystar.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds's Maximum Effort clicks with Bolt's one-step payments - The Drum"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRoZWRydW0uY29tL25ld3MvMjAyMi8wMS8zMS9yeWFuLXJleW5vbGRzLXMtbWF4aW11bS1lZmZvcnQtY2xpY2tzLXdpdGgtYm9sdC1zLW9uZS1zdGVwLXBheW1lbnRz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3LnRoZWRydW0uY29tL25ld3MvMjAyMi8wMS8zMS9yeWFuLXJleW5vbGRzLXMtbWF4aW11bS1lZmZvcnQtY2xpY2tzLXdpdGgtYm9sdC1zLW9uZS1zdGVwLXBheW1lbnRz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 31 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRoZWRydW0uY29tL25ld3MvMjAyMi8wMS8zMS9yeWFuLXJleW5vbGRzLXMtbWF4aW11bS1lZmZvcnQtY2xpY2tzLXdpdGgtYm9sdC1zLW9uZS1zdGVwLXBheW1lbnRz0gEA?oc=5\" target=\"_blank\">Ryan Reynolds's Maximum Effort clicks with Bolt's one-step payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Drum</font>"
+            ],
+            "source": [
+              {
+                "_": "The Drum",
+                "$": {
+                  "url": "https://www.thedrum.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mid-Coast Electric Supply announces acquisition | For Subscribers Only | victoriaadvocate.com - Victoria Advocate"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy52aWN0b3JpYWFkdm9jYXRlLmNvbS9wcmVtaXVtL21pZC1jb2FzdC1lbGVjdHJpYy1zdXBwbHktYW5ub3VuY2VzLWFjcXVpc2l0aW9uL2FydGljbGVfN2UyMDNkYTAtZGE4ZS0xMWViLWJhMTgtNTMwODgxY2U3NDRkLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy52aWN0b3JpYWFkdm9jYXRlLmNvbS9wcmVtaXVtL21pZC1jb2FzdC1lbGVjdHJpYy1zdXBwbHktYW5ub3VuY2VzLWFjcXVpc2l0aW9uL2FydGljbGVfN2UyMDNkYTAtZGE4ZS0xMWViLWJhMTgtNTMwODgxY2U3NDRkLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Jul 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy52aWN0b3JpYWFkdm9jYXRlLmNvbS9wcmVtaXVtL21pZC1jb2FzdC1lbGVjdHJpYy1zdXBwbHktYW5ub3VuY2VzLWFjcXVpc2l0aW9uL2FydGljbGVfN2UyMDNkYTAtZGE4ZS0xMWViLWJhMTgtNTMwODgxY2U3NDRkLmh0bWzSAQA?oc=5\" target=\"_blank\">Mid-Coast Electric Supply announces acquisition | For Subscribers Only | victoriaadvocate.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Victoria Advocate</font>"
+            ],
+            "source": [
+              {
+                "_": "Victoria Advocate",
+                "$": {
+                  "url": "https://www.victoriaadvocate.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds & Reynolds owner Brockman dies at 81 - Dayton Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbG9jYWwvcmV5bm9sZHMtYW5kLXJleW5vbGRzLW93bmVyLWJvYi1icm9ja21hbi1kaWVkLWF0LTgxL1FNWjZXTUVaS0pCN1RBMkZYSVI3UFBQNldNL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbG9jYWwvcmV5bm9sZHMtYW5kLXJleW5vbGRzLW93bmVyLWJvYi1icm9ja21hbi1kaWVkLWF0LTgxL1FNWjZXTUVaS0pCN1RBMkZYSVI3UFBQNldNL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 07 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbG9jYWwvcmV5bm9sZHMtYW5kLXJleW5vbGRzLW93bmVyLWJvYi1icm9ja21hbi1kaWVkLWF0LTgxL1FNWjZXTUVaS0pCN1RBMkZYSVI3UFBQNldNL9IBAA?oc=5\" target=\"_blank\">Reynolds & Reynolds owner Brockman dies at 81</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "Dayton Daily News",
+                "$": {
+                  "url": "https://www.daytondailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Motility Software Solutions Joins Reynolds and Reynolds - PR Web"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnByd2ViLmNvbS9yZWxlYXNlcy9tb3RpbGl0eS1zb2Z0d2FyZS1zb2x1dGlvbnMtam9pbnMtcmV5bm9sZHMtYW5kLXJleW5vbGRzLTgyNDAzMTkxNy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LnByd2ViLmNvbS9yZWxlYXNlcy9tb3RpbGl0eS1zb2Z0d2FyZS1zb2x1dGlvbnMtam9pbnMtcmV5bm9sZHMtYW5kLXJleW5vbGRzLTgyNDAzMTkxNy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnByd2ViLmNvbS9yZWxlYXNlcy9tb3RpbGl0eS1zb2Z0d2FyZS1zb2x1dGlvbnMtam9pbnMtcmV5bm9sZHMtYW5kLXJleW5vbGRzLTgyNDAzMTkxNy5odG1s0gEA?oc=5\" target=\"_blank\">Motility Software Solutions Joins Reynolds and Reynolds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Web</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Web",
+                "$": {
+                  "url": "https://www.prweb.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "LaRae Gourley Obituary - Walker Sanderson Funeral Home & Crematory - Orem - 2023 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2xhcmFlLWdvdXJsZXktb2JpdHVhcnk_aWQ9NTIyNTYxMzfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2xhcmFlLWdvdXJsZXktb2JpdHVhcnk_aWQ9NTIyNTYxMzfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 17 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2xhcmFlLWdvdXJsZXktb2JpdHVhcnk_aWQ9NTIyNTYxMzfSAQA?oc=5\" target=\"_blank\">LaRae Gourley Obituary - Walker Sanderson Funeral Home & Crematory - Orem - 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Raj Soin Business College's ReyRey Café offers opportunities at Wright State and beyond - Wright State University"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3dlYmFwcDIud3JpZ2h0LmVkdS93ZWIxL25ld3Nyb29tLzIwMjIvMTEvMDkvcmFqLXNvaW4tYnVzaW5lc3MtY29sbGVnZXMtcmV5cmV5LWNhZmUtb2ZmZXJzLW9wcG9ydHVuaXRpZXMtYXQtd3JpZ2h0LXN0YXRlLWFuZC1iZXlvbmQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3dlYmFwcDIud3JpZ2h0LmVkdS93ZWIxL25ld3Nyb29tLzIwMjIvMTEvMDkvcmFqLXNvaW4tYnVzaW5lc3MtY29sbGVnZXMtcmV5cmV5LWNhZmUtb2ZmZXJzLW9wcG9ydHVuaXRpZXMtYXQtd3JpZ2h0LXN0YXRlLWFuZC1iZXlvbmQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3dlYmFwcDIud3JpZ2h0LmVkdS93ZWIxL25ld3Nyb29tLzIwMjIvMTEvMDkvcmFqLXNvaW4tYnVzaW5lc3MtY29sbGVnZXMtcmV5cmV5LWNhZmUtb2ZmZXJzLW9wcG9ydHVuaXRpZXMtYXQtd3JpZ2h0LXN0YXRlLWFuZC1iZXlvbmQv0gEA?oc=5\" target=\"_blank\">Raj Soin Business College's ReyRey Café offers opportunities at Wright State and beyond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wright State University</font>"
+            ],
+            "source": [
+              {
+                "_": "Wright State University",
+                "$": {
+                  "url": "https://webapp2.wright.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds is one of Fast Company's Most Creative People in Busines - Fast Company"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MDUyNTI4My9tb3N0LWNyZWF0aXZlLXBlb3BsZS0yMDIwLXJ5YW4tcmV5bm9sZHPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MDUyNTI4My9tb3N0LWNyZWF0aXZlLXBlb3BsZS0yMDIwLXJ5YW4tcmV5bm9sZHPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Aug 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MDUyNTI4My9tb3N0LWNyZWF0aXZlLXBlb3BsZS0yMDIwLXJ5YW4tcmV5bm9sZHPSAQA?oc=5\" target=\"_blank\">Ryan Reynolds is one of Fast Company's Most Creative People in Busines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>"
+            ],
+            "source": [
+              {
+                "_": "Fast Company",
+                "$": {
+                  "url": "https://www.fastcompany.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds acquires Gubagoo to expand digital retailing capabilities - CBT Automotive News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNidG5ld3MuY29tL3JleW5vbGRzLWFjcXVpcmVzLWd1YmFnb28tdG8tZXhwYW5kLWRpZ2l0YWwtcmV0YWlsaW5nLWNhcGFiaWxpdGllcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3LmNidG5ld3MuY29tL3JleW5vbGRzLWFjcXVpcmVzLWd1YmFnb28tdG8tZXhwYW5kLWRpZ2l0YWwtcmV0YWlsaW5nLWNhcGFiaWxpdGllcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNidG5ld3MuY29tL3JleW5vbGRzLWFjcXVpcmVzLWd1YmFnb28tdG8tZXhwYW5kLWRpZ2l0YWwtcmV0YWlsaW5nLWNhcGFiaWxpdGllcy_SAQA?oc=5\" target=\"_blank\">Reynolds acquires Gubagoo to expand digital retailing capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBT Automotive News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBT Automotive News",
+                "$": {
+                  "url": "https://www.cbtnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds Has Sold Maximum Effort Marketing - Adweek"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5hZHdlZWsuY29tL2JyYW5kLW1hcmtldGluZy9yeWFuLXJleW5vbGRzLW1heGltdW0tZWZmb3J0LW1hcmtldGluZy1oYXMtYmVlbi1hY3F1aXJlZC1ieS1wZXJmb3JtYW5jZS10di1wbGF0Zm9ybS1tbnRuL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy5hZHdlZWsuY29tL2JyYW5kLW1hcmtldGluZy9yeWFuLXJleW5vbGRzLW1heGltdW0tZWZmb3J0LW1hcmtldGluZy1oYXMtYmVlbi1hY3F1aXJlZC1ieS1wZXJmb3JtYW5jZS10di1wbGF0Zm9ybS1tbnRuL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 23 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5hZHdlZWsuY29tL2JyYW5kLW1hcmtldGluZy9yeWFuLXJleW5vbGRzLW1heGltdW0tZWZmb3J0LW1hcmtldGluZy1oYXMtYmVlbi1hY3F1aXJlZC1ieS1wZXJmb3JtYW5jZS10di1wbGF0Zm9ybS1tbnRuL9IBAA?oc=5\" target=\"_blank\">Ryan Reynolds Has Sold Maximum Effort Marketing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adweek</font>"
+            ],
+            "source": [
+              {
+                "_": "Adweek",
+                "$": {
+                  "url": "https://www.adweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds and Reynolds celebrates 57th year exhibiting at NADA - Canadian auto dealer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vY2FuYWRpYW5hdXRvZGVhbGVyLmNhLzIwMjMvMDEvcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlbGVicmF0ZXMtNTd0aC15ZWFyLWV4aGliaXRpbmctYXQtbmFkYS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vY2FuYWRpYW5hdXRvZGVhbGVyLmNhLzIwMjMvMDEvcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlbGVicmF0ZXMtNTd0aC15ZWFyLWV4aGliaXRpbmctYXQtbmFkYS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vY2FuYWRpYW5hdXRvZGVhbGVyLmNhLzIwMjMvMDEvcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlbGVicmF0ZXMtNTd0aC15ZWFyLWV4aGliaXRpbmctYXQtbmFkYS_SAQA?oc=5\" target=\"_blank\">Reynolds and Reynolds celebrates 57th year exhibiting at NADA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canadian auto dealer</font>"
+            ],
+            "source": [
+              {
+                "_": "Canadian auto dealer",
+                "$": {
+                  "url": "https://canadianautodealer.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dusty Reynolds: Company Scorecard - Silicon Prairie News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc2lsaWNvbnByYWlyaWVuZXdzLmNvbS8yMDE0LzEwL2R1c3R5LXJleW5vbGRzLWNvbXBhbnktc2NvcmVjYXJkL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vc2lsaWNvbnByYWlyaWVuZXdzLmNvbS8yMDE0LzEwL2R1c3R5LXJleW5vbGRzLWNvbXBhbnktc2NvcmVjYXJkL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Oct 2014 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc2lsaWNvbnByYWlyaWVuZXdzLmNvbS8yMDE0LzEwL2R1c3R5LXJleW5vbGRzLWNvbXBhbnktc2NvcmVjYXJkL9IBAA?oc=5\" target=\"_blank\">Dusty Reynolds: Company Scorecard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Silicon Prairie News</font>"
+            ],
+            "source": [
+              {
+                "_": "Silicon Prairie News",
+                "$": {
+                  "url": "https://siliconprairienews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Did Ryan Reynolds Cause A 10% Jump In This Streaming Company's Stock? - FuboTV (NYSE:FUBO) - Benzinga"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5iZW56aW5nYS5jb20vZ2VuZXJhbC9lbnRlcnRhaW5tZW50LzIyLzA4LzI4NDAyMDIwL2RpZC1yeWFuLXJleW5vbGRzLWNhdXNlLWEtMTAtanVtcC1pbi10aGlzLXN0cmVhbWluZy1jb21wYW55cy1zdG9jay1tb25kYXnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5iZW56aW5nYS5jb20vZ2VuZXJhbC9lbnRlcnRhaW5tZW50LzIyLzA4LzI4NDAyMDIwL2RpZC1yeWFuLXJleW5vbGRzLWNhdXNlLWEtMTAtanVtcC1pbi10aGlzLXN0cmVhbWluZy1jb21wYW55cy1zdG9jay1tb25kYXnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5iZW56aW5nYS5jb20vZ2VuZXJhbC9lbnRlcnRhaW5tZW50LzIyLzA4LzI4NDAyMDIwL2RpZC1yeWFuLXJleW5vbGRzLWNhdXNlLWEtMTAtanVtcC1pbi10aGlzLXN0cmVhbWluZy1jb21wYW55cy1zdG9jay1tb25kYXnSAQA?oc=5\" target=\"_blank\">Did Ryan Reynolds Cause A 10% Jump In This Streaming Company's Stock? - FuboTV (NYSE:FUBO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>"
+            ],
+            "source": [
+              {
+                "_": "Benzinga",
+                "$": {
+                  "url": "https://www.benzinga.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "See How Ryan Reynolds and The Peloton Ad Woman Turned the Controversy on its Head With This Gin Commercial - ELLE"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmVsbGUuY29tL2N1bHR1cmUvY2VsZWJyaXRpZXMvYTMwMTU3Mjc0L3J5YW4tcmV5bm9sZHMtYW5kLXRoZS1wZWxvdG9uLWFkLXdvbWFuLWNvbnRyb3ZlcnN5LWdpbi1jb21tZXJjaWFsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmVsbGUuY29tL2N1bHR1cmUvY2VsZWJyaXRpZXMvYTMwMTU3Mjc0L3J5YW4tcmV5bm9sZHMtYW5kLXRoZS1wZWxvdG9uLWFkLXdvbWFuLWNvbnRyb3ZlcnN5LWdpbi1jb21tZXJjaWFsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 07 Dec 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmVsbGUuY29tL2N1bHR1cmUvY2VsZWJyaXRpZXMvYTMwMTU3Mjc0L3J5YW4tcmV5bm9sZHMtYW5kLXRoZS1wZWxvdG9uLWFkLXdvbWFuLWNvbnRyb3ZlcnN5LWdpbi1jb21tZXJjaWFsL9IBAA?oc=5\" target=\"_blank\">See How Ryan Reynolds and The Peloton Ad Woman Turned the Controversy on its Head With This Gin Commercial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ELLE</font>"
+            ],
+            "source": [
+              {
+                "_": "ELLE",
+                "$": {
+                  "url": "https://www.elle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds' Maximum Effort and FuboTV Team Up - Adweek"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFkd2Vlay5jb20vY29udmVyZ2VudC10di9yeWFuLXJleW5vbGRzLW1heGltdW0tZWZmb3J0LWFuZC1mdWJvdHYtcGFydG5lci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3LmFkd2Vlay5jb20vY29udmVyZ2VudC10di9yeWFuLXJleW5vbGRzLW1heGltdW0tZWZmb3J0LWFuZC1mdWJvdHYtcGFydG5lci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFkd2Vlay5jb20vY29udmVyZ2VudC10di9yeWFuLXJleW5vbGRzLW1heGltdW0tZWZmb3J0LWFuZC1mdWJvdHYtcGFydG5lci_SAQA?oc=5\" target=\"_blank\">Ryan Reynolds' Maximum Effort and FuboTV Team Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adweek</font>"
+            ],
+            "source": [
+              {
+                "_": "Adweek",
+                "$": {
+                  "url": "https://www.adweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wright State receiving $3.6M from Reynolds and Reynolds - WHIO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndoaW8uY29tL25ld3MvbG9jYWwvd3JpZ2h0LXN0YXRlLXJlY2VpdmluZy0zNm0tcmV5bm9sZHMtcmV5bm9sZHMvWlFPQlhMNUVQUkJDUkFOVkVRR1BLQ0VPTTQv0gF3aHR0cHM6Ly93d3cud2hpby5jb20vbmV3cy9sb2NhbC93cmlnaHQtc3RhdGUtcmVjZWl2aW5nLTM2bS1yZXlub2xkcy1yZXlub2xkcy9aUU9CWEw1RVBSQkNSQU5WRVFHUEtDRU9NNC8_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LndoaW8uY29tL25ld3MvbG9jYWwvd3JpZ2h0LXN0YXRlLXJlY2VpdmluZy0zNm0tcmV5bm9sZHMtcmV5bm9sZHMvWlFPQlhMNUVQUkJDUkFOVkVRR1BLQ0VPTTQv0gF3aHR0cHM6Ly93d3cud2hpby5jb20vbmV3cy9sb2NhbC93cmlnaHQtc3RhdGUtcmVjZWl2aW5nLTM2bS1yZXlub2xkcy1yZXlub2xkcy9aUU9CWEw1RVBSQkNSQU5WRVFHUEtDRU9NNC8_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndoaW8uY29tL25ld3MvbG9jYWwvd3JpZ2h0LXN0YXRlLXJlY2VpdmluZy0zNm0tcmV5bm9sZHMtcmV5bm9sZHMvWlFPQlhMNUVQUkJDUkFOVkVRR1BLQ0VPTTQv0gF3aHR0cHM6Ly93d3cud2hpby5jb20vbmV3cy9sb2NhbC93cmlnaHQtc3RhdGUtcmVjZWl2aW5nLTM2bS1yZXlub2xkcy1yZXlub2xkcy9aUU9CWEw1RVBSQkNSQU5WRVFHUEtDRU9NNC8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Wright State receiving $3.6M from Reynolds and Reynolds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHIO</font>"
+            ],
+            "source": [
+              {
+                "_": "WHIO",
+                "$": {
+                  "url": "https://www.whio.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds & Reynolds CEO facing federal charges steps down - Dayton Daily News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbmV3cy9yZXlub2xkcy1ib2ItYnJvY2ttYW4tcmVsaW5xdWlzaGVzLWNlby10aXRsZS9KUlNIMkRHQjY1REJGRUFaVzJKREtZQjdEWS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbmV3cy9yZXlub2xkcy1ib2ItYnJvY2ttYW4tcmVsaW5xdWlzaGVzLWNlby10aXRsZS9KUlNIMkRHQjY1REJGRUFaVzJKREtZQjdEWS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 09 Nov 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vbmV3cy9yZXlub2xkcy1ib2ItYnJvY2ttYW4tcmVsaW5xdWlzaGVzLWNlby10aXRsZS9KUlNIMkRHQjY1REJGRUFaVzJKREtZQjdEWS_SAQA?oc=5\" target=\"_blank\">Reynolds & Reynolds CEO facing federal charges steps down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>"
+            ],
+            "source": [
+              {
+                "_": "Dayton Daily News",
+                "$": {
+                  "url": "https://www.daytondailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "FDA Authorizes 6 More Products From R.J. Reynolds Vapor - CSPDailyNews.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vY3NwZGFpbHluZXdzLmNvbS90b2JhY2NvL2ZkYS1hdXRob3JpemVzLTYtbW9yZS1wcm9kdWN0cy1yai1yZXlub2xkcy12YXBvctIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vY3NwZGFpbHluZXdzLmNvbS90b2JhY2NvL2ZkYS1hdXRob3JpemVzLTYtbW9yZS1wcm9kdWN0cy1yai1yZXlub2xkcy12YXBvctIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vY3NwZGFpbHluZXdzLmNvbS90b2JhY2NvL2ZkYS1hdXRob3JpemVzLTYtbW9yZS1wcm9kdWN0cy1yai1yZXlub2xkcy12YXBvctIBAA?oc=5\" target=\"_blank\">FDA Authorizes 6 More Products From R.J. Reynolds Vapor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSPDailyNews.com</font>"
+            ],
+            "source": [
+              {
+                "_": "CSPDailyNews.com",
+                "$": {
+                  "url": "https://cspdailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wrexham: The Turf pub merchandise with Ryan Reynolds company - The Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmxlYWRlcmxpdmUuY28udWsvbmV3cy8yMzIwNDMxNy53cmV4aGFtLXR1cmYtcHViLW1lcmNoYW5kaXNlLXJ5YW4tcmV5bm9sZHMtY29tcGFueS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmxlYWRlcmxpdmUuY28udWsvbmV3cy8yMzIwNDMxNy53cmV4aGFtLXR1cmYtcHViLW1lcmNoYW5kaXNlLXJ5YW4tcmV5bm9sZHMtY29tcGFueS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 20 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmxlYWRlcmxpdmUuY28udWsvbmV3cy8yMzIwNDMxNy53cmV4aGFtLXR1cmYtcHViLW1lcmNoYW5kaXNlLXJ5YW4tcmV5bm9sZHMtY29tcGFueS_SAQA?oc=5\" target=\"_blank\">Wrexham: The Turf pub merchandise with Ryan Reynolds company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "The Leader",
+                "$": {
+                  "url": "https://www.leaderlive.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds Trolls His Own Production Company With Back to the Future Joke - Screen Rant"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc2NyZWVucmFudC5jb20vcnlhbi1yZXlub2xkcy1hZGFtLXByb2plY3QtYmFjay1mdXR1cmUtdHdpdHRlci1qb2tlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vc2NyZWVucmFudC5jb20vcnlhbi1yZXlub2xkcy1hZGFtLXByb2plY3QtYmFjay1mdXR1cmUtdHdpdHRlci1qb2tlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 11 Mar 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc2NyZWVucmFudC5jb20vcnlhbi1yZXlub2xkcy1hZGFtLXByb2plY3QtYmFjay1mdXR1cmUtdHdpdHRlci1qb2tlL9IBAA?oc=5\" target=\"_blank\">Ryan Reynolds Trolls His Own Production Company With Back to the Future Joke</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Screen Rant</font>"
+            ],
+            "source": [
+              {
+                "_": "Screen Rant",
+                "$": {
+                  "url": "https://screenrant.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "British American Tobacco to acquire Reynolds as activists decry merger - The Guardian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDE3L2p1bC8xOS9icml0aXNoLWFtZXJpY2FuLXRvYmFjY28tcmV5bm9sZHMtbWVyZ2VyLWNpZ2FyZXR0ZXPSAWRodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAxNy9qdWwvMTkvYnJpdGlzaC1hbWVyaWNhbi10b2JhY2NvLXJleW5vbGRzLW1lcmdlci1jaWdhcmV0dGVz?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDE3L2p1bC8xOS9icml0aXNoLWFtZXJpY2FuLXRvYmFjY28tcmV5bm9sZHMtbWVyZ2VyLWNpZ2FyZXR0ZXPSAWRodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAxNy9qdWwvMTkvYnJpdGlzaC1hbWVyaWNhbi10b2JhY2NvLXJleW5vbGRzLW1lcmdlci1jaWdhcmV0dGVz",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Jul 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDE3L2p1bC8xOS9icml0aXNoLWFtZXJpY2FuLXRvYmFjY28tcmV5bm9sZHMtbWVyZ2VyLWNpZ2FyZXR0ZXPSAWRodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAxNy9qdWwvMTkvYnJpdGlzaC1hbWVyaWNhbi10b2JhY2NvLXJleW5vbGRzLW1lcmdlci1jaWdhcmV0dGVz?oc=5\" target=\"_blank\">British American Tobacco to acquire Reynolds as activists decry merger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+            ],
+            "source": [
+              {
+                "_": "The Guardian",
+                "$": {
+                  "url": "https://www.theguardian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds Appoints 2 New Senior Leaders - CSPDailyNews.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vY3NwZGFpbHluZXdzLmNvbS90b2JhY2NvL3JleW5vbGRzLWFwcG9pbnRzLTItbmV3LXNlbmlvci1sZWFkZXJz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vY3NwZGFpbHluZXdzLmNvbS90b2JhY2NvL3JleW5vbGRzLWFwcG9pbnRzLTItbmV3LXNlbmlvci1sZWFkZXJz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Apr 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vY3NwZGFpbHluZXdzLmNvbS90b2JhY2NvL3JleW5vbGRzLWFwcG9pbnRzLTItbmV3LXNlbmlvci1sZWFkZXJz0gEA?oc=5\" target=\"_blank\">Reynolds Appoints 2 New Senior Leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSPDailyNews.com</font>"
+            ],
+            "source": [
+              {
+                "_": "CSPDailyNews.com",
+                "$": {
+                  "url": "https://cspdailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds American now entirely owned by British American Tobacco - Winston-Salem Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL2pvdXJuYWxub3cuY29tL3JleW5vbGRzLWFtZXJpY2FuLW5vdy1lbnRpcmVseS1vd25lZC1ieS1icml0aXNoLWFtZXJpY2FuLXRvYmFjY28vYXJ0aWNsZV9iNjc2OTM2NC05YzBlLTUwNGEtYjMyMi04YWRlZGM4MWNkYjEuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL2pvdXJuYWxub3cuY29tL3JleW5vbGRzLWFtZXJpY2FuLW5vdy1lbnRpcmVseS1vd25lZC1ieS1icml0aXNoLWFtZXJpY2FuLXRvYmFjY28vYXJ0aWNsZV9iNjc2OTM2NC05YzBlLTUwNGEtYjMyMi04YWRlZGM4MWNkYjEuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jul 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL2pvdXJuYWxub3cuY29tL3JleW5vbGRzLWFtZXJpY2FuLW5vdy1lbnRpcmVseS1vd25lZC1ieS1icml0aXNoLWFtZXJpY2FuLXRvYmFjY28vYXJ0aWNsZV9iNjc2OTM2NC05YzBlLTUwNGEtYjMyMi04YWRlZGM4MWNkYjEuaHRtbNIBAA?oc=5\" target=\"_blank\">Reynolds American now entirely owned by British American Tobacco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Winston-Salem Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Winston-Salem Journal",
+                "$": {
+                  "url": "https://journalnow.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hugh Jackman Mocks Ryan Reynolds As Company Truck Gets Towed - LADbible"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmxhZGJpYmxlLmNvbS9lbnRlcnRhaW5tZW50L2NlbGVicml0eS1odWdoLWphY2ttYW4tbW9ja3Mtcnlhbi1yZXlub2xkcy1hcy1jb21wYW55LXRydWNrLWdldHMtdG93ZWQtMjAxOTA3MTHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmxhZGJpYmxlLmNvbS9lbnRlcnRhaW5tZW50L2NlbGVicml0eS1odWdoLWphY2ttYW4tbW9ja3Mtcnlhbi1yZXlub2xkcy1hcy1jb21wYW55LXRydWNrLWdldHMtdG93ZWQtMjAxOTA3MTHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 Jul 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmxhZGJpYmxlLmNvbS9lbnRlcnRhaW5tZW50L2NlbGVicml0eS1odWdoLWphY2ttYW4tbW9ja3Mtcnlhbi1yZXlub2xkcy1hcy1jb21wYW55LXRydWNrLWdldHMtdG93ZWQtMjAxOTA3MTHSAQA?oc=5\" target=\"_blank\">Hugh Jackman Mocks Ryan Reynolds As Company Truck Gets Towed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LADbible</font>"
+            ],
+            "source": [
+              {
+                "_": "LADbible",
+                "$": {
+                  "url": "https://www.ladbible.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "பிரபலமான நீல நிற பேனா தயாரிப்பு நிறுத்தப்படுகிறதா? - ரெனால்ட்ஸ் நிறுவனம் விளக்கம் - Hindu Tamil"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5oaW5kdXRhbWlsLmluL25ld3MvYnVzaW5lc3MvMTExMjk5Mi1pcy1wb3B1bGFyLWJsdWUtcGVuLXByb2R1Y3QtYmVpbmctZGlzY29udGludWVkLXJleW5vbGRzLWNvbXBhbnktZGVzY3JpcHRpb24uaHRtbNIBhAFodHRwczovL3d3dy5oaW5kdXRhbWlsLmluL2FtcC9uZXdzL2J1c2luZXNzLzExMTI5OTItaXMtcG9wdWxhci1ibHVlLXBlbi1wcm9kdWN0LWJlaW5nLWRpc2NvbnRpbnVlZC1yZXlub2xkcy1jb21wYW55LWRlc2NyaXB0aW9uLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy5oaW5kdXRhbWlsLmluL25ld3MvYnVzaW5lc3MvMTExMjk5Mi1pcy1wb3B1bGFyLWJsdWUtcGVuLXByb2R1Y3QtYmVpbmctZGlzY29udGludWVkLXJleW5vbGRzLWNvbXBhbnktZGVzY3JpcHRpb24uaHRtbNIBhAFodHRwczovL3d3dy5oaW5kdXRhbWlsLmluL2FtcC9uZXdzL2J1c2luZXNzLzExMTI5OTItaXMtcG9wdWxhci1ibHVlLXBlbi1wcm9kdWN0LWJlaW5nLWRpc2NvbnRpbnVlZC1yZXlub2xkcy1jb21wYW55LWRlc2NyaXB0aW9uLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 29 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5oaW5kdXRhbWlsLmluL25ld3MvYnVzaW5lc3MvMTExMjk5Mi1pcy1wb3B1bGFyLWJsdWUtcGVuLXByb2R1Y3QtYmVpbmctZGlzY29udGludWVkLXJleW5vbGRzLWNvbXBhbnktZGVzY3JpcHRpb24uaHRtbNIBhAFodHRwczovL3d3dy5oaW5kdXRhbWlsLmluL2FtcC9uZXdzL2J1c2luZXNzLzExMTI5OTItaXMtcG9wdWxhci1ibHVlLXBlbi1wcm9kdWN0LWJlaW5nLWRpc2NvbnRpbnVlZC1yZXlub2xkcy1jb21wYW55LWRlc2NyaXB0aW9uLmh0bWw?oc=5\" target=\"_blank\">பிரபலமான நீல நிற பேனா தயாரிப்பு நிறுத்தப்படுகிறதா? - ரெனால்ட்ஸ் நிறுவனம் விளக்கம்</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindu Tamil</font>"
+            ],
+            "source": [
+              {
+                "_": "Hindu Tamil",
+                "$": {
+                  "url": "https://www.hindutamil.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pork exec gives $25K to Governor Reynolds; company got virus aid - KCRG"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmtjcmcuY29tLzIwMjEvMDEvMjAvcG9yay1leGVjLWdpdmVzLTI1ay10by1nb3Zlcm5vci1yZXlub2xkcy1jb21wYW55LWdvdC12aXJ1cy1haWQv0gFuaHR0cHM6Ly93d3cua2NyZy5jb20vMjAyMS8wMS8yMC9wb3JrLWV4ZWMtZ2l2ZXMtMjVrLXRvLWdvdmVybm9yLXJleW5vbGRzLWNvbXBhbnktZ290LXZpcnVzLWFpZC8_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LmtjcmcuY29tLzIwMjEvMDEvMjAvcG9yay1leGVjLWdpdmVzLTI1ay10by1nb3Zlcm5vci1yZXlub2xkcy1jb21wYW55LWdvdC12aXJ1cy1haWQv0gFuaHR0cHM6Ly93d3cua2NyZy5jb20vMjAyMS8wMS8yMC9wb3JrLWV4ZWMtZ2l2ZXMtMjVrLXRvLWdvdmVybm9yLXJleW5vbGRzLWNvbXBhbnktZ290LXZpcnVzLWFpZC8_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Jan 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmtjcmcuY29tLzIwMjEvMDEvMjAvcG9yay1leGVjLWdpdmVzLTI1ay10by1nb3Zlcm5vci1yZXlub2xkcy1jb21wYW55LWdvdC12aXJ1cy1haWQv0gFuaHR0cHM6Ly93d3cua2NyZy5jb20vMjAyMS8wMS8yMC9wb3JrLWV4ZWMtZ2l2ZXMtMjVrLXRvLWdvdmVybm9yLXJleW5vbGRzLWNvbXBhbnktZ290LXZpcnVzLWFpZC8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Pork exec gives $25K to Governor Reynolds; company got virus aid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCRG</font>"
+            ],
+            "source": [
+              {
+                "_": "KCRG",
+                "$": {
+                  "url": "https://www.kcrg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Taylor Swift and Ryan Reynolds's excellent co-production on Match commercial featuring new version of Taylor's - LaineyGossip"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5sYWluZXlnb3NzaXAuY29tL3RheWxvci1zd2lmdC1yeWFuLXJleW5vbGRzLWV4Y2VsbGVudC1jby1wcm9kdWN0aW9uLW1hdGNoLWNvbW1lcmNpYWwtZmVhdHVyaW5nLW5ldy12ZXJzaW9uLXRheWxvcnMtbG92ZS1zdG9yeS82NzU4ONIBkwFodHRwczovL3d3dy5sYWluZXlnb3NzaXAuY29tL3RheWxvci1zd2lmdC1yeWFuLXJleW5vbGRzLWV4Y2VsbGVudC1jby1wcm9kdWN0aW9uLW1hdGNoLWNvbW1lcmNpYWwtZmVhdHVyaW5nLW5ldy12ZXJzaW9uLXRheWxvcnMtbG92ZS1zdG9yeS82NzU4OC9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy5sYWluZXlnb3NzaXAuY29tL3RheWxvci1zd2lmdC1yeWFuLXJleW5vbGRzLWV4Y2VsbGVudC1jby1wcm9kdWN0aW9uLW1hdGNoLWNvbW1lcmNpYWwtZmVhdHVyaW5nLW5ldy12ZXJzaW9uLXRheWxvcnMtbG92ZS1zdG9yeS82NzU4ONIBkwFodHRwczovL3d3dy5sYWluZXlnb3NzaXAuY29tL3RheWxvci1zd2lmdC1yeWFuLXJleW5vbGRzLWV4Y2VsbGVudC1jby1wcm9kdWN0aW9uLW1hdGNoLWNvbW1lcmNpYWwtZmVhdHVyaW5nLW5ldy12ZXJzaW9uLXRheWxvcnMtbG92ZS1zdG9yeS82NzU4OC9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Dec 2020 18:30:41 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5sYWluZXlnb3NzaXAuY29tL3RheWxvci1zd2lmdC1yeWFuLXJleW5vbGRzLWV4Y2VsbGVudC1jby1wcm9kdWN0aW9uLW1hdGNoLWNvbW1lcmNpYWwtZmVhdHVyaW5nLW5ldy12ZXJzaW9uLXRheWxvcnMtbG92ZS1zdG9yeS82NzU4ONIBkwFodHRwczovL3d3dy5sYWluZXlnb3NzaXAuY29tL3RheWxvci1zd2lmdC1yeWFuLXJleW5vbGRzLWV4Y2VsbGVudC1jby1wcm9kdWN0aW9uLW1hdGNoLWNvbW1lcmNpYWwtZmVhdHVyaW5nLW5ldy12ZXJzaW9uLXRheWxvcnMtbG92ZS1zdG9yeS82NzU4OC9hbXA?oc=5\" target=\"_blank\">Taylor Swift and Ryan Reynolds's excellent co-production on Match commercial featuring new version of Taylor's</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LaineyGossip</font>"
+            ],
+            "source": [
+              {
+                "_": "LaineyGossip",
+                "$": {
+                  "url": "https://www.laineygossip.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Boulder’s Liquor Mart sells building, lot to W.W. Reynolds - Boulder Daily Camera"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmRhaWx5Y2FtZXJhLmNvbS9jaV8zMDM5Njg3NC9ib3VsZGVycy1saXF1b3ItbWFydC1zZWxscy1idWlsZGluZy1sb3Qtdy13L9IBYmh0dHBzOi8vd3d3LmRhaWx5Y2FtZXJhLmNvbS8yMDE2LzA5LzIzL2JvdWxkZXJzLWxpcXVvci1tYXJ0LXNlbGxzLWJ1aWxkaW5nLWxvdC10by13dy1yZXlub2xkcy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LmRhaWx5Y2FtZXJhLmNvbS9jaV8zMDM5Njg3NC9ib3VsZGVycy1saXF1b3ItbWFydC1zZWxscy1idWlsZGluZy1sb3Qtdy13L9IBYmh0dHBzOi8vd3d3LmRhaWx5Y2FtZXJhLmNvbS8yMDE2LzA5LzIzL2JvdWxkZXJzLWxpcXVvci1tYXJ0LXNlbGxzLWJ1aWxkaW5nLWxvdC10by13dy1yZXlub2xkcy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 23 Sep 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmRhaWx5Y2FtZXJhLmNvbS9jaV8zMDM5Njg3NC9ib3VsZGVycy1saXF1b3ItbWFydC1zZWxscy1idWlsZGluZy1sb3Qtdy13L9IBYmh0dHBzOi8vd3d3LmRhaWx5Y2FtZXJhLmNvbS8yMDE2LzA5LzIzL2JvdWxkZXJzLWxpcXVvci1tYXJ0LXNlbGxzLWJ1aWxkaW5nLWxvdC10by13dy1yZXlub2xkcy9hbXAv?oc=5\" target=\"_blank\">Boulder’s Liquor Mart sells building, lot to W.W. Reynolds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boulder Daily Camera</font>"
+            ],
+            "source": [
+              {
+                "_": "Boulder Daily Camera",
+                "$": {
+                  "url": "https://www.dailycamera.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reynolds American Completes Lorillard Acquisition - CSPDailyNews.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vY3NwZGFpbHluZXdzLmNvbS90b2JhY2NvL3JleW5vbGRzLWFtZXJpY2FuLWNvbXBsZXRlcy1sb3JpbGxhcmQtYWNxdWlzaXRpb27SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vY3NwZGFpbHluZXdzLmNvbS90b2JhY2NvL3JleW5vbGRzLWFtZXJpY2FuLWNvbXBsZXRlcy1sb3JpbGxhcmQtYWNxdWlzaXRpb27SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jun 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vY3NwZGFpbHluZXdzLmNvbS90b2JhY2NvL3JleW5vbGRzLWFtZXJpY2FuLWNvbXBsZXRlcy1sb3JpbGxhcmQtYWNxdWlzaXRpb27SAQA?oc=5\" target=\"_blank\">Reynolds American Completes Lorillard Acquisition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSPDailyNews.com</font>"
+            ],
+            "source": [
+              {
+                "_": "CSPDailyNews.com",
+                "$": {
+                  "url": "https://cspdailynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "David Reynolds, Leader of Metals Company, Dies at 96 (Published 2011) - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTEvMDkvMDEvYnVzaW5lc3MvZGF2aWQtcmV5bm9sZHMtbGVhZGVyLW9mLW1ldGFscy1jb21wYW55LWRpZXMtYXQtOTYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTEvMDkvMDEvYnVzaW5lc3MvZGF2aWQtcmV5bm9sZHMtbGVhZGVyLW9mLW1ldGFscy1jb21wYW55LWRpZXMtYXQtOTYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Sep 2011 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTEvMDkvMDEvYnVzaW5lc3MvZGF2aWQtcmV5bm9sZHMtbGVhZGVyLW9mLW1ldGFscy1jb21wYW55LWRpZXMtYXQtOTYuaHRtbNIBAA?oc=5\" target=\"_blank\">David Reynolds, Leader of Metals Company, Dies at 96 (Published 2011)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Peek through time: Leading manufacturer Reynolds Spring Co. revolutionized households with its Bonny Ware molded ... - MLive.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm1saXZlLmNvbS9saXZpbmcvamFja3Nvbi8yMDExLzA0L3BlZWtfdGhyb3VnaF90aW1lX2xlYWRpbmdfbWFudS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3Lm1saXZlLmNvbS9saXZpbmcvamFja3Nvbi8yMDExLzA0L3BlZWtfdGhyb3VnaF90aW1lX2xlYWRpbmdfbWFudS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 02 Apr 2011 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm1saXZlLmNvbS9saXZpbmcvamFja3Nvbi8yMDExLzA0L3BlZWtfdGhyb3VnaF90aW1lX2xlYWRpbmdfbWFudS5odG1s0gEA?oc=5\" target=\"_blank\">Peek through time: Leading manufacturer Reynolds Spring Co. revolutionized households with its Bonny Ware molded ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>"
+            ],
+            "source": [
+              {
+                "_": "MLive.com",
+                "$": {
+                  "url": "https://www.mlive.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Automotive Dealer Management Systems Market to Witness an Outstanding Growth During 2024 | Leading Key ... - Amoré"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMi4AFodHRwczovL2Ftb3JlLm5nL3dvcmxkd2lkZS80OS9hdXRvbW90aXZlLWRlYWxlci1tYW5hZ2VtZW50LXN5c3RlbXMtbWFya2V0LXRvLXdpdG5lc3MtYW4tb3V0c3RhbmRpbmctZ3Jvd3RoLWR1cmluZy0yMDI0LWxlYWRpbmcta2V5LXZlbmRvcnMtY2RrLWdsb2JhbC1sbGMtZm9ybWVybHktYWRwLWRlYWxlci1zZXJ2aWNlcy10aGUtcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNvbXBhbnktZGVhbGVyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMi4AFodHRwczovL2Ftb3JlLm5nL3dvcmxkd2lkZS80OS9hdXRvbW90aXZlLWRlYWxlci1tYW5hZ2VtZW50LXN5c3RlbXMtbWFya2V0LXRvLXdpdG5lc3MtYW4tb3V0c3RhbmRpbmctZ3Jvd3RoLWR1cmluZy0yMDI0LWxlYWRpbmcta2V5LXZlbmRvcnMtY2RrLWdsb2JhbC1sbGMtZm9ybWVybHktYWRwLWRlYWxlci1zZXJ2aWNlcy10aGUtcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNvbXBhbnktZGVhbGVyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 15:49:12 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMi4AFodHRwczovL2Ftb3JlLm5nL3dvcmxkd2lkZS80OS9hdXRvbW90aXZlLWRlYWxlci1tYW5hZ2VtZW50LXN5c3RlbXMtbWFya2V0LXRvLXdpdG5lc3MtYW4tb3V0c3RhbmRpbmctZ3Jvd3RoLWR1cmluZy0yMDI0LWxlYWRpbmcta2V5LXZlbmRvcnMtY2RrLWdsb2JhbC1sbGMtZm9ybWVybHktYWRwLWRlYWxlci1zZXJ2aWNlcy10aGUtcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNvbXBhbnktZGVhbGVyL9IBAA?oc=5\" target=\"_blank\">Automotive Dealer Management Systems Market to Witness an Outstanding Growth During 2024 | Leading Key ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amoré</font>"
+            ],
+            "source": [
+              {
+                "_": "Amoré",
+                "$": {
+                  "url": "https://amore.ng"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Goodbye Reynolds? Millennials Can't Keep Calm As Their Favorite Pen Is Reportedly Discontinued - Mashable India"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL2luLm1hc2hhYmxlLmNvbS9jdWx0dXJlLzU4OTQ1L2dvb2RieWUtcmV5bm9sZHMtbWlsbGVubmlhbHMtY2FudC1rZWVwLWNhbG0tYXMtdGhlaXItZmF2b3JpdGUtcGVuLWlzLXJlcG9ydGVkbHktZGlzY29udGludWVk0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL2luLm1hc2hhYmxlLmNvbS9jdWx0dXJlLzU4OTQ1L2dvb2RieWUtcmV5bm9sZHMtbWlsbGVubmlhbHMtY2FudC1rZWVwLWNhbG0tYXMtdGhlaXItZmF2b3JpdGUtcGVuLWlzLXJlcG9ydGVkbHktZGlzY29udGludWVk0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 25 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL2luLm1hc2hhYmxlLmNvbS9jdWx0dXJlLzU4OTQ1L2dvb2RieWUtcmV5bm9sZHMtbWlsbGVubmlhbHMtY2FudC1rZWVwLWNhbG0tYXMtdGhlaXItZmF2b3JpdGUtcGVuLWlzLXJlcG9ydGVkbHktZGlzY29udGludWVk0gEA?oc=5\" target=\"_blank\">Goodbye Reynolds? Millennials Can't Keep Calm As Their Favorite Pen Is Reportedly Discontinued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable India</font>"
+            ],
+            "source": [
+              {
+                "_": "Mashable India",
+                "$": {
+                  "url": "https://in.mashable.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds Net Worth And Assets: Here Are The Companies He Owns - International Business Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmlidGltZXMuY29tL3J5YW4tcmV5bm9sZHMtbmV0LXdvcnRoLWFzc2V0cy1oZXJlLWFyZS1jb21wYW5pZXMtaGUtb3ducy0zNjc3NDk00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmlidGltZXMuY29tL3J5YW4tcmV5bm9sZHMtbmV0LXdvcnRoLWFzc2V0cy1oZXJlLWFyZS1jb21wYW5pZXMtaGUtb3ducy0zNjc3NDk00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmlidGltZXMuY29tL3J5YW4tcmV5bm9sZHMtbmV0LXdvcnRoLWFzc2V0cy1oZXJlLWFyZS1jb21wYW5pZXMtaGUtb3ducy0zNjc3NDk00gEA?oc=5\" target=\"_blank\">Ryan Reynolds Net Worth And Assets: Here Are The Companies He Owns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times</font>"
+            ],
+            "source": [
+              {
+                "_": "International Business Times",
+                "$": {
+                  "url": "https://www.ibtimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Happy Bobby Bonilla Day! Ryan Reynolds' Phone Company Offers 25-Year, 4GB Per Month Plan for $8.33! - iTech Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lml0ZWNocG9zdC5jb20vYXJ0aWNsZXMvMTA2MjEyLzIwMjEwNzAxL2hhcHB5LWJvYmJ5LWJvbmlsbGEtZGF5LXJ5YW4tcmV5bm9sZHMtcGhvbmUtY29tcGFueS1vZmZlcnMtMjUuaHRt0gF4aHR0cHM6Ly93d3cuaXRlY2hwb3N0LmNvbS9hbXAvYXJ0aWNsZXMvMTA2MjEyLzIwMjEwNzAxL2hhcHB5LWJvYmJ5LWJvbmlsbGEtZGF5LXJ5YW4tcmV5bm9sZHMtcGhvbmUtY29tcGFueS1vZmZlcnMtMjUuaHRt?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3Lml0ZWNocG9zdC5jb20vYXJ0aWNsZXMvMTA2MjEyLzIwMjEwNzAxL2hhcHB5LWJvYmJ5LWJvbmlsbGEtZGF5LXJ5YW4tcmV5bm9sZHMtcGhvbmUtY29tcGFueS1vZmZlcnMtMjUuaHRt0gF4aHR0cHM6Ly93d3cuaXRlY2hwb3N0LmNvbS9hbXAvYXJ0aWNsZXMvMTA2MjEyLzIwMjEwNzAxL2hhcHB5LWJvYmJ5LWJvbmlsbGEtZGF5LXJ5YW4tcmV5bm9sZHMtcGhvbmUtY29tcGFueS1vZmZlcnMtMjUuaHRt",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Jul 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lml0ZWNocG9zdC5jb20vYXJ0aWNsZXMvMTA2MjEyLzIwMjEwNzAxL2hhcHB5LWJvYmJ5LWJvbmlsbGEtZGF5LXJ5YW4tcmV5bm9sZHMtcGhvbmUtY29tcGFueS1vZmZlcnMtMjUuaHRt0gF4aHR0cHM6Ly93d3cuaXRlY2hwb3N0LmNvbS9hbXAvYXJ0aWNsZXMvMTA2MjEyLzIwMjEwNzAxL2hhcHB5LWJvYmJ5LWJvbmlsbGEtZGF5LXJ5YW4tcmV5bm9sZHMtcGhvbmUtY29tcGFueS1vZmZlcnMtMjUuaHRt?oc=5\" target=\"_blank\">Happy Bobby Bonilla Day! Ryan Reynolds' Phone Company Offers 25-Year, 4GB Per Month Plan for $8.33!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iTech Post</font>"
+            ],
+            "source": [
+              {
+                "_": "iTech Post",
+                "$": {
+                  "url": "https://www.itechpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ryan Reynolds' Mint Mobile Being Sold To Massive Cell Phone Company? - Giant Freakin Robot"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmdpYW50ZnJlYWtpbnJvYm90LmNvbS9lbnQvcnlhbi1yZXlub2xkcy1taW50LW1vYmlsZS1zb2xkLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmdpYW50ZnJlYWtpbnJvYm90LmNvbS9lbnQvcnlhbi1yZXlub2xkcy1taW50LW1vYmlsZS1zb2xkLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 13 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmdpYW50ZnJlYWtpbnJvYm90LmNvbS9lbnQvcnlhbi1yZXlub2xkcy1taW50LW1vYmlsZS1zb2xkLmh0bWzSAQA?oc=5\" target=\"_blank\">Ryan Reynolds' Mint Mobile Being Sold To Massive Cell Phone Company?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Giant Freakin Robot</font>"
+            ],
+            "source": [
+              {
+                "_": "Giant Freakin Robot",
+                "$": {
+                  "url": "https://www.giantfreakinrobot.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

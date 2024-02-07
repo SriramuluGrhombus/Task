@@ -1,0 +1,2108 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Doug Skaff\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Doug+Skaff&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Doug Skaff Switches Parties, Files For Secretary Of State - West Virginia Public Broadcasting"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3ZwdWJsaWMub3JnL2RvdWctc2thZmYtc3dpdGNoZXMtcGFydGllcy1maWxlcy1mb3Itc2VjcmV0YXJ5LW9mLXN0YXRlL9IBVGh0dHBzOi8vd3ZwdWJsaWMub3JnL2RvdWctc2thZmYtc3dpdGNoZXMtcGFydGllcy1maWxlcy1mb3Itc2VjcmV0YXJ5LW9mLXN0YXRlLz9hbXA9MQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vd3ZwdWJsaWMub3JnL2RvdWctc2thZmYtc3dpdGNoZXMtcGFydGllcy1maWxlcy1mb3Itc2VjcmV0YXJ5LW9mLXN0YXRlL9IBVGh0dHBzOi8vd3ZwdWJsaWMub3JnL2RvdWctc2thZmYtc3dpdGNoZXMtcGFydGllcy1maWxlcy1mb3Itc2VjcmV0YXJ5LW9mLXN0YXRlLz9hbXA9MQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3ZwdWJsaWMub3JnL2RvdWctc2thZmYtc3dpdGNoZXMtcGFydGllcy1maWxlcy1mb3Itc2VjcmV0YXJ5LW9mLXN0YXRlL9IBVGh0dHBzOi8vd3ZwdWJsaWMub3JnL2RvdWctc2thZmYtc3dpdGNoZXMtcGFydGllcy1maWxlcy1mb3Itc2VjcmV0YXJ5LW9mLXN0YXRlLz9hbXA9MQ?oc=5\" target=\"_blank\">Doug Skaff Switches Parties, Files For Secretary Of State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia Public Broadcasting</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia Public Broadcasting",
+                "$": {
+                  "url": "https://wvpublic.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Doug Skaff, recently leader of legislative Democrats, is running statewide as a Republican - West Virginia MetroNews"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMTAvMTIvZG91Zy1za2FmZi1yZWNlbnRseS1sZWFkZXItb2YtbGVnaXNsYXRpdmUtZGVtb2NyYXRzLWlzLXJ1bm5pbmctc3RhdGV3aWRlLWFzLWEtcmVwdWJsaWNhbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMTAvMTIvZG91Zy1za2FmZi1yZWNlbnRseS1sZWFkZXItb2YtbGVnaXNsYXRpdmUtZGVtb2NyYXRzLWlzLXJ1bm5pbmctc3RhdGV3aWRlLWFzLWEtcmVwdWJsaWNhbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMTAvMTIvZG91Zy1za2FmZi1yZWNlbnRseS1sZWFkZXItb2YtbGVnaXNsYXRpdmUtZGVtb2NyYXRzLWlzLXJ1bm5pbmctc3RhdGV3aWRlLWFzLWEtcmVwdWJsaWNhbi_SAQA?oc=5\" target=\"_blank\">Doug Skaff, recently leader of legislative Democrats, is running statewide as a Republican</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia MetroNews</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia MetroNews",
+                "$": {
+                  "url": "https://wvmetronews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former West Virginia Lawmaker Doug Skaff Considers Run for Secretary of State - WV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL2Zvcm1lci13ZXN0LXZpcmdpbmlhLWxhd21ha2VyLWRvdWctc2thZmYtY29uc2lkZXJzLXJ1bi1mb3Itc2VjcmV0YXJ5LW9mLXN0YXRlL2FydGljbGVfOWM2ZWM1NGEtZDg4MC01N2NmLWI5N2QtZDU2ZDJlMGNkYWQzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiogFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL2Zvcm1lci13ZXN0LXZpcmdpbmlhLWxhd21ha2VyLWRvdWctc2thZmYtY29uc2lkZXJzLXJ1bi1mb3Itc2VjcmV0YXJ5LW9mLXN0YXRlL2FydGljbGVfOWM2ZWM1NGEtZDg4MC01N2NmLWI5N2QtZDU2ZDJlMGNkYWQzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL2Zvcm1lci13ZXN0LXZpcmdpbmlhLWxhd21ha2VyLWRvdWctc2thZmYtY29uc2lkZXJzLXJ1bi1mb3Itc2VjcmV0YXJ5LW9mLXN0YXRlL2FydGljbGVfOWM2ZWM1NGEtZDg4MC01N2NmLWI5N2QtZDU2ZDJlMGNkYWQzLmh0bWzSAQA?oc=5\" target=\"_blank\">Former West Virginia Lawmaker Doug Skaff Considers Run for Secretary of State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WV News</font>"
+            ],
+            "source": [
+              {
+                "_": "WV News",
+                "$": {
+                  "url": "https://www.wvnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Doug Skaff resigns from W.Va. House of Delegates - WSAZ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LndzYXouY29tLzIwMjMvMDkvMDgvZG91Zy1za2FmZi1yZXNpZ25zLXctdmEtaG91c2UtZGVsZWdhdGVzL9IBV2h0dHBzOi8vd3d3LndzYXouY29tLzIwMjMvMDkvMDgvZG91Zy1za2FmZi1yZXNpZ25zLXctdmEtaG91c2UtZGVsZWdhdGVzLz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vd3d3LndzYXouY29tLzIwMjMvMDkvMDgvZG91Zy1za2FmZi1yZXNpZ25zLXctdmEtaG91c2UtZGVsZWdhdGVzL9IBV2h0dHBzOi8vd3d3LndzYXouY29tLzIwMjMvMDkvMDgvZG91Zy1za2FmZi1yZXNpZ25zLXctdmEtaG91c2UtZGVsZWdhdGVzLz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LndzYXouY29tLzIwMjMvMDkvMDgvZG91Zy1za2FmZi1yZXNpZ25zLXctdmEtaG91c2UtZGVsZWdhdGVzL9IBV2h0dHBzOi8vd3d3LndzYXouY29tLzIwMjMvMDkvMDgvZG91Zy1za2FmZi1yZXNpZ25zLXctdmEtaG91c2UtZGVsZWdhdGVzLz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">Doug Skaff resigns from W.Va. House of Delegates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAZ</font>"
+            ],
+            "source": [
+              {
+                "_": "WSAZ",
+                "$": {
+                  "url": "https://www.wsaz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Doug Skaff resigns from West Virginia House of Delegates - WCHS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL2RvdWctc2thZmYtcmVzaWducy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVz0gFaaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL2RvdWctc2thZmYtcmVzaWducy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVz?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL2RvdWctc2thZmYtcmVzaWducy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVz0gFaaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL2RvdWctc2thZmYtcmVzaWducy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVz",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL2RvdWctc2thZmYtcmVzaWducy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVz0gFaaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL2RvdWctc2thZmYtcmVzaWducy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVz?oc=5\" target=\"_blank\">Doug Skaff resigns from West Virginia House of Delegates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCHS</font>"
+            ],
+            "source": [
+              {
+                "_": "WCHS",
+                "$": {
+                  "url": "https://wchstv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Justice appoints Hollis T. Lewis to 57th District seat in House of Delegates - Governor Jim Justice"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL2dvdmVybm9yLnd2Lmdvdi9OZXdzL3ByZXNzLXJlbGVhc2VzLzIwMjMvUGFnZXMvR292Li1KdXN0aWNlLWFwcG9pbnRzLUhvbGxpcy1ULi1MZXdpcy10by01N3RoLURpc3RyaWN0LXNlYXQtaW4tSG91c2Utb2YtRGVsZWdhdGVzLmFzcHjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL2dvdmVybm9yLnd2Lmdvdi9OZXdzL3ByZXNzLXJlbGVhc2VzLzIwMjMvUGFnZXMvR292Li1KdXN0aWNlLWFwcG9pbnRzLUhvbGxpcy1ULi1MZXdpcy10by01N3RoLURpc3RyaWN0LXNlYXQtaW4tSG91c2Utb2YtRGVsZWdhdGVzLmFzcHjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL2dvdmVybm9yLnd2Lmdvdi9OZXdzL3ByZXNzLXJlbGVhc2VzLzIwMjMvUGFnZXMvR292Li1KdXN0aWNlLWFwcG9pbnRzLUhvbGxpcy1ULi1MZXdpcy10by01N3RoLURpc3RyaWN0LXNlYXQtaW4tSG91c2Utb2YtRGVsZWdhdGVzLmFzcHjSAQA?oc=5\" target=\"_blank\">Gov. Justice appoints Hollis T. Lewis to 57th District seat in House of Delegates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Governor Jim Justice</font>"
+            ],
+            "source": [
+              {
+                "_": "Governor Jim Justice",
+                "$": {
+                  "url": "https://governor.wv.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dem Sean Hornbuckle taking over West Virginia House minority leader role - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dlc3QtdmlyZ2luaWEtZG91Zy1za2FmZi1zZWFuLWhvcm5idWNrbGUtNjY5OGZhOThiNWM2NGE5MmFjOTNhNzk4NmU4MDdlMWHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dlc3QtdmlyZ2luaWEtZG91Zy1za2FmZi1zZWFuLWhvcm5idWNrbGUtNjY5OGZhOThiNWM2NGE5MmFjOTNhNzk4NmU4MDdlMWHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dlc3QtdmlyZ2luaWEtZG91Zy1za2FmZi1zZWFuLWhvcm5idWNrbGUtNjY5OGZhOThiNWM2NGE5MmFjOTNhNzk4NmU4MDdlMWHSAQA?oc=5\" target=\"_blank\">Dem Sean Hornbuckle taking over West Virginia House minority leader role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "West Virginia’s former Democratic minority leader Doug Skaff resigns from state House of Delegates - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3dlc3QtdmlyZ2luaWFzLWZvcm1lci1kZW1vY3JhdGljLW1pbm9yaXR5LWxlYWRlci1kb3VnLXNrYWZmLXJlc2lnbnMtc3RhdGUtaG91c2UtZGVsZWdhdGVz0gF-aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mvd2VzdC12aXJnaW5pYXMtZm9ybWVyLWRlbW9jcmF0aWMtbWlub3JpdHktbGVhZGVyLWRvdWctc2thZmYtcmVzaWducy1zdGF0ZS1ob3VzZS1kZWxlZ2F0ZXMuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3dlc3QtdmlyZ2luaWFzLWZvcm1lci1kZW1vY3JhdGljLW1pbm9yaXR5LWxlYWRlci1kb3VnLXNrYWZmLXJlc2lnbnMtc3RhdGUtaG91c2UtZGVsZWdhdGVz0gF-aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mvd2VzdC12aXJnaW5pYXMtZm9ybWVyLWRlbW9jcmF0aWMtbWlub3JpdHktbGVhZGVyLWRvdWctc2thZmYtcmVzaWducy1zdGF0ZS1ob3VzZS1kZWxlZ2F0ZXMuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3dlc3QtdmlyZ2luaWFzLWZvcm1lci1kZW1vY3JhdGljLW1pbm9yaXR5LWxlYWRlci1kb3VnLXNrYWZmLXJlc2lnbnMtc3RhdGUtaG91c2UtZGVsZWdhdGVz0gF-aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mvd2VzdC12aXJnaW5pYXMtZm9ybWVyLWRlbW9jcmF0aWMtbWlub3JpdHktbGVhZGVyLWRvdWctc2thZmYtcmVzaWducy1zdGF0ZS1ob3VzZS1kZWxlZ2F0ZXMuYW1w?oc=5\" target=\"_blank\">West Virginia’s former Democratic minority leader Doug Skaff resigns from state House of Delegates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff announces bid for WV secretary of state as a Republican - Charleston Gazette-Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL3NrYWZmLWFubm91bmNlcy1iaWQtZm9yLXd2LXNlY3JldGFyeS1vZi1zdGF0ZS1hcy1hLXJlcHVibGljYW4vYXJ0aWNsZV9jNTY4MjliZS1kZjQxLTVmZjYtYTkwNi1jMmU2YjA3MDk1M2YuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimwFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL3NrYWZmLWFubm91bmNlcy1iaWQtZm9yLXd2LXNlY3JldGFyeS1vZi1zdGF0ZS1hcy1hLXJlcHVibGljYW4vYXJ0aWNsZV9jNTY4MjliZS1kZjQxLTVmZjYtYTkwNi1jMmU2YjA3MDk1M2YuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL3NrYWZmLWFubm91bmNlcy1iaWQtZm9yLXd2LXNlY3JldGFyeS1vZi1zdGF0ZS1hcy1hLXJlcHVibGljYW4vYXJ0aWNsZV9jNTY4MjliZS1kZjQxLTVmZjYtYTkwNi1jMmU2YjA3MDk1M2YuaHRtbNIBAA?oc=5\" target=\"_blank\">Skaff announces bid for WV secretary of state as a Republican</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charleston Gazette-Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Charleston Gazette-Mail",
+                "$": {
+                  "url": "https://www.wvgazettemail.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff Stepping Down From Leadership Role | News, Sports, Jobs - Wheeling Intelligencer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZWludGVsbGlnZW5jZXIubmV0L25ld3MvdG9wLWhlYWRsaW5lcy8yMDIzLzA4L3NrYWZmLXN0ZXBwaW5nLWRvd24tZnJvbS1sZWFkZXJzaGlwLXJvbGUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LnRoZWludGVsbGlnZW5jZXIubmV0L25ld3MvdG9wLWhlYWRsaW5lcy8yMDIzLzA4L3NrYWZmLXN0ZXBwaW5nLWRvd24tZnJvbS1sZWFkZXJzaGlwLXJvbGUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 03 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZWludGVsbGlnZW5jZXIubmV0L25ld3MvdG9wLWhlYWRsaW5lcy8yMDIzLzA4L3NrYWZmLXN0ZXBwaW5nLWRvd24tZnJvbS1sZWFkZXJzaGlwLXJvbGUv0gEA?oc=5\" target=\"_blank\">Skaff Stepping Down From Leadership Role | News, Sports, Jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wheeling Intelligencer</font>"
+            ],
+            "source": [
+              {
+                "_": "Wheeling Intelligencer",
+                "$": {
+                  "url": "https://www.theintelligencer.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "West Virginia House of Delegates Minority Leader Doug Skaff to step down - WOWK 13 News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL3dlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzLW1pbm9yaXR5LWxlYWRlci1kb3VnLXNrYWZmLXRvLXN0ZXAtZG93bi_SAXdodHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS93ZXN0LXZpcmdpbmlhLWhvdXNlLW9mLWRlbGVnYXRlcy1taW5vcml0eS1sZWFkZXItZG91Zy1za2FmZi10by1zdGVwLWRvd24vYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL3dlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzLW1pbm9yaXR5LWxlYWRlci1kb3VnLXNrYWZmLXRvLXN0ZXAtZG93bi_SAXdodHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS93ZXN0LXZpcmdpbmlhLWhvdXNlLW9mLWRlbGVnYXRlcy1taW5vcml0eS1sZWFkZXItZG91Zy1za2FmZi10by1zdGVwLWRvd24vYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL3dlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzLW1pbm9yaXR5LWxlYWRlci1kb3VnLXNrYWZmLXRvLXN0ZXAtZG93bi_SAXdodHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS93ZXN0LXZpcmdpbmlhLWhvdXNlLW9mLWRlbGVnYXRlcy1taW5vcml0eS1sZWFkZXItZG91Zy1za2FmZi10by1zdGVwLWRvd24vYW1wLw?oc=5\" target=\"_blank\">West Virginia House of Delegates Minority Leader Doug Skaff to step down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOWK 13 News</font>"
+            ],
+            "source": [
+              {
+                "_": "WOWK 13 News",
+                "$": {
+                  "url": "https://www.wowktv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Doug Skaff resigns from House of Delegates - WOAY News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd29heS5jb20vZG91Zy1za2FmZi1yZXNpZ25zLWZyb20taG91c2Utb2YtZGVsZWdhdGVzL9IBQGh0dHBzOi8vd29heS5jb20vZG91Zy1za2FmZi1yZXNpZ25zLWZyb20taG91c2Utb2YtZGVsZWdhdGVzLz9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vd29heS5jb20vZG91Zy1za2FmZi1yZXNpZ25zLWZyb20taG91c2Utb2YtZGVsZWdhdGVzL9IBQGh0dHBzOi8vd29heS5jb20vZG91Zy1za2FmZi1yZXNpZ25zLWZyb20taG91c2Utb2YtZGVsZWdhdGVzLz9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd29heS5jb20vZG91Zy1za2FmZi1yZXNpZ25zLWZyb20taG91c2Utb2YtZGVsZWdhdGVzL9IBQGh0dHBzOi8vd29heS5jb20vZG91Zy1za2FmZi1yZXNpZ25zLWZyb20taG91c2Utb2YtZGVsZWdhdGVzLz9hbXA?oc=5\" target=\"_blank\">Doug Skaff resigns from House of Delegates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOAY News</font>"
+            ],
+            "source": [
+              {
+                "_": "WOAY News",
+                "$": {
+                  "url": "https://woay.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff steps down from House of Delegates - West Virginia MetroNews"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDkvMDgvc2thZmYtc3RlcHMtZG93bi1mcm9tLWhvdXNlLW9mLWRlbGVnYXRlcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDkvMDgvc2thZmYtc3RlcHMtZG93bi1mcm9tLWhvdXNlLW9mLWRlbGVnYXRlcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDkvMDgvc2thZmYtc3RlcHMtZG93bi1mcm9tLWhvdXNlLW9mLWRlbGVnYXRlcy_SAQA?oc=5\" target=\"_blank\">Skaff steps down from House of Delegates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia MetroNews</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia MetroNews",
+                "$": {
+                  "url": "https://wvmetronews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Doug Skaff to run for W.Va. Secretary of State as Republican candidate - WCHS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL2RvdWctc2thZmYtdG8tcnVuLWZvci13dmEtc2VjcmV0YXJ5LW9mLXN0YXRlLWFzLXJlcHVibGljYW7SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL2RvdWctc2thZmYtdG8tcnVuLWZvci13dmEtc2VjcmV0YXJ5LW9mLXN0YXRlLWFzLXJlcHVibGljYW7SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL2RvdWctc2thZmYtdG8tcnVuLWZvci13dmEtc2VjcmV0YXJ5LW9mLXN0YXRlLWFzLXJlcHVibGljYW7SAQA?oc=5\" target=\"_blank\">Doug Skaff to run for W.Va. Secretary of State as Republican candidate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCHS</font>"
+            ],
+            "source": [
+              {
+                "_": "WCHS",
+                "$": {
+                  "url": "https://wchstv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Doug Skaff switches to Republican party, files to run for West Virginia Secretary of State - WOWK 13 News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS9kb3VnLXNrYWZmLXN3aXRjaGVzLXRvLXJlcHVibGljYW4tcGFydHktZmlsZXMtdG8tcnVuLWZvci13ZXN0LXZpcmdpbmlhLXNlY3JldGFyeS1vZi1zdGF0ZS_SAYgBaHR0cHM6Ly93d3cud293a3R2LmNvbS9uZXdzL3dlc3QtdmlyZ2luaWEvZG91Zy1za2FmZi1zd2l0Y2hlcy10by1yZXB1YmxpY2FuLXBhcnR5LWZpbGVzLXRvLXJ1bi1mb3Itd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS9kb3VnLXNrYWZmLXN3aXRjaGVzLXRvLXJlcHVibGljYW4tcGFydHktZmlsZXMtdG8tcnVuLWZvci13ZXN0LXZpcmdpbmlhLXNlY3JldGFyeS1vZi1zdGF0ZS_SAYgBaHR0cHM6Ly93d3cud293a3R2LmNvbS9uZXdzL3dlc3QtdmlyZ2luaWEvZG91Zy1za2FmZi1zd2l0Y2hlcy10by1yZXB1YmxpY2FuLXBhcnR5LWZpbGVzLXRvLXJ1bi1mb3Itd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS9kb3VnLXNrYWZmLXN3aXRjaGVzLXRvLXJlcHVibGljYW4tcGFydHktZmlsZXMtdG8tcnVuLWZvci13ZXN0LXZpcmdpbmlhLXNlY3JldGFyeS1vZi1zdGF0ZS_SAYgBaHR0cHM6Ly93d3cud293a3R2LmNvbS9uZXdzL3dlc3QtdmlyZ2luaWEvZG91Zy1za2FmZi1zd2l0Y2hlcy10by1yZXB1YmxpY2FuLXBhcnR5LWZpbGVzLXRvLXJ1bi1mb3Itd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUvYW1wLw?oc=5\" target=\"_blank\">Doug Skaff switches to Republican party, files to run for West Virginia Secretary of State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOWK 13 News</font>"
+            ],
+            "source": [
+              {
+                "_": "WOWK 13 News",
+                "$": {
+                  "url": "https://www.wowktv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff Steps Down As House Minority Leader, Hornbuckle To Take On Role - West Virginia Public Broadcasting"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3ZwdWJsaWMub3JnL3NrYWZmLXN0ZXBzLWRvd24tYXMtaG91c2UtbWlub3JpdHktbGVhZGVyLWhvcm5idWNrbGUtdG8tdGFrZS1vbi1yb2xlL9IBYGh0dHBzOi8vd3ZwdWJsaWMub3JnL3NrYWZmLXN0ZXBzLWRvd24tYXMtaG91c2UtbWlub3JpdHktbGVhZGVyLWhvcm5idWNrbGUtdG8tdGFrZS1vbi1yb2xlLz9hbXA9MQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3ZwdWJsaWMub3JnL3NrYWZmLXN0ZXBzLWRvd24tYXMtaG91c2UtbWlub3JpdHktbGVhZGVyLWhvcm5idWNrbGUtdG8tdGFrZS1vbi1yb2xlL9IBYGh0dHBzOi8vd3ZwdWJsaWMub3JnL3NrYWZmLXN0ZXBzLWRvd24tYXMtaG91c2UtbWlub3JpdHktbGVhZGVyLWhvcm5idWNrbGUtdG8tdGFrZS1vbi1yb2xlLz9hbXA9MQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3ZwdWJsaWMub3JnL3NrYWZmLXN0ZXBzLWRvd24tYXMtaG91c2UtbWlub3JpdHktbGVhZGVyLWhvcm5idWNrbGUtdG8tdGFrZS1vbi1yb2xlL9IBYGh0dHBzOi8vd3ZwdWJsaWMub3JnL3NrYWZmLXN0ZXBzLWRvd24tYXMtaG91c2UtbWlub3JpdHktbGVhZGVyLWhvcm5idWNrbGUtdG8tdGFrZS1vbi1yb2xlLz9hbXA9MQ?oc=5\" target=\"_blank\">Skaff Steps Down As House Minority Leader, Hornbuckle To Take On Role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia Public Broadcasting</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia Public Broadcasting",
+                "$": {
+                  "url": "https://wvpublic.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former Democrat leader Skaff to run for West Virginia Secretary of State as Republican - WV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL2Zvcm1lci1kZW1vY3JhdC1sZWFkZXItc2thZmYtdG8tcnVuLWZvci13ZXN0LXZpcmdpbmlhLXNlY3JldGFyeS1vZi1zdGF0ZS1hcy1yZXB1YmxpY2FuL2FydGljbGVfY2I0MzFmMjAtNjkxNy0xMWVlLTk2MGUtMmYyMzliMTY2OWUxLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqwFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL2Zvcm1lci1kZW1vY3JhdC1sZWFkZXItc2thZmYtdG8tcnVuLWZvci13ZXN0LXZpcmdpbmlhLXNlY3JldGFyeS1vZi1zdGF0ZS1hcy1yZXB1YmxpY2FuL2FydGljbGVfY2I0MzFmMjAtNjkxNy0xMWVlLTk2MGUtMmYyMzliMTY2OWUxLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL2Zvcm1lci1kZW1vY3JhdC1sZWFkZXItc2thZmYtdG8tcnVuLWZvci13ZXN0LXZpcmdpbmlhLXNlY3JldGFyeS1vZi1zdGF0ZS1hcy1yZXB1YmxpY2FuL2FydGljbGVfY2I0MzFmMjAtNjkxNy0xMWVlLTk2MGUtMmYyMzliMTY2OWUxLmh0bWzSAQA?oc=5\" target=\"_blank\">Former Democrat leader Skaff to run for West Virginia Secretary of State as Republican</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WV News</font>"
+            ],
+            "source": [
+              {
+                "_": "WV News",
+                "$": {
+                  "url": "https://www.wvnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff resigns from House to focus on business, family - Charleston Gazette-Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL3NrYWZmLXJlc2lnbnMtZnJvbS1ob3VzZS10by1mb2N1cy1vbi1idXNpbmVzcy1mYW1pbHkvYXJ0aWNsZV83ZmI1OWM0Zi0xODNjLTVlZDQtOTAxZS1lNjNmMDg2NDU5ZTYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL3NrYWZmLXJlc2lnbnMtZnJvbS1ob3VzZS10by1mb2N1cy1vbi1idXNpbmVzcy1mYW1pbHkvYXJ0aWNsZV83ZmI1OWM0Zi0xODNjLTVlZDQtOTAxZS1lNjNmMDg2NDU5ZTYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL3NrYWZmLXJlc2lnbnMtZnJvbS1ob3VzZS10by1mb2N1cy1vbi1idXNpbmVzcy1mYW1pbHkvYXJ0aWNsZV83ZmI1OWM0Zi0xODNjLTVlZDQtOTAxZS1lNjNmMDg2NDU5ZTYuaHRtbNIBAA?oc=5\" target=\"_blank\">Skaff resigns from House to focus on business, family</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charleston Gazette-Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Charleston Gazette-Mail",
+                "$": {
+                  "url": "https://www.wvgazettemail.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "West Virginia House Minority Leader Skaff to step down from position - WCHS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL3dlc3QtdmlyZ2luaWEtaG91c2UtbWlub3JpdHktbGVhZGVyLXNrYWZmLXRvLXN0ZXAtZG93bi1mcm9tLXBvc2l0aW9u0gFmaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL3dlc3QtdmlyZ2luaWEtaG91c2UtbWlub3JpdHktbGVhZGVyLXNrYWZmLXRvLXN0ZXAtZG93bi1mcm9tLXBvc2l0aW9u?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL3dlc3QtdmlyZ2luaWEtaG91c2UtbWlub3JpdHktbGVhZGVyLXNrYWZmLXRvLXN0ZXAtZG93bi1mcm9tLXBvc2l0aW9u0gFmaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL3dlc3QtdmlyZ2luaWEtaG91c2UtbWlub3JpdHktbGVhZGVyLXNrYWZmLXRvLXN0ZXAtZG93bi1mcm9tLXBvc2l0aW9u",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL3dlc3QtdmlyZ2luaWEtaG91c2UtbWlub3JpdHktbGVhZGVyLXNrYWZmLXRvLXN0ZXAtZG93bi1mcm9tLXBvc2l0aW9u0gFmaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL3dlc3QtdmlyZ2luaWEtaG91c2UtbWlub3JpdHktbGVhZGVyLXNrYWZmLXRvLXN0ZXAtZG93bi1mcm9tLXBvc2l0aW9u?oc=5\" target=\"_blank\">West Virginia House Minority Leader Skaff to step down from position</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCHS</font>"
+            ],
+            "source": [
+              {
+                "_": "WCHS",
+                "$": {
+                  "url": "https://wchstv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New weekend edition of Gazette-Mail, Herald-Dispatch coming soon - Charleston Gazette-Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL25ldy13ZWVrZW5kLWVkaXRpb24tb2YtZ2F6ZXR0ZS1tYWlsLWhlcmFsZC1kaXNwYXRjaC1jb21pbmctc29vbi9hcnRpY2xlXzc5ZTA4ODUwLTk4MDUtNWIyZi05ZWQ2LTA1NDBmYjI3ODg4OS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilAFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL25ldy13ZWVrZW5kLWVkaXRpb24tb2YtZ2F6ZXR0ZS1tYWlsLWhlcmFsZC1kaXNwYXRjaC1jb21pbmctc29vbi9hcnRpY2xlXzc5ZTA4ODUwLTk4MDUtNWIyZi05ZWQ2LTA1NDBmYjI3ODg4OS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 16 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL25ldy13ZWVrZW5kLWVkaXRpb24tb2YtZ2F6ZXR0ZS1tYWlsLWhlcmFsZC1kaXNwYXRjaC1jb21pbmctc29vbi9hcnRpY2xlXzc5ZTA4ODUwLTk4MDUtNWIyZi05ZWQ2LTA1NDBmYjI3ODg4OS5odG1s0gEA?oc=5\" target=\"_blank\">New weekend edition of Gazette-Mail, Herald-Dispatch coming soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charleston Gazette-Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Charleston Gazette-Mail",
+                "$": {
+                  "url": "https://www.wvgazettemail.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff stepping down as WV House minority leader - Charleston Gazette-Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL3NrYWZmLXN0ZXBwaW5nLWRvd24tYXMtd3YtaG91c2UtbWlub3JpdHktbGVhZGVyL2FydGljbGVfZjU4NjZkMTItYWUzZi01N2EwLThjMjAtNzFhNGQ0NDNlZTZhLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL3NrYWZmLXN0ZXBwaW5nLWRvd24tYXMtd3YtaG91c2UtbWlub3JpdHktbGVhZGVyL2FydGljbGVfZjU4NjZkMTItYWUzZi01N2EwLThjMjAtNzFhNGQ0NDNlZTZhLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL3NrYWZmLXN0ZXBwaW5nLWRvd24tYXMtd3YtaG91c2UtbWlub3JpdHktbGVhZGVyL2FydGljbGVfZjU4NjZkMTItYWUzZi01N2EwLThjMjAtNzFhNGQ0NDNlZTZhLmh0bWzSAQA?oc=5\" target=\"_blank\">Skaff stepping down as WV House minority leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charleston Gazette-Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Charleston Gazette-Mail",
+                "$": {
+                  "url": "https://www.wvgazettemail.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff switches to GOP, announces bid to be West Virginia Secretary of State - Parkersburg News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5uZXdzYW5kc2VudGluZWwuY29tL25ld3MvbG9jYWwtbmV3cy8yMDIzLzEwL3NrYWZmLXN3aXRjaGVzLXRvLWdvcC1hbm5vdW5jZXMtYmlkLXRvLWJlLXdlc3QtdmlyZ2luaWEtc2VjcmV0YXJ5LW9mLXN0YXRlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5uZXdzYW5kc2VudGluZWwuY29tL25ld3MvbG9jYWwtbmV3cy8yMDIzLzEwL3NrYWZmLXN3aXRjaGVzLXRvLWdvcC1hbm5vdW5jZXMtYmlkLXRvLWJlLXdlc3QtdmlyZ2luaWEtc2VjcmV0YXJ5LW9mLXN0YXRlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 13 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5uZXdzYW5kc2VudGluZWwuY29tL25ld3MvbG9jYWwtbmV3cy8yMDIzLzEwL3NrYWZmLXN3aXRjaGVzLXRvLWdvcC1hbm5vdW5jZXMtYmlkLXRvLWJlLXdlc3QtdmlyZ2luaWEtc2VjcmV0YXJ5LW9mLXN0YXRlL9IBAA?oc=5\" target=\"_blank\">Skaff switches to GOP, announces bid to be West Virginia Secretary of State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parkersburg News</font>"
+            ],
+            "source": [
+              {
+                "_": "Parkersburg News",
+                "$": {
+                  "url": "https://www.newsandsentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff stepping down as House Minority Leader - West Virginia MetroNews"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDgvMDIvc2thZmYtc3RlcHBpbmctZG93bi1hcy1ob3VzZS1taW5vcml0eS1sZWFkZXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDgvMDIvc2thZmYtc3RlcHBpbmctZG93bi1hcy1ob3VzZS1taW5vcml0eS1sZWFkZXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDgvMDIvc2thZmYtc3RlcHBpbmctZG93bi1hcy1ob3VzZS1taW5vcml0eS1sZWFkZXIv0gEA?oc=5\" target=\"_blank\">Skaff stepping down as House Minority Leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia MetroNews</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia MetroNews",
+                "$": {
+                  "url": "https://wvmetronews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "West Virginia Public Broadcasting chief steps down in latest shake-up at news outlet - The Seattle Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vZW50ZXJ0YWlubWVudC93ZXN0LXZpcmdpbmlhLXB1YmxpYy1icm9hZGNhc3RpbmctY2hpZWYtc3RlcHMtZG93bi1pbi1sYXRlc3Qtc2hha2V1cC1hdC1uZXdzLW91dGxldC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vZW50ZXJ0YWlubWVudC93ZXN0LXZpcmdpbmlhLXB1YmxpYy1icm9hZGNhc3RpbmctY2hpZWYtc3RlcHMtZG93bi1pbi1sYXRlc3Qtc2hha2V1cC1hdC1uZXdzLW91dGxldC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 15 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vZW50ZXJ0YWlubWVudC93ZXN0LXZpcmdpbmlhLXB1YmxpYy1icm9hZGNhc3RpbmctY2hpZWYtc3RlcHMtZG93bi1pbi1sYXRlc3Qtc2hha2V1cC1hdC1uZXdzLW91dGxldC_SAQA?oc=5\" target=\"_blank\">West Virginia Public Broadcasting chief steps down in latest shake-up at news outlet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Seattle Times",
+                "$": {
+                  "url": "https://www.seattletimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff, former majority leader, resigns from West Virginia House - Parkersburg News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDkvc2thZmYtZm9ybWVyLW1ham9yaXR5LWxlYWRlci1yZXNpZ25zLWZyb20td2VzdC12aXJnaW5pYS1ob3VzZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDkvc2thZmYtZm9ybWVyLW1ham9yaXR5LWxlYWRlci1yZXNpZ25zLWZyb20td2VzdC12aXJnaW5pYS1ob3VzZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 09 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDkvc2thZmYtZm9ybWVyLW1ham9yaXR5LWxlYWRlci1yZXNpZ25zLWZyb20td2VzdC12aXJnaW5pYS1ob3VzZS_SAQA?oc=5\" target=\"_blank\">Skaff, former majority leader, resigns from West Virginia House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parkersburg News</font>"
+            ],
+            "source": [
+              {
+                "_": "Parkersburg News",
+                "$": {
+                  "url": "https://www.newsandsentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Charleston attorney appointed to House of Delegates - West Virginia MetroNews"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDkvMTkvY2hhcmxlc3Rvbi1hdHRvcm5leS1hcHBvaW50ZWQtdG8taG91c2Utb2YtZGVsZWdhdGVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDkvMTkvY2hhcmxlc3Rvbi1hdHRvcm5leS1hcHBvaW50ZWQtdG8taG91c2Utb2YtZGVsZWdhdGVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDkvMTkvY2hhcmxlc3Rvbi1hdHRvcm5leS1hcHBvaW50ZWQtdG8taG91c2Utb2YtZGVsZWdhdGVzL9IBAA?oc=5\" target=\"_blank\">Charleston attorney appointed to House of Delegates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia MetroNews</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia MetroNews",
+                "$": {
+                  "url": "https://wvmetronews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WVGOP Chair issues statement on former democrat leader switching parties to run for secretary of state - Lootpress"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5sb290cHJlc3MuY29tL3d2Z29wLWNoYWlyLWlzc3Vlcy1zdGF0ZW1lbnQtb24tZm9ybWVyLWRlbW9jcmF0LWxlYWRlci1zd2l0Y2hpbmctcGFydGllcy10by1ydW4tZm9yLXNlY3JldGFyeS1vZi1zdGF0ZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5sb290cHJlc3MuY29tL3d2Z29wLWNoYWlyLWlzc3Vlcy1zdGF0ZW1lbnQtb24tZm9ybWVyLWRlbW9jcmF0LWxlYWRlci1zd2l0Y2hpbmctcGFydGllcy10by1ydW4tZm9yLXNlY3JldGFyeS1vZi1zdGF0ZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5sb290cHJlc3MuY29tL3d2Z29wLWNoYWlyLWlzc3Vlcy1zdGF0ZW1lbnQtb24tZm9ybWVyLWRlbW9jcmF0LWxlYWRlci1zd2l0Y2hpbmctcGFydGllcy10by1ydW4tZm9yLXNlY3JldGFyeS1vZi1zdGF0ZS_SAQA?oc=5\" target=\"_blank\">WVGOP Chair issues statement on former democrat leader switching parties to run for secretary of state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lootpress</font>"
+            ],
+            "source": [
+              {
+                "_": "Lootpress",
+                "$": {
+                  "url": "https://www.lootpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff resigning from West Virginia House of Delegates - WOWK 13 News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL3NrYWZmLXJlc2lnbmluZy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzL9IBZGh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL3NrYWZmLXJlc2lnbmluZy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL3NrYWZmLXJlc2lnbmluZy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzL9IBZGh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL3NrYWZmLXJlc2lnbmluZy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL3NrYWZmLXJlc2lnbmluZy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzL9IBZGh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL3NrYWZmLXJlc2lnbmluZy1mcm9tLXdlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzL2FtcC8?oc=5\" target=\"_blank\">Skaff resigning from West Virginia House of Delegates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOWK 13 News</font>"
+            ],
+            "source": [
+              {
+                "_": "WOWK 13 News",
+                "$": {
+                  "url": "https://www.wowktv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Governor appoints Hollis Lewis to WV House of Delegates in 57th District - The Coal Valley News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5jb2FsdmFsbGV5bmV3cy5jb20vbmV3cy9nb3Zlcm5vci1hcHBvaW50cy1ob2xsaXMtbGV3aXMtdG8td3YtaG91c2Utb2YtZGVsZWdhdGVzLWluLTU3dGgtZGlzdHJpY3QvYXJ0aWNsZV80YjgwZTBjYS04NGRhLTVjMzMtODUzNC05YWRkMGNmNjk1NzYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMingFodHRwczovL3d3dy5jb2FsdmFsbGV5bmV3cy5jb20vbmV3cy9nb3Zlcm5vci1hcHBvaW50cy1ob2xsaXMtbGV3aXMtdG8td3YtaG91c2Utb2YtZGVsZWdhdGVzLWluLTU3dGgtZGlzdHJpY3QvYXJ0aWNsZV80YjgwZTBjYS04NGRhLTVjMzMtODUzNC05YWRkMGNmNjk1NzYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 27 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5jb2FsdmFsbGV5bmV3cy5jb20vbmV3cy9nb3Zlcm5vci1hcHBvaW50cy1ob2xsaXMtbGV3aXMtdG8td3YtaG91c2Utb2YtZGVsZWdhdGVzLWluLTU3dGgtZGlzdHJpY3QvYXJ0aWNsZV80YjgwZTBjYS04NGRhLTVjMzMtODUzNC05YWRkMGNmNjk1NzYuaHRtbNIBAA?oc=5\" target=\"_blank\">Governor appoints Hollis Lewis to WV House of Delegates in 57th District</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Coal Valley News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Coal Valley News",
+                "$": {
+                  "url": "https://www.coalvalleynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former WV House Democratic leader switches parties, preps run for secretary of state - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Zvcm1lci13di1ob3VzZS1kZW1vY3JhdGljLWxlYWRlci1zd2l0Y2hlcy1wYXJ0aWVzLXByZXBzLXJ1bi1zZWNyZXRhcnktb2Ytc3RhdGXSAXRodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9mb3JtZXItd3YtaG91c2UtZGVtb2NyYXRpYy1sZWFkZXItc3dpdGNoZXMtcGFydGllcy1wcmVwcy1ydW4tc2VjcmV0YXJ5LW9mLXN0YXRlLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Zvcm1lci13di1ob3VzZS1kZW1vY3JhdGljLWxlYWRlci1zd2l0Y2hlcy1wYXJ0aWVzLXByZXBzLXJ1bi1zZWNyZXRhcnktb2Ytc3RhdGXSAXRodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9mb3JtZXItd3YtaG91c2UtZGVtb2NyYXRpYy1sZWFkZXItc3dpdGNoZXMtcGFydGllcy1wcmVwcy1ydW4tc2VjcmV0YXJ5LW9mLXN0YXRlLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Zvcm1lci13di1ob3VzZS1kZW1vY3JhdGljLWxlYWRlci1zd2l0Y2hlcy1wYXJ0aWVzLXByZXBzLXJ1bi1zZWNyZXRhcnktb2Ytc3RhdGXSAXRodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9mb3JtZXItd3YtaG91c2UtZGVtb2NyYXRpYy1sZWFkZXItc3dpdGNoZXMtcGFydGllcy1wcmVwcy1ydW4tc2VjcmV0YXJ5LW9mLXN0YXRlLmFtcA?oc=5\" target=\"_blank\">Former WV House Democratic leader switches parties, preps run for secretary of state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff says his public service days may not be over after stepping down from House of Delegates - WCHS Network"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd2Noc25ldHdvcmsuY29tL3NrYWZmLXNheXMtaGlzLXB1YmxpYy1zZXJ2aWNlLWRheXMtbWF5LW5vdC1iZS1vdmVyLWFmdGVyLXN0ZXBwaW5nLWRvd24tZnJvbS1ob3VzZS1vZi1kZWxlZ2F0ZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd2Noc25ldHdvcmsuY29tL3NrYWZmLXNheXMtaGlzLXB1YmxpYy1zZXJ2aWNlLWRheXMtbWF5LW5vdC1iZS1vdmVyLWFmdGVyLXN0ZXBwaW5nLWRvd24tZnJvbS1ob3VzZS1vZi1kZWxlZ2F0ZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd2Noc25ldHdvcmsuY29tL3NrYWZmLXNheXMtaGlzLXB1YmxpYy1zZXJ2aWNlLWRheXMtbWF5LW5vdC1iZS1vdmVyLWFmdGVyLXN0ZXBwaW5nLWRvd24tZnJvbS1ob3VzZS1vZi1kZWxlZ2F0ZXMv0gEA?oc=5\" target=\"_blank\">Skaff says his public service days may not be over after stepping down from House of Delegates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCHS Network</font>"
+            ],
+            "source": [
+              {
+                "_": "WCHS Network",
+                "$": {
+                  "url": "https://wchsnetwork.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dems name Cabell County Del. Sean Hornbuckle W.Va. House Minority Leader - WCHS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMixwFodHRwczovL3djaHN0di5jb20vbmV3cy9sb2NhbC9kZW1vY3JhdC1uYW1lLWNhYmVsbC1kZWxlZ2F0ZS1zZWFuLWhvcm5idWNrbGUtd3ZhLWhvdXNlLW1pbm9yaXR5LWxlYWRlci13ZXN0LXZpcmdpbmlhLWthbmF3aGEtZG91Zy1za2FmZi1tYXJzaGFsbC11bml2ZXJzaXR5LXJvZ2VyLWhhbnNoYXcta2F5bGEteW91bmctc2hhd24tZmx1YXJ0eS1vaGlv0gHLAWh0dHBzOi8vd2Noc3R2LmNvbS9hbXAvbmV3cy9sb2NhbC9kZW1vY3JhdC1uYW1lLWNhYmVsbC1kZWxlZ2F0ZS1zZWFuLWhvcm5idWNrbGUtd3ZhLWhvdXNlLW1pbm9yaXR5LWxlYWRlci13ZXN0LXZpcmdpbmlhLWthbmF3aGEtZG91Zy1za2FmZi1tYXJzaGFsbC11bml2ZXJzaXR5LXJvZ2VyLWhhbnNoYXcta2F5bGEteW91bmctc2hhd24tZmx1YXJ0eS1vaGlv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMixwFodHRwczovL3djaHN0di5jb20vbmV3cy9sb2NhbC9kZW1vY3JhdC1uYW1lLWNhYmVsbC1kZWxlZ2F0ZS1zZWFuLWhvcm5idWNrbGUtd3ZhLWhvdXNlLW1pbm9yaXR5LWxlYWRlci13ZXN0LXZpcmdpbmlhLWthbmF3aGEtZG91Zy1za2FmZi1tYXJzaGFsbC11bml2ZXJzaXR5LXJvZ2VyLWhhbnNoYXcta2F5bGEteW91bmctc2hhd24tZmx1YXJ0eS1vaGlv0gHLAWh0dHBzOi8vd2Noc3R2LmNvbS9hbXAvbmV3cy9sb2NhbC9kZW1vY3JhdC1uYW1lLWNhYmVsbC1kZWxlZ2F0ZS1zZWFuLWhvcm5idWNrbGUtd3ZhLWhvdXNlLW1pbm9yaXR5LWxlYWRlci13ZXN0LXZpcmdpbmlhLWthbmF3aGEtZG91Zy1za2FmZi1tYXJzaGFsbC11bml2ZXJzaXR5LXJvZ2VyLWhhbnNoYXcta2F5bGEteW91bmctc2hhd24tZmx1YXJ0eS1vaGlv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMixwFodHRwczovL3djaHN0di5jb20vbmV3cy9sb2NhbC9kZW1vY3JhdC1uYW1lLWNhYmVsbC1kZWxlZ2F0ZS1zZWFuLWhvcm5idWNrbGUtd3ZhLWhvdXNlLW1pbm9yaXR5LWxlYWRlci13ZXN0LXZpcmdpbmlhLWthbmF3aGEtZG91Zy1za2FmZi1tYXJzaGFsbC11bml2ZXJzaXR5LXJvZ2VyLWhhbnNoYXcta2F5bGEteW91bmctc2hhd24tZmx1YXJ0eS1vaGlv0gHLAWh0dHBzOi8vd2Noc3R2LmNvbS9hbXAvbmV3cy9sb2NhbC9kZW1vY3JhdC1uYW1lLWNhYmVsbC1kZWxlZ2F0ZS1zZWFuLWhvcm5idWNrbGUtd3ZhLWhvdXNlLW1pbm9yaXR5LWxlYWRlci13ZXN0LXZpcmdpbmlhLWthbmF3aGEtZG91Zy1za2FmZi1tYXJzaGFsbC11bml2ZXJzaXR5LXJvZ2VyLWhhbnNoYXcta2F5bGEteW91bmctc2hhd24tZmx1YXJ0eS1vaGlv?oc=5\" target=\"_blank\">Dems name Cabell County Del. Sean Hornbuckle W.Va. House Minority Leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCHS</font>"
+            ],
+            "source": [
+              {
+                "_": "WCHS",
+                "$": {
+                  "url": "https://wchstv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hollis T. Lewis appointed to West Virginia House of Delegates for 57th district - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL2hvbGxpcy10LWxld2lzLWFwcG9pbnRlZC13ZXN0LXZpcmdpbmlhLWhvdXNlLWRlbGVnYXRlcy01N3RoLWRpc3RyaWN00gFjaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vdXMvaG9sbGlzLXQtbGV3aXMtYXBwb2ludGVkLXdlc3QtdmlyZ2luaWEtaG91c2UtZGVsZWdhdGVzLTU3dGgtZGlzdHJpY3QuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL2hvbGxpcy10LWxld2lzLWFwcG9pbnRlZC13ZXN0LXZpcmdpbmlhLWhvdXNlLWRlbGVnYXRlcy01N3RoLWRpc3RyaWN00gFjaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vdXMvaG9sbGlzLXQtbGV3aXMtYXBwb2ludGVkLXdlc3QtdmlyZ2luaWEtaG91c2UtZGVsZWdhdGVzLTU3dGgtZGlzdHJpY3QuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL2hvbGxpcy10LWxld2lzLWFwcG9pbnRlZC13ZXN0LXZpcmdpbmlhLWhvdXNlLWRlbGVnYXRlcy01N3RoLWRpc3RyaWN00gFjaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vdXMvaG9sbGlzLXQtbGV3aXMtYXBwb2ludGVkLXdlc3QtdmlyZ2luaWEtaG91c2UtZGVsZWdhdGVzLTU3dGgtZGlzdHJpY3QuYW1w?oc=5\" target=\"_blank\">Hollis T. Lewis appointed to West Virginia House of Delegates for 57th district</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hornbuckle to lead West Virginia House Democratic caucus - Parkersburg News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDgvaG9ybmJ1Y2tsZS10by1sZWFkLXdlc3QtdmlyZ2luaWEtaG91c2UtZGVtb2NyYXRpYy1jYXVjdXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDgvaG9ybmJ1Y2tsZS10by1sZWFkLXdlc3QtdmlyZ2luaWEtaG91c2UtZGVtb2NyYXRpYy1jYXVjdXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDgvaG9ybmJ1Y2tsZS10by1sZWFkLXdlc3QtdmlyZ2luaWEtaG91c2UtZGVtb2NyYXRpYy1jYXVjdXMv0gEA?oc=5\" target=\"_blank\">Hornbuckle to lead West Virginia House Democratic caucus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parkersburg News</font>"
+            ],
+            "source": [
+              {
+                "_": "Parkersburg News",
+                "$": {
+                  "url": "https://www.newsandsentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Charleston Gazette-Mail, Herald-Dispatch announce elimination of Sunday newspaper, 'combined weekend edition' - WCHS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiogFodHRwczovL3djaHN0di5jb20vbmV3cy9sb2NhbC9jaGFybGVzdG9uLWdhemV0dGUtbWFpbC1oZXJhbGQtZGlzcGF0Y2gtbmV3c3BhcGVyLXByaW50LWpvdXJuYWxpc20tc3VuZGF5LWVkaXRpb24tY291cG9ucy1jaGFybGVzdG9uLWh1bnRpbmd0b24taGQtbWVkaWEtYWR2ZXJ0aXNpbmfSAaYBaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL2NoYXJsZXN0b24tZ2F6ZXR0ZS1tYWlsLWhlcmFsZC1kaXNwYXRjaC1uZXdzcGFwZXItcHJpbnQtam91cm5hbGlzbS1zdW5kYXktZWRpdGlvbi1jb3Vwb25zLWNoYXJsZXN0b24taHVudGluZ3Rvbi1oZC1tZWRpYS1hZHZlcnRpc2luZw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiogFodHRwczovL3djaHN0di5jb20vbmV3cy9sb2NhbC9jaGFybGVzdG9uLWdhemV0dGUtbWFpbC1oZXJhbGQtZGlzcGF0Y2gtbmV3c3BhcGVyLXByaW50LWpvdXJuYWxpc20tc3VuZGF5LWVkaXRpb24tY291cG9ucy1jaGFybGVzdG9uLWh1bnRpbmd0b24taGQtbWVkaWEtYWR2ZXJ0aXNpbmfSAaYBaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL2NoYXJsZXN0b24tZ2F6ZXR0ZS1tYWlsLWhlcmFsZC1kaXNwYXRjaC1uZXdzcGFwZXItcHJpbnQtam91cm5hbGlzbS1zdW5kYXktZWRpdGlvbi1jb3Vwb25zLWNoYXJsZXN0b24taHVudGluZ3Rvbi1oZC1tZWRpYS1hZHZlcnRpc2luZw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL3djaHN0di5jb20vbmV3cy9sb2NhbC9jaGFybGVzdG9uLWdhemV0dGUtbWFpbC1oZXJhbGQtZGlzcGF0Y2gtbmV3c3BhcGVyLXByaW50LWpvdXJuYWxpc20tc3VuZGF5LWVkaXRpb24tY291cG9ucy1jaGFybGVzdG9uLWh1bnRpbmd0b24taGQtbWVkaWEtYWR2ZXJ0aXNpbmfSAaYBaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL2NoYXJsZXN0b24tZ2F6ZXR0ZS1tYWlsLWhlcmFsZC1kaXNwYXRjaC1uZXdzcGFwZXItcHJpbnQtam91cm5hbGlzbS1zdW5kYXktZWRpdGlvbi1jb3Vwb25zLWNoYXJsZXN0b24taHVudGluZ3Rvbi1oZC1tZWRpYS1hZHZlcnRpc2luZw?oc=5\" target=\"_blank\">Charleston Gazette-Mail, Herald-Dispatch announce elimination of Sunday newspaper, 'combined weekend edition'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCHS</font>"
+            ],
+            "source": [
+              {
+                "_": "WCHS",
+                "$": {
+                  "url": "https://wchstv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "HD Media buys WV weekly - Editor And Publisher Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmVkaXRvcmFuZHB1Ymxpc2hlci5jb20vc3Rvcmllcy9oZC1tZWRpYS1idXlzLXd2LXdlZWtseSwyNDAzNDDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmVkaXRvcmFuZHB1Ymxpc2hlci5jb20vc3Rvcmllcy9oZC1tZWRpYS1idXlzLXd2LXdlZWtseSwyNDAzNDDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmVkaXRvcmFuZHB1Ymxpc2hlci5jb20vc3Rvcmllcy9oZC1tZWRpYS1idXlzLXd2LXdlZWtseSwyNDAzNDDSAQA?oc=5\" target=\"_blank\">HD Media buys WV weekly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Editor And Publisher Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "Editor And Publisher Magazine",
+                "$": {
+                  "url": "https://www.editorandpublisher.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pritt addresses party switch | News | fayettetribune.com - The Fayette Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmZheWV0dGV0cmlidW5lLmNvbS9uZXdzL3ByaXR0LWFkZHJlc3Nlcy1wYXJ0eS1zd2l0Y2gvYXJ0aWNsZV84YzcyNDIyOC1kZjkwLTExZWQtYmM4YS00MzA3ZTE0MGQxYzQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmZheWV0dGV0cmlidW5lLmNvbS9uZXdzL3ByaXR0LWFkZHJlc3Nlcy1wYXJ0eS1zd2l0Y2gvYXJ0aWNsZV84YzcyNDIyOC1kZjkwLTExZWQtYmM4YS00MzA3ZTE0MGQxYzQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmZheWV0dGV0cmlidW5lLmNvbS9uZXdzL3ByaXR0LWFkZHJlc3Nlcy1wYXJ0eS1zd2l0Y2gvYXJ0aWNsZV84YzcyNDIyOC1kZjkwLTExZWQtYmM4YS00MzA3ZTE0MGQxYzQuaHRtbNIBAA?oc=5\" target=\"_blank\">Pritt addresses party switch | News | fayettetribune.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fayette Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "The Fayette Tribune",
+                "$": {
+                  "url": "https://www.fayettetribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lewis to fill Skaff’s remaining House of Delegates term - WOWK 13 News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL2thbmF3aGEtY291bnR5LXd2L2xld2lzLXRvLWZpbGwtc2thZmZzLXJlbWFpbmluZy1ob3VzZS1vZi1kZWxlZ2F0ZXMtdGVybS_SAXdodHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS9rYW5hd2hhLWNvdW50eS13di9sZXdpcy10by1maWxsLXNrYWZmcy1yZW1haW5pbmctaG91c2Utb2YtZGVsZWdhdGVzLXRlcm0vYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL2thbmF3aGEtY291bnR5LXd2L2xld2lzLXRvLWZpbGwtc2thZmZzLXJlbWFpbmluZy1ob3VzZS1vZi1kZWxlZ2F0ZXMtdGVybS_SAXdodHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS9rYW5hd2hhLWNvdW50eS13di9sZXdpcy10by1maWxsLXNrYWZmcy1yZW1haW5pbmctaG91c2Utb2YtZGVsZWdhdGVzLXRlcm0vYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL2thbmF3aGEtY291bnR5LXd2L2xld2lzLXRvLWZpbGwtc2thZmZzLXJlbWFpbmluZy1ob3VzZS1vZi1kZWxlZ2F0ZXMtdGVybS_SAXdodHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS9rYW5hd2hhLWNvdW50eS13di9sZXdpcy10by1maWxsLXNrYWZmcy1yZW1haW5pbmctaG91c2Utb2YtZGVsZWdhdGVzLXRlcm0vYW1wLw?oc=5\" target=\"_blank\">Lewis to fill Skaff’s remaining House of Delegates term</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOWK 13 News</font>"
+            ],
+            "source": [
+              {
+                "_": "WOWK 13 News",
+                "$": {
+                  "url": "https://www.wowktv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "W.Va. House Democrats Call For Special Session To Remedy Multiple Crises - West Virginia Public Broadcasting"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3ZwdWJsaWMub3JnL3ctdmEtaG91c2UtZGVtb2NyYXRzLWNhbGwtZm9yLXNwZWNpYWwtc2Vzc2lvbi10by1yZW1lZHktbXVsdGlwbGUtY3Jpc2VzL9IBY2h0dHBzOi8vd3ZwdWJsaWMub3JnL3ctdmEtaG91c2UtZGVtb2NyYXRzLWNhbGwtZm9yLXNwZWNpYWwtc2Vzc2lvbi10by1yZW1lZHktbXVsdGlwbGUtY3Jpc2VzLz9hbXA9MQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3ZwdWJsaWMub3JnL3ctdmEtaG91c2UtZGVtb2NyYXRzLWNhbGwtZm9yLXNwZWNpYWwtc2Vzc2lvbi10by1yZW1lZHktbXVsdGlwbGUtY3Jpc2VzL9IBY2h0dHBzOi8vd3ZwdWJsaWMub3JnL3ctdmEtaG91c2UtZGVtb2NyYXRzLWNhbGwtZm9yLXNwZWNpYWwtc2Vzc2lvbi10by1yZW1lZHktbXVsdGlwbGUtY3Jpc2VzLz9hbXA9MQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3ZwdWJsaWMub3JnL3ctdmEtaG91c2UtZGVtb2NyYXRzLWNhbGwtZm9yLXNwZWNpYWwtc2Vzc2lvbi10by1yZW1lZHktbXVsdGlwbGUtY3Jpc2VzL9IBY2h0dHBzOi8vd3ZwdWJsaWMub3JnL3ctdmEtaG91c2UtZGVtb2NyYXRzLWNhbGwtZm9yLXNwZWNpYWwtc2Vzc2lvbi10by1yZW1lZHktbXVsdGlwbGUtY3Jpc2VzLz9hbXA9MQ?oc=5\" target=\"_blank\">W.Va. House Democrats Call For Special Session To Remedy Multiple Crises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia Public Broadcasting</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia Public Broadcasting",
+                "$": {
+                  "url": "https://wvpublic.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Newly-appointed Democratic delegate in the House saying he's ready to take on the challenge of being the ... - West Virginia MetroNews"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d2bWV0cm9uZXdzLmNvbS8yMDIzLzA5LzIxL25ld2x5LWFwcG9pbnRlZC1kZW1vY3JhdGljLWRlbGVnYXRlLWluLXRoZS1ob3VzZS1zYXlpbmctaGVzLXJlYWR5LXRvLXRha2Utb24tdGhlLWNoYWxsZW5nZS1vZi1iZWluZy10aGUtb3V0bnVtYmVyZWQtcGFydHkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinQFodHRwczovL3d2bWV0cm9uZXdzLmNvbS8yMDIzLzA5LzIxL25ld2x5LWFwcG9pbnRlZC1kZW1vY3JhdGljLWRlbGVnYXRlLWluLXRoZS1ob3VzZS1zYXlpbmctaGVzLXJlYWR5LXRvLXRha2Utb24tdGhlLWNoYWxsZW5nZS1vZi1iZWluZy10aGUtb3V0bnVtYmVyZWQtcGFydHkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinQFodHRwczovL3d2bWV0cm9uZXdzLmNvbS8yMDIzLzA5LzIxL25ld2x5LWFwcG9pbnRlZC1kZW1vY3JhdGljLWRlbGVnYXRlLWluLXRoZS1ob3VzZS1zYXlpbmctaGVzLXJlYWR5LXRvLXRha2Utb24tdGhlLWNoYWxsZW5nZS1vZi1iZWluZy10aGUtb3V0bnVtYmVyZWQtcGFydHkv0gEA?oc=5\" target=\"_blank\">Newly-appointed Democratic delegate in the House saying he's ready to take on the challenge of being the ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia MetroNews</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia MetroNews",
+                "$": {
+                  "url": "https://wvmetronews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Introducing the Weekend Gazette-Mail: What you need to know - Charleston Gazette-Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL2ludHJvZHVjaW5nLXRoZS13ZWVrZW5kLWdhemV0dGUtbWFpbC13aGF0LXlvdS1uZWVkLXRvLWtub3cvYXJ0aWNsZV9lOTVlYmZiMi04NTE0LTUzZWItYTU3NC1kNmM2NmYzYTRkYmMuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL2ludHJvZHVjaW5nLXRoZS13ZWVrZW5kLWdhemV0dGUtbWFpbC13aGF0LXlvdS1uZWVkLXRvLWtub3cvYXJ0aWNsZV9lOTVlYmZiMi04NTE0LTUzZWItYTU3NC1kNmM2NmYzYTRkYmMuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 30 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL2ludHJvZHVjaW5nLXRoZS13ZWVrZW5kLWdhemV0dGUtbWFpbC13aGF0LXlvdS1uZWVkLXRvLWtub3cvYXJ0aWNsZV9lOTVlYmZiMi04NTE0LTUzZWItYTU3NC1kNmM2NmYzYTRkYmMuaHRtbNIBAA?oc=5\" target=\"_blank\">Introducing the Weekend Gazette-Mail: What you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charleston Gazette-Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Charleston Gazette-Mail",
+                "$": {
+                  "url": "https://www.wvgazettemail.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "West Virginia House Minority Leader Skaff on firearms, divisive bills and fixes for PEIA - WV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMisgFodHRwczovL3d3dy53dm5ld3MuY29tL3N0YXRlam91cm5hbC9uZXdzL3dlc3QtdmlyZ2luaWEtaG91c2UtbWlub3JpdHktbGVhZGVyLXNrYWZmLW9uLWZpcmVhcm1zLWRpdmlzaXZlLWJpbGxzLWFuZC1maXhlcy1mb3ItcGVpYS9hcnRpY2xlX2I4YzUwYzk2LWE4OTItMTFlZC1hNjM0LTQzMjUzZjdkNjdhMC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMisgFodHRwczovL3d3dy53dm5ld3MuY29tL3N0YXRlam91cm5hbC9uZXdzL3dlc3QtdmlyZ2luaWEtaG91c2UtbWlub3JpdHktbGVhZGVyLXNrYWZmLW9uLWZpcmVhcm1zLWRpdmlzaXZlLWJpbGxzLWFuZC1maXhlcy1mb3ItcGVpYS9hcnRpY2xlX2I4YzUwYzk2LWE4OTItMTFlZC1hNjM0LTQzMjUzZjdkNjdhMC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMisgFodHRwczovL3d3dy53dm5ld3MuY29tL3N0YXRlam91cm5hbC9uZXdzL3dlc3QtdmlyZ2luaWEtaG91c2UtbWlub3JpdHktbGVhZGVyLXNrYWZmLW9uLWZpcmVhcm1zLWRpdmlzaXZlLWJpbGxzLWFuZC1maXhlcy1mb3ItcGVpYS9hcnRpY2xlX2I4YzUwYzk2LWE4OTItMTFlZC1hNjM0LTQzMjUzZjdkNjdhMC5odG1s0gEA?oc=5\" target=\"_blank\">West Virginia House Minority Leader Skaff on firearms, divisive bills and fixes for PEIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WV News</font>"
+            ],
+            "source": [
+              {
+                "_": "WV News",
+                "$": {
+                  "url": "https://www.wvnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Governor appoints Hollis Lewis to WV House of Delegates in 57th District - Charleston Gazette-Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL2dvdmVybm9yLWFwcG9pbnRzLWhvbGxpcy1sZXdpcy10by13di1ob3VzZS1vZi1kZWxlZ2F0ZXMtaW4tNTd0aC1kaXN0cmljdC9hcnRpY2xlXzlmZGZmMzczLTllMDctNWY2OC05MmJhLTRiOWQxOTE1YjgxNS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipgFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL2dvdmVybm9yLWFwcG9pbnRzLWhvbGxpcy1sZXdpcy10by13di1ob3VzZS1vZi1kZWxlZ2F0ZXMtaW4tNTd0aC1kaXN0cmljdC9hcnRpY2xlXzlmZGZmMzczLTllMDctNWY2OC05MmJhLTRiOWQxOTE1YjgxNS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL3BvbGl0aWNzL2dvdmVybm9yLWFwcG9pbnRzLWhvbGxpcy1sZXdpcy10by13di1ob3VzZS1vZi1kZWxlZ2F0ZXMtaW4tNTd0aC1kaXN0cmljdC9hcnRpY2xlXzlmZGZmMzczLTllMDctNWY2OC05MmJhLTRiOWQxOTE1YjgxNS5odG1s0gEA?oc=5\" target=\"_blank\">Governor appoints Hollis Lewis to WV House of Delegates in 57th District</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charleston Gazette-Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Charleston Gazette-Mail",
+                "$": {
+                  "url": "https://www.wvgazettemail.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former Democrat running for West Virginia Secretary of State as a Republican - WBOY.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy53Ym95LmNvbS9uZXdzL3dlc3QtdmlyZ2luaWEvd2VzdC12aXJnaW5pYS1wb2xpdGljcy9mb3JtZXItZGVtb2NyYXQtcnVubmluZy1mb3Itd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUtYXMtYS1yZXB1YmxpY2FuL9IBkAFodHRwczovL3d3dy53Ym95LmNvbS9uZXdzL3dlc3QtdmlyZ2luaWEvd2VzdC12aXJnaW5pYS1wb2xpdGljcy9mb3JtZXItZGVtb2NyYXQtcnVubmluZy1mb3Itd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUtYXMtYS1yZXB1YmxpY2FuL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy53Ym95LmNvbS9uZXdzL3dlc3QtdmlyZ2luaWEvd2VzdC12aXJnaW5pYS1wb2xpdGljcy9mb3JtZXItZGVtb2NyYXQtcnVubmluZy1mb3Itd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUtYXMtYS1yZXB1YmxpY2FuL9IBkAFodHRwczovL3d3dy53Ym95LmNvbS9uZXdzL3dlc3QtdmlyZ2luaWEvd2VzdC12aXJnaW5pYS1wb2xpdGljcy9mb3JtZXItZGVtb2NyYXQtcnVubmluZy1mb3Itd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUtYXMtYS1yZXB1YmxpY2FuL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy53Ym95LmNvbS9uZXdzL3dlc3QtdmlyZ2luaWEvd2VzdC12aXJnaW5pYS1wb2xpdGljcy9mb3JtZXItZGVtb2NyYXQtcnVubmluZy1mb3Itd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUtYXMtYS1yZXB1YmxpY2FuL9IBkAFodHRwczovL3d3dy53Ym95LmNvbS9uZXdzL3dlc3QtdmlyZ2luaWEvd2VzdC12aXJnaW5pYS1wb2xpdGljcy9mb3JtZXItZGVtb2NyYXQtcnVubmluZy1mb3Itd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUtYXMtYS1yZXB1YmxpY2FuL2FtcC8?oc=5\" target=\"_blank\">Former Democrat running for West Virginia Secretary of State as a Republican</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBOY.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WBOY.com",
+                "$": {
+                  "url": "https://www.wboy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hornbuckle chosen as House Minority Leader - West Virginia MetroNews"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDgvMDgvaG9ybmJ1Y2tsZS1jaG9zZW4tYXMtaG91c2UtbWlub3JpdHktbGVhZGVyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDgvMDgvaG9ybmJ1Y2tsZS1jaG9zZW4tYXMtaG91c2UtbWlub3JpdHktbGVhZGVyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDgvMDgvaG9ybmJ1Y2tsZS1jaG9zZW4tYXMtaG91c2UtbWlub3JpdHktbGVhZGVyL9IBAA?oc=5\" target=\"_blank\">Hornbuckle chosen as House Minority Leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia MetroNews</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia MetroNews",
+                "$": {
+                  "url": "https://wvmetronews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Local West Virginia newspapers to stop printing Sunday editions - WOWK 13 News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL2xvY2FsLXdlc3QtdmlyZ2luaWEtbmV3c3BhcGVycy10by1zdG9wLXByaW50aW5nLXN1bmRheS1lZGl0aW9ucy_SAW5odHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS9sb2NhbC13ZXN0LXZpcmdpbmlhLW5ld3NwYXBlcnMtdG8tc3RvcC1wcmludGluZy1zdW5kYXktZWRpdGlvbnMvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL2xvY2FsLXdlc3QtdmlyZ2luaWEtbmV3c3BhcGVycy10by1zdG9wLXByaW50aW5nLXN1bmRheS1lZGl0aW9ucy_SAW5odHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS9sb2NhbC13ZXN0LXZpcmdpbmlhLW5ld3NwYXBlcnMtdG8tc3RvcC1wcmludGluZy1zdW5kYXktZWRpdGlvbnMvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy93ZXN0LXZpcmdpbmlhL2xvY2FsLXdlc3QtdmlyZ2luaWEtbmV3c3BhcGVycy10by1zdG9wLXByaW50aW5nLXN1bmRheS1lZGl0aW9ucy_SAW5odHRwczovL3d3dy53b3drdHYuY29tL25ld3Mvd2VzdC12aXJnaW5pYS9sb2NhbC13ZXN0LXZpcmdpbmlhLW5ld3NwYXBlcnMtdG8tc3RvcC1wcmludGluZy1zdW5kYXktZWRpdGlvbnMvYW1wLw?oc=5\" target=\"_blank\">Local West Virginia newspapers to stop printing Sunday editions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOWK 13 News</font>"
+            ],
+            "source": [
+              {
+                "_": "WOWK 13 News",
+                "$": {
+                  "url": "https://www.wowktv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "West Virginia Legislature ends 2023 regular session | News, Sports, Jobs - Parkersburg News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDMvbGVnaXNsYXR1cmUtZW5kcy0yMDIzLXJlZ3VsYXItc2Vzc2lvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDMvbGVnaXNsYXR1cmUtZW5kcy0yMDIzLXJlZ3VsYXItc2Vzc2lvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 12 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMDMvbGVnaXNsYXR1cmUtZW5kcy0yMDIzLXJlZ3VsYXItc2Vzc2lvbi_SAQA?oc=5\" target=\"_blank\">West Virginia Legislature ends 2023 regular session | News, Sports, Jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parkersburg News</font>"
+            ],
+            "source": [
+              {
+                "_": "Parkersburg News",
+                "$": {
+                  "url": "https://www.newsandsentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hornbuckle says he's ready to become House Minority Leader - West Virginia MetroNews"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDgvMDMvaG9ybmJ1Y2tsZS1zYXlzLWhlcy1yZWFkeS10by1iZWNvbWUtaG91c2UtbWlub3JpdHktbGVhZGVyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDgvMDMvaG9ybmJ1Y2tsZS1zYXlzLWhlcy1yZWFkeS10by1iZWNvbWUtaG91c2UtbWlub3JpdHktbGVhZGVyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 03 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDgvMDMvaG9ybmJ1Y2tsZS1zYXlzLWhlcy1yZWFkeS10by1iZWNvbWUtaG91c2UtbWlub3JpdHktbGVhZGVyL9IBAA?oc=5\" target=\"_blank\">Hornbuckle says he's ready to become House Minority Leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia MetroNews</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia MetroNews",
+                "$": {
+                  "url": "https://wvmetronews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Legislative Leadership Offers Lookahead To Press Corps - West Virginia Public Broadcasting"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3ZwdWJsaWMub3JnL2xlZ2lzbGF0aXZlLWxlYWRlcnNoaXAtb2ZmZXJzLWxvb2thaGVhZC10by1wcmVzcy1jb3Jwcy_SAVJodHRwczovL3d2cHVibGljLm9yZy9sZWdpc2xhdGl2ZS1sZWFkZXJzaGlwLW9mZmVycy1sb29rYWhlYWQtdG8tcHJlc3MtY29ycHMvP2FtcD0x?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3ZwdWJsaWMub3JnL2xlZ2lzbGF0aXZlLWxlYWRlcnNoaXAtb2ZmZXJzLWxvb2thaGVhZC10by1wcmVzcy1jb3Jwcy_SAVJodHRwczovL3d2cHVibGljLm9yZy9sZWdpc2xhdGl2ZS1sZWFkZXJzaGlwLW9mZmVycy1sb29rYWhlYWQtdG8tcHJlc3MtY29ycHMvP2FtcD0x",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 06 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3ZwdWJsaWMub3JnL2xlZ2lzbGF0aXZlLWxlYWRlcnNoaXAtb2ZmZXJzLWxvb2thaGVhZC10by1wcmVzcy1jb3Jwcy_SAVJodHRwczovL3d2cHVibGljLm9yZy9sZWdpc2xhdGl2ZS1sZWFkZXJzaGlwLW9mZmVycy1sb29rYWhlYWQtdG8tcHJlc3MtY29ycHMvP2FtcD0x?oc=5\" target=\"_blank\">Legislative Leadership Offers Lookahead To Press Corps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia Public Broadcasting</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia Public Broadcasting",
+                "$": {
+                  "url": "https://wvpublic.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What you need to know about the weekend edition of The Herald-Dispatch - Huntington Herald Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5oZXJhbGQtZGlzcGF0Y2guY29tL25ld3Mvd2hhdC15b3UtbmVlZC10by1rbm93LWFib3V0LXRoZS13ZWVrZW5kLWVkaXRpb24tb2YtdGhlLWhlcmFsZC1kaXNwYXRjaC9hcnRpY2xlX2ZkNTdkNzAzLTI3NGMtNTVlYi04M2RjLTM0MzkwMTA5MGZlMy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinQFodHRwczovL3d3dy5oZXJhbGQtZGlzcGF0Y2guY29tL25ld3Mvd2hhdC15b3UtbmVlZC10by1rbm93LWFib3V0LXRoZS13ZWVrZW5kLWVkaXRpb24tb2YtdGhlLWhlcmFsZC1kaXNwYXRjaC9hcnRpY2xlX2ZkNTdkNzAzLTI3NGMtNTVlYi04M2RjLTM0MzkwMTA5MGZlMy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 30 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5oZXJhbGQtZGlzcGF0Y2guY29tL25ld3Mvd2hhdC15b3UtbmVlZC10by1rbm93LWFib3V0LXRoZS13ZWVrZW5kLWVkaXRpb24tb2YtdGhlLWhlcmFsZC1kaXNwYXRjaC9hcnRpY2xlX2ZkNTdkNzAzLTI3NGMtNTVlYi04M2RjLTM0MzkwMTA5MGZlMy5odG1s0gEA?oc=5\" target=\"_blank\">What you need to know about the weekend edition of The Herald-Dispatch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huntington Herald Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "Huntington Herald Dispatch",
+                "$": {
+                  "url": "https://www.herald-dispatch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "3 WVa reporters who condemned interview of ex-coal CEO fired - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3R3aXR0ZXItaW5jLWJ1c2luZXNzLXdlc3QtdmlyZ2luaWEtY2hhcmxlc3Rvbi1kb24tYmxhbmtlbnNoaXAtOWMxNjkyNmM1NWUxMzdlZTczNDVlMzhmN2ZiZjJhZTnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3R3aXR0ZXItaW5jLWJ1c2luZXNzLXdlc3QtdmlyZ2luaWEtY2hhcmxlc3Rvbi1kb24tYmxhbmtlbnNoaXAtOWMxNjkyNmM1NWUxMzdlZTczNDVlMzhmN2ZiZjJhZTnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3R3aXR0ZXItaW5jLWJ1c2luZXNzLXdlc3QtdmlyZ2luaWEtY2hhcmxlc3Rvbi1kb24tYmxhbmtlbnNoaXAtOWMxNjkyNmM1NWUxMzdlZTczNDVlMzhmN2ZiZjJhZTnSAQA?oc=5\" target=\"_blank\">3 WVa reporters who condemned interview of ex-coal CEO fired</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Skaff named president of HD Media | News - Huntington Herald Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmhlcmFsZC1kaXNwYXRjaC5jb20vbmV3cy9za2FmZi1uYW1lZC1wcmVzaWRlbnQtb2YtaGQtbWVkaWEvYXJ0aWNsZV81ODQ0YzE5Ny1lY2FkLTU1NzYtODdmZi03ODEwMjM5NjlkZmQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmhlcmFsZC1kaXNwYXRjaC5jb20vbmV3cy9za2FmZi1uYW1lZC1wcmVzaWRlbnQtb2YtaGQtbWVkaWEvYXJ0aWNsZV81ODQ0YzE5Ny1lY2FkLTU1NzYtODdmZi03ODEwMjM5NjlkZmQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 10 Nov 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmhlcmFsZC1kaXNwYXRjaC5jb20vbmV3cy9za2FmZi1uYW1lZC1wcmVzaWRlbnQtb2YtaGQtbWVkaWEvYXJ0aWNsZV81ODQ0YzE5Ny1lY2FkLTU1NzYtODdmZi03ODEwMjM5NjlkZmQuaHRtbNIBAA?oc=5\" target=\"_blank\">Skaff named president of HD Media | News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huntington Herald Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "Huntington Herald Dispatch",
+                "$": {
+                  "url": "https://www.herald-dispatch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Changes coming at HD Media | News | wvgazettemail.com - Charleston Gazette-Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lnd2Z2F6ZXR0ZW1haWwuY29tL25ld3MvY2hhbmdlcy1jb21pbmctYXQtaGQtbWVkaWEvYXJ0aWNsZV82NjM4YWEwZS0xNDVlLTVhNjAtOGM4YS04NzMzNmJhMzIyN2UuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3Lnd2Z2F6ZXR0ZW1haWwuY29tL25ld3MvY2hhbmdlcy1jb21pbmctYXQtaGQtbWVkaWEvYXJ0aWNsZV82NjM4YWEwZS0xNDVlLTVhNjAtOGM4YS04NzMzNmJhMzIyN2UuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 05 Mar 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lnd2Z2F6ZXR0ZW1haWwuY29tL25ld3MvY2hhbmdlcy1jb21pbmctYXQtaGQtbWVkaWEvYXJ0aWNsZV82NjM4YWEwZS0xNDVlLTVhNjAtOGM4YS04NzMzNmJhMzIyN2UuaHRtbNIBAA?oc=5\" target=\"_blank\">Changes coming at HD Media | News | wvgazettemail.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charleston Gazette-Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Charleston Gazette-Mail",
+                "$": {
+                  "url": "https://www.wvgazettemail.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New 100-single-member House of Delegates opens 2023 legislative session – Dominion Post - The Dominion Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmRvbWluaW9ucG9zdC5jb20vMjAyMy8wMS8xMS9uZXctMTAwLXNpbmdsZS1tZW1iZXItaG91c2Utb2YtZGVsZWdhdGVzLW9wZW5zLTIwMjMtbGVnaXNsYXRpdmUtc2Vzc2lvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmRvbWluaW9ucG9zdC5jb20vMjAyMy8wMS8xMS9uZXctMTAwLXNpbmdsZS1tZW1iZXItaG91c2Utb2YtZGVsZWdhdGVzLW9wZW5zLTIwMjMtbGVnaXNsYXRpdmUtc2Vzc2lvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 11 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmRvbWluaW9ucG9zdC5jb20vMjAyMy8wMS8xMS9uZXctMTAwLXNpbmdsZS1tZW1iZXItaG91c2Utb2YtZGVsZWdhdGVzLW9wZW5zLTIwMjMtbGVnaXNsYXRpdmUtc2Vzc2lvbi_SAQA?oc=5\" target=\"_blank\">New 100-single-member House of Delegates opens 2023 legislative session – Dominion Post</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dominion Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Dominion Post",
+                "$": {
+                  "url": "https://www.dominionpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "West Virginia House leadership discusses 2023 priorities - WV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL3dlc3QtdmlyZ2luaWEtaG91c2UtbGVhZGVyc2hpcC1kaXNjdXNzZXMtMjAyMy1wcmlvcml0aWVzL2FydGljbGVfZjM2MDBjMmEtNmNjZS0xMWVkLTg0NGUtM2IxN2Y3ZTI3NDM5Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL3dlc3QtdmlyZ2luaWEtaG91c2UtbGVhZGVyc2hpcC1kaXNjdXNzZXMtMjAyMy1wcmlvcml0aWVzL2FydGljbGVfZjM2MDBjMmEtNmNjZS0xMWVkLTg0NGUtM2IxN2Y3ZTI3NDM5Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 26 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL3dlc3QtdmlyZ2luaWEtaG91c2UtbGVhZGVyc2hpcC1kaXNjdXNzZXMtMjAyMy1wcmlvcml0aWVzL2FydGljbGVfZjM2MDBjMmEtNmNjZS0xMWVkLTg0NGUtM2IxN2Y3ZTI3NDM5Lmh0bWzSAQA?oc=5\" target=\"_blank\">West Virginia House leadership discusses 2023 priorities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WV News</font>"
+            ],
+            "source": [
+              {
+                "_": "WV News",
+                "$": {
+                  "url": "https://www.wvnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "3 West Virginia reporters who condemned interview of ex-coal CEO fired - WOUB"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd291Yi5vcmcvMjAyMi8xMi8xNC8zLXdlc3QtdmlyZ2luaWEtcmVwb3J0ZXJzLXdoby1jb25kZW1uZWQtaW50ZXJ2aWV3LW9mLWV4LWNvYWwtY2VvLWZpcmVkL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd291Yi5vcmcvMjAyMi8xMi8xNC8zLXdlc3QtdmlyZ2luaWEtcmVwb3J0ZXJzLXdoby1jb25kZW1uZWQtaW50ZXJ2aWV3LW9mLWV4LWNvYWwtY2VvLWZpcmVkL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 14 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd291Yi5vcmcvMjAyMi8xMi8xNC8zLXdlc3QtdmlyZ2luaWEtcmVwb3J0ZXJzLXdoby1jb25kZW1uZWQtaW50ZXJ2aWV3LW9mLWV4LWNvYWwtY2VvLWZpcmVkL9IBAA?oc=5\" target=\"_blank\">3 West Virginia reporters who condemned interview of ex-coal CEO fired</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOUB</font>"
+            ],
+            "source": [
+              {
+                "_": "WOUB",
+                "$": {
+                  "url": "https://woub.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "House Democrats pick Doug Skaff, newspaper exec, as their floor leader - West Virginia MetroNews"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjAvMTIvMDcvaG91c2UtZGVtb2NyYXRzLXBpY2stZG91Zy1za2FmZi1uZXdzcGFwZXItZXhlYy1hcy10aGVpci1mbG9vci1sZWFkZXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjAvMTIvMDcvaG91c2UtZGVtb2NyYXRzLXBpY2stZG91Zy1za2FmZi1uZXdzcGFwZXItZXhlYy1hcy10aGVpci1mbG9vci1sZWFkZXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 07 Dec 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjAvMTIvMDcvaG91c2UtZGVtb2NyYXRzLXBpY2stZG91Zy1za2FmZi1uZXdzcGFwZXItZXhlYy1hcy10aGVpci1mbG9vci1sZWFkZXIv0gEA?oc=5\" target=\"_blank\">House Democrats pick Doug Skaff, newspaper exec, as their floor leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia MetroNews</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia MetroNews",
+                "$": {
+                  "url": "https://wvmetronews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Proposed W.Va. bill would put limitations on new homeless shelter locations - WCHS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL3Byb3Bvc2VkLXd2YS1iaWxsLXdvdWxkLXB1dC1saW1pdHMtb24taG9tZWxlc3Mtc2hlbHRlci1sb2NhdGlvbnPSAWJodHRwczovL3djaHN0di5jb20vYW1wL25ld3MvbG9jYWwvcHJvcG9zZWQtd3ZhLWJpbGwtd291bGQtcHV0LWxpbWl0cy1vbi1ob21lbGVzcy1zaGVsdGVyLWxvY2F0aW9ucw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL3Byb3Bvc2VkLXd2YS1iaWxsLXdvdWxkLXB1dC1saW1pdHMtb24taG9tZWxlc3Mtc2hlbHRlci1sb2NhdGlvbnPSAWJodHRwczovL3djaHN0di5jb20vYW1wL25ld3MvbG9jYWwvcHJvcG9zZWQtd3ZhLWJpbGwtd291bGQtcHV0LWxpbWl0cy1vbi1ob21lbGVzcy1zaGVsdGVyLWxvY2F0aW9ucw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 15 Feb 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL3Byb3Bvc2VkLXd2YS1iaWxsLXdvdWxkLXB1dC1saW1pdHMtb24taG9tZWxlc3Mtc2hlbHRlci1sb2NhdGlvbnPSAWJodHRwczovL3djaHN0di5jb20vYW1wL25ld3MvbG9jYWwvcHJvcG9zZWQtd3ZhLWJpbGwtd291bGQtcHV0LWxpbWl0cy1vbi1ob21lbGVzcy1zaGVsdGVyLWxvY2F0aW9ucw?oc=5\" target=\"_blank\">Proposed W.Va. bill would put limitations on new homeless shelter locations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCHS</font>"
+            ],
+            "source": [
+              {
+                "_": "WCHS",
+                "$": {
+                  "url": "https://wchstv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Doug Skaff, Jr. elected as Minority Leader for the WV House of Delegates - WOWK 13 News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy9sb2NhbC9kb3VnLXNrYWZmLWpyLWVsZWN0ZWQtYXMtbWlub3JpdHktbGVhZGVyLWZvci10aGUtd3YtaG91c2Utb2YtZGVsZWdhdGVzL9IBbWh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy9sb2NhbC9kb3VnLXNrYWZmLWpyLWVsZWN0ZWQtYXMtbWlub3JpdHktbGVhZGVyLWZvci10aGUtd3YtaG91c2Utb2YtZGVsZWdhdGVzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy9sb2NhbC9kb3VnLXNrYWZmLWpyLWVsZWN0ZWQtYXMtbWlub3JpdHktbGVhZGVyLWZvci10aGUtd3YtaG91c2Utb2YtZGVsZWdhdGVzL9IBbWh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy9sb2NhbC9kb3VnLXNrYWZmLWpyLWVsZWN0ZWQtYXMtbWlub3JpdHktbGVhZGVyLWZvci10aGUtd3YtaG91c2Utb2YtZGVsZWdhdGVzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Dec 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy9sb2NhbC9kb3VnLXNrYWZmLWpyLWVsZWN0ZWQtYXMtbWlub3JpdHktbGVhZGVyLWZvci10aGUtd3YtaG91c2Utb2YtZGVsZWdhdGVzL9IBbWh0dHBzOi8vd3d3Lndvd2t0di5jb20vbmV3cy9sb2NhbC9kb3VnLXNrYWZmLWpyLWVsZWN0ZWQtYXMtbWlub3JpdHktbGVhZGVyLWZvci10aGUtd3YtaG91c2Utb2YtZGVsZWdhdGVzL2FtcC8?oc=5\" target=\"_blank\">Doug Skaff, Jr. elected as Minority Leader for the WV House of Delegates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOWK 13 News</font>"
+            ],
+            "source": [
+              {
+                "_": "WOWK 13 News",
+                "$": {
+                  "url": "https://www.wowktv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UPDATE | W.Va. House Minority leader and others calls on Delegate Evans to resign - WSAZ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LndzYXouY29tLzIwMjEvMDEvMDcvd2VzdC12aXJnaW5pYS1zZW5hdG9yLWVsZWN0LWNhbGxzLW9uLWRlbGVnYXRlLWV2YW5zLXRvLXJlc2lnbi_SAW1odHRwczovL3d3dy53c2F6LmNvbS8yMDIxLzAxLzA3L3dlc3QtdmlyZ2luaWEtc2VuYXRvci1lbGVjdC1jYWxscy1vbi1kZWxlZ2F0ZS1ldmFucy10by1yZXNpZ24vP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LndzYXouY29tLzIwMjEvMDEvMDcvd2VzdC12aXJnaW5pYS1zZW5hdG9yLWVsZWN0LWNhbGxzLW9uLWRlbGVnYXRlLWV2YW5zLXRvLXJlc2lnbi_SAW1odHRwczovL3d3dy53c2F6LmNvbS8yMDIxLzAxLzA3L3dlc3QtdmlyZ2luaWEtc2VuYXRvci1lbGVjdC1jYWxscy1vbi1kZWxlZ2F0ZS1ldmFucy10by1yZXNpZ24vP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Jan 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LndzYXouY29tLzIwMjEvMDEvMDcvd2VzdC12aXJnaW5pYS1zZW5hdG9yLWVsZWN0LWNhbGxzLW9uLWRlbGVnYXRlLWV2YW5zLXRvLXJlc2lnbi_SAW1odHRwczovL3d3dy53c2F6LmNvbS8yMDIxLzAxLzA3L3dlc3QtdmlyZ2luaWEtc2VuYXRvci1lbGVjdC1jYWxscy1vbi1kZWxlZ2F0ZS1ldmFucy10by1yZXNpZ24vP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">UPDATE | W.Va. House Minority leader and others calls on Delegate Evans to resign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAZ</font>"
+            ],
+            "source": [
+              {
+                "_": "WSAZ",
+                "$": {
+                  "url": "https://www.wsaz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Consequences of West Virginia Del. Derrick Evans' participation in Capitol chaos remains unclear - WV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL2NvbnNlcXVlbmNlcy1vZi13ZXN0LXZpcmdpbmlhLWRlbC1kZXJyaWNrLWV2YW5zLXBhcnRpY2lwYXRpb24taW4tY2FwaXRvbC1jaGFvcy1yZW1haW5zLXVuY2xlYXIvYXJ0aWNsZV9jODk1ZjkxMC1mYjI0LTUxYTItODEzOC1iZGI2MjRmYjM3YzQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiswFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL2NvbnNlcXVlbmNlcy1vZi13ZXN0LXZpcmdpbmlhLWRlbC1kZXJyaWNrLWV2YW5zLXBhcnRpY2lwYXRpb24taW4tY2FwaXRvbC1jaGFvcy1yZW1haW5zLXVuY2xlYXIvYXJ0aWNsZV9jODk1ZjkxMC1mYjI0LTUxYTItODEzOC1iZGI2MjRmYjM3YzQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Jan 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL2NvbnNlcXVlbmNlcy1vZi13ZXN0LXZpcmdpbmlhLWRlbC1kZXJyaWNrLWV2YW5zLXBhcnRpY2lwYXRpb24taW4tY2FwaXRvbC1jaGFvcy1yZW1haW5zLXVuY2xlYXIvYXJ0aWNsZV9jODk1ZjkxMC1mYjI0LTUxYTItODEzOC1iZGI2MjRmYjM3YzQuaHRtbNIBAA?oc=5\" target=\"_blank\">Consequences of West Virginia Del. Derrick Evans' participation in Capitol chaos remains unclear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WV News</font>"
+            ],
+            "source": [
+              {
+                "_": "WV News",
+                "$": {
+                  "url": "https://www.wvnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "West Virginia Dems accuse GOP of gerrymandering | News, Sports, Jobs - Parkersburg News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjEvMTAvd2VzdC12aXJnaW5pYS1kZW1zLWFjY3VzZS1nb3Atb2YtZ2VycnltYW5kZXJpbmcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjEvMTAvd2VzdC12aXJnaW5pYS1kZW1zLWFjY3VzZS1nb3Atb2YtZ2VycnltYW5kZXJpbmcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 09 Oct 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjEvMTAvd2VzdC12aXJnaW5pYS1kZW1zLWFjY3VzZS1nb3Atb2YtZ2VycnltYW5kZXJpbmcv0gEA?oc=5\" target=\"_blank\">West Virginia Dems accuse GOP of gerrymandering | News, Sports, Jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parkersburg News</font>"
+            ],
+            "source": [
+              {
+                "_": "Parkersburg News",
+                "$": {
+                  "url": "https://www.newsandsentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Local investors part of new Gazette-Mail ownership group - Charleston Gazette-Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL2xvY2FsLWludmVzdG9ycy1wYXJ0LW9mLW5ldy1nYXpldHRlLW1haWwtb3duZXJzaGlwLWdyb3VwL2FydGljbGVfMzViYTkxZWItMzcwZC01NGZjLWFkZWYtM2I1YzIwOTE2MDE1Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL2xvY2FsLWludmVzdG9ycy1wYXJ0LW9mLW5ldy1nYXpldHRlLW1haWwtb3duZXJzaGlwLWdyb3VwL2FydGljbGVfMzViYTkxZWItMzcwZC01NGZjLWFkZWYtM2I1YzIwOTE2MDE1Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 14 Apr 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy53dmdhemV0dGVtYWlsLmNvbS9uZXdzL2xvY2FsLWludmVzdG9ycy1wYXJ0LW9mLW5ldy1nYXpldHRlLW1haWwtb3duZXJzaGlwLWdyb3VwL2FydGljbGVfMzViYTkxZWItMzcwZC01NGZjLWFkZWYtM2I1YzIwOTE2MDE1Lmh0bWzSAQA?oc=5\" target=\"_blank\">Local investors part of new Gazette-Mail ownership group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charleston Gazette-Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Charleston Gazette-Mail",
+                "$": {
+                  "url": "https://www.wvgazettemail.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WV Democrats outline opposition to Republican-backed SJR 8 - WV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL3d2LWRlbW9jcmF0cy1vdXRsaW5lLW9wcG9zaXRpb24tdG8tcmVwdWJsaWNhbi1iYWNrZWQtc2pyLTgvYXJ0aWNsZV85NzAxMGEyZS1jNTExLTU2NzYtYTRlMi1jMDg1NTUyZWRjOTUuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL3d2LWRlbW9jcmF0cy1vdXRsaW5lLW9wcG9zaXRpb24tdG8tcmVwdWJsaWNhbi1iYWNrZWQtc2pyLTgvYXJ0aWNsZV85NzAxMGEyZS1jNTExLTU2NzYtYTRlMi1jMDg1NTUyZWRjOTUuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Jan 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL3d2LWRlbW9jcmF0cy1vdXRsaW5lLW9wcG9zaXRpb24tdG8tcmVwdWJsaWNhbi1iYWNrZWQtc2pyLTgvYXJ0aWNsZV85NzAxMGEyZS1jNTExLTU2NzYtYTRlMi1jMDg1NTUyZWRjOTUuaHRtbNIBAA?oc=5\" target=\"_blank\">WV Democrats outline opposition to Republican-backed SJR 8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WV News</font>"
+            ],
+            "source": [
+              {
+                "_": "WV News",
+                "$": {
+                  "url": "https://www.wvnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "About Us | Site - Huntington Herald Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmhlcmFsZC1kaXNwYXRjaC5jb20vc2l0ZS9hYm91dF91cy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMmh0dHBzOi8vd3d3LmhlcmFsZC1kaXNwYXRjaC5jb20vc2l0ZS9hYm91dF91cy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 Jan 2019 23:03:39 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmhlcmFsZC1kaXNwYXRjaC5jb20vc2l0ZS9hYm91dF91cy5odG1s0gEA?oc=5\" target=\"_blank\">About Us | Site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huntington Herald Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "Huntington Herald Dispatch",
+                "$": {
+                  "url": "https://www.herald-dispatch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Marine returning home has backpack stolen at Metro Airport - FOX 2 Detroit"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmZveDJkZXRyb2l0LmNvbS9uZXdzL21hcmluZS1yZXR1cm5pbmctaG9tZS1oYXMtYmFja3BhY2stc3RvbGVuLWF0LW1ldHJvLWFpcnBvcnQtd2l0aC1taWxpdGFyeS1tZWRhbHMtaW5zaWRl0gF7aHR0cHM6Ly93d3cuZm94MmRldHJvaXQuY29tL25ld3MvbWFyaW5lLXJldHVybmluZy1ob21lLWhhcy1iYWNrcGFjay1zdG9sZW4tYXQtbWV0cm8tYWlycG9ydC13aXRoLW1pbGl0YXJ5LW1lZGFscy1pbnNpZGUuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmZveDJkZXRyb2l0LmNvbS9uZXdzL21hcmluZS1yZXR1cm5pbmctaG9tZS1oYXMtYmFja3BhY2stc3RvbGVuLWF0LW1ldHJvLWFpcnBvcnQtd2l0aC1taWxpdGFyeS1tZWRhbHMtaW5zaWRl0gF7aHR0cHM6Ly93d3cuZm94MmRldHJvaXQuY29tL25ld3MvbWFyaW5lLXJldHVybmluZy1ob21lLWhhcy1iYWNrcGFjay1zdG9sZW4tYXQtbWV0cm8tYWlycG9ydC13aXRoLW1pbGl0YXJ5LW1lZGFscy1pbnNpZGUuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Apr 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmZveDJkZXRyb2l0LmNvbS9uZXdzL21hcmluZS1yZXR1cm5pbmctaG9tZS1oYXMtYmFja3BhY2stc3RvbGVuLWF0LW1ldHJvLWFpcnBvcnQtd2l0aC1taWxpdGFyeS1tZWRhbHMtaW5zaWRl0gF7aHR0cHM6Ly93d3cuZm94MmRldHJvaXQuY29tL25ld3MvbWFyaW5lLXJldHVybmluZy1ob21lLWhhcy1iYWNrcGFjay1zdG9sZW4tYXQtbWV0cm8tYWlycG9ydC13aXRoLW1pbGl0YXJ5LW1lZGFscy1pbnNpZGUuYW1w?oc=5\" target=\"_blank\">Marine returning home has backpack stolen at Metro Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 2 Detroit</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX 2 Detroit",
+                "$": {
+                  "url": "https://www.fox2detroit.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delegates react to Derrick Evans' resignation - WCHS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL2RlbGVnYXRlcy1yZWFjdC10by1kZXJyaWNrLWV2YW5zLXJlc2lnbmF0aW9u0gFOaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL2RlbGVnYXRlcy1yZWFjdC10by1kZXJyaWNrLWV2YW5zLXJlc2lnbmF0aW9u?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL2RlbGVnYXRlcy1yZWFjdC10by1kZXJyaWNrLWV2YW5zLXJlc2lnbmF0aW9u0gFOaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL2RlbGVnYXRlcy1yZWFjdC10by1kZXJyaWNrLWV2YW5zLXJlc2lnbmF0aW9u",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 09 Jan 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL2RlbGVnYXRlcy1yZWFjdC10by1kZXJyaWNrLWV2YW5zLXJlc2lnbmF0aW9u0gFOaHR0cHM6Ly93Y2hzdHYuY29tL2FtcC9uZXdzL2xvY2FsL2RlbGVnYXRlcy1yZWFjdC10by1kZXJyaWNrLWV2YW5zLXJlc2lnbmF0aW9u?oc=5\" target=\"_blank\">Delegates react to Derrick Evans' resignation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCHS</font>"
+            ],
+            "source": [
+              {
+                "_": "WCHS",
+                "$": {
+                  "url": "https://wchstv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Reports: W.Va. delegate who entered U.S. Capitol now faces federal charge - KEYE TV CBS Austin"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vY2JzYXVzdGluLmNvbS9uZXdzL25hdGlvbi13b3JsZC93dmEtZGVsZWdhdGUtd2hvLWVudGVyZWQtdXMtY2FwaXRvbC1ub3ctZmFjZXMtZmVkZXJhbC1jaGFyZ2XSAWhodHRwczovL2Nic2F1c3Rpbi5jb20vYW1wL25ld3MvbmF0aW9uLXdvcmxkL3d2YS1kZWxlZ2F0ZS13aG8tZW50ZXJlZC11cy1jYXBpdG9sLW5vdy1mYWNlcy1mZWRlcmFsLWNoYXJnZQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vY2JzYXVzdGluLmNvbS9uZXdzL25hdGlvbi13b3JsZC93dmEtZGVsZWdhdGUtd2hvLWVudGVyZWQtdXMtY2FwaXRvbC1ub3ctZmFjZXMtZmVkZXJhbC1jaGFyZ2XSAWhodHRwczovL2Nic2F1c3Rpbi5jb20vYW1wL25ld3MvbmF0aW9uLXdvcmxkL3d2YS1kZWxlZ2F0ZS13aG8tZW50ZXJlZC11cy1jYXBpdG9sLW5vdy1mYWNlcy1mZWRlcmFsLWNoYXJnZQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Jan 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vY2JzYXVzdGluLmNvbS9uZXdzL25hdGlvbi13b3JsZC93dmEtZGVsZWdhdGUtd2hvLWVudGVyZWQtdXMtY2FwaXRvbC1ub3ctZmFjZXMtZmVkZXJhbC1jaGFyZ2XSAWhodHRwczovL2Nic2F1c3Rpbi5jb20vYW1wL25ld3MvbmF0aW9uLXdvcmxkL3d2YS1kZWxlZ2F0ZS13aG8tZW50ZXJlZC11cy1jYXBpdG9sLW5vdy1mYWNlcy1mZWRlcmFsLWNoYXJnZQ?oc=5\" target=\"_blank\">Reports: W.Va. delegate who entered U.S. Capitol now faces federal charge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KEYE TV CBS Austin</font>"
+            ],
+            "source": [
+              {
+                "_": "KEYE TV CBS Austin",
+                "$": {
+                  "url": "https://cbsaustin.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "On the Town: Nov. 17, 2019 | On the Town | wvgazettemail.com - Charleston Gazette-Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lnd2Z2F6ZXR0ZW1haWwuY29tL2xpZmUvb25fdGhlX3Rvd24vb24tdGhlLXRvd24tbm92LTE3LTIwMTkvYXJ0aWNsZV9jNDRjYjE1NC0wNWU0LTVmNzktYjFiMy0wMmY3YWU2ZTA0NzQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3Lnd2Z2F6ZXR0ZW1haWwuY29tL2xpZmUvb25fdGhlX3Rvd24vb24tdGhlLXRvd24tbm92LTE3LTIwMTkvYXJ0aWNsZV9jNDRjYjE1NC0wNWU0LTVmNzktYjFiMy0wMmY3YWU2ZTA0NzQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 17 Nov 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lnd2Z2F6ZXR0ZW1haWwuY29tL2xpZmUvb25fdGhlX3Rvd24vb24tdGhlLXRvd24tbm92LTE3LTIwMTkvYXJ0aWNsZV9jNDRjYjE1NC0wNWU0LTVmNzktYjFiMy0wMmY3YWU2ZTA0NzQuaHRtbNIBAA?oc=5\" target=\"_blank\">On the Town: Nov. 17, 2019 | On the Town | wvgazettemail.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charleston Gazette-Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Charleston Gazette-Mail",
+                "$": {
+                  "url": "https://www.wvgazettemail.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

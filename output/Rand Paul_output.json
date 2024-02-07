@@ -1,0 +1,2798 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Rand Paul\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Rand+Paul&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Rep. Bob Good endorsed by Senator Rand Paul - Brunswicktimes Gazette"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmJydW5zd2lja3RpbWVzLWdhemV0dGUuY29tL25ld3MvYXJ0aWNsZV9jYTAyNjJmNC1jNDJjLTExZWUtYTc4ZC05MzY1NWQyM2U3ODguaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3LmJydW5zd2lja3RpbWVzLWdhemV0dGUuY29tL25ld3MvYXJ0aWNsZV9jYTAyNjJmNC1jNDJjLTExZWUtYTc4ZC05MzY1NWQyM2U3ODguaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 15:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmJydW5zd2lja3RpbWVzLWdhemV0dGUuY29tL25ld3MvYXJ0aWNsZV9jYTAyNjJmNC1jNDJjLTExZWUtYTc4ZC05MzY1NWQyM2U3ODguaHRtbNIBAA?oc=5\" target=\"_blank\">Rep. Bob Good endorsed by Senator Rand Paul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brunswicktimes Gazette</font>"
+            ],
+            "source": [
+              {
+                "_": "Brunswicktimes Gazette",
+                "$": {
+                  "url": "https://www.brunswicktimes-gazette.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul speaks to chambers of commerce in Louisville - 2.5.24 - WDRB"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy53ZHJiLmNvbS9yYW5kLXBhdWwtc3BlYWtzLXRvLWNoYW1iZXJzLW9mLWNvbW1lcmNlLWluLWxvdWlzdmlsbGUtLS0yLTUtMjQvaW1hZ2VfNGQ5YjRiMWMtYzQ4Mi0xMWVlLWFlOTItOWZlZmYyMWRiMDNlLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy53ZHJiLmNvbS9yYW5kLXBhdWwtc3BlYWtzLXRvLWNoYW1iZXJzLW9mLWNvbW1lcmNlLWluLWxvdWlzdmlsbGUtLS0yLTUtMjQvaW1hZ2VfNGQ5YjRiMWMtYzQ4Mi0xMWVlLWFlOTItOWZlZmYyMWRiMDNlLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 23:57:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy53ZHJiLmNvbS9yYW5kLXBhdWwtc3BlYWtzLXRvLWNoYW1iZXJzLW9mLWNvbW1lcmNlLWluLWxvdWlzdmlsbGUtLS0yLTUtMjQvaW1hZ2VfNGQ5YjRiMWMtYzQ4Mi0xMWVlLWFlOTItOWZlZmYyMWRiMDNlLmh0bWzSAQA?oc=5\" target=\"_blank\">Rand Paul speaks to chambers of commerce in Louisville - 2.5.24</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font>"
+            ],
+            "source": [
+              {
+                "_": "WDRB",
+                "$": {
+                  "url": "https://www.wdrb.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul declares he is 'never Nikki,' weighs in on 2024 presidential race - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3JhbmQtcGF1bC1kZWNsYXJlcy1oZS1pcy1uZXZlci1uaWtraS13ZWlnaHMtaW4tMjAyNC1wcmVzaWRlbnRpYWwtcmFjZdIBamh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3JhbmQtcGF1bC1kZWNsYXJlcy1oZS1pcy1uZXZlci1uaWtraS13ZWlnaHMtaW4tMjAyNC1wcmVzaWRlbnRpYWwtcmFjZS5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3JhbmQtcGF1bC1kZWNsYXJlcy1oZS1pcy1uZXZlci1uaWtraS13ZWlnaHMtaW4tMjAyNC1wcmVzaWRlbnRpYWwtcmFjZdIBamh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3JhbmQtcGF1bC1kZWNsYXJlcy1oZS1pcy1uZXZlci1uaWtraS13ZWlnaHMtaW4tMjAyNC1wcmVzaWRlbnRpYWwtcmFjZS5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3JhbmQtcGF1bC1kZWNsYXJlcy1oZS1pcy1uZXZlci1uaWtraS13ZWlnaHMtaW4tMjAyNC1wcmVzaWRlbnRpYWwtcmFjZdIBamh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3JhbmQtcGF1bC1kZWNsYXJlcy1oZS1pcy1uZXZlci1uaWtraS13ZWlnaHMtaW4tMjAyNC1wcmVzaWRlbnRpYWwtcmFjZS5hbXA?oc=5\" target=\"_blank\">Rand Paul declares he is 'never Nikki,' weighs in on 2024 presidential race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'I'm Never Nikki': Sen. Rand Paul Issues Anti-Endorsement Of Nikki Haley - HuffPost"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9yYW5kLXBhdWwtbmlra2ktaGFsZXktYW50aS1lbmRvcnNlbWVudF9uXzY1YTE2YjYyZTRiMDdiZDY5NTBjYTU3YdIBZGh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9yYW5kLXBhdWwtbmlra2ktaGFsZXktYW50aS1lbmRvcnNlbWVudF9uXzY1YTE2YjYyZTRiMDdiZDY5NTBjYTU3YS9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9yYW5kLXBhdWwtbmlra2ktaGFsZXktYW50aS1lbmRvcnNlbWVudF9uXzY1YTE2YjYyZTRiMDdiZDY5NTBjYTU3YdIBZGh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9yYW5kLXBhdWwtbmlra2ktaGFsZXktYW50aS1lbmRvcnNlbWVudF9uXzY1YTE2YjYyZTRiMDdiZDY5NTBjYTU3YS9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9yYW5kLXBhdWwtbmlra2ktaGFsZXktYW50aS1lbmRvcnNlbWVudF9uXzY1YTE2YjYyZTRiMDdiZDY5NTBjYTU3YdIBZGh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9yYW5kLXBhdWwtbmlra2ktaGFsZXktYW50aS1lbmRvcnNlbWVudF9uXzY1YTE2YjYyZTRiMDdiZDY5NTBjYTU3YS9hbXA?oc=5\" target=\"_blank\">'I'm Never Nikki': Sen. Rand Paul Issues Anti-Endorsement Of Nikki Haley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>"
+            ],
+            "source": [
+              {
+                "_": "HuffPost",
+                "$": {
+                  "url": "https://www.huffpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul bid to limit U.S. aid to Palestinians fails on Senate floor - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMS8xOC9jb25ncmVzcy9yYW5kLXBhdWwtcGFsZXN0aW5pYW4tYWlkLXB1c2gtZmFsbHMtc2VuYXRlLTAwMTM2MzUy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMS8xOC9jb25ncmVzcy9yYW5kLXBhdWwtcGFsZXN0aW5pYW4tYWlkLXB1c2gtZmFsbHMtc2VuYXRlLTAwMTM2MzUy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMS8xOC9jb25ncmVzcy9yYW5kLXBhdWwtcGFsZXN0aW5pYW4tYWlkLXB1c2gtZmFsbHMtc2VuYXRlLTAwMTM2MzUy0gEA?oc=5\" target=\"_blank\">Rand Paul bid to limit U.S. aid to Palestinians fails on Senate floor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul says Fauci should 'go to prison' over COVID-19 'dishonesty' - Yahoo News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vbmV3cy55YWhvby5jb20vcmFuZC1wYXVsLXNheXMtZmF1Y2ktcHJpc29uLTEyMDAwMDM1NS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8vbmV3cy55YWhvby5jb20vcmFuZC1wYXVsLXNheXMtZmF1Y2ktcHJpc29uLTEyMDAwMDM1NS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 14 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vbmV3cy55YWhvby5jb20vcmFuZC1wYXVsLXNheXMtZmF1Y2ktcHJpc29uLTEyMDAwMDM1NS5odG1s0gEA?oc=5\" target=\"_blank\">Rand Paul says Fauci should 'go to prison' over COVID-19 'dishonesty'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News",
+                "$": {
+                  "url": "https://news.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul wades into GOP primary race with ‘Never Nikki’ Haley initiative - New York Post "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzAxLzEyL25ld3MvcmFuZC1wYXVsLXdhZGVzLWludG8tZ29wLXByaW1hcnktcmFjZS13aXRoLW5ldmVyLW5pa2tpLWhhbGV5LWluaXRpYXRpdmUv0gFvaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDEvMTIvbmV3cy9yYW5kLXBhdWwtd2FkZXMtaW50by1nb3AtcHJpbWFyeS1yYWNlLXdpdGgtbmV2ZXItbmlra2ktaGFsZXktaW5pdGlhdGl2ZS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzAxLzEyL25ld3MvcmFuZC1wYXVsLXdhZGVzLWludG8tZ29wLXByaW1hcnktcmFjZS13aXRoLW5ldmVyLW5pa2tpLWhhbGV5LWluaXRpYXRpdmUv0gFvaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDEvMTIvbmV3cy9yYW5kLXBhdWwtd2FkZXMtaW50by1nb3AtcHJpbWFyeS1yYWNlLXdpdGgtbmV2ZXItbmlra2ktaGFsZXktaW5pdGlhdGl2ZS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzAxLzEyL25ld3MvcmFuZC1wYXVsLXdhZGVzLWludG8tZ29wLXByaW1hcnktcmFjZS13aXRoLW5ldmVyLW5pa2tpLWhhbGV5LWluaXRpYXRpdmUv0gFvaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDEvMTIvbmV3cy9yYW5kLXBhdWwtd2FkZXMtaW50by1nb3AtcHJpbWFyeS1yYWNlLXdpdGgtbmV2ZXItbmlra2ktaGFsZXktaW5pdGlhdGl2ZS9hbXAv?oc=5\" target=\"_blank\">Rand Paul wades into GOP primary race with ‘Never Nikki’ Haley initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post </font>"
+            ],
+            "source": [
+              {
+                "_": "New York Post ",
+                "$": {
+                  "url": "https://nypost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senator Rand Paul calls for Dr. Anthony Fauci to be sent to PRISON over 'dishonesty' on how Covid started - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI5NjIzMjkvU2VuYXRvci1SYW5kLVBhdWwtRHItRmF1Y2ktc2VudC1QUklTT04tY292aWQuaHRtbNIBZ2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI5NjIzMjkvYW1wL1NlbmF0b3ItUmFuZC1QYXVsLURyLUZhdWNpLXNlbnQtUFJJU09OLWNvdmlkLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI5NjIzMjkvU2VuYXRvci1SYW5kLVBhdWwtRHItRmF1Y2ktc2VudC1QUklTT04tY292aWQuaHRtbNIBZ2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI5NjIzMjkvYW1wL1NlbmF0b3ItUmFuZC1QYXVsLURyLUZhdWNpLXNlbnQtUFJJU09OLWNvdmlkLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 14 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI5NjIzMjkvU2VuYXRvci1SYW5kLVBhdWwtRHItRmF1Y2ktc2VudC1QUklTT04tY292aWQuaHRtbNIBZ2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI5NjIzMjkvYW1wL1NlbmF0b3ItUmFuZC1QYXVsLURyLUZhdWNpLXNlbnQtUFJJU09OLWNvdmlkLmh0bWw?oc=5\" target=\"_blank\">Senator Rand Paul calls for Dr. Anthony Fauci to be sent to PRISON over 'dishonesty' on how Covid started</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sununu reacts to ‘Never Nikki’ site: ‘Nobody cares what Rand Paul thinks’ - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDQwNjI5OC1zdW51bnUtcmVhY3RzLW5ldmVyLW5pa2tpLXNpdGUtbm9ib2R5LWNhcmVzLXdoYXQtcmFuZC1wYXVsLXRoaW5rcy_SAXRodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2NhbXBhaWduLzQ0MDYyOTgtc3VudW51LXJlYWN0cy1uZXZlci1uaWtraS1zaXRlLW5vYm9keS1jYXJlcy13aGF0LXJhbmQtcGF1bC10aGlua3MvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDQwNjI5OC1zdW51bnUtcmVhY3RzLW5ldmVyLW5pa2tpLXNpdGUtbm9ib2R5LWNhcmVzLXdoYXQtcmFuZC1wYXVsLXRoaW5rcy_SAXRodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2NhbXBhaWduLzQ0MDYyOTgtc3VudW51LXJlYWN0cy1uZXZlci1uaWtraS1zaXRlLW5vYm9keS1jYXJlcy13aGF0LXJhbmQtcGF1bC10aGlua3MvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDQwNjI5OC1zdW51bnUtcmVhY3RzLW5ldmVyLW5pa2tpLXNpdGUtbm9ib2R5LWNhcmVzLXdoYXQtcmFuZC1wYXVsLXRoaW5rcy_SAXRodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2NhbXBhaWduLzQ0MDYyOTgtc3VudW51LXJlYWN0cy1uZXZlci1uaWtraS1zaXRlLW5vYm9keS1jYXJlcy13aGF0LXJhbmQtcGF1bC10aGlua3MvYW1wLw?oc=5\" target=\"_blank\">Sununu reacts to ‘Never Nikki’ site: ‘Nobody cares what Rand Paul thinks’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trying To 'Cover Your A**': Rand Paul Charges Fauci With Attempting To Change Definition Of Gain-Of-Function ... - The Daily Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5kYWlseXdpcmUuY29tL25ld3MvdHJ5aW5nLXRvLWNvdmVyLXlvdXItYS1yYW5kLXBhdWwtY2hhcmdlcy1mYXVjaS13aXRoLWF0dGVtcHRpbmctdG8tY2hhbmdlLWRlZmluaXRpb24tb2YtZ2Fpbi1vZi1mdW5jdGlvbi1yZXNlYXJjaNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy5kYWlseXdpcmUuY29tL25ld3MvdHJ5aW5nLXRvLWNvdmVyLXlvdXItYS1yYW5kLXBhdWwtY2hhcmdlcy1mYXVjaS13aXRoLWF0dGVtcHRpbmctdG8tY2hhbmdlLWRlZmluaXRpb24tb2YtZ2Fpbi1vZi1mdW5jdGlvbi1yZXNlYXJjaNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5kYWlseXdpcmUuY29tL25ld3MvdHJ5aW5nLXRvLWNvdmVyLXlvdXItYS1yYW5kLXBhdWwtY2hhcmdlcy1mYXVjaS13aXRoLWF0dGVtcHRpbmctdG8tY2hhbmdlLWRlZmluaXRpb24tb2YtZ2Fpbi1vZi1mdW5jdGlvbi1yZXNlYXJjaNIBAA?oc=5\" target=\"_blank\">Trying To 'Cover Your A**': Rand Paul Charges Fauci With Attempting To Change Definition Of Gain-Of-Function ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Wire",
+                "$": {
+                  "url": "https://www.dailywire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul bashes Nikki Haley's presidential bid, but will he endorse Trump? - Hindustan Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL25ldmVyLW5pa2tpLXJhbmQtcGF1bC1nb2VzLWFsbC1vdXQtYWdhaW5zdC1oYWxleXMtMjAyNC1wcmVzaWRlbnRpYWwtYmlkLWJ1dC13aWxsLWhlLWVuZG9yc2UtdHJ1bXAtMTAxNzA1MDY5ODUyNTU3Lmh0bWzSAawBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL3dvcmxkLW5ld3MvdXMtbmV3cy9uZXZlci1uaWtraS1yYW5kLXBhdWwtZ29lcy1hbGwtb3V0LWFnYWluc3QtaGFsZXlzLTIwMjQtcHJlc2lkZW50aWFsLWJpZC1idXQtd2lsbC1oZS1lbmRvcnNlLXRydW1wLTEwMTcwNTA2OTg1MjU1Ny1hbXAuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL25ldmVyLW5pa2tpLXJhbmQtcGF1bC1nb2VzLWFsbC1vdXQtYWdhaW5zdC1oYWxleXMtMjAyNC1wcmVzaWRlbnRpYWwtYmlkLWJ1dC13aWxsLWhlLWVuZG9yc2UtdHJ1bXAtMTAxNzA1MDY5ODUyNTU3Lmh0bWzSAawBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL3dvcmxkLW5ld3MvdXMtbmV3cy9uZXZlci1uaWtraS1yYW5kLXBhdWwtZ29lcy1hbGwtb3V0LWFnYWluc3QtaGFsZXlzLTIwMjQtcHJlc2lkZW50aWFsLWJpZC1idXQtd2lsbC1oZS1lbmRvcnNlLXRydW1wLTEwMTcwNTA2OTg1MjU1Ny1hbXAuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL25ldmVyLW5pa2tpLXJhbmQtcGF1bC1nb2VzLWFsbC1vdXQtYWdhaW5zdC1oYWxleXMtMjAyNC1wcmVzaWRlbnRpYWwtYmlkLWJ1dC13aWxsLWhlLWVuZG9yc2UtdHJ1bXAtMTAxNzA1MDY5ODUyNTU3Lmh0bWzSAawBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL3dvcmxkLW5ld3MvdXMtbmV3cy9uZXZlci1uaWtraS1yYW5kLXBhdWwtZ29lcy1hbGwtb3V0LWFnYWluc3QtaGFsZXlzLTIwMjQtcHJlc2lkZW50aWFsLWJpZC1idXQtd2lsbC1oZS1lbmRvcnNlLXRydW1wLTEwMTcwNTA2OTg1MjU1Ny1hbXAuaHRtbA?oc=5\" target=\"_blank\">Rand Paul bashes Nikki Haley's presidential bid, but will he endorse Trump?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Hindustan Times",
+                "$": {
+                  "url": "https://www.hindustantimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul Endorsing Trump, Running For VP? Big Announcement Coming - Times Now"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL3dvcmxkL3JhbmQtcGF1bC1lbmRvcnNpbmctZG9uYWxkLXRydW1wLXJ1bm5pbmctZm9yLXZwLW9yLXByZXNpZGVudC1rZW50dWNreS1zZW5hdG9ycy1iaWctYW5ub3VuY2VtZW50LXNwYXJrcy1zcGVjdWxhdGlvbi1hcnRpY2xlLTEwNjc0MDcwONIBqwFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL3dvcmxkL3JhbmQtcGF1bC1lbmRvcnNpbmctZG9uYWxkLXRydW1wLXJ1bm5pbmctZm9yLXZwLW9yLXByZXNpZGVudC1rZW50dWNreS1zZW5hdG9ycy1iaWctYW5ub3VuY2VtZW50LXNwYXJrcy1zcGVjdWxhdGlvbi1hcnRpY2xlLTEwNjc0MDcwOC9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipwFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL3dvcmxkL3JhbmQtcGF1bC1lbmRvcnNpbmctZG9uYWxkLXRydW1wLXJ1bm5pbmctZm9yLXZwLW9yLXByZXNpZGVudC1rZW50dWNreS1zZW5hdG9ycy1iaWctYW5ub3VuY2VtZW50LXNwYXJrcy1zcGVjdWxhdGlvbi1hcnRpY2xlLTEwNjc0MDcwONIBqwFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL3dvcmxkL3JhbmQtcGF1bC1lbmRvcnNpbmctZG9uYWxkLXRydW1wLXJ1bm5pbmctZm9yLXZwLW9yLXByZXNpZGVudC1rZW50dWNreS1zZW5hdG9ycy1iaWctYW5ub3VuY2VtZW50LXNwYXJrcy1zcGVjdWxhdGlvbi1hcnRpY2xlLTEwNjc0MDcwOC9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL3dvcmxkL3JhbmQtcGF1bC1lbmRvcnNpbmctZG9uYWxkLXRydW1wLXJ1bm5pbmctZm9yLXZwLW9yLXByZXNpZGVudC1rZW50dWNreS1zZW5hdG9ycy1iaWctYW5ub3VuY2VtZW50LXNwYXJrcy1zcGVjdWxhdGlvbi1hcnRpY2xlLTEwNjc0MDcwONIBqwFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL3dvcmxkL3JhbmQtcGF1bC1lbmRvcnNpbmctZG9uYWxkLXRydW1wLXJ1bm5pbmctZm9yLXZwLW9yLXByZXNpZGVudC1rZW50dWNreS1zZW5hdG9ycy1iaWctYW5ub3VuY2VtZW50LXNwYXJrcy1zcGVjdWxhdGlvbi1hcnRpY2xlLTEwNjc0MDcwOC9hbXA?oc=5\" target=\"_blank\">Rand Paul Endorsing Trump, Running For VP? Big Announcement Coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Now</font>"
+            ],
+            "source": [
+              {
+                "_": "Times Now",
+                "$": {
+                  "url": "https://www.timesnownews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul speaks with business owners in St. Matthews, Jeffersontown - WLKY Louisville"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lndsa3kuY29tL2FydGljbGUvc2VuLXJhbmQtcGF1bC1idXNpbmVzcy1vd25lcnMtc3QtbWF0dGhld3MtamVmZmVyc29udG93bi80NjY1MjE3MdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3Lndsa3kuY29tL2FydGljbGUvc2VuLXJhbmQtcGF1bC1idXNpbmVzcy1vd25lcnMtc3QtbWF0dGhld3MtamVmZmVyc29udG93bi80NjY1MjE3MdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 23:01:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lndsa3kuY29tL2FydGljbGUvc2VuLXJhbmQtcGF1bC1idXNpbmVzcy1vd25lcnMtc3QtbWF0dGhld3MtamVmZmVyc29udG93bi80NjY1MjE3MdIBAA?oc=5\" target=\"_blank\">Sen. Rand Paul speaks with business owners in St. Matthews, Jeffersontown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLKY Louisville</font>"
+            ],
+            "source": [
+              {
+                "_": "WLKY Louisville",
+                "$": {
+                  "url": "https://www.wlky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US senator Rand Paul performs Heimlich maneuver on Joni Ernst - IndiaTimes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL3dvcmxkL3VzL3VzLXNlbmF0b3ItcmFuZC1wYXVsLXBlcmZvcm1zLWhlaW1saWNoLW1hbmV1dmVyLW9uLWpvbmktZXJuc3QvYXJ0aWNsZXNob3cvMTA1NjYxNzc5LmNtc9IBf2h0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL3dvcmxkL3VzL3VzLXNlbmF0b3ItcmFuZC1wYXVsLXBlcmZvcm1zLWhlaW1saWNoLW1hbmV1dmVyLW9uLWpvbmktZXJuc3QvYW1wX2FydGljbGVzaG93LzEwNTY2MTc3OS5jbXM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL3dvcmxkL3VzL3VzLXNlbmF0b3ItcmFuZC1wYXVsLXBlcmZvcm1zLWhlaW1saWNoLW1hbmV1dmVyLW9uLWpvbmktZXJuc3QvYXJ0aWNsZXNob3cvMTA1NjYxNzc5LmNtc9IBf2h0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL3dvcmxkL3VzL3VzLXNlbmF0b3ItcmFuZC1wYXVsLXBlcmZvcm1zLWhlaW1saWNoLW1hbmV1dmVyLW9uLWpvbmktZXJuc3QvYW1wX2FydGljbGVzaG93LzEwNTY2MTc3OS5jbXM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL3dvcmxkL3VzL3VzLXNlbmF0b3ItcmFuZC1wYXVsLXBlcmZvcm1zLWhlaW1saWNoLW1hbmV1dmVyLW9uLWpvbmktZXJuc3QvYXJ0aWNsZXNob3cvMTA1NjYxNzc5LmNtc9IBf2h0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL3dvcmxkL3VzL3VzLXNlbmF0b3ItcmFuZC1wYXVsLXBlcmZvcm1zLWhlaW1saWNoLW1hbmV1dmVyLW9uLWpvbmktZXJuc3QvYW1wX2FydGljbGVzaG93LzEwNTY2MTc3OS5jbXM?oc=5\" target=\"_blank\">US senator Rand Paul performs Heimlich maneuver on Joni Ernst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndiaTimes</font>"
+            ],
+            "source": [
+              {
+                "_": "IndiaTimes",
+                "$": {
+                  "url": "https://m.timesofindia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul talks immigration, debt in Louisville Chamber event - WAVE 3"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LndhdmUzLmNvbS8yMDI0LzAyLzA1L3Nlbi1yYW5kLXBhdWwtdGFsa3MtaW1taWdyYXRpb24tZGVidC1sb3Vpc3ZpbGxlLWNoYW1iZXItZXZlbnQv0gFuaHR0cHM6Ly93d3cud2F2ZTMuY29tLzIwMjQvMDIvMDUvc2VuLXJhbmQtcGF1bC10YWxrcy1pbW1pZ3JhdGlvbi1kZWJ0LWxvdWlzdmlsbGUtY2hhbWJlci1ldmVudC8_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LndhdmUzLmNvbS8yMDI0LzAyLzA1L3Nlbi1yYW5kLXBhdWwtdGFsa3MtaW1taWdyYXRpb24tZGVidC1sb3Vpc3ZpbGxlLWNoYW1iZXItZXZlbnQv0gFuaHR0cHM6Ly93d3cud2F2ZTMuY29tLzIwMjQvMDIvMDUvc2VuLXJhbmQtcGF1bC10YWxrcy1pbW1pZ3JhdGlvbi1kZWJ0LWxvdWlzdmlsbGUtY2hhbWJlci1ldmVudC8_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 21:10:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LndhdmUzLmNvbS8yMDI0LzAyLzA1L3Nlbi1yYW5kLXBhdWwtdGFsa3MtaW1taWdyYXRpb24tZGVidC1sb3Vpc3ZpbGxlLWNoYW1iZXItZXZlbnQv0gFuaHR0cHM6Ly93d3cud2F2ZTMuY29tLzIwMjQvMDIvMDUvc2VuLXJhbmQtcGF1bC10YWxrcy1pbW1pZ3JhdGlvbi1kZWJ0LWxvdWlzdmlsbGUtY2hhbWJlci1ldmVudC8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Sen. Rand Paul talks immigration, debt in Louisville Chamber event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAVE 3</font>"
+            ],
+            "source": [
+              {
+                "_": "WAVE 3",
+                "$": {
+                  "url": "https://www.wave3.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul Uses Heimlich on Joni Ernst at Senate Lunch - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTEvMzAvdXMvc2VuYXRlLWVybnN0LXBhdWwtY2hva2luZy1oZWltbGljaC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTEvMzAvdXMvc2VuYXRlLWVybnN0LXBhdWwtY2hva2luZy1oZWltbGljaC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTEvMzAvdXMvc2VuYXRlLWVybnN0LXBhdWwtY2hva2luZy1oZWltbGljaC5odG1s0gEA?oc=5\" target=\"_blank\">Rand Paul Uses Heimlich on Joni Ernst at Senate Lunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US Senator Rand Paul performs Heimlich on Senator Joni Ernst - BBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzU3Mjc0N9IBN2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzU3Mjc0Ny5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiM2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzU3Mjc0N9IBN2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzU3Mjc0Ny5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzU3Mjc0N9IBN2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzU3Mjc0Ny5hbXA?oc=5\" target=\"_blank\">US Senator Rand Paul performs Heimlich on Senator Joni Ernst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+            ],
+            "source": [
+              {
+                "_": "BBC",
+                "$": {
+                  "url": "https://www.bbc.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul successfully used Heimlich maneuver on choking Joni Ernst in GOP lunch - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8zMC9wb2xpdGljcy9qb25pLWVybnN0LWhlaW1saWNoLW1hbmV1dmVyL2luZGV4Lmh0bWzSAVNodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzMwL3BvbGl0aWNzL2pvbmktZXJuc3QtaGVpbWxpY2gtbWFuZXV2ZXIvaW5kZXguaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8zMC9wb2xpdGljcy9qb25pLWVybnN0LWhlaW1saWNoLW1hbmV1dmVyL2luZGV4Lmh0bWzSAVNodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzMwL3BvbGl0aWNzL2pvbmktZXJuc3QtaGVpbWxpY2gtbWFuZXV2ZXIvaW5kZXguaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8zMC9wb2xpdGljcy9qb25pLWVybnN0LWhlaW1saWNoLW1hbmV1dmVyL2luZGV4Lmh0bWzSAVNodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzMwL3BvbGl0aWNzL2pvbmktZXJuc3QtaGVpbWxpY2gtbWFuZXV2ZXIvaW5kZXguaHRtbA?oc=5\" target=\"_blank\">Rand Paul successfully used Heimlich maneuver on choking Joni Ernst in GOP lunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Viral Photo Of Sen. Rand Paul Wearing Bathrobe Actually AI Fake - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWF0dG5vdmFrLzIwMjMvMDkvMjMvdmlyYWwtcGhvdG8tb2Ytc2VuLXJhbmQtcGF1bC13ZWFyaW5nLWJhdGhyb2JlLWFjdHVhbGx5LWFpLWZha2Uv0gF1aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9tYXR0bm92YWsvMjAyMy8wOS8yMy92aXJhbC1waG90by1vZi1zZW4tcmFuZC1wYXVsLXdlYXJpbmctYmF0aHJvYmUtYWN0dWFsbHktYWktZmFrZS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWF0dG5vdmFrLzIwMjMvMDkvMjMvdmlyYWwtcGhvdG8tb2Ytc2VuLXJhbmQtcGF1bC13ZWFyaW5nLWJhdGhyb2JlLWFjdHVhbGx5LWFpLWZha2Uv0gF1aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9tYXR0bm92YWsvMjAyMy8wOS8yMy92aXJhbC1waG90by1vZi1zZW4tcmFuZC1wYXVsLXdlYXJpbmctYmF0aHJvYmUtYWN0dWFsbHktYWktZmFrZS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 23 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWF0dG5vdmFrLzIwMjMvMDkvMjMvdmlyYWwtcGhvdG8tb2Ytc2VuLXJhbmQtcGF1bC13ZWFyaW5nLWJhdGhyb2JlLWFjdHVhbGx5LWFpLWZha2Uv0gF1aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9tYXR0bm92YWsvMjAyMy8wOS8yMy92aXJhbC1waG90by1vZi1zZW4tcmFuZC1wYXVsLXdlYXJpbmctYmF0aHJvYmUtYWN0dWFsbHktYWktZmFrZS9hbXAv?oc=5\" target=\"_blank\">Viral Photo Of Sen. Rand Paul Wearing Bathrobe Actually AI Fake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senator Rand Paul Calls for Withdrawal of U.S. Troops From Syria - C-SPAN "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vP2M1MDk2NzE3L3NlbmF0b3ItcmFuZC1wYXVsLWNhbGxzLXdpdGhkcmF3YWwtdXMtdHJvb3BzLXN5cmlh0gEqaHR0cHM6Ly93d3cuYy1zcGFuLm9yZy9hbXAvdmlkZW8vP2M1MDk2NzE3?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vP2M1MDk2NzE3L3NlbmF0b3ItcmFuZC1wYXVsLWNhbGxzLXdpdGhkcmF3YWwtdXMtdHJvb3BzLXN5cmlh0gEqaHR0cHM6Ly93d3cuYy1zcGFuLm9yZy9hbXAvdmlkZW8vP2M1MDk2NzE3",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vP2M1MDk2NzE3L3NlbmF0b3ItcmFuZC1wYXVsLWNhbGxzLXdpdGhkcmF3YWwtdXMtdHJvb3BzLXN5cmlh0gEqaHR0cHM6Ly93d3cuYy1zcGFuLm9yZy9hbXAvdmlkZW8vP2M1MDk2NzE3?oc=5\" target=\"_blank\">Senator Rand Paul Calls for Withdrawal of U.S. Troops From Syria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C-SPAN </font>"
+            ],
+            "source": [
+              {
+                "_": "C-SPAN ",
+                "$": {
+                  "url": "https://www.c-span.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul to force vote on Syria troop withdrawal - Responsible Statecraft"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy9wdWxsaW5nLW91dC1vZi1zeXJpYS1yYW5kLXBhdWwv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy9wdWxsaW5nLW91dC1vZi1zeXJpYS1yYW5kLXBhdWwv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Nov 2023 19:37:37 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy9wdWxsaW5nLW91dC1vZi1zeXJpYS1yYW5kLXBhdWwv0gEA?oc=5\" target=\"_blank\">Rand Paul to force vote on Syria troop withdrawal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Responsible Statecraft</font>"
+            ],
+            "source": [
+              {
+                "_": "Responsible Statecraft",
+                "$": {
+                  "url": "https://responsiblestatecraft.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul in KY | Local News On Demand - WPSD Local 6"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy53cHNkbG9jYWw2LmNvbS9vdHQvbmV3c19vbl9kZW1hbmQvbG9jYWxfbmV3c19vbl9kZW1hbmQvcmFuZC1wYXVsLWluLWt5L3ZpZGVvXzVlMzNjZTNkLTZkYWMtNWYzOS05YTFiLWQ0N2ViOTU3NDMzNi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy53cHNkbG9jYWw2LmNvbS9vdHQvbmV3c19vbl9kZW1hbmQvbG9jYWxfbmV3c19vbl9kZW1hbmQvcmFuZC1wYXVsLWluLWt5L3ZpZGVvXzVlMzNjZTNkLTZkYWMtNWYzOS05YTFiLWQ0N2ViOTU3NDMzNi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 00:51:42 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy53cHNkbG9jYWw2LmNvbS9vdHQvbmV3c19vbl9kZW1hbmQvbG9jYWxfbmV3c19vbl9kZW1hbmQvcmFuZC1wYXVsLWluLWt5L3ZpZGVvXzVlMzNjZTNkLTZkYWMtNWYzOS05YTFiLWQ0N2ViOTU3NDMzNi5odG1s0gEA?oc=5\" target=\"_blank\">Rand Paul in KY | Local News On Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPSD Local 6</font>"
+            ],
+            "source": [
+              {
+                "_": "WPSD Local 6",
+                "$": {
+                  "url": "https://www.wpsdlocal6.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul: 'When did we become the sugar daddy of the world?' - Fox Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS92aWRlby82MzQ1NTYxMDY5MTEy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiL2h0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS92aWRlby82MzQ1NTYxMDY5MTEy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS92aWRlby82MzQ1NTYxMDY5MTEy0gEA?oc=5\" target=\"_blank\">Sen. Rand Paul: 'When did we become the sugar daddy of the world?'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox Business",
+                "$": {
+                  "url": "https://www.foxbusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul says US is better than ever before while speaking to Louisville-area Chambers of Commerce - WDRB"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy53ZHJiLmNvbS9uZXdzL3BvbGl0aWNzL3Nlbi1yYW5kLXBhdWwtc2F5cy11cy1pcy1iZXR0ZXItdGhhbi1ldmVyLWJlZm9yZS13aGlsZS1zcGVha2luZy10by1sb3Vpc3ZpbGxlLWFyZWEvYXJ0aWNsZV8xYThhZjk0Yy1jNDdlLTExZWUtOTFkOC1mNzI4MjFiNTViNjcuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipwFodHRwczovL3d3dy53ZHJiLmNvbS9uZXdzL3BvbGl0aWNzL3Nlbi1yYW5kLXBhdWwtc2F5cy11cy1pcy1iZXR0ZXItdGhhbi1ldmVyLWJlZm9yZS13aGlsZS1zcGVha2luZy10by1sb3Vpc3ZpbGxlLWFyZWEvYXJ0aWNsZV8xYThhZjk0Yy1jNDdlLTExZWUtOTFkOC1mNzI4MjFiNTViNjcuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 04:00:35 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy53ZHJiLmNvbS9uZXdzL3BvbGl0aWNzL3Nlbi1yYW5kLXBhdWwtc2F5cy11cy1pcy1iZXR0ZXItdGhhbi1ldmVyLWJlZm9yZS13aGlsZS1zcGVha2luZy10by1sb3Vpc3ZpbGxlLWFyZWEvYXJ0aWNsZV8xYThhZjk0Yy1jNDdlLTExZWUtOTFkOC1mNzI4MjFiNTViNjcuaHRtbNIBAA?oc=5\" target=\"_blank\">Sen. Rand Paul says US is better than ever before while speaking to Louisville-area Chambers of Commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font>"
+            ],
+            "source": [
+              {
+                "_": "WDRB",
+                "$": {
+                  "url": "https://www.wdrb.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul Wants to End Undeclared War in Syria - The Intercept"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIzLzEyLzA1L3JhbmQtcGF1bC1zeXJpYS13YXItdHJvb3BzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIzLzEyLzA1L3JhbmQtcGF1bC1zeXJpYS13YXItdHJvb3BzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIzLzEyLzA1L3JhbmQtcGF1bC1zeXJpYS13YXItdHJvb3BzL9IBAA?oc=5\" target=\"_blank\">Rand Paul Wants to End Undeclared War in Syria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Intercept</font>"
+            ],
+            "source": [
+              {
+                "_": "The Intercept",
+                "$": {
+                  "url": "https://theintercept.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate's border deal is already more than halfway to getting blocked - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMi8wNS9jb25ncmVzcy9oYWxmd2F5LXRvLWZhaWx1cmUtMDAxMzk3NDbSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMi8wNS9jb25ncmVzcy9oYWxmd2F5LXRvLWZhaWx1cmUtMDAxMzk3NDbSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 23:18:14 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wMi8wNS9jb25ncmVzcy9oYWxmd2F5LXRvLWZhaWx1cmUtMDAxMzk3NDbSAQA?oc=5\" target=\"_blank\">Senate's border deal is already more than halfway to getting blocked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senator Rand Paul Vows to Hold Up Government Spending Bill If It Includes Aid to Ukraine - C-SPAN "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vP2M1MDg0NzkwL3NlbmF0b3ItcmFuZC1wYXVsLXZvd3MtaG9sZC1nb3Zlcm5tZW50LXNwZW5kaW5nLWJpbGwtaW5jbHVkZXMtYWlkLXVrcmFpbmXSASpodHRwczovL3d3dy5jLXNwYW4ub3JnL2FtcC92aWRlby8_YzUwODQ3OTA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vP2M1MDg0NzkwL3NlbmF0b3ItcmFuZC1wYXVsLXZvd3MtaG9sZC1nb3Zlcm5tZW50LXNwZW5kaW5nLWJpbGwtaW5jbHVkZXMtYWlkLXVrcmFpbmXSASpodHRwczovL3d3dy5jLXNwYW4ub3JnL2FtcC92aWRlby8_YzUwODQ3OTA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vP2M1MDg0NzkwL3NlbmF0b3ItcmFuZC1wYXVsLXZvd3MtaG9sZC1nb3Zlcm5tZW50LXNwZW5kaW5nLWJpbGwtaW5jbHVkZXMtYWlkLXVrcmFpbmXSASpodHRwczovL3d3dy5jLXNwYW4ub3JnL2FtcC92aWRlby8_YzUwODQ3OTA?oc=5\" target=\"_blank\">Senator Rand Paul Vows to Hold Up Government Spending Bill If It Includes Aid to Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C-SPAN </font>"
+            ],
+            "source": [
+              {
+                "_": "C-SPAN ",
+                "$": {
+                  "url": "https://www.c-span.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul Uses Heimlich Maneuver On Sen. Ernst After Choking At Senate Lunch - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2JyaWFuYnVzaGFyZC8yMDIzLzExLzMwL3JhbmQtcGF1bC11c2VzLWhlaW1saWNoLW1hbmV1dmVyLW9uLXNlbi1lcm5zdC1hZnRlci1jaG9raW5nLWF0LXNlbmF0ZS1sdW5jaC_SAYUBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9icmlhbmJ1c2hhcmQvMjAyMy8xMS8zMC9yYW5kLXBhdWwtdXNlcy1oZWltbGljaC1tYW5ldXZlci1vbi1zZW4tZXJuc3QtYWZ0ZXItY2hva2luZy1hdC1zZW5hdGUtbHVuY2gvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2JyaWFuYnVzaGFyZC8yMDIzLzExLzMwL3JhbmQtcGF1bC11c2VzLWhlaW1saWNoLW1hbmV1dmVyLW9uLXNlbi1lcm5zdC1hZnRlci1jaG9raW5nLWF0LXNlbmF0ZS1sdW5jaC_SAYUBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9icmlhbmJ1c2hhcmQvMjAyMy8xMS8zMC9yYW5kLXBhdWwtdXNlcy1oZWltbGljaC1tYW5ldXZlci1vbi1zZW4tZXJuc3QtYWZ0ZXItY2hva2luZy1hdC1zZW5hdGUtbHVuY2gvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2JyaWFuYnVzaGFyZC8yMDIzLzExLzMwL3JhbmQtcGF1bC11c2VzLWhlaW1saWNoLW1hbmV1dmVyLW9uLXNlbi1lcm5zdC1hZnRlci1jaG9raW5nLWF0LXNlbmF0ZS1sdW5jaC_SAYUBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9icmlhbmJ1c2hhcmQvMjAyMy8xMS8zMC9yYW5kLXBhdWwtdXNlcy1oZWltbGljaC1tYW5ldXZlci1vbi1zZW4tZXJuc3QtYWZ0ZXItY2hva2luZy1hdC1zZW5hdGUtbHVuY2gvYW1wLw?oc=5\" target=\"_blank\">Rand Paul Uses Heimlich Maneuver On Sen. Ernst After Choking At Senate Lunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul performed Heimlich maneuver on choking Sen. Joni Ernst during GOP lunch - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC_SAYABaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC_SAYABaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC_SAYABaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC8?oc=5\" target=\"_blank\">Sen. Rand Paul performed Heimlich maneuver on choking Sen. Joni Ernst during GOP lunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul discusses key issues facing Americans - WBKO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lndia28uY29tL3ZpZGVvLzIwMjQvMDEvMTEvc2VuLXJhbmQtcGF1bC1kaXNjdXNzZXMta2V5LWlzc3Vlcy1mYWNpbmctYW1lcmljYW5zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3Lndia28uY29tL3ZpZGVvLzIwMjQvMDEvMTEvc2VuLXJhbmQtcGF1bC1kaXNjdXNzZXMta2V5LWlzc3Vlcy1mYWNpbmctYW1lcmljYW5zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lndia28uY29tL3ZpZGVvLzIwMjQvMDEvMTEvc2VuLXJhbmQtcGF1bC1kaXNjdXNzZXMta2V5LWlzc3Vlcy1mYWNpbmctYW1lcmljYW5zL9IBAA?oc=5\" target=\"_blank\">Sen. Rand Paul discusses key issues facing Americans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBKO</font>"
+            ],
+            "source": [
+              {
+                "_": "WBKO",
+                "$": {
+                  "url": "https://www.wbko.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican Senator Rand Paul blocks bid to ban TikTok in US - Al Jazeera English"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzMvMzAvcmVwdWJsaWNhbi1zZW5hdG9yLWJsb2Nrcy1iaWQtdG8tYmFuLXRpa3Rvay1pbi11c9IBXmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyMy8zLzMwL3JlcHVibGljYW4tc2VuYXRvci1ibG9ja3MtYmlkLXRvLWJhbi10aWt0b2staW4tdXM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzMvMzAvcmVwdWJsaWNhbi1zZW5hdG9yLWJsb2Nrcy1iaWQtdG8tYmFuLXRpa3Rvay1pbi11c9IBXmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyMy8zLzMwL3JlcHVibGljYW4tc2VuYXRvci1ibG9ja3MtYmlkLXRvLWJhbi10aWt0b2staW4tdXM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzMvMzAvcmVwdWJsaWNhbi1zZW5hdG9yLWJsb2Nrcy1iaWQtdG8tYmFuLXRpa3Rvay1pbi11c9IBXmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyMy8zLzMwL3JlcHVibGljYW4tc2VuYXRvci1ibG9ja3MtYmlkLXRvLWJhbi10aWt0b2staW4tdXM?oc=5\" target=\"_blank\">Republican Senator Rand Paul blocks bid to ban TikTok in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera English</font>"
+            ],
+            "source": [
+              {
+                "_": "Al Jazeera English",
+                "$": {
+                  "url": "https://www.aljazeera.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul fires back at Sununu for mocking ‘Never Nikki’ campaign - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDQxNjE0OS1yYW5kLXBhdWwtZmlyZXMtYmFjay1hdC1zdW51bnUtZm9yLW1vY2tpbmctbmV2ZXItbmlra2ktY2FtcGFpZ24v0gFyaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9jYW1wYWlnbi80NDE2MTQ5LXJhbmQtcGF1bC1maXJlcy1iYWNrLWF0LXN1bnVudS1mb3ItbW9ja2luZy1uZXZlci1uaWtraS1jYW1wYWlnbi9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDQxNjE0OS1yYW5kLXBhdWwtZmlyZXMtYmFjay1hdC1zdW51bnUtZm9yLW1vY2tpbmctbmV2ZXItbmlra2ktY2FtcGFpZ24v0gFyaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9jYW1wYWlnbi80NDE2MTQ5LXJhbmQtcGF1bC1maXJlcy1iYWNrLWF0LXN1bnVudS1mb3ItbW9ja2luZy1uZXZlci1uaWtraS1jYW1wYWlnbi9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDQxNjE0OS1yYW5kLXBhdWwtZmlyZXMtYmFjay1hdC1zdW51bnUtZm9yLW1vY2tpbmctbmV2ZXItbmlra2ktY2FtcGFpZ24v0gFyaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9jYW1wYWlnbi80NDE2MTQ5LXJhbmQtcGF1bC1maXJlcy1iYWNrLWF0LXN1bnVudS1mb3ItbW9ja2luZy1uZXZlci1uaWtraS1jYW1wYWlnbi9hbXAv?oc=5\" target=\"_blank\">Rand Paul fires back at Sununu for mocking ‘Never Nikki’ campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul's Bill Taking a New Look at an Unlawful Mission in Syria - Cato Institute"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNhdG8ub3JnL2Jsb2cvcmFuZC1wYXVscy1iaWxsLXRha2luZy1uZXctbG9vay11bmxhd2Z1bC1taXNzaW9uLXN5cmlh0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LmNhdG8ub3JnL2Jsb2cvcmFuZC1wYXVscy1iaWxsLXRha2luZy1uZXctbG9vay11bmxhd2Z1bC1taXNzaW9uLXN5cmlh0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNhdG8ub3JnL2Jsb2cvcmFuZC1wYXVscy1iaWxsLXRha2luZy1uZXctbG9vay11bmxhd2Z1bC1taXNzaW9uLXN5cmlh0gEA?oc=5\" target=\"_blank\">Rand Paul's Bill Taking a New Look at an Unlawful Mission in Syria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cato Institute</font>"
+            ],
+            "source": [
+              {
+                "_": "Cato Institute",
+                "$": {
+                  "url": "https://www.cato.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "U.S. Senators Ted Cruz and Rand Paul Send Letter 'Demanding' Information on CIA Whistleblower Allegations ... - Sierra Sun Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMi1gFodHRwczovL2dvbGRydXNoY2FtLmNvbS9zaWVycmFzdW50aW1lcy9pbmRleC5waHAvbmV3cy9sb2NhbC1uZXdzLzUzNzczLXUtcy1zZW5hdG9ycy10ZWQtY3J1ei1hbmQtcmFuZC1wYXVsLXNlbmQtbGV0dGVyLWRlbWFuZGluZy1pbmZvcm1hdGlvbi1vbi1jaWEtd2hpc3RsZWJsb3dlci1hbGxlZ2F0aW9ucy1pbnZvbHZpbmctY292aWQtMTktb3JpZ2lucy1pbnZlc3RpZ2F0aW9u0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMi1gFodHRwczovL2dvbGRydXNoY2FtLmNvbS9zaWVycmFzdW50aW1lcy9pbmRleC5waHAvbmV3cy9sb2NhbC1uZXdzLzUzNzczLXUtcy1zZW5hdG9ycy10ZWQtY3J1ei1hbmQtcmFuZC1wYXVsLXNlbmQtbGV0dGVyLWRlbWFuZGluZy1pbmZvcm1hdGlvbi1vbi1jaWEtd2hpc3RsZWJsb3dlci1hbGxlZ2F0aW9ucy1pbnZvbHZpbmctY292aWQtMTktb3JpZ2lucy1pbnZlc3RpZ2F0aW9u0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:49:38 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMi1gFodHRwczovL2dvbGRydXNoY2FtLmNvbS9zaWVycmFzdW50aW1lcy9pbmRleC5waHAvbmV3cy9sb2NhbC1uZXdzLzUzNzczLXUtcy1zZW5hdG9ycy10ZWQtY3J1ei1hbmQtcmFuZC1wYXVsLXNlbmQtbGV0dGVyLWRlbWFuZGluZy1pbmZvcm1hdGlvbi1vbi1jaWEtd2hpc3RsZWJsb3dlci1hbGxlZ2F0aW9ucy1pbnZvbHZpbmctY292aWQtMTktb3JpZ2lucy1pbnZlc3RpZ2F0aW9u0gEA?oc=5\" target=\"_blank\">U.S. Senators Ted Cruz and Rand Paul Send Letter 'Demanding' Information on CIA Whistleblower Allegations ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sierra Sun Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Sierra Sun Times",
+                "$": {
+                  "url": "https://goldrushcam.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul announces which 2024 presidential candidate he's not endorsing - Yahoo News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3cy55YWhvby5jb20vcmFuZC1wYXVsLWFubm91bmNlcy0yMDI0LXByZXNpZGVudGlhbC0xMzM5MDc5MDEuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vbmV3cy55YWhvby5jb20vcmFuZC1wYXVsLWFubm91bmNlcy0yMDI0LXByZXNpZGVudGlhbC0xMzM5MDc5MDEuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3cy55YWhvby5jb20vcmFuZC1wYXVsLWFubm91bmNlcy0yMDI0LXByZXNpZGVudGlhbC0xMzM5MDc5MDEuaHRtbNIBAA?oc=5\" target=\"_blank\">Rand Paul announces which 2024 presidential candidate he's not endorsing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News",
+                "$": {
+                  "url": "https://news.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New video shows stabbing of Rand Paul staffer in D.C. - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzA4LzA4L3ZpZGVvLXJhbmQtcGF1bC1zdGFmZmVyLWF0dGFjay_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzA4LzA4L3ZpZGVvLXJhbmQtcGF1bC1zdGFmZmVyLWF0dGFjay_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzA4LzA4L3ZpZGVvLXJhbmQtcGF1bC1zdGFmZmVyLWF0dGFjay_SAQA?oc=5\" target=\"_blank\">New video shows stabbing of Rand Paul staffer in D.C.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul teases ‘something very important to say’ on 2024 race - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdGhlaGlsbC5jb20vZWxlY3Rpb25zLzQ0MDM4NzctcmFuZC1wYXVsLXN0YXRlbWVudC0yMDI0LXByZXNpZGVudGlhbC1yYWNlL9IBVWh0dHBzOi8vdGhlaGlsbC5jb20vZWxlY3Rpb25zLzQ0MDM4NzctcmFuZC1wYXVsLXN0YXRlbWVudC0yMDI0LXByZXNpZGVudGlhbC1yYWNlL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vdGhlaGlsbC5jb20vZWxlY3Rpb25zLzQ0MDM4NzctcmFuZC1wYXVsLXN0YXRlbWVudC0yMDI0LXByZXNpZGVudGlhbC1yYWNlL9IBVWh0dHBzOi8vdGhlaGlsbC5jb20vZWxlY3Rpb25zLzQ0MDM4NzctcmFuZC1wYXVsLXN0YXRlbWVudC0yMDI0LXByZXNpZGVudGlhbC1yYWNlL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdGhlaGlsbC5jb20vZWxlY3Rpb25zLzQ0MDM4NzctcmFuZC1wYXVsLXN0YXRlbWVudC0yMDI0LXByZXNpZGVudGlhbC1yYWNlL9IBVWh0dHBzOi8vdGhlaGlsbC5jb20vZWxlY3Rpb25zLzQ0MDM4NzctcmFuZC1wYXVsLXN0YXRlbWVudC0yMDI0LXByZXNpZGVudGlhbC1yYWNlL2FtcC8?oc=5\" target=\"_blank\">Sen. Rand Paul teases ‘something very important to say’ on 2024 race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul Is Absolutely Right About Getting US Troops Out of Syria - The Nation"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS9wb2xpdGljcy9yYW5kLXBhdWwtc3lyaWEtcmVzb2x1dGlvbi_SAUxodHRwczovL3d3dy50aGVuYXRpb24uY29tL2FydGljbGUvcG9saXRpY3MvcmFuZC1wYXVsLXN5cmlhLXJlc29sdXRpb24vdG5hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS9wb2xpdGljcy9yYW5kLXBhdWwtc3lyaWEtcmVzb2x1dGlvbi_SAUxodHRwczovL3d3dy50aGVuYXRpb24uY29tL2FydGljbGUvcG9saXRpY3MvcmFuZC1wYXVsLXN5cmlhLXJlc29sdXRpb24vdG5hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS9wb2xpdGljcy9yYW5kLXBhdWwtc3lyaWEtcmVzb2x1dGlvbi_SAUxodHRwczovL3d3dy50aGVuYXRpb24uY29tL2FydGljbGUvcG9saXRpY3MvcmFuZC1wYXVsLXN5cmlhLXJlc29sdXRpb24vdG5hbXAv?oc=5\" target=\"_blank\">Rand Paul Is Absolutely Right About Getting US Troops Out of Syria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Nation</font>"
+            ],
+            "source": [
+              {
+                "_": "The Nation",
+                "$": {
+                  "url": "https://www.thenation.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NIH's Letter to Wuhan Lab Confirms Rand Paul Was Right and Fauci Was Wrong about Gain-of-Function | Jon Miltimore - Foundation for Economic Education"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vZmVlLm9yZy9hcnRpY2xlcy9uaWhzLWxldHRlci10by13dWhhbi1sYWItY29uZmlybXMtcmFuZC1wYXVsLXdhcy1yaWdodC1hbmQtZmF1Y2ktd2FzLXdyb25nLWFib3V0LWdhaW4tb2YtZnVuY3Rpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vZmVlLm9yZy9hcnRpY2xlcy9uaWhzLWxldHRlci10by13dWhhbi1sYWItY29uZmlybXMtcmFuZC1wYXVsLXdhcy1yaWdodC1hbmQtZmF1Y2ktd2FzLXdyb25nLWFib3V0LWdhaW4tb2YtZnVuY3Rpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Feb 2024 14:03:45 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vZmVlLm9yZy9hcnRpY2xlcy9uaWhzLWxldHRlci10by13dWhhbi1sYWItY29uZmlybXMtcmFuZC1wYXVsLXdhcy1yaWdodC1hbmQtZmF1Y2ktd2FzLXdyb25nLWFib3V0LWdhaW4tb2YtZnVuY3Rpb24v0gEA?oc=5\" target=\"_blank\">NIH's Letter to Wuhan Lab Confirms Rand Paul Was Right and Fauci Was Wrong about Gain-of-Function | Jon Miltimore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foundation for Economic Education</font>"
+            ],
+            "source": [
+              {
+                "_": "Foundation for Economic Education",
+                "$": {
+                  "url": "https://fee.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul uses Heimlich maneuver on Ernst during Senate GOP lunch - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQzMzU5MzAtcmFuZC1yYW5kLXBhdWwtaGVpbWxpY2gtbWFuZXV2ZXItZXJuc3Qv0gFXaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDMzNTkzMC1yYW5kLXJhbmQtcGF1bC1oZWltbGljaC1tYW5ldXZlci1lcm5zdC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQzMzU5MzAtcmFuZC1yYW5kLXBhdWwtaGVpbWxpY2gtbWFuZXV2ZXItZXJuc3Qv0gFXaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDMzNTkzMC1yYW5kLXJhbmQtcGF1bC1oZWltbGljaC1tYW5ldXZlci1lcm5zdC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQzMzU5MzAtcmFuZC1yYW5kLXBhdWwtaGVpbWxpY2gtbWFuZXV2ZXItZXJuc3Qv0gFXaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDMzNTkzMC1yYW5kLXJhbmQtcGF1bC1oZWltbGljaC1tYW5ldXZlci1lcm5zdC9hbXAv?oc=5\" target=\"_blank\">Rand Paul uses Heimlich maneuver on Ernst during Senate GOP lunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul of Kentucky was the only Republican in the Foreign Relations Committee who voted with Democrats to ... - Yahoo News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vbmV3cy55YWhvby5jb20vc2VuLXJhbmQtcGF1bC1rZW50dWNreS1vbmx5LTE2NDIwODA1MS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8vbmV3cy55YWhvby5jb20vc2VuLXJhbmQtcGF1bC1rZW50dWNreS1vbmx5LTE2NDIwODA1MS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vbmV3cy55YWhvby5jb20vc2VuLXJhbmQtcGF1bC1rZW50dWNreS1vbmx5LTE2NDIwODA1MS5odG1s0gEA?oc=5\" target=\"_blank\">Sen. Rand Paul of Kentucky was the only Republican in the Foreign Relations Committee who voted with Democrats to ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News",
+                "$": {
+                  "url": "https://news.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul successfully performs Heimlich maneuver on Sen. Joni Ernst - KEYC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmtleWMuY29tLzIwMjMvMTEvMzAvc2VuLXJhbmQtcGF1bC1zdWNjZXNzZnVsbHktcGVyZm9ybXMtaGVpbWxpY2gtbWFuZXV2ZXItc2VuLWpvbmktZXJuc3Qv0gF0aHR0cHM6Ly93d3cua2V5Yy5jb20vMjAyMy8xMS8zMC9zZW4tcmFuZC1wYXVsLXN1Y2Nlc3NmdWxseS1wZXJmb3Jtcy1oZWltbGljaC1tYW5ldXZlci1zZW4tam9uaS1lcm5zdC8_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmtleWMuY29tLzIwMjMvMTEvMzAvc2VuLXJhbmQtcGF1bC1zdWNjZXNzZnVsbHktcGVyZm9ybXMtaGVpbWxpY2gtbWFuZXV2ZXItc2VuLWpvbmktZXJuc3Qv0gF0aHR0cHM6Ly93d3cua2V5Yy5jb20vMjAyMy8xMS8zMC9zZW4tcmFuZC1wYXVsLXN1Y2Nlc3NmdWxseS1wZXJmb3Jtcy1oZWltbGljaC1tYW5ldXZlci1zZW4tam9uaS1lcm5zdC8_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmtleWMuY29tLzIwMjMvMTEvMzAvc2VuLXJhbmQtcGF1bC1zdWNjZXNzZnVsbHktcGVyZm9ybXMtaGVpbWxpY2gtbWFuZXV2ZXItc2VuLWpvbmktZXJuc3Qv0gF0aHR0cHM6Ly93d3cua2V5Yy5jb20vMjAyMy8xMS8zMC9zZW4tcmFuZC1wYXVsLXN1Y2Nlc3NmdWxseS1wZXJmb3Jtcy1oZWltbGljaC1tYW5ldXZlci1zZW4tam9uaS1lcm5zdC8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Sen. Rand Paul successfully performs Heimlich maneuver on Sen. Joni Ernst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KEYC</font>"
+            ],
+            "source": [
+              {
+                "_": "KEYC",
+                "$": {
+                  "url": "https://www.keyc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul hopeful Fauci testimony will answer remaining COVID questions - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQzMzkxMTMtcGF1bC1ob3BlZnVsLWZhdWNpLWFuc3dlci1yZW1haW5pbmctY292aWQtcXVlc3Rpb25zLXRlc3RpbW9ueS_SAW5odHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3NlbmF0ZS80MzM5MTEzLXBhdWwtaG9wZWZ1bC1mYXVjaS1hbnN3ZXItcmVtYWluaW5nLWNvdmlkLXF1ZXN0aW9ucy10ZXN0aW1vbnkvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQzMzkxMTMtcGF1bC1ob3BlZnVsLWZhdWNpLWFuc3dlci1yZW1haW5pbmctY292aWQtcXVlc3Rpb25zLXRlc3RpbW9ueS_SAW5odHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3NlbmF0ZS80MzM5MTEzLXBhdWwtaG9wZWZ1bC1mYXVjaS1hbnN3ZXItcmVtYWluaW5nLWNvdmlkLXF1ZXN0aW9ucy10ZXN0aW1vbnkvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 02 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQzMzkxMTMtcGF1bC1ob3BlZnVsLWZhdWNpLWFuc3dlci1yZW1haW5pbmctY292aWQtcXVlc3Rpb25zLXRlc3RpbW9ueS_SAW5odHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3NlbmF0ZS80MzM5MTEzLXBhdWwtaG9wZWZ1bC1mYXVjaS1hbnN3ZXItcmVtYWluaW5nLWNvdmlkLXF1ZXN0aW9ucy10ZXN0aW1vbnkvYW1wLw?oc=5\" target=\"_blank\">Rand Paul hopeful Fauci testimony will answer remaining COVID questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican Senator Rand Paul blocks bid to ban Chinese-owned TikTok - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3JlcHVibGljYW4tc2VuYXRvci1yYW5kLXBhdWwtb3Bwb3Nlcy10aWt0b2stYmFuLXB1c2gtY29uZ3Jlc3MtMjAyMy0wMy0yOS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3JlcHVibGljYW4tc2VuYXRvci1yYW5kLXBhdWwtb3Bwb3Nlcy10aWt0b2stYmFuLXB1c2gtY29uZ3Jlc3MtMjAyMy0wMy0yOS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3JlcHVibGljYW4tc2VuYXRvci1yYW5kLXBhdWwtb3Bwb3Nlcy10aWt0b2stYmFuLXB1c2gtY29uZ3Jlc3MtMjAyMy0wMy0yOS_SAQA?oc=5\" target=\"_blank\">Republican Senator Rand Paul blocks bid to ban Chinese-owned TikTok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul of Kentucky saves Sen. Joni Ernst of Iowa from choking - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMTEvMzAvcmFuZC1wYXVsLXNhdmVzLWpvbmktZXJuc3QtY2hva2luZy83MTc1NzM3OTAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMTEvMzAvcmFuZC1wYXVsLXNhdmVzLWpvbmktZXJuc3QtY2hva2luZy83MTc1NzM3OTAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMTEvMzAvcmFuZC1wYXVsLXNhdmVzLWpvbmktZXJuc3QtY2hva2luZy83MTc1NzM3OTAwNy_SAQA?oc=5\" target=\"_blank\">Sen. Rand Paul of Kentucky saves Sen. Joni Ernst of Iowa from choking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul's Festivus Report 'waste shames' specific government spending - Federal News Network"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL2ZlZGVyYWxuZXdzbmV0d29yay5jb20vZmVkZXJhbC1uZXdzY2FzdC8yMDIzLzEyL3Nlbi1yYW5kLXBhdWxzLWZlc3RpdnVzLXJlcG9ydC13YXN0ZS1zaGFtZXMtc3BlY2lmaWMtZ292ZXJubWVudC1zcGVuZGluZy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL2ZlZGVyYWxuZXdzbmV0d29yay5jb20vZmVkZXJhbC1uZXdzY2FzdC8yMDIzLzEyL3Nlbi1yYW5kLXBhdWxzLWZlc3RpdnVzLXJlcG9ydC13YXN0ZS1zaGFtZXMtc3BlY2lmaWMtZ292ZXJubWVudC1zcGVuZGluZy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 26 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL2ZlZGVyYWxuZXdzbmV0d29yay5jb20vZmVkZXJhbC1uZXdzY2FzdC8yMDIzLzEyL3Nlbi1yYW5kLXBhdWxzLWZlc3RpdnVzLXJlcG9ydC13YXN0ZS1zaGFtZXMtc3BlY2lmaWMtZ292ZXJubWVudC1zcGVuZGluZy_SAQA?oc=5\" target=\"_blank\">Sen. Rand Paul's Festivus Report 'waste shames' specific government spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal News Network</font>"
+            ],
+            "source": [
+              {
+                "_": "Federal News Network",
+                "$": {
+                  "url": "https://federalnewsnetwork.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul: Why do we still have troops in Niger? - Responsible Statecraft"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy9uaWdlci11cy10cm9vcHMtcmFuZC1wYXVsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy9uaWdlci11cy10cm9vcHMtcmFuZC1wYXVsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Sep 2023 20:27:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy9uaWdlci11cy10cm9vcHMtcmFuZC1wYXVsL9IBAA?oc=5\" target=\"_blank\">Rand Paul: Why do we still have troops in Niger?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Responsible Statecraft</font>"
+            ],
+            "source": [
+              {
+                "_": "Responsible Statecraft",
+                "$": {
+                  "url": "https://responsiblestatecraft.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul on the Lab Leak 'Deception' - Reason"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vcmVhc29uLmNvbS92aWRlby8yMDIzLzExLzE2L3JhbmQtcGF1bC1vbi10aGUtbGFiLWxlYWstZGVjZXB0aW9uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vcmVhc29uLmNvbS92aWRlby8yMDIzLzExLzE2L3JhbmQtcGF1bC1vbi10aGUtbGFiLWxlYWstZGVjZXB0aW9uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vcmVhc29uLmNvbS92aWRlby8yMDIzLzExLzE2L3JhbmQtcGF1bC1vbi10aGUtbGFiLWxlYWstZGVjZXB0aW9uL9IBAA?oc=5\" target=\"_blank\">Rand Paul on the Lab Leak 'Deception'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason</font>"
+            ],
+            "source": [
+              {
+                "_": "Reason",
+                "$": {
+                  "url": "https://reason.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US cybersecurity agency funding under fire from Sen. Rand Paul - Federal Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5mZWRlcmFsdGltZXMuY29tL2ZlZGVyYWwtb3ZlcnNpZ2h0L2NvbmdyZXNzLzIwMjMvMTAvMjQvdXMtY3liZXJzZWN1cml0eS1hZ2VuY3ktZnVuZGluZy1pcy11bmRlci1maXJlLWZyb20tc2VuLXJhbmQtcGF1bC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy5mZWRlcmFsdGltZXMuY29tL2ZlZGVyYWwtb3ZlcnNpZ2h0L2NvbmdyZXNzLzIwMjMvMTAvMjQvdXMtY3liZXJzZWN1cml0eS1hZ2VuY3ktZnVuZGluZy1pcy11bmRlci1maXJlLWZyb20tc2VuLXJhbmQtcGF1bC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5mZWRlcmFsdGltZXMuY29tL2ZlZGVyYWwtb3ZlcnNpZ2h0L2NvbmdyZXNzLzIwMjMvMTAvMjQvdXMtY3liZXJzZWN1cml0eS1hZ2VuY3ktZnVuZGluZy1pcy11bmRlci1maXJlLWZyb20tc2VuLXJhbmQtcGF1bC_SAQA?oc=5\" target=\"_blank\">US cybersecurity agency funding under fire from Sen. Rand Paul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Federal Times",
+                "$": {
+                  "url": "https://www.federaltimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul Likely to Campaign Against Nikki Haley in New Hampshire - Yahoo News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbmV3cy55YWhvby5jb20vcmFuZC1wYXVsLWxpa2VseS1jYW1wYWlnbi1hZ2FpbnN0LTIxNTkxOTM3Mi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vbmV3cy55YWhvby5jb20vcmFuZC1wYXVsLWxpa2VseS1jYW1wYWlnbi1hZ2FpbnN0LTIxNTkxOTM3Mi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 14 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbmV3cy55YWhvby5jb20vcmFuZC1wYXVsLWxpa2VseS1jYW1wYWlnbi1hZ2FpbnN0LTIxNTkxOTM3Mi5odG1s0gEA?oc=5\" target=\"_blank\">Rand Paul Likely to Campaign Against Nikki Haley in New Hampshire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News",
+                "$": {
+                  "url": "https://news.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul: Withdraw Ukraine money if you want to avoid shutdown - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQyMjkxMjAtcmFuZC1wYXVsLXdpdGhkcmF3LXVrcmFpbmUtbW9uZXktaWYteW91LXdhbnQtdG8tYXZvaWQtc2h1dGRvd24v0gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDIyOTEyMC1yYW5kLXBhdWwtd2l0aGRyYXctdWtyYWluZS1tb25leS1pZi15b3Utd2FudC10by1hdm9pZC1zaHV0ZG93bi9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQyMjkxMjAtcmFuZC1wYXVsLXdpdGhkcmF3LXVrcmFpbmUtbW9uZXktaWYteW91LXdhbnQtdG8tYXZvaWQtc2h1dGRvd24v0gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDIyOTEyMC1yYW5kLXBhdWwtd2l0aGRyYXctdWtyYWluZS1tb25leS1pZi15b3Utd2FudC10by1hdm9pZC1zaHV0ZG93bi9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQyMjkxMjAtcmFuZC1wYXVsLXdpdGhkcmF3LXVrcmFpbmUtbW9uZXktaWYteW91LXdhbnQtdG8tYXZvaWQtc2h1dGRvd24v0gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDIyOTEyMC1yYW5kLXBhdWwtd2l0aGRyYXctdWtyYWluZS1tb25leS1pZi15b3Utd2FudC10by1hdm9pZC1zaHV0ZG93bi9hbXAv?oc=5\" target=\"_blank\">Rand Paul: Withdraw Ukraine money if you want to avoid shutdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "U.S. Senator Rand Paul visits Louisville area chambers of commerces - WDRB"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy53ZHJiLmNvbS9uZXdzL3dkcmItdmlkZW8vdS1zLXNlbmF0b3ItcmFuZC1wYXVsLXZpc2l0cy1sb3Vpc3ZpbGxlLWFyZWEtY2hhbWJlcnMtb2YtY29tbWVyY2VzL3ZpZGVvXzhhZmM0ZDgzLTllMDgtNTJmMy05NDU4LTY4YjM1YmM1ZGU5Yy5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilwFodHRwczovL3d3dy53ZHJiLmNvbS9uZXdzL3dkcmItdmlkZW8vdS1zLXNlbmF0b3ItcmFuZC1wYXVsLXZpc2l0cy1sb3Vpc3ZpbGxlLWFyZWEtY2hhbWJlcnMtb2YtY29tbWVyY2VzL3ZpZGVvXzhhZmM0ZDgzLTllMDgtNTJmMy05NDU4LTY4YjM1YmM1ZGU5Yy5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 23:28:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy53ZHJiLmNvbS9uZXdzL3dkcmItdmlkZW8vdS1zLXNlbmF0b3ItcmFuZC1wYXVsLXZpc2l0cy1sb3Vpc3ZpbGxlLWFyZWEtY2hhbWJlcnMtb2YtY29tbWVyY2VzL3ZpZGVvXzhhZmM0ZDgzLTllMDgtNTJmMy05NDU4LTY4YjM1YmM1ZGU5Yy5odG1s0gEA?oc=5\" target=\"_blank\">U.S. Senator Rand Paul visits Louisville area chambers of commerces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font>"
+            ],
+            "source": [
+              {
+                "_": "WDRB",
+                "$": {
+                  "url": "https://www.wdrb.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul performed Heimlich maneuver on choking Sen. Joni Ernst during GOP lunch - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3NlbmF0ZS1qb25pLWVybnN0LWNob2tpbmctNmNkZGU3MTliZWY5YmI4MmQ5NjkwM2I1YjM5MGExNmLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3NlbmF0ZS1qb25pLWVybnN0LWNob2tpbmctNmNkZGU3MTliZWY5YmI4MmQ5NjkwM2I1YjM5MGExNmLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3NlbmF0ZS1qb25pLWVybnN0LWNob2tpbmctNmNkZGU3MTliZWY5YmI4MmQ5NjkwM2I1YjM5MGExNmLSAQA?oc=5\" target=\"_blank\">Sen. Rand Paul performed Heimlich maneuver on choking Sen. Joni Ernst during GOP lunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Man charged in stabbing of Rand Paul staffer needs more tests, judge says - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzEwLzI4L3JhbmQtcGF1bC1zdGFmZmVyLWtuaWZlLXBzeWNoaWF0cmljL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzEwLzI4L3JhbmQtcGF1bC1zdGFmZmVyLWtuaWZlLXBzeWNoaWF0cmljL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 28 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzEwLzI4L3JhbmQtcGF1bC1zdGFmZmVyLWtuaWZlLXBzeWNoaWF0cmljL9IBAA?oc=5\" target=\"_blank\">Man charged in stabbing of Rand Paul staffer needs more tests, judge says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How would Senator Rand Paul fix America? | Will Cain Show - FOX News Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vcmFkaW8uZm94bmV3cy5jb20vMjAyNC8wMi8wMS9ob3ctd291bGQtc2VuYXRvci1yYW5kLXBhdWwtZml4LWFtZXJpY2Ev0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vcmFkaW8uZm94bmV3cy5jb20vMjAyNC8wMi8wMS9ob3ctd291bGQtc2VuYXRvci1yYW5kLXBhdWwtZml4LWFtZXJpY2Ev0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 20:10:04 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vcmFkaW8uZm94bmV3cy5jb20vMjAyNC8wMi8wMS9ob3ctd291bGQtc2VuYXRvci1yYW5kLXBhdWwtZml4LWFtZXJpY2Ev0gEA?oc=5\" target=\"_blank\">How would Senator Rand Paul fix America? | Will Cain Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX News Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX News Radio",
+                "$": {
+                  "url": "https://radio.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul Opposes TikTok Ban In Break With GOP Colleagues—As Senators Could Vote On Bill Wednesday - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3NhcmFkb3JuLzIwMjMvMDMvMjkvcmFuZC1wYXVsLW9wcG9zZXMtdGlrdG9rLWJhbi1pbi1icmVhay13aXRoLWdvcC1jb2xsZWFndWVzLWFzLXNlbmF0b3JzLWNvdWxkLXZvdGUtb24tYmlsbC13ZWRuZXNkYXkv0gGYAWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2FyYWRvcm4vMjAyMy8wMy8yOS9yYW5kLXBhdWwtb3Bwb3Nlcy10aWt0b2stYmFuLWluLWJyZWFrLXdpdGgtZ29wLWNvbGxlYWd1ZXMtYXMtc2VuYXRvcnMtY291bGQtdm90ZS1vbi1iaWxsLXdlZG5lc2RheS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3NhcmFkb3JuLzIwMjMvMDMvMjkvcmFuZC1wYXVsLW9wcG9zZXMtdGlrdG9rLWJhbi1pbi1icmVhay13aXRoLWdvcC1jb2xsZWFndWVzLWFzLXNlbmF0b3JzLWNvdWxkLXZvdGUtb24tYmlsbC13ZWRuZXNkYXkv0gGYAWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2FyYWRvcm4vMjAyMy8wMy8yOS9yYW5kLXBhdWwtb3Bwb3Nlcy10aWt0b2stYmFuLWluLWJyZWFrLXdpdGgtZ29wLWNvbGxlYWd1ZXMtYXMtc2VuYXRvcnMtY291bGQtdm90ZS1vbi1iaWxsLXdlZG5lc2RheS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3NhcmFkb3JuLzIwMjMvMDMvMjkvcmFuZC1wYXVsLW9wcG9zZXMtdGlrdG9rLWJhbi1pbi1icmVhay13aXRoLWdvcC1jb2xsZWFndWVzLWFzLXNlbmF0b3JzLWNvdWxkLXZvdGUtb24tYmlsbC13ZWRuZXNkYXkv0gGYAWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2FyYWRvcm4vMjAyMy8wMy8yOS9yYW5kLXBhdWwtb3Bwb3Nlcy10aWt0b2stYmFuLWluLWJyZWFrLXdpdGgtZ29wLWNvbGxlYWd1ZXMtYXMtc2VuYXRvcnMtY291bGQtdm90ZS1vbi1iaWxsLXdlZG5lc2RheS9hbXAv?oc=5\" target=\"_blank\">Rand Paul Opposes TikTok Ban In Break With GOP Colleagues—As Senators Could Vote On Bill Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'It isn't a mystery': Rand Paul discusses reasons behind inflation - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzA5LzE5Ly1pdC1pc24tdC1hLW15c3RlcnktLS1yYW5kLXBhdWwtZGlzY3Vzc2VzLXJlYXNvbnMtYmVoaW5kLWluZmxhdGlvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzA5LzE5Ly1pdC1pc24tdC1hLW15c3RlcnktLS1yYW5kLXBhdWwtZGlzY3Vzc2VzLXJlYXNvbnMtYmVoaW5kLWluZmxhdGlvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzA5LzE5Ly1pdC1pc24tdC1hLW15c3RlcnktLS1yYW5kLXBhdWwtZGlzY3Vzc2VzLXJlYXNvbnMtYmVoaW5kLWluZmxhdGlvbtIBAA?oc=5\" target=\"_blank\">'It isn't a mystery': Rand Paul discusses reasons behind inflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul doubts doctor after Mitch McConnell freezes in Kentucky - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDkvMDUvcmFuZC1wYXVsLW1pdGNoLW1jY29ubmVsbC1mcmVlemUvNzA3NzI0NjYwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDkvMDUvcmFuZC1wYXVsLW1pdGNoLW1jY29ubmVsbC1mcmVlemUvNzA3NzI0NjYwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDkvMDUvcmFuZC1wYXVsLW1pdGNoLW1jY29ubmVsbC1mcmVlemUvNzA3NzI0NjYwMDcv0gEA?oc=5\" target=\"_blank\">Rand Paul doubts doctor after Mitch McConnell freezes in Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘Festivus’ Airing Of Grievances By Sen. Rand Paul Spotlights Government Waste - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTIvZmVzdGl2dXMtYWlyaW5nLWdyaWV2YW5jZXMtc2VuYXRvci1yYW5kLXBhdWwtZ292ZXJubWVudC13YXN0ZS0xMjM0NjYxMTI0L9IBamh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTIvZmVzdGl2dXMtYWlyaW5nLWdyaWV2YW5jZXMtc2VuYXRvci1yYW5kLXBhdWwtZ292ZXJubWVudC13YXN0ZS0xMjM0NjYxMTI0L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTIvZmVzdGl2dXMtYWlyaW5nLWdyaWV2YW5jZXMtc2VuYXRvci1yYW5kLXBhdWwtZ292ZXJubWVudC13YXN0ZS0xMjM0NjYxMTI0L9IBamh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTIvZmVzdGl2dXMtYWlyaW5nLWdyaWV2YW5jZXMtc2VuYXRvci1yYW5kLXBhdWwtZ292ZXJubWVudC13YXN0ZS0xMjM0NjYxMTI0L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 23 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTIvZmVzdGl2dXMtYWlyaW5nLWdyaWV2YW5jZXMtc2VuYXRvci1yYW5kLXBhdWwtZ292ZXJubWVudC13YXN0ZS0xMjM0NjYxMTI0L9IBamh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTIvZmVzdGl2dXMtYWlyaW5nLWdyaWV2YW5jZXMtc2VuYXRvci1yYW5kLXBhdWwtZ292ZXJubWVudC13YXN0ZS0xMjM0NjYxMTI0L2FtcC8?oc=5\" target=\"_blank\">‘Festivus’ Airing Of Grievances By Sen. Rand Paul Spotlights Government Waste</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "KY’s Rand Paul again bucks his party on Israel in requesting a report on human rights - McClatchy Washington Bureau"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm1jY2xhdGNoeWRjLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDMzNTQyNC5odG1s0gFKaHR0cHM6Ly9hbXAubWNjbGF0Y2h5ZGMuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzM1NDI0Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3Lm1jY2xhdGNoeWRjLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDMzNTQyNC5odG1s0gFKaHR0cHM6Ly9hbXAubWNjbGF0Y2h5ZGMuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzM1NDI0Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm1jY2xhdGNoeWRjLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDMzNTQyNC5odG1s0gFKaHR0cHM6Ly9hbXAubWNjbGF0Y2h5ZGMuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzM1NDI0Lmh0bWw?oc=5\" target=\"_blank\">KY’s Rand Paul again bucks his party on Israel in requesting a report on human rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McClatchy Washington Bureau</font>"
+            ],
+            "source": [
+              {
+                "_": "McClatchy Washington Bureau",
+                "$": {
+                  "url": "https://www.mcclatchydc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul, AOC on the same side when it comes to TikTok ban - ABC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvcmFuZC1wYXVsLWFvYy1zYW1lLXNpZGUtdGlrdG9rLWJhbi9zdG9yeT9pZD05ODI0MDc5OdIBWGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL3JhbmQtcGF1bC1hb2Mtc2FtZS1zaWRlLXRpa3Rvay1iYW4vc3Rvcnk_aWQ9OTgyNDA3OTk?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvcmFuZC1wYXVsLWFvYy1zYW1lLXNpZGUtdGlrdG9rLWJhbi9zdG9yeT9pZD05ODI0MDc5OdIBWGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL3JhbmQtcGF1bC1hb2Mtc2FtZS1zaWRlLXRpa3Rvay1iYW4vc3Rvcnk_aWQ9OTgyNDA3OTk",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvcmFuZC1wYXVsLWFvYy1zYW1lLXNpZGUtdGlrdG9rLWJhbi9zdG9yeT9pZD05ODI0MDc5OdIBWGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL3JhbmQtcGF1bC1hb2Mtc2FtZS1zaWRlLXRpa3Rvay1iYW4vc3Rvcnk_aWQ9OTgyNDA3OTk?oc=5\" target=\"_blank\">Rand Paul, AOC on the same side when it comes to TikTok ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC News",
+                "$": {
+                  "url": "https://abcnews.go.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Blinken pushes against Rand Paul's blanket hold on diplomatic nominees, urges Senate to confirm them - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYmxpbmtlbi1yYW5kLXBhdWwtaG9sZC1kaXBsb21hdGljLW5vbWluZWVzL9IBTGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2JsaW5rZW4tcmFuZC1wYXVsLWhvbGQtZGlwbG9tYXRpYy1ub21pbmVlcy8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYmxpbmtlbi1yYW5kLXBhdWwtaG9sZC1kaXBsb21hdGljLW5vbWluZWVzL9IBTGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2JsaW5rZW4tcmFuZC1wYXVsLWhvbGQtZGlwbG9tYXRpYy1ub21pbmVlcy8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYmxpbmtlbi1yYW5kLXBhdWwtaG9sZC1kaXBsb21hdGljLW5vbWluZWVzL9IBTGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2JsaW5rZW4tcmFuZC1wYXVsLWhvbGQtZGlwbG9tYXRpYy1ub21pbmVlcy8?oc=5\" target=\"_blank\">Blinken pushes against Rand Paul's blanket hold on diplomatic nominees, urges Senate to confirm them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "#NeverNikki: Rand Paul launches Haley takedown campaign - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdGhlaGlsbC5jb20vdmlkZW8vbmV2ZXJuaWtraS1yYW5kLXBhdWwtbGF1bmNoZXMtaGFsZXktdGFrZWRvd24tY2FtcGFpZ24vOTMyNTI3MC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vdGhlaGlsbC5jb20vdmlkZW8vbmV2ZXJuaWtraS1yYW5kLXBhdWwtbGF1bmNoZXMtaGFsZXktdGFrZWRvd24tY2FtcGFpZ24vOTMyNTI3MC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdGhlaGlsbC5jb20vdmlkZW8vbmV2ZXJuaWtraS1yYW5kLXBhdWwtbGF1bmNoZXMtaGFsZXktdGFrZWRvd24tY2FtcGFpZ24vOTMyNTI3MC_SAQA?oc=5\" target=\"_blank\">#NeverNikki: Rand Paul launches Haley takedown campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate votes to keep US troops in Syria amid Iran-backed attacks - Defense News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9jb25ncmVzcy8yMDIzLzEyLzA3L3NlbmF0ZS12b3Rlcy10by1rZWVwLXVzLXRyb29wcy1pbi1zeXJpYS1hbWlkLWlyYW4tYmFja2VkLWF0dGFja3Mv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9jb25ncmVzcy8yMDIzLzEyLzA3L3NlbmF0ZS12b3Rlcy10by1rZWVwLXVzLXRyb29wcy1pbi1zeXJpYS1hbWlkLWlyYW4tYmFja2VkLWF0dGFja3Mv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9jb25ncmVzcy8yMDIzLzEyLzA3L3NlbmF0ZS12b3Rlcy10by1rZWVwLXVzLXRyb29wcy1pbi1zeXJpYS1hbWlkLWlyYW4tYmFja2VkLWF0dGFja3Mv0gEA?oc=5\" target=\"_blank\">Senate votes to keep US troops in Syria amid Iran-backed attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defense News</font>"
+            ],
+            "source": [
+              {
+                "_": "Defense News",
+                "$": {
+                  "url": "https://www.defensenews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul Wants U.S. Troops Out of Niger - The Intercept"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIzLzEwLzI1L25pZ2VyLW1pbGl0YXJ5LXJhbmQtcGF1bC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPWh0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIzLzEwLzI1L25pZ2VyLW1pbGl0YXJ5LXJhbmQtcGF1bC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDIzLzEwLzI1L25pZ2VyLW1pbGl0YXJ5LXJhbmQtcGF1bC_SAQA?oc=5\" target=\"_blank\">Rand Paul Wants U.S. Troops Out of Niger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Intercept</font>"
+            ],
+            "source": [
+              {
+                "_": "The Intercept",
+                "$": {
+                  "url": "https://theintercept.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul introduces bill to support funding for hunting and archery programs - WYMT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lnd5bXQuY29tLzIwMjMvMDkvMTUvc2VuLXJhbmQtcGF1bC1pbnRyb2R1Y2VzLWJpbGwtc3VwcG9ydC1mdW5kaW5nLWh1bnRpbmctYXJjaGVyeS1wcm9ncmFtcy_SAXZodHRwczovL3d3dy53eW10LmNvbS8yMDIzLzA5LzE1L3Nlbi1yYW5kLXBhdWwtaW50cm9kdWNlcy1iaWxsLXN1cHBvcnQtZnVuZGluZy1odW50aW5nLWFyY2hlcnktcHJvZ3JhbXMvP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lnd5bXQuY29tLzIwMjMvMDkvMTUvc2VuLXJhbmQtcGF1bC1pbnRyb2R1Y2VzLWJpbGwtc3VwcG9ydC1mdW5kaW5nLWh1bnRpbmctYXJjaGVyeS1wcm9ncmFtcy_SAXZodHRwczovL3d3dy53eW10LmNvbS8yMDIzLzA5LzE1L3Nlbi1yYW5kLXBhdWwtaW50cm9kdWNlcy1iaWxsLXN1cHBvcnQtZnVuZGluZy1odW50aW5nLWFyY2hlcnktcHJvZ3JhbXMvP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lnd5bXQuY29tLzIwMjMvMDkvMTUvc2VuLXJhbmQtcGF1bC1pbnRyb2R1Y2VzLWJpbGwtc3VwcG9ydC1mdW5kaW5nLWh1bnRpbmctYXJjaGVyeS1wcm9ncmFtcy_SAXZodHRwczovL3d3dy53eW10LmNvbS8yMDIzLzA5LzE1L3Nlbi1yYW5kLXBhdWwtaW50cm9kdWNlcy1iaWxsLXN1cHBvcnQtZnVuZGluZy1odW50aW5nLWFyY2hlcnktcHJvZ3JhbXMvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">Sen. Rand Paul introduces bill to support funding for hunting and archery programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WYMT</font>"
+            ],
+            "source": [
+              {
+                "_": "WYMT",
+                "$": {
+                  "url": "https://www.wymt.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Paul: On Ukraine, State Department sounds like 'department of war' - Responsible Statecraft"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy9yYW5kLXBhdWwtdWtyYWluZS1kaXBsb21hY3kv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPmh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy9yYW5kLXBhdWwtdWtyYWluZS1kaXBsb21hY3kv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 19:58:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy9yYW5kLXBhdWwtdWtyYWluZS1kaXBsb21hY3kv0gEA?oc=5\" target=\"_blank\">Sen. Paul: On Ukraine, State Department sounds like 'department of war'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Responsible Statecraft</font>"
+            ],
+            "source": [
+              {
+                "_": "Responsible Statecraft",
+                "$": {
+                  "url": "https://responsiblestatecraft.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senator Paul on Government Funding Past September 30 - C-SPAN "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMDU2Mi0zL3NlbmF0b3ItcGF1bC1nb3Zlcm5tZW50LWZ1bmRpbmctcGFzdC1zZXB0ZW1iZXItMzDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMDU2Mi0zL3NlbmF0b3ItcGF1bC1nb3Zlcm5tZW50LWZ1bmRpbmctcGFzdC1zZXB0ZW1iZXItMzDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMDU2Mi0zL3NlbmF0b3ItcGF1bC1nb3Zlcm5tZW50LWZ1bmRpbmctcGFzdC1zZXB0ZW1iZXItMzDSAQA?oc=5\" target=\"_blank\">Senator Paul on Government Funding Past September 30</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C-SPAN </font>"
+            ],
+            "source": [
+              {
+                "_": "C-SPAN ",
+                "$": {
+                  "url": "https://www.c-span.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul doesn’t rule out delaying government shutdown vote - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQzMDc5NzItcmFuZC1wYXVsLWRvZXNudC1ydWxlLW91dC1kZWxheWluZy1nb3Zlcm5tZW50LXNodXRkb3duLXZvdGUv0gFsaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDMwNzk3Mi1yYW5kLXBhdWwtZG9lc250LXJ1bGUtb3V0LWRlbGF5aW5nLWdvdmVybm1lbnQtc2h1dGRvd24tdm90ZS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQzMDc5NzItcmFuZC1wYXVsLWRvZXNudC1ydWxlLW91dC1kZWxheWluZy1nb3Zlcm5tZW50LXNodXRkb3duLXZvdGUv0gFsaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDMwNzk3Mi1yYW5kLXBhdWwtZG9lc250LXJ1bGUtb3V0LWRlbGF5aW5nLWdvdmVybm1lbnQtc2h1dGRvd24tdm90ZS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQzMDc5NzItcmFuZC1wYXVsLWRvZXNudC1ydWxlLW91dC1kZWxheWluZy1nb3Zlcm5tZW50LXNodXRkb3duLXZvdGUv0gFsaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDMwNzk3Mi1yYW5kLXBhdWwtZG9lc250LXJ1bGUtb3V0LWRlbGF5aW5nLWdvdmVybm1lbnQtc2h1dGRvd24tdm90ZS9hbXAv?oc=5\" target=\"_blank\">Rand Paul doesn’t rule out delaying government shutdown vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul introduces Educating Responsible Future Hunters Act - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzA5LzIwL3Nlbi0tcmFuZC1wYXVsLWludHJvZHVjZXMtZWR1Y2F0aW5nLXJlc3BvbnNpYmxlLWZ1dHVyZS1odW50ZXJzLWFjdNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzA5LzIwL3Nlbi0tcmFuZC1wYXVsLWludHJvZHVjZXMtZWR1Y2F0aW5nLXJlc3BvbnNpYmxlLWZ1dHVyZS1odW50ZXJzLWFjdNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzA5LzIwL3Nlbi0tcmFuZC1wYXVsLWludHJvZHVjZXMtZWR1Y2F0aW5nLXJlc3BvbnNpYmxlLWZ1dHVyZS1odW50ZXJzLWFjdNIBAA?oc=5\" target=\"_blank\">Sen. Rand Paul introduces Educating Responsible Future Hunters Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul: What is Zelenskyy doing here? - Fox Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS92aWRlby82MzQyOTkyNTI2MTEy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiL2h0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS92aWRlby82MzQyOTkyNTI2MTEy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS92aWRlby82MzQyOTkyNTI2MTEy0gEA?oc=5\" target=\"_blank\">Rand Paul: What is Zelenskyy doing here?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox Business",
+                "$": {
+                  "url": "https://www.foxbusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fact Check: Image of Senator Rand Paul in a red bathrobe is AI-generated - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2ZhY3QtY2hlY2svaW1hZ2Utc2VuYXRvci1yYW5kLXBhdWwtcmVkLWJhdGhyb2JlLWlzLWFpLWdlbmVyYXRlZC0yMDIzLTA5LTI4L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2ZhY3QtY2hlY2svaW1hZ2Utc2VuYXRvci1yYW5kLXBhdWwtcmVkLWJhdGhyb2JlLWlzLWFpLWdlbmVyYXRlZC0yMDIzLTA5LTI4L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2ZhY3QtY2hlY2svaW1hZ2Utc2VuYXRvci1yYW5kLXBhdWwtcmVkLWJhdGhyb2JlLWlzLWFpLWdlbmVyYXRlZC0yMDIzLTA5LTI4L9IBAA?oc=5\" target=\"_blank\">Fact Check: Image of Senator Rand Paul in a red bathrobe is AI-generated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Paul will hold up any spending stopgap that includes Ukraine funding - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQyMTM3MzItcGF1bC13aWxsLWhvbGQtdXAtYW55LXNwZW5kaW5nLXN0b3BnYXAtdGhhdC1pbmNsdWRlcy11a3JhaW5lLWZ1bmRpbmcv0gF1aHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDIxMzczMi1wYXVsLXdpbGwtaG9sZC11cC1hbnktc3BlbmRpbmctc3RvcGdhcC10aGF0LWluY2x1ZGVzLXVrcmFpbmUtZnVuZGluZy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQyMTM3MzItcGF1bC13aWxsLWhvbGQtdXAtYW55LXNwZW5kaW5nLXN0b3BnYXAtdGhhdC1pbmNsdWRlcy11a3JhaW5lLWZ1bmRpbmcv0gF1aHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDIxMzczMi1wYXVsLXdpbGwtaG9sZC11cC1hbnktc3BlbmRpbmctc3RvcGdhcC10aGF0LWluY2x1ZGVzLXVrcmFpbmUtZnVuZGluZy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQyMTM3MzItcGF1bC13aWxsLWhvbGQtdXAtYW55LXNwZW5kaW5nLXN0b3BnYXAtdGhhdC1pbmNsdWRlcy11a3JhaW5lLWZ1bmRpbmcv0gF1aHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDIxMzczMi1wYXVsLXdpbGwtaG9sZC11cC1hbnktc3BlbmRpbmctc3RvcGdhcC10aGF0LWluY2x1ZGVzLXVrcmFpbmUtZnVuZGluZy9hbXAv?oc=5\" target=\"_blank\">Paul will hold up any spending stopgap that includes Ukraine funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul Hits Donald Trump and Republican Colleagues in Holiday Rant - Newsweek"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9yYW5kLXBhdWwtaGl0cy1kb25hbGQtdHJ1bXAtcmVwdWJsaWNhbi1jb2xsZWFndWVzLWhvbGlkYXktcmFudC0xODU1Mjkw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9yYW5kLXBhdWwtaGl0cy1kb25hbGQtdHJ1bXAtcmVwdWJsaWNhbi1jb2xsZWFndWVzLWhvbGlkYXktcmFudC0xODU1Mjkw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 25 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9yYW5kLXBhdWwtaGl0cy1kb25hbGQtdHJ1bXAtcmVwdWJsaWNhbi1jb2xsZWFndWVzLWhvbGlkYXktcmFudC0xODU1Mjkw0gEA?oc=5\" target=\"_blank\">Rand Paul Hits Donald Trump and Republican Colleagues in Holiday Rant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>"
+            ],
+            "source": [
+              {
+                "_": "Newsweek",
+                "$": {
+                  "url": "https://www.newsweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul performs Heimlich maneuver on Joni Ernst amid emergency - Scripps News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc2NyaXBwc25ld3MuY29tL3N0b3JpZXMvc2VuLXJhbmQtcGF1bC1wZXJmb3Jtcy1oZWltbGljaC1tYW5ldXZlci1vbi1qb25pLWVybnN0LWFtaWQtZW1lcmdlbmN5L9IBamh0dHBzOi8vc2NyaXBwc25ld3MuY29tL2FtcC9zdG9yaWVzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybXMtaGVpbWxpY2gtbWFuZXV2ZXItb24tam9uaS1lcm5zdC1hbWlkLWVtZXJnZW5jeS8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vc2NyaXBwc25ld3MuY29tL3N0b3JpZXMvc2VuLXJhbmQtcGF1bC1wZXJmb3Jtcy1oZWltbGljaC1tYW5ldXZlci1vbi1qb25pLWVybnN0LWFtaWQtZW1lcmdlbmN5L9IBamh0dHBzOi8vc2NyaXBwc25ld3MuY29tL2FtcC9zdG9yaWVzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybXMtaGVpbWxpY2gtbWFuZXV2ZXItb24tam9uaS1lcm5zdC1hbWlkLWVtZXJnZW5jeS8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc2NyaXBwc25ld3MuY29tL3N0b3JpZXMvc2VuLXJhbmQtcGF1bC1wZXJmb3Jtcy1oZWltbGljaC1tYW5ldXZlci1vbi1qb25pLWVybnN0LWFtaWQtZW1lcmdlbmN5L9IBamh0dHBzOi8vc2NyaXBwc25ld3MuY29tL2FtcC9zdG9yaWVzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybXMtaGVpbWxpY2gtbWFuZXV2ZXItb24tam9uaS1lcm5zdC1hbWlkLWVtZXJnZW5jeS8?oc=5\" target=\"_blank\">Sen. Rand Paul performs Heimlich maneuver on Joni Ernst amid emergency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scripps News</font>"
+            ],
+            "source": [
+              {
+                "_": "Scripps News",
+                "$": {
+                  "url": "https://scrippsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul uses Heimlich maneuver on Joni Ernst - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzEyLzAxL2VybnN0LXBhdWwtaGVpbWxpY2gtc2VuYXRlLWNob2tpbmfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzEyLzAxL2VybnN0LXBhdWwtaGVpbWxpY2gtc2VuYXRlLWNob2tpbmfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzEyLzAxL2VybnN0LXBhdWwtaGVpbWxpY2gtc2VuYXRlLWNob2tpbmfSAQA?oc=5\" target=\"_blank\">Rand Paul uses Heimlich maneuver on Joni Ernst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul: Biden ‘bluffing’ with threat to veto House GOP bill on Israel aid - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQyODczMjItcmFuZC1wYXVsLWJpZGVuLWJsdWZmaW5nLXZldG8tdGhyZWF0LWlzcmFlbC1haWQv0gFgaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDI4NzMyMi1yYW5kLXBhdWwtYmlkZW4tYmx1ZmZpbmctdmV0by10aHJlYXQtaXNyYWVsLWFpZC9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQyODczMjItcmFuZC1wYXVsLWJpZGVuLWJsdWZmaW5nLXZldG8tdGhyZWF0LWlzcmFlbC1haWQv0gFgaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDI4NzMyMi1yYW5kLXBhdWwtYmlkZW4tYmx1ZmZpbmctdmV0by10aHJlYXQtaXNyYWVsLWFpZC9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 01 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQyODczMjItcmFuZC1wYXVsLWJpZGVuLWJsdWZmaW5nLXZldG8tdGhyZWF0LWlzcmFlbC1haWQv0gFgaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDI4NzMyMi1yYW5kLXBhdWwtYmlkZW4tYmx1ZmZpbmctdmV0by10aHJlYXQtaXNyYWVsLWFpZC9hbXAv?oc=5\" target=\"_blank\">Rand Paul: Biden ‘bluffing’ with threat to veto House GOP bill on Israel aid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul praises Louisville-area lawmakers' efforts on anti-crime bill - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTE4L3Nlbi1yYW5kLXBhdWwtcHJhaXNlcy1sb3Vpc3ZpbGxlLWFyZWEtbGF3bWFrZXJzLWVmZm9ydHMtb24tYW50aS1jcmltZS1iaWxs0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTE4L3Nlbi1yYW5kLXBhdWwtcHJhaXNlcy1sb3Vpc3ZpbGxlLWFyZWEtbGF3bWFrZXJzLWVmZm9ydHMtb24tYW50aS1jcmltZS1iaWxs0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTE4L3Nlbi1yYW5kLXBhdWwtcHJhaXNlcy1sb3Vpc3ZpbGxlLWFyZWEtbGF3bWFrZXJzLWVmZm9ydHMtb24tYW50aS1jcmltZS1iaWxs0gEA?oc=5\" target=\"_blank\">Sen. Rand Paul praises Louisville-area lawmakers' efforts on anti-crime bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul discusses key issues facing Americans - WYMT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lnd5bXQuY29tL3ZpZGVvLzIwMjQvMDEvMTEvc2VuLXJhbmQtcGF1bC1kaXNjdXNzZXMta2V5LWlzc3Vlcy1mYWNpbmctYW1lcmljYW5zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3Lnd5bXQuY29tL3ZpZGVvLzIwMjQvMDEvMTEvc2VuLXJhbmQtcGF1bC1kaXNjdXNzZXMta2V5LWlzc3Vlcy1mYWNpbmctYW1lcmljYW5zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 Jan 2024 22:44:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lnd5bXQuY29tL3ZpZGVvLzIwMjQvMDEvMTEvc2VuLXJhbmQtcGF1bC1kaXNjdXNzZXMta2V5LWlzc3Vlcy1mYWNpbmctYW1lcmljYW5zL9IBAA?oc=5\" target=\"_blank\">Sen. Rand Paul discusses key issues facing Americans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WYMT</font>"
+            ],
+            "source": [
+              {
+                "_": "WYMT",
+                "$": {
+                  "url": "https://www.wymt.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul: My colleagues are 'beating the drums' for 'war with China' - Responsible Statecraft"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy8yMDIzLzA2LzA4L3Nlbi1yYW5kLXBhdWwtbXktY29sbGVhZ3Vlcy1hcmUtYmVhdGluZy10aGUtZHJ1bXMtZm9yLXdhci13aXRoLWNoaW5hL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy8yMDIzLzA2LzA4L3Nlbi1yYW5kLXBhdWwtbXktY29sbGVhZ3Vlcy1hcmUtYmVhdGluZy10aGUtZHJ1bXMtZm9yLXdhci13aXRoLWNoaW5hL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vcmVzcG9uc2libGVzdGF0ZWNyYWZ0Lm9yZy8yMDIzLzA2LzA4L3Nlbi1yYW5kLXBhdWwtbXktY29sbGVhZ3Vlcy1hcmUtYmVhdGluZy10aGUtZHJ1bXMtZm9yLXdhci13aXRoLWNoaW5hL9IBAA?oc=5\" target=\"_blank\">Sen. Rand Paul: My colleagues are 'beating the drums' for 'war with China'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Responsible Statecraft</font>"
+            ],
+            "source": [
+              {
+                "_": "Responsible Statecraft",
+                "$": {
+                  "url": "https://responsiblestatecraft.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Man charged with stabbing Rand Paul staffer to be moved to mental facility - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzA5LzA4L3JhbmQtcGF1bC1zdGFmZmVyLWF0dGFjay1tZW50YWwtZmFjaWxpdHkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzA5LzA4L3JhbmQtcGF1bC1zdGFmZmVyLWF0dGFjay1tZW50YWwtZmFjaWxpdHkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzA5LzA4L3JhbmQtcGF1bC1zdGFmZmVyLWF0dGFjay1tZW50YWwtZmFjaWxpdHkv0gEA?oc=5\" target=\"_blank\">Man charged with stabbing Rand Paul staffer to be moved to mental facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Playbook PM: Rand Paul has more to say about McConnell's health - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzbGV0dGVycy9wbGF5Ym9vay1wbS8yMDIzLzA5LzA2L3JhbmQtcGF1bC1oYXMtbW9yZS10by1zYXktYWJvdXQtbWNjb25uZWxscy1oZWFsdGgtMDAxMTQyNTfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzbGV0dGVycy9wbGF5Ym9vay1wbS8yMDIzLzA5LzA2L3JhbmQtcGF1bC1oYXMtbW9yZS10by1zYXktYWJvdXQtbWNjb25uZWxscy1oZWFsdGgtMDAxMTQyNTfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzbGV0dGVycy9wbGF5Ym9vay1wbS8yMDIzLzA5LzA2L3JhbmQtcGF1bC1oYXMtbW9yZS10by1zYXktYWJvdXQtbWNjb25uZWxscy1oZWFsdGgtMDAxMTQyNTfSAQA?oc=5\" target=\"_blank\">Playbook PM: Rand Paul has more to say about McConnell's health</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Government’s involvement in censorship a ‘grave threat to our republic,’ says Sen. Rand Paul - Fox Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9nb3Zlcm5tZW50cy1pbnZvbHZlbWVudC1jZW5zb3JzaGlwLWdyYXZlLXRocmVhdC1vdXItcmVwdWJsaWMtc2VuLXJhbmQtcGF1bNIBcGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9nb3Zlcm5tZW50cy1pbnZvbHZlbWVudC1jZW5zb3JzaGlwLWdyYXZlLXRocmVhdC1vdXItcmVwdWJsaWMtc2VuLXJhbmQtcGF1bC5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9nb3Zlcm5tZW50cy1pbnZvbHZlbWVudC1jZW5zb3JzaGlwLWdyYXZlLXRocmVhdC1vdXItcmVwdWJsaWMtc2VuLXJhbmQtcGF1bNIBcGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9nb3Zlcm5tZW50cy1pbnZvbHZlbWVudC1jZW5zb3JzaGlwLWdyYXZlLXRocmVhdC1vdXItcmVwdWJsaWMtc2VuLXJhbmQtcGF1bC5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9nb3Zlcm5tZW50cy1pbnZvbHZlbWVudC1jZW5zb3JzaGlwLWdyYXZlLXRocmVhdC1vdXItcmVwdWJsaWMtc2VuLXJhbmQtcGF1bNIBcGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9nb3Zlcm5tZW50cy1pbnZvbHZlbWVudC1jZW5zb3JzaGlwLWdyYXZlLXRocmVhdC1vdXItcmVwdWJsaWMtc2VuLXJhbmQtcGF1bC5hbXA?oc=5\" target=\"_blank\">Government’s involvement in censorship a ‘grave threat to our republic,’ says Sen. Rand Paul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox Business",
+                "$": {
+                  "url": "https://www.foxbusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul serves as top Republican on Homeland Security Committee - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzAzLzIwL3JhbmQtcGF1bNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzAzLzIwL3JhbmQtcGF1bNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzAzLzIwL3JhbmQtcGF1bNIBAA?oc=5\" target=\"_blank\">Sen. Rand Paul serves as top Republican on Homeland Security Committee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul's 'Festivus Report' exposes $900B in government squander - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3JhbmQtcGF1bHMtZmVzdGl2dXMtcmVwb3J0LWV4cG9zZXMtOTAwYi1nb3Zlcm5tZW50LXNxdWFuZGVy0gFgaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvcmFuZC1wYXVscy1mZXN0aXZ1cy1yZXBvcnQtZXhwb3Nlcy05MDBiLWdvdmVybm1lbnQtc3F1YW5kZXIuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3JhbmQtcGF1bHMtZmVzdGl2dXMtcmVwb3J0LWV4cG9zZXMtOTAwYi1nb3Zlcm5tZW50LXNxdWFuZGVy0gFgaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvcmFuZC1wYXVscy1mZXN0aXZ1cy1yZXBvcnQtZXhwb3Nlcy05MDBiLWdvdmVybm1lbnQtc3F1YW5kZXIuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3JhbmQtcGF1bHMtZmVzdGl2dXMtcmVwb3J0LWV4cG9zZXMtOTAwYi1nb3Zlcm5tZW50LXNxdWFuZGVy0gFgaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvcmFuZC1wYXVscy1mZXN0aXZ1cy1yZXBvcnQtZXhwb3Nlcy05MDBiLWdvdmVybm1lbnQtc3F1YW5kZXIuYW1w?oc=5\" target=\"_blank\">Rand Paul's 'Festivus Report' exposes $900B in government squander</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "At U.S. Senate lunch, Rand Paul aids Joni Ernst in choking emergency - Commonwealth Journal's History"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5zb21lcnNldC1rZW50dWNreS5jb20va2VudHVja3kvYXQtdS1zLXNlbmF0ZS1sdW5jaC1yYW5kLXBhdWwtYWlkcy1qb25pLWVybnN0LWluLWNob2tpbmctZW1lcmdlbmN5L2FydGljbGVfNDQ3ZjViZTItOTA1MC0xMWVlLTljZDAtNWIxZDY0NDViMTBjLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinwFodHRwczovL3d3dy5zb21lcnNldC1rZW50dWNreS5jb20va2VudHVja3kvYXQtdS1zLXNlbmF0ZS1sdW5jaC1yYW5kLXBhdWwtYWlkcy1qb25pLWVybnN0LWluLWNob2tpbmctZW1lcmdlbmN5L2FydGljbGVfNDQ3ZjViZTItOTA1MC0xMWVlLTljZDAtNWIxZDY0NDViMTBjLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5zb21lcnNldC1rZW50dWNreS5jb20va2VudHVja3kvYXQtdS1zLXNlbmF0ZS1sdW5jaC1yYW5kLXBhdWwtYWlkcy1qb25pLWVybnN0LWluLWNob2tpbmctZW1lcmdlbmN5L2FydGljbGVfNDQ3ZjViZTItOTA1MC0xMWVlLTljZDAtNWIxZDY0NDViMTBjLmh0bWzSAQA?oc=5\" target=\"_blank\">At U.S. Senate lunch, Rand Paul aids Joni Ernst in choking emergency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commonwealth Journal's History</font>"
+            ],
+            "source": [
+              {
+                "_": "Commonwealth Journal's History",
+                "$": {
+                  "url": "https://www.somerset-kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand's Paul Adler Sings The Praises Of Making Rockland County Commercially Diverse As Warehouse Building ... - Rockland County Business Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimQFodHRwczovL3JjYml6am91cm5hbC5jb20vMjAyNC8wMS8yNS9yYW5kcy1wYXVsLWFkbGVyLXNpbmdzLXRoZS1wcmFpc2VzLW9mLW1ha2luZy1yb2NrbGFuZC1jb3VudHktY29tbWVyY2lhbGx5LWRpdmVyc2UtYXMtd2FyZWhvdXNlLWJ1aWxkaW5nLXByb2xpZmVyYXRlcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimQFodHRwczovL3JjYml6am91cm5hbC5jb20vMjAyNC8wMS8yNS9yYW5kcy1wYXVsLWFkbGVyLXNpbmdzLXRoZS1wcmFpc2VzLW9mLW1ha2luZy1yb2NrbGFuZC1jb3VudHktY29tbWVyY2lhbGx5LWRpdmVyc2UtYXMtd2FyZWhvdXNlLWJ1aWxkaW5nLXByb2xpZmVyYXRlcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 19:07:53 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimQFodHRwczovL3JjYml6am91cm5hbC5jb20vMjAyNC8wMS8yNS9yYW5kcy1wYXVsLWFkbGVyLXNpbmdzLXRoZS1wcmFpc2VzLW9mLW1ha2luZy1yb2NrbGFuZC1jb3VudHktY29tbWVyY2lhbGx5LWRpdmVyc2UtYXMtd2FyZWhvdXNlLWJ1aWxkaW5nLXByb2xpZmVyYXRlcy_SAQA?oc=5\" target=\"_blank\">Rand's Paul Adler Sings The Praises Of Making Rockland County Commercially Diverse As Warehouse Building ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rockland County Business Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Rockland County Business Journal",
+                "$": {
+                  "url": "https://rcbizjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fauci should go down in history as one of the worst people to ever hold public office: Rand Paul - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2ZhdWNpLXNob3VsZC1nby1kb3duLWhpc3Rvcnktb25lLXdvcnN0LXBlb3BsZS1ldmVyLWhvbGQtcHVibGljLW9mZmljZS1yYW5kLXBhdWzSAXFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9mYXVjaS1zaG91bGQtZ28tZG93bi1oaXN0b3J5LW9uZS13b3JzdC1wZW9wbGUtZXZlci1ob2xkLXB1YmxpYy1vZmZpY2UtcmFuZC1wYXVsLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2ZhdWNpLXNob3VsZC1nby1kb3duLWhpc3Rvcnktb25lLXdvcnN0LXBlb3BsZS1ldmVyLWhvbGQtcHVibGljLW9mZmljZS1yYW5kLXBhdWzSAXFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9mYXVjaS1zaG91bGQtZ28tZG93bi1oaXN0b3J5LW9uZS13b3JzdC1wZW9wbGUtZXZlci1ob2xkLXB1YmxpYy1vZmZpY2UtcmFuZC1wYXVsLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 10 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2ZhdWNpLXNob3VsZC1nby1kb3duLWhpc3Rvcnktb25lLXdvcnN0LXBlb3BsZS1ldmVyLWhvbGQtcHVibGljLW9mZmljZS1yYW5kLXBhdWzSAXFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9mYXVjaS1zaG91bGQtZ28tZG93bi1oaXN0b3J5LW9uZS13b3JzdC1wZW9wbGUtZXZlci1ob2xkLXB1YmxpYy1vZmZpY2UtcmFuZC1wYXVsLmFtcA?oc=5\" target=\"_blank\">Fauci should go down in history as one of the worst people to ever hold public office: Rand Paul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul Calls Into KY AM Talking AM For Every Vehicle - Radio Ink"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vcmFkaW9pbmsuY29tLzIwMjMvMTEvMDEvc2VuLXJhbmQtcGF1bC1jYWxscy1pbnRvLWt5LWFtLXRhbGtpbmctYW0tZm9yLWV2ZXJ5LXZlaGljbGUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vcmFkaW9pbmsuY29tLzIwMjMvMTEvMDEvc2VuLXJhbmQtcGF1bC1jYWxscy1pbnRvLWt5LWFtLXRhbGtpbmctYW0tZm9yLWV2ZXJ5LXZlaGljbGUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 01 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vcmFkaW9pbmsuY29tLzIwMjMvMTEvMDEvc2VuLXJhbmQtcGF1bC1jYWxscy1pbnRvLWt5LWFtLXRhbGtpbmctYW0tZm9yLWV2ZXJ5LXZlaGljbGUv0gEA?oc=5\" target=\"_blank\">Sen. Rand Paul Calls Into KY AM Talking AM For Every Vehicle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Ink</font>"
+            ],
+            "source": [
+              {
+                "_": "Radio Ink",
+                "$": {
+                  "url": "https://radioink.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Iowa Sen. Joni Ernst recovers after Sen. Rand Paul gives her Heimlich - Des Moines Register"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzExLzMwL2lvd2Etc2VuYXRvci1qb25pLWVybnN0LXJlY292ZXJzLWZyb20tY2hva2luZy1hZnRlci1oZWltbGljaC1tYW5ldXZlci1mcm9tLXNlbi1yYW5kLXBhdWwta2VudHVja3kvNzE3NTc2NjQwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzExLzMwL2lvd2Etc2VuYXRvci1qb25pLWVybnN0LXJlY292ZXJzLWZyb20tY2hva2luZy1hZnRlci1oZWltbGljaC1tYW5ldXZlci1mcm9tLXNlbi1yYW5kLXBhdWwta2VudHVja3kvNzE3NTc2NjQwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzExLzMwL2lvd2Etc2VuYXRvci1qb25pLWVybnN0LXJlY292ZXJzLWZyb20tY2hva2luZy1hZnRlci1oZWltbGljaC1tYW5ldXZlci1mcm9tLXNlbi1yYW5kLXBhdWwta2VudHVja3kvNzE3NTc2NjQwMDcv0gEA?oc=5\" target=\"_blank\">Iowa Sen. Joni Ernst recovers after Sen. Rand Paul gives her Heimlich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Des Moines Register</font>"
+            ],
+            "source": [
+              {
+                "_": "Des Moines Register",
+                "$": {
+                  "url": "https://www.desmoinesregister.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul blocks Josh Hawley's efforts to ban TikTok, joining one of the app's few defenders - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDMvMzAvcmFuZC1wYXVsLWpvc2gtaGF3bGV5LXRpa3Rvay1iYW4vMTE1Njk3ODMwMDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDMvMzAvcmFuZC1wYXVsLWpvc2gtaGF3bGV5LXRpa3Rvay1iYW4vMTE1Njk3ODMwMDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDMvMzAvcmFuZC1wYXVsLWpvc2gtaGF3bGV5LXRpa3Rvay1iYW4vMTE1Njk3ODMwMDIv0gEA?oc=5\" target=\"_blank\">Rand Paul blocks Josh Hawley's efforts to ban TikTok, joining one of the app's few defenders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rand Paul riles his GOP colleagues again — this time over TikTok - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDUvMDgvcmFuZC1wYXVsLWdvcC10aWt0b2stYmFuLTAwMDk1MzM30gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDUvMDgvcmFuZC1wYXVsLWdvcC10aWt0b2stYmFuLTAwMDk1MzM30gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDUvMDgvcmFuZC1wYXVsLWdvcC10aWt0b2stYmFuLTAwMDk1MzM30gEA?oc=5\" target=\"_blank\">Rand Paul riles his GOP colleagues again — this time over TikTok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

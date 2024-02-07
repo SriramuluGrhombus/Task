@@ -1,0 +1,1448 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Yolanda Holmes\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Yolanda+Holmes&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "National Healthy Skin Month: Tips for Glowing Skin - The Washington Informer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lndhc2hpbmd0b25pbmZvcm1lci5jb20vaGVhbHRoeS1za2luLWNhcmUtaGVyYmFsLW5hdHVyYWwv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3Lndhc2hpbmd0b25pbmZvcm1lci5jb20vaGVhbHRoeS1za2luLWNhcmUtaGVyYmFsLW5hdHVyYWwv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 29 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lndhc2hpbmd0b25pbmZvcm1lci5jb20vaGVhbHRoeS1za2luLWNhcmUtaGVyYmFsLW5hdHVyYWwv0gEA?oc=5\" target=\"_blank\">National Healthy Skin Month: Tips for Glowing Skin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Informer</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Informer",
+                "$": {
+                  "url": "https://www.washingtoninformer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrat challenges GOP’s Tricia Cotham in new Mecklenburg district - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vYXJ0aWNsZTI4Mjk3MjQwOC5odG1s0gFZaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi9hcnRpY2xlMjgyOTcyNDA4Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vYXJ0aWNsZTI4Mjk3MjQwOC5odG1s0gFZaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi9hcnRpY2xlMjgyOTcyNDA4Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vYXJ0aWNsZTI4Mjk3MjQwOC5odG1s0gFZaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi9hcnRpY2xlMjgyOTcyNDA4Lmh0bWw?oc=5\" target=\"_blank\">Democrat challenges GOP’s Tricia Cotham in new Mecklenburg district</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrat-turned-Republican Tricia Cotham draws a Democratic challenger - NC Newsline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmNuZXdzbGluZS5jb20vYnJpZWZzL2RlbW9jcmF0LXR1cm5lZC1yZXB1YmxpY2FuLXRyaWNpYS1jb3RoYW0tZHJhd3MtYS1kZW1vY3JhdGljLWNoYWxsZW5nZXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vbmNuZXdzbGluZS5jb20vYnJpZWZzL2RlbW9jcmF0LXR1cm5lZC1yZXB1YmxpY2FuLXRyaWNpYS1jb3RoYW0tZHJhd3MtYS1kZW1vY3JhdGljLWNoYWxsZW5nZXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmNuZXdzbGluZS5jb20vYnJpZWZzL2RlbW9jcmF0LXR1cm5lZC1yZXB1YmxpY2FuLXRyaWNpYS1jb3RoYW0tZHJhd3MtYS1kZW1vY3JhdGljLWNoYWxsZW5nZXIv0gEA?oc=5\" target=\"_blank\">Democrat-turned-Republican Tricia Cotham draws a Democratic challenger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NC Newsline</font>"
+            ],
+            "source": [
+              {
+                "_": "NC Newsline",
+                "$": {
+                  "url": "https://ncnewsline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrats line up to challenge Tricia Cotham, who gave Republicans a supermajority - WFAE"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMTItMTQvZGVtb2NyYXRzLWxpbmUtdXAtdG8tY2hhbGxlbmdlLXRyaWNpYS1jb3RoYW0td2hvLWdhdmUtcmVwdWJsaWNhbnMtYS1zdXBlcm1ham9yaXR50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMTItMTQvZGVtb2NyYXRzLWxpbmUtdXAtdG8tY2hhbGxlbmdlLXRyaWNpYS1jb3RoYW0td2hvLWdhdmUtcmVwdWJsaWNhbnMtYS1zdXBlcm1ham9yaXR50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMTItMTQvZGVtb2NyYXRzLWxpbmUtdXAtdG8tY2hhbGxlbmdlLXRyaWNpYS1jb3RoYW0td2hvLWdhdmUtcmVwdWJsaWNhbnMtYS1zdXBlcm1ham9yaXR50gEA?oc=5\" target=\"_blank\">Democrats line up to challenge Tricia Cotham, who gave Republicans a supermajority</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFAE</font>"
+            ],
+            "source": [
+              {
+                "_": "WFAE",
+                "$": {
+                  "url": "https://www.wfae.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Qaw'mane Wilson Hired Hit On His Mother Yolanda Holmes | Crime News - Oxygen"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm94eWdlbi5jb20vc2xlZXBpbmctd2l0aC1kZWF0aC9jcmltZS1uZXdzL3Fhd21hbmUtd2lsc29uLWhpcmVkLWhpdC1vbi1oaXMtbW90aGVyLXlvbGFuZGEtaG9sbWVz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3Lm94eWdlbi5jb20vc2xlZXBpbmctd2l0aC1kZWF0aC9jcmltZS1uZXdzL3Fhd21hbmUtd2lsc29uLWhpcmVkLWhpdC1vbi1oaXMtbW90aGVyLXlvbGFuZGEtaG9sbWVz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 13 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm94eWdlbi5jb20vc2xlZXBpbmctd2l0aC1kZWF0aC9jcmltZS1uZXdzL3Fhd21hbmUtd2lsc29uLWhpcmVkLWhpdC1vbi1oaXMtbW90aGVyLXlvbGFuZGEtaG9sbWVz0gEA?oc=5\" target=\"_blank\">Qaw'mane Wilson Hired Hit On His Mother Yolanda Holmes | Crime News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oxygen</font>"
+            ],
+            "source": [
+              {
+                "_": "Oxygen",
+                "$": {
+                  "url": "https://www.oxygen.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rapper convicted of having his mother murdered - BBC.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9uZXdzYmVhdC01MTM0OTEzNNIBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9uZXdzYmVhdC01MTM0OTEzNC5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9uZXdzYmVhdC01MTM0OTEzNNIBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9uZXdzYmVhdC01MTM0OTEzNC5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 02 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9uZXdzYmVhdC01MTM0OTEzNNIBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9uZXdzYmVhdC01MTM0OTEzNC5hbXA?oc=5\" target=\"_blank\">Rapper convicted of having his mother murdered</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC.com</font>"
+            ],
+            "source": [
+              {
+                "_": "BBC.com",
+                "$": {
+                  "url": "https://www.bbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bernice Shelling Obituary (1948 - 2023) - New Orleans, LA - The Times-Picayune - Obituaries"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvYmVybmljZS1zaGVsbGluZy1vYml0dWFyeT9pZD01MjQ0MzYwM9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvYmVybmljZS1zaGVsbGluZy1vYml0dWFyeT9pZD01MjQ0MzYwM9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Jul 2023 17:30:24 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvYmVybmljZS1zaGVsbGluZy1vYml0dWFyeT9pZD01MjQ0MzYwM9IBAA?oc=5\" target=\"_blank\">Bernice Shelling Obituary (1948 - 2023) - New Orleans, LA - The Times-Picayune</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Obituaries</font>"
+            ],
+            "source": [
+              {
+                "_": "Obituaries",
+                "$": {
+                  "url": "https://obits.nola.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Yolanda Winfield Obituary - Holmes Funeral Directors - 2023 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3lvbGFuZGEtd2luZmllbGQtb2JpdHVhcnk_aWQ9NTMwMDk0ODPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3lvbGFuZGEtd2luZmllbGQtb2JpdHVhcnk_aWQ9NTMwMDk0ODPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 31 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3lvbGFuZGEtd2luZmllbGQtb2JpdHVhcnk_aWQ9NTMwMDk0ODPSAQA?oc=5\" target=\"_blank\">Yolanda Winfield Obituary - Holmes Funeral Directors - 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrats React to Tricia Cotham's Decision to Switch Parties - Queen City Nerve"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vcWNuZXJ2ZS5jb20vZGVtb2NyYXRzLXJlYWN0LXRvLXRyaWNpYS1jb3RoYW1zLWRlY2lzaW9uLXRvLXN3aXRjaC1wYXJ0aWVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vcWNuZXJ2ZS5jb20vZGVtb2NyYXRzLXJlYWN0LXRvLXRyaWNpYS1jb3RoYW1zLWRlY2lzaW9uLXRvLXN3aXRjaC1wYXJ0aWVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vcWNuZXJ2ZS5jb20vZGVtb2NyYXRzLXJlYWN0LXRvLXRyaWNpYS1jb3RoYW1zLWRlY2lzaW9uLXRvLXN3aXRjaC1wYXJ0aWVzL9IBAA?oc=5\" target=\"_blank\">Democrats React to Tricia Cotham's Decision to Switch Parties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Queen City Nerve</font>"
+            ],
+            "source": [
+              {
+                "_": "Queen City Nerve",
+                "$": {
+                  "url": "https://qcnerve.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Aspiring rapper gets 99 years in prison for paying friend to kill mother; gunman gets 100 - Chicago Sun-Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL2NoaWNhZ28uc3VudGltZXMuY29tL2NyaW1lLzIwMjAvMS8zMS8yMTExNzU0OS9xYXdtYW5lLXdpbHNvbi1zZW50ZW5jaW5nLWhpdG1hbi1tb3RoZXItbWF0cmljaWRlLXlvbGFuZGEtaG9sbWVzLWV1Z2VuZS1zcGVuY2Vy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL2NoaWNhZ28uc3VudGltZXMuY29tL2NyaW1lLzIwMjAvMS8zMS8yMTExNzU0OS9xYXdtYW5lLXdpbHNvbi1zZW50ZW5jaW5nLWhpdG1hbi1tb3RoZXItbWF0cmljaWRlLXlvbGFuZGEtaG9sbWVzLWV1Z2VuZS1zcGVuY2Vy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 31 Jan 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL2NoaWNhZ28uc3VudGltZXMuY29tL2NyaW1lLzIwMjAvMS8zMS8yMTExNzU0OS9xYXdtYW5lLXdpbHNvbi1zZW50ZW5jaW5nLWhpdG1hbi1tb3RoZXItbWF0cmljaWRlLXlvbGFuZGEtaG9sbWVzLWV1Z2VuZS1zcGVuY2Vy0gEA?oc=5\" target=\"_blank\">Aspiring rapper gets 99 years in prison for paying friend to kill mother; gunman gets 100</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Sun-Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Chicago Sun-Times",
+                "$": {
+                  "url": "https://chicago.suntimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Qaw'mane Wilson, aka Young QC, Lived Life of Luxury After Mom's Murder - DNAinfo"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMDkvY2hpY2Fnby9xYXdtYW5lLXdpbHNvbi1ha2EteW91bmctcWMtbGl2ZWQtbGlmZS1vZi1sdXh1cnktYWZ0ZXItbW9tcy1tdXJkZXLSAXdodHRwczovL3d3dy5kbmFpbmZvLmNvbS9jaGljYWdvLzIwMTQwMTA5L2NoaWNhZ28vcWF3bWFuZS13aWxzb24tYWthLXlvdW5nLXFjLWxpdmVkLWxpZmUtb2YtbHV4dXJ5LWFmdGVyLW1vbXMtbXVyZGVyLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMDkvY2hpY2Fnby9xYXdtYW5lLXdpbHNvbi1ha2EteW91bmctcWMtbGl2ZWQtbGlmZS1vZi1sdXh1cnktYWZ0ZXItbW9tcy1tdXJkZXLSAXdodHRwczovL3d3dy5kbmFpbmZvLmNvbS9jaGljYWdvLzIwMTQwMTA5L2NoaWNhZ28vcWF3bWFuZS13aWxzb24tYWthLXlvdW5nLXFjLWxpdmVkLWxpZmUtb2YtbHV4dXJ5LWFmdGVyLW1vbXMtbXVyZGVyLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Jan 2014 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMDkvY2hpY2Fnby9xYXdtYW5lLXdpbHNvbi1ha2EteW91bmctcWMtbGl2ZWQtbGlmZS1vZi1sdXh1cnktYWZ0ZXItbW9tcy1tdXJkZXLSAXdodHRwczovL3d3dy5kbmFpbmZvLmNvbS9jaGljYWdvLzIwMTQwMTA5L2NoaWNhZ28vcWF3bWFuZS13aWxzb24tYWthLXlvdW5nLXFjLWxpdmVkLWxpZmUtb2YtbHV4dXJ5LWFmdGVyLW1vbXMtbXVyZGVyLmFtcA?oc=5\" target=\"_blank\">Qaw'mane Wilson, aka Young QC, Lived Life of Luxury After Mom's Murder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DNAinfo</font>"
+            ],
+            "source": [
+              {
+                "_": "DNAinfo",
+                "$": {
+                  "url": "https://www.dnainfo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Aspiring Chicago Rapper Sentenced To 99 Years In Jail For Mother's Murder-For-Hire Killing - Investigation Discovery"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmludmVzdGlnYXRpb25kaXNjb3ZlcnkuY29tL2NyaW1lZmVlZC9tdXJkZXIvYXNwaXJpbmctY2hpY2Fnby1yYXBwZXItc2VudGVuY2VkLXRvLTk5LXllYXJzLWluLW1vdGhlci1zLW11cmRlctIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmludmVzdGlnYXRpb25kaXNjb3ZlcnkuY29tL2NyaW1lZmVlZC9tdXJkZXIvYXNwaXJpbmctY2hpY2Fnby1yYXBwZXItc2VudGVuY2VkLXRvLTk5LXllYXJzLWluLW1vdGhlci1zLW11cmRlctIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmludmVzdGlnYXRpb25kaXNjb3ZlcnkuY29tL2NyaW1lZmVlZC9tdXJkZXIvYXNwaXJpbmctY2hpY2Fnby1yYXBwZXItc2VudGVuY2VkLXRvLTk5LXllYXJzLWluLW1vdGhlci1zLW11cmRlctIBAA?oc=5\" target=\"_blank\">Aspiring Chicago Rapper Sentenced To 99 Years In Jail For Mother's Murder-For-Hire Killing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investigation Discovery</font>"
+            ],
+            "source": [
+              {
+                "_": "Investigation Discovery",
+                "$": {
+                  "url": "https://www.investigationdiscovery.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "An aspiring rapper sought fame and fortune. So he had a hit man kill his mom to inherit her savings, prosecutors say. - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMC8wMi8wMy9yYXBwZXItaGl0bWFuLW1vdGhlci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMC8wMi8wMy9yYXBwZXItaGl0bWFuLW1vdGhlci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 03 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMC8wMi8wMy9yYXBwZXItaGl0bWFuLW1vdGhlci_SAQA?oc=5\" target=\"_blank\">An aspiring rapper sought fame and fortune. So he had a hit man kill his mom to inherit her savings, prosecutors say.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Chicago man sentenced to 99 years in mother's murder-for-hire killing - KOKI FOX 23 TULSA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5mb3gyMy5jb20vbmV3cy90cmVuZGluZy9jaGljYWdvLW1hbi1zZW50ZW5jZWQtdG8tOTkteWVhcnMtaW4tbW90aGVyLXMtbXVyZGVyLWZvci1oaXJlLWtpbGxpbmcvYXJ0aWNsZV8zOTc5MjNkNy02NGE5LTVkMTUtOTUzMy1mM2FjODM1YjliNDguaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimwFodHRwczovL3d3dy5mb3gyMy5jb20vbmV3cy90cmVuZGluZy9jaGljYWdvLW1hbi1zZW50ZW5jZWQtdG8tOTkteWVhcnMtaW4tbW90aGVyLXMtbXVyZGVyLWZvci1oaXJlLWtpbGxpbmcvYXJ0aWNsZV8zOTc5MjNkNy02NGE5LTVkMTUtOTUzMy1mM2FjODM1YjliNDguaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 03 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5mb3gyMy5jb20vbmV3cy90cmVuZGluZy9jaGljYWdvLW1hbi1zZW50ZW5jZWQtdG8tOTkteWVhcnMtaW4tbW90aGVyLXMtbXVyZGVyLWZvci1oaXJlLWtpbGxpbmcvYXJ0aWNsZV8zOTc5MjNkNy02NGE5LTVkMTUtOTUzMy1mM2FjODM1YjliNDguaHRtbNIBAA?oc=5\" target=\"_blank\">Chicago man sentenced to 99 years in mother's murder-for-hire killing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOKI FOX 23 TULSA</font>"
+            ],
+            "source": [
+              {
+                "_": "KOKI FOX 23 TULSA",
+                "$": {
+                  "url": "https://www.fox23.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Son, 24, and two friends 'murdered his hairdresser mother for life insurance cash and $90,000 in bank accounts - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTI1MjkwNjMvU29uLTI0LXR3by1mcmllbmRzLW11cmRlcmVkLWhhaXJkcmVzc2VyLW1vdGhlci1saWZlLWluc3VyYW5jZS1jYXNoLTkwLTAwMC1iYW5rLWFjY291bnRzLmh0bWzSAZEBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0yNTI5MDYzL2FtcC9Tb24tMjQtdHdvLWZyaWVuZHMtbXVyZGVyZWQtaGFpcmRyZXNzZXItbW90aGVyLWxpZmUtaW5zdXJhbmNlLWNhc2gtOTAtMDAwLWJhbmstYWNjb3VudHMuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTI1MjkwNjMvU29uLTI0LXR3by1mcmllbmRzLW11cmRlcmVkLWhhaXJkcmVzc2VyLW1vdGhlci1saWZlLWluc3VyYW5jZS1jYXNoLTkwLTAwMC1iYW5rLWFjY291bnRzLmh0bWzSAZEBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0yNTI5MDYzL2FtcC9Tb24tMjQtdHdvLWZyaWVuZHMtbXVyZGVyZWQtaGFpcmRyZXNzZXItbW90aGVyLWxpZmUtaW5zdXJhbmNlLWNhc2gtOTAtMDAwLWJhbmstYWNjb3VudHMuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 Dec 2013 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTI1MjkwNjMvU29uLTI0LXR3by1mcmllbmRzLW11cmRlcmVkLWhhaXJkcmVzc2VyLW1vdGhlci1saWZlLWluc3VyYW5jZS1jYXNoLTkwLTAwMC1iYW5rLWFjY291bnRzLmh0bWzSAZEBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0yNTI5MDYzL2FtcC9Tb24tMjQtdHdvLWZyaWVuZHMtbXVyZGVyZWQtaGFpcmRyZXNzZXItbW90aGVyLWxpZmUtaW5zdXJhbmNlLWNhc2gtOTAtMDAwLWJhbmstYWNjb3VudHMuaHRtbA?oc=5\" target=\"_blank\">Son, 24, and two friends 'murdered his hairdresser mother for life insurance cash and $90,000 in bank accounts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'What's wrong with you?' detective asked man on trial for murdering his mother - Chicago Sun-Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzEvMTg0ODE2Nzcvd2hhdC1zLXdyb25nLXdpdGgteW91LWRldGVjdGl2ZS1hc2tlZC1tYW4tb24tdHJpYWwtZm9yLW11cmRlcmluZy1oaXMtbW90aGVy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzEvMTg0ODE2Nzcvd2hhdC1zLXdyb25nLXdpdGgteW91LWRldGVjdGl2ZS1hc2tlZC1tYW4tb24tdHJpYWwtZm9yLW11cmRlcmluZy1oaXMtbW90aGVy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Mar 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzEvMTg0ODE2Nzcvd2hhdC1zLXdyb25nLXdpdGgteW91LWRldGVjdGl2ZS1hc2tlZC1tYW4tb24tdHJpYWwtZm9yLW11cmRlcmluZy1oaXMtbW90aGVy0gEA?oc=5\" target=\"_blank\">'What's wrong with you?' detective asked man on trial for murdering his mother</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Sun-Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Chicago Sun-Times",
+                "$": {
+                  "url": "https://chicago.suntimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Watch Bad Blood | Sleeping With Death - Oxygen"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm94eWdlbi5jb20vc2xlZXBpbmctd2l0aC1kZWF0aC9zZWFzb24tMS9lcGlzb2RlLTMvYmFkLWJsb29k0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3Lm94eWdlbi5jb20vc2xlZXBpbmctd2l0aC1kZWF0aC9zZWFzb24tMS9lcGlzb2RlLTMvYmFkLWJsb29k0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 13 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm94eWdlbi5jb20vc2xlZXBpbmctd2l0aC1kZWF0aC9zZWFzb24tMS9lcGlzb2RlLTMvYmFkLWJsb29k0gEA?oc=5\" target=\"_blank\">Watch Bad Blood | Sleeping With Death</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oxygen</font>"
+            ],
+            "source": [
+              {
+                "_": "Oxygen",
+                "$": {
+                  "url": "https://www.oxygen.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Who is Yolanda Holmes, a Democratic candidate for N.C. House District 112? - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vdm90ZXItZ3VpZGUvYXJ0aWNsZTI2MDUwMjMxNy5odG1s0gFlaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi92b3Rlci1ndWlkZS9hcnRpY2xlMjYwNTAyMzE3Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vdm90ZXItZ3VpZGUvYXJ0aWNsZTI2MDUwMjMxNy5odG1s0gFlaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi92b3Rlci1ndWlkZS9hcnRpY2xlMjYwNTAyMzE3Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 22 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvZWxlY3Rpb24vdm90ZXItZ3VpZGUvYXJ0aWNsZTI2MDUwMjMxNy5odG1s0gFlaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9lbGVjdGlvbi92b3Rlci1ndWlkZS9hcnRpY2xlMjYwNTAyMzE3Lmh0bWw?oc=5\" target=\"_blank\">Who is Yolanda Holmes, a Democratic candidate for N.C. House District 112?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Son and hitman found guilty in murder-for-hire of Uptown hairstylist - Chicago Sun-Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzYvMTg0MTI5NzMvc29uLWFuZC1oaXRtYW4tZm91bmQtZ3VpbHR5LWluLW11cmRlci1mb3ItaGlyZS1vZi11cHRvd24taGFpcnN0eWxpc3TSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzYvMTg0MTI5NzMvc29uLWFuZC1oaXRtYW4tZm91bmQtZ3VpbHR5LWluLW11cmRlci1mb3ItaGlyZS1vZi11cHRvd24taGFpcnN0eWxpc3TSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Mar 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzYvMTg0MTI5NzMvc29uLWFuZC1oaXRtYW4tZm91bmQtZ3VpbHR5LWluLW11cmRlci1mb3ItaGlyZS1vZi11cHRvd24taGFpcnN0eWxpc3TSAQA?oc=5\" target=\"_blank\">Son and hitman found guilty in murder-for-hire of Uptown hairstylist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Sun-Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Chicago Sun-Times",
+                "$": {
+                  "url": "https://chicago.suntimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "16-year-old Tymeah James found safe | Update - ABC10.com KXTV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmFiYzEwLmNvbS9hcnRpY2xlL25ld3MvbG9jYWwvc2FjcmFtZW50by9zYWNyYW1lbnRvLWZhbWlseS1taXNzaW5nLXRlZW5hZ2VyLzEwMy0yOTllZjI2Yy02NmYyLTQ0MDgtODZjMC1hMzdiODRmY2E4YzXSAYMBaHR0cHM6Ly93d3cuYWJjMTAuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvc2FjcmFtZW50by9zYWNyYW1lbnRvLWZhbWlseS1taXNzaW5nLXRlZW5hZ2VyLzEwMy0yOTllZjI2Yy02NmYyLTQ0MDgtODZjMC1hMzdiODRmY2E4YzU?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3LmFiYzEwLmNvbS9hcnRpY2xlL25ld3MvbG9jYWwvc2FjcmFtZW50by9zYWNyYW1lbnRvLWZhbWlseS1taXNzaW5nLXRlZW5hZ2VyLzEwMy0yOTllZjI2Yy02NmYyLTQ0MDgtODZjMC1hMzdiODRmY2E4YzXSAYMBaHR0cHM6Ly93d3cuYWJjMTAuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvc2FjcmFtZW50by9zYWNyYW1lbnRvLWZhbWlseS1taXNzaW5nLXRlZW5hZ2VyLzEwMy0yOTllZjI2Yy02NmYyLTQ0MDgtODZjMC1hMzdiODRmY2E4YzU",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Sep 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmFiYzEwLmNvbS9hcnRpY2xlL25ld3MvbG9jYWwvc2FjcmFtZW50by9zYWNyYW1lbnRvLWZhbWlseS1taXNzaW5nLXRlZW5hZ2VyLzEwMy0yOTllZjI2Yy02NmYyLTQ0MDgtODZjMC1hMzdiODRmY2E4YzXSAYMBaHR0cHM6Ly93d3cuYWJjMTAuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvc2FjcmFtZW50by9zYWNyYW1lbnRvLWZhbWlseS1taXNzaW5nLXRlZW5hZ2VyLzEwMy0yOTllZjI2Yy02NmYyLTQ0MDgtODZjMC1hMzdiODRmY2E4YzU?oc=5\" target=\"_blank\">16-year-old Tymeah James found safe | Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC10.com KXTV</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC10.com KXTV",
+                "$": {
+                  "url": "https://www.abc10.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rapper hired hitman to kill his mom, used her cash to customize car, gets sentenced 99 years in jail - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTc5NTgxNDUvUmFwcGVyLWhpcmVkLWhpdG1hbi1raWxsLW1vbS11c2VkLWNhc2gtY3VzdG9taXplLWNhci1nZXRzLXNlbnRlbmNlZC05OS15ZWFycy1qYWlsLmh0bWzSAYsBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS03OTU4MTQ1L2FtcC9SYXBwZXItaGlyZWQtaGl0bWFuLWtpbGwtbW9tLXVzZWQtY2FzaC1jdXN0b21pemUtY2FyLWdldHMtc2VudGVuY2VkLTk5LXllYXJzLWphaWwuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTc5NTgxNDUvUmFwcGVyLWhpcmVkLWhpdG1hbi1raWxsLW1vbS11c2VkLWNhc2gtY3VzdG9taXplLWNhci1nZXRzLXNlbnRlbmNlZC05OS15ZWFycy1qYWlsLmh0bWzSAYsBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS03OTU4MTQ1L2FtcC9SYXBwZXItaGlyZWQtaGl0bWFuLWtpbGwtbW9tLXVzZWQtY2FzaC1jdXN0b21pemUtY2FyLWdldHMtc2VudGVuY2VkLTk5LXllYXJzLWphaWwuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 02 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTc5NTgxNDUvUmFwcGVyLWhpcmVkLWhpdG1hbi1raWxsLW1vbS11c2VkLWNhc2gtY3VzdG9taXplLWNhci1nZXRzLXNlbnRlbmNlZC05OS15ZWFycy1qYWlsLmh0bWzSAYsBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS03OTU4MTQ1L2FtcC9SYXBwZXItaGlyZWQtaGl0bWFuLWtpbGwtbW9tLXVzZWQtY2FzaC1jdXN0b21pemUtY2FyLWdldHMtc2VudGVuY2VkLTk5LXllYXJzLWphaWwuaHRtbA?oc=5\" target=\"_blank\">Rapper hired hitman to kill his mom, used her cash to customize car, gets sentenced 99 years in jail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Documents: Man Tells Cops 'Financial Gain' Was Reason for Murdering Mother - DNAinfo"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxMzEyMjQvdXB0b3duL3Nvbi1jaGFyZ2VkLXdpdGgtYXJyYW5naW5nLWhhdmUtbW9tLXVwdG93bi1zdHlsaXN0LW11cmRlcmVkLTIwMTLSAXRodHRwczovL3d3dy5kbmFpbmZvLmNvbS9jaGljYWdvLzIwMTMxMjI0L3VwdG93bi9zb24tY2hhcmdlZC13aXRoLWFycmFuZ2luZy1oYXZlLW1vbS11cHRvd24tc3R5bGlzdC1tdXJkZXJlZC0yMDEyLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxMzEyMjQvdXB0b3duL3Nvbi1jaGFyZ2VkLXdpdGgtYXJyYW5naW5nLWhhdmUtbW9tLXVwdG93bi1zdHlsaXN0LW11cmRlcmVkLTIwMTLSAXRodHRwczovL3d3dy5kbmFpbmZvLmNvbS9jaGljYWdvLzIwMTMxMjI0L3VwdG93bi9zb24tY2hhcmdlZC13aXRoLWFycmFuZ2luZy1oYXZlLW1vbS11cHRvd24tc3R5bGlzdC1tdXJkZXJlZC0yMDEyLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 Dec 2013 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxMzEyMjQvdXB0b3duL3Nvbi1jaGFyZ2VkLXdpdGgtYXJyYW5naW5nLWhhdmUtbW9tLXVwdG93bi1zdHlsaXN0LW11cmRlcmVkLTIwMTLSAXRodHRwczovL3d3dy5kbmFpbmZvLmNvbS9jaGljYWdvLzIwMTMxMjI0L3VwdG93bi9zb24tY2hhcmdlZC13aXRoLWFycmFuZ2luZy1oYXZlLW1vbS11cHRvd24tc3R5bGlzdC1tdXJkZXJlZC0yMDEyLmFtcA?oc=5\" target=\"_blank\">Documents: Man Tells Cops 'Financial Gain' Was Reason for Murdering Mother</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DNAinfo</font>"
+            ],
+            "source": [
+              {
+                "_": "DNAinfo",
+                "$": {
+                  "url": "https://www.dnainfo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Chicago rapper gets 99 years in mom's murder-for-hire killing - True Crime Daily"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdHJ1ZWNyaW1lZGFpbHkuY29tLzIwMjAvMDIvMDcvY2hpY2Fnby1yYXBwZXItZ2V0cy05OS15ZWFycy1pbi1tb21zLW11cmRlci1mb3ItaGlyZS1raWxsaW5nL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vdHJ1ZWNyaW1lZGFpbHkuY29tLzIwMjAvMDIvMDcvY2hpY2Fnby1yYXBwZXItZ2V0cy05OS15ZWFycy1pbi1tb21zLW11cmRlci1mb3ItaGlyZS1raWxsaW5nL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 07 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdHJ1ZWNyaW1lZGFpbHkuY29tLzIwMjAvMDIvMDcvY2hpY2Fnby1yYXBwZXItZ2V0cy05OS15ZWFycy1pbi1tb21zLW11cmRlci1mb3ItaGlyZS1raWxsaW5nL9IBAA?oc=5\" target=\"_blank\">Chicago rapper gets 99 years in mom's murder-for-hire killing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">True Crime Daily</font>"
+            ],
+            "source": [
+              {
+                "_": "True Crime Daily",
+                "$": {
+                  "url": "https://truecrimedaily.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Man’s murder conviction overturned after review of detective’s trial testimony - NJ.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5qLmNvbS9lc3NleC8yMDIyLzA5L21hbnMtbXVyZGVyLWNvbnZpY3Rpb24tb3ZlcnR1cm5lZC1hZnRlci1yZXZpZXctb2YtZGV0ZWN0aXZlcy10cmlhbC10ZXN0aW1vbnkuaHRtbNIBgQFodHRwczovL3d3dy5uai5jb20vZXNzZXgvMjAyMi8wOS9tYW5zLW11cmRlci1jb252aWN0aW9uLW92ZXJ0dXJuZWQtYWZ0ZXItcmV2aWV3LW9mLWRldGVjdGl2ZXMtdHJpYWwtdGVzdGltb255Lmh0bWw_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3Lm5qLmNvbS9lc3NleC8yMDIyLzA5L21hbnMtbXVyZGVyLWNvbnZpY3Rpb24tb3ZlcnR1cm5lZC1hZnRlci1yZXZpZXctb2YtZGV0ZWN0aXZlcy10cmlhbC10ZXN0aW1vbnkuaHRtbNIBgQFodHRwczovL3d3dy5uai5jb20vZXNzZXgvMjAyMi8wOS9tYW5zLW11cmRlci1jb252aWN0aW9uLW92ZXJ0dXJuZWQtYWZ0ZXItcmV2aWV3LW9mLWRldGVjdGl2ZXMtdHJpYWwtdGVzdGltb255Lmh0bWw_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5qLmNvbS9lc3NleC8yMDIyLzA5L21hbnMtbXVyZGVyLWNvbnZpY3Rpb24tb3ZlcnR1cm5lZC1hZnRlci1yZXZpZXctb2YtZGV0ZWN0aXZlcy10cmlhbC10ZXN0aW1vbnkuaHRtbNIBgQFodHRwczovL3d3dy5uai5jb20vZXNzZXgvMjAyMi8wOS9tYW5zLW11cmRlci1jb252aWN0aW9uLW92ZXJ0dXJuZWQtYWZ0ZXItcmV2aWV3LW9mLWRldGVjdGl2ZXMtdHJpYWwtdGVzdGltb255Lmh0bWw_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Man’s murder conviction overturned after review of detective’s trial testimony</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJ.com</font>"
+            ],
+            "source": [
+              {
+                "_": "NJ.com",
+                "$": {
+                  "url": "https://www.nj.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Three still competing, one ending campaign in Mecklenburg’s most crowded NC House race - Charlotte Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI2MDYyMjU0Mi5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjYwNjIyNTQyLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI2MDYyMjU0Mi5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjYwNjIyNTQyLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 25 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI2MDYyMjU0Mi5odG1s0gFQaHR0cHM6Ly9hbXAuY2hhcmxvdHRlb2JzZXJ2ZXIuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjYwNjIyNTQyLmh0bWw?oc=5\" target=\"_blank\">Three still competing, one ending campaign in Mecklenburg’s most crowded NC House race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Observer",
+                "$": {
+                  "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rapper ‘Young QC’ jailed for 99 years for murdering mom to get cash for designer clothes and to ‘pimp’ his... - The Sun"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy50aGVzdW4uY28udWsvbmV3cy8xMDg4MTA0MS9yYXBwZXIteW91bmctcWMtamFpbGVkLWZvci05OS15ZWFycy1mb3ItbXVyZGVyaW5nLW1vbS10by1nZXQtY2FzaC1mb3ItZGVzaWduZXItY2xvdGhlcy1hbmQtdG8tcGltcC1oaXMtbXVzdGFuZy_SAZoBaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrL25ld3MvMTA4ODEwNDEvcmFwcGVyLXlvdW5nLXFjLWphaWxlZC1mb3ItOTkteWVhcnMtZm9yLW11cmRlcmluZy1tb20tdG8tZ2V0LWNhc2gtZm9yLWRlc2lnbmVyLWNsb3RoZXMtYW5kLXRvLXBpbXAtaGlzLW11c3RhbmcvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilgFodHRwczovL3d3dy50aGVzdW4uY28udWsvbmV3cy8xMDg4MTA0MS9yYXBwZXIteW91bmctcWMtamFpbGVkLWZvci05OS15ZWFycy1mb3ItbXVyZGVyaW5nLW1vbS10by1nZXQtY2FzaC1mb3ItZGVzaWduZXItY2xvdGhlcy1hbmQtdG8tcGltcC1oaXMtbXVzdGFuZy_SAZoBaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrL25ld3MvMTA4ODEwNDEvcmFwcGVyLXlvdW5nLXFjLWphaWxlZC1mb3ItOTkteWVhcnMtZm9yLW11cmRlcmluZy1tb20tdG8tZ2V0LWNhc2gtZm9yLWRlc2lnbmVyLWNsb3RoZXMtYW5kLXRvLXBpbXAtaGlzLW11c3RhbmcvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 03 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy50aGVzdW4uY28udWsvbmV3cy8xMDg4MTA0MS9yYXBwZXIteW91bmctcWMtamFpbGVkLWZvci05OS15ZWFycy1mb3ItbXVyZGVyaW5nLW1vbS10by1nZXQtY2FzaC1mb3ItZGVzaWduZXItY2xvdGhlcy1hbmQtdG8tcGltcC1oaXMtbXVzdGFuZy_SAZoBaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrL25ld3MvMTA4ODEwNDEvcmFwcGVyLXlvdW5nLXFjLWphaWxlZC1mb3ItOTkteWVhcnMtZm9yLW11cmRlcmluZy1tb20tdG8tZ2V0LWNhc2gtZm9yLWRlc2lnbmVyLWNsb3RoZXMtYW5kLXRvLXBpbXAtaGlzLW11c3RhbmcvYW1wLw?oc=5\" target=\"_blank\">Rapper ‘Young QC’ jailed for 99 years for murdering mom to get cash for designer clothes and to ‘pimp’ his...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sun</font>"
+            ],
+            "source": [
+              {
+                "_": "The Sun",
+                "$": {
+                  "url": "https://www.thesun.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'You're Going to Hell': Heated Hearing For Man Accused of Having Mom Killed - DNAinfo"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMTMvdXB0b3duL3Fhd21hbmUtd2lsc29uLXVwZGF0ZS1lbW90aW9ucy1mbGFyZS1hdC1oZWFyaW5nLW9uLWNoYXJnZXMtaGUta2lsbGVkLW1vbdIBfGh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMTMvdXB0b3duL3Fhd21hbmUtd2lsc29uLXVwZGF0ZS1lbW90aW9ucy1mbGFyZS1hdC1oZWFyaW5nLW9uLWNoYXJnZXMtaGUta2lsbGVkLW1vbS5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMTMvdXB0b3duL3Fhd21hbmUtd2lsc29uLXVwZGF0ZS1lbW90aW9ucy1mbGFyZS1hdC1oZWFyaW5nLW9uLWNoYXJnZXMtaGUta2lsbGVkLW1vbdIBfGh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMTMvdXB0b3duL3Fhd21hbmUtd2lsc29uLXVwZGF0ZS1lbW90aW9ucy1mbGFyZS1hdC1oZWFyaW5nLW9uLWNoYXJnZXMtaGUta2lsbGVkLW1vbS5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Jan 2014 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMTMvdXB0b3duL3Fhd21hbmUtd2lsc29uLXVwZGF0ZS1lbW90aW9ucy1mbGFyZS1hdC1oZWFyaW5nLW9uLWNoYXJnZXMtaGUta2lsbGVkLW1vbdIBfGh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMTMvdXB0b3duL3Fhd21hbmUtd2lsc29uLXVwZGF0ZS1lbW90aW9ucy1mbGFyZS1hdC1oZWFyaW5nLW9uLWNoYXJnZXMtaGUta2lsbGVkLW1vbS5hbXA?oc=5\" target=\"_blank\">'You're Going to Hell': Heated Hearing For Man Accused of Having Mom Killed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DNAinfo</font>"
+            ],
+            "source": [
+              {
+                "_": "DNAinfo",
+                "$": {
+                  "url": "https://www.dnainfo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Qaw'mane Wilson, Rapper Accused of Killing Mom, Heckled by Uncle in Court - DNAinfo"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNTA1MDYvdXB0b3duL3Fhd21hbmUtd2lsc29uLXJhcHBlci1hY2N1c2VkLW9mLWtpbGxpbmctbW9tLWhlY2tsZWQtYnktdW5jbGUtY291cnTSAXdodHRwczovL3d3dy5kbmFpbmZvLmNvbS9jaGljYWdvLzIwMTUwNTA2L3VwdG93bi9xYXdtYW5lLXdpbHNvbi1yYXBwZXItYWNjdXNlZC1vZi1raWxsaW5nLW1vbS1oZWNrbGVkLWJ5LXVuY2xlLWNvdXJ0LmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNTA1MDYvdXB0b3duL3Fhd21hbmUtd2lsc29uLXJhcHBlci1hY2N1c2VkLW9mLWtpbGxpbmctbW9tLWhlY2tsZWQtYnktdW5jbGUtY291cnTSAXdodHRwczovL3d3dy5kbmFpbmZvLmNvbS9jaGljYWdvLzIwMTUwNTA2L3VwdG93bi9xYXdtYW5lLXdpbHNvbi1yYXBwZXItYWNjdXNlZC1vZi1raWxsaW5nLW1vbS1oZWNrbGVkLWJ5LXVuY2xlLWNvdXJ0LmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 May 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNTA1MDYvdXB0b3duL3Fhd21hbmUtd2lsc29uLXJhcHBlci1hY2N1c2VkLW9mLWtpbGxpbmctbW9tLWhlY2tsZWQtYnktdW5jbGUtY291cnTSAXdodHRwczovL3d3dy5kbmFpbmZvLmNvbS9jaGljYWdvLzIwMTUwNTA2L3VwdG93bi9xYXdtYW5lLXdpbHNvbi1yYXBwZXItYWNjdXNlZC1vZi1raWxsaW5nLW1vbS1oZWNrbGVkLWJ5LXVuY2xlLWNvdXJ0LmFtcA?oc=5\" target=\"_blank\">Qaw'mane Wilson, Rapper Accused of Killing Mom, Heckled by Uncle in Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DNAinfo</font>"
+            ],
+            "source": [
+              {
+                "_": "DNAinfo",
+                "$": {
+                  "url": "https://www.dnainfo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Qaw'mane Wilson, Man Accused of Ordering Mom's Murder, to Plead Not Guilty - DNAinfo"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMjIvdXB0b3duL2F0dG9ybmV5LXFhd21hbmUtd2lsc29uLWFjY3VzZWQtb2Ytb3JkZXJpbmctbW9tcy1tdXJkZXItbm90LWd1aWx0edIBdmh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMjIvdXB0b3duL2F0dG9ybmV5LXFhd21hbmUtd2lsc29uLWFjY3VzZWQtb2Ytb3JkZXJpbmctbW9tcy1tdXJkZXItbm90LWd1aWx0eS5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMjIvdXB0b3duL2F0dG9ybmV5LXFhd21hbmUtd2lsc29uLWFjY3VzZWQtb2Ytb3JkZXJpbmctbW9tcy1tdXJkZXItbm90LWd1aWx0edIBdmh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMjIvdXB0b3duL2F0dG9ybmV5LXFhd21hbmUtd2lsc29uLWFjY3VzZWQtb2Ytb3JkZXJpbmctbW9tcy1tdXJkZXItbm90LWd1aWx0eS5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Jan 2014 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMjIvdXB0b3duL2F0dG9ybmV5LXFhd21hbmUtd2lsc29uLWFjY3VzZWQtb2Ytb3JkZXJpbmctbW9tcy1tdXJkZXItbm90LWd1aWx0edIBdmh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNDAxMjIvdXB0b3duL2F0dG9ybmV5LXFhd21hbmUtd2lsc29uLWFjY3VzZWQtb2Ytb3JkZXJpbmctbW9tcy1tdXJkZXItbm90LWd1aWx0eS5hbXA?oc=5\" target=\"_blank\">Qaw'mane Wilson, Man Accused of Ordering Mom's Murder, to Plead Not Guilty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DNAinfo</font>"
+            ],
+            "source": [
+              {
+                "_": "DNAinfo",
+                "$": {
+                  "url": "https://www.dnainfo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rapper Gets 99 Years in Prison For Hiring His Friends to Kill His Mother - BlackNews.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYmxhY2tuZXdzLmNvbS9uZXdzL3Fhd21hbmUtd2lsc29uLXJhcHBlci05OS15ZWFycy1wcmlzb24taGlyaW5nLWZyaWVuZHMta2lsbC1tb3RoZXIv0gFgaHR0cHM6Ly9ibGFja25ld3MuY29tL25ld3MvcWF3bWFuZS13aWxzb24tcmFwcGVyLTk5LXllYXJzLXByaXNvbi1oaXJpbmctZnJpZW5kcy1raWxsLW1vdGhlci9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vYmxhY2tuZXdzLmNvbS9uZXdzL3Fhd21hbmUtd2lsc29uLXJhcHBlci05OS15ZWFycy1wcmlzb24taGlyaW5nLWZyaWVuZHMta2lsbC1tb3RoZXIv0gFgaHR0cHM6Ly9ibGFja25ld3MuY29tL25ld3MvcWF3bWFuZS13aWxzb24tcmFwcGVyLTk5LXllYXJzLXByaXNvbi1oaXJpbmctZnJpZW5kcy1raWxsLW1vdGhlci9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 03 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYmxhY2tuZXdzLmNvbS9uZXdzL3Fhd21hbmUtd2lsc29uLXJhcHBlci05OS15ZWFycy1wcmlzb24taGlyaW5nLWZyaWVuZHMta2lsbC1tb3RoZXIv0gFgaHR0cHM6Ly9ibGFja25ld3MuY29tL25ld3MvcWF3bWFuZS13aWxzb24tcmFwcGVyLTk5LXllYXJzLXByaXNvbi1oaXJpbmctZnJpZW5kcy1raWxsLW1vdGhlci9hbXAv?oc=5\" target=\"_blank\">Rapper Gets 99 Years in Prison For Hiring His Friends to Kill His Mother</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BlackNews.com</font>"
+            ],
+            "source": [
+              {
+                "_": "BlackNews.com",
+                "$": {
+                  "url": "https://blacknews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Man Accused of Arranging Mother's Slaying Is a Local Actor and Rapper - DNAinfo"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxMzEyMjUvdXB0b3duL21hbi1hY2N1c2VkLW9mLWFycmFuZ2luZy1tb3RoZXJzLXNsYXlpbmctaXMtbG9jYWwtYWN0b3ItcmFwcGVy0gFyaHR0cHM6Ly93d3cuZG5haW5mby5jb20vY2hpY2Fnby8yMDEzMTIyNS91cHRvd24vbWFuLWFjY3VzZWQtb2YtYXJyYW5naW5nLW1vdGhlcnMtc2xheWluZy1pcy1sb2NhbC1hY3Rvci1yYXBwZXIuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxMzEyMjUvdXB0b3duL21hbi1hY2N1c2VkLW9mLWFycmFuZ2luZy1tb3RoZXJzLXNsYXlpbmctaXMtbG9jYWwtYWN0b3ItcmFwcGVy0gFyaHR0cHM6Ly93d3cuZG5haW5mby5jb20vY2hpY2Fnby8yMDEzMTIyNS91cHRvd24vbWFuLWFjY3VzZWQtb2YtYXJyYW5naW5nLW1vdGhlcnMtc2xheWluZy1pcy1sb2NhbC1hY3Rvci1yYXBwZXIuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 25 Dec 2013 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxMzEyMjUvdXB0b3duL21hbi1hY2N1c2VkLW9mLWFycmFuZ2luZy1tb3RoZXJzLXNsYXlpbmctaXMtbG9jYWwtYWN0b3ItcmFwcGVy0gFyaHR0cHM6Ly93d3cuZG5haW5mby5jb20vY2hpY2Fnby8yMDEzMTIyNS91cHRvd24vbWFuLWFjY3VzZWQtb2YtYXJyYW5naW5nLW1vdGhlcnMtc2xheWluZy1pcy1sb2NhbC1hY3Rvci1yYXBwZXIuYW1w?oc=5\" target=\"_blank\">Man Accused of Arranging Mother's Slaying Is a Local Actor and Rapper</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DNAinfo</font>"
+            ],
+            "source": [
+              {
+                "_": "DNAinfo",
+                "$": {
+                  "url": "https://www.dnainfo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rapper sentenced to 99 years in prison for paying hitman to murder his mum - The Mirror"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vY2VsZWJyaXR5LW5ld3MvcmFwcGVyLXNlbnRlbmNlZC05OS15ZWFycy1wcmlzb24tMjE0MTAxMjDSAVlodHRwczovL3d3dy5taXJyb3IuY28udWsvM2FtL2NlbGVicml0eS1uZXdzL3JhcHBlci1zZW50ZW5jZWQtOTkteWVhcnMtcHJpc29uLTIxNDEwMTIwLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vY2VsZWJyaXR5LW5ld3MvcmFwcGVyLXNlbnRlbmNlZC05OS15ZWFycy1wcmlzb24tMjE0MTAxMjDSAVlodHRwczovL3d3dy5taXJyb3IuY28udWsvM2FtL2NlbGVicml0eS1uZXdzL3JhcHBlci1zZW50ZW5jZWQtOTkteWVhcnMtcHJpc29uLTIxNDEwMTIwLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 01 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vY2VsZWJyaXR5LW5ld3MvcmFwcGVyLXNlbnRlbmNlZC05OS15ZWFycy1wcmlzb24tMjE0MTAxMjDSAVlodHRwczovL3d3dy5taXJyb3IuY28udWsvM2FtL2NlbGVicml0eS1uZXdzL3JhcHBlci1zZW50ZW5jZWQtOTkteWVhcnMtcHJpc29uLTIxNDEwMTIwLmFtcA?oc=5\" target=\"_blank\">Rapper sentenced to 99 years in prison for paying hitman to murder his mum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mirror</font>"
+            ],
+            "source": [
+              {
+                "_": "The Mirror",
+                "$": {
+                  "url": "https://www.mirror.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Qaw'mane Wilson, aka Young QC, Trial 'Taking Forever,' Mom's Friend Says - DNAinfo"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNTA0MDEvdXB0b3duL3Fhd21hbmUtd2lsc29uLWFrYS15b3VuZy1xYy10cmlhbC10YWtpbmctZm9yZXZlci1tb21zLWZyaWVuZC1zYXlz0gF1aHR0cHM6Ly93d3cuZG5haW5mby5jb20vY2hpY2Fnby8yMDE1MDQwMS91cHRvd24vcWF3bWFuZS13aWxzb24tYWthLXlvdW5nLXFjLXRyaWFsLXRha2luZy1mb3JldmVyLW1vbXMtZnJpZW5kLXNheXMuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNTA0MDEvdXB0b3duL3Fhd21hbmUtd2lsc29uLWFrYS15b3VuZy1xYy10cmlhbC10YWtpbmctZm9yZXZlci1tb21zLWZyaWVuZC1zYXlz0gF1aHR0cHM6Ly93d3cuZG5haW5mby5jb20vY2hpY2Fnby8yMDE1MDQwMS91cHRvd24vcWF3bWFuZS13aWxzb24tYWthLXlvdW5nLXFjLXRyaWFsLXRha2luZy1mb3JldmVyLW1vbXMtZnJpZW5kLXNheXMuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 01 Apr 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNTA0MDEvdXB0b3duL3Fhd21hbmUtd2lsc29uLWFrYS15b3VuZy1xYy10cmlhbC10YWtpbmctZm9yZXZlci1tb21zLWZyaWVuZC1zYXlz0gF1aHR0cHM6Ly93d3cuZG5haW5mby5jb20vY2hpY2Fnby8yMDE1MDQwMS91cHRvd24vcWF3bWFuZS13aWxzb24tYWthLXlvdW5nLXFjLXRyaWFsLXRha2luZy1mb3JldmVyLW1vbXMtZnJpZW5kLXNheXMuYW1w?oc=5\" target=\"_blank\">Qaw'mane Wilson, aka Young QC, Trial 'Taking Forever,' Mom's Friend Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DNAinfo</font>"
+            ],
+            "source": [
+              {
+                "_": "DNAinfo",
+                "$": {
+                  "url": "https://www.dnainfo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Illinois woman pleads guilty to stealing from Meijer, sentenced to 300 days in House of Correction - FOX 6 Milwaukee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmZveDZub3cuY29tL25ld3MvaWxsaW5vaXMtd29tYW4tcGxlYWRzLWd1aWx0eS10by1zdGVhbGluZy1mcm9tLW1laWplci1zZW50ZW5jZWQtdG8tMzAwLWRheXMtaW4taG91c2Utb2YtY29ycmVjdGlvbtIBggFodHRwczovL3d3dy5mb3g2bm93LmNvbS9uZXdzL2lsbGlub2lzLXdvbWFuLXBsZWFkcy1ndWlsdHktdG8tc3RlYWxpbmctZnJvbS1tZWlqZXItc2VudGVuY2VkLXRvLTMwMC1kYXlzLWluLWhvdXNlLW9mLWNvcnJlY3Rpb24uYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LmZveDZub3cuY29tL25ld3MvaWxsaW5vaXMtd29tYW4tcGxlYWRzLWd1aWx0eS10by1zdGVhbGluZy1mcm9tLW1laWplci1zZW50ZW5jZWQtdG8tMzAwLWRheXMtaW4taG91c2Utb2YtY29ycmVjdGlvbtIBggFodHRwczovL3d3dy5mb3g2bm93LmNvbS9uZXdzL2lsbGlub2lzLXdvbWFuLXBsZWFkcy1ndWlsdHktdG8tc3RlYWxpbmctZnJvbS1tZWlqZXItc2VudGVuY2VkLXRvLTMwMC1kYXlzLWluLWhvdXNlLW9mLWNvcnJlY3Rpb24uYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 11 May 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmZveDZub3cuY29tL25ld3MvaWxsaW5vaXMtd29tYW4tcGxlYWRzLWd1aWx0eS10by1zdGVhbGluZy1mcm9tLW1laWplci1zZW50ZW5jZWQtdG8tMzAwLWRheXMtaW4taG91c2Utb2YtY29ycmVjdGlvbtIBggFodHRwczovL3d3dy5mb3g2bm93LmNvbS9uZXdzL2lsbGlub2lzLXdvbWFuLXBsZWFkcy1ndWlsdHktdG8tc3RlYWxpbmctZnJvbS1tZWlqZXItc2VudGVuY2VkLXRvLTMwMC1kYXlzLWluLWhvdXNlLW9mLWNvcnJlY3Rpb24uYW1w?oc=5\" target=\"_blank\">Illinois woman pleads guilty to stealing from Meijer, sentenced to 300 days in House of Correction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 6 Milwaukee</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX 6 Milwaukee",
+                "$": {
+                  "url": "https://www.fox6now.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "\"Just crazy:\" Suspects allegedly emptied boxes for big items, filled them with electronics - FOX 6 Milwaukee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmZveDZub3cuY29tL25ld3MvanVzdC1jcmF6eS1zdXNwZWN0cy1hbGxlZ2VkbHktZW1wdGllZC1ib3hlcy1mb3ItYmlnLWl0ZW1zLWZpbGxlZC10aGVtLXdpdGgtZWxlY3Ryb25pY3PSAXdodHRwczovL3d3dy5mb3g2bm93LmNvbS9uZXdzL2p1c3QtY3Jhenktc3VzcGVjdHMtYWxsZWdlZGx5LWVtcHRpZWQtYm94ZXMtZm9yLWJpZy1pdGVtcy1maWxsZWQtdGhlbS13aXRoLWVsZWN0cm9uaWNzLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LmZveDZub3cuY29tL25ld3MvanVzdC1jcmF6eS1zdXNwZWN0cy1hbGxlZ2VkbHktZW1wdGllZC1ib3hlcy1mb3ItYmlnLWl0ZW1zLWZpbGxlZC10aGVtLXdpdGgtZWxlY3Ryb25pY3PSAXdodHRwczovL3d3dy5mb3g2bm93LmNvbS9uZXdzL2p1c3QtY3Jhenktc3VzcGVjdHMtYWxsZWdlZGx5LWVtcHRpZWQtYm94ZXMtZm9yLWJpZy1pdGVtcy1maWxsZWQtdGhlbS13aXRoLWVsZWN0cm9uaWNzLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 Nov 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmZveDZub3cuY29tL25ld3MvanVzdC1jcmF6eS1zdXNwZWN0cy1hbGxlZ2VkbHktZW1wdGllZC1ib3hlcy1mb3ItYmlnLWl0ZW1zLWZpbGxlZC10aGVtLXdpdGgtZWxlY3Ryb25pY3PSAXdodHRwczovL3d3dy5mb3g2bm93LmNvbS9uZXdzL2p1c3QtY3Jhenktc3VzcGVjdHMtYWxsZWdlZGx5LWVtcHRpZWQtYm94ZXMtZm9yLWJpZy1pdGVtcy1maWxsZWQtdGhlbS13aXRoLWVsZWN0cm9uaWNzLmFtcA?oc=5\" target=\"_blank\">\"Just crazy:\" Suspects allegedly emptied boxes for big items, filled them with electronics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 6 Milwaukee</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX 6 Milwaukee",
+                "$": {
+                  "url": "https://www.fox6now.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Who is Young QC?... - The US Sun"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZS1zdW4uY29tL2VudGVydGFpbm1lbnQvNzMwMjI4My93aG8teW91bmctcWMtY3JpbWUtc2VudGVuY2Uv0gFOaHR0cHM6Ly93d3cudGhlLXN1bi5jb20vZW50ZXJ0YWlubWVudC83MzAyMjgzL3doby15b3VuZy1xYy1jcmltZS1zZW50ZW5jZS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3LnRoZS1zdW4uY29tL2VudGVydGFpbm1lbnQvNzMwMjI4My93aG8teW91bmctcWMtY3JpbWUtc2VudGVuY2Uv0gFOaHR0cHM6Ly93d3cudGhlLXN1bi5jb20vZW50ZXJ0YWlubWVudC83MzAyMjgzL3doby15b3VuZy1xYy1jcmltZS1zZW50ZW5jZS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZS1zdW4uY29tL2VudGVydGFpbm1lbnQvNzMwMjI4My93aG8teW91bmctcWMtY3JpbWUtc2VudGVuY2Uv0gFOaHR0cHM6Ly93d3cudGhlLXN1bi5jb20vZW50ZXJ0YWlubWVudC83MzAyMjgzL3doby15b3VuZy1xYy1jcmltZS1zZW50ZW5jZS9hbXAv?oc=5\" target=\"_blank\">Who is Young QC?...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The US Sun</font>"
+            ],
+            "source": [
+              {
+                "_": "The US Sun",
+                "$": {
+                  "url": "https://www.the-sun.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fannie Lowery Obituary - West's Mortuary - 2023 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2Zhbm5pZS1sb3dlcnktb2JpdHVhcnk_aWQ9NTE1NDczNjbSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2Zhbm5pZS1sb3dlcnktb2JpdHVhcnk_aWQ9NTE1NDczNjbSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 03 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2Zhbm5pZS1sb3dlcnktb2JpdHVhcnk_aWQ9NTE1NDczNjbSAQA?oc=5\" target=\"_blank\">Fannie Lowery Obituary - West's Mortuary - 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Yolanda Holmes Murder: How Was She Killed? - Vizaca.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnZpemFjYS5jb20veW9sYW5kYS1ob2xtZXMtbXVyZGVyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiLWh0dHBzOi8vd3d3LnZpemFjYS5jb20veW9sYW5kYS1ob2xtZXMtbXVyZGVyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnZpemFjYS5jb20veW9sYW5kYS1ob2xtZXMtbXVyZGVyL9IBAA?oc=5\" target=\"_blank\">Yolanda Holmes Murder: How Was She Killed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vizaca.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Vizaca.com",
+                "$": {
+                  "url": "https://www.vizaca.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Yolanda Holmes Murder: How Did She Die? Who Killed Yolanda Holmes? - The Cinemaholic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vdGhlY2luZW1haG9saWMuY29tL3lvbGFuZGEtaG9sbWVzLW11cmRlci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMWh0dHBzOi8vdGhlY2luZW1haG9saWMuY29tL3lvbGFuZGEtaG9sbWVzLW11cmRlci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Oct 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vdGhlY2luZW1haG9saWMuY29tL3lvbGFuZGEtaG9sbWVzLW11cmRlci_SAQA?oc=5\" target=\"_blank\">Yolanda Holmes Murder: How Did She Die? Who Killed Yolanda Holmes?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cinemaholic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Cinemaholic",
+                "$": {
+                  "url": "https://thecinemaholic.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Eugene Spencer Sentenced to 100 Years in Prison - Heavy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vaGVhdnkuY29tL2VudGVydGFpbm1lbnQvZXVnZW5lLXNwZW5jZXItc2VudGVuY2UtdHJpYWwtdXBkYXRlLW5vdy_SAU1odHRwczovL2hlYXZ5LmNvbS9lbnRlcnRhaW5tZW50L2V1Z2VuZS1zcGVuY2VyLXNlbnRlbmNlLXRyaWFsLXVwZGF0ZS1ub3cvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vaGVhdnkuY29tL2VudGVydGFpbm1lbnQvZXVnZW5lLXNwZW5jZXItc2VudGVuY2UtdHJpYWwtdXBkYXRlLW5vdy_SAU1odHRwczovL2hlYXZ5LmNvbS9lbnRlcnRhaW5tZW50L2V1Z2VuZS1zcGVuY2VyLXNlbnRlbmNlLXRyaWFsLXVwZGF0ZS1ub3cvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 25 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vaGVhdnkuY29tL2VudGVydGFpbm1lbnQvZXVnZW5lLXNwZW5jZXItc2VudGVuY2UtdHJpYWwtdXBkYXRlLW5vdy_SAU1odHRwczovL2hlYXZ5LmNvbS9lbnRlcnRhaW5tZW50L2V1Z2VuZS1zcGVuY2VyLXNlbnRlbmNlLXRyaWFsLXVwZGF0ZS1ub3cvYW1wLw?oc=5\" target=\"_blank\">Eugene Spencer Sentenced to 100 Years in Prison</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Heavy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Heavy.com",
+                "$": {
+                  "url": "https://heavy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Yolanda Holmes' Son Now: Where is Young QC Today? Is He in Jail? - The Cinemaholic"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vdGhlY2luZW1haG9saWMuY29tL3lvbGFuZGEtaG9sbWVzLXNvbi1xYXdtYW5lLXdpbHNvbi1ub3cv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8vdGhlY2luZW1haG9saWMuY29tL3lvbGFuZGEtaG9sbWVzLXNvbi1xYXdtYW5lLXdpbHNvbi1ub3cv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Oct 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vdGhlY2luZW1haG9saWMuY29tL3lvbGFuZGEtaG9sbWVzLXNvbi1xYXdtYW5lLXdpbHNvbi1ub3cv0gEA?oc=5\" target=\"_blank\">Yolanda Holmes' Son Now: Where is Young QC Today? Is He in Jail?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cinemaholic</font>"
+            ],
+            "source": [
+              {
+                "_": "The Cinemaholic",
+                "$": {
+                  "url": "https://thecinemaholic.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What happened to Young QC? Everything you need to know about the former rapper - Briefly News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYnJpZWZseS5jby56YS9mYWN0cy1saWZlaGFja3MvY2VsZWJyaXRpZXMtYmlvZ3JhcGhpZXMvMTE4MDI1LXdoYXQtaGFwcGVuZWQteW91bmctcWMtZXZlcnl0aGluZy1yYXBwZXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vYnJpZWZseS5jby56YS9mYWN0cy1saWZlaGFja3MvY2VsZWJyaXRpZXMtYmlvZ3JhcGhpZXMvMTE4MDI1LXdoYXQtaGFwcGVuZWQteW91bmctcWMtZXZlcnl0aGluZy1yYXBwZXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYnJpZWZseS5jby56YS9mYWN0cy1saWZlaGFja3MvY2VsZWJyaXRpZXMtYmlvZ3JhcGhpZXMvMTE4MDI1LXdoYXQtaGFwcGVuZWQteW91bmctcWMtZXZlcnl0aGluZy1yYXBwZXIv0gEA?oc=5\" target=\"_blank\">What happened to Young QC? Everything you need to know about the former rapper</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Briefly News</font>"
+            ],
+            "source": [
+              {
+                "_": "Briefly News",
+                "$": {
+                  "url": "https://briefly.co.za"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Upcoming Rapper Sentenced To 99 Years In Prison For Hiring A Hitman To Kill His Mother - The Herald"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmhlcmFsZC5uZy9yYXBwZXItOTkteWVhcnMtaGl0bWFuLW1vdGhlci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiNGh0dHBzOi8vd3d3LmhlcmFsZC5uZy9yYXBwZXItOTkteWVhcnMtaGl0bWFuLW1vdGhlci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 02 Feb 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmhlcmFsZC5uZy9yYXBwZXItOTkteWVhcnMtaGl0bWFuLW1vdGhlci_SAQA?oc=5\" target=\"_blank\">Upcoming Rapper Sentenced To 99 Years In Prison For Hiring A Hitman To Kill His Mother</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Herald</font>"
+            ],
+            "source": [
+              {
+                "_": "The Herald",
+                "$": {
+                  "url": "https://www.herald.ng"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Chicago Rapper Killed His Mother, Masterminded Her Murder For Insurance Money - MemphisRap.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbWVtcGhpc3JhcC5jb20vbmV3cy9jaGljYWdvLXJhcHBlci1raWxsZWQtaGlzLW1vdGhlci1tYXN0ZXJtaW5kZWQtaGVyLW11cmRlci1mb3ItaW5zdXJhbmNlLW1vbmV5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vbWVtcGhpc3JhcC5jb20vbmV3cy9jaGljYWdvLXJhcHBlci1raWxsZWQtaGlzLW1vdGhlci1tYXN0ZXJtaW5kZWQtaGVyLW11cmRlci1mb3ItaW5zdXJhbmNlLW1vbmV5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 28 Dec 2013 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbWVtcGhpc3JhcC5jb20vbmV3cy9jaGljYWdvLXJhcHBlci1raWxsZWQtaGlzLW1vdGhlci1tYXN0ZXJtaW5kZWQtaGVyLW11cmRlci1mb3ItaW5zdXJhbmNlLW1vbmV5L9IBAA?oc=5\" target=\"_blank\">Chicago Rapper Killed His Mother, Masterminded Her Murder For Insurance Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MemphisRap.com</font>"
+            ],
+            "source": [
+              {
+                "_": "MemphisRap.com",
+                "$": {
+                  "url": "https://memphisrap.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tom Cruise Wife Audition: Is Yolanda Pecoraro The Next Nazanin Boniadi or Katie Holmes? - International Business Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmlidGltZXMuY29tL3RvbS1jcnVpc2Utd2lmZS1hdWRpdGlvbi15b2xhbmRhLXBlY29yYXJvLW5leHQtbmF6YW5pbi1ib25pYWRpLW9yLWthdGllLWhvbG1lcy03NjEzMjfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmlidGltZXMuY29tL3RvbS1jcnVpc2Utd2lmZS1hdWRpdGlvbi15b2xhbmRhLXBlY29yYXJvLW5leHQtbmF6YW5pbi1ib25pYWRpLW9yLWthdGllLWhvbG1lcy03NjEzMjfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Sep 2012 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmlidGltZXMuY29tL3RvbS1jcnVpc2Utd2lmZS1hdWRpdGlvbi15b2xhbmRhLXBlY29yYXJvLW5leHQtbmF6YW5pbi1ib25pYWRpLW9yLWthdGllLWhvbG1lcy03NjEzMjfSAQA?oc=5\" target=\"_blank\">Tom Cruise Wife Audition: Is Yolanda Pecoraro The Next Nazanin Boniadi or Katie Holmes?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times</font>"
+            ],
+            "source": [
+              {
+                "_": "International Business Times",
+                "$": {
+                  "url": "https://www.ibtimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "8 Things You Need to Know About Qawmane Wilson aka Young QC - Gossip On This"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vZ29zc2lwb250aGlzLmNvbS8yMDE0LzAxLzE2L3Fhd21hbmUtd2lsc29uLXlvdW5nLXFjLTgtdGhpbmdzLWFib3V0LWNoaWNhZ28tcmFwcGVyLWhhZC1tb20ta2lsbGVkLW1vbmV5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vZ29zc2lwb250aGlzLmNvbS8yMDE0LzAxLzE2L3Fhd21hbmUtd2lsc29uLXlvdW5nLXFjLTgtdGhpbmdzLWFib3V0LWNoaWNhZ28tcmFwcGVyLWhhZC1tb20ta2lsbGVkLW1vbmV5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Jan 2014 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vZ29zc2lwb250aGlzLmNvbS8yMDE0LzAxLzE2L3Fhd21hbmUtd2lsc29uLXlvdW5nLXFjLTgtdGhpbmdzLWFib3V0LWNoaWNhZ28tcmFwcGVyLWhhZC1tb20ta2lsbGVkLW1vbmV5L9IBAA?oc=5\" target=\"_blank\">8 Things You Need to Know About Qawmane Wilson aka Young QC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gossip On This</font>"
+            ],
+            "source": [
+              {
+                "_": "Gossip On This",
+                "$": {
+                  "url": "https://gossiponthis.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Qawmane Wilson (aka Young QC) Trial Is \"Taking Forever,\" Says Family Friend - Gossip On This"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vZ29zc2lwb250aGlzLmNvbS8yMDE1LzA0LzA2L3Fhd21hbmUtd2lsc29uLXlvdW5nLXFjLXRyaWFsLXRha2luZy1mb3JldmVyLXNheXMtZmFtaWx5LWZyaWVuZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vZ29zc2lwb250aGlzLmNvbS8yMDE1LzA0LzA2L3Fhd21hbmUtd2lsc29uLXlvdW5nLXFjLXRyaWFsLXRha2luZy1mb3JldmVyLXNheXMtZmFtaWx5LWZyaWVuZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Apr 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vZ29zc2lwb250aGlzLmNvbS8yMDE1LzA0LzA2L3Fhd21hbmUtd2lsc29uLXlvdW5nLXFjLXRyaWFsLXRha2luZy1mb3JldmVyLXNheXMtZmFtaWx5LWZyaWVuZC_SAQA?oc=5\" target=\"_blank\">Qawmane Wilson (aka Young QC) Trial Is \"Taking Forever,\" Says Family Friend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gossip On This</font>"
+            ],
+            "source": [
+              {
+                "_": "Gossip On This",
+                "$": {
+                  "url": "https://gossiponthis.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,668 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Tom Kuhn NOT Troy\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Tom+Kuhn+NOT+Troy&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Rep. Kuhn glad to see manipulative court-packing plan paused - Mi House Repubs - Michigan House Republicans"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZ29waG91c2Uub3JnL3Bvc3RzL3JlcC1rdWhuLWdsYWQtdG8tc2VlLW1hbmlwdWxhdGl2ZS1jb3VydC1wYWNraW5nLXBsYW4tcGF1c2Vk0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vZ29waG91c2Uub3JnL3Bvc3RzL3JlcC1rdWhuLWdsYWQtdG8tc2VlLW1hbmlwdWxhdGl2ZS1jb3VydC1wYWNraW5nLXBsYW4tcGF1c2Vk0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 Oct 2023 00:25:58 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZ29waG91c2Uub3JnL3Bvc3RzL3JlcC1rdWhuLWdsYWQtdG8tc2VlLW1hbmlwdWxhdGl2ZS1jb3VydC1wYWNraW5nLXBsYW4tcGF1c2Vk0gEA?oc=5\" target=\"_blank\">Rep. Kuhn glad to see manipulative court-packing plan paused - Mi House Repubs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan House Republicans</font>"
+            ],
+            "source": [
+              {
+                "_": "Michigan House Republicans",
+                "$": {
+                  "url": "https://gophouse.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "State legislators propose measure to create fund for highway sound barriers - C&G Newspapers"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmNhbmRnbmV3cy5jb20vbmV3cy9zdGF0ZS1sZWdpc2xhdG9ycy1wcm9wb3NlLW1lYXN1cmUtdG8tY3JlYXRlLWZ1bmQtZm9yLWhpZ2h3YXktc291bmQtYmFycmllcnMtNDQ5NtIBc2h0dHBzOi8vd3d3LmNhbmRnbmV3cy5jb20vYW1wL25ld3Mvc3RhdGUtbGVnaXNsYXRvcnMtcHJvcG9zZS1tZWFzdXJlLXRvLWNyZWF0ZS1mdW5kLWZvci1oaWdod2F5LXNvdW5kLWJhcnJpZXJzLTQ0OTY?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LmNhbmRnbmV3cy5jb20vbmV3cy9zdGF0ZS1sZWdpc2xhdG9ycy1wcm9wb3NlLW1lYXN1cmUtdG8tY3JlYXRlLWZ1bmQtZm9yLWhpZ2h3YXktc291bmQtYmFycmllcnMtNDQ5NtIBc2h0dHBzOi8vd3d3LmNhbmRnbmV3cy5jb20vYW1wL25ld3Mvc3RhdGUtbGVnaXNsYXRvcnMtcHJvcG9zZS1tZWFzdXJlLXRvLWNyZWF0ZS1mdW5kLWZvci1oaWdod2F5LXNvdW5kLWJhcnJpZXJzLTQ0OTY",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmNhbmRnbmV3cy5jb20vbmV3cy9zdGF0ZS1sZWdpc2xhdG9ycy1wcm9wb3NlLW1lYXN1cmUtdG8tY3JlYXRlLWZ1bmQtZm9yLWhpZ2h3YXktc291bmQtYmFycmllcnMtNDQ5NtIBc2h0dHBzOi8vd3d3LmNhbmRnbmV3cy5jb20vYW1wL25ld3Mvc3RhdGUtbGVnaXNsYXRvcnMtcHJvcG9zZS1tZWFzdXJlLXRvLWNyZWF0ZS1mdW5kLWZvci1oaWdod2F5LXNvdW5kLWJhcnJpZXJzLTQ0OTY?oc=5\" target=\"_blank\">State legislators propose measure to create fund for highway sound barriers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C&G Newspapers</font>"
+            ],
+            "source": [
+              {
+                "_": "C&G Newspapers",
+                "$": {
+                  "url": "https://www.candgnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gun safety, House control take center stage as political leaders set sights on 2024 election ⋆ Michigan Advance - Michigan Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL21pY2hpZ2FuYWR2YW5jZS5jb20vMjAyMy8wNi8wOC9ndW4tc2FmZXR5LWhvdXNlLWNvbnRyb2wtdGFrZS1jZW50ZXItc3RhZ2UtYXMtcG9saXRpY2FsLWxlYWRlcnMtc2V0LXNpZ2h0cy1vbi0yMDI0LWVsZWN0aW9uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL21pY2hpZ2FuYWR2YW5jZS5jb20vMjAyMy8wNi8wOC9ndW4tc2FmZXR5LWhvdXNlLWNvbnRyb2wtdGFrZS1jZW50ZXItc3RhZ2UtYXMtcG9saXRpY2FsLWxlYWRlcnMtc2V0LXNpZ2h0cy1vbi0yMDI0LWVsZWN0aW9uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL21pY2hpZ2FuYWR2YW5jZS5jb20vMjAyMy8wNi8wOC9ndW4tc2FmZXR5LWhvdXNlLWNvbnRyb2wtdGFrZS1jZW50ZXItc3RhZ2UtYXMtcG9saXRpY2FsLWxlYWRlcnMtc2V0LXNpZ2h0cy1vbi0yMDI0LWVsZWN0aW9uL9IBAA?oc=5\" target=\"_blank\">Gun safety, House control take center stage as political leaders set sights on 2024 election ⋆ Michigan Advance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "Michigan Advance",
+                "$": {
+                  "url": "https://michiganadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Proposed legislation would allow communities to apply for sound wall funding - Oakland Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyNC8wMS8xNS9wcm9wb3NlZC1sZWdpc2xhdGlvbi13b3VsZC1hbGxvdy1jb21tdW5pdGllcy10by1hcHBseS1mb3Itc291bmQtd2FsbC1mdW5kaW5nL9IBfGh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyNC8wMS8xNS9wcm9wb3NlZC1sZWdpc2xhdGlvbi13b3VsZC1hbGxvdy1jb21tdW5pdGllcy10by1hcHBseS1mb3Itc291bmQtd2FsbC1mdW5kaW5nL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyNC8wMS8xNS9wcm9wb3NlZC1sZWdpc2xhdGlvbi13b3VsZC1hbGxvdy1jb21tdW5pdGllcy10by1hcHBseS1mb3Itc291bmQtd2FsbC1mdW5kaW5nL9IBfGh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyNC8wMS8xNS9wcm9wb3NlZC1sZWdpc2xhdGlvbi13b3VsZC1hbGxvdy1jb21tdW5pdGllcy10by1hcHBseS1mb3Itc291bmQtd2FsbC1mdW5kaW5nL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 15 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyNC8wMS8xNS9wcm9wb3NlZC1sZWdpc2xhdGlvbi13b3VsZC1hbGxvdy1jb21tdW5pdGllcy10by1hcHBseS1mb3Itc291bmQtd2FsbC1mdW5kaW5nL9IBfGh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyNC8wMS8xNS9wcm9wb3NlZC1sZWdpc2xhdGlvbi13b3VsZC1hbGxvdy1jb21tdW5pdGllcy10by1hcHBseS1mb3Itc291bmQtd2FsbC1mdW5kaW5nL2FtcC8?oc=5\" target=\"_blank\">Proposed legislation would allow communities to apply for sound wall funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oakland Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Oakland Press",
+                "$": {
+                  "url": "https://www.theoaklandpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rep. Thompson part of bill to keep legislators working through Dec. 28 - Monroe Evening News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5tb25yb2VuZXdzLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL3N0YXRlLzIwMjMvMTEvMTgvcmVwLWphbWllLXRob21wc29uLWxlZ2lzbGF0b3JzLWNocmlzdG1hcy1ob3VzZS1jb25jdXJyZW50LXJlc29sdWl0aW9uLTkvNzE1Nzg5MTIwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilAFodHRwczovL3d3dy5tb25yb2VuZXdzLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL3N0YXRlLzIwMjMvMTEvMTgvcmVwLWphbWllLXRob21wc29uLWxlZ2lzbGF0b3JzLWNocmlzdG1hcy1ob3VzZS1jb25jdXJyZW50LXJlc29sdWl0aW9uLTkvNzE1Nzg5MTIwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 18 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5tb25yb2VuZXdzLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL3N0YXRlLzIwMjMvMTEvMTgvcmVwLWphbWllLXRob21wc29uLWxlZ2lzbGF0b3JzLWNocmlzdG1hcy1ob3VzZS1jb25jdXJyZW50LXJlc29sdWl0aW9uLTkvNzE1Nzg5MTIwMDcv0gEA?oc=5\" target=\"_blank\">Rep. Thompson part of bill to keep legislators working through Dec. 28</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Monroe Evening News</font>"
+            ],
+            "source": [
+              {
+                "_": "Monroe Evening News",
+                "$": {
+                  "url": "https://www.monroenews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican activist in Troy admits he misrepresented recall he began - Detroit Free Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5mcmVlcC5jb20vc3RvcnkvbmV3cy9sb2NhbC9taWNoaWdhbi9vYWtsYW5kLzIwMjMvMTEvMDYvcmVwdWJsaWNhbi1hY3RpdmlzdC1pbi10cm95LWFkbWl0cy1oZS1taXNyZXByZXNlbnRlZC1yZWNhbGwtaGUtYmVnYW4vNzEzMzI0NDkwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilAFodHRwczovL3d3dy5mcmVlcC5jb20vc3RvcnkvbmV3cy9sb2NhbC9taWNoaWdhbi9vYWtsYW5kLzIwMjMvMTEvMDYvcmVwdWJsaWNhbi1hY3RpdmlzdC1pbi10cm95LWFkbWl0cy1oZS1taXNyZXByZXNlbnRlZC1yZWNhbGwtaGUtYmVnYW4vNzEzMzI0NDkwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5mcmVlcC5jb20vc3RvcnkvbmV3cy9sb2NhbC9taWNoaWdhbi9vYWtsYW5kLzIwMjMvMTEvMDYvcmVwdWJsaWNhbi1hY3RpdmlzdC1pbi10cm95LWFkbWl0cy1oZS1taXNyZXByZXNlbnRlZC1yZWNhbGwtaGUtYmVnYW4vNzEzMzI0NDkwMDcv0gEA?oc=5\" target=\"_blank\">Republican activist in Troy admits he misrepresented recall he began</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Detroit Free Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Detroit Free Press",
+                "$": {
+                  "url": "https://www.freep.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "5 years after Janus ruling, 22% of government employees opt out of unions - Michigan Capitol Confidential"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1pY2hpZ2FuY2FwaXRvbGNvbmZpZGVudGlhbC5jb20vbmV3cy81LXllYXJzLWFmdGVyLWphbnVzLXJ1bGluZy0yMi1vZi1nb3Zlcm5tZW50LWVtcGxveWVlcy1vcHQtb3V0LW9mLXVuaW9uc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3Lm1pY2hpZ2FuY2FwaXRvbGNvbmZpZGVudGlhbC5jb20vbmV3cy81LXllYXJzLWFmdGVyLWphbnVzLXJ1bGluZy0yMi1vZi1nb3Zlcm5tZW50LWVtcGxveWVlcy1vcHQtb3V0LW9mLXVuaW9uc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 18 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1pY2hpZ2FuY2FwaXRvbGNvbmZpZGVudGlhbC5jb20vbmV3cy81LXllYXJzLWFmdGVyLWphbnVzLXJ1bGluZy0yMi1vZi1nb3Zlcm5tZW50LWVtcGxveWVlcy1vcHQtb3V0LW9mLXVuaW9uc9IBAA?oc=5\" target=\"_blank\">5 years after Janus ruling, 22% of government employees opt out of unions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan Capitol Confidential</font>"
+            ],
+            "source": [
+              {
+                "_": "Michigan Capitol Confidential",
+                "$": {
+                  "url": "https://www.michigancapitolconfidential.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kuhn, St. Germaine: Michigan's economy needs defense center - Detroit News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmRldHJvaXRuZXdzLmNvbS9zdG9yeS9vcGluaW9uLzIwMjMvMTEvMDYva3Vobi1zdC1nZXJtYWluZS1taWNoaWdhbnMtZWNvbm9teS1uZWVkcy1kZWZlbnNlLWNlbnRlci83MTQ3NDY4OTAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vd3d3LmRldHJvaXRuZXdzLmNvbS9zdG9yeS9vcGluaW9uLzIwMjMvMTEvMDYva3Vobi1zdC1nZXJtYWluZS1taWNoaWdhbnMtZWNvbm9teS1uZWVkcy1kZWZlbnNlLWNlbnRlci83MTQ3NDY4OTAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmRldHJvaXRuZXdzLmNvbS9zdG9yeS9vcGluaW9uLzIwMjMvMTEvMDYva3Vobi1zdC1nZXJtYWluZS1taWNoaWdhbnMtZWNvbm9teS1uZWVkcy1kZWZlbnNlLWNlbnRlci83MTQ3NDY4OTAwNy_SAQA?oc=5\" target=\"_blank\">Kuhn, St. Germaine: Michigan's economy needs defense center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Detroit News</font>"
+            ],
+            "source": [
+              {
+                "_": "Detroit News",
+                "$": {
+                  "url": "https://www.detroitnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Legislature passes spending bills funding roads, bridges and school district debt relief ⋆ Michigan Advance - Michigan Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbWljaGlnYW5hZHZhbmNlLmNvbS8yMDIzLzExLzA0L2xlZ2lzbGF0dXJlLXBhc3Nlcy1zcGVuZGluZy1iaWxscy1mdW5kaW5nLXJvYWRzLWJyaWRnZXMtYW5kLXNjaG9vbC1kaXN0cmljdC1kZWJ0LXJlbGllZi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vbWljaGlnYW5hZHZhbmNlLmNvbS8yMDIzLzExLzA0L2xlZ2lzbGF0dXJlLXBhc3Nlcy1zcGVuZGluZy1iaWxscy1mdW5kaW5nLXJvYWRzLWJyaWRnZXMtYW5kLXNjaG9vbC1kaXN0cmljdC1kZWJ0LXJlbGllZi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 04 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbWljaGlnYW5hZHZhbmNlLmNvbS8yMDIzLzExLzA0L2xlZ2lzbGF0dXJlLXBhc3Nlcy1zcGVuZGluZy1iaWxscy1mdW5kaW5nLXJvYWRzLWJyaWRnZXMtYW5kLXNjaG9vbC1kaXN0cmljdC1kZWJ0LXJlbGllZi_SAQA?oc=5\" target=\"_blank\">Legislature passes spending bills funding roads, bridges and school district debt relief ⋆ Michigan Advance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "Michigan Advance",
+                "$": {
+                  "url": "https://michiganadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Anne Kuhn Obituary (1923 - 2023) - Royal Oak, MI - The Oakland Press - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy90aGVvYWtsYW5kcHJlc3MvbmFtZS9hbm5lLWt1aG4tb2JpdHVhcnk_aWQ9NTMxNTk3NznSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy90aGVvYWtsYW5kcHJlc3MvbmFtZS9hbm5lLWt1aG4tb2JpdHVhcnk_aWQ9NTMxNTk3NznSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy90aGVvYWtsYW5kcHJlc3MvbmFtZS9hbm5lLWt1aG4tb2JpdHVhcnk_aWQ9NTMxNTk3NznSAQA?oc=5\" target=\"_blank\">Anne Kuhn Obituary (1923 - 2023) - Royal Oak, MI - The Oakland Press</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Michigan House passes bills to ban gun possession for domestic abusers - Manistee News Advocate"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm1hbmlzdGVlbmV3cy5jb20vbmV3cy9hcnRpY2xlL21pY2hpZ2FuLTgteWVhci1ndW4tYmFuLWZvci1hYnVzZXJzLXBhc3Nlcy1ob3VzZS0xODQ2NzM4OC5waHDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lm1hbmlzdGVlbmV3cy5jb20vbmV3cy9hcnRpY2xlL21pY2hpZ2FuLTgteWVhci1ndW4tYmFuLWZvci1hYnVzZXJzLXBhc3Nlcy1ob3VzZS0xODQ2NzM4OC5waHDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm1hbmlzdGVlbmV3cy5jb20vbmV3cy9hcnRpY2xlL21pY2hpZ2FuLTgteWVhci1ndW4tYmFuLWZvci1hYnVzZXJzLXBhc3Nlcy1ob3VzZS0xODQ2NzM4OC5waHDSAQA?oc=5\" target=\"_blank\">Michigan House passes bills to ban gun possession for domestic abusers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manistee News Advocate</font>"
+            ],
+            "source": [
+              {
+                "_": "Manistee News Advocate",
+                "$": {
+                  "url": "https://www.manisteenews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Legislation expanding gun restrictions for domestic abusers clears Michigan House ⋆ Michigan Advance - Michigan Advance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbWljaGlnYW5hZHZhbmNlLmNvbS8yMDIzLzExLzAyL2xlZ2lzbGF0aW9uLWV4cGFuZGluZy1ndW4tcmVzdHJpY3Rpb25zLWZvci1kb21lc3RpYy1hYnVzZXJzLWNsZWFycy1taWNoaWdhbi1ob3VzZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vbWljaGlnYW5hZHZhbmNlLmNvbS8yMDIzLzExLzAyL2xlZ2lzbGF0aW9uLWV4cGFuZGluZy1ndW4tcmVzdHJpY3Rpb25zLWZvci1kb21lc3RpYy1hYnVzZXJzLWNsZWFycy1taWNoaWdhbi1ob3VzZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 02 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbWljaGlnYW5hZHZhbmNlLmNvbS8yMDIzLzExLzAyL2xlZ2lzbGF0aW9uLWV4cGFuZGluZy1ndW4tcmVzdHJpY3Rpb25zLWZvci1kb21lc3RpYy1hYnVzZXJzLWNsZWFycy1taWNoaWdhbi1ob3VzZS_SAQA?oc=5\" target=\"_blank\">Legislation expanding gun restrictions for domestic abusers clears Michigan House ⋆ Michigan Advance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan Advance</font>"
+            ],
+            "source": [
+              {
+                "_": "Michigan Advance",
+                "$": {
+                  "url": "https://michiganadvance.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Livengood: Michigan lawmakers aren't trying to criminalize pronoun use - Detroit News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy5kZXRyb2l0bmV3cy5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9taWNoaWdhbi8yMDIzLzA3LzA0L21pY2hpZ2FuLWxlZ2lzbGF0dXJlLW5vdC1jcmltaW5hbGl6ZS1wcm9ub3VuLXVzZS1sZ2J0cS10cmFuc2dlbmRlci1taXNnZW5kZXJpbmctZm94LW5ld3MtZGFpbHktbWFpbC83MDM3OTUxODAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitAFodHRwczovL3d3dy5kZXRyb2l0bmV3cy5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9taWNoaWdhbi8yMDIzLzA3LzA0L21pY2hpZ2FuLWxlZ2lzbGF0dXJlLW5vdC1jcmltaW5hbGl6ZS1wcm9ub3VuLXVzZS1sZ2J0cS10cmFuc2dlbmRlci1taXNnZW5kZXJpbmctZm94LW5ld3MtZGFpbHktbWFpbC83MDM3OTUxODAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy5kZXRyb2l0bmV3cy5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9taWNoaWdhbi8yMDIzLzA3LzA0L21pY2hpZ2FuLWxlZ2lzbGF0dXJlLW5vdC1jcmltaW5hbGl6ZS1wcm9ub3VuLXVzZS1sZ2J0cS10cmFuc2dlbmRlci1taXNnZW5kZXJpbmctZm94LW5ld3MtZGFpbHktbWFpbC83MDM3OTUxODAwNy_SAQA?oc=5\" target=\"_blank\">Livengood: Michigan lawmakers aren't trying to criminalize pronoun use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Detroit News</font>"
+            ],
+            "source": [
+              {
+                "_": "Detroit News",
+                "$": {
+                  "url": "https://www.detroitnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Legislature awards $10 million for I-75 sound walls - Oakland Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyMy8wNy8wMy9sZWdpc2xhdHVyZS1hd2FyZHMtMTAtbWlsbGlvbi1mb3ItaS03NS1zb3VuZC13YWxscy_SAWJodHRwczovL3d3dy50aGVvYWtsYW5kcHJlc3MuY29tLzIwMjMvMDcvMDMvbGVnaXNsYXR1cmUtYXdhcmRzLTEwLW1pbGxpb24tZm9yLWktNzUtc291bmQtd2FsbHMvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyMy8wNy8wMy9sZWdpc2xhdHVyZS1hd2FyZHMtMTAtbWlsbGlvbi1mb3ItaS03NS1zb3VuZC13YWxscy_SAWJodHRwczovL3d3dy50aGVvYWtsYW5kcHJlc3MuY29tLzIwMjMvMDcvMDMvbGVnaXNsYXR1cmUtYXdhcmRzLTEwLW1pbGxpb24tZm9yLWktNzUtc291bmQtd2FsbHMvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 03 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyMy8wNy8wMy9sZWdpc2xhdHVyZS1hd2FyZHMtMTAtbWlsbGlvbi1mb3ItaS03NS1zb3VuZC13YWxscy_SAWJodHRwczovL3d3dy50aGVvYWtsYW5kcHJlc3MuY29tLzIwMjMvMDcvMDMvbGVnaXNsYXR1cmUtYXdhcmRzLTEwLW1pbGxpb24tZm9yLWktNzUtc291bmQtd2FsbHMvYW1wLw?oc=5\" target=\"_blank\">Legislature awards $10 million for I-75 sound walls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oakland Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Oakland Press",
+                "$": {
+                  "url": "https://www.theoaklandpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Whitmer signs gun safety bills following school shootings - Detroit Free Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmZyZWVwLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDQvMTMvbWljaGlnYW4td2hpdG1lci1ndW4tc2FmZXR5LWJpbGxzLXNjaG9vbC1zaG9vdGluZy83MDA0MTg3MjAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LmZyZWVwLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDQvMTMvbWljaGlnYW4td2hpdG1lci1ndW4tc2FmZXR5LWJpbGxzLXNjaG9vbC1zaG9vdGluZy83MDA0MTg3MjAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmZyZWVwLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDQvMTMvbWljaGlnYW4td2hpdG1lci1ndW4tc2FmZXR5LWJpbGxzLXNjaG9vbC1zaG9vdGluZy83MDA0MTg3MjAwNy_SAQA?oc=5\" target=\"_blank\">Whitmer signs gun safety bills following school shootings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Detroit Free Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Detroit Free Press",
+                "$": {
+                  "url": "https://www.freep.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dr. Anne Kuhn M.D. Obituary - Death Notice and Service Information - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vb2JpdHVhcmllcy9uYW1lL2FubmUta3Vobi1vYml0dWFyeT9waWQ9MjA1MzQ1MTg10gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vb2JpdHVhcmllcy9uYW1lL2FubmUta3Vobi1vYml0dWFyeT9waWQ9MjA1MzQ1MTg10gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vb2JpdHVhcmllcy9uYW1lL2FubmUta3Vobi1vYml0dWFyeT9waWQ9MjA1MzQ1MTg10gEA?oc=5\" target=\"_blank\">Dr. Anne Kuhn M.D. Obituary - Death Notice and Service Information</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Hill’s Top Lobbyists 2021 - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdGhlaGlsbC5jb20vYnVzaW5lc3MtYS1sb2JieWluZy90b3AtbG9iYnlpc3RzLzU4MzcyMi10aGUtaGlsbHMtdG9wLWxvYmJ5aXN0cy0yMDIxL9IBXmh0dHBzOi8vdGhlaGlsbC5jb20vYnVzaW5lc3MtYS1sb2JieWluZy90b3AtbG9iYnlpc3RzLzU4MzcyMi10aGUtaGlsbHMtdG9wLWxvYmJ5aXN0cy0yMDIxL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vdGhlaGlsbC5jb20vYnVzaW5lc3MtYS1sb2JieWluZy90b3AtbG9iYnlpc3RzLzU4MzcyMi10aGUtaGlsbHMtdG9wLWxvYmJ5aXN0cy0yMDIxL9IBXmh0dHBzOi8vdGhlaGlsbC5jb20vYnVzaW5lc3MtYS1sb2JieWluZy90b3AtbG9iYnlpc3RzLzU4MzcyMi10aGUtaGlsbHMtdG9wLWxvYmJ5aXN0cy0yMDIxL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 01 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdGhlaGlsbC5jb20vYnVzaW5lc3MtYS1sb2JieWluZy90b3AtbG9iYnlpc3RzLzU4MzcyMi10aGUtaGlsbHMtdG9wLWxvYmJ5aXN0cy0yMDIxL9IBXmh0dHBzOi8vdGhlaGlsbC5jb20vYnVzaW5lc3MtYS1sb2JieWluZy90b3AtbG9iYnlpc3RzLzU4MzcyMi10aGUtaGlsbHMtdG9wLWxvYmJ5aXN0cy0yMDIxL2FtcC8?oc=5\" target=\"_blank\">The Hill’s Top Lobbyists 2021</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Candidate Interview: Aisha Farooqi for State Rep Dist 57 - Oakland County Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vb2FrbGFuZGNvdW50eTExNS5jb20vMjAyMi8wNy8yNC9jYW5kaWRhdGUtaW50ZXJ2aWV3LWFpc2hhLWZhcm9vcWktZm9yLXN0YXRlLXJlcC1kaXN0LTU3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vb2FrbGFuZGNvdW50eTExNS5jb20vMjAyMi8wNy8yNC9jYW5kaWRhdGUtaW50ZXJ2aWV3LWFpc2hhLWZhcm9vcWktZm9yLXN0YXRlLXJlcC1kaXN0LTU3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 24 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vb2FrbGFuZGNvdW50eTExNS5jb20vMjAyMi8wNy8yNC9jYW5kaWRhdGUtaW50ZXJ2aWV3LWFpc2hhLWZhcm9vcWktZm9yLXN0YXRlLXJlcC1kaXN0LTU3L9IBAA?oc=5\" target=\"_blank\">Candidate Interview: Aisha Farooqi for State Rep Dist 57</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oakland County Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Oakland County Times",
+                "$": {
+                  "url": "https://oaklandcounty115.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Troy City Council Candidate Survey: Thomas Kuhn - Patch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vcGF0Y2guY29tL21pY2hpZ2FuL3Ryb3kvdHJveS1jaXR5LWNvdW5jaWwtY2FuZGlkYXRlLXN1cnZleS10aG9tYXMta3VobtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vcGF0Y2guY29tL21pY2hpZ2FuL3Ryb3kvdHJveS1jaXR5LWNvdW5jaWwtY2FuZGlkYXRlLXN1cnZleS10aG9tYXMta3VobtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Oct 2013 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vcGF0Y2guY29tL21pY2hpZ2FuL3Ryb3kvdHJveS1jaXR5LWNvdW5jaWwtY2FuZGlkYXRlLXN1cnZleS10aG9tYXMta3VobtIBAA?oc=5\" target=\"_blank\">Troy City Council Candidate Survey: Thomas Kuhn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
+            ],
+            "source": [
+              {
+                "_": "Patch",
+                "$": {
+                  "url": "https://patch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gun buyback gets green light in Oakland County - Oakland Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyMi8wOS8wNC9wcm9wb3NlZC1ndW4tYnV5YmFjay1pbi1vYWtsYW5kLWNvdW50eS_SAVZodHRwczovL3d3dy50aGVvYWtsYW5kcHJlc3MuY29tLzIwMjIvMDkvMDQvcHJvcG9zZWQtZ3VuLWJ1eWJhY2staW4tb2FrbGFuZC1jb3VudHkvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyMi8wOS8wNC9wcm9wb3NlZC1ndW4tYnV5YmFjay1pbi1vYWtsYW5kLWNvdW50eS_SAVZodHRwczovL3d3dy50aGVvYWtsYW5kcHJlc3MuY29tLzIwMjIvMDkvMDQvcHJvcG9zZWQtZ3VuLWJ1eWJhY2staW4tb2FrbGFuZC1jb3VudHkvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoZW9ha2xhbmRwcmVzcy5jb20vMjAyMi8wOS8wNC9wcm9wb3NlZC1ndW4tYnV5YmFjay1pbi1vYWtsYW5kLWNvdW50eS_SAVZodHRwczovL3d3dy50aGVvYWtsYW5kcHJlc3MuY29tLzIwMjIvMDkvMDQvcHJvcG9zZWQtZ3VuLWJ1eWJhY2staW4tb2FrbGFuZC1jb3VudHkvYW1wLw?oc=5\" target=\"_blank\">Gun buyback gets green light in Oakland County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oakland Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Oakland Press",
+                "$": {
+                  "url": "https://www.theoaklandpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2018 Candidate Interview: Ann Erickson Gault for County Commissioner Dist. 11 - Oakland County Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vb2FrbGFuZGNvdW50eTExNS5jb20vMjAxOC8wNy8wNy8yMDE4LWNhbmRpZGF0ZS1pbnRlcnZpZXctYW5uLWVyaWNrc29uLWdhdWx0LWZvci1jb3VudHktY29tbWlzc2lvbmVyLWRpc3QtMTEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vb2FrbGFuZGNvdW50eTExNS5jb20vMjAxOC8wNy8wNy8yMDE4LWNhbmRpZGF0ZS1pbnRlcnZpZXctYW5uLWVyaWNrc29uLWdhdWx0LWZvci1jb3VudHktY29tbWlzc2lvbmVyLWRpc3QtMTEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 07 Jul 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vb2FrbGFuZGNvdW50eTExNS5jb20vMjAxOC8wNy8wNy8yMDE4LWNhbmRpZGF0ZS1pbnRlcnZpZXctYW5uLWVyaWNrc29uLWdhdWx0LWZvci1jb3VudHktY29tbWlzc2lvbmVyLWRpc3QtMTEv0gEA?oc=5\" target=\"_blank\">2018 Candidate Interview: Ann Erickson Gault for County Commissioner Dist. 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oakland County Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Oakland County Times",
+                "$": {
+                  "url": "https://oaklandcounty115.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

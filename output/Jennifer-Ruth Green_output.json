@@ -1,0 +1,2288 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Jennifer-Ruth Green\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Jennifer-Ruth+Green&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Air Force takes blame in Green records snafu - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL2Fpci1mb3JjZS10YWtlcy1ibGFtZS1pbi1ncmVlbi1yZWNvcmRzLXNuYWZ1L2FydGljbGVfZWJjMGIwOGItZjU4OC01MDAwLTgwOWQtOTIzOGJjZWY0MGU4Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL2Fpci1mb3JjZS10YWtlcy1ibGFtZS1pbi1ncmVlbi1yZWNvcmRzLXNuYWZ1L2FydGljbGVfZWJjMGIwOGItZjU4OC01MDAwLTgwOWQtOTIzOGJjZWY0MGU4Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 02 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL2Fpci1mb3JjZS10YWtlcy1ibGFtZS1pbi1ncmVlbi1yZWNvcmRzLXNuYWZ1L2FydGljbGVfZWJjMGIwOGItZjU4OC01MDAwLTgwOWQtOTIzOGJjZWY0MGU4Lmh0bWzSAQA?oc=5\" target=\"_blank\">Air Force takes blame in Green records snafu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Commentary: Biden's Russia policy is too little and too late — Gabriel Noronha and Jennifer-Ruth Green - Jacksonville Journal-Courier"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm15am91cm5hbGNvdXJpZXIuY29tL29waW5pb24vYXJ0aWNsZS9jb21tZW50YXJ5LTE3ODI1NTEzLnBocNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSGh0dHBzOi8vd3d3Lm15am91cm5hbGNvdXJpZXIuY29tL29waW5pb24vYXJ0aWNsZS9jb21tZW50YXJ5LTE3ODI1NTEzLnBocNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm15am91cm5hbGNvdXJpZXIuY29tL29waW5pb24vYXJ0aWNsZS9jb21tZW50YXJ5LTE3ODI1NTEzLnBocNIBAA?oc=5\" target=\"_blank\">Commentary: Biden's Russia policy is too little and too late — Gabriel Noronha and Jennifer-Ruth Green</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jacksonville Journal-Courier</font>"
+            ],
+            "source": [
+              {
+                "_": "Jacksonville Journal-Courier",
+                "$": {
+                  "url": "https://www.myjournalcourier.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former Region congressional candidate backing Braun for Indiana governor - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9mb3JtZXItcmVnaW9uLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlLWJhY2tpbmctYnJhdW4tZm9yLWluZGlhbmEtZ292ZXJub3IvdmlkZW9fNDY5NWQ4ODMtYTY3ZS01MzJmLTgyMGYtOWQ4NjViNzhiNWJhLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9mb3JtZXItcmVnaW9uLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlLWJhY2tpbmctYnJhdW4tZm9yLWluZGlhbmEtZ292ZXJub3IvdmlkZW9fNDY5NWQ4ODMtYTY3ZS01MzJmLTgyMGYtOWQ4NjViNzhiNWJhLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 04 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9mb3JtZXItcmVnaW9uLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlLWJhY2tpbmctYnJhdW4tZm9yLWluZGlhbmEtZ292ZXJub3IvdmlkZW9fNDY5NWQ4ODMtYTY3ZS01MzJmLTgyMGYtOWQ4NjViNzhiNWJhLmh0bWzSAQA?oc=5\" target=\"_blank\">Former Region congressional candidate backing Braun for Indiana governor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Air Force takes 'full responsibility' for Jennifer-Ruth Green sexual assault leak, GOP congressmen say - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Fpci1mb3JjZS10YWtlcy1mdWxsLXJlc3BvbnNpYmlsaXR5LWplbm5pZmVyLXJ1dGgtZ3JlZW4tc2V4dWFsLWFzc2F1bHQtbGVhay1jb25ncmVzc21lbi1zYXnSAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvYWlyLWZvcmNlLXRha2VzLWZ1bGwtcmVzcG9uc2liaWxpdHktamVubmlmZXItcnV0aC1ncmVlbi1zZXh1YWwtYXNzYXVsdC1sZWFrLWNvbmdyZXNzbWVuLXNheS5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Fpci1mb3JjZS10YWtlcy1mdWxsLXJlc3BvbnNpYmlsaXR5LWplbm5pZmVyLXJ1dGgtZ3JlZW4tc2V4dWFsLWFzc2F1bHQtbGVhay1jb25ncmVzc21lbi1zYXnSAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvYWlyLWZvcmNlLXRha2VzLWZ1bGwtcmVzcG9uc2liaWxpdHktamVubmlmZXItcnV0aC1ncmVlbi1zZXh1YWwtYXNzYXVsdC1sZWFrLWNvbmdyZXNzbWVuLXNheS5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Fpci1mb3JjZS10YWtlcy1mdWxsLXJlc3BvbnNpYmlsaXR5LWplbm5pZmVyLXJ1dGgtZ3JlZW4tc2V4dWFsLWFzc2F1bHQtbGVhay1jb25ncmVzc21lbi1zYXnSAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvYWlyLWZvcmNlLXRha2VzLWZ1bGwtcmVzcG9uc2liaWxpdHktamVubmlmZXItcnV0aC1ncmVlbi1zZXh1YWwtYXNzYXVsdC1sZWFrLWNvbmdyZXNzbWVuLXNheS5hbXA?oc=5\" target=\"_blank\">Air Force takes 'full responsibility' for Jennifer-Ruth Green sexual assault leak, GOP congressmen say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Could Jennifer-Ruth Green be the second Black Republican woman in Congress? - The 19th*"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vMTl0aG5ld3Mub3JnLzIwMjIvMTEvamVubmlmZXItcnV0aC1ncmVlbi1ibGFjay1yZXB1YmxpY2FuLWNvbmdyZXNzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vMTl0aG5ld3Mub3JnLzIwMjIvMTEvamVubmlmZXItcnV0aC1ncmVlbi1ibGFjay1yZXB1YmxpY2FuLWNvbmdyZXNzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vMTl0aG5ld3Mub3JnLzIwMjIvMTEvamVubmlmZXItcnV0aC1ncmVlbi1ibGFjay1yZXB1YmxpY2FuLWNvbmdyZXNzL9IBAA?oc=5\" target=\"_blank\">Could Jennifer-Ruth Green be the second Black Republican woman in Congress?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The 19th*</font>"
+            ],
+            "source": [
+              {
+                "_": "The 19th*",
+                "$": {
+                  "url": "https://19thnews.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pro-Trump Republican Jennifer-Ruth Green wins in 1st Congressional District primary - IndyStar"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA1LzAzL3Byby10cnVtcC1qZW5uaWZlci1ydXRoLWdyZWVuLWNsYWltcy12aWN0b3J5LTFzdC1kaXN0cmljdC1wcmltYXJ5Lzk2Mzk0MzMwMDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA1LzAzL3Byby10cnVtcC1qZW5uaWZlci1ydXRoLWdyZWVuLWNsYWltcy12aWN0b3J5LTFzdC1kaXN0cmljdC1wcmltYXJ5Lzk2Mzk0MzMwMDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA1LzAzL3Byby10cnVtcC1qZW5uaWZlci1ydXRoLWdyZWVuLWNsYWltcy12aWN0b3J5LTFzdC1kaXN0cmljdC1wcmltYXJ5Lzk2Mzk0MzMwMDIv0gEA?oc=5\" target=\"_blank\">Pro-Trump Republican Jennifer-Ruth Green wins in 1st Congressional District primary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndyStar</font>"
+            ],
+            "source": [
+              {
+                "_": "IndyStar",
+                "$": {
+                  "url": "https://www.indystar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP eyes Indiana upset amid national push to diversify party - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlLzIwMjItbWlkdGVybS1lbGVjdGlvbnMtYmlkZW4tcmFjZS1hbmQtZXRobmljaXR5LWluZGlhbmEtNzllZTgyYWM1M2YyZjEwMDI0ZDAzMDkwMjllYTE2OTPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlLzIwMjItbWlkdGVybS1lbGVjdGlvbnMtYmlkZW4tcmFjZS1hbmQtZXRobmljaXR5LWluZGlhbmEtNzllZTgyYWM1M2YyZjEwMDI0ZDAzMDkwMjllYTE2OTPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlLzIwMjItbWlkdGVybS1lbGVjdGlvbnMtYmlkZW4tcmFjZS1hbmQtZXRobmljaXR5LWluZGlhbmEtNzllZTgyYWM1M2YyZjEwMDI0ZDAzMDkwMjllYTE2OTPSAQA?oc=5\" target=\"_blank\">GOP eyes Indiana upset amid national push to diversify party</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Endorsements Continue To Roll In For Congressman Banks' Bid For Senate - WOWO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd293by5jb20vZW5kb3JzZW1lbnRzLWNvbnRpbnVlLXRvLXJvbGwtaW4tZm9yLWNvbmdyZXNzbWFuLWJhbmtzLWJpZC1mb3Itc2VuYXRlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd293by5jb20vZW5kb3JzZW1lbnRzLWNvbnRpbnVlLXRvLXJvbGwtaW4tZm9yLWNvbmdyZXNzbWFuLWJhbmtzLWJpZC1mb3Itc2VuYXRlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 25 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd293by5jb20vZW5kb3JzZW1lbnRzLWNvbnRpbnVlLXRvLXJvbGwtaW4tZm9yLWNvbmdyZXNzbWFuLWJhbmtzLWJpZC1mb3Itc2VuYXRlL9IBAA?oc=5\" target=\"_blank\">Endorsements Continue To Roll In For Congressman Banks' Bid For Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOWO</font>"
+            ],
+            "source": [
+              {
+                "_": "WOWO",
+                "$": {
+                  "url": "https://wowo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "122nd Fighter Wing Hosts Historic Assumption of Command - DVIDS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzM2MjMzNi8xMjJuZC1maWdodGVyLXdpbmctaG9zdHMtaGlzdG9yaWMtYXNzdW1wdGlvbi1jb21tYW5k0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzM2MjMzNi8xMjJuZC1maWdodGVyLXdpbmctaG9zdHMtaGlzdG9yaWMtYXNzdW1wdGlvbi1jb21tYW5k0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Sep 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzM2MjMzNi8xMjJuZC1maWdodGVyLXdpbmctaG9zdHMtaGlzdG9yaWMtYXNzdW1wdGlvbi1jb21tYW5k0gEA?oc=5\" target=\"_blank\">122nd Fighter Wing Hosts Historic Assumption of Command</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DVIDS</font>"
+            ],
+            "source": [
+              {
+                "_": "DVIDS",
+                "$": {
+                  "url": "https://www.dvidshub.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jennifer-Ruth Green takes aim at political opposition after Politico publishes records of her sexual assault - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2plbm5pZmVyLXJ1dGgtZ3JlZW4tdGFrZXMtYWltLXBvbGl0aWNhbC1vcHBvc2l0aW9uLXBvbGl0aWNvLXB1Ymxpc2hlcy1yZWNvcmRzLXNleHVhbC1hc3NhdWx00gGBAWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2plbm5pZmVyLXJ1dGgtZ3JlZW4tdGFrZXMtYWltLXBvbGl0aWNhbC1vcHBvc2l0aW9uLXBvbGl0aWNvLXB1Ymxpc2hlcy1yZWNvcmRzLXNleHVhbC1hc3NhdWx0LmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2plbm5pZmVyLXJ1dGgtZ3JlZW4tdGFrZXMtYWltLXBvbGl0aWNhbC1vcHBvc2l0aW9uLXBvbGl0aWNvLXB1Ymxpc2hlcy1yZWNvcmRzLXNleHVhbC1hc3NhdWx00gGBAWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2plbm5pZmVyLXJ1dGgtZ3JlZW4tdGFrZXMtYWltLXBvbGl0aWNhbC1vcHBvc2l0aW9uLXBvbGl0aWNvLXB1Ymxpc2hlcy1yZWNvcmRzLXNleHVhbC1hc3NhdWx0LmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 09 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2plbm5pZmVyLXJ1dGgtZ3JlZW4tdGFrZXMtYWltLXBvbGl0aWNhbC1vcHBvc2l0aW9uLXBvbGl0aWNvLXB1Ymxpc2hlcy1yZWNvcmRzLXNleHVhbC1hc3NhdWx00gGBAWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2plbm5pZmVyLXJ1dGgtZ3JlZW4tdGFrZXMtYWltLXBvbGl0aWNhbC1vcHBvc2l0aW9uLXBvbGl0aWNvLXB1Ymxpc2hlcy1yZWNvcmRzLXNleHVhbC1hc3NhdWx0LmFtcA?oc=5\" target=\"_blank\">Jennifer-Ruth Green takes aim at political opposition after Politico publishes records of her sexual assault</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indiana's 1st US House District: Democrat Frank Mvran wins - IndyStar"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMi8xMS8wOC9qZW5uaWZlci1ydXRoLWdyZWVuLWZyYW5rLW1ydmFuLTFzdC1ob3VzZS1kaXN0cmljdC1pbmRpYW5hLWVsZWN0aW9uLTIwMjIvNjk1ODYyMzQwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMi8xMS8wOC9qZW5uaWZlci1ydXRoLWdyZWVuLWZyYW5rLW1ydmFuLTFzdC1ob3VzZS1kaXN0cmljdC1pbmRpYW5hLWVsZWN0aW9uLTIwMjIvNjk1ODYyMzQwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMi8xMS8wOC9qZW5uaWZlci1ydXRoLWdyZWVuLWZyYW5rLW1ydmFuLTFzdC1ob3VzZS1kaXN0cmljdC1pbmRpYW5hLWVsZWN0aW9uLTIwMjIvNjk1ODYyMzQwMDcv0gEA?oc=5\" target=\"_blank\">Indiana's 1st US House District: Democrat Frank Mvran wins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndyStar</font>"
+            ],
+            "source": [
+              {
+                "_": "IndyStar",
+                "$": {
+                  "url": "https://www.indystar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans again hoping to flip Northwest Indiana's US House seat - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL3JlcHVibGljYW5zLWFnYWluLWhvcGluZy10by1mbGlwLW5vcnRod2VzdC1pbmRpYW5hcy11cy1ob3VzZS1zZWF0L2FydGljbGVfNjQxZTRkMWItNjdjNS01Y2VhLWE3YzItM2I4YTkxMmFiNDczLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL3JlcHVibGljYW5zLWFnYWluLWhvcGluZy10by1mbGlwLW5vcnRod2VzdC1pbmRpYW5hcy11cy1ob3VzZS1zZWF0L2FydGljbGVfNjQxZTRkMWItNjdjNS01Y2VhLWE3YzItM2I4YTkxMmFiNDczLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL3JlcHVibGljYW5zLWFnYWluLWhvcGluZy10by1mbGlwLW5vcnRod2VzdC1pbmRpYW5hcy11cy1ob3VzZS1zZWF0L2FydGljbGVfNjQxZTRkMWItNjdjNS01Y2VhLWE3YzItM2I4YTkxMmFiNDczLmh0bWzSAQA?oc=5\" target=\"_blank\">Republicans again hoping to flip Northwest Indiana's US House seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cotton demands info from Air Force after Jennifer-Ruth Green sexual assault leak - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2NvdHRvbi1kZW1hbmRzLWluZm8tYWlyLWZvcmNlLWplbm5pZmVyLXJ1dGgtZ3JlZW4tc2V4dWFsLWFzc2F1bHQtbGVha9IBamh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2NvdHRvbi1kZW1hbmRzLWluZm8tYWlyLWZvcmNlLWplbm5pZmVyLXJ1dGgtZ3JlZW4tc2V4dWFsLWFzc2F1bHQtbGVhay5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2NvdHRvbi1kZW1hbmRzLWluZm8tYWlyLWZvcmNlLWplbm5pZmVyLXJ1dGgtZ3JlZW4tc2V4dWFsLWFzc2F1bHQtbGVha9IBamh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2NvdHRvbi1kZW1hbmRzLWluZm8tYWlyLWZvcmNlLWplbm5pZmVyLXJ1dGgtZ3JlZW4tc2V4dWFsLWFzc2F1bHQtbGVhay5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2NvdHRvbi1kZW1hbmRzLWluZm8tYWlyLWZvcmNlLWplbm5pZmVyLXJ1dGgtZ3JlZW4tc2V4dWFsLWFzc2F1bHQtbGVha9IBamh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2NvdHRvbi1kZW1hbmRzLWluZm8tYWlyLWZvcmNlLWplbm5pZmVyLXJ1dGgtZ3JlZW4tc2V4dWFsLWFzc2F1bHQtbGVhay5hbXA?oc=5\" target=\"_blank\">Cotton demands info from Air Force after Jennifer-Ruth Green sexual assault leak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans Sen. Todd Young, Jennifer-Ruth Green outraise Democratic opponents - IndyStar"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA3LzE1L3RvZGQteW91bmctamVubmlmZXItcnV0aC1ncmVlbi1pbmRpYW5hLXJlcHVibGljYW5zLXBvbGl0aWNhbC1mdW5kcmFpc2luZy1tb25leS82NTM3NDQ0MTAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA3LzE1L3RvZGQteW91bmctamVubmlmZXItcnV0aC1ncmVlbi1pbmRpYW5hLXJlcHVibGljYW5zLXBvbGl0aWNhbC1mdW5kcmFpc2luZy1tb25leS82NTM3NDQ0MTAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA3LzE1L3RvZGQteW91bmctamVubmlmZXItcnV0aC1ncmVlbi1pbmRpYW5hLXJlcHVibGljYW5zLXBvbGl0aWNhbC1mdW5kcmFpc2luZy1tb25leS82NTM3NDQ0MTAwNy_SAQA?oc=5\" target=\"_blank\">Republicans Sen. Todd Young, Jennifer-Ruth Green outraise Democratic opponents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndyStar</font>"
+            ],
+            "source": [
+              {
+                "_": "IndyStar",
+                "$": {
+                  "url": "https://www.indystar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Green points fingers after magazine profile highlights her military record - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL2dyZWVuLXBvaW50cy1maW5nZXJzLWFmdGVyLW1hZ2F6aW5lLXByb2ZpbGUtaGlnaGxpZ2h0cy1oZXItbWlsaXRhcnktcmVjb3JkL2FydGljbGVfYzhhNTE4ZDAtNzk5ZS01NmUxLWI0OWItOGU4NjAxNzkwNzQ0Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL2dyZWVuLXBvaW50cy1maW5nZXJzLWFmdGVyLW1hZ2F6aW5lLXByb2ZpbGUtaGlnaGxpZ2h0cy1oZXItbWlsaXRhcnktcmVjb3JkL2FydGljbGVfYzhhNTE4ZDAtNzk5ZS01NmUxLWI0OWItOGU4NjAxNzkwNzQ0Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL2dyZWVuLXBvaW50cy1maW5nZXJzLWFmdGVyLW1hZ2F6aW5lLXByb2ZpbGUtaGlnaGxpZ2h0cy1oZXItbWlsaXRhcnktcmVjb3JkL2FydGljbGVfYzhhNTE4ZDAtNzk5ZS01NmUxLWI0OWItOGU4NjAxNzkwNzQ0Lmh0bWzSAQA?oc=5\" target=\"_blank\">Green points fingers after magazine profile highlights her military record</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrat Frank Mrvan projected to beat Republican Jennifer-Ruth Green in Indiana House race - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LWZyYW5rLW1ydmFuLXByb2plY3RlZC1iZWF0LXJlcHVibGljYW4tamVubmlmZXItcnV0aC1ncmVlbi1pbmRpYW5hLWhvdXNlLXJhY2XSAXpodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9kZW1vY3JhdC1mcmFuay1tcnZhbi1wcm9qZWN0ZWQtYmVhdC1yZXB1YmxpY2FuLWplbm5pZmVyLXJ1dGgtZ3JlZW4taW5kaWFuYS1ob3VzZS1yYWNlLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LWZyYW5rLW1ydmFuLXByb2plY3RlZC1iZWF0LXJlcHVibGljYW4tamVubmlmZXItcnV0aC1ncmVlbi1pbmRpYW5hLWhvdXNlLXJhY2XSAXpodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9kZW1vY3JhdC1mcmFuay1tcnZhbi1wcm9qZWN0ZWQtYmVhdC1yZXB1YmxpY2FuLWplbm5pZmVyLXJ1dGgtZ3JlZW4taW5kaWFuYS1ob3VzZS1yYWNlLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LWZyYW5rLW1ydmFuLXByb2plY3RlZC1iZWF0LXJlcHVibGljYW4tamVubmlmZXItcnV0aC1ncmVlbi1pbmRpYW5hLWhvdXNlLXJhY2XSAXpodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9kZW1vY3JhdC1mcmFuay1tcnZhbi1wcm9qZWN0ZWQtYmVhdC1yZXB1YmxpY2FuLWplbm5pZmVyLXJ1dGgtZ3JlZW4taW5kaWFuYS1ob3VzZS1yYWNlLmFtcA?oc=5\" target=\"_blank\">Democrat Frank Mrvan projected to beat Republican Jennifer-Ruth Green in Indiana House race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Poll suggests defeated Northwest Indiana US House candidate next time might run for US Senate - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiyAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9uYXRpb25hbC9nb3Z0LWFuZC1wb2xpdGljcy9wb2xsLXN1Z2dlc3RzLWRlZmVhdGVkLW5vcnRod2VzdC1pbmRpYW5hLXVzLWhvdXNlLWNhbmRpZGF0ZS1uZXh0LXRpbWUtbWlnaHQtcnVuLWZvci11cy1zZW5hdGUvYXJ0aWNsZV82ODUxYmFmMi02YzVkLTVlY2UtYTA4Ny1lYmRiZDEyMzYxNmIuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiyAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9uYXRpb25hbC9nb3Z0LWFuZC1wb2xpdGljcy9wb2xsLXN1Z2dlc3RzLWRlZmVhdGVkLW5vcnRod2VzdC1pbmRpYW5hLXVzLWhvdXNlLWNhbmRpZGF0ZS1uZXh0LXRpbWUtbWlnaHQtcnVuLWZvci11cy1zZW5hdGUvYXJ0aWNsZV82ODUxYmFmMi02YzVkLTVlY2UtYTA4Ny1lYmRiZDEyMzYxNmIuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 25 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiyAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9uYXRpb25hbC9nb3Z0LWFuZC1wb2xpdGljcy9wb2xsLXN1Z2dlc3RzLWRlZmVhdGVkLW5vcnRod2VzdC1pbmRpYW5hLXVzLWhvdXNlLWNhbmRpZGF0ZS1uZXh0LXRpbWUtbWlnaHQtcnVuLWZvci11cy1zZW5hdGUvYXJ0aWNsZV82ODUxYmFmMi02YzVkLTVlY2UtYTA4Ny1lYmRiZDEyMzYxNmIuaHRtbNIBAA?oc=5\" target=\"_blank\">Poll suggests defeated Northwest Indiana US House candidate next time might run for US Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Green's baseless accusation unleashes social media firestorm against Mrvan family - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9uYXRpb25hbC9nb3Z0LWFuZC1wb2xpdGljcy9ncmVlbnMtYmFzZWxlc3MtYWNjdXNhdGlvbi11bmxlYXNoZXMtc29jaWFsLW1lZGlhLWZpcmVzdG9ybS1hZ2FpbnN0LW1ydmFuLWZhbWlseS9hcnRpY2xlX2MxZGE3NTUyLTE2ZmItNWFlZi1hMDExLWIxMmJhMDg3YTk2Yi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiuwFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9uYXRpb25hbC9nb3Z0LWFuZC1wb2xpdGljcy9ncmVlbnMtYmFzZWxlc3MtYWNjdXNhdGlvbi11bmxlYXNoZXMtc29jaWFsLW1lZGlhLWZpcmVzdG9ybS1hZ2FpbnN0LW1ydmFuLWZhbWlseS9hcnRpY2xlX2MxZGE3NTUyLTE2ZmItNWFlZi1hMDExLWIxMmJhMDg3YTk2Yi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9uYXRpb25hbC9nb3Z0LWFuZC1wb2xpdGljcy9ncmVlbnMtYmFzZWxlc3MtYWNjdXNhdGlvbi11bmxlYXNoZXMtc29jaWFsLW1lZGlhLWZpcmVzdG9ybS1hZ2FpbnN0LW1ydmFuLWZhbWlseS9hcnRpY2xlX2MxZGE3NTUyLTE2ZmItNWFlZi1hMDExLWIxMmJhMDg3YTk2Yi5odG1s0gEA?oc=5\" target=\"_blank\">Green's baseless accusation unleashes social media firestorm against Mrvan family</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Results: Democratic Rep. Frank Mrvan defeats Republican Jennifer-Ruth Green in Indiana's 1st Congressional ... - Business Insider"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcmVzdWx0cy1mcmFuay1tcnZhbi1qZW5uaWZlci1ydXRoLWdyZWVuLWluZGlhbmEtMXN0LWRpc3RyaWN0LWVsZWN0aW9uLTIwMjItMTHSAXFodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL3Jlc3VsdHMtZnJhbmstbXJ2YW4tamVubmlmZXItcnV0aC1ncmVlbi1pbmRpYW5hLTFzdC1kaXN0cmljdC1lbGVjdGlvbi0yMDIyLTExP2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcmVzdWx0cy1mcmFuay1tcnZhbi1qZW5uaWZlci1ydXRoLWdyZWVuLWluZGlhbmEtMXN0LWRpc3RyaWN0LWVsZWN0aW9uLTIwMjItMTHSAXFodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL3Jlc3VsdHMtZnJhbmstbXJ2YW4tamVubmlmZXItcnV0aC1ncmVlbi1pbmRpYW5hLTFzdC1kaXN0cmljdC1lbGVjdGlvbi0yMDIyLTExP2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcmVzdWx0cy1mcmFuay1tcnZhbi1qZW5uaWZlci1ydXRoLWdyZWVuLWluZGlhbmEtMXN0LWRpc3RyaWN0LWVsZWN0aW9uLTIwMjItMTHSAXFodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL3Jlc3VsdHMtZnJhbmstbXJ2YW4tamVubmlmZXItcnV0aC1ncmVlbi1pbmRpYW5hLTFzdC1kaXN0cmljdC1lbGVjdGlvbi0yMDIyLTExP2FtcA?oc=5\" target=\"_blank\">Results: Democratic Rep. Frank Mrvan defeats Republican Jennifer-Ruth Green in Indiana's 1st Congressional ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Insider",
+                "$": {
+                  "url": "https://www.businessinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Northwest Indiana U.S. House result unusually close, but not closest ever - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL25vcnRod2VzdC1pbmRpYW5hLXUtcy1ob3VzZS1yZXN1bHQtdW51c3VhbGx5LWNsb3NlLWJ1dC1ub3QtY2xvc2VzdC1ldmVyL2FydGljbGVfMTU1NzdiNWMtN2RmNi01NmM3LTkzMjgtOWQ0NDcwZGNjMjRkLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiogFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL25vcnRod2VzdC1pbmRpYW5hLXUtcy1ob3VzZS1yZXN1bHQtdW51c3VhbGx5LWNsb3NlLWJ1dC1ub3QtY2xvc2VzdC1ldmVyL2FydGljbGVfMTU1NzdiNWMtN2RmNi01NmM3LTkzMjgtOWQ0NDcwZGNjMjRkLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL25vcnRod2VzdC1pbmRpYW5hLXUtcy1ob3VzZS1yZXN1bHQtdW51c3VhbGx5LWNsb3NlLWJ1dC1ub3QtY2xvc2VzdC1ldmVyL2FydGljbGVfMTU1NzdiNWMtN2RmNi01NmM3LTkzMjgtOWQ0NDcwZGNjMjRkLmh0bWzSAQA?oc=5\" target=\"_blank\">Northwest Indiana U.S. House result unusually close, but not closest ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jennifer-Ruth Green leaked Air Force records have GOP lawmakers demanding answers - Washington Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL29jdC8yNi9qZW5uaWZlci1ydXRoLWdyZWVuLWxlYWtlZC1haXItZm9yY2UtcmVjb3Jkcy1oYXZlLS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL29jdC8yNi9qZW5uaWZlci1ydXRoLWdyZWVuLWxlYWtlZC1haXItZm9yY2UtcmVjb3Jkcy1oYXZlLS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL29jdC8yNi9qZW5uaWZlci1ydXRoLWdyZWVuLWxlYWtlZC1haXItZm9yY2UtcmVjb3Jkcy1oYXZlLS_SAQA?oc=5\" target=\"_blank\">Jennifer-Ruth Green leaked Air Force records have GOP lawmakers demanding answers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Times",
+                "$": {
+                  "url": "https://www.washingtontimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jennifer-Ruth Green running to make history by breaking Dems' 90-year grip on House seat in Indiana - Washington Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL25vdi80L2plbm5pZmVyLXJ1dGgtZ3JlZW4tcnVubmluZy1tYWtlLWhpc3RvcnktYnJlYWtpbmctL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL25vdi80L2plbm5pZmVyLXJ1dGgtZ3JlZW4tcnVubmluZy1tYWtlLWhpc3RvcnktYnJlYWtpbmctL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL25vdi80L2plbm5pZmVyLXJ1dGgtZ3JlZW4tcnVubmluZy1tYWtlLWhpc3RvcnktYnJlYWtpbmctL9IBAA?oc=5\" target=\"_blank\">Jennifer-Ruth Green running to make history by breaking Dems' 90-year grip on House seat in Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Times",
+                "$": {
+                  "url": "https://www.washingtontimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New Democratic website deems Green's anti-abortion position 'too extreme' - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL25ldy1kZW1vY3JhdGljLXdlYnNpdGUtZGVlbXMtZ3JlZW5zLWFudGktYWJvcnRpb24tcG9zaXRpb24tdG9vLWV4dHJlbWUvYXJ0aWNsZV83YTM5N2I0ZS05M2VmLTVhNjEtOWM0ZC1iMjRiMDZjOWI3NzguaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL25ldy1kZW1vY3JhdGljLXdlYnNpdGUtZGVlbXMtZ3JlZW5zLWFudGktYWJvcnRpb24tcG9zaXRpb24tdG9vLWV4dHJlbWUvYXJ0aWNsZV83YTM5N2I0ZS05M2VmLTVhNjEtOWM0ZC1iMjRiMDZjOWI3NzguaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL25ldy1kZW1vY3JhdGljLXdlYnNpdGUtZGVlbXMtZ3JlZW5zLWFudGktYWJvcnRpb24tcG9zaXRpb24tdG9vLWV4dHJlbWUvYXJ0aWNsZV83YTM5N2I0ZS05M2VmLTVhNjEtOWM0ZC1iMjRiMDZjOWI3NzguaHRtbNIBAA?oc=5\" target=\"_blank\">New Democratic website deems Green's anti-abortion position 'too extreme'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jennifer-Ruth Green is a hero who had her sexual assault used against her for politics - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL29waW5pb24vamVubmlmZXItcnV0aC1ncmVlbi1pcy1oZXJvLXdoby1oYWQtaGVyLXNleHVhbC1hc3NhdWx0LXVzZWQtYWdhaW5zdC1oZXItcG9saXRpY3PSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL29waW5pb24vamVubmlmZXItcnV0aC1ncmVlbi1pcy1oZXJvLXdoby1oYWQtaGVyLXNleHVhbC1hc3NhdWx0LXVzZWQtYWdhaW5zdC1oZXItcG9saXRpY3PSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 05 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL29waW5pb24vamVubmlmZXItcnV0aC1ncmVlbi1pcy1oZXJvLXdoby1oYWQtaGVyLXNleHVhbC1hc3NhdWx0LXVzZWQtYWdhaW5zdC1oZXItcG9saXRpY3PSAQA?oc=5\" target=\"_blank\">Jennifer-Ruth Green is a hero who had her sexual assault used against her for politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indiana First Congressional District Election Results 2022: Mrvan Wins - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjIvMTEvMDgvdXMvZWxlY3Rpb25zL3Jlc3VsdHMtaW5kaWFuYS11cy1ob3VzZS1kaXN0cmljdC0xLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjIvMTEvMDgvdXMvZWxlY3Rpb25zL3Jlc3VsdHMtaW5kaWFuYS11cy1ob3VzZS1kaXN0cmljdC0xLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjIvMTEvMDgvdXMvZWxlY3Rpb25zL3Jlc3VsdHMtaW5kaWFuYS11cy1ob3VzZS1kaXN0cmljdC0xLmh0bWzSAQA?oc=5\" target=\"_blank\">Indiana First Congressional District Election Results 2022: Mrvan Wins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Has a red wave hit longtime blue Northwest Indiana? - WBEZ Chicago"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LndiZXoub3JnL3N0b3JpZXMvaGFzLWEtcmVkLXdhdmUtaGl0LWxvbmd0aW1lLWJsdWUtbm9ydGh3ZXN0LWluZGlhbmEvMmNhYjNlYTktNjk4OC00YWU5LWFjOTItOWVkZjMyZGRiNWU20gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LndiZXoub3JnL3N0b3JpZXMvaGFzLWEtcmVkLXdhdmUtaGl0LWxvbmd0aW1lLWJsdWUtbm9ydGh3ZXN0LWluZGlhbmEvMmNhYjNlYTktNjk4OC00YWU5LWFjOTItOWVkZjMyZGRiNWU20gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 18 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LndiZXoub3JnL3N0b3JpZXMvaGFzLWEtcmVkLXdhdmUtaGl0LWxvbmd0aW1lLWJsdWUtbm9ydGh3ZXN0LWluZGlhbmEvMmNhYjNlYTktNjk4OC00YWU5LWFjOTItOWVkZjMyZGRiNWU20gEA?oc=5\" target=\"_blank\">Has a red wave hit longtime blue Northwest Indiana?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBEZ Chicago</font>"
+            ],
+            "source": [
+              {
+                "_": "WBEZ Chicago",
+                "$": {
+                  "url": "https://www.wbez.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Air Force confirms leak of personnel records of GOP House candidate - Washington Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL29jdC8yNy9haXItZm9yY2UtY29uZmlybXMtbGVhay1wZXJzb25uZWwtcmVjb3Jkcy1qZW5uaWZlci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL29jdC8yNy9haXItZm9yY2UtY29uZmlybXMtbGVhay1wZXJzb25uZWwtcmVjb3Jkcy1qZW5uaWZlci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL29jdC8yNy9haXItZm9yY2UtY29uZmlybXMtbGVhay1wZXJzb25uZWwtcmVjb3Jkcy1qZW5uaWZlci_SAQA?oc=5\" target=\"_blank\">Air Force confirms leak of personnel records of GOP House candidate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Times",
+                "$": {
+                  "url": "https://www.washingtontimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Air Force blames 'junior' for leaking Jennifer-Ruth Green's sex assault record - New York Post "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbnlwb3N0LmNvbS8yMDIyLzEwLzI3L2Fpci1mb3JjZS1ibGFtZXMtanVuaW9yLWZvci1sZWFraW5nLWplbm5pZmVyLXJ1dGgtZ3JlZW5zLXNleC1hc3NhdWx0LXJlY29yZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vbnlwb3N0LmNvbS8yMDIyLzEwLzI3L2Fpci1mb3JjZS1ibGFtZXMtanVuaW9yLWZvci1sZWFraW5nLWplbm5pZmVyLXJ1dGgtZ3JlZW5zLXNleC1hc3NhdWx0LXJlY29yZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 27 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbnlwb3N0LmNvbS8yMDIyLzEwLzI3L2Fpci1mb3JjZS1ibGFtZXMtanVuaW9yLWZvci1sZWFraW5nLWplbm5pZmVyLXJ1dGgtZ3JlZW5zLXNleC1hc3NhdWx0LXJlY29yZC_SAQA?oc=5\" target=\"_blank\">Air Force blames 'junior' for leaking Jennifer-Ruth Green's sex assault record</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post </font>"
+            ],
+            "source": [
+              {
+                "_": "New York Post ",
+                "$": {
+                  "url": "https://nypost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'SMEAR MACHINE': Indiana Republican sounds off after Air Force admits to 'unauthorized release' of her records - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3NtZWFyLW1hY2hpbmUtaW5kaWFuYS1yZXB1YmxpY2FuLXNvdW5kcy1vZmYtYWlyLWZvcmNlLWFkbWl0cy11bmF1dGhvcml6ZWQtcmVsZWFzZS1yZWNvcmRz0gF-aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mvc21lYXItbWFjaGluZS1pbmRpYW5hLXJlcHVibGljYW4tc291bmRzLW9mZi1haXItZm9yY2UtYWRtaXRzLXVuYXV0aG9yaXplZC1yZWxlYXNlLXJlY29yZHMuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3NtZWFyLW1hY2hpbmUtaW5kaWFuYS1yZXB1YmxpY2FuLXNvdW5kcy1vZmYtYWlyLWZvcmNlLWFkbWl0cy11bmF1dGhvcml6ZWQtcmVsZWFzZS1yZWNvcmRz0gF-aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mvc21lYXItbWFjaGluZS1pbmRpYW5hLXJlcHVibGljYW4tc291bmRzLW9mZi1haXItZm9yY2UtYWRtaXRzLXVuYXV0aG9yaXplZC1yZWxlYXNlLXJlY29yZHMuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL3NtZWFyLW1hY2hpbmUtaW5kaWFuYS1yZXB1YmxpY2FuLXNvdW5kcy1vZmYtYWlyLWZvcmNlLWFkbWl0cy11bmF1dGhvcml6ZWQtcmVsZWFzZS1yZWNvcmRz0gF-aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mvc21lYXItbWFjaGluZS1pbmRpYW5hLXJlcHVibGljYW4tc291bmRzLW9mZi1haXItZm9yY2UtYWRtaXRzLXVuYXV0aG9yaXplZC1yZWxlYXNlLXJlY29yZHMuYW1w?oc=5\" target=\"_blank\">'SMEAR MACHINE': Indiana Republican sounds off after Air Force admits to 'unauthorized release' of her records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "7 Black Conservative Republicans You Should Probably Know About - Black Enterprise"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmJsYWNrZW50ZXJwcmlzZS5jb20vNy1ibGFjay1jb25zZXJ2YXRpdmUtcmVwdWJsaWNhbnMteW91LXNob3VsZC1rbm93L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LmJsYWNrZW50ZXJwcmlzZS5jb20vNy1ibGFjay1jb25zZXJ2YXRpdmUtcmVwdWJsaWNhbnMteW91LXNob3VsZC1rbm93L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 27 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmJsYWNrZW50ZXJwcmlzZS5jb20vNy1ibGFjay1jb25zZXJ2YXRpdmUtcmVwdWJsaWNhbnMteW91LXNob3VsZC1rbm93L9IBAA?oc=5\" target=\"_blank\">7 Black Conservative Republicans You Should Probably Know About</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Black Enterprise</font>"
+            ],
+            "source": [
+              {
+                "_": "Black Enterprise",
+                "$": {
+                  "url": "https://www.blackenterprise.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "▶️ Listen Now: Could historically Blue Northwest Indiana flip Red for a Black candidate? - WBEZ Chicago"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy53YmV6Lm9yZy9zdG9yaWVzL2NvdWxkLWhpc3RvcmljYWxseS1ibHVlLW5vcnRod2VzdC1pbmRpYW5hLWZsaXAtcmVkLWZvci1hLWJsYWNrLWNhbmRpZGF0ZS82MjA4NzAxNi1jODMxLTQ5NzYtOGQ2OS01NGRhYTYzNDQ2NmLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy53YmV6Lm9yZy9zdG9yaWVzL2NvdWxkLWhpc3RvcmljYWxseS1ibHVlLW5vcnRod2VzdC1pbmRpYW5hLWZsaXAtcmVkLWZvci1hLWJsYWNrLWNhbmRpZGF0ZS82MjA4NzAxNi1jODMxLTQ5NzYtOGQ2OS01NGRhYTYzNDQ2NmLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 04 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy53YmV6Lm9yZy9zdG9yaWVzL2NvdWxkLWhpc3RvcmljYWxseS1ibHVlLW5vcnRod2VzdC1pbmRpYW5hLWZsaXAtcmVkLWZvci1hLWJsYWNrLWNhbmRpZGF0ZS82MjA4NzAxNi1jODMxLTQ5NzYtOGQ2OS01NGRhYTYzNDQ2NmLSAQA?oc=5\" target=\"_blank\">▶️ Listen Now: Could historically Blue Northwest Indiana flip Red for a Black candidate?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBEZ Chicago</font>"
+            ],
+            "source": [
+              {
+                "_": "WBEZ Chicago",
+                "$": {
+                  "url": "https://www.wbez.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP lawmakers seek investigation of 'unauthorized' disclosure of their Air Force records - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDIvMjEvZ29wLWxhd21ha2Vycy1haXItZm9yY2UtcmVjb3Jkcy0wMDA4MzY5NNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDIvMjEvZ29wLWxhd21ha2Vycy1haXItZm9yY2UtcmVjb3Jkcy0wMDA4MzY5NNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDIvMjEvZ29wLWxhd21ha2Vycy1haXItZm9yY2UtcmVjb3Jkcy0wMDA4MzY5NNIBAA?oc=5\" target=\"_blank\">GOP lawmakers seek investigation of 'unauthorized' disclosure of their Air Force records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Air Force veteran wins primary, runs to become the only Black woman Republican in Congress - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Fpci1mb3JjZS12ZXRlcmFuLWJsYWNrLXdvbWFuLXJlcHVibGljYW7SAU1odHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9haXItZm9yY2UtdmV0ZXJhbi1ibGFjay13b21hbi1yZXB1YmxpY2FuLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Fpci1mb3JjZS12ZXRlcmFuLWJsYWNrLXdvbWFuLXJlcHVibGljYW7SAU1odHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9haXItZm9yY2UtdmV0ZXJhbi1ibGFjay13b21hbi1yZXB1YmxpY2FuLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 04 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Fpci1mb3JjZS12ZXRlcmFuLWJsYWNrLXdvbWFuLXJlcHVibGljYW7SAU1odHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9haXItZm9yY2UtdmV0ZXJhbi1ibGFjay13b21hbi1yZXB1YmxpY2FuLmFtcA?oc=5\" target=\"_blank\">Air Force veteran wins primary, runs to become the only Black woman Republican in Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election Day 2022 Indiana: Jennifer Ruth Green challenges House of Representatives incumbent Frank Mrvan on abortion, inflation - WLS-TV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYWJjN2NoaWNhZ28uY29tL2VsZWN0aW9uLWRheS0yMDIyLWluZGlhbmEtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1mcmFuay1tcnZhbi1qZW5uaWZlci1ydXRoLWdyZWVuLzEyMzQzMDAyL9IBdmh0dHBzOi8vYWJjN2NoaWNhZ28uY29tL2FtcC9lbGVjdGlvbi1kYXktMjAyMi1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtZnJhbmstbXJ2YW4tamVubmlmZXItcnV0aC1ncmVlbi8xMjM0MzAwMi8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vYWJjN2NoaWNhZ28uY29tL2VsZWN0aW9uLWRheS0yMDIyLWluZGlhbmEtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1mcmFuay1tcnZhbi1qZW5uaWZlci1ydXRoLWdyZWVuLzEyMzQzMDAyL9IBdmh0dHBzOi8vYWJjN2NoaWNhZ28uY29tL2FtcC9lbGVjdGlvbi1kYXktMjAyMi1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtZnJhbmstbXJ2YW4tamVubmlmZXItcnV0aC1ncmVlbi8xMjM0MzAwMi8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYWJjN2NoaWNhZ28uY29tL2VsZWN0aW9uLWRheS0yMDIyLWluZGlhbmEtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1mcmFuay1tcnZhbi1qZW5uaWZlci1ydXRoLWdyZWVuLzEyMzQzMDAyL9IBdmh0dHBzOi8vYWJjN2NoaWNhZ28uY29tL2FtcC9lbGVjdGlvbi1kYXktMjAyMi1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtZnJhbmstbXJ2YW4tamVubmlmZXItcnV0aC1ncmVlbi8xMjM0MzAwMi8?oc=5\" target=\"_blank\">Election Day 2022 Indiana: Jennifer Ruth Green challenges House of Representatives incumbent Frank Mrvan on abortion, inflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLS-TV</font>"
+            ],
+            "source": [
+              {
+                "_": "WLS-TV",
+                "$": {
+                  "url": "https://abc7chicago.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Northwest Indiana congressional contest now rated a 'toss up' - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL25vcnRod2VzdC1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtY29udGVzdC1ub3ctcmF0ZWQtYS10b3NzLXVwL2FydGljbGVfNzg5ZmQ0NjgtMWI4MS01ZjNmLThmMzktNGM2NjUzMTAwNjdkLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilgFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL25vcnRod2VzdC1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtY29udGVzdC1ub3ctcmF0ZWQtYS10b3NzLXVwL2FydGljbGVfNzg5ZmQ0NjgtMWI4MS01ZjNmLThmMzktNGM2NjUzMTAwNjdkLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL25vcnRod2VzdC1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtY29udGVzdC1ub3ctcmF0ZWQtYS10b3NzLXVwL2FydGljbGVfNzg5ZmQ0NjgtMWI4MS01ZjNmLThmMzktNGM2NjUzMTAwNjdkLmh0bWzSAQA?oc=5\" target=\"_blank\">Northwest Indiana congressional contest now rated a 'toss up'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election 2022: Indiana 1st District is 'toss-up' - IndyStar"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmluZHlzdGFyLmNvbS9zdG9yeS9uZXdzLzIwMjIvMTAvMjYvZWxlY3Rpb24tMjAyMi1pbmRpYW5hLTFzdC1kaXN0cmljdC1pcy1hLXRvc3MtdXAvNjk1NDE3OTYwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3LmluZHlzdGFyLmNvbS9zdG9yeS9uZXdzLzIwMjIvMTAvMjYvZWxlY3Rpb24tMjAyMi1pbmRpYW5hLTFzdC1kaXN0cmljdC1pcy1hLXRvc3MtdXAvNjk1NDE3OTYwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmluZHlzdGFyLmNvbS9zdG9yeS9uZXdzLzIwMjIvMTAvMjYvZWxlY3Rpb24tMjAyMi1pbmRpYW5hLTFzdC1kaXN0cmljdC1pcy1hLXRvc3MtdXAvNjk1NDE3OTYwMDcv0gEA?oc=5\" target=\"_blank\">Election 2022: Indiana 1st District is 'toss-up'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndyStar</font>"
+            ],
+            "source": [
+              {
+                "_": "IndyStar",
+                "$": {
+                  "url": "https://www.indystar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "TV ads are newest venue for Northwest Indiana congressional contest - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9zdGF0ZS1hbmQtcmVnaW9uYWwvZ292dC1hbmQtcG9saXRpY3MvdHYtYWRzLWFyZS1uZXdlc3QtdmVudWUtZm9yLW5vcnRod2VzdC1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtY29udGVzdC9hcnRpY2xlX2QwZjg1ODdmLWYxMTUtNTY5OC1iNmUxLTA0MDc1OGFlZDIyNC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiuAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9zdGF0ZS1hbmQtcmVnaW9uYWwvZ292dC1hbmQtcG9saXRpY3MvdHYtYWRzLWFyZS1uZXdlc3QtdmVudWUtZm9yLW5vcnRod2VzdC1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtY29udGVzdC9hcnRpY2xlX2QwZjg1ODdmLWYxMTUtNTY5OC1iNmUxLTA0MDc1OGFlZDIyNC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9zdGF0ZS1hbmQtcmVnaW9uYWwvZ292dC1hbmQtcG9saXRpY3MvdHYtYWRzLWFyZS1uZXdlc3QtdmVudWUtZm9yLW5vcnRod2VzdC1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtY29udGVzdC9hcnRpY2xlX2QwZjg1ODdmLWYxMTUtNTY5OC1iNmUxLTA0MDc1OGFlZDIyNC5odG1s0gEA?oc=5\" target=\"_blank\">TV ads are newest venue for Northwest Indiana congressional contest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indiana election results 2022 live updates - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lbGVjdGlvbi1yZXN1bHRzLzIwMjIvaW5kaWFuYS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lbGVjdGlvbi1yZXN1bHRzLzIwMjIvaW5kaWFuYS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lbGVjdGlvbi1yZXN1bHRzLzIwMjIvaW5kaWFuYS_SAQA?oc=5\" target=\"_blank\">Indiana election results 2022 live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Air Force Acknowledges Improperly Releasing Congressional Candidate's Performance Review - Military.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5taWxpdGFyeS5jb20vZGFpbHktbmV3cy8yMDIyLzEwLzMxL2Fpci1mb3JjZS1hY2tub3dsZWRnZXMtaW1wcm9wZXJseS1yZWxlYXNpbmctY29uZ3Jlc3Npb25hbC1jYW5kaWRhdGVzLXBlcmZvcm1hbmNlLXJldmlldy5odG1s0gGPAWh0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9kYWlseS1uZXdzLzIwMjIvMTAvMzEvYWlyLWZvcmNlLWFja25vd2xlZGdlcy1pbXByb3Blcmx5LXJlbGVhc2luZy1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZXMtcGVyZm9ybWFuY2UtcmV2aWV3Lmh0bWw_YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3d3dy5taWxpdGFyeS5jb20vZGFpbHktbmV3cy8yMDIyLzEwLzMxL2Fpci1mb3JjZS1hY2tub3dsZWRnZXMtaW1wcm9wZXJseS1yZWxlYXNpbmctY29uZ3Jlc3Npb25hbC1jYW5kaWRhdGVzLXBlcmZvcm1hbmNlLXJldmlldy5odG1s0gGPAWh0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9kYWlseS1uZXdzLzIwMjIvMTAvMzEvYWlyLWZvcmNlLWFja25vd2xlZGdlcy1pbXByb3Blcmx5LXJlbGVhc2luZy1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZXMtcGVyZm9ybWFuY2UtcmV2aWV3Lmh0bWw_YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 31 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5taWxpdGFyeS5jb20vZGFpbHktbmV3cy8yMDIyLzEwLzMxL2Fpci1mb3JjZS1hY2tub3dsZWRnZXMtaW1wcm9wZXJseS1yZWxlYXNpbmctY29uZ3Jlc3Npb25hbC1jYW5kaWRhdGVzLXBlcmZvcm1hbmNlLXJldmlldy5odG1s0gGPAWh0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9kYWlseS1uZXdzLzIwMjIvMTAvMzEvYWlyLWZvcmNlLWFja25vd2xlZGdlcy1pbXByb3Blcmx5LXJlbGVhc2luZy1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZXMtcGVyZm9ybWFuY2UtcmV2aWV3Lmh0bWw_YW1w?oc=5\" target=\"_blank\">Air Force Acknowledges Improperly Releasing Congressional Candidate's Performance Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Military.com",
+                "$": {
+                  "url": "https://www.military.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mrvan romps to victory in Northwest Indiana congressional contest - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21ydmFuLXJvbXBzLXRvLXZpY3RvcnktaW4tbm9ydGh3ZXN0LWluZGlhbmEtY29uZ3Jlc3Npb25hbC1jb250ZXN0L2FydGljbGVfOGRjOTIyOGItY2U4NC01YWU2LWFhNzMtYjhmMmY3Yjk5YmY5Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21ydmFuLXJvbXBzLXRvLXZpY3RvcnktaW4tbm9ydGh3ZXN0LWluZGlhbmEtY29uZ3Jlc3Npb25hbC1jb250ZXN0L2FydGljbGVfOGRjOTIyOGItY2U4NC01YWU2LWFhNzMtYjhmMmY3Yjk5YmY5Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21ydmFuLXJvbXBzLXRvLXZpY3RvcnktaW4tbm9ydGh3ZXN0LWluZGlhbmEtY29uZ3Jlc3Npb25hbC1jb250ZXN0L2FydGljbGVfOGRjOTIyOGItY2U4NC01YWU2LWFhNzMtYjhmMmY3Yjk5YmY5Lmh0bWzSAQA?oc=5\" target=\"_blank\">Mrvan romps to victory in Northwest Indiana congressional contest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jennifer-Ruth Green raises historic $650,000 in Q2 - WBIW.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LndiaXcuY29tLzIwMjIvMDcvMTQvamVubmlmZXItcnV0aC1ncmVlbi1yYWlzZXMtaGlzdG9yaWMtNjUwMDAwLWluLXEyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LndiaXcuY29tLzIwMjIvMDcvMTQvamVubmlmZXItcnV0aC1ncmVlbi1yYWlzZXMtaGlzdG9yaWMtNjUwMDAwLWluLXEyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LndiaXcuY29tLzIwMjIvMDcvMTQvamVubmlmZXItcnV0aC1ncmVlbi1yYWlzZXMtaGlzdG9yaWMtNjUwMDAwLWluLXEyL9IBAA?oc=5\" target=\"_blank\">Jennifer-Ruth Green raises historic $650,000 in Q2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBIW.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WBIW.com",
+                "$": {
+                  "url": "https://www.wbiw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2022 election: Here's who won Indiana's 9 US House seats - IndyStar"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMi8xMS8wOC9pbmRpYW5hLWVsZWN0aW9uLXJlc3VsdHMtd2hvLXdpbGwtd2luLXVzLWhvdXNlLW9mLXJlcHJlc2VudGF0aXZlcy1yYWNlcy82OTU0MTc5MzAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilgFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMi8xMS8wOC9pbmRpYW5hLWVsZWN0aW9uLXJlc3VsdHMtd2hvLXdpbGwtd2luLXVzLWhvdXNlLW9mLXJlcHJlc2VudGF0aXZlcy1yYWNlcy82OTU0MTc5MzAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMi8xMS8wOC9pbmRpYW5hLWVsZWN0aW9uLXJlc3VsdHMtd2hvLXdpbGwtd2luLXVzLWhvdXNlLW9mLXJlcHJlc2VudGF0aXZlcy1yYWNlcy82OTU0MTc5MzAwNy_SAQA?oc=5\" target=\"_blank\">2022 election: Here's who won Indiana's 9 US House seats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndyStar</font>"
+            ],
+            "source": [
+              {
+                "_": "IndyStar",
+                "$": {
+                  "url": "https://www.indystar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Air Force release Republicans' records without their approval: GOP demands probe of 'political' leak - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExNzc2NDI3L0Fpci1Gb3JjZS1yZWxlYXNlLVJlcHVibGljYW5zLXJlY29yZHMtd2l0aG91dC1hcHByb3ZhbC1HT1AtZGVtYW5kcy1wcm9iZS1wb2xpdGljYWwtbGVhay5odG1s0gGSAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE3NzY0MjcvYW1wL0Fpci1Gb3JjZS1yZWxlYXNlLVJlcHVibGljYW5zLXJlY29yZHMtd2l0aG91dC1hcHByb3ZhbC1HT1AtZGVtYW5kcy1wcm9iZS1wb2xpdGljYWwtbGVhay5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExNzc2NDI3L0Fpci1Gb3JjZS1yZWxlYXNlLVJlcHVibGljYW5zLXJlY29yZHMtd2l0aG91dC1hcHByb3ZhbC1HT1AtZGVtYW5kcy1wcm9iZS1wb2xpdGljYWwtbGVhay5odG1s0gGSAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE3NzY0MjcvYW1wL0Fpci1Gb3JjZS1yZWxlYXNlLVJlcHVibGljYW5zLXJlY29yZHMtd2l0aG91dC1hcHByb3ZhbC1HT1AtZGVtYW5kcy1wcm9iZS1wb2xpdGljYWwtbGVhay5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExNzc2NDI3L0Fpci1Gb3JjZS1yZWxlYXNlLVJlcHVibGljYW5zLXJlY29yZHMtd2l0aG91dC1hcHByb3ZhbC1HT1AtZGVtYW5kcy1wcm9iZS1wb2xpdGljYWwtbGVhay5odG1s0gGSAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE3NzY0MjcvYW1wL0Fpci1Gb3JjZS1yZWxlYXNlLVJlcHVibGljYW5zLXJlY29yZHMtd2l0aG91dC1hcHByb3ZhbC1HT1AtZGVtYW5kcy1wcm9iZS1wb2xpdGljYWwtbGVhay5odG1s?oc=5\" target=\"_blank\">Air Force release Republicans' records without their approval: GOP demands probe of 'political' leak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indiana's 1st District rated 'toss-up' in bad sign for Democrat Mrvan - IndyStar"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA3LzI4L2luZGlhbmEtMXN0LWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtZmlyc3QtMS1kZW1vY3JhdC1nb3AtZWxlY3Rpb24tZnJhbmstbXJ2YW4tamVubmlmZXItcnV0aC1ncmVlbi82NTM4NTMwNDAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipQFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA3LzI4L2luZGlhbmEtMXN0LWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtZmlyc3QtMS1kZW1vY3JhdC1nb3AtZWxlY3Rpb24tZnJhbmstbXJ2YW4tamVubmlmZXItcnV0aC1ncmVlbi82NTM4NTMwNDAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIyLzA3LzI4L2luZGlhbmEtMXN0LWNvbmdyZXNzaW9uYWwtZGlzdHJpY3QtZmlyc3QtMS1kZW1vY3JhdC1nb3AtZWxlY3Rpb24tZnJhbmstbXJ2YW4tamVubmlmZXItcnV0aC1ncmVlbi82NTM4NTMwNDAwNy_SAQA?oc=5\" target=\"_blank\">Indiana's 1st District rated 'toss-up' in bad sign for Democrat Mrvan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndyStar</font>"
+            ],
+            "source": [
+              {
+                "_": "IndyStar",
+                "$": {
+                  "url": "https://www.indystar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Black GOP candidate blasts 'hypocrisy' of Congressional Black Caucus for supporting White male Dem opponent - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9ibGFjay1nb3AtY2FuZGlkYXRlLWJsYXN0cy1jb25ncmVzc2lvbmFsLWJsYWNrLWNhdWN1cy1oeXBvY3Jpc3ktc3VwcG9ydGluZy13aGl0ZS1tYWxlLWRlbS1vcHBvbmVudNIBhAFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9ibGFjay1nb3AtY2FuZGlkYXRlLWJsYXN0cy1jb25ncmVzc2lvbmFsLWJsYWNrLWNhdWN1cy1oeXBvY3Jpc3ktc3VwcG9ydGluZy13aGl0ZS1tYWxlLWRlbS1vcHBvbmVudC5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9ibGFjay1nb3AtY2FuZGlkYXRlLWJsYXN0cy1jb25ncmVzc2lvbmFsLWJsYWNrLWNhdWN1cy1oeXBvY3Jpc3ktc3VwcG9ydGluZy13aGl0ZS1tYWxlLWRlbS1vcHBvbmVudNIBhAFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9ibGFjay1nb3AtY2FuZGlkYXRlLWJsYXN0cy1jb25ncmVzc2lvbmFsLWJsYWNrLWNhdWN1cy1oeXBvY3Jpc3ktc3VwcG9ydGluZy13aGl0ZS1tYWxlLWRlbS1vcHBvbmVudC5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 25 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9ibGFjay1nb3AtY2FuZGlkYXRlLWJsYXN0cy1jb25ncmVzc2lvbmFsLWJsYWNrLWNhdWN1cy1oeXBvY3Jpc3ktc3VwcG9ydGluZy13aGl0ZS1tYWxlLWRlbS1vcHBvbmVudNIBhAFodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9ibGFjay1nb3AtY2FuZGlkYXRlLWJsYXN0cy1jb25ncmVzc2lvbmFsLWJsYWNrLWNhdWN1cy1oeXBvY3Jpc3ktc3VwcG9ydGluZy13aGl0ZS1tYWxlLWRlbS1vcHBvbmVudC5hbXA?oc=5\" target=\"_blank\">Black GOP candidate blasts 'hypocrisy' of Congressional Black Caucus for supporting White male Dem opponent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Black GOP congressional candidate slams Black Caucus for backing her White male Dem opponent: ‘It’s sad’ - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2JsYWNrLWdvcC1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZS1zbGFtcy1ibGFjay1jYXVjdXMtYmFja2luZy1oZXItd2hpdGUtZGVtLW9wcG9uZW50LWl0cy1zYWTSAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvYmxhY2stZ29wLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlLXNsYW1zLWJsYWNrLWNhdWN1cy1iYWNraW5nLWhlci13aGl0ZS1kZW0tb3Bwb25lbnQtaXRzLXNhZC5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2JsYWNrLWdvcC1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZS1zbGFtcy1ibGFjay1jYXVjdXMtYmFja2luZy1oZXItd2hpdGUtZGVtLW9wcG9uZW50LWl0cy1zYWTSAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvYmxhY2stZ29wLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlLXNsYW1zLWJsYWNrLWNhdWN1cy1iYWNraW5nLWhlci13aGl0ZS1kZW0tb3Bwb25lbnQtaXRzLXNhZC5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2JsYWNrLWdvcC1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZS1zbGFtcy1ibGFjay1jYXVjdXMtYmFja2luZy1oZXItd2hpdGUtZGVtLW9wcG9uZW50LWl0cy1zYWTSAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvYmxhY2stZ29wLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlLXNsYW1zLWJsYWNrLWNhdWN1cy1iYWNraW5nLWhlci13aGl0ZS1kZW0tb3Bwb25lbnQtaXRzLXNhZC5hbXA?oc=5\" target=\"_blank\">Black GOP congressional candidate slams Black Caucus for backing her White male Dem opponent: ‘It’s sad’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Green raises more than Mrvan in previous quarter: FEC filing - Chicago Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5jaGljYWdvdHJpYnVuZS5jb20vc3VidXJicy9wb3N0LXRyaWJ1bmUvY3QtcHRiLW1ydmFuLWdyZWVuLWZpbmFuY2Utc3QtMDcyMi0yMDIyMDcyMS1meDVnd2RubnJmZDY3ZXUzNjNhbHJzNXIzbS1zdG9yeS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5jaGljYWdvdHJpYnVuZS5jb20vc3VidXJicy9wb3N0LXRyaWJ1bmUvY3QtcHRiLW1ydmFuLWdyZWVuLWZpbmFuY2Utc3QtMDcyMi0yMDIyMDcyMS1meDVnd2RubnJmZDY3ZXUzNjNhbHJzNXIzbS1zdG9yeS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5jaGljYWdvdHJpYnVuZS5jb20vc3VidXJicy9wb3N0LXRyaWJ1bmUvY3QtcHRiLW1ydmFuLWdyZWVuLWZpbmFuY2Utc3QtMDcyMi0yMDIyMDcyMS1meDVnd2RubnJmZDY3ZXUzNjNhbHJzNXIzbS1zdG9yeS5odG1s0gEA?oc=5\" target=\"_blank\">Green raises more than Mrvan in previous quarter: FEC filing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Chicago Tribune",
+                "$": {
+                  "url": "https://www.chicagotribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indiana veteran could become only Black GOP congresswoman: 'I'm exhibit A against CRT' - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2lyYXEtdmV0ZXJhbi1qZW5uaWZlci1ydXRoLWdyZWVuLWluZGlhbmEtY3J0LWNvbmdyZXNz0gFXaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvaXJhcS12ZXRlcmFuLWplbm5pZmVyLXJ1dGgtZ3JlZW4taW5kaWFuYS1jcnQtY29uZ3Jlc3MuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2lyYXEtdmV0ZXJhbi1qZW5uaWZlci1ydXRoLWdyZWVuLWluZGlhbmEtY3J0LWNvbmdyZXNz0gFXaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvaXJhcS12ZXRlcmFuLWplbm5pZmVyLXJ1dGgtZ3JlZW4taW5kaWFuYS1jcnQtY29uZ3Jlc3MuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2lyYXEtdmV0ZXJhbi1qZW5uaWZlci1ydXRoLWdyZWVuLWluZGlhbmEtY3J0LWNvbmdyZXNz0gFXaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvaXJhcS12ZXRlcmFuLWplbm5pZmVyLXJ1dGgtZ3JlZW4taW5kaWFuYS1jcnQtY29uZ3Jlc3MuYW1w?oc=5\" target=\"_blank\">Indiana veteran could become only Black GOP congresswoman: 'I'm exhibit A against CRT'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrat Mrvan holds onto northwest Indiana congressional seat - WTHR"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMi2gFodHRwczovL3d3dy53dGhyLmNvbS9hcnRpY2xlL25ld3MvcG9saXRpY3MvZWxlY3Rpb25zL2RlbW9jcmF0LWZyYW5rLW1ydmFuLWluZGlhbmEtY29uZ3Jlc3Npb25hbC1zZWF0LXVzLWhvdXNlLW9mLXJlcHJlc2VudGF0aXZlcy1maXJzdC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LWplbm5pZmVyLXJ1dGgtZ3JlZW4vNTMxLTJiMGIwNTg4LTQ5NmMtNDYwMC1iMzczLTgzYTdhZTZjOTM5ZdIB3gFodHRwczovL3d3dy53dGhyLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy9kZW1vY3JhdC1mcmFuay1tcnZhbi1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtc2VhdC11cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtZmlyc3QtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1qZW5uaWZlci1ydXRoLWdyZWVuLzUzMS0yYjBiMDU4OC00OTZjLTQ2MDAtYjM3My04M2E3YWU2YzkzOWU?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMi2gFodHRwczovL3d3dy53dGhyLmNvbS9hcnRpY2xlL25ld3MvcG9saXRpY3MvZWxlY3Rpb25zL2RlbW9jcmF0LWZyYW5rLW1ydmFuLWluZGlhbmEtY29uZ3Jlc3Npb25hbC1zZWF0LXVzLWhvdXNlLW9mLXJlcHJlc2VudGF0aXZlcy1maXJzdC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LWplbm5pZmVyLXJ1dGgtZ3JlZW4vNTMxLTJiMGIwNTg4LTQ5NmMtNDYwMC1iMzczLTgzYTdhZTZjOTM5ZdIB3gFodHRwczovL3d3dy53dGhyLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy9kZW1vY3JhdC1mcmFuay1tcnZhbi1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtc2VhdC11cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtZmlyc3QtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1qZW5uaWZlci1ydXRoLWdyZWVuLzUzMS0yYjBiMDU4OC00OTZjLTQ2MDAtYjM3My04M2E3YWU2YzkzOWU",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMi2gFodHRwczovL3d3dy53dGhyLmNvbS9hcnRpY2xlL25ld3MvcG9saXRpY3MvZWxlY3Rpb25zL2RlbW9jcmF0LWZyYW5rLW1ydmFuLWluZGlhbmEtY29uZ3Jlc3Npb25hbC1zZWF0LXVzLWhvdXNlLW9mLXJlcHJlc2VudGF0aXZlcy1maXJzdC1jb25ncmVzc2lvbmFsLWRpc3RyaWN0LWplbm5pZmVyLXJ1dGgtZ3JlZW4vNTMxLTJiMGIwNTg4LTQ5NmMtNDYwMC1iMzczLTgzYTdhZTZjOTM5ZdIB3gFodHRwczovL3d3dy53dGhyLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy9kZW1vY3JhdC1mcmFuay1tcnZhbi1pbmRpYW5hLWNvbmdyZXNzaW9uYWwtc2VhdC11cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtZmlyc3QtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1qZW5uaWZlci1ydXRoLWdyZWVuLzUzMS0yYjBiMDU4OC00OTZjLTQ2MDAtYjM3My04M2E3YWU2YzkzOWU?oc=5\" target=\"_blank\">Democrat Mrvan holds onto northwest Indiana congressional seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHR</font>"
+            ],
+            "source": [
+              {
+                "_": "WTHR",
+                "$": {
+                  "url": "https://www.wthr.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indiana judge rules for Jewish, Muslim plaintiffs against abortion ban - The Times of Israel"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2luZGlhbmEtanVkZ2UtcnVsZXMtaW4tZmF2b3Itb2YtamV3aXNoLW11c2xpbS1wbGFpbnRpZmZzLWFnYWluc3QtYWJvcnRpb24tYmFuL9IBcGh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2luZGlhbmEtanVkZ2UtcnVsZXMtaW4tZmF2b3Itb2YtamV3aXNoLW11c2xpbS1wbGFpbnRpZmZzLWFnYWluc3QtYWJvcnRpb24tYmFuL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2luZGlhbmEtanVkZ2UtcnVsZXMtaW4tZmF2b3Itb2YtamV3aXNoLW11c2xpbS1wbGFpbnRpZmZzLWFnYWluc3QtYWJvcnRpb24tYmFuL9IBcGh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2luZGlhbmEtanVkZ2UtcnVsZXMtaW4tZmF2b3Itb2YtamV3aXNoLW11c2xpbS1wbGFpbnRpZmZzLWFnYWluc3QtYWJvcnRpb24tYmFuL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 03 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2luZGlhbmEtanVkZ2UtcnVsZXMtaW4tZmF2b3Itb2YtamV3aXNoLW11c2xpbS1wbGFpbnRpZmZzLWFnYWluc3QtYWJvcnRpb24tYmFuL9IBcGh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2luZGlhbmEtanVkZ2UtcnVsZXMtaW4tZmF2b3Itb2YtamV3aXNoLW11c2xpbS1wbGFpbnRpZmZzLWFnYWluc3QtYWJvcnRpb24tYmFuL2FtcC8?oc=5\" target=\"_blank\">Indiana judge rules for Jewish, Muslim plaintiffs against abortion ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Israel",
+                "$": {
+                  "url": "https://www.timesofisrael.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A battle for working-class voters in a key Indiana House race - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIyLzEwLzE4L2JhdHRsZS13aGl0ZS13b3JraW5nLWNsYXNzLXZvdGUta2V5LWluZGlhbmEtaG91c2UtcmFjZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIyLzEwLzE4L2JhdHRsZS13aGl0ZS13b3JraW5nLWNsYXNzLXZvdGUta2V5LWluZGlhbmEtaG91c2UtcmFjZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIyLzEwLzE4L2JhdHRsZS13aGl0ZS13b3JraW5nLWNsYXNzLXZvdGUta2V5LWluZGlhbmEtaG91c2UtcmFjZS_SAQA?oc=5\" target=\"_blank\">A battle for working-class voters in a key Indiana House race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indiana appealing 2nd court decision blocking abortion ban - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2Fib3J0aW9uLWhlYWx0aC1pbmRpYW5hLWdvdmVybm1lbnQtYW5kLXBvbGl0aWNzLWE5ODdjNzI0YWE0NTAyYmNhMTdmNGViMzRiN2IxODYw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2Fib3J0aW9uLWhlYWx0aC1pbmRpYW5hLWdvdmVybm1lbnQtYW5kLXBvbGl0aWNzLWE5ODdjNzI0YWE0NTAyYmNhMTdmNGViMzRiN2IxODYw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2Fib3J0aW9uLWhlYWx0aC1pbmRpYW5hLWdvdmVybm1lbnQtYW5kLXBvbGl0aWNzLWE5ODdjNzI0YWE0NTAyYmNhMTdmNGViMzRiN2IxODYw0gEA?oc=5\" target=\"_blank\">Indiana appealing 2nd court decision blocking abortion ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indiana Primary Election Results 2022 - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjIvMDUvMDMvdXMvZWxlY3Rpb25zL3Jlc3VsdHMtaW5kaWFuYS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjIvMDUvMDMvdXMvZWxlY3Rpb25zL3Jlc3VsdHMtaW5kaWFuYS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjIvMDUvMDMvdXMvZWxlY3Rpb25zL3Jlc3VsdHMtaW5kaWFuYS5odG1s0gEA?oc=5\" target=\"_blank\">Indiana Primary Election Results 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Vogue, But for Trumpers - The New Yorker"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5ld3lvcmtlci5jb20vbWFnYXppbmUvMjAyMi8xMS8yMS92b2d1ZS1idXQtZm9yLXRydW1wZXJz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vd3d3Lm5ld3lvcmtlci5jb20vbWFnYXppbmUvMjAyMi8xMS8yMS92b2d1ZS1idXQtZm9yLXRydW1wZXJz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 14 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5ld3lvcmtlci5jb20vbWFnYXppbmUvMjAyMi8xMS8yMS92b2d1ZS1idXQtZm9yLXRydW1wZXJz0gEA?oc=5\" target=\"_blank\">Vogue, But for Trumpers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Yorker</font>"
+            ],
+            "source": [
+              {
+                "_": "The New Yorker",
+                "$": {
+                  "url": "https://www.newyorker.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Black Republicans rise up after 'The View' host Sunny Hostin calls them 'oxymoron' - Washington Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL21heS82L2JsYWNrLXJlcHVibGljYW5zLXJpc2UtYWZ0ZXItdmlldy1ob3N0LXN1bm55LWhvc3RpL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL21heS82L2JsYWNrLXJlcHVibGljYW5zLXJpc2UtYWZ0ZXItdmlldy1ob3N0LXN1bm55LWhvc3RpL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 06 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIyL21heS82L2JsYWNrLXJlcHVibGljYW5zLXJpc2UtYWZ0ZXItdmlldy1ob3N0LXN1bm55LWhvc3RpL9IBAA?oc=5\" target=\"_blank\">Black Republicans rise up after 'The View' host Sunny Hostin calls them 'oxymoron'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Washington Times",
+                "$": {
+                  "url": "https://www.washingtontimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Webb House, Inc. to host 2023 Ladies' Night Out - Lakeshore Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lmxha2VzaG9yZXB1YmxpY21lZGlhLm9yZy9sb2NhbC1uZXdzLzIwMjMtMTEtMDkvd2ViYi1ob3VzZS1pbmMtdG8taG9zdC0yMDIzLWxhZGllcy1uaWdodC1vdXTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lmxha2VzaG9yZXB1YmxpY21lZGlhLm9yZy9sb2NhbC1uZXdzLzIwMjMtMTEtMDkvd2ViYi1ob3VzZS1pbmMtdG8taG9zdC0yMDIzLWxhZGllcy1uaWdodC1vdXTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lmxha2VzaG9yZXB1YmxpY21lZGlhLm9yZy9sb2NhbC1uZXdzLzIwMjMtMTEtMDkvd2ViYi1ob3VzZS1pbmMtdG8taG9zdC0yMDIzLWxhZGllcy1uaWdodC1vdXTSAQA?oc=5\" target=\"_blank\">Webb House, Inc. to host 2023 Ladies' Night Out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lakeshore Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Lakeshore Public Media",
+                "$": {
+                  "url": "https://www.lakeshorepublicmedia.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans turn to military veterans to help flip control of House in midterms - North Country Public Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5ub3J0aGNvdW50cnlwdWJsaWNyYWRpby5vcmcvbmV3cy9ucHIvMTEwMjk1MzMyOS9yZXB1YmxpY2Fucy10dXJuLXRvLW1pbGl0YXJ5LXZldGVyYW5zLXRvLWhlbHAtZmxpcC1jb250cm9sLW9mLWhvdXNlLWluLW1pZHRlcm1z0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3d3dy5ub3J0aGNvdW50cnlwdWJsaWNyYWRpby5vcmcvbmV3cy9ucHIvMTEwMjk1MzMyOS9yZXB1YmxpY2Fucy10dXJuLXRvLW1pbGl0YXJ5LXZldGVyYW5zLXRvLWhlbHAtZmxpcC1jb250cm9sLW9mLWhvdXNlLWluLW1pZHRlcm1z0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5ub3J0aGNvdW50cnlwdWJsaWNyYWRpby5vcmcvbmV3cy9ucHIvMTEwMjk1MzMyOS9yZXB1YmxpY2Fucy10dXJuLXRvLW1pbGl0YXJ5LXZldGVyYW5zLXRvLWhlbHAtZmxpcC1jb250cm9sLW9mLWhvdXNlLWluLW1pZHRlcm1z0gEA?oc=5\" target=\"_blank\">Republicans turn to military veterans to help flip control of House in midterms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North Country Public Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "North Country Public Radio",
+                "$": {
+                  "url": "https://www.northcountrypublicradio.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican candidate Green voted in the 2018 Democratic primary, required special approval - Chicago Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jaGljYWdvdHJpYnVuZS5jb20vc3VidXJicy9wb3N0LXRyaWJ1bmUvY3QtcHRiLWpyZy12b3RpbmctcmVjb3JkLXN0LTExMDItMjAyMjExMDItYWNmcHB3NjVhYmZsN25xejM1Z21pcXU0bnktc3RvcnkuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5jaGljYWdvdHJpYnVuZS5jb20vc3VidXJicy9wb3N0LXRyaWJ1bmUvY3QtcHRiLWpyZy12b3RpbmctcmVjb3JkLXN0LTExMDItMjAyMjExMDItYWNmcHB3NjVhYmZsN25xejM1Z21pcXU0bnktc3RvcnkuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jaGljYWdvdHJpYnVuZS5jb20vc3VidXJicy9wb3N0LXRyaWJ1bmUvY3QtcHRiLWpyZy12b3RpbmctcmVjb3JkLXN0LTExMDItMjAyMjExMDItYWNmcHB3NjVhYmZsN25xejM1Z21pcXU0bnktc3RvcnkuaHRtbNIBAA?oc=5\" target=\"_blank\">Republican candidate Green voted in the 2018 Democratic primary, required special approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Chicago Tribune",
+                "$": {
+                  "url": "https://www.chicagotribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former VP Mike Pence blames Democrats for high gas prices during stop in NW Indiana - WFYI"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LndmeWkub3JnL25ld3MvYXJ0aWNsZXMvZm9ybWVyLXZwLW1pa2UtcGVuY2UtYmxhbWVzLWRlbW9jcmF0cy1mb3ItaGlnaC1nYXMtcHJpY2VzLWR1cmluZy1zdG9wLWluLW53LWluZGlhbmHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LndmeWkub3JnL25ld3MvYXJ0aWNsZXMvZm9ybWVyLXZwLW1pa2UtcGVuY2UtYmxhbWVzLWRlbW9jcmF0cy1mb3ItaGlnaC1nYXMtcHJpY2VzLWR1cmluZy1zdG9wLWluLW53LWluZGlhbmHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LndmeWkub3JnL25ld3MvYXJ0aWNsZXMvZm9ybWVyLXZwLW1pa2UtcGVuY2UtYmxhbWVzLWRlbW9jcmF0cy1mb3ItaGlnaC1nYXMtcHJpY2VzLWR1cmluZy1zdG9wLWluLW53LWluZGlhbmHSAQA?oc=5\" target=\"_blank\">Former VP Mike Pence blames Democrats for high gas prices during stop in NW Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFYI</font>"
+            ],
+            "source": [
+              {
+                "_": "WFYI",
+                "$": {
+                  "url": "https://www.wfyi.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Why Asian Americans Could Vote Republican in the Midterms - National Review"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5uYXRpb25hbHJldmlldy5jb20vbmV3cy9yZXB1YmxpY2FuLWFzaWFuLWFtZXJpY2FuLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlcy10YWxrLWFib3V0LXRoZWlyLWNvbnN0aXR1ZW50cy10b3AtaXNzdWVzL9IBhAFodHRwczovL3d3dy5uYXRpb25hbHJldmlldy5jb20vbmV3cy9yZXB1YmxpY2FuLWFzaWFuLWFtZXJpY2FuLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlcy10YWxrLWFib3V0LXRoZWlyLWNvbnN0aXR1ZW50cy10b3AtaXNzdWVzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy5uYXRpb25hbHJldmlldy5jb20vbmV3cy9yZXB1YmxpY2FuLWFzaWFuLWFtZXJpY2FuLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlcy10YWxrLWFib3V0LXRoZWlyLWNvbnN0aXR1ZW50cy10b3AtaXNzdWVzL9IBhAFodHRwczovL3d3dy5uYXRpb25hbHJldmlldy5jb20vbmV3cy9yZXB1YmxpY2FuLWFzaWFuLWFtZXJpY2FuLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlcy10YWxrLWFib3V0LXRoZWlyLWNvbnN0aXR1ZW50cy10b3AtaXNzdWVzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5uYXRpb25hbHJldmlldy5jb20vbmV3cy9yZXB1YmxpY2FuLWFzaWFuLWFtZXJpY2FuLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlcy10YWxrLWFib3V0LXRoZWlyLWNvbnN0aXR1ZW50cy10b3AtaXNzdWVzL9IBhAFodHRwczovL3d3dy5uYXRpb25hbHJldmlldy5jb20vbmV3cy9yZXB1YmxpY2FuLWFzaWFuLWFtZXJpY2FuLWNvbmdyZXNzaW9uYWwtY2FuZGlkYXRlcy10YWxrLWFib3V0LXRoZWlyLWNvbnN0aXR1ZW50cy10b3AtaXNzdWVzL2FtcC8?oc=5\" target=\"_blank\">Why Asian Americans Could Vote Republican in the Midterms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Review</font>"
+            ],
+            "source": [
+              {
+                "_": "National Review",
+                "$": {
+                  "url": "https://www.nationalreview.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tomi Lahren rips Politico for outing GOP candidate's sexual assault story - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzMTM1OTU3NzQxMTLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzMTM1OTU3NzQxMTLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3ZpZGVvLzYzMTM1OTU3NzQxMTLSAQA?oc=5\" target=\"_blank\">Tomi Lahren rips Politico for outing GOP candidate's sexual assault story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tomi Lahren slams Politico for publishing GOP candidate's sexual assault: Where's the #MeToo movement? - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3RvbWktbGFocmVuLXNsYW1zLXBvbGl0aWNvLXB1Ymxpc2hpbmctZ29wLWNhbmRpZGF0ZXMtc2V4dWFsLWFzc2F1bHQtbWV0b28tbW92ZW1lbnTSAXRodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS90b21pLWxhaHJlbi1zbGFtcy1wb2xpdGljby1wdWJsaXNoaW5nLWdvcC1jYW5kaWRhdGVzLXNleHVhbC1hc3NhdWx0LW1ldG9vLW1vdmVtZW50LmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3RvbWktbGFocmVuLXNsYW1zLXBvbGl0aWNvLXB1Ymxpc2hpbmctZ29wLWNhbmRpZGF0ZXMtc2V4dWFsLWFzc2F1bHQtbWV0b28tbW92ZW1lbnTSAXRodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS90b21pLWxhaHJlbi1zbGFtcy1wb2xpdGljby1wdWJsaXNoaW5nLWdvcC1jYW5kaWRhdGVzLXNleHVhbC1hc3NhdWx0LW1ldG9vLW1vdmVtZW50LmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3RvbWktbGFocmVuLXNsYW1zLXBvbGl0aWNvLXB1Ymxpc2hpbmctZ29wLWNhbmRpZGF0ZXMtc2V4dWFsLWFzc2F1bHQtbWV0b28tbW92ZW1lbnTSAXRodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS90b21pLWxhaHJlbi1zbGFtcy1wb2xpdGljby1wdWJsaXNoaW5nLWdvcC1jYW5kaWRhdGVzLXNleHVhbC1hc3NhdWx0LW1ldG9vLW1vdmVtZW50LmFtcA?oc=5\" target=\"_blank\">Tomi Lahren slams Politico for publishing GOP candidate's sexual assault: Where's the #MeToo movement?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'I Was Just Sickened By It': Sen. Joni Ernst (R-IA) Blasts Politico Report That Published Records Of GOP Candidate ... - FOX News Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitgFodHRwczovL3JhZGlvLmZveG5ld3MuY29tLzIwMjIvMTAvMjAvaS13YXMtanVzdC1zaWNrZW5lZC1ieS1pdC1zZW4tam9uaS1lcm5zdC1yLWlhLWJsYXN0cy1wb2xpdGljby1yZXBvcnQtdGhhdC1wdWJsaXNoZWQtcmVjb3Jkcy1vZi1nb3AtY2FuZGlkYXRlLWplbm5pZmVyLXJ1dGgtZ3JlZW5zLXNleHVhbC1hc3NhdWx0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitgFodHRwczovL3JhZGlvLmZveG5ld3MuY29tLzIwMjIvMTAvMjAvaS13YXMtanVzdC1zaWNrZW5lZC1ieS1pdC1zZW4tam9uaS1lcm5zdC1yLWlhLWJsYXN0cy1wb2xpdGljby1yZXBvcnQtdGhhdC1wdWJsaXNoZWQtcmVjb3Jkcy1vZi1nb3AtY2FuZGlkYXRlLWplbm5pZmVyLXJ1dGgtZ3JlZW5zLXNleHVhbC1hc3NhdWx0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitgFodHRwczovL3JhZGlvLmZveG5ld3MuY29tLzIwMjIvMTAvMjAvaS13YXMtanVzdC1zaWNrZW5lZC1ieS1pdC1zZW4tam9uaS1lcm5zdC1yLWlhLWJsYXN0cy1wb2xpdGljby1yZXBvcnQtdGhhdC1wdWJsaXNoZWQtcmVjb3Jkcy1vZi1nb3AtY2FuZGlkYXRlLWplbm5pZmVyLXJ1dGgtZ3JlZW5zLXNleHVhbC1hc3NhdWx0L9IBAA?oc=5\" target=\"_blank\">'I Was Just Sickened By It': Sen. Joni Ernst (R-IA) Blasts Politico Report That Published Records Of GOP Candidate ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX News Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX News Radio",
+                "$": {
+                  "url": "https://radio.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trailblazing veteran looks to influence next generation of aviators - WANE"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LndhbmUuY29tL25ld3MvdmV0ZXJhbnMtdm9pY2VzL3RyYWlsYmxhemluZy12ZXRlcmFuLWxvb2tzLXRvLWluZmx1ZW5jZS1uZXh0LWdlbmVyYXRpb24tb2YtYXZpYXRvcnMv0gFyaHR0cHM6Ly93d3cud2FuZS5jb20vbmV3cy92ZXRlcmFucy12b2ljZXMvdHJhaWxibGF6aW5nLXZldGVyYW4tbG9va3MtdG8taW5mbHVlbmNlLW5leHQtZ2VuZXJhdGlvbi1vZi1hdmlhdG9ycy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LndhbmUuY29tL25ld3MvdmV0ZXJhbnMtdm9pY2VzL3RyYWlsYmxhemluZy12ZXRlcmFuLWxvb2tzLXRvLWluZmx1ZW5jZS1uZXh0LWdlbmVyYXRpb24tb2YtYXZpYXRvcnMv0gFyaHR0cHM6Ly93d3cud2FuZS5jb20vbmV3cy92ZXRlcmFucy12b2ljZXMvdHJhaWxibGF6aW5nLXZldGVyYW4tbG9va3MtdG8taW5mbHVlbmNlLW5leHQtZ2VuZXJhdGlvbi1vZi1hdmlhdG9ycy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Nov 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LndhbmUuY29tL25ld3MvdmV0ZXJhbnMtdm9pY2VzL3RyYWlsYmxhemluZy12ZXRlcmFuLWxvb2tzLXRvLWluZmx1ZW5jZS1uZXh0LWdlbmVyYXRpb24tb2YtYXZpYXRvcnMv0gFyaHR0cHM6Ly93d3cud2FuZS5jb20vbmV3cy92ZXRlcmFucy12b2ljZXMvdHJhaWxibGF6aW5nLXZldGVyYW4tbG9va3MtdG8taW5mbHVlbmNlLW5leHQtZ2VuZXJhdGlvbi1vZi1hdmlhdG9ycy9hbXAv?oc=5\" target=\"_blank\">Trailblazing veteran looks to influence next generation of aviators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WANE</font>"
+            ],
+            "source": [
+              {
+                "_": "WANE",
+                "$": {
+                  "url": "https://www.wane.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Frank Mrvan defeats Green to stay in Congress - The Chicago Cusader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9mcmFuay1tcnZhbi1kZWZlYXRzLWdyZWVuLXRvLXN0YXktaW4tY29uZ3Jlc3Mv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9mcmFuay1tcnZhbi1kZWZlYXRzLWdyZWVuLXRvLXN0YXktaW4tY29uZ3Jlc3Mv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 11 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9mcmFuay1tcnZhbi1kZWZlYXRzLWdyZWVuLXRvLXN0YXktaW4tY29uZ3Jlc3Mv0gEA?oc=5\" target=\"_blank\">Frank Mrvan defeats Green to stay in Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Chicago Cusader</font>"
+            ],
+            "source": [
+              {
+                "_": "The Chicago Cusader",
+                "$": {
+                  "url": "https://chicagocrusader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "THIS CARPETBAG IS FULL OF LIES - The Chicago Cusader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS90aGlzLWNhcnBldGJhZy1pcy1mdWxsLW9mLWxpZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiO2h0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS90aGlzLWNhcnBldGJhZy1pcy1mdWxsLW9mLWxpZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS90aGlzLWNhcnBldGJhZy1pcy1mdWxsLW9mLWxpZXMv0gEA?oc=5\" target=\"_blank\">THIS CARPETBAG IS FULL OF LIES</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Chicago Cusader</font>"
+            ],
+            "source": [
+              {
+                "_": "The Chicago Cusader",
+                "$": {
+                  "url": "https://chicagocrusader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Veterans vying for congressional seats vow to take on 'woke' military agenda in face of international dangers - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3ZldGVyYW5zLXZ5aW5nLWNvbmdyZXNzaW9uYWwtc2VhdHMtdm93LXRha2Utd29rZS1taWxpdGFyeS1hZ2VuZGEtZmFjZS1pbnRlcm5hdGlvbmFsLWRhbmdlcnPSAX1odHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS92ZXRlcmFucy12eWluZy1jb25ncmVzc2lvbmFsLXNlYXRzLXZvdy10YWtlLXdva2UtbWlsaXRhcnktYWdlbmRhLWZhY2UtaW50ZXJuYXRpb25hbC1kYW5nZXJzLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3ZldGVyYW5zLXZ5aW5nLWNvbmdyZXNzaW9uYWwtc2VhdHMtdm93LXRha2Utd29rZS1taWxpdGFyeS1hZ2VuZGEtZmFjZS1pbnRlcm5hdGlvbmFsLWRhbmdlcnPSAX1odHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS92ZXRlcmFucy12eWluZy1jb25ncmVzc2lvbmFsLXNlYXRzLXZvdy10YWtlLXdva2UtbWlsaXRhcnktYWdlbmRhLWZhY2UtaW50ZXJuYXRpb25hbC1kYW5nZXJzLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 30 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3ZldGVyYW5zLXZ5aW5nLWNvbmdyZXNzaW9uYWwtc2VhdHMtdm93LXRha2Utd29rZS1taWxpdGFyeS1hZ2VuZGEtZmFjZS1pbnRlcm5hdGlvbmFsLWRhbmdlcnPSAX1odHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS92ZXRlcmFucy12eWluZy1jb25ncmVzc2lvbmFsLXNlYXRzLXZvdy10YWtlLXdva2UtbWlsaXRhcnktYWdlbmRhLWZhY2UtaW50ZXJuYXRpb25hbC1kYW5nZXJzLmFtcA?oc=5\" target=\"_blank\">Veterans vying for congressional seats vow to take on 'woke' military agenda in face of international dangers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AG: Penalize doctor who spoke of Ohio 10-year-old's abortion - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2Fib3J0aW9uLWJpZGVuLWhlYWx0aC1pbmRpYW5hcG9saXMtaW5kaWFuYS1lNzNlY2Y0ZjYwZWQ2OGYxYWQxZDExZGI3YzIyMzM1OdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2Fib3J0aW9uLWJpZGVuLWhlYWx0aC1pbmRpYW5hcG9saXMtaW5kaWFuYS1lNzNlY2Y0ZjYwZWQ2OGYxYWQxZDExZGI3YzIyMzM1OdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 30 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2Fib3J0aW9uLWJpZGVuLWhlYWx0aC1pbmRpYW5hcG9saXMtaW5kaWFuYS1lNzNlY2Y0ZjYwZWQ2OGYxYWQxZDExZGI3YzIyMzM1OdIBAA?oc=5\" target=\"_blank\">AG: Penalize doctor who spoke of Ohio 10-year-old's abortion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WATCH NOW: Mike Pence attends event rolling back gas to $2.38 at Hobart gas station - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL2hvYmFydC93YXRjaC1ub3ctbWlrZS1wZW5jZS1hdHRlbmRzLWV2ZW50LXJvbGxpbmctYmFjay1nYXMtdG8tMi0zOC1hdC1ob2JhcnQtZ2FzL2FydGljbGVfMjg1MDgwZDYtNWQ5OC01NDAyLWI4ZTQtYmJlYThlMDFhZTM2Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqwFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL2hvYmFydC93YXRjaC1ub3ctbWlrZS1wZW5jZS1hdHRlbmRzLWV2ZW50LXJvbGxpbmctYmFjay1nYXMtdG8tMi0zOC1hdC1ob2JhcnQtZ2FzL2FydGljbGVfMjg1MDgwZDYtNWQ5OC01NDAyLWI4ZTQtYmJlYThlMDFhZTM2Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL2hvYmFydC93YXRjaC1ub3ctbWlrZS1wZW5jZS1hdHRlbmRzLWV2ZW50LXJvbGxpbmctYmFjay1nYXMtdG8tMi0zOC1hdC1ob2JhcnQtZ2FzL2FydGljbGVfMjg1MDgwZDYtNWQ5OC01NDAyLWI4ZTQtYmJlYThlMDFhZTM2Lmh0bWzSAQA?oc=5\" target=\"_blank\">WATCH NOW: Mike Pence attends event rolling back gas to $2.38 at Hobart gas station</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Federal judge calls Todd Rokita's TikTok lawsuit 'posturing' - Chicago Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jaGljYWdvdHJpYnVuZS5jb20vMjAyMy8wNi8wNS9mZWRlcmFsLWp1ZGdlLWNhbGxzLWluZGlhbmEtYXR0b3JuZXktZ2VuZXJhbHMtdGlrdG9rLWxhd3N1aXQtbGFyZ2VseS1wb2xpdGljYWwtcG9zdHVyaW5nL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5jaGljYWdvdHJpYnVuZS5jb20vMjAyMy8wNi8wNS9mZWRlcmFsLWp1ZGdlLWNhbGxzLWluZGlhbmEtYXR0b3JuZXktZ2VuZXJhbHMtdGlrdG9rLWxhd3N1aXQtbGFyZ2VseS1wb2xpdGljYWwtcG9zdHVyaW5nL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jaGljYWdvdHJpYnVuZS5jb20vMjAyMy8wNi8wNS9mZWRlcmFsLWp1ZGdlLWNhbGxzLWluZGlhbmEtYXR0b3JuZXktZ2VuZXJhbHMtdGlrdG9rLWxhd3N1aXQtbGFyZ2VseS1wb2xpdGljYWwtcG9zdHVyaW5nL9IBAA?oc=5\" target=\"_blank\">Federal judge calls Todd Rokita's TikTok lawsuit 'posturing'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Chicago Tribune",
+                "$": {
+                  "url": "https://www.chicagotribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrat Rep. Frank Mrvan's campaign spent thousands of dollars on flights for wife, seat upgrades - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlc9IBeWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlcy5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlc9IBeWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlcy5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlc9IBeWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlcy5hbXA?oc=5\" target=\"_blank\">Democrat Rep. Frank Mrvan's campaign spent thousands of dollars on flights for wife, seat upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans use Biden gaffe about dead congresswoman to bash the aging president and his White House aides - Yahoo News UK"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcmVwdWJsaWNhbnMtYmlkZW4tZ2FmZmUtZGVhZC1jb25ncmVzc3dvbWFuLTIxNDk1OTQ0NC5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcmVwdWJsaWNhbnMtYmlkZW4tZ2FmZmUtZGVhZC1jb25ncmVzc3dvbWFuLTIxNDk1OTQ0NC5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 28 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcmVwdWJsaWNhbnMtYmlkZW4tZ2FmZmUtZGVhZC1jb25ncmVzc3dvbWFuLTIxNDk1OTQ0NC5odG1s0gEA?oc=5\" target=\"_blank\">Republicans use Biden gaffe about dead congresswoman to bash the aging president and his White House aides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News UK",
+                "$": {
+                  "url": "https://uk.news.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Indiana primary election: Updates from poll openings to results - IndyStar"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMi8wNS8wMy9pbmRpYW5hLXByaW1hcnktZWxlY3Rpb24tZGF5LTIwMjItbGl2ZS12b3RpbmctdXBkYXRlcy83NDA5NTcyMDAxL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMi8wNS8wMy9pbmRpYW5hLXByaW1hcnktZWxlY3Rpb24tZGF5LTIwMjItbGl2ZS12b3RpbmctdXBkYXRlcy83NDA5NTcyMDAxL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyMi8wNS8wMy9pbmRpYW5hLXByaW1hcnktZWxlY3Rpb24tZGF5LTIwMjItbGl2ZS12b3RpbmctdXBkYXRlcy83NDA5NTcyMDAxL9IBAA?oc=5\" target=\"_blank\">Indiana primary election: Updates from poll openings to results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndyStar</font>"
+            ],
+            "source": [
+              {
+                "_": "IndyStar",
+                "$": {
+                  "url": "https://www.indystar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jennifer Ruth-Green accuses Frank Mrvan of leaking assault report stating she was sexually assaulted - MEAWW"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbWVhd3cuY29tL3doby1pcy1qZW5uaWZlci1ydXRoLWdyZWVuLWdvcC1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZS1hY2N1c2VzLXJpdmFsLXNleHVhbC1hc3NhdWx0LXJlcG9ydNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vbWVhd3cuY29tL3doby1pcy1qZW5uaWZlci1ydXRoLWdyZWVuLWdvcC1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZS1hY2N1c2VzLXJpdmFsLXNleHVhbC1hc3NhdWx0LXJlcG9ydNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 09 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbWVhd3cuY29tL3doby1pcy1qZW5uaWZlci1ydXRoLWdyZWVuLWdvcC1jb25ncmVzc2lvbmFsLWNhbmRpZGF0ZS1hY2N1c2VzLXJpdmFsLXNleHVhbC1hc3NhdWx0LXJlcG9ydNIBAA?oc=5\" target=\"_blank\">Jennifer Ruth-Green accuses Frank Mrvan of leaking assault report stating she was sexually assaulted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEAWW</font>"
+            ],
+            "source": [
+              {
+                "_": "MEAWW",
+                "$": {
+                  "url": "https://meaww.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jennifer Ruth Green - Wiki, Bio, Age, Husband, Polls, Family, & Ethnicity - World-Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd29ybGQtd2lyZS5jb20vamVubmlmZXItcnV0aC1ncmVlbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiK2h0dHBzOi8vd29ybGQtd2lyZS5jb20vamVubmlmZXItcnV0aC1ncmVlbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd29ybGQtd2lyZS5jb20vamVubmlmZXItcnV0aC1ncmVlbi_SAQA?oc=5\" target=\"_blank\">Jennifer Ruth Green - Wiki, Bio, Age, Husband, Polls, Family, & Ethnicity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World-Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "World-Wire",
+                "$": {
+                  "url": "https://world-wire.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

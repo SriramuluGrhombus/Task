@@ -1,0 +1,338 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Larry Vernamonti\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Larry+Vernamonti&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Burlington Dems hold three county offices - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xvY2FsL2J1cmxpbmd0b24tZGVtcy1ob2xkLXRocmVlLWNvdW50eS1vZmZpY2VzL9IBAA?oc=5\" target=\"_blank\">Burlington Dems hold three county offices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democratic County Commissioners Singh, Pullion Seeking Re-election in Face of Challenge from Moorestown ... - Pine Barrens Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWNvdW50eS1jb21taXNzaW9uZXJzLXNpbmdoLXB1bGxpb24tc2Vla2luZy1yZWVsZWN0aW9uLWluLWZhY2UtcDU0MDMtMTY1Lmh0bdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWNvdW50eS1jb21taXNzaW9uZXJzLXNpbmdoLXB1bGxpb24tc2Vla2luZy1yZWVsZWN0aW9uLWluLWZhY2UtcDU0MDMtMTY1Lmh0bdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 04 Nov 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vcGluZWJhcnJlbnN0cmlidW5lLmNvbS9kZW1vY3JhdGljLWNvdW50eS1jb21taXNzaW9uZXJzLXNpbmdoLXB1bGxpb24tc2Vla2luZy1yZWVsZWN0aW9uLWluLWZhY2UtcDU0MDMtMTY1Lmh0bdIBAA?oc=5\" target=\"_blank\">Democratic County Commissioners Singh, Pullion Seeking Re-election in Face of Challenge from Moorestown ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pine Barrens Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Pine Barrens Tribune",
+                "$": {
+                  "url": "https://pinebarrenstribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Who won election in 70and73's area? | News - 70and73.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LjcwYW5kNzMuY29tL25ld3Mvd2hvLXdvbi1lbGVjdGlvbi1pbi03MGFuZDczcy1hcmVhL2FydGljbGVfODk1ZjZjMDItN2UzZi0xMWVlLWIzZmItMmJlOTBkZDE2YzM4Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LjcwYW5kNzMuY29tL25ld3Mvd2hvLXdvbi1lbGVjdGlvbi1pbi03MGFuZDczcy1hcmVhL2FydGljbGVfODk1ZjZjMDItN2UzZi0xMWVlLWIzZmItMmJlOTBkZDE2YzM4Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LjcwYW5kNzMuY29tL25ld3Mvd2hvLXdvbi1lbGVjdGlvbi1pbi03MGFuZDczcy1hcmVhL2FydGljbGVfODk1ZjZjMDItN2UzZi0xMWVlLWIzZmItMmJlOTBkZDE2YzM4Lmh0bWzSAQA?oc=5\" target=\"_blank\">Who won election in 70and73's area? | News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">70and73.com</font>"
+            ],
+            "source": [
+              {
+                "_": "70and73.com",
+                "$": {
+                  "url": "https://www.70and73.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Know what you're voting on with South Jersey's election primer - Courier Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzA5LzE5L2dlbmVyYWwtZWxlY3Rpb24tMjAyMy1iYWxsb3RzLWNhbmRpZGF0ZXMtbGVnaXNsYXR1cmUtY291bnR5LWNvbW1pc3Npb25lcnMtY2xlcmstc3Vycm9nYXRlLW5vdi03LzcwODc2MjIyMDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqgFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzA5LzE5L2dlbmVyYWwtZWxlY3Rpb24tMjAyMy1iYWxsb3RzLWNhbmRpZGF0ZXMtbGVnaXNsYXR1cmUtY291bnR5LWNvbW1pc3Npb25lcnMtY2xlcmstc3Vycm9nYXRlLW5vdi03LzcwODc2MjIyMDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5jb3VyaWVycG9zdG9ubGluZS5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIzLzA5LzE5L2dlbmVyYWwtZWxlY3Rpb24tMjAyMy1iYWxsb3RzLWNhbmRpZGF0ZXMtbGVnaXNsYXR1cmUtY291bnR5LWNvbW1pc3Npb25lcnMtY2xlcmstc3Vycm9nYXRlLW5vdi03LzcwODc2MjIyMDA3L9IBAA?oc=5\" target=\"_blank\">Know what you're voting on with South Jersey's election primer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courier Post</font>"
+            ],
+            "source": [
+              {
+                "_": "Courier Post",
+                "$": {
+                  "url": "https://www.courierpostonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Burlington GOP backs Tiver for Senate - New Jersey Globe | New Jersey Politics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xlZ2lzbGF0dXJlLzExNzM0OS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiLmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xlZ2lzbGF0dXJlLzExNzM0OS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 04 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbmV3amVyc2V5Z2xvYmUuY29tL2xlZ2lzbGF0dXJlLzExNzM0OS_SAQA?oc=5\" target=\"_blank\">Burlington GOP backs Tiver for Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Globe | New Jersey Politics</font>"
+            ],
+            "source": [
+              {
+                "_": "New Jersey Globe | New Jersey Politics",
+                "$": {
+                  "url": "https://newjerseyglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election 2023: Clean Sweep for Democrats at County, State Legislative Levels - TAPinto.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9tb3VudC1sYXVyZWwvc2VjdGlvbnMvZWxlY3Rpb25zL2FydGljbGVzL2VsZWN0aW9uLTIwMjMtY2xlYW4tc3dlZXAtZm9yLWRlbW9jcmF0cy1hdC1jb3VudHktc3RhdGUtbGVnaXNsYXRpdmUtbGV2ZWxz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9tb3VudC1sYXVyZWwvc2VjdGlvbnMvZWxlY3Rpb25zL2FydGljbGVzL2VsZWN0aW9uLTIwMjMtY2xlYW4tc3dlZXAtZm9yLWRlbW9jcmF0cy1hdC1jb3VudHktc3RhdGUtbGVnaXNsYXRpdmUtbGV2ZWxz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9tb3VudC1sYXVyZWwvc2VjdGlvbnMvZWxlY3Rpb25zL2FydGljbGVzL2VsZWN0aW9uLTIwMjMtY2xlYW4tc3dlZXAtZm9yLWRlbW9jcmF0cy1hdC1jb3VudHktc3RhdGUtbGVnaXNsYXRpdmUtbGV2ZWxz0gEA?oc=5\" target=\"_blank\">Election 2023: Clean Sweep for Democrats at County, State Legislative Levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TAPinto.net</font>"
+            ],
+            "source": [
+              {
+                "_": "TAPinto.net",
+                "$": {
+                  "url": "https://www.tapinto.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election Day In Moorestown: Who's On The Ballot, Where To Vote - Patch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA?oc=5\" target=\"_blank\">Election Day In Moorestown: Who's On The Ballot, Where To Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
+            ],
+            "source": [
+              {
+                "_": "Patch",
+                "$": {
+                  "url": "https://patch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election Day In Cinnaminson: Who's On The Ballot, Where To Vote - Patch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvY2lubmFtaW5zb24vZWxlY3Rpb24tZGF5LWNpbm5hbWluc29uLXdob3MtYmFsbG90LXdoZXJlLXZvdGUtMNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvY2lubmFtaW5zb24vZWxlY3Rpb24tZGF5LWNpbm5hbWluc29uLXdob3MtYmFsbG90LXdoZXJlLXZvdGUtMNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvY2lubmFtaW5zb24vZWxlY3Rpb24tZGF5LWNpbm5hbWluc29uLXdob3MtYmFsbG90LXdoZXJlLXZvdGUtMNIBAA?oc=5\" target=\"_blank\">Election Day In Cinnaminson: Who's On The Ballot, Where To Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
+            ],
+            "source": [
+              {
+                "_": "Patch",
+                "$": {
+                  "url": "https://patch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election 2023: Clean Sweep for Democrats in Bordentown Township, Fieldsboro, County, Legislature - TAPinto.net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2VsZWN0aW9ucy9hcnRpY2xlcy9lbGVjdGlvbi0yMDIzLWNsZWFuLXN3ZWVwLWZvci1kZW1vY3JhdHMtaW4tYm9yZGVudG93bi10b3duc2hpcC1maWVsZHNib3JvLWNvdW50eS1sZWdpc2xhdHVyZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2VsZWN0aW9ucy9hcnRpY2xlcy9lbGVjdGlvbi0yMDIzLWNsZWFuLXN3ZWVwLWZvci1kZW1vY3JhdHMtaW4tYm9yZGVudG93bi10b3duc2hpcC1maWVsZHNib3JvLWNvdW50eS1sZWdpc2xhdHVyZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy50YXBpbnRvLm5ldC90b3ducy9ib3JkZW50b3duL3NlY3Rpb25zL2VsZWN0aW9ucy9hcnRpY2xlcy9lbGVjdGlvbi0yMDIzLWNsZWFuLXN3ZWVwLWZvci1kZW1vY3JhdHMtaW4tYm9yZGVudG93bi10b3duc2hpcC1maWVsZHNib3JvLWNvdW50eS1sZWdpc2xhdHVyZdIBAA?oc=5\" target=\"_blank\">Election 2023: Clean Sweep for Democrats in Bordentown Township, Fieldsboro, County, Legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TAPinto.net</font>"
+            ],
+            "source": [
+              {
+                "_": "TAPinto.net",
+                "$": {
+                  "url": "https://www.tapinto.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "General Election Showdown Set In Cinnaminson: What To Expect For November - Patch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvY2lubmFtaW5zb24vZ2VuZXJhbC1lbGVjdGlvbnMtc2V0LWNpbm5hbWluc29uLXdoYXQtZXhwZWN0LW5vdmVtYmVy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvY2lubmFtaW5zb24vZ2VuZXJhbC1lbGVjdGlvbnMtc2V0LWNpbm5hbWluc29uLXdoYXQtZXhwZWN0LW5vdmVtYmVy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvY2lubmFtaW5zb24vZ2VuZXJhbC1lbGVjdGlvbnMtc2V0LWNpbm5hbWluc29uLXdoYXQtZXhwZWN0LW5vdmVtYmVy0gEA?oc=5\" target=\"_blank\">General Election Showdown Set In Cinnaminson: What To Expect For November</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
+            ],
+            "source": [
+              {
+                "_": "Patch",
+                "$": {
+                  "url": "https://patch.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

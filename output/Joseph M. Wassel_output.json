@@ -1,0 +1,308 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Joseph M. Wassel\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Joseph+M.+Wassel&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "FirstNet Authority names Joe Wassel as its new executive director - VanillaPlus"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnZhbmlsbGFwbHVzLmNvbS8yMDIzLzAzLzE5Lzc3Nzc1LWZpcnN0bmV0LWF1dGhvcml0eS1uYW1lcy1qb2Utd2Fzc2VsLWFzLWl0cy1uZXctZXhlY3V0aXZlLWRpcmVjdG9yL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LnZhbmlsbGFwbHVzLmNvbS8yMDIzLzAzLzE5Lzc3Nzc1LWZpcnN0bmV0LWF1dGhvcml0eS1uYW1lcy1qb2Utd2Fzc2VsLWFzLWl0cy1uZXctZXhlY3V0aXZlLWRpcmVjdG9yL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnZhbmlsbGFwbHVzLmNvbS8yMDIzLzAzLzE5Lzc3Nzc1LWZpcnN0bmV0LWF1dGhvcml0eS1uYW1lcy1qb2Utd2Fzc2VsLWFzLWl0cy1uZXctZXhlY3V0aXZlLWRpcmVjdG9yL9IBAA?oc=5\" target=\"_blank\">FirstNet Authority names Joe Wassel as its new executive director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VanillaPlus</font>"
+            ],
+            "source": [
+              {
+                "_": "VanillaPlus",
+                "$": {
+                  "url": "https://www.vanillaplus.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former DISA Cyberspace Exec Joseph Wassel Becomes Head of FirstNet - Executive Gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzAzL2Zvcm1lci1kaXNhLWN5YmVyc3BhY2UtZXhlYy1qb3NlcGgtd2Fzc2VsLWJlY29tZXMtaGVhZC1vZi1maXJzdG5ldC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzAzL2Zvcm1lci1kaXNhLWN5YmVyc3BhY2UtZXhlYy1qb3NlcGgtd2Fzc2VsLWJlY29tZXMtaGVhZC1vZi1maXJzdG5ldC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 13 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzAzL2Zvcm1lci1kaXNhLWN5YmVyc3BhY2UtZXhlYy1qb3NlcGgtd2Fzc2VsLWJlY29tZXMtaGVhZC1vZi1maXJzdG5ldC_SAQA?oc=5\" target=\"_blank\">Former DISA Cyberspace Exec Joseph Wassel Becomes Head of FirstNet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Executive Gov</font>"
+            ],
+            "source": [
+              {
+                "_": "Executive Gov",
+                "$": {
+                  "url": "https://executivegov.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Joe Wassel named as new FirstNet Authority CEO - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xMC9qb2Utd2Fzc2VsLW5hbWVkLWFzLW5ldy1maXJzdG5ldC1hdXRob3JpdHktY2VvL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xMC9qb2Utd2Fzc2VsLW5hbWVkLWFzLW5ldy1maXJzdG5ldC1hdXRob3JpdHktY2VvL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xMC9qb2Utd2Fzc2VsLW5hbWVkLWFzLW5ldy1maXJzdG5ldC1hdXRob3JpdHktY2VvL9IBAA?oc=5\" target=\"_blank\">Joe Wassel named as new FirstNet Authority CEO - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Joan Wassel Obituary (2023) - North Syracuse, NY - Syracuse Post Standard - Syracuse Post Standard Obituaries"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vb2JpdHMuc3lyYWN1c2UuY29tL3VzL29iaXR1YXJpZXMvc3lyYWN1c2UvbmFtZS9qb2FuLXdhc3NlbC1vYml0dWFyeT9pZD01MzY3NjYwNNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vb2JpdHMuc3lyYWN1c2UuY29tL3VzL29iaXR1YXJpZXMvc3lyYWN1c2UvbmFtZS9qb2FuLXdhc3NlbC1vYml0dWFyeT9pZD01MzY3NjYwNNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vb2JpdHMuc3lyYWN1c2UuY29tL3VzL29iaXR1YXJpZXMvc3lyYWN1c2UvbmFtZS9qb2FuLXdhc3NlbC1vYml0dWFyeT9pZD01MzY3NjYwNNIBAA?oc=5\" target=\"_blank\">Joan Wassel Obituary (2023) - North Syracuse, NY - Syracuse Post Standard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse Post Standard Obituaries</font>"
+            ],
+            "source": [
+              {
+                "_": "Syracuse Post Standard Obituaries",
+                "$": {
+                  "url": "https://obits.syracuse.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wassel describes FirstNet Authority CEO post as 'dream job' - Urgent Comms - Urgent Communications"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xNi93YXNzZWxsLWRlc2NyaWJlcy1maXJzdG5ldC1hdXRob3JpdHktY2VvLXBvc3QtYXMtZHJlYW0tam9iL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xNi93YXNzZWxsLWRlc2NyaWJlcy1maXJzdG5ldC1hdXRob3JpdHktY2VvLXBvc3QtYXMtZHJlYW0tam9iL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8wMy8xNi93YXNzZWxsLWRlc2NyaWJlcy1maXJzdG5ldC1hdXRob3JpdHktY2VvLXBvc3QtYXMtZHJlYW0tam9iL9IBAA?oc=5\" target=\"_blank\">Wassel describes FirstNet Authority CEO post as 'dream job' - Urgent Comms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urgent Communications</font>"
+            ],
+            "source": [
+              {
+                "_": "Urgent Communications",
+                "$": {
+                  "url": "https://urgentcomm.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "More First Responders Choose FirstNet to Reliably Communicate - AT&T Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2NlbGVicmF0aW5nLWZpcnN0bmV0Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOmh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2NlbGVicmF0aW5nLWZpcnN0bmV0Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYWJvdXQuYXR0LmNvbS9zdG9yeS8yMDIzL2NlbGVicmF0aW5nLWZpcnN0bmV0Lmh0bWzSAQA?oc=5\" target=\"_blank\">More First Responders Choose FirstNet to Reliably Communicate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&T Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "AT&T Newsroom",
+                "$": {
+                  "url": "https://about.att.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alum Joe Wassel named Passaic Valley wrestling coach - NorthJersey.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm5vcnRoamVyc2V5LmNvbS9zdG9yeS9uZXdzL3Bhc3NhaWMvbGl0dGxlLWZhbGxzLzIwMTgvMDgvMzAvcGFzc2FpYy12YWxsZXktd3Jlc3RsaW5nLWNvYWNoLWpvZS13YXNzZWwvMTE0MTc0NDAwMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3Lm5vcnRoamVyc2V5LmNvbS9zdG9yeS9uZXdzL3Bhc3NhaWMvbGl0dGxlLWZhbGxzLzIwMTgvMDgvMzAvcGFzc2FpYy12YWxsZXktd3Jlc3RsaW5nLWNvYWNoLWpvZS13YXNzZWwvMTE0MTc0NDAwMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Aug 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm5vcnRoamVyc2V5LmNvbS9zdG9yeS9uZXdzL3Bhc3NhaWMvbGl0dGxlLWZhbGxzLzIwMTgvMDgvMzAvcGFzc2FpYy12YWxsZXktd3Jlc3RsaW5nLWNvYWNoLWpvZS13YXNzZWwvMTE0MTc0NDAwMi_SAQA?oc=5\" target=\"_blank\">Alum Joe Wassel named Passaic Valley wrestling coach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NorthJersey.com</font>"
+            ],
+            "source": [
+              {
+                "_": "NorthJersey.com",
+                "$": {
+                  "url": "https://www.northjersey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fort George G. Meade 9/11 Ceremony|PHOTOS – Capital Gazette - Capital Gazette"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNhcGl0YWxnYXpldHRlLmNvbS8yMDIxLzA5LzEwL2ZvcnQtZ2VvcmdlLWctbWVhZGUtOTExLWNlcmVtb255cGhvdG9zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LmNhcGl0YWxnYXpldHRlLmNvbS8yMDIxLzA5LzEwL2ZvcnQtZ2VvcmdlLWctbWVhZGUtOTExLWNlcmVtb255cGhvdG9zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Sep 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNhcGl0YWxnYXpldHRlLmNvbS8yMDIxLzA5LzEwL2ZvcnQtZ2VvcmdlLWctbWVhZGUtOTExLWNlcmVtb255cGhvdG9zL9IBAA?oc=5\" target=\"_blank\">Fort George G. Meade 9/11 Ceremony|PHOTOS – Capital Gazette</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital Gazette</font>"
+            ],
+            "source": [
+              {
+                "_": "Capital Gazette",
+                "$": {
+                  "url": "https://www.capitalgazette.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wassel eager for new role as Passaic Valley golf coach - NorthJersey.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5vcnRoamVyc2V5LmNvbS9zdG9yeS9zcG9ydHMvaGlnaC1zY2hvb2wvZ29sZi8yMDE3LzA0LzAzL2pvZS13YXNzZWwtcGFzc2FpYy12YWxsZXktZ29sZi8xMDAwMDkxNjIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3Lm5vcnRoamVyc2V5LmNvbS9zdG9yeS9zcG9ydHMvaGlnaC1zY2hvb2wvZ29sZi8yMDE3LzA0LzAzL2pvZS13YXNzZWwtcGFzc2FpYy12YWxsZXktZ29sZi8xMDAwMDkxNjIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 03 Apr 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5vcnRoamVyc2V5LmNvbS9zdG9yeS9zcG9ydHMvaGlnaC1zY2hvb2wvZ29sZi8yMDE3LzA0LzAzL2pvZS13YXNzZWwtcGFzc2FpYy12YWxsZXktZ29sZi8xMDAwMDkxNjIv0gEA?oc=5\" target=\"_blank\">Wassel eager for new role as Passaic Valley golf coach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NorthJersey.com</font>"
+            ],
+            "source": [
+              {
+                "_": "NorthJersey.com",
+                "$": {
+                  "url": "https://www.northjersey.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

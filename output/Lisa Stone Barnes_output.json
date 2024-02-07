@@ -1,0 +1,938 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Lisa Stone Barnes\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Lisa+Stone+Barnes&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Senator Lisa Barnes Pledges to Support Congressional Term Limits - U.S. Term Limits"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnRlcm1saW1pdHMuY29tL2xpc2EtYmFybmVzLXN1cHBvcnRzLXRlcm0tbGltaXRzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vd3d3LnRlcm1saW1pdHMuY29tL2xpc2EtYmFybmVzLXN1cHBvcnRzLXRlcm0tbGltaXRzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnRlcm1saW1pdHMuY29tL2xpc2EtYmFybmVzLXN1cHBvcnRzLXRlcm0tbGltaXRzL9IBAA?oc=5\" target=\"_blank\">Senator Lisa Barnes Pledges to Support Congressional Term Limits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Term Limits</font>"
+            ],
+            "source": [
+              {
+                "_": "U.S. Term Limits",
+                "$": {
+                  "url": "https://www.termlimits.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rocky Mount power grab? Nash County officials oppose state lawmakers' school board plan - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3JvY2t5LW1vdW50LXBvd2VyLWdyYWItbmFzaC1jb3VudHktb2ZmaWNpYWxzLW9wcG9zZS1zdGF0ZS1sYXdtYWtlcnMtc2Nob29sLWJvYXJkLXBsYW4vMjA4NTM5NzQv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwODUzOTc0Lw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3JvY2t5LW1vdW50LXBvd2VyLWdyYWItbmFzaC1jb3VudHktb2ZmaWNpYWxzLW9wcG9zZS1zdGF0ZS1sYXdtYWtlcnMtc2Nob29sLWJvYXJkLXBsYW4vMjA4NTM5NzQv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwODUzOTc0Lw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 10 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L3JvY2t5LW1vdW50LXBvd2VyLWdyYWItbmFzaC1jb3VudHktb2ZmaWNpYWxzLW9wcG9zZS1zdGF0ZS1sYXdtYWtlcnMtc2Nob29sLWJvYXJkLXBsYW4vMjA4NTM5NzQv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwODUzOTc0Lw?oc=5\" target=\"_blank\">Rocky Mount power grab? Nash County officials oppose state lawmakers' school board plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North Carolina State Senate Districts (2024): SD 5, SD 11, SD 13, SD 18 - Daily Kos"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRhaWx5a29zLmNvbS9zdG9yaWVzLzIwMjMvMTIvMTMvMjIxMTQzOC8tTm9ydGgtQ2Fyb2xpbmEtU3RhdGUtU2VuYXRlLURpc3RyaWN0cy0yMDI0LVNELTUtU0QtMTEtU0QtMTMtU0QtMTjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmRhaWx5a29zLmNvbS9zdG9yaWVzLzIwMjMvMTIvMTMvMjIxMTQzOC8tTm9ydGgtQ2Fyb2xpbmEtU3RhdGUtU2VuYXRlLURpc3RyaWN0cy0yMDI0LVNELTUtU0QtMTEtU0QtMTMtU0QtMTjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRhaWx5a29zLmNvbS9zdG9yaWVzLzIwMjMvMTIvMTMvMjIxMTQzOC8tTm9ydGgtQ2Fyb2xpbmEtU3RhdGUtU2VuYXRlLURpc3RyaWN0cy0yMDI0LVNELTUtU0QtMTEtU0QtMTMtU0QtMTjSAQA?oc=5\" target=\"_blank\">North Carolina State Senate Districts (2024): SD 5, SD 11, SD 13, SD 18</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Kos</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Kos",
+                "$": {
+                  "url": "https://www.dailykos.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Craven County Schools addresses required policy changes with new State Bill, Parents' Bill of Rights - New Bern Sun Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5uZXdiZXJuc2ouY29tL25ld3MvY3JhdmVuLWNvdW50eS1zY2hvb2xzLWFkZHJlc3Nlcy1yZXF1aXJlZC1wb2xpY3ktY2hhbmdlcy13aXRoLW5ldy1zdGF0ZS1iaWxsLXBhcmVudHMtYmlsbC1vZi1yaWdodHMvYXJ0aWNsZV85NDkwZWMzOC0wOTgyLTU2NDgtOTM4Mi1hODNjYmNiOTY2MzYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiswFodHRwczovL3d3dy5uZXdiZXJuc2ouY29tL25ld3MvY3JhdmVuLWNvdW50eS1zY2hvb2xzLWFkZHJlc3Nlcy1yZXF1aXJlZC1wb2xpY3ktY2hhbmdlcy13aXRoLW5ldy1zdGF0ZS1iaWxsLXBhcmVudHMtYmlsbC1vZi1yaWdodHMvYXJ0aWNsZV85NDkwZWMzOC0wOTgyLTU2NDgtOTM4Mi1hODNjYmNiOTY2MzYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5uZXdiZXJuc2ouY29tL25ld3MvY3JhdmVuLWNvdW50eS1zY2hvb2xzLWFkZHJlc3Nlcy1yZXF1aXJlZC1wb2xpY3ktY2hhbmdlcy13aXRoLW5ldy1zdGF0ZS1iaWxsLXBhcmVudHMtYmlsbC1vZi1yaWdodHMvYXJ0aWNsZV85NDkwZWMzOC0wOTgyLTU2NDgtOTM4Mi1hODNjYmNiOTY2MzYuaHRtbNIBAA?oc=5\" target=\"_blank\">Craven County Schools addresses required policy changes with new State Bill, Parents' Bill of Rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Bern Sun Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "New Bern Sun Journal",
+                "$": {
+                  "url": "https://www.newbernsj.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Consensus in the caucus: How NC Republicans came to a ‘mainstream’ abortion compromise - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQ5OTU4NTYuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQ5OTU4NTYuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQ5OTU4NTYuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQ5OTU4NTYuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQ5OTU4NTYuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzQ5OTU4NTYuaHRtbA?oc=5\" target=\"_blank\">Consensus in the caucus: How NC Republicans came to a ‘mainstream’ abortion compromise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The power of division in North Carolina's “swingiest” county - Spectrum News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3NwZWN0cnVtbG9jYWxuZXdzLmNvbS9uYy90cmlhbmdsZS1zYW5kaGlsbHMvcG9saXRpY3MvMjAyMS8xMC8wNi90aGUtcG93ZXItb2YtZGl2aXNpb24taW4tbm9ydGgtY2Fyb2xpbmEtcy0tc3dpbmdpZXN0LS1jb3VudHnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3NwZWN0cnVtbG9jYWxuZXdzLmNvbS9uYy90cmlhbmdsZS1zYW5kaGlsbHMvcG9saXRpY3MvMjAyMS8xMC8wNi90aGUtcG93ZXItb2YtZGl2aXNpb24taW4tbm9ydGgtY2Fyb2xpbmEtcy0tc3dpbmdpZXN0LS1jb3VudHnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Oct 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3NwZWN0cnVtbG9jYWxuZXdzLmNvbS9uYy90cmlhbmdsZS1zYW5kaGlsbHMvcG9saXRpY3MvMjAyMS8xMC8wNi90aGUtcG93ZXItb2YtZGl2aXNpb24taW4tbm9ydGgtY2Fyb2xpbmEtcy0tc3dpbmdpZXN0LS1jb3VudHnSAQA?oc=5\" target=\"_blank\">The power of division in North Carolina's “swingiest” county</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News",
+                "$": {
+                  "url": "https://spectrumlocalnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New members join N.C. Wesleyan board | Local News | rockymounttelegram.com - Rocky Mount Telegram"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5yb2NreW1vdW50dGVsZWdyYW0uY29tL25ld3MvbG9jYWwvbmV3LW1lbWJlcnMtam9pbi1uLWMtd2VzbGV5YW4tYm9hcmQvYXJ0aWNsZV8zOWVmZTkxOS01ZjAxLTUwMjctOTJjYy0wMmFhM2RlMjFkYmMuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL3d3dy5yb2NreW1vdW50dGVsZWdyYW0uY29tL25ld3MvbG9jYWwvbmV3LW1lbWJlcnMtam9pbi1uLWMtd2VzbGV5YW4tYm9hcmQvYXJ0aWNsZV8zOWVmZTkxOS01ZjAxLTUwMjctOTJjYy0wMmFhM2RlMjFkYmMuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 22 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5yb2NreW1vdW50dGVsZWdyYW0uY29tL25ld3MvbG9jYWwvbmV3LW1lbWJlcnMtam9pbi1uLWMtd2VzbGV5YW4tYm9hcmQvYXJ0aWNsZV8zOWVmZTkxOS01ZjAxLTUwMjctOTJjYy0wMmFhM2RlMjFkYmMuaHRtbNIBAA?oc=5\" target=\"_blank\">New members join N.C. Wesleyan board | Local News | rockymounttelegram.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rocky Mount Telegram</font>"
+            ],
+            "source": [
+              {
+                "_": "Rocky Mount Telegram",
+                "$": {
+                  "url": "https://www.rockymounttelegram.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lisa Stone Designs a Maximalist City Pad Showcasing Works by Andy Warhol and Other Notable Artists - House Beautiful"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmhvdXNlYmVhdXRpZnVsLmNvbS9kZXNpZ24taW5zcGlyYXRpb24vaG91c2UtdG91cnMvYTM3MjAyNjQ5L2xpc2Etc3RvbmUtaG9tZS10b3VyLXJpdHRlbmhvdXNlLXNxdWFyZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LmhvdXNlYmVhdXRpZnVsLmNvbS9kZXNpZ24taW5zcGlyYXRpb24vaG91c2UtdG91cnMvYTM3MjAyNjQ5L2xpc2Etc3RvbmUtaG9tZS10b3VyLXJpdHRlbmhvdXNlLXNxdWFyZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 06 Aug 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmhvdXNlYmVhdXRpZnVsLmNvbS9kZXNpZ24taW5zcGlyYXRpb24vaG91c2UtdG91cnMvYTM3MjAyNjQ5L2xpc2Etc3RvbmUtaG9tZS10b3VyLXJpdHRlbmhvdXNlLXNxdWFyZS_SAQA?oc=5\" target=\"_blank\">Lisa Stone Designs a Maximalist City Pad Showcasing Works by Andy Warhol and Other Notable Artists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">House Beautiful</font>"
+            ],
+            "source": [
+              {
+                "_": "House Beautiful",
+                "$": {
+                  "url": "https://www.housebeautiful.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North Carolina General Assembly Week in Review - August 2020 #1 - JD Supra"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9ub3J0aC1jYXJvbGluYS1nZW5lcmFsLWFzc2VtYmx5LXdlZWstaW4tMzcyMjIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9ub3J0aC1jYXJvbGluYS1nZW5lcmFsLWFzc2VtYmx5LXdlZWstaW4tMzcyMjIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 10 Aug 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9ub3J0aC1jYXJvbGluYS1nZW5lcmFsLWFzc2VtYmx5LXdlZWstaW4tMzcyMjIv0gEA?oc=5\" target=\"_blank\">North Carolina General Assembly Week in Review - August 2020 #1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>"
+            ],
+            "source": [
+              {
+                "_": "JD Supra",
+                "$": {
+                  "url": "https://www.jdsupra.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "It Will Be OK: A story of empathy, kindness, and friendship|Hardcover - Barnes & Noble"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmJhcm5lc2FuZG5vYmxlLmNvbS93L2l0LXdpbGwtYmUtb2stbGlzYS1rYXR6ZW5iZXJnZXIvMTEzNjk1NDg3NtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LmJhcm5lc2FuZG5vYmxlLmNvbS93L2l0LXdpbGwtYmUtb2stbGlzYS1rYXR6ZW5iZXJnZXIvMTEzNjk1NDg3NtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 19 Jul 2020 09:32:45 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmJhcm5lc2FuZG5vYmxlLmNvbS93L2l0LXdpbGwtYmUtb2stbGlzYS1rYXR6ZW5iZXJnZXIvMTEzNjk1NDg3NtIBAA?oc=5\" target=\"_blank\">It Will Be OK: A story of empathy, kindness, and friendship|Hardcover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barnes & Noble</font>"
+            ],
+            "source": [
+              {
+                "_": "Barnes & Noble",
+                "$": {
+                  "url": "https://www.barnesandnoble.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kenya Barris Defends His Brand of Comedy: ‘Have You Ever Looked at the Mona Lisa?’ - Rolling Stone"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5yb2xsaW5nc3RvbmUuY29tL3R2LW1vdmllcy90di1tb3ZpZS1mZWF0dXJlcy9rZW55YS1iYXJyaXMteW91LXBlb3BsZS1kZWZlbmRzLWNvbWVkeS1jb21wYXJlcy10by1tb25hLWxpc2EtMTIzNDY3MDUxNC_SAYUBaHR0cHM6Ly93d3cucm9sbGluZ3N0b25lLmNvbS90di1tb3ZpZXMvdHYtbW92aWUtZmVhdHVyZXMva2VueWEtYmFycmlzLXlvdS1wZW9wbGUtZGVmZW5kcy1jb21lZHktY29tcGFyZXMtdG8tbW9uYS1saXNhLTEyMzQ2NzA1MTQvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5yb2xsaW5nc3RvbmUuY29tL3R2LW1vdmllcy90di1tb3ZpZS1mZWF0dXJlcy9rZW55YS1iYXJyaXMteW91LXBlb3BsZS1kZWZlbmRzLWNvbWVkeS1jb21wYXJlcy10by1tb25hLWxpc2EtMTIzNDY3MDUxNC_SAYUBaHR0cHM6Ly93d3cucm9sbGluZ3N0b25lLmNvbS90di1tb3ZpZXMvdHYtbW92aWUtZmVhdHVyZXMva2VueWEtYmFycmlzLXlvdS1wZW9wbGUtZGVmZW5kcy1jb21lZHktY29tcGFyZXMtdG8tbW9uYS1saXNhLTEyMzQ2NzA1MTQvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 29 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5yb2xsaW5nc3RvbmUuY29tL3R2LW1vdmllcy90di1tb3ZpZS1mZWF0dXJlcy9rZW55YS1iYXJyaXMteW91LXBlb3BsZS1kZWZlbmRzLWNvbWVkeS1jb21wYXJlcy10by1tb25hLWxpc2EtMTIzNDY3MDUxNC_SAYUBaHR0cHM6Ly93d3cucm9sbGluZ3N0b25lLmNvbS90di1tb3ZpZXMvdHYtbW92aWUtZmVhdHVyZXMva2VueWEtYmFycmlzLXlvdS1wZW9wbGUtZGVmZW5kcy1jb21lZHktY29tcGFyZXMtdG8tbW9uYS1saXNhLTEyMzQ2NzA1MTQvYW1wLw?oc=5\" target=\"_blank\">Kenya Barris Defends His Brand of Comedy: ‘Have You Ever Looked at the Mona Lisa?’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rolling Stone</font>"
+            ],
+            "source": [
+              {
+                "_": "Rolling Stone",
+                "$": {
+                  "url": "https://www.rollingstone.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mark Speed, candidate for NC Senate District 11 - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3Nzg4NzYuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3Nzg4NzYuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3Nzg4NzYuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3Nzg4NzYuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 08 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3Nzg4NzYuaHRtbNIBYGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL3ZvdGVyLWd1aWRlL2FydGljbGUyNjY3Nzg4NzYuaHRtbA?oc=5\" target=\"_blank\">Mark Speed, candidate for NC Senate District 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "William Barnes Obituary (2022) - New Orleans, LA - The Times-Picayune - Obituaries"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvd2lsbGlhbS1iYXJuZXMtb2JpdHVhcnk_aWQ9MzcwMTYwNDjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvd2lsbGlhbS1iYXJuZXMtb2JpdHVhcnk_aWQ9MzcwMTYwNDjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvd2lsbGlhbS1iYXJuZXMtb2JpdHVhcnk_aWQ9MzcwMTYwNDjSAQA?oc=5\" target=\"_blank\">William Barnes Obituary (2022) - New Orleans, LA - The Times-Picayune</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Obituaries</font>"
+            ],
+            "source": [
+              {
+                "_": "Obituaries",
+                "$": {
+                  "url": "https://obits.nola.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North Carolina Post-Election Update 2020 | McGuireWoods Consulting - JDSupra - JD Supra"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9ub3J0aC1jYXJvbGluYS1wb3N0LWVsZWN0aW9uLXVwZGF0ZS0yMDIwLTk4NDg5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9ub3J0aC1jYXJvbGluYS1wb3N0LWVsZWN0aW9uLXVwZGF0ZS0yMDIwLTk4NDg5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Nov 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9ub3J0aC1jYXJvbGluYS1wb3N0LWVsZWN0aW9uLXVwZGF0ZS0yMDIwLTk4NDg5L9IBAA?oc=5\" target=\"_blank\">North Carolina Post-Election Update 2020 | McGuireWoods Consulting - JDSupra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>"
+            ],
+            "source": [
+              {
+                "_": "JD Supra",
+                "$": {
+                  "url": "https://www.jdsupra.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC Senate candidate faces domestic violence order, allegedly said women shouldn't hold office - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy53cmFsLmNvbS9zdG9yeS9uYy1zZW5hdGUtY2FuZGlkYXRlLWZhY2VzLWRvbWVzdGljLXZpb2xlbmNlLW9yZGVyLWFsbGVnZWRseS1zYWlkLXdvbWVuLXNob3VsZG4tdC1ob2xkLW9mZmljZS8xODkwNTUwMy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy53cmFsLmNvbS9zdG9yeS9uYy1zZW5hdGUtY2FuZGlkYXRlLWZhY2VzLWRvbWVzdGljLXZpb2xlbmNlLW9yZGVyLWFsbGVnZWRseS1zYWlkLXdvbWVuLXNob3VsZG4tdC1ob2xkLW9mZmljZS8xODkwNTUwMy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Jan 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy53cmFsLmNvbS9zdG9yeS9uYy1zZW5hdGUtY2FuZGlkYXRlLWZhY2VzLWRvbWVzdGljLXZpb2xlbmNlLW9yZGVyLWFsbGVnZWRseS1zYWlkLXdvbWVuLXNob3VsZG4tdC1ob2xkLW9mZmljZS8xODkwNTUwMy_SAQA?oc=5\" target=\"_blank\">NC Senate candidate faces domestic violence order, allegedly said women shouldn't hold office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How do NC lawmakers compare to the rest of the state’s population? What the data shows - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzE4OTc0MjcuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzE4OTc0MjcuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzE4OTc0MjcuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzE4OTc0MjcuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzE4OTc0MjcuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzE4OTc0MjcuaHRtbA?oc=5\" target=\"_blank\">How do NC lawmakers compare to the rest of the state’s population? What the data shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "With newcomers sworn in, NC legislature now includes 44 women and 126 men - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQxMzQ1MTAuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQxMzQ1MTAuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQxMzQ1MTAuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQxMzQ1MTAuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Jan 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQxMzQ1MTAuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQxMzQ1MTAuaHRtbA?oc=5\" target=\"_blank\">With newcomers sworn in, NC legislature now includes 44 women and 126 men</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘We’re not going to get walked over.’ With divided power, can they agree on anything? - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQ2ODI5ODAuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQ2ODI5ODAuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQ2ODI5ODAuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQ2ODI5ODAuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 28 Jan 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQ2ODI5ODAuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjQ2ODI5ODAuaHRtbA?oc=5\" target=\"_blank\">‘We’re not going to get walked over.’ With divided power, can they agree on anything?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘The Good Lord’s in control’: Hundreds attend NC Christmas parade despite COVID warning - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9sb2NhbC9hcnRpY2xlMjQ3NjI3NDgwLmh0bWzSAT1odHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvbG9jYWwvYXJ0aWNsZTI0NzYyNzQ4MC5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9sb2NhbC9hcnRpY2xlMjQ3NjI3NDgwLmh0bWzSAT1odHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvbG9jYWwvYXJ0aWNsZTI0NzYyNzQ4MC5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 05 Dec 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9sb2NhbC9hcnRpY2xlMjQ3NjI3NDgwLmh0bWzSAT1odHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvbG9jYWwvYXJ0aWNsZTI0NzYyNzQ4MC5odG1s?oc=5\" target=\"_blank\">‘The Good Lord’s in control’: Hundreds attend NC Christmas parade despite COVID warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘Firebite’: Yael Stone, Rob Collins, Callan Mulvey & Shantae Barnes-Cowan To Star In AMC+ Fantasy Series - Deadline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjEvMDgvZmlyZWJpdGUteWFlbC1zdG9uZS1yb2ItY29sbGlucy1jYWxsYW4tbXVsdmV5LXNoYW50YWUtYmFybmVzLWNvd2FuLXRvLXN0YXItYW1jLXBsdXMtMTIzNDgyMDU2Ny_SAYABaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyMS8wOC9maXJlYml0ZS15YWVsLXN0b25lLXJvYi1jb2xsaW5zLWNhbGxhbi1tdWx2ZXktc2hhbnRhZS1iYXJuZXMtY293YW4tdG8tc3Rhci1hbWMtcGx1cy0xMjM0ODIwNTY3L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjEvMDgvZmlyZWJpdGUteWFlbC1zdG9uZS1yb2ItY29sbGlucy1jYWxsYW4tbXVsdmV5LXNoYW50YWUtYmFybmVzLWNvd2FuLXRvLXN0YXItYW1jLXBsdXMtMTIzNDgyMDU2Ny_SAYABaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyMS8wOC9maXJlYml0ZS15YWVsLXN0b25lLXJvYi1jb2xsaW5zLWNhbGxhbi1tdWx2ZXktc2hhbnRhZS1iYXJuZXMtY293YW4tdG8tc3Rhci1hbWMtcGx1cy0xMjM0ODIwNTY3L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Aug 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjEvMDgvZmlyZWJpdGUteWFlbC1zdG9uZS1yb2ItY29sbGlucy1jYWxsYW4tbXVsdmV5LXNoYW50YWUtYmFybmVzLWNvd2FuLXRvLXN0YXItYW1jLXBsdXMtMTIzNDgyMDU2Ny_SAYABaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyMS8wOC9maXJlYml0ZS15YWVsLXN0b25lLXJvYi1jb2xsaW5zLWNhbGxhbi1tdWx2ZXktc2hhbnRhZS1iYXJuZXMtY293YW4tdG8tc3Rhci1hbWMtcGx1cy0xMjM0ODIwNTY3L2FtcC8?oc=5\" target=\"_blank\">‘Firebite’: Yael Stone, Rob Collins, Callan Mulvey & Shantae Barnes-Cowan To Star In AMC+ Fantasy Series</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>"
+            ],
+            "source": [
+              {
+                "_": "Deadline",
+                "$": {
+                  "url": "https://deadline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North Carolina Town Holds Christmas Parade Despite Pleas From Health Officials - The Daily Beast"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy50aGVkYWlseWJlYXN0LmNvbS95b3VuZ3N2aWxsZS1ub3J0aC1jYXJvbGluYS1ob2xkcy1tYXNzaXZlLWNocmlzdG1hcy1wYXJhZGUtZGVzcGl0ZS1wbGVhcy1mcm9tLWhlYWx0aC1vZmZpY2lhbHMtb3Zlci1jb3ZpZC1yaXNr0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3d3dy50aGVkYWlseWJlYXN0LmNvbS95b3VuZ3N2aWxsZS1ub3J0aC1jYXJvbGluYS1ob2xkcy1tYXNzaXZlLWNocmlzdG1hcy1wYXJhZGUtZGVzcGl0ZS1wbGVhcy1mcm9tLWhlYWx0aC1vZmZpY2lhbHMtb3Zlci1jb3ZpZC1yaXNr0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 06 Dec 2020 02:01:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy50aGVkYWlseWJlYXN0LmNvbS95b3VuZ3N2aWxsZS1ub3J0aC1jYXJvbGluYS1ob2xkcy1tYXNzaXZlLWNocmlzdG1hcy1wYXJhZGUtZGVzcGl0ZS1wbGVhcy1mcm9tLWhlYWx0aC1vZmZpY2lhbHMtb3Zlci1jb3ZpZC1yaXNr0gEA?oc=5\" target=\"_blank\">North Carolina Town Holds Christmas Parade Despite Pleas From Health Officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Beast",
+                "$": {
+                  "url": "https://www.thedailybeast.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "She didn’t expect to be here, but now a political novice from Raleigh is a lawmaker - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjM3NzIyMjAuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjM3NzIyMjAuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjM3NzIyMjAuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjM3NzIyMjAuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Jan 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjM3NzIyMjAuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjM3NzIyMjAuaHRtbA?oc=5\" target=\"_blank\">She didn’t expect to be here, but now a political novice from Raleigh is a lawmaker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrats break GOP ‘supermajority’ in NC House - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjEwMzM0NjUuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjEwMzM0NjUuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjEwMzM0NjUuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjEwMzM0NjUuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Nov 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjEwMzM0NjUuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyMjEwMzM0NjUuaHRtbA?oc=5\" target=\"_blank\">Democrats break GOP ‘supermajority’ in NC House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Her Father's Daughter: The Turbulent Life of Lisa de Kooning (Published 2013) - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTMvMDMvMTcvZmFzaGlvbi9oZXItZmF0aGVycy1kYXVnaHRlci10aGUtdHVyYnVsZW50LWxpZmUtb2YtbGlzYS1kZS1rb29uaW5nLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTMvMDMvMTcvZmFzaGlvbi9oZXItZmF0aGVycy1kYXVnaHRlci10aGUtdHVyYnVsZW50LWxpZmUtb2YtbGlzYS1kZS1rb29uaW5nLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Mar 2013 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTMvMDMvMTcvZmFzaGlvbi9oZXItZmF0aGVycy1kYXVnaHRlci10aGUtdHVyYnVsZW50LWxpZmUtb2YtbGlzYS1kZS1rb29uaW5nLmh0bWzSAQA?oc=5\" target=\"_blank\">Her Father's Daughter: The Turbulent Life of Lisa de Kooning (Published 2013)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Barack Obama wades into NC’s 2020 elections with endorsements in key races - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNDQ2ODYwODIuaHRtbNIBVGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNDQ2ODYwODIuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNDQ2ODYwODIuaHRtbNIBVGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNDQ2ODYwODIuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 04 Aug 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNDQ2ODYwODIuaHRtbNIBVGh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2VsZWN0aW9uL2FydGljbGUyNDQ2ODYwODIuaHRtbA?oc=5\" target=\"_blank\">Barack Obama wades into NC’s 2020 elections with endorsements in key races</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The 100 Most Expensive Homes in Dallas - D Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmRtYWdhemluZS5jb20vcHVibGljYXRpb25zL2QtbWFnYXppbmUvMjAxOC9qdWx5LzEwMC1tb3N0LWV4cGVuc2l2ZS1ob21lcy1pbi1kYWxsYXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LmRtYWdhemluZS5jb20vcHVibGljYXRpb25zL2QtbWFnYXppbmUvMjAxOC9qdWx5LzEwMC1tb3N0LWV4cGVuc2l2ZS1ob21lcy1pbi1kYWxsYXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 04 Jul 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmRtYWdhemluZS5jb20vcHVibGljYXRpb25zL2QtbWFnYXppbmUvMjAxOC9qdWx5LzEwMC1tb3N0LWV4cGVuc2l2ZS1ob21lcy1pbi1kYWxsYXMv0gEA?oc=5\" target=\"_blank\">The 100 Most Expensive Homes in Dallas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">D Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "D Magazine",
+                "$": {
+                  "url": "https://www.dmagazine.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mourners light it up for Quinn at massive, moving vigil in Harbour Grace - CBC.ca"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9uZXdmb3VuZGxhbmQtbGFicmFkb3IvdmlnaWwtcXVpbm4taGFyYm91ci1ncmFjZS0xLjM1NTgzNDDSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuMzU1ODM0MA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9uZXdmb3VuZGxhbmQtbGFicmFkb3IvdmlnaWwtcXVpbm4taGFyYm91ci1ncmFjZS0xLjM1NTgzNDDSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuMzU1ODM0MA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Apr 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9uZXdmb3VuZGxhbmQtbGFicmFkb3IvdmlnaWwtcXVpbm4taGFyYm91ci1ncmFjZS0xLjM1NTgzNDDSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuMzU1ODM0MA?oc=5\" target=\"_blank\">Mourners light it up for Quinn at massive, moving vigil in Harbour Grace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC.ca</font>"
+            ],
+            "source": [
+              {
+                "_": "CBC.ca",
+                "$": {
+                  "url": "https://www.cbc.ca"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sandra Skirlock Obituary - Barnes Friederich Funeral Home - 2022 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3NhbmRyYS1za2lybG9jay1vYml0dWFyeT9pZD0zNjk1NTcxMNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3NhbmRyYS1za2lybG9jay1vYml0dWFyeT9pZD0zNjk1NTcxMNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 31 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3NhbmRyYS1za2lybG9jay1vYml0dWFyeT9pZD0zNjk1NTcxMNIBAA?oc=5\" target=\"_blank\">Sandra Skirlock Obituary - Barnes Friederich Funeral Home - 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "“Uncomfortable with the direction of the conversation”: controversial statements made as DDSB trustees discuss new ... - durhamradionews.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmR1cmhhbXJhZGlvbmV3cy5jb20vYXJjaGl2ZXMvMTUwMjQ10gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiL2h0dHBzOi8vd3d3LmR1cmhhbXJhZGlvbmV3cy5jb20vYXJjaGl2ZXMvMTUwMjQ10gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmR1cmhhbXJhZGlvbmV3cy5jb20vYXJjaGl2ZXMvMTUwMjQ10gEA?oc=5\" target=\"_blank\">“Uncomfortable with the direction of the conversation”: controversial statements made as DDSB trustees discuss new ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">durhamradionews.com</font>"
+            ],
+            "source": [
+              {
+                "_": "durhamradionews.com",
+                "$": {
+                  "url": "https://www.durhamradionews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Petoskey Stone Fest to feature Art Prize winners, Coast Guard demo and more - Antrimreview"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmFudHJpbXJldmlldy5uZXQvY29udGVudC9wZXRvc2tleS1zdG9uZS1mZXN0LWZlYXR1cmUtYXJ0LXByaXplLXdpbm5lcnMtY29hc3QtZ3VhcmQtZGVtby1hbmQtbW9yZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LmFudHJpbXJldmlldy5uZXQvY29udGVudC9wZXRvc2tleS1zdG9uZS1mZXN0LWZlYXR1cmUtYXJ0LXByaXplLXdpbm5lcnMtY29hc3QtZ3VhcmQtZGVtby1hbmQtbW9yZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 17 May 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmFudHJpbXJldmlldy5uZXQvY29udGVudC9wZXRvc2tleS1zdG9uZS1mZXN0LWZlYXR1cmUtYXJ0LXByaXplLXdpbm5lcnMtY29hc3QtZ3VhcmQtZGVtby1hbmQtbW9yZdIBAA?oc=5\" target=\"_blank\">Petoskey Stone Fest to feature Art Prize winners, Coast Guard demo and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Antrimreview</font>"
+            ],
+            "source": [
+              {
+                "_": "Antrimreview",
+                "$": {
+                  "url": "https://www.antrimreview.net"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

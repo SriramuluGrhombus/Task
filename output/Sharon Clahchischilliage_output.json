@@ -1,0 +1,458 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Sharon Clahchischilliage\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Sharon+Clahchischilliage&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Election 2024-New Mexico | Nation | hjnews.com - The Herald Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmhqbmV3cy5jb20vbmF0aW9uL2VsZWN0aW9uLTIwMjQtbmV3LW1leGljby9pbWFnZV8zOTY2ZTQzNS0yZDFhLTUzMmQtOWIwMS0yNWUwMmE5NGRmYzUuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmhqbmV3cy5jb20vbmF0aW9uL2VsZWN0aW9uLTIwMjQtbmV3LW1leGljby9pbWFnZV8zOTY2ZTQzNS0yZDFhLTUzMmQtOWIwMS0yNWUwMmE5NGRmYzUuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:43:09 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmhqbmV3cy5jb20vbmF0aW9uL2VsZWN0aW9uLTIwMjQtbmV3LW1leGljby9pbWFnZV8zOTY2ZTQzNS0yZDFhLTUzMmQtOWIwMS0yNWUwMmE5NGRmYzUuaHRtbNIBAA?oc=5\" target=\"_blank\">Election 2024-New Mexico | Nation | hjnews.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Herald Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "The Herald Journal",
+                "$": {
+                  "url": "https://www.hjnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former State Rep. announces run for Congress - New Mexico Political Report"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbm1wb2xpdGljYWxyZXBvcnQuY29tL3F1aWNrLXJlYWRzL2Zvcm1lci1zdGF0ZS1yZXAtYW5ub3VuY2VzLXJ1bi1mb3ItY29uZ3Jlc3Mv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vbm1wb2xpdGljYWxyZXBvcnQuY29tL3F1aWNrLXJlYWRzL2Zvcm1lci1zdGF0ZS1yZXAtYW5ub3VuY2VzLXJ1bi1mb3ItY29uZ3Jlc3Mv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbm1wb2xpdGljYWxyZXBvcnQuY29tL3F1aWNrLXJlYWRzL2Zvcm1lci1zdGF0ZS1yZXAtYW5ub3VuY2VzLXJ1bi1mb3ItY29uZ3Jlc3Mv0gEA?oc=5\" target=\"_blank\">Former State Rep. announces run for Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Mexico Political Report</font>"
+            ],
+            "source": [
+              {
+                "_": "New Mexico Political Report",
+                "$": {
+                  "url": "https://nmpoliticalreport.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Clahchischilliage announces bid for Congress | News | abqjournal.com - Albuquerque Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tL25ld3MvY2xhaGNoaXNjaGlsbGlhZ2UtYW5ub3VuY2VzLWJpZC1mb3ItY29uZ3Jlc3MvYXJ0aWNsZV8zOGQ4YmM0OC00ZTY1LTExZWUtOWVjNi1kYmE4N2Y0NjVhMjcuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tL25ld3MvY2xhaGNoaXNjaGlsbGlhZ2UtYW5ub3VuY2VzLWJpZC1mb3ItY29uZ3Jlc3MvYXJ0aWNsZV8zOGQ4YmM0OC00ZTY1LTExZWUtOWVjNi1kYmE4N2Y0NjVhMjcuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 08 Sep 2023 17:34:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tL25ld3MvY2xhaGNoaXNjaGlsbGlhZ2UtYW5ub3VuY2VzLWJpZC1mb3ItY29uZ3Jlc3MvYXJ0aWNsZV8zOGQ4YmM0OC00ZTY1LTExZWUtOWVjNi1kYmE4N2Y0NjVhMjcuaHRtbNIBAA?oc=5\" target=\"_blank\">Clahchischilliage announces bid for Congress | News | abqjournal.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Albuquerque Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Albuquerque Journal",
+                "$": {
+                  "url": "https://www.abqjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "A handwritten middle initial may disqualify Republican candidate - Farmington Daily Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDE4LzAzLzI4L2NsYWhjaGlzY2hpbGxpYWdlLWZhY2VzLWNoYWxsZW5nZS1iYWxsb3Qtbm9taW5hdGluZy1wZXRpdGlvbi1taWRkbGUtaW5pdGlhbC1wcmltYXJ5LWVsZWN0aW9uLTIwMTgvNDYzNTY4MDAyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipAFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDE4LzAzLzI4L2NsYWhjaGlzY2hpbGxpYWdlLWZhY2VzLWNoYWxsZW5nZS1iYWxsb3Qtbm9taW5hdGluZy1wZXRpdGlvbi1taWRkbGUtaW5pdGlhbC1wcmltYXJ5LWVsZWN0aW9uLTIwMTgvNDYzNTY4MDAyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 28 Mar 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDE4LzAzLzI4L2NsYWhjaGlzY2hpbGxpYWdlLWZhY2VzLWNoYWxsZW5nZS1iYWxsb3Qtbm9taW5hdGluZy1wZXRpdGlvbi1taWRkbGUtaW5pdGlhbC1wcmltYXJ5LWVsZWN0aW9uLTIwMTgvNDYzNTY4MDAyL9IBAA?oc=5\" target=\"_blank\">A handwritten middle initial may disqualify Republican candidate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farmington Daily Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Farmington Daily Times",
+                "$": {
+                  "url": "https://www.daily-times.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Judge rules adding middle initial does not alter required information - Farmington Daily Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDE4LzAzLzMwL2NsYWhjaGlzY2hpbGxpYWdlLXJlbWFpbnMtYmFsbG90LWZvbGxvd2luZy1jb3VydC1kZWNpc2lvbi1taWRkbGUtaW5pdGlhbC1ub21pbmF0aW5nLXBldGl0aW9uLzQ3MzQwMzAwMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinwFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDE4LzAzLzMwL2NsYWhjaGlzY2hpbGxpYWdlLXJlbWFpbnMtYmFsbG90LWZvbGxvd2luZy1jb3VydC1kZWNpc2lvbi1taWRkbGUtaW5pdGlhbC1ub21pbmF0aW5nLXBldGl0aW9uLzQ3MzQwMzAwMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 30 Mar 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDE4LzAzLzMwL2NsYWhjaGlzY2hpbGxpYWdlLXJlbWFpbnMtYmFsbG90LWZvbGxvd2luZy1jb3VydC1kZWNpc2lvbi1taWRkbGUtaW5pdGlhbC1ub21pbmF0aW5nLXBldGl0aW9uLzQ3MzQwMzAwMi_SAQA?oc=5\" target=\"_blank\">Judge rules adding middle initial does not alter required information</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farmington Daily Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Farmington Daily Times",
+                "$": {
+                  "url": "https://www.daily-times.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trump team reaches out to Native Americans - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9zdG9yeS8yMDE2LzEyL3RydW1wLXRlYW0tbmF0aXZlLWFtZXJpY2Fucy0yMzI3MTnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9zdG9yeS8yMDE2LzEyL3RydW1wLXRlYW0tbmF0aXZlLWFtZXJpY2Fucy0yMzI3MTnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 16 Dec 2016 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9zdG9yeS8yMDE2LzEyL3RydW1wLXRlYW0tbmF0aXZlLWFtZXJpY2Fucy0yMzI3MTnSAQA?oc=5\" target=\"_blank\">Trump team reaches out to Native Americans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Clahchischilliage featured in 'The Hidden Vote' online documentary - Farmington Daily Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMTgvMTAvMTYvY2xhaGNoaXNjaGlsbGlhZ2UtZmVhdHVyZWQtaGlkZGVuLXZvdGUtb25saW5lLWRvY3VtZW50YXJ5LzE2NTAzNTYwMDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMTgvMTAvMTYvY2xhaGNoaXNjaGlsbGlhZ2UtZmVhdHVyZWQtaGlkZGVuLXZvdGUtb25saW5lLWRvY3VtZW50YXJ5LzE2NTAzNTYwMDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Oct 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMTgvMTAvMTYvY2xhaGNoaXNjaGlsbGlhZ2UtZmVhdHVyZWQtaGlkZGVuLXZvdGUtb25saW5lLWRvY3VtZW50YXJ5LzE2NTAzNTYwMDIv0gEA?oc=5\" target=\"_blank\">Clahchischilliage featured in 'The Hidden Vote' online documentary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farmington Daily Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Farmington Daily Times",
+                "$": {
+                  "url": "https://www.daily-times.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "House District 4 candidates reach out to voters - Farmington Daily Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMTYvMTAvMjEvaG91c2UtZGlzdHJpY3QtNC1jYW5kaWRhdGVzLXJlYWNoLW91dC12b3RlcnMvOTI0NjkzNzAv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMTYvMTAvMjEvaG91c2UtZGlzdHJpY3QtNC1jYW5kaWRhdGVzLXJlYWNoLW91dC12b3RlcnMvOTI0NjkzNzAv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 21 Oct 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMTYvMTAvMjEvaG91c2UtZGlzdHJpY3QtNC1jYW5kaWRhdGVzLXJlYWNoLW91dC12b3RlcnMvOTI0NjkzNzAv0gEA?oc=5\" target=\"_blank\">House District 4 candidates reach out to voters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farmington Daily Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Farmington Daily Times",
+                "$": {
+                  "url": "https://www.daily-times.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Capital outlay requests include bridges, water projects - Farmington Daily Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMTgvMDIvMDYvY2FwaXRhbC1vdXRsYXktcmVxdWVzdHMtaW5jbHVkZS1icmlkZ2VzLXdhdGVyLXByb2plY3RzLzMwOTQ4MjAwMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMTgvMDIvMDYvY2FwaXRhbC1vdXRsYXktcmVxdWVzdHMtaW5jbHVkZS1icmlkZ2VzLXdhdGVyLXByb2plY3RzLzMwOTQ4MjAwMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMTgvMDIvMDYvY2FwaXRhbC1vdXRsYXktcmVxdWVzdHMtaW5jbHVkZS1icmlkZ2VzLXdhdGVyLXByb2plY3RzLzMwOTQ4MjAwMi_SAQA?oc=5\" target=\"_blank\">Capital outlay requests include bridges, water projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farmington Daily Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Farmington Daily Times",
+                "$": {
+                  "url": "https://www.daily-times.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tribe, NM help Navajos obtain birth certificates - Farmington Daily Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsL25hdmFqby1uYXRpb24vMjAxNi8wOS8yMi90cmliZS1ubS1oZWxwLW5hdmFqb3Mtb2J0YWluLWJpcnRoLWNlcnRpZmljYXRlcy85MDg2MDc1NC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsL25hdmFqby1uYXRpb24vMjAxNi8wOS8yMi90cmliZS1ubS1oZWxwLW5hdmFqb3Mtb2J0YWluLWJpcnRoLWNlcnRpZmljYXRlcy85MDg2MDc1NC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 22 Sep 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL2xvY2FsL25hdmFqby1uYXRpb24vMjAxNi8wOS8yMi90cmliZS1ubS1oZWxwLW5hdmFqb3Mtb2J0YWluLWJpcnRoLWNlcnRpZmljYXRlcy85MDg2MDc1NC_SAQA?oc=5\" target=\"_blank\">Tribe, NM help Navajos obtain birth certificates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farmington Daily Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Farmington Daily Times",
+                "$": {
+                  "url": "https://www.daily-times.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Five contenders seek position 2 seat on CCSD board - Farmington Daily Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAxOS8xMC8yNC9wb3NpdGlvbi0yLWNhbmRpZGF0ZXMtY2VudHJhbC1jb25zb2xpZGF0ZWQtc2Nob29sLWRpc3RyaWN0LWJvYXJkLzQwMjkzODcwMDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikQFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAxOS8xMC8yNC9wb3NpdGlvbi0yLWNhbmRpZGF0ZXMtY2VudHJhbC1jb25zb2xpZGF0ZWQtc2Nob29sLWRpc3RyaWN0LWJvYXJkLzQwMjkzODcwMDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 24 Oct 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAxOS8xMC8yNC9wb3NpdGlvbi0yLWNhbmRpZGF0ZXMtY2VudHJhbC1jb25zb2xpZGF0ZWQtc2Nob29sLWRpc3RyaWN0LWJvYXJkLzQwMjkzODcwMDIv0gEA?oc=5\" target=\"_blank\">Five contenders seek position 2 seat on CCSD board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farmington Daily Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Farmington Daily Times",
+                "$": {
+                  "url": "https://www.daily-times.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PHOTOS: Shiprock community honors veterans on Memorial Day - Farmington Daily Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvbG9jYWwvbmF2YWpvLW5hdGlvbi8yMDE4LzA1LzI4L3Bob3Rvcy1zaGlwcm9jay1jb21tdW5pdHktaG9ub3JzLXZldGVyYW5zLW9uLW1lbW9yaWFsLWRheS8zNTQ0OTMyNS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvbG9jYWwvbmF2YWpvLW5hdGlvbi8yMDE4LzA1LzI4L3Bob3Rvcy1zaGlwcm9jay1jb21tdW5pdHktaG9ub3JzLXZldGVyYW5zLW9uLW1lbW9yaWFsLWRheS8zNTQ0OTMyNS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 28 May 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvbG9jYWwvbmF2YWpvLW5hdGlvbi8yMDE4LzA1LzI4L3Bob3Rvcy1zaGlwcm9jay1jb21tdW5pdHktaG9ub3JzLXZldGVyYW5zLW9uLW1lbW9yaWFsLWRheS8zNTQ0OTMyNS_SAQA?oc=5\" target=\"_blank\">PHOTOS: Shiprock community honors veterans on Memorial Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farmington Daily Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Farmington Daily Times",
+                "$": {
+                  "url": "https://www.daily-times.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "House District 4 candidates focus on infrastructure - Farmington Daily Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy8yMDE2LzEwLzI0L2hvdXNlLWRpc3RyaWN0LTQtY2FuZGlkYXRlcy1mb2N1cy1pbmZyYXN0cnVjdHVyZS85MjY4MjIyOC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy8yMDE2LzEwLzI0L2hvdXNlLWRpc3RyaWN0LTQtY2FuZGlkYXRlcy1mb2N1cy1pbmZyYXN0cnVjdHVyZS85MjY4MjIyOC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 24 Oct 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmRhaWx5LXRpbWVzLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy8yMDE2LzEwLzI0L2hvdXNlLWRpc3RyaWN0LTQtY2FuZGlkYXRlcy1mb2N1cy1pbmZyYXN0cnVjdHVyZS85MjY4MjIyOC_SAQA?oc=5\" target=\"_blank\">House District 4 candidates focus on infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farmington Daily Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Farmington Daily Times",
+                "$": {
+                  "url": "https://www.daily-times.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrat Anthony Allison defeats incumbent Republican in House District 4 - Farmington Daily Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDE4LzExLzA3L2RlbW9jcmF0LWFudGhvbnktYWxsaXNvbi1kZWZlYXRzLWluY3VtYmVudC1yZXB1YmxpY2FuLWhvdXNlLWRpc3RyaWN0LTQvMTkyMzIwOTAwMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDE4LzExLzA3L2RlbW9jcmF0LWFudGhvbnktYWxsaXNvbi1kZWZlYXRzLWluY3VtYmVudC1yZXB1YmxpY2FuLWhvdXNlLWRpc3RyaWN0LTQvMTkyMzIwOTAwMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Nov 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5kYWlseS10aW1lcy5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDE4LzExLzA3L2RlbW9jcmF0LWFudGhvbnktYWxsaXNvbi1kZWZlYXRzLWluY3VtYmVudC1yZXB1YmxpY2FuLWhvdXNlLWRpc3RyaWN0LTQvMTkyMzIwOTAwMi_SAQA?oc=5\" target=\"_blank\">Democrat Anthony Allison defeats incumbent Republican in House District 4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farmington Daily Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Farmington Daily Times",
+                "$": {
+                  "url": "https://www.daily-times.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

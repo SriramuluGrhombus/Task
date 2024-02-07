@@ -1,0 +1,638 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"H Lynn Moore Jr\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=H+Lynn+Moore+Jr&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Tyler Technologies Schedules Third Quarter 2023 Earnings Conference Call and Webcast - Business Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMTAxOTQ1NDI4My9lbi9UeWxlci1UZWNobm9sb2dpZXMtU2NoZWR1bGVzLVRoaXJkLVF1YXJ0ZXItMjAyMy1FYXJuaW5ncy1Db25mZXJlbmNlLUNhbGwtYW5kLVdlYmNhc3TSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMTAxOTQ1NDI4My9lbi9UeWxlci1UZWNobm9sb2dpZXMtU2NoZWR1bGVzLVRoaXJkLVF1YXJ0ZXItMjAyMy1FYXJuaW5ncy1Db25mZXJlbmNlLUNhbGwtYW5kLVdlYmNhc3TSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMTAxOTQ1NDI4My9lbi9UeWxlci1UZWNobm9sb2dpZXMtU2NoZWR1bGVzLVRoaXJkLVF1YXJ0ZXItMjAyMy1FYXJuaW5ncy1Db25mZXJlbmNlLUNhbGwtYW5kLVdlYmNhc3TSAQA?oc=5\" target=\"_blank\">Tyler Technologies Schedules Third Quarter 2023 Earnings Conference Call and Webcast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Wire",
+                "$": {
+                  "url": "https://www.businesswire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lynn Moore Obituary - T.P. White & Sons Funeral Home - 2024 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2x5bm4tbW9vcmUtb2JpdHVhcnk_aWQ9NTQyNDcxNDXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2x5bm4tbW9vcmUtb2JpdHVhcnk_aWQ9NTQyNDcxNDXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 22:27:08 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2x5bm4tbW9vcmUtb2JpdHVhcnk_aWQ9NTQyNDcxNDXSAQA?oc=5\" target=\"_blank\">Lynn Moore Obituary - T.P. White & Sons Funeral Home - 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dorothy Moore Obituary (1936 - 2023) - Fargo, ND - The Times-Picayune - Obituaries"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvZG9yb3RoeS1tb29yZS1vYml0dWFyeT9pZD01Mjk1NjM0NdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvZG9yb3RoeS1tb29yZS1vYml0dWFyeT9pZD01Mjk1NjM0NdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 27 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvZG9yb3RoeS1tb29yZS1vYml0dWFyeT9pZD01Mjk1NjM0NdIBAA?oc=5\" target=\"_blank\">Dorothy Moore Obituary (1936 - 2023) - Fargo, ND - The Times-Picayune</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Obituaries</font>"
+            ],
+            "source": [
+              {
+                "_": "Obituaries",
+                "$": {
+                  "url": "https://obits.nola.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Virginia Lynn Moore, 63 - The Clermont Sun"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmNsZXJtb250c3VuLmNvbS8yMDIzLzA2LzIxL3ZpcmdpbmlhLWx5bm4tbW9vcmUtNjPSAUFodHRwczovL3d3dy5jbGVybW9udHN1bi5jb20vMjAyMy8wNi8yMS92aXJnaW5pYS1seW5uLW1vb3JlLTYzL2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPWh0dHBzOi8vd3d3LmNsZXJtb250c3VuLmNvbS8yMDIzLzA2LzIxL3ZpcmdpbmlhLWx5bm4tbW9vcmUtNjPSAUFodHRwczovL3d3dy5jbGVybW9udHN1bi5jb20vMjAyMy8wNi8yMS92aXJnaW5pYS1seW5uLW1vb3JlLTYzL2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 21 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmNsZXJtb250c3VuLmNvbS8yMDIzLzA2LzIxL3ZpcmdpbmlhLWx5bm4tbW9vcmUtNjPSAUFodHRwczovL3d3dy5jbGVybW9udHN1bi5jb20vMjAyMy8wNi8yMS92aXJnaW5pYS1seW5uLW1vb3JlLTYzL2FtcA?oc=5\" target=\"_blank\">Virginia Lynn Moore, 63</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Clermont Sun</font>"
+            ],
+            "source": [
+              {
+                "_": "The Clermont Sun",
+                "$": {
+                  "url": "https://www.clermontsun.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "This tech CEO says small details are huge for his company's $1B growth - Dallas Business Journal - The Business Journals"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9kYWxsYXMvbmV3cy8yMDE5LzA5LzIwL2x5bm4tbW9vcmUtanItdHlsZXItdGVjaG5vbG9naWVzLW1vc3QtYWRtaXJlZC1jZW8uaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9kYWxsYXMvbmV3cy8yMDE5LzA5LzIwL2x5bm4tbW9vcmUtanItdHlsZXItdGVjaG5vbG9naWVzLW1vc3QtYWRtaXJlZC1jZW8uaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Sep 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9kYWxsYXMvbmV3cy8yMDE5LzA5LzIwL2x5bm4tbW9vcmUtanItdHlsZXItdGVjaG5vbG9naWVzLW1vc3QtYWRtaXJlZC1jZW8uaHRtbNIBAA?oc=5\" target=\"_blank\">This tech CEO says small details are huge for his company's $1B growth - Dallas Business Journal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>"
+            ],
+            "source": [
+              {
+                "_": "The Business Journals",
+                "$": {
+                  "url": "https://www.bizjournals.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "PHOTOS: Memorial service for Riverheads football team doctor, H. Lynn Moore - The News Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5uZXdzbGVhZGVyLmNvbS9waWN0dXJlLWdhbGxlcnkvbmV3cy8yMDIyLzA0LzMwL3Bob3Rvcy1kb2MtbW9vcmUtbWVtb3JpYWwtc2VydmljZS1yaXZlcmhlYWRzLWZvb3RiYWxsLXRlYW0vOTYwMjY5MTAwMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5uZXdzbGVhZGVyLmNvbS9waWN0dXJlLWdhbGxlcnkvbmV3cy8yMDIyLzA0LzMwL3Bob3Rvcy1kb2MtbW9vcmUtbWVtb3JpYWwtc2VydmljZS1yaXZlcmhlYWRzLWZvb3RiYWxsLXRlYW0vOTYwMjY5MTAwMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 30 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5uZXdzbGVhZGVyLmNvbS9waWN0dXJlLWdhbGxlcnkvbmV3cy8yMDIyLzA0LzMwL3Bob3Rvcy1kb2MtbW9vcmUtbWVtb3JpYWwtc2VydmljZS1yaXZlcmhlYWRzLWZvb3RiYWxsLXRlYW0vOTYwMjY5MTAwMi_SAQA?oc=5\" target=\"_blank\">PHOTOS: Memorial service for Riverheads football team doctor, H. Lynn Moore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "The News Leader",
+                "$": {
+                  "url": "https://www.newsleader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Meet the CEO of Remarkably Steady Tyler Tech - D Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRtYWdhemluZS5jb20vcHVibGljYXRpb25zL2QtY2VvLzIwMTkvYXVndXN0L21lZXQtdGhlLWNlby1vZi1yZW1hcmthYmx5LXN0ZWFkeS10eWxlci10ZWNoL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmRtYWdhemluZS5jb20vcHVibGljYXRpb25zL2QtY2VvLzIwMTkvYXVndXN0L21lZXQtdGhlLWNlby1vZi1yZW1hcmthYmx5LXN0ZWFkeS10eWxlci10ZWNoL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 09 Aug 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRtYWdhemluZS5jb20vcHVibGljYXRpb25zL2QtY2VvLzIwMTkvYXVndXN0L21lZXQtdGhlLWNlby1vZi1yZW1hcmthYmx5LXN0ZWFkeS10eWxlci10ZWNoL9IBAA?oc=5\" target=\"_blank\">Meet the CEO of Remarkably Steady Tyler Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">D Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "D Magazine",
+                "$": {
+                  "url": "https://www.dmagazine.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Berry Moore Obituary - Crosier-Pearson Cleburne Funeral Home - 2023 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2JlcnJ5LW1vb3JlLW9iaXR1YXJ5P2lkPTUzNzI4NTM40gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2JlcnJ5LW1vb3JlLW9iaXR1YXJ5P2lkPTUzNzI4NTM40gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2JlcnJ5LW1vb3JlLW9iaXR1YXJ5P2lkPTUzNzI4NTM40gEA?oc=5\" target=\"_blank\">Berry Moore Obituary - Crosier-Pearson Cleburne Funeral Home - 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tyler Technologies CEO talks about why acquiring NIC makes sense - Kansas City Business Journal - The Business Journals"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9rYW5zYXNjaXR5L25ld3MvMjAyMS8wNC8xNi90eWxlci10ZWNobm9sb2dpZXMtbmljLWx5bm4tbW9vcmUtYWNxdWlzaXRpb24uaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9rYW5zYXNjaXR5L25ld3MvMjAyMS8wNC8xNi90eWxlci10ZWNobm9sb2dpZXMtbmljLWx5bm4tbW9vcmUtYWNxdWlzaXRpb24uaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 16 Apr 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9rYW5zYXNjaXR5L25ld3MvMjAyMS8wNC8xNi90eWxlci10ZWNobm9sb2dpZXMtbmljLWx5bm4tbW9vcmUtYWNxdWlzaXRpb24uaHRtbNIBAA?oc=5\" target=\"_blank\">Tyler Technologies CEO talks about why acquiring NIC makes sense - Kansas City Business Journal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>"
+            ],
+            "source": [
+              {
+                "_": "The Business Journals",
+                "$": {
+                  "url": "https://www.bizjournals.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Martha Moore Obituary - Wilson St. Pierre Funeral Service & Crematory- Lahm Chapel - 2023 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL21hcnRoYS1tb29yZS1vYml0dWFyeT9pZD01MjE3NTY0ONIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL21hcnRoYS1tb29yZS1vYml0dWFyeT9pZD01MjE3NTY0ONIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL21hcnRoYS1tb29yZS1vYml0dWFyeT9pZD01MjE3NTY0ONIBAA?oc=5\" target=\"_blank\">Martha Moore Obituary - Wilson St. Pierre Funeral Service & Crematory- Lahm Chapel - 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sarah Evelyn Garland Moore | Obituaries | johnsoncitypress.com - Johnson City Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmpvaG5zb25jaXR5cHJlc3MuY29tL29iaXR1YXJ5L3NhcmFoLWV2ZWx5bi1nYXJsYW5kLW1vb3JlL2FydGljbGVfZWFhZjVkZTYtZjg0Yi0xMWVhLWJlOGItZjNlYjAxYmRmNGRlLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmpvaG5zb25jaXR5cHJlc3MuY29tL29iaXR1YXJ5L3NhcmFoLWV2ZWx5bi1nYXJsYW5kLW1vb3JlL2FydGljbGVfZWFhZjVkZTYtZjg0Yi0xMWVhLWJlOGItZjNlYjAxYmRmNGRlLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 16 Sep 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmpvaG5zb25jaXR5cHJlc3MuY29tL29iaXR1YXJ5L3NhcmFoLWV2ZWx5bi1nYXJsYW5kLW1vb3JlL2FydGljbGVfZWFhZjVkZTYtZjg0Yi0xMWVhLWJlOGItZjNlYjAxYmRmNGRlLmh0bWzSAQA?oc=5\" target=\"_blank\">Sarah Evelyn Garland Moore | Obituaries | johnsoncitypress.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Johnson City Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Johnson City Press",
+                "$": {
+                  "url": "https://www.johnsoncitypress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Oeline Wolkis Obituary (1935 - 2022) - Metairie, LA - The Times-Picayune - Obituaries"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvb2VsaW5lLXdvbGtpcy1vYml0dWFyeT9pZD0zNjk3OTcxNdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvb2VsaW5lLXdvbGtpcy1vYml0dWFyeT9pZD0zNjk3OTcxNdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 03 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vb2JpdHMubm9sYS5jb20vdXMvb2JpdHVhcmllcy9ub2xhL25hbWUvb2VsaW5lLXdvbGtpcy1vYml0dWFyeT9pZD0zNjk3OTcxNdIBAA?oc=5\" target=\"_blank\">Oeline Wolkis Obituary (1935 - 2022) - Metairie, LA - The Times-Picayune</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Obituaries</font>"
+            ],
+            "source": [
+              {
+                "_": "Obituaries",
+                "$": {
+                  "url": "https://obits.nola.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Brenda Moore Obituary - Evans & Browne's Funeral Home - 2023 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2JyZW5kYS1tb29yZS1vYml0dWFyeT9pZD01MzgyMTg2MtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2JyZW5kYS1tb29yZS1vYml0dWFyeT9pZD01MzgyMTg2MtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2JyZW5kYS1tb29yZS1vYml0dWFyeT9pZD01MzgyMTg2MtIBAA?oc=5\" target=\"_blank\">Brenda Moore Obituary - Evans & Browne's Funeral Home - 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Charles Moore Obituary (1927 - 2023) - Martinsville, VA - Martinsville Bulletin - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9tYXJ0aW5zdmlsbGVidWxsZXRpbi9uYW1lL2NoYXJsZXMtbW9vcmUtb2JpdHVhcnk_aWQ9NTE2NDUyODXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9tYXJ0aW5zdmlsbGVidWxsZXRpbi9uYW1lL2NoYXJsZXMtbW9vcmUtb2JpdHVhcnk_aWQ9NTE2NDUyODXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 16 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9tYXJ0aW5zdmlsbGVidWxsZXRpbi9uYW1lL2NoYXJsZXMtbW9vcmUtb2JpdHVhcnk_aWQ9NTE2NDUyODXSAQA?oc=5\" target=\"_blank\">Charles Moore Obituary (1927 - 2023) - Martinsville, VA - Martinsville Bulletin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tracey Moore Obituary - Neal Funeral Home - Cleveland - 2023 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3RyYWNleS1tb29yZS1vYml0dWFyeT9pZD01MTk2NDE4ONIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3RyYWNleS1tb29yZS1vYml0dWFyeT9pZD01MTk2NDE4ONIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3RyYWNleS1tb29yZS1vYml0dWFyeT9pZD01MTk2NDE4ONIBAA?oc=5\" target=\"_blank\">Tracey Moore Obituary - Neal Funeral Home - Cleveland - 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Diana Moore Obituary - Farrar Funeral Home - Dandridge - 2022 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2RpYW5hLW1vb3JlLW9iaXR1YXJ5P2lkPTM3MDI1Nzky0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2RpYW5hLW1vb3JlLW9iaXR1YXJ5P2lkPTM3MDI1Nzky0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2RpYW5hLW1vb3JlLW9iaXR1YXJ5P2lkPTM3MDI1Nzky0gEA?oc=5\" target=\"_blank\">Diana Moore Obituary - Farrar Funeral Home - Dandridge - 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tara Moore Obituary - Toland-Herzig Funeral Home - Dover - 2022 - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3RhcmEtbW9vcmUtb2JpdHVhcnk_aWQ9MzY3NzU5MDnSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3RhcmEtbW9vcmUtb2JpdHVhcnk_aWQ9MzY3NzU5MDnSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 12 Oct 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3RhcmEtbW9vcmUtb2JpdHVhcnk_aWQ9MzY3NzU5MDnSAQA?oc=5\" target=\"_blank\">Tara Moore Obituary - Toland-Herzig Funeral Home - Dover - 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jennifer Moore Obituary (1964 - 2021) - Bowling Green, Oh, OH - Battle Creek Enquirer - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9iYXR0bGVjcmVlay9uYW1lL2plbm5pZmVyLW1vb3JlLW9iaXR1YXJ5P2lkPTIwMzMxNTA10gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9iYXR0bGVjcmVlay9uYW1lL2plbm5pZmVyLW1vb3JlLW9iaXR1YXJ5P2lkPTIwMzMxNTA10gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 10 Jul 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9iYXR0bGVjcmVlay9uYW1lL2plbm5pZmVyLW1vb3JlLW9iaXR1YXJ5P2lkPTIwMzMxNTA10gEA?oc=5\" target=\"_blank\">Jennifer Moore Obituary (1964 - 2021) - Bowling Green, Oh, OH - Battle Creek Enquirer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "In Loving Memory: Obituaries Of The Week of January 15, 2023 - Smokey Barn News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vc21va2V5YmFybi5jb20vaW4tbG92aW5nLW1lbW9yeS1vYml0dWFyaWVzLW9mLXRoZS13ZWVrLW9mLWphbnVhcnktMTUtMjAyMy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vc21va2V5YmFybi5jb20vaW4tbG92aW5nLW1lbW9yeS1vYml0dWFyaWVzLW9mLXRoZS13ZWVrLW9mLWphbnVhcnktMTUtMjAyMy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 15 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vc21va2V5YmFybi5jb20vaW4tbG92aW5nLW1lbW9yeS1vYml0dWFyaWVzLW9mLXRoZS13ZWVrLW9mLWphbnVhcnktMTUtMjAyMy_SAQA?oc=5\" target=\"_blank\">In Loving Memory: Obituaries Of The Week of January 15, 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smokey Barn News</font>"
+            ],
+            "source": [
+              {
+                "_": "Smokey Barn News",
+                "$": {
+                  "url": "https://smokeybarn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "St. Tammany property transfers, Nov. 28-Dec. 1, 2017 | Home Garden | theadvocate.com - The Advocate"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy50aGVhZHZvY2F0ZS5jb20vbmV3X29ybGVhbnMvZW50ZXJ0YWlubWVudF9saWZlL2hvbWVfZ2FyZGVuL3N0LXRhbW1hbnktcHJvcGVydHktdHJhbnNmZXJzLW5vdi0yOC1kZWMtMS0yMDE3L2FydGljbGVfMmUwZTA2YjQtZWE4MC0xMWU3LTgyOTEtYWI4MmM3MTdiNjdmLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqAFodHRwczovL3d3dy50aGVhZHZvY2F0ZS5jb20vbmV3X29ybGVhbnMvZW50ZXJ0YWlubWVudF9saWZlL2hvbWVfZ2FyZGVuL3N0LXRhbW1hbnktcHJvcGVydHktdHJhbnNmZXJzLW5vdi0yOC1kZWMtMS0yMDE3L2FydGljbGVfMmUwZTA2YjQtZWE4MC0xMWU3LTgyOTEtYWI4MmM3MTdiNjdmLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 Dec 2017 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy50aGVhZHZvY2F0ZS5jb20vbmV3X29ybGVhbnMvZW50ZXJ0YWlubWVudF9saWZlL2hvbWVfZ2FyZGVuL3N0LXRhbW1hbnktcHJvcGVydHktdHJhbnNmZXJzLW5vdi0yOC1kZWMtMS0yMDE3L2FydGljbGVfMmUwZTA2YjQtZWE4MC0xMWU3LTgyOTEtYWI4MmM3MTdiNjdmLmh0bWzSAQA?oc=5\" target=\"_blank\">St. Tammany property transfers, Nov. 28-Dec. 1, 2017 | Home Garden | theadvocate.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Advocate</font>"
+            ],
+            "source": [
+              {
+                "_": "The Advocate",
+                "$": {
+                  "url": "https://www.theadvocate.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

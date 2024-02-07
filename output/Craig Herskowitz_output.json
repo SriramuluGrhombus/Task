@@ -1,0 +1,548 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Craig Herskowitz\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Craig+Herskowitz&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Appellate court clears way for former Cuomo lawyer's lawsuit - City & State New York"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9wb2xpdGljcy8yMDI0LzAxL2FwcGVsbGF0ZS1jb3VydC1jbGVhcnMtd2F5LWZvcm1lci1jdW9tby1sYXd5ZXJzLWxhd3N1aXQvMzkzMDc2L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9wb2xpdGljcy8yMDI0LzAxL2FwcGVsbGF0ZS1jb3VydC1jbGVhcnMtd2F5LWZvcm1lci1jdW9tby1sYXd5ZXJzLWxhd3N1aXQvMzkzMDc2L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9wb2xpdGljcy8yMDI0LzAxL2FwcGVsbGF0ZS1jb3VydC1jbGVhcnMtd2F5LWZvcm1lci1jdW9tby1sYXd5ZXJzLWxhd3N1aXQvMzkzMDc2L9IBAA?oc=5\" target=\"_blank\">Appellate court clears way for former Cuomo lawyer's lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City & State New York</font>"
+            ],
+            "source": [
+              {
+                "_": "City & State New York",
+                "$": {
+                  "url": "https://www.cityandstateny.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ex-Cuomo Aide Claims Firing Follows Harassment Probe Cooperation - Bloomberg Law"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2xpdGlnYXRpb24vZXgtY3VvbW8tYWlkZS1jbGFpbXMtZmlyaW5nLWZvbGxvd3MtaGFyYXNzbWVudC1wcm9iZS1jb29wZXJhdGlvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2xpdGlnYXRpb24vZXgtY3VvbW8tYWlkZS1jbGFpbXMtZmlyaW5nLWZvbGxvd3MtaGFyYXNzbWVudC1wcm9iZS1jb29wZXJhdGlvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2xpdGlnYXRpb24vZXgtY3VvbW8tYWlkZS1jbGFpbXMtZmlyaW5nLWZvbGxvd3MtaGFyYXNzbWVudC1wcm9iZS1jb29wZXJhdGlvbtIBAA?oc=5\" target=\"_blank\">Ex-Cuomo Aide Claims Firing Follows Harassment Probe Cooperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law</font>"
+            ],
+            "source": [
+              {
+                "_": "Bloomberg Law",
+                "$": {
+                  "url": "https://news.bloomberglaw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Court Revives Ex-Cuomo Lawyer's Retaliatory Firing Suit - Law360"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmxhdzM2MC5jb20vYXJ0aWNsZXMvMTc4MDg2My9jb3VydC1yZXZpdmVzLWV4LWN1b21vLWxhd3llci1zLXJldGFsaWF0b3J5LWZpcmluZy1zdWl00gEraHR0cHM6Ly93d3cubGF3MzYwLmNvbS9hbXAvYXJ0aWNsZXMvMTc4MDg2Mw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LmxhdzM2MC5jb20vYXJ0aWNsZXMvMTc4MDg2My9jb3VydC1yZXZpdmVzLWV4LWN1b21vLWxhd3llci1zLXJldGFsaWF0b3J5LWZpcmluZy1zdWl00gEraHR0cHM6Ly93d3cubGF3MzYwLmNvbS9hbXAvYXJ0aWNsZXMvMTc4MDg2Mw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmxhdzM2MC5jb20vYXJ0aWNsZXMvMTc4MDg2My9jb3VydC1yZXZpdmVzLWV4LWN1b21vLWxhd3llci1zLXJldGFsaWF0b3J5LWZpcmluZy1zdWl00gEraHR0cHM6Ly93d3cubGF3MzYwLmNvbS9hbXAvYXJ0aWNsZXMvMTc4MDg2Mw?oc=5\" target=\"_blank\">Court Revives Ex-Cuomo Lawyer's Retaliatory Firing Suit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Law360</font>"
+            ],
+            "source": [
+              {
+                "_": "Law360",
+                "$": {
+                  "url": "https://www.law360.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Who's running to unseat Nick LaLota in NY-1? - City & State New York"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9wb2xpdGljcy8yMDIzLzEwL3dob3MtcnVubmluZy11bnNlYXQtbmljay1sYWxvdGEtbnktMS8zOTAzNDIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9wb2xpdGljcy8yMDIzLzEwL3dob3MtcnVubmluZy11bnNlYXQtbmljay1sYWxvdGEtbnktMS8zOTAzNDIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 07 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9wb2xpdGljcy8yMDIzLzEwL3dob3MtcnVubmluZy11bnNlYXQtbmljay1sYWxvdGEtbnktMS8zOTAzNDIv0gEA?oc=5\" target=\"_blank\">Who's running to unseat Nick LaLota in NY-1?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City & State New York</font>"
+            ],
+            "source": [
+              {
+                "_": "City & State New York",
+                "$": {
+                  "url": "https://www.cityandstateny.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrat Kyle Hill challenging GOP Rep. Nick LaLota in 1st Congressional District - Newsday"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm5ld3NkYXkuY29tL2xvbmctaXNsYW5kL3BvbGl0aWNzL2VsZWN0aW9ucy9reWxlLWhpbGwtbGFsb3RhLXV5enlqNzMz0gFUaHR0cHM6Ly93d3cubmV3c2RheS5jb20vYW1wL2xvbmctaXNsYW5kL3BvbGl0aWNzL2VsZWN0aW9ucy9reWxlLWhpbGwtbGFsb3RhLXV5enlqNzMz?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vd3d3Lm5ld3NkYXkuY29tL2xvbmctaXNsYW5kL3BvbGl0aWNzL2VsZWN0aW9ucy9reWxlLWhpbGwtbGFsb3RhLXV5enlqNzMz0gFUaHR0cHM6Ly93d3cubmV3c2RheS5jb20vYW1wL2xvbmctaXNsYW5kL3BvbGl0aWNzL2VsZWN0aW9ucy9reWxlLWhpbGwtbGFsb3RhLXV5enlqNzMz",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 05 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm5ld3NkYXkuY29tL2xvbmctaXNsYW5kL3BvbGl0aWNzL2VsZWN0aW9ucy9reWxlLWhpbGwtbGFsb3RhLXV5enlqNzMz0gFUaHR0cHM6Ly93d3cubmV3c2RheS5jb20vYW1wL2xvbmctaXNsYW5kL3BvbGl0aWNzL2VsZWN0aW9ucy9reWxlLWhpbGwtbGFsb3RhLXV5enlqNzMz?oc=5\" target=\"_blank\">Democrat Kyle Hill challenging GOP Rep. Nick LaLota in 1st Congressional District</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsday</font>"
+            ],
+            "source": [
+              {
+                "_": "Newsday",
+                "$": {
+                  "url": "https://www.newsday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "House GOP fundraising edge does not cover everyone - Roll Call "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjMvMTAvMTYvaG91c2UtZ29wLWZ1bmRyYWlzaW5nLWVkZ2UtZG9lcy1ub3QtY292ZXItZXZlcnlvbmUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjMvMTAvMTYvaG91c2UtZ29wLWZ1bmRyYWlzaW5nLWVkZ2UtZG9lcy1ub3QtY292ZXItZXZlcnlvbmUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjMvMTAvMTYvaG91c2UtZ29wLWZ1bmRyYWlzaW5nLWVkZ2UtZG9lcy1ub3QtY292ZXItZXZlcnlvbmUv0gEA?oc=5\" target=\"_blank\">House GOP fundraising edge does not cover everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roll Call </font>"
+            ],
+            "source": [
+              {
+                "_": "Roll Call ",
+                "$": {
+                  "url": "https://rollcall.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lawyer claims he was fired from state job for cooperating with Andrew Cuomo sex harassment probe: lawsuit - New York Post "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbnlwb3N0LmNvbS8yMDIyLzA0LzE0L2xhd3llci1maXJlZC1mcm9tLXN0YXRlLWpvYi1mb3ItY29vcGVyYXRpbmctd2l0aC1jdW9tby1zZXh1YWwtaGFyYXNzbWVudC1wcm9iZS1sYXdzdWl0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vbnlwb3N0LmNvbS8yMDIyLzA0LzE0L2xhd3llci1maXJlZC1mcm9tLXN0YXRlLWpvYi1mb3ItY29vcGVyYXRpbmctd2l0aC1jdW9tby1zZXh1YWwtaGFyYXNzbWVudC1wcm9iZS1sYXdzdWl0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbnlwb3N0LmNvbS8yMDIyLzA0LzE0L2xhd3llci1maXJlZC1mcm9tLXN0YXRlLWpvYi1mb3ItY29vcGVyYXRpbmctd2l0aC1jdW9tby1zZXh1YWwtaGFyYXNzbWVudC1wcm9iZS1sYXdzdWl0L9IBAA?oc=5\" target=\"_blank\">Lawyer claims he was fired from state job for cooperating with Andrew Cuomo sex harassment probe: lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post </font>"
+            ],
+            "source": [
+              {
+                "_": "New York Post ",
+                "$": {
+                  "url": "https://nypost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Attorney says Cuomo adviser fired him for cooperating in probe - Times Union "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRpbWVzdW5pb24uY29tL3N0YXRlL2FydGljbGUvQXR0b3JuZXktc2F5cy1DdW9tby1hZHZpc2VyLWZpcmVkLWhpbS1mb3ItMTY5NzY4OTQucGhw0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LnRpbWVzdW5pb24uY29tL3N0YXRlL2FydGljbGUvQXR0b3JuZXktc2F5cy1DdW9tby1hZHZpc2VyLWZpcmVkLWhpbS1mb3ItMTY5NzY4OTQucGhw0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 07 Mar 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRpbWVzdW5pb24uY29tL3N0YXRlL2FydGljbGUvQXR0b3JuZXktc2F5cy1DdW9tby1hZHZpc2VyLWZpcmVkLWhpbS1mb3ItMTY5NzY4OTQucGhw0gEA?oc=5\" target=\"_blank\">Attorney says Cuomo adviser fired him for cooperating in probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Union </font>"
+            ],
+            "source": [
+              {
+                "_": "Times Union ",
+                "$": {
+                  "url": "https://www.timesunion.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bowling, Parties, Travel: 3 Former Rikers Guards Admit Sick Leave Abuse - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMDcvbnlyZWdpb24vcmlrZXJzLW9mZmljZXJzLXNpY2stbGVhdmUtZnJhdWQuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMDcvbnlyZWdpb24vcmlrZXJzLW9mZmljZXJzLXNpY2stbGVhdmUtZnJhdWQuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMDcvbnlyZWdpb24vcmlrZXJzLW9mZmljZXJzLXNpY2stbGVhdmUtZnJhdWQuaHRtbNIBAA?oc=5\" target=\"_blank\">Bowling, Parties, Travel: 3 Former Rikers Guards Admit Sick Leave Abuse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How much money do the candidates in key N.Y. races have? - Spectrum News NY1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5ueTEuY29tL255Yy9hbGwtYm9yb3VnaHMvbmV3cy8yMDI0LzAyLzAyL2hvdy1tdWNoLW1vbmV5LWRvLXRoZS1jYW5kaWRhdGVzLWluLWtleS1ueS1jb25ncmVzc2lvbmFsLXJhY2VzLWhhdmUtb24taGFuZC3SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL3d3dy5ueTEuY29tL255Yy9hbGwtYm9yb3VnaHMvbmV3cy8yMDI0LzAyLzAyL2hvdy1tdWNoLW1vbmV5LWRvLXRoZS1jYW5kaWRhdGVzLWluLWtleS1ueS1jb25ncmVzc2lvbmFsLXJhY2VzLWhhdmUtb24taGFuZC3SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 18:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5ueTEuY29tL255Yy9hbGwtYm9yb3VnaHMvbmV3cy8yMDI0LzAyLzAyL2hvdy1tdWNoLW1vbmV5LWRvLXRoZS1jYW5kaWRhdGVzLWluLWtleS1ueS1jb25ncmVzc2lvbmFsLXJhY2VzLWhhdmUtb24taGFuZC3SAQA?oc=5\" target=\"_blank\">How much money do the candidates in key N.Y. races have?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News NY1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News NY1",
+                "$": {
+                  "url": "https://www.ny1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2024 Preview: East End News Stories to Watch This Year - Dan’s Papers"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmRhbnNwYXBlcnMuY29tLzIwMjQvMDEvMjAyNC1wcmV2aWV3LWVhc3QtZW5kLW5ld3Mtc3Rvcmllcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3LmRhbnNwYXBlcnMuY29tLzIwMjQvMDEvMjAyNC1wcmV2aWV3LWVhc3QtZW5kLW5ld3Mtc3Rvcmllcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmRhbnNwYXBlcnMuY29tLzIwMjQvMDEvMjAyNC1wcmV2aWV3LWVhc3QtZW5kLW5ld3Mtc3Rvcmllcy_SAQA?oc=5\" target=\"_blank\">2024 Preview: East End News Stories to Watch This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dan’s Papers</font>"
+            ],
+            "source": [
+              {
+                "_": "Dan’s Papers",
+                "$": {
+                  "url": "https://www.danspapers.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Morning Digest: Pennsylvania's most powerful election denier draws a prominent challenger - Daily Kos"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5kYWlseWtvcy5jb20vc3Rvcmllcy8yMDIzLzEwLzUvMjE5NzQzOS8tTW9ybmluZy1EaWdlc3QtUGVubnN5bHZhbmlhLXMtbW9zdC1wb3dlcmZ1bC1lbGVjdGlvbi1kZW5pZXItZHJhd3MtYS1wcm9taW5lbnQtY2hhbGxlbmdlctIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5kYWlseWtvcy5jb20vc3Rvcmllcy8yMDIzLzEwLzUvMjE5NzQzOS8tTW9ybmluZy1EaWdlc3QtUGVubnN5bHZhbmlhLXMtbW9zdC1wb3dlcmZ1bC1lbGVjdGlvbi1kZW5pZXItZHJhd3MtYS1wcm9taW5lbnQtY2hhbGxlbmdlctIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5kYWlseWtvcy5jb20vc3Rvcmllcy8yMDIzLzEwLzUvMjE5NzQzOS8tTW9ybmluZy1EaWdlc3QtUGVubnN5bHZhbmlhLXMtbW9zdC1wb3dlcmZ1bC1lbGVjdGlvbi1kZW5pZXItZHJhd3MtYS1wcm9taW5lbnQtY2hhbGxlbmdlctIBAA?oc=5\" target=\"_blank\">Morning Digest: Pennsylvania's most powerful election denier draws a prominent challenger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Kos</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Kos",
+                "$": {
+                  "url": "https://www.dailykos.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New York’s Congressional District Maps to Be Redrawn - East Hampton Star"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmVhc3RoYW1wdG9uc3Rhci5jb20vZ292ZXJubWVudC8yMDIzMTIyMC9uZXcteW9ya3MtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1tYXBzLXRvLWJlLXJlZHJhd27SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmVhc3RoYW1wdG9uc3Rhci5jb20vZ292ZXJubWVudC8yMDIzMTIyMC9uZXcteW9ya3MtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1tYXBzLXRvLWJlLXJlZHJhd27SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmVhc3RoYW1wdG9uc3Rhci5jb20vZ292ZXJubWVudC8yMDIzMTIyMC9uZXcteW9ya3MtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1tYXBzLXRvLWJlLXJlZHJhd27SAQA?oc=5\" target=\"_blank\">New York’s Congressional District Maps to Be Redrawn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">East Hampton Star</font>"
+            ],
+            "source": [
+              {
+                "_": "East Hampton Star",
+                "$": {
+                  "url": "https://www.easthamptonstar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Nancy Goroff launches second run for House seat - TBR News Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vdGJybmV3c21lZGlhLmNvbS9nb3JvZmYtbGF1bmNoZXMtc2Vjb25kLXJ1bi1mb3ItaG91c2Utc2VhdC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vdGJybmV3c21lZGlhLmNvbS9nb3JvZmYtbGF1bmNoZXMtc2Vjb25kLXJ1bi1mb3ItaG91c2Utc2VhdC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vdGJybmV3c21lZGlhLmNvbS9nb3JvZmYtbGF1bmNoZXMtc2Vjb25kLXJ1bi1mb3ItaG91c2Utc2VhdC_SAQA?oc=5\" target=\"_blank\">Nancy Goroff launches second run for House seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBR News Media</font>"
+            ],
+            "source": [
+              {
+                "_": "TBR News Media",
+                "$": {
+                  "url": "https://tbrnewsmedia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Morgan Stanley Reels in Three Merrill Teams With Over $2.5B Combined in WA, OH - AdvisorHub"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFkdmlzb3JodWIuY29tL21vcmdhbi1zdGFubGV5LXJlZWxzLWluLXRocmVlLW1lcnJpbGwtdGVhbXMtd2l0aC1vdmVyLTItNWItY29tYmluZWQtaW4td2Etb2gv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LmFkdmlzb3JodWIuY29tL21vcmdhbi1zdGFubGV5LXJlZWxzLWluLXRocmVlLW1lcnJpbGwtdGVhbXMtd2l0aC1vdmVyLTItNWItY29tYmluZWQtaW4td2Etb2gv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFkdmlzb3JodWIuY29tL21vcmdhbi1zdGFubGV5LXJlZWxzLWluLXRocmVlLW1lcnJpbGwtdGVhbXMtd2l0aC1vdmVyLTItNWItY29tYmluZWQtaW4td2Etb2gv0gEA?oc=5\" target=\"_blank\">Morgan Stanley Reels in Three Merrill Teams With Over $2.5B Combined in WA, OH</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AdvisorHub</font>"
+            ],
+            "source": [
+              {
+                "_": "AdvisorHub",
+                "$": {
+                  "url": "https://www.advisorhub.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Latest fundraising numbers show Dems are serious about taking back NY House seats - City & State New York"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jaXR5YW5kc3RhdGVueS5jb20vcG9saXRpY3MvMjAyNC8wMi9sYXRlc3QtZnVuZHJhaXNpbmctbnVtYmVycy1zaG93LWRlbXMtYXJlLXNlcmlvdXMtYWJvdXQtdGFraW5nLWJhY2stbnktaG91c2Utc2VhdHMvMzkzODYwL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5jaXR5YW5kc3RhdGVueS5jb20vcG9saXRpY3MvMjAyNC8wMi9sYXRlc3QtZnVuZHJhaXNpbmctbnVtYmVycy1zaG93LWRlbXMtYXJlLXNlcmlvdXMtYWJvdXQtdGFraW5nLWJhY2stbnktaG91c2Utc2VhdHMvMzkzODYwL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 22:51:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jaXR5YW5kc3RhdGVueS5jb20vcG9saXRpY3MvMjAyNC8wMi9sYXRlc3QtZnVuZHJhaXNpbmctbnVtYmVycy1zaG93LWRlbXMtYXJlLXNlcmlvdXMtYWJvdXQtdGFraW5nLWJhY2stbnktaG91c2Utc2VhdHMvMzkzODYwL9IBAA?oc=5\" target=\"_blank\">Latest fundraising numbers show Dems are serious about taking back NY House seats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City & State New York</font>"
+            ],
+            "source": [
+              {
+                "_": "City & State New York",
+                "$": {
+                  "url": "https://www.cityandstateny.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alleged Bloods gang member sentenced to 20 years in prison for 2020 shooting - Newsday"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm5ld3NkYXkuY29tL2xvbmctaXNsYW5kL2NyaW1lL2Jsb29kcy1nYW5nLXNob290aW5nLWhlbXBzdGVhZC10cmV2b3ItZm9yZC1oNzI1dnpwcdIBYWh0dHBzOi8vd3d3Lm5ld3NkYXkuY29tL2FtcC9sb25nLWlzbGFuZC9jcmltZS9ibG9vZHMtZ2FuZy1zaG9vdGluZy1oZW1wc3RlYWQtdHJldm9yLWZvcmQtaDcyNXZ6cHE?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3Lm5ld3NkYXkuY29tL2xvbmctaXNsYW5kL2NyaW1lL2Jsb29kcy1nYW5nLXNob290aW5nLWhlbXBzdGVhZC10cmV2b3ItZm9yZC1oNzI1dnpwcdIBYWh0dHBzOi8vd3d3Lm5ld3NkYXkuY29tL2FtcC9sb25nLWlzbGFuZC9jcmltZS9ibG9vZHMtZ2FuZy1zaG9vdGluZy1oZW1wc3RlYWQtdHJldm9yLWZvcmQtaDcyNXZ6cHE",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 11 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm5ld3NkYXkuY29tL2xvbmctaXNsYW5kL2NyaW1lL2Jsb29kcy1nYW5nLXNob290aW5nLWhlbXBzdGVhZC10cmV2b3ItZm9yZC1oNzI1dnpwcdIBYWh0dHBzOi8vd3d3Lm5ld3NkYXkuY29tL2FtcC9sb25nLWlzbGFuZC9jcmltZS9ibG9vZHMtZ2FuZy1zaG9vdGluZy1oZW1wc3RlYWQtdHJldm9yLWZvcmQtaDcyNXZ6cHE?oc=5\" target=\"_blank\">Alleged Bloods gang member sentenced to 20 years in prison for 2020 shooting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsday</font>"
+            ],
+            "source": [
+              {
+                "_": "Newsday",
+                "$": {
+                  "url": "https://www.newsday.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2858 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Kentucky GOP\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Kentucky+GOP&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Kentucky Senate joins House in urging Beshear to back Texas governor at the border - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS9icmllZnMva2VudHVja3ktc2VuYXRlLWpvaW5zLWhvdXNlLWluLXVyZ2luZy1iZXNoZWFyLXRvLWJhY2stdGV4YXMtZ292ZXJub3ItYXQtdGhlLWJvcmRlci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS9icmllZnMva2VudHVja3ktc2VuYXRlLWpvaW5zLWhvdXNlLWluLXVyZ2luZy1iZXNoZWFyLXRvLWJhY2stdGV4YXMtZ292ZXJub3ItYXQtdGhlLWJvcmRlci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 22:59:13 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS9icmllZnMva2VudHVja3ktc2VuYXRlLWpvaW5zLWhvdXNlLWluLXVyZ2luZy1iZXNoZWFyLXRvLWJhY2stdGV4YXMtZ292ZXJub3ItYXQtdGhlLWJvcmRlci_SAQA?oc=5\" target=\"_blank\">Kentucky Senate joins House in urging Beshear to back Texas governor at the border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Proposed Kentucky amendment would allow GOP-led legislature to call special sessions - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NTE0OTI2Mi5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg1MTQ5MjYyLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NTE0OTI2Mi5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg1MTQ5MjYyLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:37:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NTE0OTI2Mi5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg1MTQ5MjYyLmh0bWw?oc=5\" target=\"_blank\">Proposed Kentucky amendment would allow GOP-led legislature to call special sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "In northern Kentucky, a glimpse into the GOP voters who may be tricky for Trump - ABC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvbm9ydGhlcm4ta2VudHVja3ktZ2xpbXBzZS1nb3Atdm90ZXJzLXRyaWNreS10cnVtcC9zdG9yeT9pZD0xMDYzMDU2NTLSAWhodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9ub3J0aGVybi1rZW50dWNreS1nbGltcHNlLWdvcC12b3RlcnMtdHJpY2t5LXRydW1wL3N0b3J5P2lkPTEwNjMwNTY1Mg?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvbm9ydGhlcm4ta2VudHVja3ktZ2xpbXBzZS1nb3Atdm90ZXJzLXRyaWNreS10cnVtcC9zdG9yeT9pZD0xMDYzMDU2NTLSAWhodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9ub3J0aGVybi1rZW50dWNreS1nbGltcHNlLWdvcC12b3RlcnMtdHJpY2t5LXRydW1wL3N0b3J5P2lkPTEwNjMwNTY1Mg",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvbm9ydGhlcm4ta2VudHVja3ktZ2xpbXBzZS1nb3Atdm90ZXJzLXRyaWNreS10cnVtcC9zdG9yeT9pZD0xMDYzMDU2NTLSAWhodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9ub3J0aGVybi1rZW50dWNreS1nbGltcHNlLWdvcC12b3RlcnMtdHJpY2t5LXRydW1wL3N0b3J5P2lkPTEwNjMwNTY1Mg?oc=5\" target=\"_blank\">In northern Kentucky, a glimpse into the GOP voters who may be tricky for Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC News",
+                "$": {
+                  "url": "https://abcnews.go.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP lawmaker files bills to change Ky. education system - WKYT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LndreXQuY29tLzIwMjQvMDIvMDUvZ29wLWxhd21ha2VyLWZpbGVzLWJpbGxzLWNoYW5nZS1reS1lZHVjYXRpb24tc3lzdGVtL9IBY2h0dHBzOi8vd3d3LndreXQuY29tLzIwMjQvMDIvMDUvZ29wLWxhd21ha2VyLWZpbGVzLWJpbGxzLWNoYW5nZS1reS1lZHVjYXRpb24tc3lzdGVtLz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LndreXQuY29tLzIwMjQvMDIvMDUvZ29wLWxhd21ha2VyLWZpbGVzLWJpbGxzLWNoYW5nZS1reS1lZHVjYXRpb24tc3lzdGVtL9IBY2h0dHBzOi8vd3d3LndreXQuY29tLzIwMjQvMDIvMDUvZ29wLWxhd21ha2VyLWZpbGVzLWJpbGxzLWNoYW5nZS1reS1lZHVjYXRpb24tc3lzdGVtLz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 22:41:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LndreXQuY29tLzIwMjQvMDIvMDUvZ29wLWxhd21ha2VyLWZpbGVzLWJpbGxzLWNoYW5nZS1reS1lZHVjYXRpb24tc3lzdGVtL9IBY2h0dHBzOi8vd3d3LndreXQuY29tLzIwMjQvMDIvMDUvZ29wLWxhd21ha2VyLWZpbGVzLWJpbGxzLWNoYW5nZS1reS1lZHVjYXRpb24tc3lzdGVtLz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">GOP lawmaker files bills to change Ky. education system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKYT</font>"
+            ],
+            "source": [
+              {
+                "_": "WKYT",
+                "$": {
+                  "url": "https://www.wkyt.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell mum on election as Republicans endorse Trump - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDI0LzAyLzA1L21jY29ubmVsbC1tdW0tb24tZWxlY3Rpb24tYXMtcmVwdWJsaWNhbnMtZW5kb3JzZS10cnVtcC3SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDI0LzAyLzA1L21jY29ubmVsbC1tdW0tb24tZWxlY3Rpb24tYXMtcmVwdWJsaWNhbnMtZW5kb3JzZS10cnVtcC3SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 17:25:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDI0LzAyLzA1L21jY29ubmVsbC1tdW0tb24tZWxlY3Rpb24tYXMtcmVwdWJsaWNhbnMtZW5kb3JzZS10cnVtcC3SAQA?oc=5\" target=\"_blank\">McConnell mum on election as Republicans endorse Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ky. House GOP budget bills clear committee with changes to school transportation, vacancies - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTMxL2t5LWhvdXNlLWdvcC1idWRnZXQtYmlsbHMtY2xlYXItY29tbWl0dGVlLXdpdGgtY2hhbmdlcy10by1zY2hvb2wtdHJhbnNwb3J0YXRpb24tdmFjYW5jaWVz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTMxL2t5LWhvdXNlLWdvcC1idWRnZXQtYmlsbHMtY2xlYXItY29tbWl0dGVlLXdpdGgtY2hhbmdlcy10by1zY2hvb2wtdHJhbnNwb3J0YXRpb24tdmFjYW5jaWVz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 23:44:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTMxL2t5LWhvdXNlLWdvcC1idWRnZXQtYmlsbHMtY2xlYXItY29tbWl0dGVlLXdpdGgtY2hhbmdlcy10by1zY2hvb2wtdHJhbnNwb3J0YXRpb24tdmFjYW5jaWVz0gEA?oc=5\" target=\"_blank\">Ky. House GOP budget bills clear committee with changes to school transportation, vacancies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "School districts, teacher pay may be impacted by GOP budget plan - Courier Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvZWR1Y2F0aW9uL2VkdWNhdGlvbi8yMDI0LzAxLzI2L2tlbnR1Y2t5LXNjaG9vbC1kaXN0cmljdHMtdGVhY2hlci1wYXktbWF5LWJlLWltcGFjdGVkLWJ5LWdvcC1idWRnZXQtcGxhbi83MjA5NzU1NDAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinwFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvZWR1Y2F0aW9uL2VkdWNhdGlvbi8yMDI0LzAxLzI2L2tlbnR1Y2t5LXNjaG9vbC1kaXN0cmljdHMtdGVhY2hlci1wYXktbWF5LWJlLWltcGFjdGVkLWJ5LWdvcC1idWRnZXQtcGxhbi83MjA5NzU1NDAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvZWR1Y2F0aW9uL2VkdWNhdGlvbi8yMDI0LzAxLzI2L2tlbnR1Y2t5LXNjaG9vbC1kaXN0cmljdHMtdGVhY2hlci1wYXktbWF5LWJlLWltcGFjdGVkLWJ5LWdvcC1idWRnZXQtcGxhbi83MjA5NzU1NDAwNy_SAQA?oc=5\" target=\"_blank\">School districts, teacher pay may be impacted by GOP budget plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courier Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Courier Journal",
+                "$": {
+                  "url": "https://www.courier-journal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP lawmakers believe KSP post will help combat crime in Louisville, mayor urges legislature to make other moves - WHAS11.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9wb2xpdGljcy9ob3VzZS1iaWxsLTQ0MS1rZW50dWNreS1wb2xpdGljcy1uZXctc3RhdGUtcG9saWNlLXBvc3QtbG91aXN2aWxsZS1jcmltZS1yZXB1YmxpY2Fucy80MTctZDUyNmE0YTMtYWVkZC00OTQwLThhZGEtYWJlNDE3YmQ2Nzhi0gGtAWh0dHBzOi8vd3d3LndoYXMxMS5jb20vYW1wL2FydGljbGUvbmV3cy9wb2xpdGljcy9ob3VzZS1iaWxsLTQ0MS1rZW50dWNreS1wb2xpdGljcy1uZXctc3RhdGUtcG9saWNlLXBvc3QtbG91aXN2aWxsZS1jcmltZS1yZXB1YmxpY2Fucy80MTctZDUyNmE0YTMtYWVkZC00OTQwLThhZGEtYWJlNDE3YmQ2Nzhi?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqQFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9wb2xpdGljcy9ob3VzZS1iaWxsLTQ0MS1rZW50dWNreS1wb2xpdGljcy1uZXctc3RhdGUtcG9saWNlLXBvc3QtbG91aXN2aWxsZS1jcmltZS1yZXB1YmxpY2Fucy80MTctZDUyNmE0YTMtYWVkZC00OTQwLThhZGEtYWJlNDE3YmQ2Nzhi0gGtAWh0dHBzOi8vd3d3LndoYXMxMS5jb20vYW1wL2FydGljbGUvbmV3cy9wb2xpdGljcy9ob3VzZS1iaWxsLTQ0MS1rZW50dWNreS1wb2xpdGljcy1uZXctc3RhdGUtcG9saWNlLXBvc3QtbG91aXN2aWxsZS1jcmltZS1yZXB1YmxpY2Fucy80MTctZDUyNmE0YTMtYWVkZC00OTQwLThhZGEtYWJlNDE3YmQ2Nzhi",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 04:21:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9wb2xpdGljcy9ob3VzZS1iaWxsLTQ0MS1rZW50dWNreS1wb2xpdGljcy1uZXctc3RhdGUtcG9saWNlLXBvc3QtbG91aXN2aWxsZS1jcmltZS1yZXB1YmxpY2Fucy80MTctZDUyNmE0YTMtYWVkZC00OTQwLThhZGEtYWJlNDE3YmQ2Nzhi0gGtAWh0dHBzOi8vd3d3LndoYXMxMS5jb20vYW1wL2FydGljbGUvbmV3cy9wb2xpdGljcy9ob3VzZS1iaWxsLTQ0MS1rZW50dWNreS1wb2xpdGljcy1uZXctc3RhdGUtcG9saWNlLXBvc3QtbG91aXN2aWxsZS1jcmltZS1yZXB1YmxpY2Fucy80MTctZDUyNmE0YTMtYWVkZC00OTQwLThhZGEtYWJlNDE3YmQ2Nzhi?oc=5\" target=\"_blank\">GOP lawmakers believe KSP post will help combat crime in Louisville, mayor urges legislature to make other moves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHAS11.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WHAS11.com",
+                "$": {
+                  "url": "https://www.whas11.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Democrat Beshear links GOP challenger to reality of abortion law in reelection campaign - IndiaTimes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMingFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9rZW50dWNreS1kZW1vY3JhdC1iZXNoZWFyLWxpbmtzLWdvcC1jaGFsbGVuZ2VyLXRvLXJlYWxpdHktb2YtYWJvcnRpb24tbGF3LWluLXJlZWxlY3Rpb24tY2FtcGFpZ24vYXJ0aWNsZXNob3cvMTAzNDE3MjUzLmNtc9IBogFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9rZW50dWNreS1kZW1vY3JhdC1iZXNoZWFyLWxpbmtzLWdvcC1jaGFsbGVuZ2VyLXRvLXJlYWxpdHktb2YtYWJvcnRpb24tbGF3LWluLXJlZWxlY3Rpb24tY2FtcGFpZ24vYW1wX2FydGljbGVzaG93LzEwMzQxNzI1My5jbXM?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMingFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9rZW50dWNreS1kZW1vY3JhdC1iZXNoZWFyLWxpbmtzLWdvcC1jaGFsbGVuZ2VyLXRvLXJlYWxpdHktb2YtYWJvcnRpb24tbGF3LWluLXJlZWxlY3Rpb24tY2FtcGFpZ24vYXJ0aWNsZXNob3cvMTAzNDE3MjUzLmNtc9IBogFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9rZW50dWNreS1kZW1vY3JhdC1iZXNoZWFyLWxpbmtzLWdvcC1jaGFsbGVuZ2VyLXRvLXJlYWxpdHktb2YtYWJvcnRpb24tbGF3LWluLXJlZWxlY3Rpb24tY2FtcGFpZ24vYW1wX2FydGljbGVzaG93LzEwMzQxNzI1My5jbXM",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMingFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9rZW50dWNreS1kZW1vY3JhdC1iZXNoZWFyLWxpbmtzLWdvcC1jaGFsbGVuZ2VyLXRvLXJlYWxpdHktb2YtYWJvcnRpb24tbGF3LWluLXJlZWxlY3Rpb24tY2FtcGFpZ24vYXJ0aWNsZXNob3cvMTAzNDE3MjUzLmNtc9IBogFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy9rZW50dWNreS1kZW1vY3JhdC1iZXNoZWFyLWxpbmtzLWdvcC1jaGFsbGVuZ2VyLXRvLXJlYWxpdHktb2YtYWJvcnRpb24tbGF3LWluLXJlZWxlY3Rpb24tY2FtcGFpZ24vYW1wX2FydGljbGVzaG93LzEwMzQxNzI1My5jbXM?oc=5\" target=\"_blank\">Kentucky Democrat Beshear links GOP challenger to reality of abortion law in reelection campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndiaTimes</font>"
+            ],
+            "source": [
+              {
+                "_": "IndiaTimes",
+                "$": {
+                  "url": "https://m.timesofindia.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky House boosts school spending but leaves out guaranteed teacher raises and universal pre-K - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWxlZ2lzbGF0dXJlLXN0YXRlLWJ1ZGdldC0wNGRkMzgwZWY3MmUxMjFlNzg2NmZmYTVjMzU2NTEwM9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWxlZ2lzbGF0dXJlLXN0YXRlLWJ1ZGdldC0wNGRkMzgwZWY3MmUxMjFlNzg2NmZmYTVjMzU2NTEwM9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 00:05:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWxlZ2lzbGF0dXJlLXN0YXRlLWJ1ZGdldC0wNGRkMzgwZWY3MmUxMjFlNzg2NmZmYTVjMzU2NTEwM9IBAA?oc=5\" target=\"_blank\">Kentucky House boosts school spending but leaves out guaranteed teacher raises and universal pre-K</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky GOP want to regulate adult-oriented businesses - WOUB"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd291Yi5vcmcvMjAyNC8wMS8zMS9rZW50dWNreS1nb3AtcmVndWxhdGUtYWR1bHQtb3JpZW50ZWQtYnVzaW5lc3Nlcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd291Yi5vcmcvMjAyNC8wMS8zMS9rZW50dWNreS1nb3AtcmVndWxhdGUtYWR1bHQtb3JpZW50ZWQtYnVzaW5lc3Nlcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 20:14:26 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd291Yi5vcmcvMjAyNC8wMS8zMS9rZW50dWNreS1nb3AtcmVndWxhdGUtYWR1bHQtb3JpZW50ZWQtYnVzaW5lc3Nlcy_SAQA?oc=5\" target=\"_blank\">Kentucky GOP want to regulate adult-oriented businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOUB</font>"
+            ],
+            "source": [
+              {
+                "_": "WOUB",
+                "$": {
+                  "url": "https://woub.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘An invasion of our country’: KY GOP pressures Beshear on Texas-Mexico border - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDg1NzQ5MS5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0ODU3NDkxLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDg1NzQ5MS5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0ODU3NDkxLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 12:03:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDg1NzQ5MS5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0ODU3NDkxLmh0bWw?oc=5\" target=\"_blank\">‘An invasion of our country’: KY GOP pressures Beshear on Texas-Mexico border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sweeping GOP bill increasing criminal penalties, outlawing 'street camping' clears Kentucky House - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyNC8wMS8yNS9zd2VlcGluZy1nb3AtYmlsbC1pbmNyZWFzaW5nLWNyaW1pbmFsLXBlbmFsdGllcy1vdXRsYXdpbmctc3RyZWV0LWNhbXBpbmctY2xlYXJzLWtlbnR1Y2t5LWhvdXNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyNC8wMS8yNS9zd2VlcGluZy1nb3AtYmlsbC1pbmNyZWFzaW5nLWNyaW1pbmFsLXBlbmFsdGllcy1vdXRsYXdpbmctc3RyZWV0LWNhbXBpbmctY2xlYXJzLWtlbnR1Y2t5LWhvdXNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 23:54:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyNC8wMS8yNS9zd2VlcGluZy1nb3AtYmlsbC1pbmNyZWFzaW5nLWNyaW1pbmFsLXBlbmFsdGllcy1vdXRsYXdpbmctc3RyZWV0LWNhbXBpbmctY2xlYXJzLWtlbnR1Y2t5LWhvdXNlL9IBAA?oc=5\" target=\"_blank\">Sweeping GOP bill increasing criminal penalties, outlawing 'street camping' clears Kentucky House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "KY GOP passes resolution recognizing Jan. 6 protestors - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9uZXdzLzIwMjQvMDEvMDkvamFudWFyeS02dGgtcmVzb2x1dGlvbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9uZXdzLzIwMjQvMDEvMDkvamFudWFyeS02dGgtcmVzb2x1dGlvbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9uZXdzLzIwMjQvMDEvMDkvamFudWFyeS02dGgtcmVzb2x1dGlvbtIBAA?oc=5\" target=\"_blank\">KY GOP passes resolution recognizing Jan. 6 protestors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'School choice' bill backed by GOP leadership would allow Ky. to fund private, religious schools - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5scG0ub3JnL25ld3MvMjAyNC0wMS0yNi9zY2hvb2wtY2hvaWNlLWJpbGwtYmFja2VkLWJ5LWdvcC1sZWFkZXJzaGlwLXdvdWxkLWFsbG93LWt5LXRvLWZ1bmQtcHJpdmF0ZS1yZWxpZ2lvdXMtc2Nob29sc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy5scG0ub3JnL25ld3MvMjAyNC0wMS0yNi9zY2hvb2wtY2hvaWNlLWJpbGwtYmFja2VkLWJ5LWdvcC1sZWFkZXJzaGlwLXdvdWxkLWFsbG93LWt5LXRvLWZ1bmQtcHJpdmF0ZS1yZWxpZ2lvdXMtc2Nob29sc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 22:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5scG0ub3JnL25ld3MvMjAyNC0wMS0yNi9zY2hvb2wtY2hvaWNlLWJpbGwtYmFja2VkLWJ5LWdvcC1sZWFkZXJzaGlwLXdvdWxkLWFsbG93LWt5LXRvLWZ1bmQtcHJpdmF0ZS1yZWxpZ2lvdXMtc2Nob29sc9IBAA?oc=5\" target=\"_blank\">'School choice' bill backed by GOP leadership would allow Ky. to fund private, religious schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell meets another legacy moment - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAyLzAyL21jY29ubmVsbC1tZWV0cy1hbm90aGVyLWxlZ2FjeS1tb21lbnQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAyLzAyL21jY29ubmVsbC1tZWV0cy1hbm90aGVyLWxlZ2FjeS1tb21lbnQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 10:53:49 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAyLzAyL21jY29ubmVsbC1tZWV0cy1hbm90aGVyLWxlZ2FjeS1tb21lbnQv0gEA?oc=5\" target=\"_blank\">McConnell meets another legacy moment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Despite increase, House budget won't save Kentucky child care from 'cliff,' advocates say - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAyLzAxL2Rlc3BpdGUtaW5jcmVhc2UtaG91c2UtYnVkZ2V0LXdvbnQtc2F2ZS1rZW50dWNreS1jaGlsZC1jYXJlLWZyb20tY2xpZmYtYWR2b2NhdGVzLXNheS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAyLzAxL2Rlc3BpdGUtaW5jcmVhc2UtaG91c2UtYnVkZ2V0LXdvbnQtc2F2ZS1rZW50dWNreS1jaGlsZC1jYXJlLWZyb20tY2xpZmYtYWR2b2NhdGVzLXNheS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 22:03:41 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAyLzAxL2Rlc3BpdGUtaW5jcmVhc2UtaG91c2UtYnVkZ2V0LXdvbnQtc2F2ZS1rZW50dWNreS1jaGlsZC1jYXJlLWZyb20tY2xpZmYtYWR2b2NhdGVzLXNheS_SAQA?oc=5\" target=\"_blank\">Despite increase, House budget won't save Kentucky child care from 'cliff,' advocates say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP bill stiffening criminal penalties, targeting homeless campers clears House committee - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyNC8wMS8xOC9nb3AtYmlsbC1zdGlmZmVuaW5nLWNyaW1pbmFsLXBlbmFsdGllcy10YXJnZXRpbmctaG9tZWxlc3MtY2FtcGVycy1jbGVhcnMtaG91c2UtY29tbWl0dGVlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyNC8wMS8xOC9nb3AtYmlsbC1zdGlmZmVuaW5nLWNyaW1pbmFsLXBlbmFsdGllcy10YXJnZXRpbmctaG9tZWxlc3MtY2FtcGVycy1jbGVhcnMtaG91c2UtY29tbWl0dGVlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 02:41:39 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyNC8wMS8xOC9nb3AtYmlsbC1zdGlmZmVuaW5nLWNyaW1pbmFsLXBlbmFsdGllcy10YXJnZXRpbmctaG9tZWxlc3MtY2FtcGVycy1jbGVhcnMtaG91c2UtY29tbWl0dGVlL9IBAA?oc=5\" target=\"_blank\">GOP bill stiffening criminal penalties, targeting homeless campers clears House committee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky GOP bill would require child support for fetuses - WKMS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LndrbXMub3JnL2dvdmVybm1lbnQtcG9saXRpY3MvMjAyNC0wMS0yMy9rZW50dWNreS1nb3AtYmlsbC13b3VsZC1yZXF1aXJlLWNoaWxkLXN1cHBvcnQtZm9yLWZldHVzZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LndrbXMub3JnL2dvdmVybm1lbnQtcG9saXRpY3MvMjAyNC0wMS0yMy9rZW50dWNreS1nb3AtYmlsbC13b3VsZC1yZXF1aXJlLWNoaWxkLXN1cHBvcnQtZm9yLWZldHVzZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LndrbXMub3JnL2dvdmVybm1lbnQtcG9saXRpY3MvMjAyNC0wMS0yMy9rZW50dWNreS1nb3AtYmlsbC13b3VsZC1yZXF1aXJlLWNoaWxkLXN1cHBvcnQtZm9yLWZldHVzZXPSAQA?oc=5\" target=\"_blank\">Kentucky GOP bill would require child support for fetuses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMS</font>"
+            ],
+            "source": [
+              {
+                "_": "WKMS",
+                "$": {
+                  "url": "https://www.wkms.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Decrying 'pick-a-side politics,' Beshear responds to GOP calls for him to support Texas governor's border stand - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vYnJpZWZzL2RlY3J5aW5nLXBpY2stYS1zaWRlLXBvbGl0aWNzLWJlc2hlYXItcmVzcG9uZHMtdG8tZ29wLWNhbGxzLWZvci1oaW0tdG8tc3VwcG9ydC10ZXhhcy1nb3Zlcm5vcnMtYm9yZGVyLXN0YW5kL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vYnJpZWZzL2RlY3J5aW5nLXBpY2stYS1zaWRlLXBvbGl0aWNzLWJlc2hlYXItcmVzcG9uZHMtdG8tZ29wLWNhbGxzLWZvci1oaW0tdG8tc3VwcG9ydC10ZXhhcy1nb3Zlcm5vcnMtYm9yZGVyLXN0YW5kL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 03:22:30 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vYnJpZWZzL2RlY3J5aW5nLXBpY2stYS1zaWRlLXBvbGl0aWNzLWJlc2hlYXItcmVzcG9uZHMtdG8tZ29wLWNhbGxzLWZvci1oaW0tdG8tc3VwcG9ydC10ZXhhcy1nb3Zlcm5vcnMtYm9yZGVyLXN0YW5kL9IBAA?oc=5\" target=\"_blank\">Decrying 'pick-a-side politics,' Beshear responds to GOP calls for him to support Texas governor's border stand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "House Republicans unveil two-year state budget with over $1.7 billion in one-time spending - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS9icmllZnMvaG91c2UtcmVwdWJsaWNhbnMtdW52ZWlsLXR3by15ZWFyLXN0YXRlLWJ1ZGdldC13aXRoLW92ZXItMS03LWJpbGxpb24taW4tb25lLXRpbWUtc3BlbmRpbmcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS9icmllZnMvaG91c2UtcmVwdWJsaWNhbnMtdW52ZWlsLXR3by15ZWFyLXN0YXRlLWJ1ZGdldC13aXRoLW92ZXItMS03LWJpbGxpb24taW4tb25lLXRpbWUtc3BlbmRpbmcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS9icmllZnMvaG91c2UtcmVwdWJsaWNhbnMtdW52ZWlsLXR3by15ZWFyLXN0YXRlLWJ1ZGdldC13aXRoLW92ZXItMS03LWJpbGxpb24taW4tb25lLXRpbWUtc3BlbmRpbmcv0gEA?oc=5\" target=\"_blank\">House Republicans unveil two-year state budget with over $1.7 billion in one-time spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New $30 billion GOP budget and massive one-time spending bill clears KY House - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDk3ODA5Ny5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0OTc4MDk3Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDk3ODA5Ny5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0OTc4MDk3Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 12:53:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDk3ODA5Ny5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0OTc4MDk3Lmh0bWw?oc=5\" target=\"_blank\">New $30 billion GOP budget and massive one-time spending bill clears KY House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "DEI helps us learn about the wonderful tapestry of Kentucky and the world | Opinion - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9vcGluaW9uL29wLWVkL2FydGljbGUyODQ4MTI0NjEuaHRtbNIBPGh0dHBzOi8vYW1wLmtlbnR1Y2t5LmNvbS9vcGluaW9uL29wLWVkL2FydGljbGUyODQ4MTI0NjEuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9vcGluaW9uL29wLWVkL2FydGljbGUyODQ4MTI0NjEuaHRtbNIBPGh0dHBzOi8vYW1wLmtlbnR1Y2t5LmNvbS9vcGluaW9uL29wLWVkL2FydGljbGUyODQ4MTI0NjEuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 14:02:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9vcGluaW9uL29wLWVkL2FydGljbGUyODQ4MTI0NjEuaHRtbNIBPGh0dHBzOi8vYW1wLmtlbnR1Y2t5LmNvbS9vcGluaW9uL29wLWVkL2FydGljbGUyODQ4MTI0NjEuaHRtbA?oc=5\" target=\"_blank\">DEI helps us learn about the wonderful tapestry of Kentucky and the world | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican Party of Kentucky names new chair - Spectrum News 1"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzEyLzExL3JlcHVibGljYW4tcGFydHktb2Yta2VudHVja3ktbmFtZXMtbmV3LWNoYWly0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzEyLzExL3JlcHVibGljYW4tcGFydHktb2Yta2VudHVja3ktbmFtZXMtbmV3LWNoYWly0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20va3kvbG91aXN2aWxsZS9wb2xpdGljcy8yMDIzLzEyLzExL3JlcHVibGljYW4tcGFydHktb2Yta2VudHVja3ktbmFtZXMtbmV3LWNoYWly0gEA?oc=5\" target=\"_blank\">Republican Party of Kentucky names new chair</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News 1",
+                "$": {
+                  "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "House Republicans removed from committees last year have assignments restored - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAxLzA5L2hvdXNlLXJlcHVibGljYW5zLXJlbW92ZWQtZnJvbS1jb21taXR0ZWVzLWxhc3QteWVhci1oYXZlLWFzc2lnbm1lbnRzLXJlc3RvcmVkL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAxLzA5L2hvdXNlLXJlcHVibGljYW5zLXJlbW92ZWQtZnJvbS1jb21taXR0ZWVzLWxhc3QteWVhci1oYXZlLWFzc2lnbm1lbnRzLXJlc3RvcmVkL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Jan 2024 16:03:21 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAxLzA5L2hvdXNlLXJlcHVibGljYW5zLXJlbW92ZWQtZnJvbS1jb21taXR0ZWVzLWxhc3QteWVhci1oYXZlLWFzc2lnbm1lbnRzLXJlc3RvcmVkL9IBAA?oc=5\" target=\"_blank\">House Republicans removed from committees last year have assignments restored</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP support for Beshear key to reelection, Kentucky turnout data shows - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTEzL2dvcC1zdXBwb3J0LWZvci1iZXNoZWFyLWtleS10by1yZWVsZWN0aW9uLWtlbnR1Y2t5LXR1cm5vdXQtZGF0YS1zaG93c9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTEzL2dvcC1zdXBwb3J0LWZvci1iZXNoZWFyLWtleS10by1yZWVsZWN0aW9uLWtlbnR1Y2t5LXR1cm5vdXQtZGF0YS1zaG93c9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTEzL2dvcC1zdXBwb3J0LWZvci1iZXNoZWFyLWtleS10by1yZWVsZWN0aW9uLWtlbnR1Y2t5LXR1cm5vdXQtZGF0YS1zaG93c9IBAA?oc=5\" target=\"_blank\">GOP support for Beshear key to reelection, Kentucky turnout data shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Some Republican Party officials in Kentucky defend Jan. 6 rioters, echoing Trump rhetoric - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAxLzA4L3NvbWUtcmVwdWJsaWNhbi1wYXJ0eS1vZmZpY2lhbHMtaW4ta2VudHVja3ktZGVmZW5kLWphbi02LXJpb3RlcnMtZWNob2luZy10cnVtcC1yaGV0b3JpYy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAxLzA4L3NvbWUtcmVwdWJsaWNhbi1wYXJ0eS1vZmZpY2lhbHMtaW4ta2VudHVja3ktZGVmZW5kLWphbi02LXJpb3RlcnMtZWNob2luZy10cnVtcC1yaGV0b3JpYy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAxLzA4L3NvbWUtcmVwdWJsaWNhbi1wYXJ0eS1vZmZpY2lhbHMtaW4ta2VudHVja3ktZGVmZW5kLWphbi02LXJpb3RlcnMtZWNob2luZy10cnVtcC1yaGV0b3JpYy_SAQA?oc=5\" target=\"_blank\">Some Republican Party officials in Kentucky defend Jan. 6 rioters, echoing Trump rhetoric</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Some Republican party officials in Kentucky defend Jan. 6 rioters - Hoptown Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvc29tZS1yZXB1YmxpY2FuLXBhcnR5LW9mZmljaWFscy1pbi1rZW50dWNreS1kZWZlbmQtamFuLTYtcmlvdGVycy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvc29tZS1yZXB1YmxpY2FuLXBhcnR5LW9mZmljaWFscy1pbi1rZW50dWNreS1kZWZlbmQtamFuLTYtcmlvdGVycy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vaG9wdG93bmNocm9uaWNsZS5vcmcvc29tZS1yZXB1YmxpY2FuLXBhcnR5LW9mZmljaWFscy1pbi1rZW50dWNreS1kZWZlbmQtamFuLTYtcmlvdGVycy_SAQA?oc=5\" target=\"_blank\">Some Republican party officials in Kentucky defend Jan. 6 rioters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoptown Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "Hoptown Chronicle",
+                "$": {
+                  "url": "https://hoptownchronicle.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP bill would ban KY cities from requiring landlords to accept Section 8 vouchers. None do. - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyNC8wMS8xNy9nb3AtYmlsbC13b3VsZC1iYW4ta3ktY2l0aWVzLWZyb20tcmVxdWlyaW5nLWxhbmRsb3Jkcy10by1hY2NlcHQtc2VjdGlvbi04LXZvdWNoZXJzLW5vbmUtZG8v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyNC8wMS8xNy9nb3AtYmlsbC13b3VsZC1iYW4ta3ktY2l0aWVzLWZyb20tcmVxdWlyaW5nLWxhbmRsb3Jkcy10by1hY2NlcHQtc2VjdGlvbi04LXZvdWNoZXJzLW5vbmUtZG8v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyNC8wMS8xNy9nb3AtYmlsbC13b3VsZC1iYW4ta3ktY2l0aWVzLWZyb20tcmVxdWlyaW5nLWxhbmRsb3Jkcy10by1hY2NlcHQtc2VjdGlvbi04LXZvdWNoZXJzLW5vbmUtZG8v0gEA?oc=5\" target=\"_blank\">GOP bill would ban KY cities from requiring landlords to accept Section 8 vouchers. None do.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Schools, pensions, tax cut triggers: How Beshear and House GOP budget plans differ - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTE5L3NjaG9vbHMtcGVuc2lvbnMtdGF4LWN1dC10cmlnZ2Vycy1ob3ctYmVzaGVhci1hbmQtaG91c2UtZ29wLWJ1ZGdldC1wbGFucy1kaWZmZXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTE5L3NjaG9vbHMtcGVuc2lvbnMtdGF4LWN1dC10cmlnZ2Vycy1ob3ctYmVzaGVhci1hbmQtaG91c2UtZ29wLWJ1ZGdldC1wbGFucy1kaWZmZXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTE5L3NjaG9vbHMtcGVuc2lvbnMtdGF4LWN1dC10cmlnZ2Vycy1ob3ctYmVzaGVhci1hbmQtaG91c2UtZ29wLWJ1ZGdldC1wbGFucy1kaWZmZXLSAQA?oc=5\" target=\"_blank\">Schools, pensions, tax cut triggers: How Beshear and House GOP budget plans differ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Anti-crime bill featuring three-strikes provision wins approval from GOP-led House panel in Kentucky - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWxlZ2lzbGF0dXJlLWNyaW1lLXRocmVlLXN0cmlrZXMtZmVsb24tMWFjMzc3OGY3YTIxN2UzNzQ1YTIyZGViM2I2MDM0NjjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWxlZ2lzbGF0dXJlLWNyaW1lLXRocmVlLXN0cmlrZXMtZmVsb24tMWFjMzc3OGY3YTIxN2UzNzQ1YTIyZGViM2I2MDM0NjjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWxlZ2lzbGF0dXJlLWNyaW1lLXRocmVlLXN0cmlrZXMtZmVsb24tMWFjMzc3OGY3YTIxN2UzNzQ1YTIyZGViM2I2MDM0NjjSAQA?oc=5\" target=\"_blank\">Anti-crime bill featuring three-strikes provision wins approval from GOP-led House panel in Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans, it’s time to stop sniveling - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAxLzEyL3JlcHVibGljYW5zLWl0cy10aW1lLXRvLXN0b3Atc25pdmVsaW5nL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAxLzEyL3JlcHVibGljYW5zLWl0cy10aW1lLXRvLXN0b3Atc25pdmVsaW5nL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDI0LzAxLzEyL3JlcHVibGljYW5zLWl0cy10aW1lLXRvLXN0b3Atc25pdmVsaW5nL9IBAA?oc=5\" target=\"_blank\">Republicans, it’s time to stop sniveling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky GOP bill would require schools to tell parents if their kids are transgender - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDQxOTQ1NS5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0NDE5NDU1Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDQxOTQ1NS5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0NDE5NDU1Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDQxOTQ1NS5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0NDE5NDU1Lmh0bWw?oc=5\" target=\"_blank\">Kentucky GOP bill would require schools to tell parents if their kids are transgender</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Democratic governor and House Republicans clash on teacher raises - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2tlbnR1Y2t5LWRlbW9jcmF0aWMtZ292ZXJub3ItaG91c2UtcmVwdWJsaWNhbnMtY2xhc2gtdGVhY2hlci1yYWlzZXPSAWhodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9rZW50dWNreS1kZW1vY3JhdGljLWdvdmVybm9yLWhvdXNlLXJlcHVibGljYW5zLWNsYXNoLXRlYWNoZXItcmFpc2VzLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2tlbnR1Y2t5LWRlbW9jcmF0aWMtZ292ZXJub3ItaG91c2UtcmVwdWJsaWNhbnMtY2xhc2gtdGVhY2hlci1yYWlzZXPSAWhodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9rZW50dWNreS1kZW1vY3JhdGljLWdvdmVybm9yLWhvdXNlLXJlcHVibGljYW5zLWNsYXNoLXRlYWNoZXItcmFpc2VzLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2tlbnR1Y2t5LWRlbW9jcmF0aWMtZ292ZXJub3ItaG91c2UtcmVwdWJsaWNhbnMtY2xhc2gtdGVhY2hlci1yYWlzZXPSAWhodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9rZW50dWNreS1kZW1vY3JhdGljLWdvdmVybm9yLWhvdXNlLXJlcHVibGljYW5zLWNsYXNoLXRlYWNoZXItcmFpc2VzLmFtcA?oc=5\" target=\"_blank\">Kentucky Democratic governor and House Republicans clash on teacher raises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky GOP's New Bill Decriminalizes Use of Deadly Force Against the Unhoused - Truthout"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdHJ1dGhvdXQub3JnL2FydGljbGVzL2tlbnR1Y2t5LWdvcHMtbmV3LWJpbGwtZGVjcmltaW5hbGl6ZXMtdXNlLW9mLWRlYWRseS1mb3JjZS1hZ2FpbnN0LXRoZS11bmhvdXNlZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vdHJ1dGhvdXQub3JnL2FydGljbGVzL2tlbnR1Y2t5LWdvcHMtbmV3LWJpbGwtZGVjcmltaW5hbGl6ZXMtdXNlLW9mLWRlYWRseS1mb3JjZS1hZ2FpbnN0LXRoZS11bmhvdXNlZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdHJ1dGhvdXQub3JnL2FydGljbGVzL2tlbnR1Y2t5LWdvcHMtbmV3LWJpbGwtZGVjcmltaW5hbGl6ZXMtdXNlLW9mLWRlYWRseS1mb3JjZS1hZ2FpbnN0LXRoZS11bmhvdXNlZC_SAQA?oc=5\" target=\"_blank\">Kentucky GOP's New Bill Decriminalizes Use of Deadly Force Against the Unhoused</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Truthout</font>"
+            ],
+            "source": [
+              {
+                "_": "Truthout",
+                "$": {
+                  "url": "https://truthout.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Teacher sexual misconduct a problem in Kentucky schools. New bill wants to add safeguards - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDMzMDk5NC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzMwOTk0Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDMzMDk5NC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzMwOTk0Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDMzMDk5NC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzMwOTk0Lmh0bWw?oc=5\" target=\"_blank\">Teacher sexual misconduct a problem in Kentucky schools. New bill wants to add safeguards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Gov. Andy Beshear, Republicans face off over state job cuts - Courier Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yOS9hbmR5LWJlc2hlYXIta2VudHVja3ktZ29wLXN0YXRlLWpvYnMtbGF5b2Zmcy1zdGF0ZS1idWRnZXQtMjAyNC83MjI3NDgxMDAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiigFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yOS9hbmR5LWJlc2hlYXIta2VudHVja3ktZ29wLXN0YXRlLWpvYnMtbGF5b2Zmcy1zdGF0ZS1idWRnZXQtMjAyNC83MjI3NDgxMDAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jan 2024 16:59:43 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yOS9hbmR5LWJlc2hlYXIta2VudHVja3ktZ29wLXN0YXRlLWpvYnMtbGF5b2Zmcy1zdGF0ZS1idWRnZXQtMjAyNC83MjI3NDgxMDAwNy_SAQA?oc=5\" target=\"_blank\">Kentucky Gov. Andy Beshear, Republicans face off over state job cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courier Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Courier Journal",
+                "$": {
+                  "url": "https://www.courier-journal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democrats lament GOP anti-crime bill as the 'suffer Ky. act' as it passes state House - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmxwbS5vcmcvMjAyNC0wMS0yNi9kZW1vY3JhdHMtbGFtZW50LWdvcC1hbnRpLWNyaW1lLWJpbGwtYXMtdGhlLXN1ZmZlci1reS1hY3QtYXMtaXQtcGFzc2VzLXN0YXRlLWhvdXNl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmxwbS5vcmcvMjAyNC0wMS0yNi9kZW1vY3JhdHMtbGFtZW50LWdvcC1hbnRpLWNyaW1lLWJpbGwtYXMtdGhlLXN1ZmZlci1reS1hY3QtYXMtaXQtcGFzc2VzLXN0YXRlLWhvdXNl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 11:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmxwbS5vcmcvMjAyNC0wMS0yNi9kZW1vY3JhdHMtbGFtZW50LWdvcC1hbnRpLWNyaW1lLWJpbGwtYXMtdGhlLXN1ZmZlci1reS1hY3QtYXMtaXQtcGFzc2VzLXN0YXRlLWhvdXNl0gEA?oc=5\" target=\"_blank\">Democrats lament GOP anti-crime bill as the 'suffer Ky. act' as it passes state House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Republicans lining up with Texas governor in border fight with Biden - Richmond Register"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5yaWNobW9uZHJlZ2lzdGVyLmNvbS9rZW50dWNreS9rZW50dWNreS1yZXB1YmxpY2Fucy1saW5pbmctdXAtd2l0aC10ZXhhcy1nb3Zlcm5vci1pbi1ib3JkZXItZmlnaHQtd2l0aC1iaWRlbi9hcnRpY2xlXzUwNGM1NGM2LWJmYTItMTFlZS1iM2Q1LTRmM2NhMDA5NjNiMi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqQFodHRwczovL3d3dy5yaWNobW9uZHJlZ2lzdGVyLmNvbS9rZW50dWNreS9rZW50dWNreS1yZXB1YmxpY2Fucy1saW5pbmctdXAtd2l0aC10ZXhhcy1nb3Zlcm5vci1pbi1ib3JkZXItZmlnaHQtd2l0aC1iaWRlbi9hcnRpY2xlXzUwNGM1NGM2LWJmYTItMTFlZS1iM2Q1LTRmM2NhMDA5NjNiMi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 19:03:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5yaWNobW9uZHJlZ2lzdGVyLmNvbS9rZW50dWNreS9rZW50dWNreS1yZXB1YmxpY2Fucy1saW5pbmctdXAtd2l0aC10ZXhhcy1nb3Zlcm5vci1pbi1ib3JkZXItZmlnaHQtd2l0aC1iaWRlbi9hcnRpY2xlXzUwNGM1NGM2LWJmYTItMTFlZS1iM2Q1LTRmM2NhMDA5NjNiMi5odG1s0gEA?oc=5\" target=\"_blank\">Kentucky Republicans lining up with Texas governor in border fight with Biden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Richmond Register</font>"
+            ],
+            "source": [
+              {
+                "_": "Richmond Register",
+                "$": {
+                  "url": "https://www.richmondregister.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Louisville GOP anti-crime bill heard in interim committee ahead of legislative session - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDIzLzEyLzE1L2xvdWlzdmlsbGUtZ29wLWFudGktY3JpbWUtYmlsbC1oZWFyZC1pbi1jb21taXR0ZWUtYWhlYWQtb2YtbGVnaXNsYXRpdmUtc2Vzc2lvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDIzLzEyLzE1L2xvdWlzdmlsbGUtZ29wLWFudGktY3JpbWUtYmlsbC1oZWFyZC1pbi1jb21taXR0ZWUtYWhlYWQtb2YtbGVnaXNsYXRpdmUtc2Vzc2lvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDIzLzEyLzE1L2xvdWlzdmlsbGUtZ29wLWFudGktY3JpbWUtYmlsbC1oZWFyZC1pbi1jb21taXR0ZWUtYWhlYWQtb2YtbGVnaXNsYXRpdmUtc2Vzc2lvbi_SAQA?oc=5\" target=\"_blank\">Louisville GOP anti-crime bill heard in interim committee ahead of legislative session</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky House GOP budget differs with Democratic governor over how to award teacher pay raises - WHAS11.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitQFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9wb2xpdGljcy9rZW50dWNreS1ob3VzZS1nb3AtYnVkZ2V0LWRlbW9jcmF0aWMtZ292ZXJub3ItdGVhY2hlci1wYXktcmFpc2VzLXB1YmxpYy1wZW5zaW9ucy1pbmZyYXN0cnVjdHVyZS80MTctOWRiYTczMWEtN2I3MC00YWI2LTk2MTYtNTllYTU2NGY2NTA40gG5AWh0dHBzOi8vd3d3LndoYXMxMS5jb20vYW1wL2FydGljbGUvbmV3cy9wb2xpdGljcy9rZW50dWNreS1ob3VzZS1nb3AtYnVkZ2V0LWRlbW9jcmF0aWMtZ292ZXJub3ItdGVhY2hlci1wYXktcmFpc2VzLXB1YmxpYy1wZW5zaW9ucy1pbmZyYXN0cnVjdHVyZS80MTctOWRiYTczMWEtN2I3MC00YWI2LTk2MTYtNTllYTU2NGY2NTA4?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitQFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9wb2xpdGljcy9rZW50dWNreS1ob3VzZS1nb3AtYnVkZ2V0LWRlbW9jcmF0aWMtZ292ZXJub3ItdGVhY2hlci1wYXktcmFpc2VzLXB1YmxpYy1wZW5zaW9ucy1pbmZyYXN0cnVjdHVyZS80MTctOWRiYTczMWEtN2I3MC00YWI2LTk2MTYtNTllYTU2NGY2NTA40gG5AWh0dHBzOi8vd3d3LndoYXMxMS5jb20vYW1wL2FydGljbGUvbmV3cy9wb2xpdGljcy9rZW50dWNreS1ob3VzZS1nb3AtYnVkZ2V0LWRlbW9jcmF0aWMtZ292ZXJub3ItdGVhY2hlci1wYXktcmFpc2VzLXB1YmxpYy1wZW5zaW9ucy1pbmZyYXN0cnVjdHVyZS80MTctOWRiYTczMWEtN2I3MC00YWI2LTk2MTYtNTllYTU2NGY2NTA4",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitQFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9wb2xpdGljcy9rZW50dWNreS1ob3VzZS1nb3AtYnVkZ2V0LWRlbW9jcmF0aWMtZ292ZXJub3ItdGVhY2hlci1wYXktcmFpc2VzLXB1YmxpYy1wZW5zaW9ucy1pbmZyYXN0cnVjdHVyZS80MTctOWRiYTczMWEtN2I3MC00YWI2LTk2MTYtNTllYTU2NGY2NTA40gG5AWh0dHBzOi8vd3d3LndoYXMxMS5jb20vYW1wL2FydGljbGUvbmV3cy9wb2xpdGljcy9rZW50dWNreS1ob3VzZS1nb3AtYnVkZ2V0LWRlbW9jcmF0aWMtZ292ZXJub3ItdGVhY2hlci1wYXktcmFpc2VzLXB1YmxpYy1wZW5zaW9ucy1pbmZyYXN0cnVjdHVyZS80MTctOWRiYTczMWEtN2I3MC00YWI2LTk2MTYtNTllYTU2NGY2NTA4?oc=5\" target=\"_blank\">Kentucky House GOP budget differs with Democratic governor over how to award teacher pay raises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHAS11.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WHAS11.com",
+                "$": {
+                  "url": "https://www.whas11.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Andy Beshear's allies form group to promote the Democrat's agenda in GOP-leaning Kentucky - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTE3L2dvdi1hbmR5LWJlc2hlYXJzLWFsbGllcy1mb3JtLWdyb3VwLXRvLXByb21vdGUtdGhlLWRlbW9jcmF0cy1hZ2VuZGEtaW4tZ29wLWxlYW5pbmcta2VudHVja3nSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTE3L2dvdi1hbmR5LWJlc2hlYXJzLWFsbGllcy1mb3JtLWdyb3VwLXRvLXByb21vdGUtdGhlLWRlbW9jcmF0cy1hZ2VuZGEtaW4tZ29wLWxlYW5pbmcta2VudHVja3nSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTE3L2dvdi1hbmR5LWJlc2hlYXJzLWFsbGllcy1mb3JtLWdyb3VwLXRvLXByb21vdGUtdGhlLWRlbW9jcmF0cy1hZ2VuZGEtaW4tZ29wLWxlYW5pbmcta2VudHVja3nSAQA?oc=5\" target=\"_blank\">Gov. Andy Beshear's allies form group to promote the Democrat's agenda in GOP-leaning Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Republican chairman is stepping down after eventful 8-year tenure - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LXJlcHVibGljYW4tcGFydHktZWVjZDU3ZTA2NDM3YWE2OTEzNDMxOGY3YTg5MmZmZWXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LXJlcHVibGljYW4tcGFydHktZWVjZDU3ZTA2NDM3YWE2OTEzNDMxOGY3YTg5MmZmZWXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LXJlcHVibGljYW4tcGFydHktZWVjZDU3ZTA2NDM3YWE2OTEzNDMxOGY3YTg5MmZmZWXSAQA?oc=5\" target=\"_blank\">Kentucky Republican chairman is stepping down after eventful 8-year tenure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Republicans file bills to protect kids from ‘sexually explicit’ performances - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDg2NjU0Ni5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0ODY2NTQ2Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDg2NjU0Ni5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0ODY2NTQ2Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 21:08:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDg2NjU0Ni5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0ODY2NTQ2Lmh0bWw?oc=5\" target=\"_blank\">Kentucky Republicans file bills to protect kids from ‘sexually explicit’ performances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Just remember – I told you so. - Forward Kentucky"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vZm9yd2FyZGt5LmNvbS9qdXN0LXJlbWVtYmVyLWktdG9sZC15b3Utc28v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMmh0dHBzOi8vZm9yd2FyZGt5LmNvbS9qdXN0LXJlbWVtYmVyLWktdG9sZC15b3Utc28v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 18:02:05 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vZm9yd2FyZGt5LmNvbS9qdXN0LXJlbWVtYmVyLWktdG9sZC15b3Utc28v0gEA?oc=5\" target=\"_blank\">Just remember – I told you so.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forward Kentucky</font>"
+            ],
+            "source": [
+              {
+                "_": "Forward Kentucky",
+                "$": {
+                  "url": "https://forwardky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Catastrophic': Kentucky's secretary of state pushes back against bill seeking to end early voting - WHAS11.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9wb2xpdGljcy9iaWxsLWVuZC1lYXJseS12b3Rpbmcta2VudHVja3ktZ29wLWRpdmlzaW9uLXNlY3JldGFyeS1vZi1zdGF0ZS1taWNoYWVsLWFkYW1zLzQxNy1jZGI1Nzk3Zi03MzgzLTQ5ZjctYWY5MS0yMzY2NTFlNjZkZTbSAaYBaHR0cHM6Ly93d3cud2hhczExLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL3BvbGl0aWNzL2JpbGwtZW5kLWVhcmx5LXZvdGluZy1rZW50dWNreS1nb3AtZGl2aXNpb24tc2VjcmV0YXJ5LW9mLXN0YXRlLW1pY2hhZWwtYWRhbXMvNDE3LWNkYjU3OTdmLTczODMtNDlmNy1hZjkxLTIzNjY1MWU2NmRlNg?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiogFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9wb2xpdGljcy9iaWxsLWVuZC1lYXJseS12b3Rpbmcta2VudHVja3ktZ29wLWRpdmlzaW9uLXNlY3JldGFyeS1vZi1zdGF0ZS1taWNoYWVsLWFkYW1zLzQxNy1jZGI1Nzk3Zi03MzgzLTQ5ZjctYWY5MS0yMzY2NTFlNjZkZTbSAaYBaHR0cHM6Ly93d3cud2hhczExLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL3BvbGl0aWNzL2JpbGwtZW5kLWVhcmx5LXZvdGluZy1rZW50dWNreS1nb3AtZGl2aXNpb24tc2VjcmV0YXJ5LW9mLXN0YXRlLW1pY2hhZWwtYWRhbXMvNDE3LWNkYjU3OTdmLTczODMtNDlmNy1hZjkxLTIzNjY1MWU2NmRlNg",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 20 Jan 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy53aGFzMTEuY29tL2FydGljbGUvbmV3cy9wb2xpdGljcy9iaWxsLWVuZC1lYXJseS12b3Rpbmcta2VudHVja3ktZ29wLWRpdmlzaW9uLXNlY3JldGFyeS1vZi1zdGF0ZS1taWNoYWVsLWFkYW1zLzQxNy1jZGI1Nzk3Zi03MzgzLTQ5ZjctYWY5MS0yMzY2NTFlNjZkZTbSAaYBaHR0cHM6Ly93d3cud2hhczExLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL3BvbGl0aWNzL2JpbGwtZW5kLWVhcmx5LXZvdGluZy1rZW50dWNreS1nb3AtZGl2aXNpb24tc2VjcmV0YXJ5LW9mLXN0YXRlLW1pY2hhZWwtYWRhbXMvNDE3LWNkYjU3OTdmLTczODMtNDlmNy1hZjkxLTIzNjY1MWU2NmRlNg?oc=5\" target=\"_blank\">'Catastrophic': Kentucky's secretary of state pushes back against bill seeking to end early voting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHAS11.com</font>"
+            ],
+            "source": [
+              {
+                "_": "WHAS11.com",
+                "$": {
+                  "url": "https://www.whas11.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP supermajority: Silly, unserious, unconcerned by Kentuckians' real problems - Forward Kentucky"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZm9yd2FyZGt5LmNvbS9nb3Atc3VwZXJtYWpvcml0eS1zaWxseS11bnNlcmlvdXMtdW5jb25jZXJuZWQtYnkta2VudHVja2lhbnMtcmVhbC1wcm9ibGVtcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vZm9yd2FyZGt5LmNvbS9nb3Atc3VwZXJtYWpvcml0eS1zaWxseS11bnNlcmlvdXMtdW5jb25jZXJuZWQtYnkta2VudHVja2lhbnMtcmVhbC1wcm9ibGVtcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 14:04:50 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZm9yd2FyZGt5LmNvbS9nb3Atc3VwZXJtYWpvcml0eS1zaWxseS11bnNlcmlvdXMtdW5jb25jZXJuZWQtYnkta2VudHVja2lhbnMtcmVhbC1wcm9ibGVtcy_SAQA?oc=5\" target=\"_blank\">GOP supermajority: Silly, unserious, unconcerned by Kentuckians' real problems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forward Kentucky</font>"
+            ],
+            "source": [
+              {
+                "_": "Forward Kentucky",
+                "$": {
+                  "url": "https://forwardky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Winners & losers in KY House GOP budget proposal - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDM0NzQ4OS5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzQ3NDg5Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDM0NzQ4OS5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzQ3NDg5Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDM0NzQ4OS5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzQ3NDg5Lmh0bWw?oc=5\" target=\"_blank\">Winners & losers in KY House GOP budget proposal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Takeaways from elections in Virginia, Ohio, Kentucky and more - CNN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8wNy9wb2xpdGljcy90YWtlYXdheXMtZWxlY3Rpb24tZGF5L2luZGV4Lmh0bWzSAU1odHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzA3L3BvbGl0aWNzL3Rha2Vhd2F5cy1lbGVjdGlvbi1kYXkvaW5kZXguaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8wNy9wb2xpdGljcy90YWtlYXdheXMtZWxlY3Rpb24tZGF5L2luZGV4Lmh0bWzSAU1odHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzA3L3BvbGl0aWNzL3Rha2Vhd2F5cy1lbGVjdGlvbi1kYXkvaW5kZXguaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8wNy9wb2xpdGljcy90YWtlYXdheXMtZWxlY3Rpb24tZGF5L2luZGV4Lmh0bWzSAU1odHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzA3L3BvbGl0aWNzL3Rha2Vhd2F5cy1lbGVjdGlvbi1kYXkvaW5kZXguaHRtbA?oc=5\" target=\"_blank\">Takeaways from elections in Virginia, Ohio, Kentucky and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+            ],
+            "source": [
+              {
+                "_": "CNN",
+                "$": {
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ky. AG and other Republicans support Texas Gov.'s 'right of self-defense' on border - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTI2L2t5LWFnLWFuZC1vdGhlci1yZXB1YmxpY2Fucy1zdXBwb3J0LXRleGFzLWdvdi1zLXJpZ2h0LW9mLXNlbGYtZGVmZW5zZS1vbi1ib3JkZXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTI2L2t5LWFnLWFuZC1vdGhlci1yZXB1YmxpY2Fucy1zdXBwb3J0LXRleGFzLWdvdi1zLXJpZ2h0LW9mLXNlbGYtZGVmZW5zZS1vbi1ib3JkZXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTI2L2t5LWFnLWFuZC1vdGhlci1yZXB1YmxpY2Fucy1zdXBwb3J0LXRleGFzLWdvdi1zLXJpZ2h0LW9mLXNlbGYtZGVmZW5zZS1vbi1ib3JkZXLSAQA?oc=5\" target=\"_blank\">Ky. AG and other Republicans support Texas Gov.'s 'right of self-defense' on border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democratic Gov. Andy Beshear reelected to second term in Kentucky, overcoming state’s GOP dominance - PBS NewsHour"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL3BvbGl0aWNzL2RlbW9jcmF0aWMtZ292LWFuZHktYmVzaGVhci1yZWVsZWN0ZWQtdG8tc2Vjb25kLXRlcm0taW4ta2VudHVja3ktb3ZlcmNvbWluZy1zdGF0ZXMtZ29wLWRvbWluYW5jZdIBigFodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL2FtcC9wb2xpdGljcy9kZW1vY3JhdGljLWdvdi1hbmR5LWJlc2hlYXItcmVlbGVjdGVkLXRvLXNlY29uZC10ZXJtLWluLWtlbnR1Y2t5LW92ZXJjb21pbmctc3RhdGVzLWdvcC1kb21pbmFuY2U?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL3BvbGl0aWNzL2RlbW9jcmF0aWMtZ292LWFuZHktYmVzaGVhci1yZWVsZWN0ZWQtdG8tc2Vjb25kLXRlcm0taW4ta2VudHVja3ktb3ZlcmNvbWluZy1zdGF0ZXMtZ29wLWRvbWluYW5jZdIBigFodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL2FtcC9wb2xpdGljcy9kZW1vY3JhdGljLWdvdi1hbmR5LWJlc2hlYXItcmVlbGVjdGVkLXRvLXNlY29uZC10ZXJtLWluLWtlbnR1Y2t5LW92ZXJjb21pbmctc3RhdGVzLWdvcC1kb21pbmFuY2U",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL3BvbGl0aWNzL2RlbW9jcmF0aWMtZ292LWFuZHktYmVzaGVhci1yZWVsZWN0ZWQtdG8tc2Vjb25kLXRlcm0taW4ta2VudHVja3ktb3ZlcmNvbWluZy1zdGF0ZXMtZ29wLWRvbWluYW5jZdIBigFodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL2FtcC9wb2xpdGljcy9kZW1vY3JhdGljLWdvdi1hbmR5LWJlc2hlYXItcmVlbGVjdGVkLXRvLXNlY29uZC10ZXJtLWluLWtlbnR1Y2t5LW92ZXJjb21pbmctc3RhdGVzLWdvcC1kb21pbmFuY2U?oc=5\" target=\"_blank\">Democratic Gov. Andy Beshear reelected to second term in Kentucky, overcoming state’s GOP dominance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS NewsHour</font>"
+            ],
+            "source": [
+              {
+                "_": "PBS NewsHour",
+                "$": {
+                  "url": "https://www.pbs.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "House Bill 5, Safer Kentucky Act, advances in General Assembly 2024 - Courier Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yNi9rZW50dWNreS1sZWdpc2xhdHVyZS1zYWZlci1rZW50dWNreS1hY3QtaG91c2UtYmlsbC01LWFkdmFuY2VzLzcyMzM2OTU2MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiQFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yNi9rZW50dWNreS1sZWdpc2xhdHVyZS1zYWZlci1rZW50dWNreS1hY3QtaG91c2UtYmlsbC01LWFkdmFuY2VzLzcyMzM2OTU2MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 10:34:44 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yNi9rZW50dWNreS1sZWdpc2xhdHVyZS1zYWZlci1rZW50dWNreS1hY3QtaG91c2UtYmlsbC01LWFkdmFuY2VzLzcyMzM2OTU2MDA3L9IBAA?oc=5\" target=\"_blank\">House Bill 5, Safer Kentucky Act, advances in General Assembly 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courier Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Courier Journal",
+                "$": {
+                  "url": "https://www.courier-journal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democratic Gov. Andy Beshear calls for unity in GOP-leaning Kentucky to uplift economy, education - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWdvdmVybm9yLWJlc2hlYXItc3BlZWNoLXN0YXRlLWNvbW1vbndlYWx0aC0xZTcyNTk0YjI1MjU1OGRhMmIyYjNhOWZiNmJiMGRmOdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWdvdmVybm9yLWJlc2hlYXItc3BlZWNoLXN0YXRlLWNvbW1vbndlYWx0aC0xZTcyNTk0YjI1MjU1OGRhMmIyYjNhOWZiNmJiMGRmOdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWdvdmVybm9yLWJlc2hlYXItc3BlZWNoLXN0YXRlLWNvbW1vbndlYWx0aC0xZTcyNTk0YjI1MjU1OGRhMmIyYjNhOWZiNmJiMGRmOdIBAA?oc=5\" target=\"_blank\">Democratic Gov. Andy Beshear calls for unity in GOP-leaning Kentucky to uplift economy, education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Republican Party chair to step down after 8 years of growth - WKMS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LndrbXMub3JnL2dvdmVybm1lbnQtcG9saXRpY3MvMjAyMy0xMS0yOC9rZW50dWNreS1yZXB1YmxpY2FuLXBhcnR5LWNoYWlyLXRvLXN0ZXAtZG93bi1hZnRlci04LXllYXJzLW9mLWdyb3d0aNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LndrbXMub3JnL2dvdmVybm1lbnQtcG9saXRpY3MvMjAyMy0xMS0yOC9rZW50dWNreS1yZXB1YmxpY2FuLXBhcnR5LWNoYWlyLXRvLXN0ZXAtZG93bi1hZnRlci04LXllYXJzLW9mLWdyb3d0aNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LndrbXMub3JnL2dvdmVybm1lbnQtcG9saXRpY3MvMjAyMy0xMS0yOC9rZW50dWNreS1yZXB1YmxpY2FuLXBhcnR5LWNoYWlyLXRvLXN0ZXAtZG93bi1hZnRlci04LXllYXJzLW9mLWdyb3d0aNIBAA?oc=5\" target=\"_blank\">Kentucky Republican Party chair to step down after 8 years of growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMS</font>"
+            ],
+            "source": [
+              {
+                "_": "WKMS",
+                "$": {
+                  "url": "https://www.wkms.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "KY state GOP resolution claims January 6 defendants 'wrongfully held' - LEX 18 News - Lexington, KY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5sZXgxOC5jb20vbmV3cy9zdGF0ZS1vZi10aGUtY29tbW9ud2VhbHRoL2t5LXN0YXRlLWdvcC1yZXNvbHV0aW9uLWNsYWltcy1qYW51YXJ5LTYtZGVmZW5kYW50cy13cm9uZ2Z1bGx5LWhlbGQtd2l0aG91dC1kdWUtcHJvY2Vzc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5sZXgxOC5jb20vbmV3cy9zdGF0ZS1vZi10aGUtY29tbW9ud2VhbHRoL2t5LXN0YXRlLWdvcC1yZXNvbHV0aW9uLWNsYWltcy1qYW51YXJ5LTYtZGVmZW5kYW50cy13cm9uZ2Z1bGx5LWhlbGQtd2l0aG91dC1kdWUtcHJvY2Vzc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5sZXgxOC5jb20vbmV3cy9zdGF0ZS1vZi10aGUtY29tbW9ud2VhbHRoL2t5LXN0YXRlLWdvcC1yZXNvbHV0aW9uLWNsYWltcy1qYW51YXJ5LTYtZGVmZW5kYW50cy13cm9uZ2Z1bGx5LWhlbGQtd2l0aG91dC1kdWUtcHJvY2Vzc9IBAA?oc=5\" target=\"_blank\">KY state GOP resolution claims January 6 defendants 'wrongfully held'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LEX 18 News - Lexington, KY</font>"
+            ],
+            "source": [
+              {
+                "_": "LEX 18 News - Lexington, KY",
+                "$": {
+                  "url": "https://www.lex18.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky election results: Andy Beshear wins governor race - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LXByaW1hcnktZ292ZXJub3JzLXJhY2UtZWxlY3Rpb24tMjAyMy1lOGRmNDVjZDM5NzhjZTVhMTY5MWJhNDQ3Yzg0YmFmY9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LXByaW1hcnktZ292ZXJub3JzLXJhY2UtZWxlY3Rpb24tMjAyMy1lOGRmNDVjZDM5NzhjZTVhMTY5MWJhNDQ3Yzg0YmFmY9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LXByaW1hcnktZ292ZXJub3JzLXJhY2UtZWxlY3Rpb24tMjAyMy1lOGRmNDVjZDM5NzhjZTVhMTY5MWJhNDQ3Yzg0YmFmY9IBAA?oc=5\" target=\"_blank\">Kentucky election results: Andy Beshear wins governor race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Three things we learned from the 2023 elections and the GOP debate | Brookings - Brookings Institution"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvdGhyZWUtdGhpbmdzLXdlLWxlYXJuZWQtZnJvbS10aGUtMjAyMy1lbGVjdGlvbnMtYW5kLXRoZS1nb3AtZGViYXRlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvdGhyZWUtdGhpbmdzLXdlLWxlYXJuZWQtZnJvbS10aGUtMjAyMy1lbGVjdGlvbnMtYW5kLXRoZS1nb3AtZGViYXRlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvdGhyZWUtdGhpbmdzLXdlLWxlYXJuZWQtZnJvbS10aGUtMjAyMy1lbGVjdGlvbnMtYW5kLXRoZS1nb3AtZGViYXRlL9IBAA?oc=5\" target=\"_blank\">Three things we learned from the 2023 elections and the GOP debate | Brookings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brookings Institution</font>"
+            ],
+            "source": [
+              {
+                "_": "Brookings Institution",
+                "$": {
+                  "url": "https://www.brookings.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans, Democrats finalize candidate lineups for Kentucky elections in 2024 - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWVsZWN0aW9uLTRlZGFlMjU5YTUzZDk5OTcxNDk0OTc5M2YzMDdlNGNl0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWVsZWN0aW9uLTRlZGFlMjU5YTUzZDk5OTcxNDk0OTc5M2YzMDdlNGNl0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 05 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWVsZWN0aW9uLTRlZGFlMjU5YTUzZDk5OTcxNDk0OTc5M2YzMDdlNGNl0gEA?oc=5\" target=\"_blank\">Republicans, Democrats finalize candidate lineups for Kentucky elections in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Michael Adams: Republican message is wrong; tripping up GOP - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MTkyNzcyOC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgxOTI3NzI4Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MTkyNzcyOC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgxOTI3NzI4Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MTkyNzcyOC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgxOTI3NzI4Lmh0bWw?oc=5\" target=\"_blank\">Michael Adams: Republican message is wrong; tripping up GOP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Democratic Gov. Andy Beshear rips into spending plan offered by House Republicans in Kentucky - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWJ1ZGdldC1nb3Zlcm5vci1zdXJwbHVzLTNlZTUwNDIyYjViODE4NGJhMTYxMDNjMmM2ZGE2MTIy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWJ1ZGdldC1nb3Zlcm5vci1zdXJwbHVzLTNlZTUwNDIyYjViODE4NGJhMTYxMDNjMmM2ZGE2MTIy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWJ1ZGdldC1nb3Zlcm5vci1zdXJwbHVzLTNlZTUwNDIyYjViODE4NGJhMTYxMDNjMmM2ZGE2MTIy0gEA?oc=5\" target=\"_blank\">Democratic Gov. Andy Beshear rips into spending plan offered by House Republicans in Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Republicans Aim to Legalize 'Force' Against Homeless Trespassers - Newsweek"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9rZW50dWNreS1yZXB1YmxpY2Fucy1sZWdhbGl6ZS1mb3JjZS1hZ2FpbnN0LWhvbWVsZXNzLXRyZXNwYXNzZXJzLTE4NjMwMDXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9rZW50dWNreS1yZXB1YmxpY2Fucy1sZWdhbGl6ZS1mb3JjZS1hZ2FpbnN0LWhvbWVsZXNzLXRyZXNwYXNzZXJzLTE4NjMwMDXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9rZW50dWNreS1yZXB1YmxpY2Fucy1sZWdhbGl6ZS1mb3JjZS1hZ2FpbnN0LWhvbWVsZXNzLXRyZXNwYXNzZXJzLTE4NjMwMDXSAQA?oc=5\" target=\"_blank\">Kentucky Republicans Aim to Legalize 'Force' Against Homeless Trespassers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>"
+            ],
+            "source": [
+              {
+                "_": "Newsweek",
+                "$": {
+                  "url": "https://www.newsweek.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'A complete failure': Senate Republicans on a punishing election night - ABC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvY29tcGxldGUtZmFpbHVyZS1zZW5hdGUtcmVwdWJsaWNhbnMtcHVuaXNoaW5nLWVsZWN0aW9uLW5pZ2h0L3N0b3J5P2lkPTEwNDczMDQ2OdIBc2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL2NvbXBsZXRlLWZhaWx1cmUtc2VuYXRlLXJlcHVibGljYW5zLXB1bmlzaGluZy1lbGVjdGlvbi1uaWdodC9zdG9yeT9pZD0xMDQ3MzA0Njk?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvY29tcGxldGUtZmFpbHVyZS1zZW5hdGUtcmVwdWJsaWNhbnMtcHVuaXNoaW5nLWVsZWN0aW9uLW5pZ2h0L3N0b3J5P2lkPTEwNDczMDQ2OdIBc2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL2NvbXBsZXRlLWZhaWx1cmUtc2VuYXRlLXJlcHVibGljYW5zLXB1bmlzaGluZy1lbGVjdGlvbi1uaWdodC9zdG9yeT9pZD0xMDQ3MzA0Njk",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvY29tcGxldGUtZmFpbHVyZS1zZW5hdGUtcmVwdWJsaWNhbnMtcHVuaXNoaW5nLWVsZWN0aW9uLW5pZ2h0L3N0b3J5P2lkPTEwNDczMDQ2OdIBc2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL2NvbXBsZXRlLWZhaWx1cmUtc2VuYXRlLXJlcHVibGljYW5zLXB1bmlzaGluZy1lbGVjdGlvbi1uaWdodC9zdG9yeT9pZD0xMDQ3MzA0Njk?oc=5\" target=\"_blank\">'A complete failure': Senate Republicans on a punishing election night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC News",
+                "$": {
+                  "url": "https://abcnews.go.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Some Ky. superintendents express concerns over House GOP budget plan - WKYT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LndreXQuY29tLzIwMjQvMDEvMzAvc29tZS1reS1zdXBlcmludGVuZGVudHMtZXhwcmVzcy1jb25jZXJucy1vdmVyLWhvdXNlLWdvcC1idWRnZXQtcGxhbi_SAXNodHRwczovL3d3dy53a3l0LmNvbS8yMDI0LzAxLzMwL3NvbWUta3ktc3VwZXJpbnRlbmRlbnRzLWV4cHJlc3MtY29uY2VybnMtb3Zlci1ob3VzZS1nb3AtYnVkZ2V0LXBsYW4vP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LndreXQuY29tLzIwMjQvMDEvMzAvc29tZS1reS1zdXBlcmludGVuZGVudHMtZXhwcmVzcy1jb25jZXJucy1vdmVyLWhvdXNlLWdvcC1idWRnZXQtcGxhbi_SAXNodHRwczovL3d3dy53a3l0LmNvbS8yMDI0LzAxLzMwL3NvbWUta3ktc3VwZXJpbnRlbmRlbnRzLWV4cHJlc3MtY29uY2VybnMtb3Zlci1ob3VzZS1nb3AtYnVkZ2V0LXBsYW4vP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 20:43:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LndreXQuY29tLzIwMjQvMDEvMzAvc29tZS1reS1zdXBlcmludGVuZGVudHMtZXhwcmVzcy1jb25jZXJucy1vdmVyLWhvdXNlLWdvcC1idWRnZXQtcGxhbi_SAXNodHRwczovL3d3dy53a3l0LmNvbS8yMDI0LzAxLzMwL3NvbWUta3ktc3VwZXJpbnRlbmRlbnRzLWV4cHJlc3MtY29uY2VybnMtb3Zlci1ob3VzZS1nb3AtYnVkZ2V0LXBsYW4vP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">Some Ky. superintendents express concerns over House GOP budget plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKYT</font>"
+            ],
+            "source": [
+              {
+                "_": "WKYT",
+                "$": {
+                  "url": "https://www.wkyt.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "KY superintendents say GOP budget won’t help attract, retain teachers, according to survey - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDc5Nzg1Ni5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0Nzk3ODU2Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDc5Nzg1Ni5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0Nzk3ODU2Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 29 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDc5Nzg1Ni5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0Nzk3ODU2Lmh0bWw?oc=5\" target=\"_blank\">KY superintendents say GOP budget won’t help attract, retain teachers, according to survey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky ‘moment of silence’ bill advances. Critics worry it could force prayer in school - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL2xvY2FsL2VkdWNhdGlvbi9hcnRpY2xlMjg0NTcyNzk1Lmh0bWzSAUNodHRwczovL2FtcC5rZW50dWNreS5jb20vbmV3cy9sb2NhbC9lZHVjYXRpb24vYXJ0aWNsZTI4NDU3Mjc5NS5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL2xvY2FsL2VkdWNhdGlvbi9hcnRpY2xlMjg0NTcyNzk1Lmh0bWzSAUNodHRwczovL2FtcC5rZW50dWNreS5jb20vbmV3cy9sb2NhbC9lZHVjYXRpb24vYXJ0aWNsZTI4NDU3Mjc5NS5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL2xvY2FsL2VkdWNhdGlvbi9hcnRpY2xlMjg0NTcyNzk1Lmh0bWzSAUNodHRwczovL2FtcC5rZW50dWNreS5jb20vbmV3cy9sb2NhbC9lZHVjYXRpb24vYXJ0aWNsZTI4NDU3Mjc5NS5odG1s?oc=5\" target=\"_blank\">Kentucky ‘moment of silence’ bill advances. Critics worry it could force prayer in school</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cameron tries to energize growing GOP base in challenging Democratic incumbent in Kentucky - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWdvdmVybm9yLWNhbXBhaWduLWNhbWVyb24tYmVzaGVhci0wYzUzYjJkYWFiZmFiNTY1ODA2N2IxMWQwMWFiNzllMNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWdvdmVybm9yLWNhbXBhaWduLWNhbWVyb24tYmVzaGVhci0wYzUzYjJkYWFiZmFiNTY1ODA2N2IxMWQwMWFiNzllMNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWdvdmVybm9yLWNhbXBhaWduLWNhbWVyb24tYmVzaGVhci0wYzUzYjJkYWFiZmFiNTY1ODA2N2IxMWQwMWFiNzllMNIBAA?oc=5\" target=\"_blank\">Cameron tries to energize growing GOP base in challenging Democratic incumbent in Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Republicans search for answers after loss to Beshear in governor race - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTExLTE0L2tlbnR1Y2t5LXJlcHVibGljYW5zLXNlYXJjaC1mb3ItYW5zd2Vycy1hZnRlci1sb3NzLXRvLWJlc2hlYXItaW4tZ292ZXJub3ItcmFjZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTExLTE0L2tlbnR1Y2t5LXJlcHVibGljYW5zLXNlYXJjaC1mb3ItYW5zd2Vycy1hZnRlci1sb3NzLXRvLWJlc2hlYXItaW4tZ292ZXJub3ItcmFjZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTExLTE0L2tlbnR1Y2t5LXJlcHVibGljYW5zLXNlYXJjaC1mb3ItYW5zd2Vycy1hZnRlci1sb3NzLXRvLWJlc2hlYXItaW4tZ292ZXJub3ItcmFjZdIBAA?oc=5\" target=\"_blank\">Kentucky Republicans search for answers after loss to Beshear in governor race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New Kentucky Marijuana Bill—HB 420—Would Legalize It For Adults, But Faces Uphill Battle In GOP-Controlled ... - Marijuana Moment"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5tYXJpanVhbmFtb21lbnQubmV0L25ldy1rZW50dWNreS1tYXJpanVhbmEtYmlsbC1oYi00MjAtd291bGQtbGVnYWxpemUtaXQtZm9yLWFkdWx0cy1idXQtZmFjZXMtdXBoaWxsLWJhdHRsZS1pbi1nb3AtY29udHJvbGxlZC1sZWdpc2xhdHVyZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilgFodHRwczovL3d3dy5tYXJpanVhbmFtb21lbnQubmV0L25ldy1rZW50dWNreS1tYXJpanVhbmEtYmlsbC1oYi00MjAtd291bGQtbGVnYWxpemUtaXQtZm9yLWFkdWx0cy1idXQtZmFjZXMtdXBoaWxsLWJhdHRsZS1pbi1nb3AtY29udHJvbGxlZC1sZWdpc2xhdHVyZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 20:01:38 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5tYXJpanVhbmFtb21lbnQubmV0L25ldy1rZW50dWNreS1tYXJpanVhbmEtYmlsbC1oYi00MjAtd291bGQtbGVnYWxpemUtaXQtZm9yLWFkdWx0cy1idXQtZmFjZXMtdXBoaWxsLWJhdHRsZS1pbi1nb3AtY29udHJvbGxlZC1sZWdpc2xhdHVyZS_SAQA?oc=5\" target=\"_blank\">New Kentucky Marijuana Bill—HB 420—Would Legalize It For Adults, But Faces Uphill Battle In GOP-Controlled ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marijuana Moment</font>"
+            ],
+            "source": [
+              {
+                "_": "Marijuana Moment",
+                "$": {
+                  "url": "https://www.marijuanamoment.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky charter schools could land funding under new House Bill 2 - Courier Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yNi9rZW50dWNreS1sZWdpc2xhdHVyZS1nZW5lcmFsLWFzc2VtYmx5LTIwMjQtaGItMi1jaGFydGVyLXNjaG9vbHMvNzIzNjkwNDUwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yNi9rZW50dWNreS1sZWdpc2xhdHVyZS1nZW5lcmFsLWFzc2VtYmx5LTIwMjQtaGItMi1jaGFydGVyLXNjaG9vbHMvNzIzNjkwNDUwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 20:13:53 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyNC8wMS8yNi9rZW50dWNreS1sZWdpc2xhdHVyZS1nZW5lcmFsLWFzc2VtYmx5LTIwMjQtaGItMi1jaGFydGVyLXNjaG9vbHMvNzIzNjkwNDUwMDcv0gEA?oc=5\" target=\"_blank\">Kentucky charter schools could land funding under new House Bill 2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courier Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Courier Journal",
+                "$": {
+                  "url": "https://www.courier-journal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "As Ky. GOP defends Jan. 6 rioters, court records show Kentuckians' violence and intent to stop Biden presidency - WKMS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy53a21zLm9yZy9nb3Zlcm5tZW50LXBvbGl0aWNzLzIwMjQtMDEtMTcvYXMta3ktZ29wLWRlZmVuZHMtamFuLTYtcmlvdGVycy1jb3VydC1yZWNvcmRzLXNob3cta2VudHVja2lhbnMtdmlvbGVuY2UtYW5kLWludGVudC10by1zdG9wLWJpZGVuLXByZXNpZGVuY3nSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinwFodHRwczovL3d3dy53a21zLm9yZy9nb3Zlcm5tZW50LXBvbGl0aWNzLzIwMjQtMDEtMTcvYXMta3ktZ29wLWRlZmVuZHMtamFuLTYtcmlvdGVycy1jb3VydC1yZWNvcmRzLXNob3cta2VudHVja2lhbnMtdmlvbGVuY2UtYW5kLWludGVudC10by1zdG9wLWJpZGVuLXByZXNpZGVuY3nSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 16:31:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy53a21zLm9yZy9nb3Zlcm5tZW50LXBvbGl0aWNzLzIwMjQtMDEtMTcvYXMta3ktZ29wLWRlZmVuZHMtamFuLTYtcmlvdGVycy1jb3VydC1yZWNvcmRzLXNob3cta2VudHVja2lhbnMtdmlvbGVuY2UtYW5kLWludGVudC10by1zdG9wLWJpZGVuLXByZXNpZGVuY3nSAQA?oc=5\" target=\"_blank\">As Ky. GOP defends Jan. 6 rioters, court records show Kentuckians' violence and intent to stop Biden presidency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMS</font>"
+            ],
+            "source": [
+              {
+                "_": "WKMS",
+                "$": {
+                  "url": "https://www.wkms.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ky. Gov. Beshear talks second term, Democrats' future and GOP legislature - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTIwL2t5LWdvdi1iZXNoZWFyLXRhbGtzLXNlY29uZC10ZXJtLWRlbW9jcmF0cy1mdXR1cmUtYW5kLWdvcC1sZWdpc2xhdHVyZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTIwL2t5LWdvdi1iZXNoZWFyLXRhbGtzLXNlY29uZC10ZXJtLWRlbW9jcmF0cy1mdXR1cmUtYW5kLWdvcC1sZWdpc2xhdHVyZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 20 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTEyLTIwL2t5LWdvdi1iZXNoZWFyLXRhbGtzLXNlY29uZC10ZXJtLWRlbW9jcmF0cy1mdXR1cmUtYW5kLWdvcC1sZWdpc2xhdHVyZdIBAA?oc=5\" target=\"_blank\">Ky. Gov. Beshear talks second term, Democrats' future and GOP legislature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election results live: A night of historic firsts - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vYXBuZXdzLmNvbS9saXZlL2VsZWN0aW9uLTIwMjMtbGl2ZS11cGRhdGVz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMmh0dHBzOi8vYXBuZXdzLmNvbS9saXZlL2VsZWN0aW9uLTIwMjMtbGl2ZS11cGRhdGVz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vYXBuZXdzLmNvbS9saXZlL2VsZWN0aW9uLTIwMjMtbGl2ZS11cGRhdGVz0gEA?oc=5\" target=\"_blank\">Election results live: A night of historic firsts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Beshear unveils his state spending plan: teacher raises, universal pre-K, water infrastructure - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyMy8xMi8xOC9iZXNoZWFyLXVudmVpbHMtaGlzLXN0YXRlLXNwZW5kaW5nLXBsYW4tdGVhY2hlci1yYWlzZXMtdW5pdmVyc2FsLXByZS1rLXdhdGVyLWluZnJhc3RydWN0dXJlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyMy8xMi8xOC9iZXNoZWFyLXVudmVpbHMtaGlzLXN0YXRlLXNwZW5kaW5nLXBsYW4tdGVhY2hlci1yYWlzZXMtdW5pdmVyc2FsLXByZS1rLXdhdGVyLWluZnJhc3RydWN0dXJlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL2tlbnR1Y2t5bGFudGVybi5jb20vMjAyMy8xMi8xOC9iZXNoZWFyLXVudmVpbHMtaGlzLXN0YXRlLXNwZW5kaW5nLXBsYW4tdGVhY2hlci1yYWlzZXMtdW5pdmVyc2FsLXByZS1rLXdhdGVyLWluZnJhc3RydWN0dXJlL9IBAA?oc=5\" target=\"_blank\">Beshear unveils his state spending plan: teacher raises, universal pre-K, water infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Beshear: House GOP budget ‘isn’t workable’ for KY, pushes state backwards - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDM5NDAwMC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0Mzk0MDAwLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDM5NDAwMC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0Mzk0MDAwLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDM5NDAwMC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0Mzk0MDAwLmh0bWw?oc=5\" target=\"_blank\">Beshear: House GOP budget ‘isn’t workable’ for KY, pushes state backwards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trump Blames McConnell’s ‘Stench’ After Trump-Endorsed Kentucky Candidate Loses - Forbes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2JyaWFuYnVzaGFyZC8yMDIzLzExLzA4L3RydW1wLWJsYW1lcy1tY2Nvbm5lbGxzLXN0ZW5jaC1hZnRlci10cnVtcC1lbmRvcnNlZC1rZW50dWNreS1jYW5kaWRhdGUtbG9zZXMv0gGGAWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYnJpYW5idXNoYXJkLzIwMjMvMTEvMDgvdHJ1bXAtYmxhbWVzLW1jY29ubmVsbHMtc3RlbmNoLWFmdGVyLXRydW1wLWVuZG9yc2VkLWtlbnR1Y2t5LWNhbmRpZGF0ZS1sb3Nlcy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2JyaWFuYnVzaGFyZC8yMDIzLzExLzA4L3RydW1wLWJsYW1lcy1tY2Nvbm5lbGxzLXN0ZW5jaC1hZnRlci10cnVtcC1lbmRvcnNlZC1rZW50dWNreS1jYW5kaWRhdGUtbG9zZXMv0gGGAWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYnJpYW5idXNoYXJkLzIwMjMvMTEvMDgvdHJ1bXAtYmxhbWVzLW1jY29ubmVsbHMtc3RlbmNoLWFmdGVyLXRydW1wLWVuZG9yc2VkLWtlbnR1Y2t5LWNhbmRpZGF0ZS1sb3Nlcy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2JyaWFuYnVzaGFyZC8yMDIzLzExLzA4L3RydW1wLWJsYW1lcy1tY2Nvbm5lbGxzLXN0ZW5jaC1hZnRlci10cnVtcC1lbmRvcnNlZC1rZW50dWNreS1jYW5kaWRhdGUtbG9zZXMv0gGGAWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYnJpYW5idXNoYXJkLzIwMjMvMTEvMDgvdHJ1bXAtYmxhbWVzLW1jY29ubmVsbHMtc3RlbmNoLWFmdGVyLXRydW1wLWVuZG9yc2VkLWtlbnR1Y2t5LWNhbmRpZGF0ZS1sb3Nlcy9hbXAv?oc=5\" target=\"_blank\">Trump Blames McConnell’s ‘Stench’ After Trump-Endorsed Kentucky Candidate Loses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+            ],
+            "source": [
+              {
+                "_": "Forbes",
+                "$": {
+                  "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans sweep Kentucky down-ballot races despite Beshear victory - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTExLTA3L3JlcHVibGljYW5zLXN3ZWVwLWtlbnR1Y2t5LWRvd24tYmFsbG90LXJhY2VzLWRlc3BpdGUtYmVzaGVhci12aWN0b3J50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTExLTA3L3JlcHVibGljYW5zLXN3ZWVwLWtlbnR1Y2t5LWRvd24tYmFsbG90LXJhY2VzLWRlc3BpdGUtYmVzaGVhci12aWN0b3J50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDIzLTExLTA3L3JlcHVibGljYW5zLXN3ZWVwLWtlbnR1Y2t5LWRvd24tYmFsbG90LXJhY2VzLWRlc3BpdGUtYmVzaGVhci12aWN0b3J50gEA?oc=5\" target=\"_blank\">Republicans sweep Kentucky down-ballot races despite Beshear victory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican lawmakers mostly mum on Beshear's budget. Can they find common ground? - Kentucky Lantern"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDIzLzEyLzE5L3JlcHVibGljYW4tbGF3bWFrZXJzLW1vc3RseS1tdW0tb24tYmVzaGVhcnMtYnVkZ2V0LWNhbi10aGV5LWZpbmQtY29tbW9uLWdyb3VuZC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDIzLzEyLzE5L3JlcHVibGljYW4tbGF3bWFrZXJzLW1vc3RseS1tdW0tb24tYmVzaGVhcnMtYnVkZ2V0LWNhbi10aGV5LWZpbmQtY29tbW9uLWdyb3VuZC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8va2VudHVja3lsYW50ZXJuLmNvbS8yMDIzLzEyLzE5L3JlcHVibGljYW4tbGF3bWFrZXJzLW1vc3RseS1tdW0tb24tYmVzaGVhcnMtYnVkZ2V0LWNhbi10aGV5LWZpbmQtY29tbW9uLWdyb3VuZC_SAQA?oc=5\" target=\"_blank\">Republican lawmakers mostly mum on Beshear's budget. Can they find common ground?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kentucky Lantern</font>"
+            ],
+            "source": [
+              {
+                "_": "Kentucky Lantern",
+                "$": {
+                  "url": "https://kentuckylantern.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McConnell floats splitting Ukraine and border security amid GOP infighting - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0MjgxOTktbWNjb25uZWxsLWZsb2F0cy1zcGxpdHRpbmctdWtyYWluZS1hbmQtYm9yZGVyLXNlY3VyaXR5LWFtaWQtZ29wLWluZmlnaHRpbmcv0gF7aHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDQyODE5OS1tY2Nvbm5lbGwtZmxvYXRzLXNwbGl0dGluZy11a3JhaW5lLWFuZC1ib3JkZXItc2VjdXJpdHktYW1pZC1nb3AtaW5maWdodGluZy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0MjgxOTktbWNjb25uZWxsLWZsb2F0cy1zcGxpdHRpbmctdWtyYWluZS1hbmQtYm9yZGVyLXNlY3VyaXR5LWFtaWQtZ29wLWluZmlnaHRpbmcv0gF7aHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDQyODE5OS1tY2Nvbm5lbGwtZmxvYXRzLXNwbGl0dGluZy11a3JhaW5lLWFuZC1ib3JkZXItc2VjdXJpdHktYW1pZC1nb3AtaW5maWdodGluZy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzQ0MjgxOTktbWNjb25uZWxsLWZsb2F0cy1zcGxpdHRpbmctdWtyYWluZS1hbmQtYm9yZGVyLXNlY3VyaXR5LWFtaWQtZ29wLWluZmlnaHRpbmcv0gF7aHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNDQyODE5OS1tY2Nvbm5lbGwtZmxvYXRzLXNwbGl0dGluZy11a3JhaW5lLWFuZC1ib3JkZXItc2VjdXJpdHktYW1pZC1nb3AtaW5maWdodGluZy9hbXAv?oc=5\" target=\"_blank\">McConnell floats splitting Ukraine and border security amid GOP infighting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP House group: We want to ‘empower’ members, be more transparent - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MjcxMzgxMy5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgyNzEzODEzLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MjcxMzgxMy5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgyNzEzODEzLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MjcxMzgxMy5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgyNzEzODEzLmh0bWw?oc=5\" target=\"_blank\">GOP House group: We want to ‘empower’ members, be more transparent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky state GOP passes resolution for ‘wrongfully held’ suspects in Jan. 6 riot - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MzkyNTQxMy5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgzOTI1NDEzLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MzkyNTQxMy5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgzOTI1NDEzLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 07 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4MzkyNTQxMy5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjgzOTI1NDEzLmh0bWw?oc=5\" target=\"_blank\">Kentucky state GOP passes resolution for ‘wrongfully held’ suspects in Jan. 6 riot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Abortion issues burn GOP again, as Democrats take a big election night: ANALYSIS - ABC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvYWJvcnRpb24taXNzdWVzLWJ1cm4tZ29wLWRlbW9jcmF0cy1iaWctZWxlY3Rpb24tbmlnaHQvc3Rvcnk_aWQ9MTA0NzEwNTUy0gFsaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvUG9saXRpY3MvYWJvcnRpb24taXNzdWVzLWJ1cm4tZ29wLWRlbW9jcmF0cy1iaWctZWxlY3Rpb24tbmlnaHQvc3Rvcnk_aWQ9MTA0NzEwNTUy?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvYWJvcnRpb24taXNzdWVzLWJ1cm4tZ29wLWRlbW9jcmF0cy1iaWctZWxlY3Rpb24tbmlnaHQvc3Rvcnk_aWQ9MTA0NzEwNTUy0gFsaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvUG9saXRpY3MvYWJvcnRpb24taXNzdWVzLWJ1cm4tZ29wLWRlbW9jcmF0cy1iaWctZWxlY3Rpb24tbmlnaHQvc3Rvcnk_aWQ9MTA0NzEwNTUy",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvYWJvcnRpb24taXNzdWVzLWJ1cm4tZ29wLWRlbW9jcmF0cy1iaWctZWxlY3Rpb24tbmlnaHQvc3Rvcnk_aWQ9MTA0NzEwNTUy0gFsaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvUG9saXRpY3MvYWJvcnRpb24taXNzdWVzLWJ1cm4tZ29wLWRlbW9jcmF0cy1iaWctZWxlY3Rpb24tbmlnaHQvc3Rvcnk_aWQ9MTA0NzEwNTUy?oc=5\" target=\"_blank\">Abortion issues burn GOP again, as Democrats take a big election night: ANALYSIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC News",
+                "$": {
+                  "url": "https://abcnews.go.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky GOP candidates won, except Daniel Cameron. Trump card no use - Courier Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNvdXJpZXItam91cm5hbC5jb20vc3Rvcnkvb3Bpbmlvbi8yMDIzLzExLzA4L2Jlc2hlYXItd29uLXRydW1wLW5vLWhlbHAtY2FtZXJvbi83MTUwMDYwNTAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmNvdXJpZXItam91cm5hbC5jb20vc3Rvcnkvb3Bpbmlvbi8yMDIzLzExLzA4L2Jlc2hlYXItd29uLXRydW1wLW5vLWhlbHAtY2FtZXJvbi83MTUwMDYwNTAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNvdXJpZXItam91cm5hbC5jb20vc3Rvcnkvb3Bpbmlvbi8yMDIzLzExLzA4L2Jlc2hlYXItd29uLXRydW1wLW5vLWhlbHAtY2FtZXJvbi83MTUwMDYwNTAwNy_SAQA?oc=5\" target=\"_blank\">Kentucky GOP candidates won, except Daniel Cameron. Trump card no use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courier Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Courier Journal",
+                "$": {
+                  "url": "https://www.courier-journal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rand Paul performed Heimlich maneuver on choking Sen. Joni Ernst during GOP lunch - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC_SAYABaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC_SAYABaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC_SAYABaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL3Nlbi1yYW5kLXBhdWwtcGVyZm9ybWVkLWhlaW1saWNoLW1hbmV1dmVyLW9uLWNob2tpbmctc2VuLWpvbmktZXJuc3QtZHVyaW5nLWdvcC1sdW5jaC8?oc=5\" target=\"_blank\">Sen. Rand Paul performed Heimlich maneuver on choking Sen. Joni Ernst during GOP lunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "House GOP budget focuses on one-time expenses, ignores Beshear on pre-K & teacher raises - Lexington Herald Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDMxMzE5OC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzEzMTk4Lmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDMxMzE5OC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzEzMTk4Lmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDMxMzE5OC5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MzEzMTk4Lmh0bWw?oc=5\" target=\"_blank\">House GOP budget focuses on one-time expenses, ignores Beshear on pre-K & teacher raises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "Lexington Herald Leader",
+                "$": {
+                  "url": "https://www.kentucky.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ky. GOP lawmaker wants to bring back 'middle housing' - WVXU"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lnd2eHUub3JnL3Nob3cvY2luY2lubmF0aS1lZGl0aW9uLzIwMjQtMDEtMjIva2VudHVja3ktc3RldmVuLWRvYW4tbWlzc2luZy1taWRkbGUtaG91c2luZ9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3Lnd2eHUub3JnL3Nob3cvY2luY2lubmF0aS1lZGl0aW9uLzIwMjQtMDEtMjIva2VudHVja3ktc3RldmVuLWRvYW4tbWlzc2luZy1taWRkbGUtaG91c2luZ9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lnd2eHUub3JnL3Nob3cvY2luY2lubmF0aS1lZGl0aW9uLzIwMjQtMDEtMjIva2VudHVja3ktc3RldmVuLWRvYW4tbWlzc2luZy1taWRkbGUtaG91c2luZ9IBAA?oc=5\" target=\"_blank\">Ky. GOP lawmaker wants to bring back 'middle housing'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVXU</font>"
+            ],
+            "source": [
+              {
+                "_": "WVXU",
+                "$": {
+                  "url": "https://www.wvxu.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Gov. Andy Beshear hopes to show Democrats can win even if Biden is unpopular - ABC News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mva2VudHVja3ktZ292LWFuZHktYmVzaGVhci1ob3Blcy1zaG93LWRlbW9jcmF0cy13aW4vc3Rvcnk_aWQ9MTA0NjYxMjM20gFpaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvUG9saXRpY3Mva2VudHVja3ktZ292LWFuZHktYmVzaGVhci1ob3Blcy1zaG93LWRlbW9jcmF0cy13aW4vc3Rvcnk_aWQ9MTA0NjYxMjM2?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mva2VudHVja3ktZ292LWFuZHktYmVzaGVhci1ob3Blcy1zaG93LWRlbW9jcmF0cy13aW4vc3Rvcnk_aWQ9MTA0NjYxMjM20gFpaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvUG9saXRpY3Mva2VudHVja3ktZ292LWFuZHktYmVzaGVhci1ob3Blcy1zaG93LWRlbW9jcmF0cy13aW4vc3Rvcnk_aWQ9MTA0NjYxMjM2",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 07 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mva2VudHVja3ktZ292LWFuZHktYmVzaGVhci1ob3Blcy1zaG93LWRlbW9jcmF0cy13aW4vc3Rvcnk_aWQ9MTA0NjYxMjM20gFpaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvUG9saXRpY3Mva2VudHVja3ktZ292LWFuZHktYmVzaGVhci1ob3Blcy1zaG93LWRlbW9jcmF0cy13aW4vc3Rvcnk_aWQ9MTA0NjYxMjM2?oc=5\" target=\"_blank\">Kentucky Gov. Andy Beshear hopes to show Democrats can win even if Biden is unpopular</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC News",
+                "$": {
+                  "url": "https://abcnews.go.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican challenger uses forum to try to nationalize Kentucky governor's race - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWdvdmVybm9yLWNhbXBhaWduLTA0NTFkYjFiNmVhYjMwYzM5NjI1Y2M2ZGEzNmJjNzg00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWdvdmVybm9yLWNhbXBhaWduLTA0NTFkYjFiNmVhYjMwYzM5NjI1Y2M2ZGEzNmJjNzg00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 12 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2tlbnR1Y2t5LWdvdmVybm9yLWNhbXBhaWduLTA0NTFkYjFiNmVhYjMwYzM5NjI1Y2M2ZGEzNmJjNzg00gEA?oc=5\" target=\"_blank\">Republican challenger uses forum to try to nationalize Kentucky governor's race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The 2024 Kentucky legislative session kicks off Tuesday. Here's what to look for - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTAxL3RoZS0yMDI0LWtlbnR1Y2t5LWxlZ2lzbGF0aXZlLXNlc3Npb24ta2lja3Mtb2ZmLXR1ZXNkYXktaGVyZXMtd2hhdC10by1sb29rLWZvctIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTAxL3RoZS0yMDI0LWtlbnR1Y2t5LWxlZ2lzbGF0aXZlLXNlc3Npb24ta2lja3Mtb2ZmLXR1ZXNkYXktaGVyZXMtd2hhdC10by1sb29rLWZvctIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 01 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTAxL3RoZS0yMDI0LWtlbnR1Y2t5LWxlZ2lzbGF0aXZlLXNlc3Npb24ta2lja3Mtb2ZmLXR1ZXNkYXktaGVyZXMtd2hhdC10by1sb29rLWZvctIBAA?oc=5\" target=\"_blank\">The 2024 Kentucky legislative session kicks off Tuesday. Here's what to look for</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky legislature spurns rules changes sought for transparency, limiting leadership power - Louisville Public Media"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTAzL2tlbnR1Y2t5LWxlZ2lzbGF0dXJlLXNwdXJucy1ydWxlcy1jaGFuZ2VzLXNvdWdodC1mb3ItdHJhbnNwYXJlbmN5LWxpbWl0aW5nLWxlYWRlcnNoaXAtcG93ZXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTAzL2tlbnR1Y2t5LWxlZ2lzbGF0dXJlLXNwdXJucy1ydWxlcy1jaGFuZ2VzLXNvdWdodC1mb3ItdHJhbnNwYXJlbmN5LWxpbWl0aW5nLWxlYWRlcnNoaXAtcG93ZXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmxwbS5vcmcvbmV3cy8yMDI0LTAxLTAzL2tlbnR1Y2t5LWxlZ2lzbGF0dXJlLXNwdXJucy1ydWxlcy1jaGFuZ2VzLXNvdWdodC1mb3ItdHJhbnNwYXJlbmN5LWxpbWl0aW5nLWxlYWRlcnNoaXAtcG93ZXLSAQA?oc=5\" target=\"_blank\">Kentucky legislature spurns rules changes sought for transparency, limiting leadership power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisville Public Media</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisville Public Media",
+                "$": {
+                  "url": "https://www.lpm.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Andy Beshear beats out Daniel Cameron to secure re-election in Kentucky - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy51c2F0b2RheS5jb20vdmlkZW9zL25ld3MvMjAyMy8xMS8wOC9nb3YtYW5keS1iZXNoZWFyLWJlYXRzLW91dC1nb3Atb3Bwb25lbnQtYWctZGFuaWVsLWNhbWVyb24taW4ta2VudHVja3kvNzE1MDA3MDAwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy51c2F0b2RheS5jb20vdmlkZW9zL25ld3MvMjAyMy8xMS8wOC9nb3YtYW5keS1iZXNoZWFyLWJlYXRzLW91dC1nb3Atb3Bwb25lbnQtYWctZGFuaWVsLWNhbWVyb24taW4ta2VudHVja3kvNzE1MDA3MDAwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy51c2F0b2RheS5jb20vdmlkZW9zL25ld3MvMjAyMy8xMS8wOC9nb3YtYW5keS1iZXNoZWFyLWJlYXRzLW91dC1nb3Atb3Bwb25lbnQtYWctZGFuaWVsLWNhbWVyb24taW4ta2VudHVja3kvNzE1MDA3MDAwMDcv0gEA?oc=5\" target=\"_blank\">Gov. Andy Beshear beats out Daniel Cameron to secure re-election in Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky and Virginia Elections Show Limits of Anti-Abortion Message - TIME"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdGltZS5jb20vNjMzMzE4OS9iZXNoZWFyLXlvdW5na2luLWVsZWN0aW9uLWFib3J0aW9uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vdGltZS5jb20vNjMzMzE4OS9iZXNoZWFyLXlvdW5na2luLWVsZWN0aW9uLWFib3J0aW9uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdGltZS5jb20vNjMzMzE4OS9iZXNoZWFyLXlvdW5na2luLWVsZWN0aW9uLWFib3J0aW9uL9IBAA?oc=5\" target=\"_blank\">Kentucky and Virginia Elections Show Limits of Anti-Abortion Message</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIME</font>"
+            ],
+            "source": [
+              {
+                "_": "TIME",
+                "$": {
+                  "url": "https://time.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Kentucky Democratic Party chair blasts state GOP resolution claiming some Jan. 6 defendants are being mistreated - WEKU"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy53ZWt1Lm9yZy90aGUtY29tbW9ud2VhbHRoLzIwMjQtMDEtMDgva2VudHVja3ktZGVtb2NyYXRpYy1wYXJ0eS1jaGFpci1ibGFzdHMtc3RhdGUtZ29wLXJlc29sdXRpb24tY2xhaW1pbmctc29tZS1qYW4tNi1kZWZlbmRhbnRzLWFyZS1iZWluZy1taXN0cmVhdGVk0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioAFodHRwczovL3d3dy53ZWt1Lm9yZy90aGUtY29tbW9ud2VhbHRoLzIwMjQtMDEtMDgva2VudHVja3ktZGVtb2NyYXRpYy1wYXJ0eS1jaGFpci1ibGFzdHMtc3RhdGUtZ29wLXJlc29sdXRpb24tY2xhaW1pbmctc29tZS1qYW4tNi1kZWZlbmRhbnRzLWFyZS1iZWluZy1taXN0cmVhdGVk0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy53ZWt1Lm9yZy90aGUtY29tbW9ud2VhbHRoLzIwMjQtMDEtMDgva2VudHVja3ktZGVtb2NyYXRpYy1wYXJ0eS1jaGFpci1ibGFzdHMtc3RhdGUtZ29wLXJlc29sdXRpb24tY2xhaW1pbmctc29tZS1qYW4tNi1kZWZlbmRhbnRzLWFyZS1iZWluZy1taXN0cmVhdGVk0gEA?oc=5\" target=\"_blank\">Kentucky Democratic Party chair blasts state GOP resolution claiming some Jan. 6 defendants are being mistreated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEKU</font>"
+            ],
+            "source": [
+              {
+                "_": "WEKU",
+                "$": {
+                  "url": "https://www.weku.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trump blames 'stench' of McConnell for GOP loss in Kentucky governor's race - SFGATE"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnNmZ2F0ZS5jb20vcG9saXRpY3MvYXJ0aWNsZS90cnVtcC1ibGFtZXMtbWNjb25uZWxsLWZvci1nb3AtbG9zcy1rZW50dWNreS0xODQ3ODIyNy5waHDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LnNmZ2F0ZS5jb20vcG9saXRpY3MvYXJ0aWNsZS90cnVtcC1ibGFtZXMtbWNjb25uZWxsLWZvci1nb3AtbG9zcy1rZW50dWNreS0xODQ3ODIyNy5waHDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 08 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnNmZ2F0ZS5jb20vcG9saXRpY3MvYXJ0aWNsZS90cnVtcC1ibGFtZXMtbWNjb25uZWxsLWZvci1nb3AtbG9zcy1rZW50dWNreS0xODQ3ODIyNy5waHDSAQA?oc=5\" target=\"_blank\">Trump blames 'stench' of McConnell for GOP loss in Kentucky governor's race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font>"
+            ],
+            "source": [
+              {
+                "_": "SFGATE",
+                "$": {
+                  "url": "https://www.sfgate.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Dead, flat wrong': GOP climate attacks fail to stop Democratic wins - E&E News by POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmVlbmV3cy5uZXQvYXJ0aWNsZXMvZGVhZC1mbGF0LXdyb25nLWdvcC1jbGltYXRlLWF0dGFja3MtZmFpbC10by1zdG9wLWRlbW9jcmF0aWMtd2lucy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8vd3d3LmVlbmV3cy5uZXQvYXJ0aWNsZXMvZGVhZC1mbGF0LXdyb25nLWdvcC1jbGltYXRlLWF0dGFja3MtZmFpbC10by1zdG9wLWRlbW9jcmF0aWMtd2lucy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmVlbmV3cy5uZXQvYXJ0aWNsZXMvZGVhZC1mbGF0LXdyb25nLWdvcC1jbGltYXRlLWF0dGFja3MtZmFpbC10by1zdG9wLWRlbW9jcmF0aWMtd2lucy_SAQA?oc=5\" target=\"_blank\">'Dead, flat wrong': GOP climate attacks fail to stop Democratic wins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E&E News by POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "E&E News by POLITICO",
+                "$": {
+                  "url": "https://www.eenews.net"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

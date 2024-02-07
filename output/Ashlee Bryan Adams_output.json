@@ -1,0 +1,518 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Ashlee Bryan Adams\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Ashlee+Bryan+Adams&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:41 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "NC Senate scramble: Retiring House Democrat files for Senate instead - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25jLXNlbmF0ZS1zY3JhbWJsZS1yZXRpcmluZy1ob3VzZS1kZW1vY3JhdC1maWxlcy1mb3Itc2VuYXRlLWluc3RlYWQvMjExOTU4MzEv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIxMTk1ODMxLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25jLXNlbmF0ZS1zY3JhbWJsZS1yZXRpcmluZy1ob3VzZS1kZW1vY3JhdC1maWxlcy1mb3Itc2VuYXRlLWluc3RlYWQvMjExOTU4MzEv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIxMTk1ODMxLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L25jLXNlbmF0ZS1zY3JhbWJsZS1yZXRpcmluZy1ob3VzZS1kZW1vY3JhdC1maWxlcy1mb3Itc2VuYXRlLWluc3RlYWQvMjExOTU4MzEv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIxMTk1ODMxLw?oc=5\" target=\"_blank\">NC Senate scramble: Retiring House Democrat files for Senate instead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Meet the candidates who want to represent Wake County in the 2024 elections - Raleigh News & Observer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9sb2NhbC9jb3VudGllcy93YWtlLWNvdW50eS9hcnRpY2xlMjgyNTc3NDUzLmh0bWzSAVJodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvbG9jYWwvY291bnRpZXMvd2FrZS1jb3VudHkvYXJ0aWNsZTI4MjU3NzQ1My5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9sb2NhbC9jb3VudGllcy93YWtlLWNvdW50eS9hcnRpY2xlMjgyNTc3NDUzLmh0bWzSAVJodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvbG9jYWwvY291bnRpZXMvd2FrZS1jb3VudHkvYXJ0aWNsZTI4MjU3NzQ1My5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9sb2NhbC9jb3VudGllcy93YWtlLWNvdW50eS9hcnRpY2xlMjgyNTc3NDUzLmh0bWzSAVJodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvbG9jYWwvY291bnRpZXMvd2FrZS1jb3VudHkvYXJ0aWNsZTI4MjU3NzQ1My5odG1s?oc=5\" target=\"_blank\">Meet the candidates who want to represent Wake County in the 2024 elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>"
+            ],
+            "source": [
+              {
+                "_": "Raleigh News & Observer",
+                "$": {
+                  "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "North Carolina State Senate Districts (2024): SD 5, SD 11, SD 13, SD 18 - Daily Kos"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRhaWx5a29zLmNvbS9zdG9yaWVzLzIwMjMvMTIvMTMvMjIxMTQzOC8tTm9ydGgtQ2Fyb2xpbmEtU3RhdGUtU2VuYXRlLURpc3RyaWN0cy0yMDI0LVNELTUtU0QtMTEtU0QtMTMtU0QtMTjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmRhaWx5a29zLmNvbS9zdG9yaWVzLzIwMjMvMTIvMTMvMjIxMTQzOC8tTm9ydGgtQ2Fyb2xpbmEtU3RhdGUtU2VuYXRlLURpc3RyaWN0cy0yMDI0LVNELTUtU0QtMTEtU0QtMTMtU0QtMTjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRhaWx5a29zLmNvbS9zdG9yaWVzLzIwMjMvMTIvMTMvMjIxMTQzOC8tTm9ydGgtQ2Fyb2xpbmEtU3RhdGUtU2VuYXRlLURpc3RyaWN0cy0yMDI0LVNELTUtU0QtMTEtU0QtMTMtU0QtMTjSAQA?oc=5\" target=\"_blank\">North Carolina State Senate Districts (2024): SD 5, SD 11, SD 13, SD 18</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Kos</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Kos",
+                "$": {
+                  "url": "https://www.dailykos.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "General Assembly and statewide judicial candidates file for '24 elections - North State Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbnNqb25saW5lLmNvbS9hcnRpY2xlLzIwMjMvMTIvZ2VuZXJhbC1hc3NlbWJseS1hbmQtc3RhdGV3aWRlLWp1ZGljaWFsLWNhbmRpZGF0ZXMtZmlsZS1mb3ItMjQtZWxlY3Rpb25zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vbnNqb25saW5lLmNvbS9hcnRpY2xlLzIwMjMvMTIvZ2VuZXJhbC1hc3NlbWJseS1hbmQtc3RhdGV3aWRlLWp1ZGljaWFsLWNhbmRpZGF0ZXMtZmlsZS1mb3ItMjQtZWxlY3Rpb25zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 26 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbnNqb25saW5lLmNvbS9hcnRpY2xlLzIwMjMvMTIvZ2VuZXJhbC1hc3NlbWJseS1hbmQtc3RhdGV3aWRlLWp1ZGljaWFsLWNhbmRpZGF0ZXMtZmlsZS1mb3ItMjQtZWxlY3Rpb25zL9IBAA?oc=5\" target=\"_blank\">General Assembly and statewide judicial candidates file for '24 elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North State Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "North State Journal",
+                "$": {
+                  "url": "https://nsjonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2024 election: North Carolina candidate filing ends with some last-minute surprises - WUNC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lnd1bmMub3JnL3BvbGl0aWNzLzIwMjMtMTItMTgvbm9ydGgtY2Fyb2xpbmEtMjAyNC1lbGVjdGlvbi1jYW5kaWRhdGUtZmlsaW5nLXN1cnByaXNlc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lnd1bmMub3JnL3BvbGl0aWNzLzIwMjMtMTItMTgvbm9ydGgtY2Fyb2xpbmEtMjAyNC1lbGVjdGlvbi1jYW5kaWRhdGUtZmlsaW5nLXN1cnByaXNlc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lnd1bmMub3JnL3BvbGl0aWNzLzIwMjMtMTItMTgvbm9ydGgtY2Fyb2xpbmEtMjAyNC1lbGVjdGlvbi1jYW5kaWRhdGUtZmlsaW5nLXN1cnByaXNlc9IBAA?oc=5\" target=\"_blank\">2024 election: North Carolina candidate filing ends with some last-minute surprises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUNC</font>"
+            ],
+            "source": [
+              {
+                "_": "WUNC",
+                "$": {
+                  "url": "https://www.wunc.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ashley Monroe releases covers EP, talks cancer diagnosis: Interview - Tennessean"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50ZW5uZXNzZWFuLmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50LzIwMjEvMDkvMjIvYXNobGV5LW1vbnJvZS1pbnRlcnZpZXctY292ZXJzLWVwLWJsb29kLWNhbmNlci1iZWFjaC1ib3lzLXJ1c3Rvbi1rZWxseS84NDE5MzIzMDAyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy50ZW5uZXNzZWFuLmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50LzIwMjEvMDkvMjIvYXNobGV5LW1vbnJvZS1pbnRlcnZpZXctY292ZXJzLWVwLWJsb29kLWNhbmNlci1iZWFjaC1ib3lzLXJ1c3Rvbi1rZWxseS84NDE5MzIzMDAyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Sep 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50ZW5uZXNzZWFuLmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50LzIwMjEvMDkvMjIvYXNobGV5LW1vbnJvZS1pbnRlcnZpZXctY292ZXJzLWVwLWJsb29kLWNhbmNlci1iZWFjaC1ib3lzLXJ1c3Rvbi1rZWxseS84NDE5MzIzMDAyL9IBAA?oc=5\" target=\"_blank\">Ashley Monroe releases covers EP, talks cancer diagnosis: Interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessean</font>"
+            ],
+            "source": [
+              {
+                "_": "Tennessean",
+                "$": {
+                  "url": "https://www.tennessean.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mary Ethel Adams Endsley - Marshall County Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm1hcnNoYWxsdHJpYnVuZS5jb20vc3Rvcmllcy9tYXJ5LWV0aGVsLWFkYW1zLWVuZHNsZXksMjI0MTLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3Lm1hcnNoYWxsdHJpYnVuZS5jb20vc3Rvcmllcy9tYXJ5LWV0aGVsLWFkYW1zLWVuZHNsZXksMjI0MTLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm1hcnNoYWxsdHJpYnVuZS5jb20vc3Rvcmllcy9tYXJ5LWV0aGVsLWFkYW1zLWVuZHNsZXksMjI0MTLSAQA?oc=5\" target=\"_blank\">Mary Ethel Adams Endsley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marshall County Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Marshall County Tribune",
+                "$": {
+                  "url": "https://www.marshalltribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "President's and Dean's List Summer 2021 - Southern New Hampshire University"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNuaHUuZWR1L2Fib3V0LXVzL25ld3Nyb29tL3ByZXNzLXJlbGVhc2VzL3ByZXNpZGVudHMtYW5kLWRlYW5zLWxpc3Qtc3VtbWVyLTIwMjHSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3LnNuaHUuZWR1L2Fib3V0LXVzL25ld3Nyb29tL3ByZXNzLXJlbGVhc2VzL3ByZXNpZGVudHMtYW5kLWRlYW5zLWxpc3Qtc3VtbWVyLTIwMjHSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Sep 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNuaHUuZWR1L2Fib3V0LXVzL25ld3Nyb29tL3ByZXNzLXJlbGVhc2VzL3ByZXNpZGVudHMtYW5kLWRlYW5zLWxpc3Qtc3VtbWVyLTIwMjHSAQA?oc=5\" target=\"_blank\">President's and Dean's List Summer 2021</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern New Hampshire University</font>"
+            ],
+            "source": [
+              {
+                "_": "Southern New Hampshire University",
+                "$": {
+                  "url": "https://www.snhu.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "2020 Dallas-area all-district girls soccer teams: See MVPs, Offensive and Defensive Players of the Year and more - The Dallas Morning News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9oaWdoLXNjaG9vbC1zcG9ydHMvc29jY2VyLzIwMjAvMDUvMTQvMjAyMC1kYWxsYXMtYXJlYS1hbGwtZGlzdHJpY3QtZ2lybHMtc29jY2VyLXRlYW1zLXNlZS1tdnBzLW9mZmVuc2l2ZS1hbmQtZGVmZW5zaXZlLXBsYXllcnMtb2YtdGhlLXllYXItYW5kLW1vcmUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirwFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9oaWdoLXNjaG9vbC1zcG9ydHMvc29jY2VyLzIwMjAvMDUvMTQvMjAyMC1kYWxsYXMtYXJlYS1hbGwtZGlzdHJpY3QtZ2lybHMtc29jY2VyLXRlYW1zLXNlZS1tdnBzLW9mZmVuc2l2ZS1hbmQtZGVmZW5zaXZlLXBsYXllcnMtb2YtdGhlLXllYXItYW5kLW1vcmUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 May 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9oaWdoLXNjaG9vbC1zcG9ydHMvc29jY2VyLzIwMjAvMDUvMTQvMjAyMC1kYWxsYXMtYXJlYS1hbGwtZGlzdHJpY3QtZ2lybHMtc29jY2VyLXRlYW1zLXNlZS1tdnBzLW9mZmVuc2l2ZS1hbmQtZGVmZW5zaXZlLXBsYXllcnMtb2YtdGhlLXllYXItYW5kLW1vcmUv0gEA?oc=5\" target=\"_blank\">2020 Dallas-area all-district girls soccer teams: See MVPs, Offensive and Defensive Players of the Year and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dallas Morning News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Dallas Morning News",
+                "$": {
+                  "url": "https://www.dallasnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Detroit's WDIV local news team is growing by two weathercasters - Detroit Free Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmZyZWVwLmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L3RlbGV2aXNpb24vMjAyMi8xMi8yNy9kZXRyb2l0cy13ZGl2LWxvY2FsLW5ld3MtdGVhbS13ZWF0aGVyY2FzdGVycy82OTc1OTc4NjAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vd3d3LmZyZWVwLmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L3RlbGV2aXNpb24vMjAyMi8xMi8yNy9kZXRyb2l0cy13ZGl2LWxvY2FsLW5ld3MtdGVhbS13ZWF0aGVyY2FzdGVycy82OTc1OTc4NjAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 27 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmZyZWVwLmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L3RlbGV2aXNpb24vMjAyMi8xMi8yNy9kZXRyb2l0cy13ZGl2LWxvY2FsLW5ld3MtdGVhbS13ZWF0aGVyY2FzdGVycy82OTc1OTc4NjAwNy_SAQA?oc=5\" target=\"_blank\">Detroit's WDIV local news team is growing by two weathercasters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Detroit Free Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Detroit Free Press",
+                "$": {
+                  "url": "https://www.freep.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Quinsigamond Community College grads are urged to \"fly to great heights\" - Worcester Telegram"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRlbGVncmFtLmNvbS9zdG9yeS9uZXdzL2VkdWNhdGlvbi9jYW1wdXMvMjAxNy8wNS8xOS9xY2MtZ3JhZHMtYXJlLXVyZ2VkLXRvLWZseS10by1ncmVhdC1oZWlnaHRzLzIwODE0MDI0MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LnRlbGVncmFtLmNvbS9zdG9yeS9uZXdzL2VkdWNhdGlvbi9jYW1wdXMvMjAxNy8wNS8xOS9xY2MtZ3JhZHMtYXJlLXVyZ2VkLXRvLWZseS10by1ncmVhdC1oZWlnaHRzLzIwODE0MDI0MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 May 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRlbGVncmFtLmNvbS9zdG9yeS9uZXdzL2VkdWNhdGlvbi9jYW1wdXMvMjAxNy8wNS8xOS9xY2MtZ3JhZHMtYXJlLXVyZ2VkLXRvLWZseS10by1ncmVhdC1oZWlnaHRzLzIwODE0MDI0MDA3L9IBAA?oc=5\" target=\"_blank\">Quinsigamond Community College grads are urged to \"fly to great heights\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Worcester Telegram</font>"
+            ],
+            "source": [
+              {
+                "_": "Worcester Telegram",
+                "$": {
+                  "url": "https://www.telegram.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "President's and Dean's List Fall 2021 - Southern New Hampshire University"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnNuaHUuZWR1L2Fib3V0LXVzL25ld3Nyb29tL3ByZXNzLXJlbGVhc2VzL3ByZXNpZGVudHMtYW5kLWRlYW5zLWxpc3QtZmFsbC0yMDIx0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LnNuaHUuZWR1L2Fib3V0LXVzL25ld3Nyb29tL3ByZXNzLXJlbGVhc2VzL3ByZXNpZGVudHMtYW5kLWRlYW5zLWxpc3QtZmFsbC0yMDIx0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 14 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnNuaHUuZWR1L2Fib3V0LXVzL25ld3Nyb29tL3ByZXNzLXJlbGVhc2VzL3ByZXNpZGVudHMtYW5kLWRlYW5zLWxpc3QtZmFsbC0yMDIx0gEA?oc=5\" target=\"_blank\">President's and Dean's List Fall 2021</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern New Hampshire University</font>"
+            ],
+            "source": [
+              {
+                "_": "Southern New Hampshire University",
+                "$": {
+                  "url": "https://www.snhu.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'The Bachelor' Contestant AshLee Frazier Says Tierra LiCausi's Engagement Is a Hoax - Yahoo"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHA6Ly9vbWcueWFob28uY29tL2Jsb2dzL3JlbGF0aW9uc2hpcHMvYmFjaGVsb3ItY29udGVzdGFudC1hc2hsZWUtZnJhemllci1zYXlzLXRpZXJyYS1saWNhdXNpLWVuZ2FnZW1lbnQtMjAzNTUwMjQ3Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHA6Ly9vbWcueWFob28uY29tL2Jsb2dzL3JlbGF0aW9uc2hpcHMvYmFjaGVsb3ItY29udGVzdGFudC1hc2hsZWUtZnJhemllci1zYXlzLXRpZXJyYS1saWNhdXNpLWVuZ2FnZW1lbnQtMjAzNTUwMjQ3Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Feb 2013 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHA6Ly9vbWcueWFob28uY29tL2Jsb2dzL3JlbGF0aW9uc2hpcHMvYmFjaGVsb3ItY29udGVzdGFudC1hc2hsZWUtZnJhemllci1zYXlzLXRpZXJyYS1saWNhdXNpLWVuZ2FnZW1lbnQtMjAzNTUwMjQ3Lmh0bWzSAQA?oc=5\" target=\"_blank\">'The Bachelor' Contestant AshLee Frazier Says Tierra LiCausi's Engagement Is a Hoax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo",
+                "$": {
+                  "url": "http://omg.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fall 2017 Honor Roll Announced - Wake Tech Newsroom"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lndha2V0ZWNoLmVkdS9wb3N0L3d0LW5ld3Mtc3RvcnkvMjYzNNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMGh0dHBzOi8vd3d3Lndha2V0ZWNoLmVkdS9wb3N0L3d0LW5ld3Mtc3RvcnkvMjYzNNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lndha2V0ZWNoLmVkdS9wb3N0L3d0LW5ld3Mtc3RvcnkvMjYzNNIBAA?oc=5\" target=\"_blank\">Fall 2017 Honor Roll Announced</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wake Tech Newsroom</font>"
+            ],
+            "source": [
+              {
+                "_": "Wake Tech Newsroom",
+                "$": {
+                  "url": "https://www.waketech.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Monteen Adams Obituary (1941 - 2021) - Fuquay-Varina, NC - The News & Observer - Legacy.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uZXdzb2JzZXJ2ZXIvbmFtZS9tb250ZWVuLWFkYW1zLW9iaXR1YXJ5P2lkPTMxNzYxMjIy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uZXdzb2JzZXJ2ZXIvbmFtZS9tb250ZWVuLWFkYW1zLW9iaXR1YXJ5P2lkPTMxNzYxMjIy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uZXdzb2JzZXJ2ZXIvbmFtZS9tb250ZWVuLWFkYW1zLW9iaXR1YXJ5P2lkPTMxNzYxMjIy0gEA?oc=5\" target=\"_blank\">Monteen Adams Obituary (1941 - 2021) - Fuquay-Varina, NC - The News & Observer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Legacy.com",
+                "$": {
+                  "url": "https://www.legacy.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Air Force selects 1955 for promotion to captain - Stars and Stripes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS9haXItZm9yY2Utc2VsZWN0cy0xLTk1NS1mb3ItcHJvbW90aW9uLXRvLWNhcHRhaW4tMS4zNzMxNDLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS9haXItZm9yY2Utc2VsZWN0cy0xLTk1NS1mb3ItcHJvbW90aW9uLXRvLWNhcHRhaW4tMS4zNzMxNDLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 13 Oct 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS9haXItZm9yY2Utc2VsZWN0cy0xLTk1NS1mb3ItcHJvbW90aW9uLXRvLWNhcHRhaW4tMS4zNzMxNDLSAQA?oc=5\" target=\"_blank\">Air Force selects 1955 for promotion to captain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stars and Stripes</font>"
+            ],
+            "source": [
+              {
+                "_": "Stars and Stripes",
+                "$": {
+                  "url": "https://www.stripes.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

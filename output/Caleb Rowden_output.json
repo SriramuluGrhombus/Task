@@ -1,0 +1,3008 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": [
+      {
+        "generator": [
+          "NFE/5.0"
+        ],
+        "title": [
+          "\"Caleb Rowden\" - Google News"
+        ],
+        "link": [
+          "https://news.google.com/search?q=Caleb+Rowden&hl=en-IN&gl=IN&ceid=IN:en"
+        ],
+        "language": [
+          "en-IN"
+        ],
+        "webMaster": [
+          "news-webmaster@google.com"
+        ],
+        "copyright": [
+          "2024 Google Inc."
+        ],
+        "lastBuildDate": [
+          "Wed, 07 Feb 2024 07:16:42 GMT"
+        ],
+        "description": [
+          "Google News"
+        ],
+        "item": [
+          {
+            "title": [
+              "Missouri 'Freedom Caucus' leaders ousted from Senate chairmanships over stall tactics • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyNC8wMS8yMy9taXNzb3VyaS1mcmVlZG9tLWNhdWN1cy1sZWFkZXJzLW91c3RlZC1mcm9tLXNlbmF0ZS1jaGFpcm1hbnNoaXBzLW92ZXItc3RhbGwtdGFjdGljcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyNC8wMS8yMy9taXNzb3VyaS1mcmVlZG9tLWNhdWN1cy1sZWFkZXJzLW91c3RlZC1mcm9tLXNlbmF0ZS1jaGFpcm1hbnNoaXBzLW92ZXItc3RhbGwtdGFjdGljcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyNC8wMS8yMy9taXNzb3VyaS1mcmVlZG9tLWNhdWN1cy1sZWFkZXJzLW91c3RlZC1mcm9tLXNlbmF0ZS1jaGFpcm1hbnNoaXBzLW92ZXItc3RhbGwtdGFjdGljcy_SAQA?oc=5\" target=\"_blank\">Missouri 'Freedom Caucus' leaders ousted from Senate chairmanships over stall tactics • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate leader strips power from Freedom Caucus - STLPR"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5zdGxwci5vcmcvZ292ZXJubWVudC1wb2xpdGljcy1pc3N1ZXMvMjAyNC0wMS0yMy9taXNzb3VyaS1zZW5hdGUtbGVhZGVyLXN0cmlwcy1mcmVlZG9tLWNhdWN1cy1tZW1iZXJzLW9mLWNvbW1pdHRlZS1jaGFpci1wb3NpdGlvbnPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5zdGxwci5vcmcvZ292ZXJubWVudC1wb2xpdGljcy1pc3N1ZXMvMjAyNC0wMS0yMy9taXNzb3VyaS1zZW5hdGUtbGVhZGVyLXN0cmlwcy1mcmVlZG9tLWNhdWN1cy1tZW1iZXJzLW9mLWNvbW1pdHRlZS1jaGFpci1wb3NpdGlvbnPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5zdGxwci5vcmcvZ292ZXJubWVudC1wb2xpdGljcy1pc3N1ZXMvMjAyNC0wMS0yMy9taXNzb3VyaS1zZW5hdGUtbGVhZGVyLXN0cmlwcy1mcmVlZG9tLWNhdWN1cy1tZW1iZXJzLW9mLWNvbW1pdHRlZS1jaGFpci1wb3NpdGlvbnPSAQA?oc=5\" target=\"_blank\">Missouri Senate leader strips power from Freedom Caucus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STLPR</font>"
+            ],
+            "source": [
+              {
+                "_": "STLPR",
+                "$": {
+                  "url": "https://www.stlpr.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rowden prioritizes ‘swatting’ bill after prank targets Missouri Secretary of State - Missourinet.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDI0LzAxLzE3L3Jvd2Rlbi1wcmlvcml0aXplcy1zd2F0dGluZy1iaWxsLWFmdGVyLXByYW5rLXRhcmdldHMtbWlzc291cmktc2VjcmV0YXJ5LW9mLXN0YXRlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDI0LzAxLzE3L3Jvd2Rlbi1wcmlvcml0aXplcy1zd2F0dGluZy1iaWxsLWFmdGVyLXByYW5rLXRhcmdldHMtbWlzc291cmktc2VjcmV0YXJ5LW9mLXN0YXRlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDI0LzAxLzE3L3Jvd2Rlbi1wcmlvcml0aXplcy1zd2F0dGluZy1iaWxsLWFmdGVyLXByYW5rLXRhcmdldHMtbWlzc291cmktc2VjcmV0YXJ5LW9mLXN0YXRlL9IBAA?oc=5\" target=\"_blank\">Rowden prioritizes ‘swatting’ bill after prank targets Missouri Secretary of State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missourinet.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Missourinet.com",
+                "$": {
+                  "url": "https://www.missourinet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Swamp creatures.' Top MO Senate Republican strips hard-right senators of leadership posts - Yahoo News Canada"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vY2EubmV3cy55YWhvby5jb20vc3dhbXAtY3JlYXR1cmVzLXRvcC1tby1zZW5hdGUtMTk0NjE1NDg5Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vY2EubmV3cy55YWhvby5jb20vc3dhbXAtY3JlYXR1cmVzLXRvcC1tby1zZW5hdGUtMTk0NjE1NDg5Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vY2EubmV3cy55YWhvby5jb20vc3dhbXAtY3JlYXR1cmVzLXRvcC1tby1zZW5hdGUtMTk0NjE1NDg5Lmh0bWzSAQA?oc=5\" target=\"_blank\">'Swamp creatures.' Top MO Senate Republican strips hard-right senators of leadership posts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Canada</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News Canada",
+                "$": {
+                  "url": "https://ca.news.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Caleb Rowden running for Missouri secretary of state in increasingly crowded GOP field - Columbia Daily Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8xMC8yOS9jYWxlYi1yb3dkZW4tcnVubmluZy1taXNzb3VyaS1zZWNyZXRhcnktc3RhdGUtaW5jcmVhc2luZ2x5LWNyb3dkZWQtZ29wLWZpZWxkLzcxMzQ1Mzk2MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimAFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8xMC8yOS9jYWxlYi1yb3dkZW4tcnVubmluZy1taXNzb3VyaS1zZWNyZXRhcnktc3RhdGUtaW5jcmVhc2luZ2x5LWNyb3dkZWQtZ29wLWZpZWxkLzcxMzQ1Mzk2MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 29 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAyMy8xMC8yOS9jYWxlYi1yb3dkZW4tcnVubmluZy1taXNzb3VyaS1zZWNyZXRhcnktc3RhdGUtaW5jcmVhc2luZ2x5LWNyb3dkZWQtZ29wLWZpZWxkLzcxMzQ1Mzk2MDA3L9IBAA?oc=5\" target=\"_blank\">Caleb Rowden running for Missouri secretary of state in increasingly crowded GOP field</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbia Daily Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Columbia Daily Tribune",
+                "$": {
+                  "url": "https://www.columbiatribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "(LISTEN): Missouri Senate President Pro Tem Caleb Rowden (R-Columbia) discusses 2024 session on \"Wake Up Mid ... - 939theeagle.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovLzkzOXRoZWVhZ2xlLmNvbS9saXN0ZW4tbWlzc291cmktc2VuYXRlLXByZXNpZGVudC1wcm8tdGVtLWNhbGViLXJvd2Rlbi1yLWNvbHVtYmlhLWRpc2N1c3Nlcy0yMDI0LXNlc3Npb24tb24td2FrZS11cC1taWQtbWlzc291cmkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovLzkzOXRoZWVhZ2xlLmNvbS9saXN0ZW4tbWlzc291cmktc2VuYXRlLXByZXNpZGVudC1wcm8tdGVtLWNhbGViLXJvd2Rlbi1yLWNvbHVtYmlhLWRpc2N1c3Nlcy0yMDI0LXNlc3Npb24tb24td2FrZS11cC1taWQtbWlzc291cmkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 18:13:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovLzkzOXRoZWVhZ2xlLmNvbS9saXN0ZW4tbWlzc291cmktc2VuYXRlLXByZXNpZGVudC1wcm8tdGVtLWNhbGViLXJvd2Rlbi1yLWNvbHVtYmlhLWRpc2N1c3Nlcy0yMDI0LXNlc3Npb24tb24td2FrZS11cC1taWQtbWlzc291cmkv0gEA?oc=5\" target=\"_blank\">(LISTEN): Missouri Senate President Pro Tem Caleb Rowden (R-Columbia) discusses 2024 session on \"Wake Up Mid ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
+            ],
+            "source": [
+              {
+                "_": "939theeagle.com",
+                "$": {
+                  "url": "https://939theeagle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senator Caleb Rowden takes a call with a Missourian reporter in his office - Columbia Missourian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3Mvc2VuYXRvci1jYWxlYi1yb3dkZW4tdGFrZXMtYS1jYWxsLXdpdGgtYS1taXNzb3VyaWFuLXJlcG9ydGVyLWluLWhpcy1vZmZpY2UvaW1hZ2VfMmFjNzYzYTQtYThjMi0xMWVlLTliODctMDc2MzkzYjlkOTZmLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiogFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3Mvc2VuYXRvci1jYWxlYi1yb3dkZW4tdGFrZXMtYS1jYWxsLXdpdGgtYS1taXNzb3VyaWFuLXJlcG9ydGVyLWluLWhpcy1vZmZpY2UvaW1hZ2VfMmFjNzYzYTQtYThjMi0xMWVlLTliODctMDc2MzkzYjlkOTZmLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3Mvc2VuYXRvci1jYWxlYi1yb3dkZW4tdGFrZXMtYS1jYWxsLXdpdGgtYS1taXNzb3VyaWFuLXJlcG9ydGVyLWluLWhpcy1vZmZpY2UvaW1hZ2VfMmFjNzYzYTQtYThjMi0xMWVlLTliODctMDc2MzkzYjlkOTZmLmh0bWzSAQA?oc=5\" target=\"_blank\">Senator Caleb Rowden takes a call with a Missourian reporter in his office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbia Missourian</font>"
+            ],
+            "source": [
+              {
+                "_": "Columbia Missourian",
+                "$": {
+                  "url": "https://www.columbiamissourian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Full Interview: Senator Caleb Rowden talks 2024 Legislative Session - KSDK.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5rc2RrLmNvbS92aWRlby9uZXdzL3BvbGl0aWNzL3RoZS1yZWNvcmQvdG9wLW1vLXNlbmF0ZS1yZXB1YmxpYW4tdGFsa3MtbGVnaXNsYXRpdmUtYWdlbmRhLWluLTIwMjQvNjMtMTQyM2M2OTItNDA4My00MDc2LTlmOGItODFmMTcxNDdlM2E00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilAFodHRwczovL3d3dy5rc2RrLmNvbS92aWRlby9uZXdzL3BvbGl0aWNzL3RoZS1yZWNvcmQvdG9wLW1vLXNlbmF0ZS1yZXB1YmxpYW4tdGFsa3MtbGVnaXNsYXRpdmUtYWdlbmRhLWluLTIwMjQvNjMtMTQyM2M2OTItNDA4My00MDc2LTlmOGItODFmMTcxNDdlM2E00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 07 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5rc2RrLmNvbS92aWRlby9uZXdzL3BvbGl0aWNzL3RoZS1yZWNvcmQvdG9wLW1vLXNlbmF0ZS1yZXB1YmxpYW4tdGFsa3MtbGVnaXNsYXRpdmUtYWdlbmRhLWluLTIwMjQvNjMtMTQyM2M2OTItNDA4My00MDc2LTlmOGItODFmMTcxNDdlM2E00gEA?oc=5\" target=\"_blank\">Full Interview: Senator Caleb Rowden talks 2024 Legislative Session</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSDK.com</font>"
+            ],
+            "source": [
+              {
+                "_": "KSDK.com",
+                "$": {
+                  "url": "https://www.ksdk.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri House GOP launches policy working group, contrasting a tumultuous Senate caucus - KFVS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8xOS9taXNzb3VyaS1ob3VzZS1nb3AtbGF1bmNoZXMtcG9saWN5LXdvcmtpbmctZ3JvdXAtY29udHJhc3RpbmctdHVtdWx0dW91cy1zZW5hdGUtY2F1Y3VzL9IBhwFodHRwczovL3d3dy5rZnZzMTIuY29tLzIwMjQvMDEvMTkvbWlzc291cmktaG91c2UtZ29wLWxhdW5jaGVzLXBvbGljeS13b3JraW5nLWdyb3VwLWNvbnRyYXN0aW5nLXR1bXVsdHVvdXMtc2VuYXRlLWNhdWN1cy8_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8xOS9taXNzb3VyaS1ob3VzZS1nb3AtbGF1bmNoZXMtcG9saWN5LXdvcmtpbmctZ3JvdXAtY29udHJhc3RpbmctdHVtdWx0dW91cy1zZW5hdGUtY2F1Y3VzL9IBhwFodHRwczovL3d3dy5rZnZzMTIuY29tLzIwMjQvMDEvMTkvbWlzc291cmktaG91c2UtZ29wLWxhdW5jaGVzLXBvbGljeS13b3JraW5nLWdyb3VwLWNvbnRyYXN0aW5nLXR1bXVsdHVvdXMtc2VuYXRlLWNhdWN1cy8_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 19:02:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8xOS9taXNzb3VyaS1ob3VzZS1nb3AtbGF1bmNoZXMtcG9saWN5LXdvcmtpbmctZ3JvdXAtY29udHJhc3RpbmctdHVtdWx0dW91cy1zZW5hdGUtY2F1Y3VzL9IBhwFodHRwczovL3d3dy5rZnZzMTIuY29tLzIwMjQvMDEvMTkvbWlzc291cmktaG91c2UtZ29wLWxhdW5jaGVzLXBvbGljeS13b3JraW5nLWdyb3VwLWNvbnRyYXN0aW5nLXR1bXVsdHVvdXMtc2VuYXRlLWNhdWN1cy8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Missouri House GOP launches policy working group, contrasting a tumultuous Senate caucus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFVS</font>"
+            ],
+            "source": [
+              {
+                "_": "KFVS",
+                "$": {
+                  "url": "https://www.kfvs12.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sen. Rowden strips Missouri Freedom Caucus members of committee posts - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzI0L3Nlbi1yb3dkZW4tc3RyaXBzLW1pc3NvdXJpLWZyZWVkb20tY2F1Y3VzLW1lbWJlcnMtb2YtY29tbWl0dGVlLXBvc3RzLzcyMzMwNTU0MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzI0L3Nlbi1yb3dkZW4tc3RyaXBzLW1pc3NvdXJpLWZyZWVkb20tY2F1Y3VzLW1lbWJlcnMtb2YtY29tbWl0dGVlLXBvc3RzLzcyMzMwNTU0MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzI0L3Nlbi1yb3dkZW4tc3RyaXBzLW1pc3NvdXJpLWZyZWVkb20tY2F1Y3VzLW1lbWJlcnMtb2YtY29tbWl0dGVlLXBvc3RzLzcyMzMwNTU0MDA3L9IBAA?oc=5\" target=\"_blank\">Sen. Rowden strips Missouri Freedom Caucus members of committee posts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate leader punishes 'Chaos Caucus' Republicans - St. Louis Post-Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMivgFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItc3RyaXBzLWNoYW9zLWNhdWN1cy1yZXB1YmxpY2Fucy1vZi1jb21taXR0ZWUtbGVhZGVyc2hpcC1wb3N0cy9hcnRpY2xlXzVjOWQ0MjBlLWJhMWYtMTFlZS1iNzZiLTMzMzFhMDFlMWRjZi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMivgFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItc3RyaXBzLWNoYW9zLWNhdWN1cy1yZXB1YmxpY2Fucy1vZi1jb21taXR0ZWUtbGVhZGVyc2hpcC1wb3N0cy9hcnRpY2xlXzVjOWQ0MjBlLWJhMWYtMTFlZS1iNzZiLTMzMzFhMDFlMWRjZi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMivgFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItc3RyaXBzLWNoYW9zLWNhdWN1cy1yZXB1YmxpY2Fucy1vZi1jb21taXR0ZWUtbGVhZGVyc2hpcC1wb3N0cy9hcnRpY2xlXzVjOWQ0MjBlLWJhMWYtMTFlZS1iNzZiLTMzMzFhMDFlMWRjZi5odG1s0gEA?oc=5\" target=\"_blank\">Missouri Senate leader punishes 'Chaos Caucus' Republicans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis Post-Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Louis Post-Dispatch",
+                "$": {
+                  "url": "https://www.stltoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Boone County GOP committee retracts demand for resignation of Missouri Senate leaders • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjQvMDEvMjYvYm9vbmUtY291bnR5LWdvcC1jb21taXR0ZWUtcmV0cmFjdHMtZGVtYW5kLWZvci1yZXNpZ25hdGlvbi1vZi1taXNzb3VyaS1zZW5hdGUtbGVhZGVycy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjQvMDEvMjYvYm9vbmUtY291bnR5LWdvcC1jb21taXR0ZWUtcmV0cmFjdHMtZGVtYW5kLWZvci1yZXNpZ25hdGlvbi1vZi1taXNzb3VyaS1zZW5hdGUtbGVhZGVycy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjQvMDEvMjYvYm9vbmUtY291bnR5LWdvcC1jb21taXR0ZWUtcmV0cmFjdHMtZGVtYW5kLWZvci1yZXNpZ25hdGlvbi1vZi1taXNzb3VyaS1zZW5hdGUtbGVhZGVycy_SAQA?oc=5\" target=\"_blank\">Boone County GOP committee retracts demand for resignation of Missouri Senate leaders • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Caleb Rowden launches Secretary of State campaign at Columbia event - krcgtv.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8va3JjZ3R2LmNvbS9uZXdzL2xvY2FsL2NhbGViLXJvd2Rlbi1sYXVuY2hlcy1zZWNyZXRhcnktb2Ytc3RhdGUtY2FtcGFpZ24tYXQtY29sdW1iaWEtZXZlbnTSAWVodHRwczovL2tyY2d0di5jb20vYW1wL25ld3MvbG9jYWwvY2FsZWItcm93ZGVuLWxhdW5jaGVzLXNlY3JldGFyeS1vZi1zdGF0ZS1jYW1wYWlnbi1hdC1jb2x1bWJpYS1ldmVudA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYWh0dHBzOi8va3JjZ3R2LmNvbS9uZXdzL2xvY2FsL2NhbGViLXJvd2Rlbi1sYXVuY2hlcy1zZWNyZXRhcnktb2Ytc3RhdGUtY2FtcGFpZ24tYXQtY29sdW1iaWEtZXZlbnTSAWVodHRwczovL2tyY2d0di5jb20vYW1wL25ld3MvbG9jYWwvY2FsZWItcm93ZGVuLWxhdW5jaGVzLXNlY3JldGFyeS1vZi1zdGF0ZS1jYW1wYWlnbi1hdC1jb2x1bWJpYS1ldmVudA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8va3JjZ3R2LmNvbS9uZXdzL2xvY2FsL2NhbGViLXJvd2Rlbi1sYXVuY2hlcy1zZWNyZXRhcnktb2Ytc3RhdGUtY2FtcGFpZ24tYXQtY29sdW1iaWEtZXZlbnTSAWVodHRwczovL2tyY2d0di5jb20vYW1wL25ld3MvbG9jYWwvY2FsZWItcm93ZGVuLWxhdW5jaGVzLXNlY3JldGFyeS1vZi1zdGF0ZS1jYW1wYWlnbi1hdC1jb2x1bWJpYS1ldmVudA?oc=5\" target=\"_blank\">Caleb Rowden launches Secretary of State campaign at Columbia event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">krcgtv.com</font>"
+            ],
+            "source": [
+              {
+                "_": "krcgtv.com",
+                "$": {
+                  "url": "https://krcgtv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "‘Swamp creatures.’ Top MO Senate Republican strips hard-right senators of leadership posts - Kansas City Star"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0NTkxMzE1Lmh0bWzSAUlodHRwczovL2FtcC5rYW5zYXNjaXR5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDU5MTMxNS5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0NTkxMzE1Lmh0bWzSAUlodHRwczovL2FtcC5rYW5zYXNjaXR5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDU5MTMxNS5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0NTkxMzE1Lmh0bWzSAUlodHRwczovL2FtcC5rYW5zYXNjaXR5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDU5MTMxNS5odG1s?oc=5\" target=\"_blank\">‘Swamp creatures.’ Top MO Senate Republican strips hard-right senators of leadership posts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas City Star</font>"
+            ],
+            "source": [
+              {
+                "_": "Kansas City Star",
+                "$": {
+                  "url": "https://www.kansascity.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Caleb Rowden announces his intent to run for Missouri secretary of state - KBIA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmtiaWEub3JnL21pc3NvdXJpLW5ld3MvMjAyMy0xMC0yMy9jYWxlYi1yb3dkZW4tYW5ub3VuY2VzLWhpcy1pbnRlbnQtdG8tcnVuLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3LmtiaWEub3JnL21pc3NvdXJpLW5ld3MvMjAyMy0xMC0yMy9jYWxlYi1yb3dkZW4tYW5ub3VuY2VzLWhpcy1pbnRlbnQtdG8tcnVuLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmtiaWEub3JnL21pc3NvdXJpLW5ld3MvMjAyMy0xMC0yMy9jYWxlYi1yb3dkZW4tYW5ub3VuY2VzLWhpcy1pbnRlbnQtdG8tcnVuLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGXSAQA?oc=5\" target=\"_blank\">Caleb Rowden announces his intent to run for Missouri secretary of state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBIA</font>"
+            ],
+            "source": [
+              {
+                "_": "KBIA",
+                "$": {
+                  "url": "https://www.kbia.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rowden hosts launch event for secretary of state bid - Columbia Missourian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3MvZWxlY3Rpb25zL3Jvd2Rlbi1ob3N0cy1sYXVuY2gtZXZlbnQtZm9yLXNlY3JldGFyeS1vZi1zdGF0ZS1iaWQvYXJ0aWNsZV8xZDRjMmU5OC04NDEwLTExZWUtOWE2Yi0xM2QwNTBkZTg0YmIuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3MvZWxlY3Rpb25zL3Jvd2Rlbi1ob3N0cy1sYXVuY2gtZXZlbnQtZm9yLXNlY3JldGFyeS1vZi1zdGF0ZS1iaWQvYXJ0aWNsZV8xZDRjMmU5OC04NDEwLTExZWUtOWE2Yi0xM2QwNTBkZTg0YmIuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 15 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3MvZWxlY3Rpb25zL3Jvd2Rlbi1ob3N0cy1sYXVuY2gtZXZlbnQtZm9yLXNlY3JldGFyeS1vZi1zdGF0ZS1iaWQvYXJ0aWNsZV8xZDRjMmU5OC04NDEwLTExZWUtOWE2Yi0xM2QwNTBkZTg0YmIuaHRtbNIBAA?oc=5\" target=\"_blank\">Rowden hosts launch event for secretary of state bid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbia Missourian</font>"
+            ],
+            "source": [
+              {
+                "_": "Columbia Missourian",
+                "$": {
+                  "url": "https://www.columbiamissourian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tempers flare in Missouri Senate during GOP fight over initiative petition changes • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyNC8wMS8xOC90ZW1wZXJzLWZsYXJlLWluLW1pc3NvdXJpLXNlbmF0ZS1kdXJpbmctZ29wLWZpZ2h0LW92ZXItaW5pdGlhdGl2ZS1wZXRpdGlvbi1jaGFuZ2VzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyNC8wMS8xOC90ZW1wZXJzLWZsYXJlLWluLW1pc3NvdXJpLXNlbmF0ZS1kdXJpbmctZ29wLWZpZ2h0LW92ZXItaW5pdGlhdGl2ZS1wZXRpdGlvbi1jaGFuZ2VzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyNC8wMS8xOC90ZW1wZXJzLWZsYXJlLWluLW1pc3NvdXJpLXNlbmF0ZS1kdXJpbmctZ29wLWZpZ2h0LW92ZXItaW5pdGlhdGl2ZS1wZXRpdGlvbi1jaGFuZ2VzL9IBAA?oc=5\" target=\"_blank\">Tempers flare in Missouri Senate during GOP fight over initiative petition changes • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Deal on initiative changes, Parson appointees ends overnight Missouri Senate filibuster • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjQvMDEvMzAvZGVhbC1vbi1pbml0aWF0aXZlLWNoYW5nZXMtcGFyc29uLWFwcG9pbnRlZXMtZW5kcy1vdmVybmlnaHQtbWlzc291cmktc2VuYXRlLWZpbGlidXN0ZXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjQvMDEvMzAvZGVhbC1vbi1pbml0aWF0aXZlLWNoYW5nZXMtcGFyc29uLWFwcG9pbnRlZXMtZW5kcy1vdmVybmlnaHQtbWlzc291cmktc2VuYXRlLWZpbGlidXN0ZXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 18:54:53 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjQvMDEvMzAvZGVhbC1vbi1pbml0aWF0aXZlLWNoYW5nZXMtcGFyc29uLWFwcG9pbnRlZXMtZW5kcy1vdmVybmlnaHQtbWlzc291cmktc2VuYXRlLWZpbGlidXN0ZXIv0gEA?oc=5\" target=\"_blank\">Deal on initiative changes, Parson appointees ends overnight Missouri Senate filibuster • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate GOP warfare escalates with suggestion of expelling Freedom Caucus leader • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjQvMDEvMjUvbWlzc291cmktc2VuYXRlLWdvcC13YXJmYXJlLWVzY2FsYXRlcy13aXRoLXN1Z2dlc3Rpb24tb2YtZXhwZWxsaW5nLWZyZWVkb20tY2F1Y3VzLWxlYWRlci_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjQvMDEvMjUvbWlzc291cmktc2VuYXRlLWdvcC13YXJmYXJlLWVzY2FsYXRlcy13aXRoLXN1Z2dlc3Rpb24tb2YtZXhwZWxsaW5nLWZyZWVkb20tY2F1Y3VzLWxlYWRlci_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjQvMDEvMjUvbWlzc291cmktc2VuYXRlLWdvcC13YXJmYXJlLWVzY2FsYXRlcy13aXRoLXN1Z2dlc3Rpb24tb2YtZXhwZWxsaW5nLWZyZWVkb20tY2F1Y3VzLWxlYWRlci_SAQA?oc=5\" target=\"_blank\">Missouri Senate GOP warfare escalates with suggestion of expelling Freedom Caucus leader • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Years of Missouri Senate Republican infighting comes to a breaking point, and the loss of parking - KSHB 41 Kansas City News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5rc2hiLmNvbS9uZXdzL2xvY2FsLW5ld3MveWVhcnMtb2YtbWlzc291cmktc2VuYXRlLXJlcHVibGljYW4taW5maWdodGluZy1jb21lcy10by1hLWJyZWFraW5nLXBvaW50LWFuZC10aGUtbG9zcy1vZi1wYXJraW5n0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5rc2hiLmNvbS9uZXdzL2xvY2FsLW5ld3MveWVhcnMtb2YtbWlzc291cmktc2VuYXRlLXJlcHVibGljYW4taW5maWdodGluZy1jb21lcy10by1hLWJyZWFraW5nLXBvaW50LWFuZC10aGUtbG9zcy1vZi1wYXJraW5n0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5rc2hiLmNvbS9uZXdzL2xvY2FsLW5ld3MveWVhcnMtb2YtbWlzc291cmktc2VuYXRlLXJlcHVibGljYW4taW5maWdodGluZy1jb21lcy10by1hLWJyZWFraW5nLXBvaW50LWFuZC10aGUtbG9zcy1vZi1wYXJraW5n0gEA?oc=5\" target=\"_blank\">Years of Missouri Senate Republican infighting comes to a breaking point, and the loss of parking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSHB 41 Kansas City News</font>"
+            ],
+            "source": [
+              {
+                "_": "KSHB 41 Kansas City News",
+                "$": {
+                  "url": "https://www.kshb.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Lt. Gov. Mike Kehoe, left, and Senate President Pro Tem Caleb Rowden - Columbia Missourian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL21pc3NvdXJpLWx0LWdvdi1taWtlLWtlaG9lLWxlZnQtYW5kLXNlbmF0ZS1wcmVzaWRlbnQtcHJvLXRlbS1jYWxlYi1yb3dkZW4vaW1hZ2VfNTIzMjI0YTItYWE4OC0xMWVlLWI5M2ItNzdhYzhkZmFhMDRlLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL21pc3NvdXJpLWx0LWdvdi1taWtlLWtlaG9lLWxlZnQtYW5kLXNlbmF0ZS1wcmVzaWRlbnQtcHJvLXRlbS1jYWxlYi1yb3dkZW4vaW1hZ2VfNTIzMjI0YTItYWE4OC0xMWVlLWI5M2ItNzdhYzhkZmFhMDRlLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 03 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL21pc3NvdXJpLWx0LWdvdi1taWtlLWtlaG9lLWxlZnQtYW5kLXNlbmF0ZS1wcmVzaWRlbnQtcHJvLXRlbS1jYWxlYi1yb3dkZW4vaW1hZ2VfNTIzMjI0YTItYWE4OC0xMWVlLWI5M2ItNzdhYzhkZmFhMDRlLmh0bWzSAQA?oc=5\" target=\"_blank\">Missouri Lt. Gov. Mike Kehoe, left, and Senate President Pro Tem Caleb Rowden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbia Missourian</font>"
+            ],
+            "source": [
+              {
+                "_": "Columbia Missourian",
+                "$": {
+                  "url": "https://www.columbiamissourian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "(LISTEN): State Sen. Mary Elizabeth Coleman (R-Arnold) appears on \"Wake Up Mid-Missouri\" - 939theeagle.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2xpc3Rlbi1zdGF0ZS1zZW4tbWFyeS1lbGl6YWJldGgtY29sZW1hbi1yLWFybm9sZC1hcHBlYXJzLW9uLXdha2UtdXAtbWlkLW1pc3NvdXJpLTIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2xpc3Rlbi1zdGF0ZS1zZW4tbWFyeS1lbGl6YWJldGgtY29sZW1hbi1yLWFybm9sZC1hcHBlYXJzLW9uLXdha2UtdXAtbWlkLW1pc3NvdXJpLTIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 16:26:25 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2xpc3Rlbi1zdGF0ZS1zZW4tbWFyeS1lbGl6YWJldGgtY29sZW1hbi1yLWFybm9sZC1hcHBlYXJzLW9uLXdha2UtdXAtbWlkLW1pc3NvdXJpLTIv0gEA?oc=5\" target=\"_blank\">(LISTEN): State Sen. Mary Elizabeth Coleman (R-Arnold) appears on \"Wake Up Mid-Missouri\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
+            ],
+            "source": [
+              {
+                "_": "939theeagle.com",
+                "$": {
+                  "url": "https://939theeagle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rowden on running for Missouri Secretary of State - Missourinet.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzMwL3Jvd2Rlbi1vbi1ydW5uaW5nLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzMwL3Jvd2Rlbi1vbi1ydW5uaW5nLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzMwL3Jvd2Rlbi1vbi1ydW5uaW5nLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUv0gEA?oc=5\" target=\"_blank\">Rowden on running for Missouri Secretary of State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missourinet.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Missourinet.com",
+                "$": {
+                  "url": "https://www.missourinet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate leader joining secretary of state race - St. Louis Post-Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItam9pbmluZy1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS9hcnRpY2xlX2E5NjNhN2YyLTcwMzktMTFlZS04ODU3LTA3NzZiMWI5ZDY2Zi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItam9pbmluZy1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS9hcnRpY2xlX2E5NjNhN2YyLTcwMzktMTFlZS04ODU3LTA3NzZiMWI5ZDY2Zi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 21 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItam9pbmluZy1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS9hcnRpY2xlX2E5NjNhN2YyLTcwMzktMTFlZS04ODU3LTA3NzZiMWI5ZDY2Zi5odG1s0gEA?oc=5\" target=\"_blank\">Missouri Senate leader joining secretary of state race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis Post-Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Louis Post-Dispatch",
+                "$": {
+                  "url": "https://www.stltoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP infighting, election year politics could shape 2024 Missouri legislative session • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyNC8wMS8wMi9nb3AtaW5maWdodGluZy1lbGVjdGlvbi15ZWFyLXBvbGl0aWNzLWNvdWxkLXNoYXBlLTIwMjQtbWlzc291cmktbGVnaXNsYXRpdmUtc2Vzc2lvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyNC8wMS8wMi9nb3AtaW5maWdodGluZy1lbGVjdGlvbi15ZWFyLXBvbGl0aWNzLWNvdWxkLXNoYXBlLTIwMjQtbWlzc291cmktbGVnaXNsYXRpdmUtc2Vzc2lvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 02 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyNC8wMS8wMi9nb3AtaW5maWdodGluZy1lbGVjdGlvbi15ZWFyLXBvbGl0aWNzLWNvdWxkLXNoYXBlLTIwMjQtbWlzc291cmktbGVnaXNsYXRpdmUtc2Vzc2lvbi_SAQA?oc=5\" target=\"_blank\">GOP infighting, election year politics could shape 2024 Missouri legislative session • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rowden jumps into Missouri Secretary of State race - Missourinet.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzIzL3Jvd2Rlbi1qdW1wcy1pbnRvLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1yYWNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzIzL3Jvd2Rlbi1qdW1wcy1pbnRvLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1yYWNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzEwLzIzL3Jvd2Rlbi1qdW1wcy1pbnRvLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1yYWNlL9IBAA?oc=5\" target=\"_blank\">Rowden jumps into Missouri Secretary of State race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missourinet.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Missourinet.com",
+                "$": {
+                  "url": "https://www.missourinet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Press Release: Joint statement from Senate President Pro Tem Caleb Rowden and Speaker of the House Dean Plocher - The Missouri Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3RoZW1pc3NvdXJpdGltZXMuY29tL3ByZXNzLXJlbGVhc2Utam9pbnQtc3RhdGVtZW50LWZyb20tc2VuYXRlLXByZXNpZGVudC1wcm8tdGVtLWNhbGViLXJvd2Rlbi1hbmQtc3BlYWtlci1vZi10aGUtaG91c2UtZGVhbi1wbG9jaGVyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3RoZW1pc3NvdXJpdGltZXMuY29tL3ByZXNzLXJlbGVhc2Utam9pbnQtc3RhdGVtZW50LWZyb20tc2VuYXRlLXByZXNpZGVudC1wcm8tdGVtLWNhbGViLXJvd2Rlbi1hbmQtc3BlYWtlci1vZi10aGUtaG91c2UtZGVhbi1wbG9jaGVyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3RoZW1pc3NvdXJpdGltZXMuY29tL3ByZXNzLXJlbGVhc2Utam9pbnQtc3RhdGVtZW50LWZyb20tc2VuYXRlLXByZXNpZGVudC1wcm8tdGVtLWNhbGViLXJvd2Rlbi1hbmQtc3BlYWtlci1vZi10aGUtaG91c2UtZGVhbi1wbG9jaGVyL9IBAA?oc=5\" target=\"_blank\">Press Release: Joint statement from Senate President Pro Tem Caleb Rowden and Speaker of the House Dean Plocher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Missouri Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Missouri Times",
+                "$": {
+                  "url": "https://themissouritimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Caleb Rowden launches Secretary of State campaign at Columbia event - krcgtv.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8va3JjZ3R2LmNvbS9uZXdzL2xvY2FsL2dhbGxlcnkvY2FsZWItcm93ZGVuLWxhdW5jaGVzLXNlY3JldGFyeS1vZi1zdGF0ZS1jYW1wYWlnbi1hdC1jb2x1bWJpYS1ldmVudNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8va3JjZ3R2LmNvbS9uZXdzL2xvY2FsL2dhbGxlcnkvY2FsZWItcm93ZGVuLWxhdW5jaGVzLXNlY3JldGFyeS1vZi1zdGF0ZS1jYW1wYWlnbi1hdC1jb2x1bWJpYS1ldmVudNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 16 Nov 2023 04:11:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8va3JjZ3R2LmNvbS9uZXdzL2xvY2FsL2dhbGxlcnkvY2FsZWItcm93ZGVuLWxhdW5jaGVzLXNlY3JldGFyeS1vZi1zdGF0ZS1jYW1wYWlnbi1hdC1jb2x1bWJpYS1ldmVudNIBAA?oc=5\" target=\"_blank\">Caleb Rowden launches Secretary of State campaign at Columbia event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">krcgtv.com</font>"
+            ],
+            "source": [
+              {
+                "_": "krcgtv.com",
+                "$": {
+                  "url": "https://krcgtv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri House Speaker Dean Plocher fires his chief of staff • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL21pc3NvdXJpLWhvdXNlLXNwZWFrZXItZGVhbi1wbG9jaGVyLWZpcmVzLWhpcy1jaGllZi1vZi1zdGFmZi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL21pc3NvdXJpLWhvdXNlLXNwZWFrZXItZGVhbi1wbG9jaGVyLWZpcmVzLWhpcy1jaGllZi1vZi1zdGFmZi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 17 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL21pc3NvdXJpLWhvdXNlLXNwZWFrZXItZGVhbi1wbG9jaGVyLWZpcmVzLWhpcy1jaGllZi1vZi1zdGFmZi_SAQA?oc=5\" target=\"_blank\">Missouri House Speaker Dean Plocher fires his chief of staff • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Columbia state senator announces intent to run for Missouri secretary of state at University of Missouri homecoming ... - ABC17News.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiugFodHRwczovL2FiYzE3bmV3cy5jb20vcG9saXRpY3MveW91ci12b2ljZS15b3VyLXZvdGUvMjAyMy8xMC8yMS9jb2x1bWJpYS1zdGF0ZS1zZW5hdG9yLWFubm91bmNlcy1pbnRlbnQtdG8tcnVuLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUtYXQtdW5pdmVyc2l0eS1vZi1taXNzb3VyaS1ob21lY29taW5nLXBhcmFkZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiugFodHRwczovL2FiYzE3bmV3cy5jb20vcG9saXRpY3MveW91ci12b2ljZS15b3VyLXZvdGUvMjAyMy8xMC8yMS9jb2x1bWJpYS1zdGF0ZS1zZW5hdG9yLWFubm91bmNlcy1pbnRlbnQtdG8tcnVuLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUtYXQtdW5pdmVyc2l0eS1vZi1taXNzb3VyaS1ob21lY29taW5nLXBhcmFkZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 21 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiugFodHRwczovL2FiYzE3bmV3cy5jb20vcG9saXRpY3MveW91ci12b2ljZS15b3VyLXZvdGUvMjAyMy8xMC8yMS9jb2x1bWJpYS1zdGF0ZS1zZW5hdG9yLWFubm91bmNlcy1pbnRlbnQtdG8tcnVuLWZvci1taXNzb3VyaS1zZWNyZXRhcnktb2Ytc3RhdGUtYXQtdW5pdmVyc2l0eS1vZi1taXNzb3VyaS1ob21lY29taW5nLXBhcmFkZS_SAQA?oc=5\" target=\"_blank\">Columbia state senator announces intent to run for Missouri secretary of state at University of Missouri homecoming ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC17News.com</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC17News.com",
+                "$": {
+                  "url": "https://abc17news.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "St. Louis mega-donor drops $425K into Missouri campaigns in last week • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL3N0LWxvdWlzLW1lZ2EtZG9ub3ItZHJvcHMtNDI1ay1pbnRvLW1pc3NvdXJpLWNhbXBhaWducy1pbi1sYXN0LXdlZWsv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL3N0LWxvdWlzLW1lZ2EtZG9ub3ItZHJvcHMtNDI1ay1pbnRvLW1pc3NvdXJpLWNhbXBhaWducy1pbi1sYXN0LXdlZWsv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL3N0LWxvdWlzLW1lZ2EtZG9ub3ItZHJvcHMtNDI1ay1pbnRvLW1pc3NvdXJpLWNhbXBhaWducy1pbi1sYXN0LXdlZWsv0gEA?oc=5\" target=\"_blank\">St. Louis mega-donor drops $425K into Missouri campaigns in last week • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Republican wants to bring back 'duels' - Yahoo Singapore News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vbWlzc291cmktcmVwdWJsaWNhbi13YW50cy1icmluZy1iYWNrLTIzNTc0NzIzMi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vbWlzc291cmktcmVwdWJsaWNhbi13YW50cy1icmluZy1iYWNrLTIzNTc0NzIzMi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 23:57:47 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vbWlzc291cmktcmVwdWJsaWNhbi13YW50cy1icmluZy1iYWNrLTIzNTc0NzIzMi5odG1s0gEA?oc=5\" target=\"_blank\">Missouri Republican wants to bring back 'duels'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Singapore News</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Singapore News",
+                "$": {
+                  "url": "https://sg.news.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "(LISTEN): Missouri Senate President Pro Tem Caleb Rowden (R-Columbia) discusses secretary of state's race, term ... - 939theeagle.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMivQFodHRwczovLzkzOXRoZWVhZ2xlLmNvbS9saXN0ZW4tbWlzc291cmktc2VuYXRlLXByZXNpZGVudC1wcm8tdGVtLWNhbGViLXJvd2Rlbi1yLWNvbHVtYmlhLWRpc2N1c3Nlcy1zZWNyZXRhcnktb2Ytc3RhdGVzLXJhY2UtdGVybS1saW1pdHMtYW5kLXNwb3J0cy13YWdlcmluZy1vbi05MzktdGhlLWVhZ2xlcy1jZW8tcm91bmR0YWJsZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMivQFodHRwczovLzkzOXRoZWVhZ2xlLmNvbS9saXN0ZW4tbWlzc291cmktc2VuYXRlLXByZXNpZGVudC1wcm8tdGVtLWNhbGViLXJvd2Rlbi1yLWNvbHVtYmlhLWRpc2N1c3Nlcy1zZWNyZXRhcnktb2Ytc3RhdGVzLXJhY2UtdGVybS1saW1pdHMtYW5kLXNwb3J0cy13YWdlcmluZy1vbi05MzktdGhlLWVhZ2xlcy1jZW8tcm91bmR0YWJsZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 29 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMivQFodHRwczovLzkzOXRoZWVhZ2xlLmNvbS9saXN0ZW4tbWlzc291cmktc2VuYXRlLXByZXNpZGVudC1wcm8tdGVtLWNhbGViLXJvd2Rlbi1yLWNvbHVtYmlhLWRpc2N1c3Nlcy1zZWNyZXRhcnktb2Ytc3RhdGVzLXJhY2UtdGVybS1saW1pdHMtYW5kLXNwb3J0cy13YWdlcmluZy1vbi05MzktdGhlLWVhZ2xlcy1jZW8tcm91bmR0YWJsZS_SAQA?oc=5\" target=\"_blank\">(LISTEN): Missouri Senate President Pro Tem Caleb Rowden (R-Columbia) discusses secretary of state's race, term ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
+            ],
+            "source": [
+              {
+                "_": "939theeagle.com",
+                "$": {
+                  "url": "https://939theeagle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rowden calls his 'swatting' bill a priority after prank hits Missouri Secretary of State's home – Newstalk KZRG - NewsTalk KZRG"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL25ld3N0YWxra3pyZy5jb20vMjAyNC8wMS8xNy9yb3dkZW4tY2FsbHMtaGlzLXN3YXR0aW5nLWJpbGwtYS1wcmlvcml0eS1hZnRlci1wcmFuay1oaXRzLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZXMtaG9tZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL25ld3N0YWxra3pyZy5jb20vMjAyNC8wMS8xNy9yb3dkZW4tY2FsbHMtaGlzLXN3YXR0aW5nLWJpbGwtYS1wcmlvcml0eS1hZnRlci1wcmFuay1oaXRzLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZXMtaG9tZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL25ld3N0YWxra3pyZy5jb20vMjAyNC8wMS8xNy9yb3dkZW4tY2FsbHMtaGlzLXN3YXR0aW5nLWJpbGwtYS1wcmlvcml0eS1hZnRlci1wcmFuay1oaXRzLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZXMtaG9tZS_SAQA?oc=5\" target=\"_blank\">Rowden calls his 'swatting' bill a priority after prank hits Missouri Secretary of State's home – Newstalk KZRG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsTalk KZRG</font>"
+            ],
+            "source": [
+              {
+                "_": "NewsTalk KZRG",
+                "$": {
+                  "url": "https://newstalkkzrg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rowden removes conservative state senators from committee assignments - ABC17News.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL2FiYzE3bmV3cy5jb20vcG9saXRpY3MvbWlzc291cmktcG9saXRpY3MvMjAyNC8wMS8yMy9yb3dkZW4tcmVtb3Zlcy1jb25zZXJ2YXRpdmUtc3RhdGUtc2VuYXRvcnMtZnJvbS1jb21taXR0ZWUtYXNzaWdubWVudHMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL2FiYzE3bmV3cy5jb20vcG9saXRpY3MvbWlzc291cmktcG9saXRpY3MvMjAyNC8wMS8yMy9yb3dkZW4tcmVtb3Zlcy1jb25zZXJ2YXRpdmUtc3RhdGUtc2VuYXRvcnMtZnJvbS1jb21taXR0ZWUtYXNzaWdubWVudHMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL2FiYzE3bmV3cy5jb20vcG9saXRpY3MvbWlzc291cmktcG9saXRpY3MvMjAyNC8wMS8yMy9yb3dkZW4tcmVtb3Zlcy1jb25zZXJ2YXRpdmUtc3RhdGUtc2VuYXRvcnMtZnJvbS1jb21taXR0ZWUtYXNzaWdubWVudHMv0gEA?oc=5\" target=\"_blank\">Rowden removes conservative state senators from committee assignments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC17News.com</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC17News.com",
+                "$": {
+                  "url": "https://abc17news.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate leader to file bill to boost swatting penalties - Missourinet.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDI0LzAxLzA4L21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItdG8tZmlsZS1iaWxsLXRvLWJvb3N0LXN3YXR0aW5nLXBlbmFsdGllcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDI0LzAxLzA4L21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItdG8tZmlsZS1iaWxsLXRvLWJvb3N0LXN3YXR0aW5nLXBlbmFsdGllcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDI0LzAxLzA4L21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItdG8tZmlsZS1iaWxsLXRvLWJvb3N0LXN3YXR0aW5nLXBlbmFsdGllcy_SAQA?oc=5\" target=\"_blank\">Missouri Senate leader to file bill to boost swatting penalties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missourinet.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Missourinet.com",
+                "$": {
+                  "url": "https://www.missourinet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Republicans are split into two factions. Could infighting upend the 2024 session? - Kansas City Star"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MTIwNjE4Lmh0bWzSAUlodHRwczovL2FtcC5rYW5zYXNjaXR5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDEyMDYxOC5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MTIwNjE4Lmh0bWzSAUlodHRwczovL2FtcC5rYW5zYXNjaXR5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDEyMDYxOC5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 16 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0MTIwNjE4Lmh0bWzSAUlodHRwczovL2FtcC5rYW5zYXNjaXR5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDEyMDYxOC5odG1s?oc=5\" target=\"_blank\">Missouri Republicans are split into two factions. Could infighting upend the 2024 session?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas City Star</font>"
+            ],
+            "source": [
+              {
+                "_": "Kansas City Star",
+                "$": {
+                  "url": "https://www.kansascity.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri lawmaker wants a job promotion: Secretary of State - Missourinet.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzA2LzIxL21pc3NvdXJpLWxhd21ha2VyLXdhbnRzLWEtam9iLXByb21vdGlvbi1zZWNyZXRhcnktb2Ytc3RhdGUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzA2LzIxL21pc3NvdXJpLWxhd21ha2VyLXdhbnRzLWEtam9iLXByb21vdGlvbi1zZWNyZXRhcnktb2Ytc3RhdGUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 21 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzA2LzIxL21pc3NvdXJpLWxhd21ha2VyLXdhbnRzLWEtam9iLXByb21vdGlvbi1zZWNyZXRhcnktb2Ytc3RhdGUv0gEA?oc=5\" target=\"_blank\">Missouri lawmaker wants a job promotion: Secretary of State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missourinet.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Missourinet.com",
+                "$": {
+                  "url": "https://www.missourinet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "(LISTEN): Boone County GOP central committee chair Tony Lupo discuses Pro Tem Rowden on \"Wake Up Mid-Missouri\" - 939theeagle.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovLzkzOXRoZWVhZ2xlLmNvbS9saXN0ZW4tYm9vbmUtY291bnR5LWdvcC1jZW50cmFsLWNvbW1pdHRlZS1jaGFpci10b255LWx1cG8tZGlzY3VzZXMtcHJvLXRlbS1yb3dkZW4tb24td2FrZS11cC1taWQtbWlzc291cmkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovLzkzOXRoZWVhZ2xlLmNvbS9saXN0ZW4tYm9vbmUtY291bnR5LWdvcC1jZW50cmFsLWNvbW1pdHRlZS1jaGFpci10b255LWx1cG8tZGlzY3VzZXMtcHJvLXRlbS1yb3dkZW4tb24td2FrZS11cC1taWQtbWlzc291cmkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 18:28:31 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovLzkzOXRoZWVhZ2xlLmNvbS9saXN0ZW4tYm9vbmUtY291bnR5LWdvcC1jZW50cmFsLWNvbW1pdHRlZS1jaGFpci10b255LWx1cG8tZGlzY3VzZXMtcHJvLXRlbS1yb3dkZW4tb24td2FrZS11cC1taWQtbWlzc291cmkv0gEA?oc=5\" target=\"_blank\">(LISTEN): Boone County GOP central committee chair Tony Lupo discuses Pro Tem Rowden on \"Wake Up Mid-Missouri\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
+            ],
+            "source": [
+              {
+                "_": "939theeagle.com",
+                "$": {
+                  "url": "https://939theeagle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Conservative state senators removed from committee assignments - KRCU"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmtyY3Uub3JnL3BvbGl0aWNzLzIwMjQtMDEtMjMvY29uc2VydmF0aXZlLXN0YXRlLXNlbmF0b3JzLXJlbW92ZWQtZnJvbS1jb21taXR0ZWUtYXNzaWdubWVudHPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmtyY3Uub3JnL3BvbGl0aWNzLzIwMjQtMDEtMjMvY29uc2VydmF0aXZlLXN0YXRlLXNlbmF0b3JzLXJlbW92ZWQtZnJvbS1jb21taXR0ZWUtYXNzaWdubWVudHPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmtyY3Uub3JnL3BvbGl0aWNzLzIwMjQtMDEtMjMvY29uc2VydmF0aXZlLXN0YXRlLXNlbmF0b3JzLXJlbW92ZWQtZnJvbS1jb21taXR0ZWUtYXNzaWdubWVudHPSAQA?oc=5\" target=\"_blank\">Conservative state senators removed from committee assignments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRCU</font>"
+            ],
+            "source": [
+              {
+                "_": "KRCU",
+                "$": {
+                  "url": "https://www.krcu.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Some Republican leaders are pushing back against the conservative Freedom Caucus in statehouses - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy53cmFsLmNvbS9zdG9yeS9zb21lLXJlcHVibGljYW4tbGVhZGVycy1hcmUtcHVzaGluZy1iYWNrLWFnYWluc3QtdGhlLWNvbnNlcnZhdGl2ZS1mcmVlZG9tLWNhdWN1cy1pbi1zdGF0ZWhvdXNlcy8yMTI2MDgyMS_SASJodHRwczovL3d3dy53cmFsLmNvbS9hbXAvMjEyNjA4MjEv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihAFodHRwczovL3d3dy53cmFsLmNvbS9zdG9yeS9zb21lLXJlcHVibGljYW4tbGVhZGVycy1hcmUtcHVzaGluZy1iYWNrLWFnYWluc3QtdGhlLWNvbnNlcnZhdGl2ZS1mcmVlZG9tLWNhdWN1cy1pbi1zdGF0ZWhvdXNlcy8yMTI2MDgyMS_SASJodHRwczovL3d3dy53cmFsLmNvbS9hbXAvMjEyNjA4MjEv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 05:26:20 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy53cmFsLmNvbS9zdG9yeS9zb21lLXJlcHVibGljYW4tbGVhZGVycy1hcmUtcHVzaGluZy1iYWNrLWFnYWluc3QtdGhlLWNvbnNlcnZhdGl2ZS1mcmVlZG9tLWNhdWN1cy1pbi1zdGF0ZWhvdXNlcy8yMTI2MDgyMS_SASJodHRwczovL3d3dy53cmFsLmNvbS9hbXAvMjEyNjA4MjEv?oc=5\" target=\"_blank\">Some Republican leaders are pushing back against the conservative Freedom Caucus in statehouses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Columbia's Rowden running for Missouri Secretary of State in 2024 - 939theeagle.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2NvbHVtYmlhcy1yb3dkZW4tcnVubmluZy1mb3ItbWlzc291cmktc2VjcmV0YXJ5LW9mLXN0YXRlLWluLTIwMjQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2NvbHVtYmlhcy1yb3dkZW4tcnVubmluZy1mb3ItbWlzc291cmktc2VjcmV0YXJ5LW9mLXN0YXRlLWluLTIwMjQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2NvbHVtYmlhcy1yb3dkZW4tcnVubmluZy1mb3ItbWlzc291cmktc2VjcmV0YXJ5LW9mLXN0YXRlLWluLTIwMjQv0gEA?oc=5\" target=\"_blank\">Columbia's Rowden running for Missouri Secretary of State in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
+            ],
+            "source": [
+              {
+                "_": "939theeagle.com",
+                "$": {
+                  "url": "https://939theeagle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "This Week in Missouri Politics - January 7, 2024 - The Missouri Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vdGhpcy13ZWVrLWluLW1pc3NvdXJpLXBvbGl0aWNzLWphbnVhcnktNy0yMDIzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiS2h0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vdGhpcy13ZWVrLWluLW1pc3NvdXJpLXBvbGl0aWNzLWphbnVhcnktNy0yMDIzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 07 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vdGhpcy13ZWVrLWluLW1pc3NvdXJpLXBvbGl0aWNzLWphbnVhcnktNy0yMDIzL9IBAA?oc=5\" target=\"_blank\">This Week in Missouri Politics - January 7, 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Missouri Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Missouri Times",
+                "$": {
+                  "url": "https://themissouritimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "This Week in Missouri Politics - October 29, 2023 - The Missouri Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vdGhpcy13ZWVrLWluLW1pc3NvdXJpLXBvbGl0aWNzLW9jdG9iZXItMjktMjAyMy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vdGhpcy13ZWVrLWluLW1pc3NvdXJpLXBvbGl0aWNzLW9jdG9iZXItMjktMjAyMy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 29 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vdGhpcy13ZWVrLWluLW1pc3NvdXJpLXBvbGl0aWNzLW9jdG9iZXItMjktMjAyMy_SAQA?oc=5\" target=\"_blank\">This Week in Missouri Politics - October 29, 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Missouri Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Missouri Times",
+                "$": {
+                  "url": "https://themissouritimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Messenger: Nothing says 'standing up for Missouri kids' like erasing them - St. Louis Post-Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9tZXRyby9tZXNzZW5nZXItbm90aGluZy1zYXlzLXN0YW5kaW5nLXVwLWZvci1taXNzb3VyaS1raWRzLWxpa2UtZXJhc2luZy10aGVtL2FydGljbGVfNGM3OTUxOTAtYTNhNi01ZDQzLWFkZGUtMTM4NGM3ZjllMjY2Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiogFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9tZXRyby9tZXNzZW5nZXItbm90aGluZy1zYXlzLXN0YW5kaW5nLXVwLWZvci1taXNzb3VyaS1raWRzLWxpa2UtZXJhc2luZy10aGVtL2FydGljbGVfNGM3OTUxOTAtYTNhNi01ZDQzLWFkZGUtMTM4NGM3ZjllMjY2Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 27 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9tZXRyby9tZXNzZW5nZXItbm90aGluZy1zYXlzLXN0YW5kaW5nLXVwLWZvci1taXNzb3VyaS1raWRzLWxpa2UtZXJhc2luZy10aGVtL2FydGljbGVfNGM3OTUxOTAtYTNhNi01ZDQzLWFkZGUtMTM4NGM3ZjllMjY2Lmh0bWzSAQA?oc=5\" target=\"_blank\">Messenger: Nothing says 'standing up for Missouri kids' like erasing them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis Post-Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Louis Post-Dispatch",
+                "$": {
+                  "url": "https://www.stltoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate leader removes several lawmakers from committees - WDAF FOX4 Kansas City"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItcmVtb3Zlcy1zZXZlcmFsLWxhd21ha2Vycy1mcm9tLWNvbW1pdHRlZXMv0gFhaHR0cHM6Ly9mb3g0a2MuY29tL3BvbGl0aWNzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItcmVtb3Zlcy1zZXZlcmFsLWxhd21ha2Vycy1mcm9tLWNvbW1pdHRlZXMvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItcmVtb3Zlcy1zZXZlcmFsLWxhd21ha2Vycy1mcm9tLWNvbW1pdHRlZXMv0gFhaHR0cHM6Ly9mb3g0a2MuY29tL3BvbGl0aWNzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItcmVtb3Zlcy1zZXZlcmFsLWxhd21ha2Vycy1mcm9tLWNvbW1pdHRlZXMvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 23:19:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItcmVtb3Zlcy1zZXZlcmFsLWxhd21ha2Vycy1mcm9tLWNvbW1pdHRlZXMv0gFhaHR0cHM6Ly9mb3g0a2MuY29tL3BvbGl0aWNzL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItcmVtb3Zlcy1zZXZlcmFsLWxhd21ha2Vycy1mcm9tLWNvbW1pdHRlZXMvYW1wLw?oc=5\" target=\"_blank\">Missouri Senate leader removes several lawmakers from committees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDAF FOX4 Kansas City</font>"
+            ],
+            "source": [
+              {
+                "_": "WDAF FOX4 Kansas City",
+                "$": {
+                  "url": "https://fox4kc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate Republicans signal possible skirmish over $4B Medicaid bill - KFVS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8xMy9zZW5hdGUtcmVwdWJsaWNhbnMtc2lnbmFsLXBvc3NpYmxlLXNraXJtaXNoLW92ZXItNGItbWVkaWNhaWQtYmlsbC_SAXNodHRwczovL3d3dy5rZnZzMTIuY29tLzIwMjQvMDEvMTMvc2VuYXRlLXJlcHVibGljYW5zLXNpZ25hbC1wb3NzaWJsZS1za2lybWlzaC1vdmVyLTRiLW1lZGljYWlkLWJpbGwvP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8xMy9zZW5hdGUtcmVwdWJsaWNhbnMtc2lnbmFsLXBvc3NpYmxlLXNraXJtaXNoLW92ZXItNGItbWVkaWNhaWQtYmlsbC_SAXNodHRwczovL3d3dy5rZnZzMTIuY29tLzIwMjQvMDEvMTMvc2VuYXRlLXJlcHVibGljYW5zLXNpZ25hbC1wb3NzaWJsZS1za2lybWlzaC1vdmVyLTRiLW1lZGljYWlkLWJpbGwvP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8xMy9zZW5hdGUtcmVwdWJsaWNhbnMtc2lnbmFsLXBvc3NpYmxlLXNraXJtaXNoLW92ZXItNGItbWVkaWNhaWQtYmlsbC_SAXNodHRwczovL3d3dy5rZnZzMTIuY29tLzIwMjQvMDEvMTMvc2VuYXRlLXJlcHVibGljYW5zLXNpZ25hbC1wb3NzaWJsZS1za2lybWlzaC1vdmVyLTRiLW1lZGljYWlkLWJpbGwvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">Senate Republicans signal possible skirmish over $4B Medicaid bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFVS</font>"
+            ],
+            "source": [
+              {
+                "_": "KFVS",
+                "$": {
+                  "url": "https://www.kfvs12.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri GOP is at war with its own Freedom Caucus - Daily Kos"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRhaWx5a29zLmNvbS9zdG9yaWVzLzIwMjQvMS8yNC8yMjE5MjU3Ly1NaXNzb3VyaS1HT1AtaXMtYXQtd2FyLXdpdGgtaXRzLW93bi1GcmVlZG9tLUNhdWN1c9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmRhaWx5a29zLmNvbS9zdG9yaWVzLzIwMjQvMS8yNC8yMjE5MjU3Ly1NaXNzb3VyaS1HT1AtaXMtYXQtd2FyLXdpdGgtaXRzLW93bi1GcmVlZG9tLUNhdWN1c9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 21:55:47 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRhaWx5a29zLmNvbS9zdG9yaWVzLzIwMjQvMS8yNC8yMjE5MjU3Ly1NaXNzb3VyaS1HT1AtaXMtYXQtd2FyLXdpdGgtaXRzLW93bi1GcmVlZG9tLUNhdWN1c9IBAA?oc=5\" target=\"_blank\">Missouri GOP is at war with its own Freedom Caucus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Kos</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Kos",
+                "$": {
+                  "url": "https://www.dailykos.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Speaker of Missouri House fires top aide amid software controversy - St. Louis Post-Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL3NwZWFrZXItb2YtbWlzc291cmktaG91c2UtZmlyZXMtdG9wLWFpZGUtYW1pZC1zb2Z0d2FyZS1jb250cm92ZXJzeS9hcnRpY2xlX2VkZTI0NTg2LTZkMjQtMTFlZS05NGQ1LTFiNDE3MmUxMTllNi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMirAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL3NwZWFrZXItb2YtbWlzc291cmktaG91c2UtZmlyZXMtdG9wLWFpZGUtYW1pZC1zb2Z0d2FyZS1jb250cm92ZXJzeS9hcnRpY2xlX2VkZTI0NTg2LTZkMjQtMTFlZS05NGQ1LTFiNDE3MmUxMTllNi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 18 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL3NwZWFrZXItb2YtbWlzc291cmktaG91c2UtZmlyZXMtdG9wLWFpZGUtYW1pZC1zb2Z0d2FyZS1jb250cm92ZXJzeS9hcnRpY2xlX2VkZTI0NTg2LTZkMjQtMTFlZS05NGQ1LTFiNDE3MmUxMTllNi5odG1s0gEA?oc=5\" target=\"_blank\">Speaker of Missouri House fires top aide amid software controversy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis Post-Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Louis Post-Dispatch",
+                "$": {
+                  "url": "https://www.stltoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senator Caleb Rowden - Missouri Senate"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LnNlbmF0ZS5tby5nb3YvbWVtMTkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiIGh0dHBzOi8vd3d3LnNlbmF0ZS5tby5nb3YvbWVtMTkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 04 Jan 2020 21:02:05 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LnNlbmF0ZS5tby5nb3YvbWVtMTkv0gEA?oc=5\" target=\"_blank\">Senator Caleb Rowden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Senate</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Senate",
+                "$": {
+                  "url": "https://www.senate.mo.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri politicians express support for Israel - ABC17News.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYWJjMTduZXdzLmNvbS9wb2xpdGljcy9taXNzb3VyaS1wb2xpdGljcy8yMDIzLzEwLzA3L21pc3NvdXJpLXBvbGl0aWNpYW5zLWV4cHJlc3Mtc3VwcG9ydC1mb3ItaXNyYWVsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vYWJjMTduZXdzLmNvbS9wb2xpdGljcy9taXNzb3VyaS1wb2xpdGljcy8yMDIzLzEwLzA3L21pc3NvdXJpLXBvbGl0aWNpYW5zLWV4cHJlc3Mtc3VwcG9ydC1mb3ItaXNyYWVsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 07 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYWJjMTduZXdzLmNvbS9wb2xpdGljcy9taXNzb3VyaS1wb2xpdGljcy8yMDIzLzEwLzA3L21pc3NvdXJpLXBvbGl0aWNpYW5zLWV4cHJlc3Mtc3VwcG9ydC1mb3ItaXNyYWVsL9IBAA?oc=5\" target=\"_blank\">Missouri politicians express support for Israel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC17News.com</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC17News.com",
+                "$": {
+                  "url": "https://abc17news.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ban on transgender care passes Missouri House, setting up possible clash with Senate • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wNC8xMy9iYW4tb24tdHJhbnNnZW5kZXItY2FyZS1wYXNzZXMtbWlzc291cmktaG91c2Utc2V0dGluZy11cC1wb3NzaWJsZS1jbGFzaC13aXRoLXNlbmF0ZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMif2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wNC8xMy9iYW4tb24tdHJhbnNnZW5kZXItY2FyZS1wYXNzZXMtbWlzc291cmktaG91c2Utc2V0dGluZy11cC1wb3NzaWJsZS1jbGFzaC13aXRoLXNlbmF0ZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wNC8xMy9iYW4tb24tdHJhbnNnZW5kZXItY2FyZS1wYXNzZXMtbWlzc291cmktaG91c2Utc2V0dGluZy11cC1wb3NzaWJsZS1jbGFzaC13aXRoLXNlbmF0ZS_SAQA?oc=5\" target=\"_blank\">Ban on transgender care passes Missouri House, setting up possible clash with Senate • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "(LISTEN): Missouri's Rowden, Hoskins clash again over sports wagering - 939theeagle.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2xpc3Rlbi1taXNzb3VyaXMtcm93ZGVuLWhvc2tpbnMtY2xhc2gtYWdhaW4tb3Zlci1zcG9ydHMtd2FnZXJpbmcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2xpc3Rlbi1taXNzb3VyaXMtcm93ZGVuLWhvc2tpbnMtY2xhc2gtYWdhaW4tb3Zlci1zcG9ydHMtd2FnZXJpbmcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 30 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2xpc3Rlbi1taXNzb3VyaXMtcm93ZGVuLWhvc2tpbnMtY2xhc2gtYWdhaW4tb3Zlci1zcG9ydHMtd2FnZXJpbmcv0gEA?oc=5\" target=\"_blank\">(LISTEN): Missouri's Rowden, Hoskins clash again over sports wagering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
+            ],
+            "source": [
+              {
+                "_": "939theeagle.com",
+                "$": {
+                  "url": "https://939theeagle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate descends into insults as Republican faction holds up Parson’s nominees - Kansas City Star"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0NDEyOTMwLmh0bWzSAUlodHRwczovL2FtcC5rYW5zYXNjaXR5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDQxMjkzMC5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0NDEyOTMwLmh0bWzSAUlodHRwczovL2FtcC5rYW5zYXNjaXR5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDQxMjkzMC5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjg0NDEyOTMwLmh0bWzSAUlodHRwczovL2FtcC5rYW5zYXNjaXR5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI4NDQxMjkzMC5odG1s?oc=5\" target=\"_blank\">Missouri Senate descends into insults as Republican faction holds up Parson’s nominees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas City Star</font>"
+            ],
+            "source": [
+              {
+                "_": "Kansas City Star",
+                "$": {
+                  "url": "https://www.kansascity.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Editorial: In Missouri, as in Washington, political extremism thwarts good public policy - St. Louis Post-Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMisgFodHRwczovL3d3dy5zdGx0b2RheS5jb20vb3Bpbmlvbi9lZGl0b3JpYWwvZWRpdG9yaWFsLWluLW1pc3NvdXJpLWFzLWluLXdhc2hpbmd0b24tcG9saXRpY2FsLWV4dHJlbWlzbS10aHdhcnRzLWdvb2QtcHVibGljLXBvbGljeS9hcnRpY2xlXzVjN2IyNGU2LTZlOTYtMTFlZS04NDRhLWM3OTJmOWM3ZTM5YS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMisgFodHRwczovL3d3dy5zdGx0b2RheS5jb20vb3Bpbmlvbi9lZGl0b3JpYWwvZWRpdG9yaWFsLWluLW1pc3NvdXJpLWFzLWluLXdhc2hpbmd0b24tcG9saXRpY2FsLWV4dHJlbWlzbS10aHdhcnRzLWdvb2QtcHVibGljLXBvbGljeS9hcnRpY2xlXzVjN2IyNGU2LTZlOTYtMTFlZS04NDRhLWM3OTJmOWM3ZTM5YS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMisgFodHRwczovL3d3dy5zdGx0b2RheS5jb20vb3Bpbmlvbi9lZGl0b3JpYWwvZWRpdG9yaWFsLWluLW1pc3NvdXJpLWFzLWluLXdhc2hpbmd0b24tcG9saXRpY2FsLWV4dHJlbWlzbS10aHdhcnRzLWdvb2QtcHVibGljLXBvbGljeS9hcnRpY2xlXzVjN2IyNGU2LTZlOTYtMTFlZS04NDRhLWM3OTJmOWM3ZTM5YS5odG1s0gEA?oc=5\" target=\"_blank\">Editorial: In Missouri, as in Washington, political extremism thwarts good public policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis Post-Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Louis Post-Dispatch",
+                "$": {
+                  "url": "https://www.stltoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri's State Senate Leader wants to boost penalties for “swatting” pranks – Newstalk KZRG - NewsTalk KZRG"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmV3c3RhbGtrenJnLmNvbS8yMDI0LzAxLzA5L21pc3NvdXJpcy1zdGF0ZS1zZW5hdGUtbGVhZGVyLXdhbnRzLXRvLWJvb3N0LXBlbmFsdGllcy1mb3Itc3dhdHRpbmctcHJhbmtzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vbmV3c3RhbGtrenJnLmNvbS8yMDI0LzAxLzA5L21pc3NvdXJpcy1zdGF0ZS1zZW5hdGUtbGVhZGVyLXdhbnRzLXRvLWJvb3N0LXBlbmFsdGllcy1mb3Itc3dhdHRpbmctcHJhbmtzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Jan 2024 18:24:40 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmV3c3RhbGtrenJnLmNvbS8yMDI0LzAxLzA5L21pc3NvdXJpcy1zdGF0ZS1zZW5hdGUtbGVhZGVyLXdhbnRzLXRvLWJvb3N0LXBlbmFsdGllcy1mb3Itc3dhdHRpbmctcHJhbmtzL9IBAA?oc=5\" target=\"_blank\">Missouri's State Senate Leader wants to boost penalties for “swatting” pranks – Newstalk KZRG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsTalk KZRG</font>"
+            ],
+            "source": [
+              {
+                "_": "NewsTalk KZRG",
+                "$": {
+                  "url": "https://newstalkkzrg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate leaders adjourn within first hour Thursday after ‘personal attacks’ - KFVS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8wNS9taXNzb3VyaS1zZW5hdGUtbGVhZGVycy1hZGpvdXJuLXdpdGhpbi1maXJzdC1ob3VyLXRodXJzZGF5LWFmdGVyLXBlcnNvbmFsLWF0dGFja3Mv0gGDAWh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8wNS9taXNzb3VyaS1zZW5hdGUtbGVhZGVycy1hZGpvdXJuLXdpdGhpbi1maXJzdC1ob3VyLXRodXJzZGF5LWFmdGVyLXBlcnNvbmFsLWF0dGFja3MvP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8wNS9taXNzb3VyaS1zZW5hdGUtbGVhZGVycy1hZGpvdXJuLXdpdGhpbi1maXJzdC1ob3VyLXRodXJzZGF5LWFmdGVyLXBlcnNvbmFsLWF0dGFja3Mv0gGDAWh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8wNS9taXNzb3VyaS1zZW5hdGUtbGVhZGVycy1hZGpvdXJuLXdpdGhpbi1maXJzdC1ob3VyLXRodXJzZGF5LWFmdGVyLXBlcnNvbmFsLWF0dGFja3MvP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 05 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8wNS9taXNzb3VyaS1zZW5hdGUtbGVhZGVycy1hZGpvdXJuLXdpdGhpbi1maXJzdC1ob3VyLXRodXJzZGF5LWFmdGVyLXBlcnNvbmFsLWF0dGFja3Mv0gGDAWh0dHBzOi8vd3d3LmtmdnMxMi5jb20vMjAyNC8wMS8wNS9taXNzb3VyaS1zZW5hdGUtbGVhZGVycy1hZGpvdXJuLXdpdGhpbi1maXJzdC1ob3VyLXRodXJzZGF5LWFmdGVyLXBlcnNvbmFsLWF0dGFja3MvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">Missouri Senate leaders adjourn within first hour Thursday after ‘personal attacks’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFVS</font>"
+            ],
+            "source": [
+              {
+                "_": "KFVS",
+                "$": {
+                  "url": "https://www.kfvs12.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "After Ohio vote, Missouri GOP leader doubts plan to limit voters' say over constitution - St. Louis Post-Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMivwFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL2FmdGVyLW9oaW8tdm90ZS1taXNzb3VyaS1nb3AtbGVhZGVyLWRvdWJ0cy1wbGFuLXRvLWxpbWl0LXZvdGVycy1zYXktb3Zlci1jb25zdGl0dXRpb24vYXJ0aWNsZV9lMTBkNGZlOC0zNmM2LTExZWUtODFhNi1iMzZkMTU1Njc1MjcuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMivwFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL2FmdGVyLW9oaW8tdm90ZS1taXNzb3VyaS1nb3AtbGVhZGVyLWRvdWJ0cy1wbGFuLXRvLWxpbWl0LXZvdGVycy1zYXktb3Zlci1jb25zdGl0dXRpb24vYXJ0aWNsZV9lMTBkNGZlOC0zNmM2LTExZWUtODFhNi1iMzZkMTU1Njc1MjcuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMivwFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9nb3Zlcm5tZW50LXBvbGl0aWNzL2FmdGVyLW9oaW8tdm90ZS1taXNzb3VyaS1nb3AtbGVhZGVyLWRvdWJ0cy1wbGFuLXRvLWxpbWl0LXZvdGVycy1zYXktb3Zlci1jb25zdGl0dXRpb24vYXJ0aWNsZV9lMTBkNGZlOC0zNmM2LTExZWUtODFhNi1iMzZkMTU1Njc1MjcuaHRtbNIBAA?oc=5\" target=\"_blank\">After Ohio vote, Missouri GOP leader doubts plan to limit voters' say over constitution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis Post-Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Louis Post-Dispatch",
+                "$": {
+                  "url": "https://www.stltoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lawmakers may consider adjusting earnings tax in St. Louis and Kansas City - Missourinet.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDI0LzAxLzA5L2xhd21ha2Vycy1tYXktY29uc2lkZXItYWRqdXN0aW5nLWVhcm5pbmdzLXRheC1pbi1zdC1sb3Vpcy1hbmQta2Fuc2FzLWNpdHkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDI0LzAxLzA5L2xhd21ha2Vycy1tYXktY29uc2lkZXItYWRqdXN0aW5nLWVhcm5pbmdzLXRheC1pbi1zdC1sb3Vpcy1hbmQta2Fuc2FzLWNpdHkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDI0LzAxLzA5L2xhd21ha2Vycy1tYXktY29uc2lkZXItYWRqdXN0aW5nLWVhcm5pbmdzLXRheC1pbi1zdC1sb3Vpcy1hbmQta2Fuc2FzLWNpdHkv0gEA?oc=5\" target=\"_blank\">Lawmakers may consider adjusting earnings tax in St. Louis and Kansas City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missourinet.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Missourinet.com",
+                "$": {
+                  "url": "https://www.missourinet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate leaders adjourn within first hour Thursday after ‘personal attacks’ - First Alert 4"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmZpcnN0YWxlcnQ0LmNvbS8yMDI0LzAxLzA1L21pc3NvdXJpLXNlbmF0ZS1sZWFkZXJzLWFkam91cm4td2l0aGluLWZpcnN0LWhvdXItdGh1cnNkYXktYWZ0ZXItcGVyc29uYWwtYXR0YWNrcy_SAYgBaHR0cHM6Ly93d3cuZmlyc3RhbGVydDQuY29tLzIwMjQvMDEvMDUvbWlzc291cmktc2VuYXRlLWxlYWRlcnMtYWRqb3Vybi13aXRoaW4tZmlyc3QtaG91ci10aHVyc2RheS1hZnRlci1wZXJzb25hbC1hdHRhY2tzLz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieWh0dHBzOi8vd3d3LmZpcnN0YWxlcnQ0LmNvbS8yMDI0LzAxLzA1L21pc3NvdXJpLXNlbmF0ZS1sZWFkZXJzLWFkam91cm4td2l0aGluLWZpcnN0LWhvdXItdGh1cnNkYXktYWZ0ZXItcGVyc29uYWwtYXR0YWNrcy_SAYgBaHR0cHM6Ly93d3cuZmlyc3RhbGVydDQuY29tLzIwMjQvMDEvMDUvbWlzc291cmktc2VuYXRlLWxlYWRlcnMtYWRqb3Vybi13aXRoaW4tZmlyc3QtaG91ci10aHVyc2RheS1hZnRlci1wZXJzb25hbC1hdHRhY2tzLz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmZpcnN0YWxlcnQ0LmNvbS8yMDI0LzAxLzA1L21pc3NvdXJpLXNlbmF0ZS1sZWFkZXJzLWFkam91cm4td2l0aGluLWZpcnN0LWhvdXItdGh1cnNkYXktYWZ0ZXItcGVyc29uYWwtYXR0YWNrcy_SAYgBaHR0cHM6Ly93d3cuZmlyc3RhbGVydDQuY29tLzIwMjQvMDEvMDUvbWlzc291cmktc2VuYXRlLWxlYWRlcnMtYWRqb3Vybi13aXRoaW4tZmlyc3QtaG91ci10aHVyc2RheS1hZnRlci1wZXJzb25hbC1hdHRhY2tzLz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">Missouri Senate leaders adjourn within first hour Thursday after ‘personal attacks’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">First Alert 4</font>"
+            ],
+            "source": [
+              {
+                "_": "First Alert 4",
+                "$": {
+                  "url": "https://www.firstalert4.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate leader calls for Kim Gardner’s resignation - KTVI Fox 2 St. Louis"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9taXNzb3VyaS1zZW5hdGUtbGVhZGVyLWNhbGxzLWZvci1raW0tZ2FyZG5lcnMtcmVzaWduYXRpb24v0gFgaHR0cHM6Ly9mb3gybm93LmNvbS9uZXdzL21pc3NvdXJpL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItY2FsbHMtZm9yLWtpbS1nYXJkbmVycy1yZXNpZ25hdGlvbi9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9taXNzb3VyaS1zZW5hdGUtbGVhZGVyLWNhbGxzLWZvci1raW0tZ2FyZG5lcnMtcmVzaWduYXRpb24v0gFgaHR0cHM6Ly9mb3gybm93LmNvbS9uZXdzL21pc3NvdXJpL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItY2FsbHMtZm9yLWtpbS1nYXJkbmVycy1yZXNpZ25hdGlvbi9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9taXNzb3VyaS1zZW5hdGUtbGVhZGVyLWNhbGxzLWZvci1raW0tZ2FyZG5lcnMtcmVzaWduYXRpb24v0gFgaHR0cHM6Ly9mb3gybm93LmNvbS9uZXdzL21pc3NvdXJpL21pc3NvdXJpLXNlbmF0ZS1sZWFkZXItY2FsbHMtZm9yLWtpbS1nYXJkbmVycy1yZXNpZ25hdGlvbi9hbXAv?oc=5\" target=\"_blank\">Missouri Senate leader calls for Kim Gardner’s resignation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVI Fox 2 St. Louis</font>"
+            ],
+            "source": [
+              {
+                "_": "KTVI Fox 2 St. Louis",
+                "$": {
+                  "url": "https://fox2now.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Exempting Firearms And Ammunition From Sales Tax Turns Into Sweeping Tax Bill - Missourinet.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzAzLzAzL2V4ZW1wdGluZy1maXJlYXJtcy1hbmQtYW1tdW5pdGlvbi1mcm9tLXNhbGVzLXRheC10dXJucy1pbnRvLXN3ZWVwaW5nLXRheC1iaWxsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzAzLzAzL2V4ZW1wdGluZy1maXJlYXJtcy1hbmQtYW1tdW5pdGlvbi1mcm9tLXNhbGVzLXRheC10dXJucy1pbnRvLXN3ZWVwaW5nLXRheC1iaWxsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 03 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzAzLzAzL2V4ZW1wdGluZy1maXJlYXJtcy1hbmQtYW1tdW5pdGlvbi1mcm9tLXNhbGVzLXRheC10dXJucy1pbnRvLXN3ZWVwaW5nLXRheC1iaWxsL9IBAA?oc=5\" target=\"_blank\">Exempting Firearms And Ammunition From Sales Tax Turns Into Sweeping Tax Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missourinet.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Missourinet.com",
+                "$": {
+                  "url": "https://www.missourinet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ashcroft talks about swatting incident and the need to combat the practice – Newstalk KZRG - NewsTalk KZRG"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmV3c3RhbGtrenJnLmNvbS8yMDI0LzAxLzEyL2FzaGNyb2Z0LXRhbGtzLWFib3V0LXN3YXR0aW5nLWluY2lkZW50LWFuZC10aGUtbmVlZC10by1jb21iYXQtdGhlLXByYWN0aWNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vbmV3c3RhbGtrenJnLmNvbS8yMDI0LzAxLzEyL2FzaGNyb2Z0LXRhbGtzLWFib3V0LXN3YXR0aW5nLWluY2lkZW50LWFuZC10aGUtbmVlZC10by1jb21iYXQtdGhlLXByYWN0aWNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 07 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmV3c3RhbGtrenJnLmNvbS8yMDI0LzAxLzEyL2FzaGNyb2Z0LXRhbGtzLWFib3V0LXN3YXR0aW5nLWluY2lkZW50LWFuZC10aGUtbmVlZC10by1jb21iYXQtdGhlLXByYWN0aWNlL9IBAA?oc=5\" target=\"_blank\">Ashcroft talks about swatting incident and the need to combat the practice – Newstalk KZRG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsTalk KZRG</font>"
+            ],
+            "source": [
+              {
+                "_": "NewsTalk KZRG",
+                "$": {
+                  "url": "https://newstalkkzrg.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "(AUDIO): Protecting Senator Rowden's seat is top priority for Boone County Republicans - 939theeagle.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2F1ZGlvLXByb3RlY3Rpbmctc2VuYXRvci1yb3dkZW5zLXNlYXQtaXMtdG9wLXByaW9yaXR5LWZvci1ib29uZS1jb3VudHktcmVwdWJsaWNhbnMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2F1ZGlvLXByb3RlY3Rpbmctc2VuYXRvci1yb3dkZW5zLXNlYXQtaXMtdG9wLXByaW9yaXR5LWZvci1ib29uZS1jb3VudHktcmVwdWJsaWNhbnMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 11 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2F1ZGlvLXByb3RlY3Rpbmctc2VuYXRvci1yb3dkZW5zLXNlYXQtaXMtdG9wLXByaW9yaXR5LWZvci1ib29uZS1jb3VudHktcmVwdWJsaWNhbnMv0gEA?oc=5\" target=\"_blank\">(AUDIO): Protecting Senator Rowden's seat is top priority for Boone County Republicans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
+            ],
+            "source": [
+              {
+                "_": "939theeagle.com",
+                "$": {
+                  "url": "https://939theeagle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Debate over special prosecutor, St. Louis police takeover on tap in Missouri Senate - St. Louis Post-Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9jcmltZS1jb3VydHMvZGViYXRlLW92ZXItc3BlY2lhbC1wcm9zZWN1dG9yLXN0LWxvdWlzLXBvbGljZS10YWtlb3Zlci1vbi10YXAtaW4tbWlzc291cmktc2VuYXRlL2FydGljbGVfNDIxZGNjMjQtZGQyZS0xMWVkLThmOTEtZTM0OTBlZTU5OTIwLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9jcmltZS1jb3VydHMvZGViYXRlLW92ZXItc3BlY2lhbC1wcm9zZWN1dG9yLXN0LWxvdWlzLXBvbGljZS10YWtlb3Zlci1vbi10YXAtaW4tbWlzc291cmktc2VuYXRlL2FydGljbGVfNDIxZGNjMjQtZGQyZS0xMWVkLThmOTEtZTM0OTBlZTU5OTIwLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9sb2NhbC9jcmltZS1jb3VydHMvZGViYXRlLW92ZXItc3BlY2lhbC1wcm9zZWN1dG9yLXN0LWxvdWlzLXBvbGljZS10YWtlb3Zlci1vbi10YXAtaW4tbWlzc291cmktc2VuYXRlL2FydGljbGVfNDIxZGNjMjQtZGQyZS0xMWVkLThmOTEtZTM0OTBlZTU5OTIwLmh0bWzSAQA?oc=5\" target=\"_blank\">Debate over special prosecutor, St. Louis police takeover on tap in Missouri Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis Post-Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Louis Post-Dispatch",
+                "$": {
+                  "url": "https://www.stltoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "St. Louis Circuit Attorney’s deal with Missouri to step down - KTVI Fox 2 St. Louis"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9zdC1sb3Vpcy1jaXJjdWl0LWF0dG9ybmV5LXJlc2lnbnMtYW1pZC1jb250cm92ZXJzeS_SAVlodHRwczovL2ZveDJub3cuY29tL25ld3MvbWlzc291cmkvc3QtbG91aXMtY2lyY3VpdC1hdHRvcm5leS1yZXNpZ25zLWFtaWQtY29udHJvdmVyc3kvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9zdC1sb3Vpcy1jaXJjdWl0LWF0dG9ybmV5LXJlc2lnbnMtYW1pZC1jb250cm92ZXJzeS_SAVlodHRwczovL2ZveDJub3cuY29tL25ld3MvbWlzc291cmkvc3QtbG91aXMtY2lyY3VpdC1hdHRvcm5leS1yZXNpZ25zLWFtaWQtY29udHJvdmVyc3kvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 05 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9zdC1sb3Vpcy1jaXJjdWl0LWF0dG9ybmV5LXJlc2lnbnMtYW1pZC1jb250cm92ZXJzeS_SAVlodHRwczovL2ZveDJub3cuY29tL25ld3MvbWlzc291cmkvc3QtbG91aXMtY2lyY3VpdC1hdHRvcm5leS1yZXNpZ25zLWFtaWQtY29udHJvdmVyc3kvYW1wLw?oc=5\" target=\"_blank\">St. Louis Circuit Attorney’s deal with Missouri to step down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVI Fox 2 St. Louis</font>"
+            ],
+            "source": [
+              {
+                "_": "KTVI Fox 2 St. Louis",
+                "$": {
+                  "url": "https://fox2now.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Proposed lobbyist gift ban for local leaders receives initial Missouri Senate approval - Missourinet.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzA0LzIwL2V0aGljcy1iaWxsLXJlY2VpdmVzLWluaXRpYWwtYXBwcm92YWwtaW4tbWlzc291cmktc2VuYXRlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzA0LzIwL2V0aGljcy1iaWxsLXJlY2VpdmVzLWluaXRpYWwtYXBwcm92YWwtaW4tbWlzc291cmktc2VuYXRlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 20 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm1pc3NvdXJpbmV0LmNvbS8yMDIzLzA0LzIwL2V0aGljcy1iaWxsLXJlY2VpdmVzLWluaXRpYWwtYXBwcm92YWwtaW4tbWlzc291cmktc2VuYXRlL9IBAA?oc=5\" target=\"_blank\">Proposed lobbyist gift ban for local leaders receives initial Missouri Senate approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missourinet.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Missourinet.com",
+                "$": {
+                  "url": "https://www.missourinet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "As Super Bowl is played, Missouri still has no clear path for sports betting - Columbia Missourian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3Mvc3RhdGVfbmV3cy9hcy1zdXBlci1ib3dsLWlzLXBsYXllZC1taXNzb3VyaS1zdGlsbC1oYXMtbm8tY2xlYXItcGF0aC1mb3Itc3BvcnRzLWJldHRpbmcvYXJ0aWNsZV9hMzhjNmVjZS1hOWMyLTExZWQtOTI3Mi04YjU4MDNkOTRlNDguaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMisAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3Mvc3RhdGVfbmV3cy9hcy1zdXBlci1ib3dsLWlzLXBsYXllZC1taXNzb3VyaS1zdGlsbC1oYXMtbm8tY2xlYXItcGF0aC1mb3Itc3BvcnRzLWJldHRpbmcvYXJ0aWNsZV9hMzhjNmVjZS1hOWMyLTExZWQtOTI3Mi04YjU4MDNkOTRlNDguaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 11 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3Mvc3RhdGVfbmV3cy9hcy1zdXBlci1ib3dsLWlzLXBsYXllZC1taXNzb3VyaS1zdGlsbC1oYXMtbm8tY2xlYXItcGF0aC1mb3Itc3BvcnRzLWJldHRpbmcvYXJ0aWNsZV9hMzhjNmVjZS1hOWMyLTExZWQtOTI3Mi04YjU4MDNkOTRlNDguaHRtbNIBAA?oc=5\" target=\"_blank\">As Super Bowl is played, Missouri still has no clear path for sports betting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbia Missourian</font>"
+            ],
+            "source": [
+              {
+                "_": "Columbia Missourian",
+                "$": {
+                  "url": "https://www.columbiamissourian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "MOScout Daily Update: SOS Field Expands - Rook = McDowell? - Atchison To Retire - State of Floor Leader Race ... - Moscout"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMisAFodHRwczovL21vc2NvdXQuY29tL2RhaWx5LXVwZGF0ZXMtMS8yMDIzLzEwLzIzL21vc2NvdXQtZGFpbHktdXBkYXRlLXNvcy1maWVsZC1leHBhbmRzLXJvb2stbWNkb3dlbGwtYXRjaGlzb24tcnRvLXJldGlyZS1zdGF0ZS1vZi1mbG9vci1sZWFkZXItcmFjZS1uZXRoLW9uLWxpYmVydHktZGVhbC1hbmQtbW9yZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMisAFodHRwczovL21vc2NvdXQuY29tL2RhaWx5LXVwZGF0ZXMtMS8yMDIzLzEwLzIzL21vc2NvdXQtZGFpbHktdXBkYXRlLXNvcy1maWVsZC1leHBhbmRzLXJvb2stbWNkb3dlbGwtYXRjaGlzb24tcnRvLXJldGlyZS1zdGF0ZS1vZi1mbG9vci1sZWFkZXItcmFjZS1uZXRoLW9uLWxpYmVydHktZGVhbC1hbmQtbW9yZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMisAFodHRwczovL21vc2NvdXQuY29tL2RhaWx5LXVwZGF0ZXMtMS8yMDIzLzEwLzIzL21vc2NvdXQtZGFpbHktdXBkYXRlLXNvcy1maWVsZC1leHBhbmRzLXJvb2stbWNkb3dlbGwtYXRjaGlzb24tcnRvLXJldGlyZS1zdGF0ZS1vZi1mbG9vci1sZWFkZXItcmFjZS1uZXRoLW9uLWxpYmVydHktZGVhbC1hbmQtbW9yZdIBAA?oc=5\" target=\"_blank\">MOScout Daily Update: SOS Field Expands - Rook = McDowell? - Atchison To Retire - State of Floor Leader Race ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moscout</font>"
+            ],
+            "source": [
+              {
+                "_": "Moscout",
+                "$": {
+                  "url": "https://moscout.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Why sports betting struck out again among Missouri lawmakers - KTVI Fox 2 St. Louis"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS93aHktc3BvcnRzLWJldHRpbmctc3RydWNrLW91dC1hZ2Fpbi1hbW9uZy1taXNzb3VyaS1sYXdtYWtlcnMv0gFjaHR0cHM6Ly9mb3gybm93LmNvbS9uZXdzL21pc3NvdXJpL3doeS1zcG9ydHMtYmV0dGluZy1zdHJ1Y2stb3V0LWFnYWluLWFtb25nLW1pc3NvdXJpLWxhd21ha2Vycy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS93aHktc3BvcnRzLWJldHRpbmctc3RydWNrLW91dC1hZ2Fpbi1hbW9uZy1taXNzb3VyaS1sYXdtYWtlcnMv0gFjaHR0cHM6Ly9mb3gybm93LmNvbS9uZXdzL21pc3NvdXJpL3doeS1zcG9ydHMtYmV0dGluZy1zdHJ1Y2stb3V0LWFnYWluLWFtb25nLW1pc3NvdXJpLWxhd21ha2Vycy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 17 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS93aHktc3BvcnRzLWJldHRpbmctc3RydWNrLW91dC1hZ2Fpbi1hbW9uZy1taXNzb3VyaS1sYXdtYWtlcnMv0gFjaHR0cHM6Ly9mb3gybm93LmNvbS9uZXdzL21pc3NvdXJpL3doeS1zcG9ydHMtYmV0dGluZy1zdHJ1Y2stb3V0LWFnYWluLWFtb25nLW1pc3NvdXJpLWxhd21ha2Vycy9hbXAv?oc=5\" target=\"_blank\">Why sports betting struck out again among Missouri lawmakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVI Fox 2 St. Louis</font>"
+            ],
+            "source": [
+              {
+                "_": "KTVI Fox 2 St. Louis",
+                "$": {
+                  "url": "https://fox2now.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rizzo honored as Statesman of the Year - The Missouri Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vcml6em8taG9ub3JlZC1hcy1zdGF0ZXNtYW4tb2YtdGhlLXllYXIv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRGh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vcml6em8taG9ub3JlZC1hcy1zdGF0ZXNtYW4tb2YtdGhlLXllYXIv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 20 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vcml6em8taG9ub3JlZC1hcy1zdGF0ZXNtYW4tb2YtdGhlLXllYXIv0gEA?oc=5\" target=\"_blank\">Rizzo honored as Statesman of the Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Missouri Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Missouri Times",
+                "$": {
+                  "url": "https://themissouritimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Caleb Rowden met with NRCC about potential Missouri Congressional run • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL3Jvd2Rlbi1tZWV0cy13aXRoLW5yY2MtYWJvdXQtcG90ZW50aWFsLW1pc3NvdXJpLWNvbmdyZXNzaW9uYWwtcnVuL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL3Jvd2Rlbi1tZWV0cy13aXRoLW5yY2MtYWJvdXQtcG90ZW50aWFsLW1pc3NvdXJpLWNvbmdyZXNzaW9uYWwtcnVuL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 14 Jul 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL3Jvd2Rlbi1tZWV0cy13aXRoLW5yY2MtYWJvdXQtcG90ZW50aWFsLW1pc3NvdXJpLWNvbmdyZXNzaW9uYWwtcnVuL9IBAA?oc=5\" target=\"_blank\">Caleb Rowden met with NRCC about potential Missouri Congressional run • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri lawmakers wrapping up first half of session - Jefferson City News Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5ld3N0cmlidW5lLmNvbS9uZXdzLzIwMjMvbWFyLzA1L2xhd21ha2Vycy13cmFwcGluZy11cC1maXJzdC1oYWxmLW9mLXNlc3Npb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vd3d3Lm5ld3N0cmlidW5lLmNvbS9uZXdzLzIwMjMvbWFyLzA1L2xhd21ha2Vycy13cmFwcGluZy11cC1maXJzdC1oYWxmLW9mLXNlc3Npb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 05 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5ld3N0cmlidW5lLmNvbS9uZXdzLzIwMjMvbWFyLzA1L2xhd21ha2Vycy13cmFwcGluZy11cC1maXJzdC1oYWxmLW9mLXNlc3Npb24v0gEA?oc=5\" target=\"_blank\">Missouri lawmakers wrapping up first half of session</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jefferson City News Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Jefferson City News Tribune",
+                "$": {
+                  "url": "https://www.newstribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate leader's tweet about drag performance helped kickstart controversy • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMS8zMS9taXNzb3VyaS1zZW5hdGUtbGVhZGVycy10d2VldC1hYm91dC1kcmFnLXBlcmZvcm1hbmNlLWhlbHBlZC1raWNrc3RhcnQtY29udHJvdmVyc3kv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMS8zMS9taXNzb3VyaS1zZW5hdGUtbGVhZGVycy10d2VldC1hYm91dC1kcmFnLXBlcmZvcm1hbmNlLWhlbHBlZC1raWNrc3RhcnQtY29udHJvdmVyc3kv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMS8zMS9taXNzb3VyaS1zZW5hdGUtbGVhZGVycy10d2VldC1hYm91dC1kcmFnLXBlcmZvcm1hbmNlLWhlbHBlZC1raWNrc3RhcnQtY29udHJvdmVyc3kv0gEA?oc=5\" target=\"_blank\">Missouri Senate leader's tweet about drag performance helped kickstart controversy • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "As Missouri Republicans gather in Springfield, 2024 primary fights begin piling up • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMi8xMC9hcy1taXNzb3VyaS1yZXB1YmxpY2Fucy1nYXRoZXItaW4tc3ByaW5nZmllbGQtMjAyNC1wcmltYXJ5LWZpZ2h0cy1iZWdpbi1waWxpbmctdXAv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMi8xMC9hcy1taXNzb3VyaS1yZXB1YmxpY2Fucy1nYXRoZXItaW4tc3ByaW5nZmllbGQtMjAyNC1wcmltYXJ5LWZpZ2h0cy1iZWdpbi1waWxpbmctdXAv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMi8xMC9hcy1taXNzb3VyaS1yZXB1YmxpY2Fucy1nYXRoZXItaW4tc3ByaW5nZmllbGQtMjAyNC1wcmltYXJ5LWZpZ2h0cy1iZWdpbi1waWxpbmctdXAv0gEA?oc=5\" target=\"_blank\">As Missouri Republicans gather in Springfield, 2024 primary fights begin piling up • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Filibuster continues after Missouri Senate rejects '7-1' redistricting plan • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8wMi8wOC9maWxpYnVzdGVyLWNvbnRpbnVlcy1hZnRlci1taXNzb3VyaS1zZW5hdGUtcmVqZWN0cy03LTEtcmVkaXN0cmljdGluZy1wbGFuL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8wMi8wOC9maWxpYnVzdGVyLWNvbnRpbnVlcy1hZnRlci1taXNzb3VyaS1zZW5hdGUtcmVqZWN0cy03LTEtcmVkaXN0cmljdGluZy1wbGFuL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Feb 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8wMi8wOC9maWxpYnVzdGVyLWNvbnRpbnVlcy1hZnRlci1taXNzb3VyaS1zZW5hdGUtcmVqZWN0cy03LTEtcmVkaXN0cmljdGluZy1wbGFuL9IBAA?oc=5\" target=\"_blank\">Filibuster continues after Missouri Senate rejects '7-1' redistricting plan • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Caleb Rowden announces he will not run for Hartzler's Congress seat - Columbia Daily Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMS8xMS8wOC9jYWxlYi1yb3dkZW4tYW5ub3VuY2VzLWhlLW5vdC1ydW4taGFydHpsZXJzLWNvbmdyZXNzLXNlYXQtc2VuYXRlLWJvb25lLWNvb3Blci1jb3VudHkvNjMzODM4MTAwMS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMS8xMS8wOC9jYWxlYi1yb3dkZW4tYW5ub3VuY2VzLWhlLW5vdC1ydW4taGFydHpsZXJzLWNvbmdyZXNzLXNlYXQtc2VuYXRlLWJvb25lLWNvb3Blci1jb3VudHkvNjMzODM4MTAwMS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Nov 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMS8xMS8wOC9jYWxlYi1yb3dkZW4tYW5ub3VuY2VzLWhlLW5vdC1ydW4taGFydHpsZXJzLWNvbmdyZXNzLXNlYXQtc2VuYXRlLWJvb25lLWNvb3Blci1jb3VudHkvNjMzODM4MTAwMS_SAQA?oc=5\" target=\"_blank\">Caleb Rowden announces he will not run for Hartzler's Congress seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbia Daily Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Columbia Daily Tribune",
+                "$": {
+                  "url": "https://www.columbiatribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "President Pro Tem Rowden gives speech to open session. - The Missouri Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vcHJlc2lkZW50LXByby10ZW0tcm93ZGVuLWdpdmVzLXNwZWVjaC10by1vcGVuLXNlc3Npb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vcHJlc2lkZW50LXByby10ZW0tcm93ZGVuLWdpdmVzLXNwZWVjaC10by1vcGVuLXNlc3Npb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 04 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vcHJlc2lkZW50LXByby10ZW0tcm93ZGVuLWdpdmVzLXNwZWVjaC10by1vcGVuLXNlc3Npb24v0gEA?oc=5\" target=\"_blank\">President Pro Tem Rowden gives speech to open session.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Missouri Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Missouri Times",
+                "$": {
+                  "url": "https://themissouritimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri lawmakers back in Jefferson City for final week - KY3"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wNS8wOS9taXNzb3VyaS1sYXdtYWtlcnMtYmFjay1qZWZmZXJzb24tY2l0eS1maW5hbC13ZWVrL9IBYGh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wNS8wOS9taXNzb3VyaS1sYXdtYWtlcnMtYmFjay1qZWZmZXJzb24tY2l0eS1maW5hbC13ZWVrLz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wNS8wOS9taXNzb3VyaS1sYXdtYWtlcnMtYmFjay1qZWZmZXJzb24tY2l0eS1maW5hbC13ZWVrL9IBYGh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wNS8wOS9taXNzb3VyaS1sYXdtYWtlcnMtYmFjay1qZWZmZXJzb24tY2l0eS1maW5hbC13ZWVrLz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wNS8wOS9taXNzb3VyaS1sYXdtYWtlcnMtYmFjay1qZWZmZXJzb24tY2l0eS1maW5hbC13ZWVrL9IBYGh0dHBzOi8vd3d3Lmt5My5jb20vMjAyMy8wNS8wOS9taXNzb3VyaS1sYXdtYWtlcnMtYmFjay1qZWZmZXJzb24tY2l0eS1maW5hbC13ZWVrLz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">Missouri lawmakers back in Jefferson City for final week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KY3</font>"
+            ],
+            "source": [
+              {
+                "_": "KY3",
+                "$": {
+                  "url": "https://www.ky3.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Caleb Rowden narrowly beats Judy Baker in state Senate race - Columbia Daily Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjAvMTEvMDQvY2FsZWItcm93ZGVuLW5hcnJvd2x5LWJlYXRzLWp1ZHktYmFrZXItc3RhdGUtc2VuYXRlLXJhY2UvNjE1Nzc1NDAwMi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjAvMTEvMDQvY2FsZWItcm93ZGVuLW5hcnJvd2x5LWJlYXRzLWp1ZHktYmFrZXItc3RhdGUtc2VuYXRlLXJhY2UvNjE1Nzc1NDAwMi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Nov 2020 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5jb2x1bWJpYXRyaWJ1bmUuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjAvMTEvMDQvY2FsZWItcm93ZGVuLW5hcnJvd2x5LWJlYXRzLWp1ZHktYmFrZXItc3RhdGUtc2VuYXRlLXJhY2UvNjE1Nzc1NDAwMi_SAQA?oc=5\" target=\"_blank\">Caleb Rowden narrowly beats Judy Baker in state Senate race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbia Daily Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Columbia Daily Tribune",
+                "$": {
+                  "url": "https://www.columbiatribune.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate holds first end of week press conference - The Missouri Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vc2VuYXRlLWhvbGRzLWZpcnN0LWVuZC1vZi13ZWVrLXByZXNzLWNvbmZlcmVuY2Uv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vc2VuYXRlLWhvbGRzLWZpcnN0LWVuZC1vZi13ZWVrLXByZXNzLWNvbmZlcmVuY2Uv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vc2VuYXRlLWhvbGRzLWZpcnN0LWVuZC1vZi13ZWVrLXByZXNzLWNvbmZlcmVuY2Uv0gEA?oc=5\" target=\"_blank\">Senate holds first end of week press conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Missouri Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Missouri Times",
+                "$": {
+                  "url": "https://themissouritimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri GOP focused on raising bar to change Constitution - The Associated Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BvbGl0aWNzLW1pc3NvdXJpLXNwb3J0cy1iZXR0aW5nLXN0YXRlLWdvdmVybm1lbnQtdW5pdGVkLXN0YXRlcy1jMWU4OTM5YmRiYzAxMmMyZGExMjJmYTdiN2M4YWM0NtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BvbGl0aWNzLW1pc3NvdXJpLXNwb3J0cy1iZXR0aW5nLXN0YXRlLWdvdmVybm1lbnQtdW5pdGVkLXN0YXRlcy1jMWU4OTM5YmRiYzAxMmMyZGExMjJmYTdiN2M4YWM0NtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BvbGl0aWNzLW1pc3NvdXJpLXNwb3J0cy1iZXR0aW5nLXN0YXRlLWdvdmVybm1lbnQtdW5pdGVkLXN0YXRlcy1jMWU4OTM5YmRiYzAxMmMyZGExMjJmYTdiN2M4YWM0NtIBAA?oc=5\" target=\"_blank\">Missouri GOP focused on raising bar to change Constitution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Associated Press</font>"
+            ],
+            "source": [
+              {
+                "_": "The Associated Press",
+                "$": {
+                  "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Midterm vote shows Boone County to be persistent blue bubble - Columbia Missourian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3MvZWxlY3Rpb25zL21pZHRlcm0tdm90ZS1zaG93cy1ib29uZS1jb3VudHktdG8tYmUtcGVyc2lzdGVudC1ibHVlLWJ1YmJsZS9hcnRpY2xlXzZlY2Q3MTkwLTc0ZTAtMTFlZC1hZmM5LTczYzA3N2E0YjBmYi5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3MvZWxlY3Rpb25zL21pZHRlcm0tdm90ZS1zaG93cy1ib29uZS1jb3VudHktdG8tYmUtcGVyc2lzdGVudC1ibHVlLWJ1YmJsZS9hcnRpY2xlXzZlY2Q3MTkwLTc0ZTAtMTFlZC1hZmM5LTczYzA3N2E0YjBmYi5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 03 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5jb2x1bWJpYW1pc3NvdXJpYW4uY29tL25ld3MvZWxlY3Rpb25zL21pZHRlcm0tdm90ZS1zaG93cy1ib29uZS1jb3VudHktdG8tYmUtcGVyc2lzdGVudC1ibHVlLWJ1YmJsZS9hcnRpY2xlXzZlY2Q3MTkwLTc0ZTAtMTFlZC1hZmM5LTczYzA3N2E0YjBmYi5odG1s0gEA?oc=5\" target=\"_blank\">Midterm vote shows Boone County to be persistent blue bubble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbia Missourian</font>"
+            ],
+            "source": [
+              {
+                "_": "Columbia Missourian",
+                "$": {
+                  "url": "https://www.columbiamissourian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rowden sticking with state Senate over congressional bid - The Missouri Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vcm93ZGVuLXN0aWNraW5nLXdpdGgtc3RhdGUtc2VuYXRlLW92ZXItY29uZ3Jlc3Npb25hbC1iaWQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vcm93ZGVuLXN0aWNraW5nLXdpdGgtc3RhdGUtc2VuYXRlLW92ZXItY29uZ3Jlc3Npb25hbC1iaWQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 08 Nov 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdGhlbWlzc291cml0aW1lcy5jb20vcm93ZGVuLXN0aWNraW5nLXdpdGgtc3RhdGUtc2VuYXRlLW92ZXItY29uZ3Jlc3Npb25hbC1iaWQv0gEA?oc=5\" target=\"_blank\">Rowden sticking with state Senate over congressional bid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Missouri Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Missouri Times",
+                "$": {
+                  "url": "https://themissouritimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate Republicans pick Rowden, O'Laughlin for leadership in 2023 • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8xMS8xMC9taXNzb3VyaS1zZW5hdGUtcmVwdWJsaWNhbnMtcGljay1yb3dkZW4tb2xhdWdobGluLWZvci1sZWFkZXJzaGlwLWluLTIwMjMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidGh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8xMS8xMC9taXNzb3VyaS1zZW5hdGUtcmVwdWJsaWNhbnMtcGljay1yb3dkZW4tb2xhdWdobGluLWZvci1sZWFkZXJzaGlwLWluLTIwMjMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 10 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8xMS8xMC9taXNzb3VyaS1zZW5hdGUtcmVwdWJsaWNhbnMtcGljay1yb3dkZW4tb2xhdWdobGluLWZvci1sZWFkZXJzaGlwLWluLTIwMjMv0gEA?oc=5\" target=\"_blank\">Missouri Senate Republicans pick Rowden, O'Laughlin for leadership in 2023 • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri's redrawn congressional map remains in limbo after 31-hour Senate filibuster • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8wMi8wOC9maWxpYnVzdGVyLW9mLW1pc3NvdXJpLWNvbmdyZXNzaW9uYWwtcmVkaXN0cmljdGluZy1wbGFuLXBhc3Nlcy0yNi1ob3VyLW1hcmsv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8wMi8wOC9maWxpYnVzdGVyLW9mLW1pc3NvdXJpLWNvbmdyZXNzaW9uYWwtcmVkaXN0cmljdGluZy1wbGFuLXBhc3Nlcy0yNi1ob3VyLW1hcmsv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Feb 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8wMi8wOC9maWxpYnVzdGVyLW9mLW1pc3NvdXJpLWNvbmdyZXNzaW9uYWwtcmVkaXN0cmljdGluZy1wbGFuLXBhc3Nlcy0yNi1ob3VyLW1hcmsv0gEA?oc=5\" target=\"_blank\">Missouri's redrawn congressional map remains in limbo after 31-hour Senate filibuster • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri's Caleb Rowden alerts cops over Eric Greitens' 'RINO hunting' - New York Post "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbnlwb3N0LmNvbS8yMDIyLzA2LzIxL2NhbGViLXJvd2Rlbi1hbGVydHMtY29wcy1vdmVyLWVyaWMtZ3JlaXRlbnMtcmluby1odW50aW5nL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vbnlwb3N0LmNvbS8yMDIyLzA2LzIxL2NhbGViLXJvd2Rlbi1hbGVydHMtY29wcy1vdmVyLWVyaWMtZ3JlaXRlbnMtcmluby1odW50aW5nL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbnlwb3N0LmNvbS8yMDIyLzA2LzIxL2NhbGViLXJvd2Rlbi1hbGVydHMtY29wcy1vdmVyLWVyaWMtZ3JlaXRlbnMtcmluby1odW50aW5nL9IBAA?oc=5\" target=\"_blank\">Missouri's Caleb Rowden alerts cops over Eric Greitens' 'RINO hunting'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post </font>"
+            ],
+            "source": [
+              {
+                "_": "New York Post ",
+                "$": {
+                  "url": "https://nypost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Stephen Webber launches campaign for Missouri Senate seat in Boone County • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL3N0ZXBoZW4td2ViYmVyLWxhdW5jaGVzLWNhbXBhaWduLWZvci1taXNzb3VyaS1zZW5hdGUtc2VhdC1pbi1ib29uZS1jb3VudHkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL3N0ZXBoZW4td2ViYmVyLWxhdW5jaGVzLWNhbXBhaWduLWZvci1taXNzb3VyaS1zZW5hdGUtc2VhdC1pbi1ib29uZS1jb3VudHkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 09 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vYnJpZWZzL3N0ZXBoZW4td2ViYmVyLWxhdW5jaGVzLWNhbXBhaWduLWZvci1taXNzb3VyaS1zZW5hdGUtc2VhdC1pbi1ib29uZS1jb3VudHkv0gEA?oc=5\" target=\"_blank\">Stephen Webber launches campaign for Missouri Senate seat in Boone County • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Senate leader outlines legislative priorities, including education reform - St. Louis Post-Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9tdWx0aW1lZGlhL3ZpZGVvcy9zZW5hdGUtbGVhZGVyLW91dGxpbmVzLWxlZ2lzbGF0aXZlLXByaW9yaXRpZXMtaW5jbHVkaW5nLWVkdWNhdGlvbi1yZWZvcm0vdmlkZW9fMzc4YzJlY2EtYWE0NC01N2RjLWE5MWQtNmRhMjI1Y2YxMzU1Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9tdWx0aW1lZGlhL3ZpZGVvcy9zZW5hdGUtbGVhZGVyLW91dGxpbmVzLWxlZ2lzbGF0aXZlLXByaW9yaXRpZXMtaW5jbHVkaW5nLWVkdWNhdGlvbi1yZWZvcm0vdmlkZW9fMzc4YzJlY2EtYWE0NC01N2RjLWE5MWQtNmRhMjI1Y2YxMzU1Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5zdGx0b2RheS5jb20vbmV3cy9tdWx0aW1lZGlhL3ZpZGVvcy9zZW5hdGUtbGVhZGVyLW91dGxpbmVzLWxlZ2lzbGF0aXZlLXByaW9yaXRpZXMtaW5jbHVkaW5nLWVkdWNhdGlvbi1yZWZvcm0vdmlkZW9fMzc4YzJlY2EtYWE0NC01N2RjLWE5MWQtNmRhMjI1Y2YxMzU1Lmh0bWzSAQA?oc=5\" target=\"_blank\">Senate leader outlines legislative priorities, including education reform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis Post-Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "St. Louis Post-Dispatch",
+                "$": {
+                  "url": "https://www.stltoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alumni Association honors legislators Brian Williams, Caleb Rowden, Marlon Anderson and the late Tom Hannegan - UMSL Daily"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYmxvZ3MudW1zbC5lZHUvbmV3cy8yMDIyLzAxLzAzL2FsdW1uaS1hc3NvY2lhdGlvbi1mcmllbmRzLW9mLWhpZ2hlci1lZHVjYXRpb24tYXdhcmRzL9IBYWh0dHBzOi8vYmxvZ3MudW1zbC5lZHUvbmV3cy8yMDIyLzAxLzAzL2FsdW1uaS1hc3NvY2lhdGlvbi1mcmllbmRzLW9mLWhpZ2hlci1lZHVjYXRpb24tYXdhcmRzL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vYmxvZ3MudW1zbC5lZHUvbmV3cy8yMDIyLzAxLzAzL2FsdW1uaS1hc3NvY2lhdGlvbi1mcmllbmRzLW9mLWhpZ2hlci1lZHVjYXRpb24tYXdhcmRzL9IBYWh0dHBzOi8vYmxvZ3MudW1zbC5lZHUvbmV3cy8yMDIyLzAxLzAzL2FsdW1uaS1hc3NvY2lhdGlvbi1mcmllbmRzLW9mLWhpZ2hlci1lZHVjYXRpb24tYXdhcmRzL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 03 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYmxvZ3MudW1zbC5lZHUvbmV3cy8yMDIyLzAxLzAzL2FsdW1uaS1hc3NvY2lhdGlvbi1mcmllbmRzLW9mLWhpZ2hlci1lZHVjYXRpb24tYXdhcmRzL9IBYWh0dHBzOi8vYmxvZ3MudW1zbC5lZHUvbmV3cy8yMDIyLzAxLzAzL2FsdW1uaS1hc3NvY2lhdGlvbi1mcmllbmRzLW9mLWhpZ2hlci1lZHVjYXRpb24tYXdhcmRzL2FtcC8?oc=5\" target=\"_blank\">Alumni Association honors legislators Brian Williams, Caleb Rowden, Marlon Anderson and the late Tom Hannegan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UMSL Daily</font>"
+            ],
+            "source": [
+              {
+                "_": "UMSL Daily",
+                "$": {
+                  "url": "https://blogs.umsl.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Republican calls for a change in Senate leadership over handling of FRA bill • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjEvMDUvMjgvbWlzc291cmktcmVwdWJsaWNhbi1jYWxscy1mb3ItYS1jaGFuZ2UtaW4tc2VuYXRlLWxlYWRlcnNoaXAtb3Zlci1oYW5kbGluZy1vZi1mcmEtYmlsbC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigQFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjEvMDUvMjgvbWlzc291cmktcmVwdWJsaWNhbi1jYWxscy1mb3ItYS1jaGFuZ2UtaW4tc2VuYXRlLWxlYWRlcnNoaXAtb3Zlci1oYW5kbGluZy1vZi1mcmEtYmlsbC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 28 May 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjEvMDUvMjgvbWlzc291cmktcmVwdWJsaWNhbi1jYWxscy1mb3ItYS1jaGFuZ2UtaW4tc2VuYXRlLWxlYWRlcnNoaXAtb3Zlci1oYW5kbGluZy1vZi1mcmEtYmlsbC_SAQA?oc=5\" target=\"_blank\">Missouri Republican calls for a change in Senate leadership over handling of FRA bill • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Three big takeaways from Missouri governor's 2023 State of the State - News-Leader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzAxLzIwL3RocmVlLWJpZy10YWtlYXdheXMtZnJvbS1taXNzb3VyaS1nb3Zlcm5vcnMtMjAyMy1zdGF0ZS1vZi10aGUtc3RhdGUvNjk4MDYyNjkwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzAxLzIwL3RocmVlLWJpZy10YWtlYXdheXMtZnJvbS1taXNzb3VyaS1nb3Zlcm5vcnMtMjAyMy1zdGF0ZS1vZi10aGUtc3RhdGUvNjk4MDYyNjkwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 20 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5uZXdzLWxlYWRlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzAxLzIwL3RocmVlLWJpZy10YWtlYXdheXMtZnJvbS1taXNzb3VyaS1nb3Zlcm5vcnMtMjAyMy1zdGF0ZS1vZi10aGUtc3RhdGUvNjk4MDYyNjkwMDcv0gEA?oc=5\" target=\"_blank\">Three big takeaways from Missouri governor's 2023 State of the State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Leader</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Leader",
+                "$": {
+                  "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Columbia's Rowden elected as Missouri Senate President; Plank and Steinhoff sworn-in - 939theeagle.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2NvbHVtYmlhcy1yb3dkZW4tZWxlY3RlZC1hcy1taXNzb3VyaS1zZW5hdGUtcHJlc2lkZW50LXBsYW5rLWFuZC1zdGVpbmhvZmYtc3dvcm4taW4v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2NvbHVtYmlhcy1yb3dkZW4tZWxlY3RlZC1hcy1taXNzb3VyaS1zZW5hdGUtcHJlc2lkZW50LXBsYW5rLWFuZC1zdGVpbmhvZmYtc3dvcm4taW4v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL2NvbHVtYmlhcy1yb3dkZW4tZWxlY3RlZC1hcy1taXNzb3VyaS1zZW5hdGUtcHJlc2lkZW50LXBsYW5rLWFuZC1zdGVpbmhvZmYtc3dvcm4taW4v0gEA?oc=5\" target=\"_blank\">Columbia's Rowden elected as Missouri Senate President; Plank and Steinhoff sworn-in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
+            ],
+            "source": [
+              {
+                "_": "939theeagle.com",
+                "$": {
+                  "url": "https://939theeagle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate leader contacted police after Greitens video - Kansas City Star"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjYyNzAzNjMyLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjYyNzAzNjMyLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 21 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjYyNzAzNjMyLmh0bWzSAQA?oc=5\" target=\"_blank\">Missouri Senate leader contacted police after Greitens video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas City Star</font>"
+            ],
+            "source": [
+              {
+                "_": "Kansas City Star",
+                "$": {
+                  "url": "https://www.kansascity.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gov. Parson's plan to give state workers a pay raise wins support from Missouri Senate leadership - KCUR"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5rY3VyLm9yZy9wb2xpdGljcy1lbGVjdGlvbnMtYW5kLWdvdmVybm1lbnQvMjAyMy0wMS0xMy9nb3YtcGFyc29ucy1wbGFuLXRvLWdpdmUtc3RhdGUtd29ya2Vycy1hLXBheS1yYWlzZS13aW5zLXN1cHBvcnQtZnJvbS1taXNzb3VyaS1zZW5hdGUtbGVhZGVyc2hpcNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMioQFodHRwczovL3d3dy5rY3VyLm9yZy9wb2xpdGljcy1lbGVjdGlvbnMtYW5kLWdvdmVybm1lbnQvMjAyMy0wMS0xMy9nb3YtcGFyc29ucy1wbGFuLXRvLWdpdmUtc3RhdGUtd29ya2Vycy1hLXBheS1yYWlzZS13aW5zLXN1cHBvcnQtZnJvbS1taXNzb3VyaS1zZW5hdGUtbGVhZGVyc2hpcNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 13 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5rY3VyLm9yZy9wb2xpdGljcy1lbGVjdGlvbnMtYW5kLWdvdmVybm1lbnQvMjAyMy0wMS0xMy9nb3YtcGFyc29ucy1wbGFuLXRvLWdpdmUtc3RhdGUtd29ya2Vycy1hLXBheS1yYWlzZS13aW5zLXN1cHBvcnQtZnJvbS1taXNzb3VyaS1zZW5hdGUtbGVhZGVyc2hpcNIBAA?oc=5\" target=\"_blank\">Gov. Parson's plan to give state workers a pay raise wins support from Missouri Senate leadership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCUR</font>"
+            ],
+            "source": [
+              {
+                "_": "KCUR",
+                "$": {
+                  "url": "https://www.kcur.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Drag performers at Columbia event push back against Missouri Republican attack • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMS8yMy9kcmFnLXBlcmZvcm1lcnMtYXQtY29sdW1iaWEtZXZlbnQtcHVzaC1iYWNrLWFnYWluc3QtbWlzc291cmktcmVwdWJsaWNhbi1hdHRhY2sv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMS8yMy9kcmFnLXBlcmZvcm1lcnMtYXQtY29sdW1iaWEtZXZlbnQtcHVzaC1iYWNrLWFnYWluc3QtbWlzc291cmktcmVwdWJsaWNhbi1hdHRhY2sv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 23 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8wMS8yMy9kcmFnLXBlcmZvcm1lcnMtYXQtY29sdW1iaWEtZXZlbnQtcHVzaC1iYWNrLWFnYWluc3QtbWlzc291cmktcmVwdWJsaWNhbi1hdHRhY2sv0gEA?oc=5\" target=\"_blank\">Drag performers at Columbia event push back against Missouri Republican attack • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri Senate opens annual session with bitter divisions on display • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8wMS8wNS9taXNzb3VyaS1zZW5hdGUtb3BlbnMtYW5udWFsLXNlc3Npb24td2l0aC1iaXR0ZXItZGl2aXNpb25zLW9uLWRpc3BsYXkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8wMS8wNS9taXNzb3VyaS1zZW5hdGUtb3BlbnMtYW5udWFsLXNlc3Npb24td2l0aC1iaXR0ZXItZGl2aXNpb25zLW9uLWRpc3BsYXkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMi8wMS8wNS9taXNzb3VyaS1zZW5hdGUtb3BlbnMtYW5udWFsLXNlc3Npb24td2l0aC1iaXR0ZXItZGl2aXNpb25zLW9uLWRpc3BsYXkv0gEA?oc=5\" target=\"_blank\">Missouri Senate opens annual session with bitter divisions on display • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Despite concerns over cost, Missouri charter school funding boost still expected to move • Missouri Independent - Missouri Independent"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjIvMDQvMTUvZGVzcGl0ZS1jb25jZXJucy1vdmVyLWNvc3QtbWlzc291cmktY2hhcnRlci1zY2hvb2wtZnVuZGluZy1ib29zdC1zdGlsbC1leHBlY3RlZC10by1tb3ZlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigwFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjIvMDQvMTUvZGVzcGl0ZS1jb25jZXJucy1vdmVyLWNvc3QtbWlzc291cmktY2hhcnRlci1zY2hvb2wtZnVuZGluZy1ib29zdC1zdGlsbC1leHBlY3RlZC10by1tb3ZlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Apr 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL21pc3NvdXJpaW5kZXBlbmRlbnQuY29tLzIwMjIvMDQvMTUvZGVzcGl0ZS1jb25jZXJucy1vdmVyLWNvc3QtbWlzc291cmktY2hhcnRlci1zY2hvb2wtZnVuZGluZy1ib29zdC1zdGlsbC1leHBlY3RlZC10by1tb3ZlL9IBAA?oc=5\" target=\"_blank\">Despite concerns over cost, Missouri charter school funding boost still expected to move • Missouri Independent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Missouri Independent</font>"
+            ],
+            "source": [
+              {
+                "_": "Missouri Independent",
+                "$": {
+                  "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Missouri is not doing enough to help students, says Senate President - KTVI Fox 2 St. Louis"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9taXNzb3VyaS1pcy1ub3QtZG9pbmctZW5vdWdoLXRvLWhlbHAtc3R1ZGVudHMtc2F5cy1zZW5hdGUtcHJlc2lkZW50L9IBamh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9taXNzb3VyaS1pcy1ub3QtZG9pbmctZW5vdWdoLXRvLWhlbHAtc3R1ZGVudHMtc2F5cy1zZW5hdGUtcHJlc2lkZW50L2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9taXNzb3VyaS1pcy1ub3QtZG9pbmctZW5vdWdoLXRvLWhlbHAtc3R1ZGVudHMtc2F5cy1zZW5hdGUtcHJlc2lkZW50L9IBamh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9taXNzb3VyaS1pcy1ub3QtZG9pbmctZW5vdWdoLXRvLWhlbHAtc3R1ZGVudHMtc2F5cy1zZW5hdGUtcHJlc2lkZW50L2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 05 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9taXNzb3VyaS1pcy1ub3QtZG9pbmctZW5vdWdoLXRvLWhlbHAtc3R1ZGVudHMtc2F5cy1zZW5hdGUtcHJlc2lkZW50L9IBamh0dHBzOi8vZm94Mm5vdy5jb20vbmV3cy9taXNzb3VyaS9taXNzb3VyaS1pcy1ub3QtZG9pbmctZW5vdWdoLXRvLWhlbHAtc3R1ZGVudHMtc2F5cy1zZW5hdGUtcHJlc2lkZW50L2FtcC8?oc=5\" target=\"_blank\">Missouri is not doing enough to help students, says Senate President</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVI Fox 2 St. Louis</font>"
+            ],
+            "source": [
+              {
+                "_": "KTVI Fox 2 St. Louis",
+                "$": {
+                  "url": "https://fox2now.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
