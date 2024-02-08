@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -2613,36 +2613,6 @@
           },
           {
             "title": [
-              "Hanwha Q Cells to provide 12 gigawatt-class solar panels to Microsoft - Aju Business Daily"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vbS5hanVkYWlseS5jb20vdmlldy8yMDI0MDEwOTEzMjkwMTkxMdIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiLWh0dHBzOi8vbS5hanVkYWlseS5jb20vdmlldy8yMDI0MDEwOTEzMjkwMTkxMdIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 09 Jan 2024 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vbS5hanVkYWlseS5jb20vdmlldy8yMDI0MDEwOTEzMjkwMTkxMdIBAA?oc=5\" target=\"_blank\">Hanwha Q Cells to provide 12 gigawatt-class solar panels to Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aju Business Daily</font>"
-            ],
-            "source": [
-              {
-                "_": "Aju Business Daily",
-                "$": {
-                  "url": "https://m.ajudaily.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Qcells' Cartersville Campus to Power Microsoft Projects in 8-Year Deal - Northwest Georgia News"
             ],
             "link": [
@@ -2667,6 +2637,36 @@
                 "_": "Northwest Georgia News",
                 "$": {
                   "url": "https://www.northwestgeorgianews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hanwha Q Cells to provide 12 gigawatt-class solar panels to Microsoft - Aju Business Daily"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vbS5hanVkYWlseS5jb20vdmlldy8yMDI0MDEwOTEzMjkwMTkxMdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiLWh0dHBzOi8vbS5hanVkYWlseS5jb20vdmlldy8yMDI0MDEwOTEzMjkwMTkxMdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 09 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vbS5hanVkYWlseS5jb20vdmlldy8yMDI0MDEwOTEzMjkwMTkxMdIBAA?oc=5\" target=\"_blank\">Hanwha Q Cells to provide 12 gigawatt-class solar panels to Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aju Business Daily</font>"
+            ],
+            "source": [
+              {
+                "_": "Aju Business Daily",
+                "$": {
+                  "url": "https://m.ajudaily.com"
                 }
               }
             ]

@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:22 GMT"
         ],
         "description": [
           "Google News"
@@ -137,7 +137,7 @@
               }
             ],
             "pubDate": [
-              "Wed, 07 Feb 2024 01:20:34 GMT"
+              "Wed, 07 Feb 2024 06:11:19 GMT"
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmR3LmNvbS9lbi9iaWRlbi1ob21lbGFuZC1zZWN1cml0eS1jaGllZi1zdXJ2aXZlcy1pbXBlYWNobWVudC12b3RlL2EtNjgxODk1OTjSAVhodHRwczovL2FtcC5kdy5jb20vZW4vYmlkZW4taG9tZWxhbmQtc2VjdXJpdHktY2hpZWYtc3Vydml2ZXMtaW1wZWFjaG1lbnQtdm90ZS9hLTY4MTg5NTk4?oc=5\" target=\"_blank\">Biden homeland security chief survives impeachment vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW (English)</font>"
@@ -393,30 +393,30 @@
           },
           {
             "title": [
-              "Impeachment of Homeland Security Secretary Mayorkas fails on floor of U.S. House – Tennessee Lookout - Tennessee Lookout"
+              "US House impeachment of Biden border chief in jeopardy, voting continues - Reuters"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGVubmVzc2VlbG9va291dC5jb20vMjAyNC8wMi8wNi9pbXBlYWNobWVudC1vZi1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnktbWF5b3JrYXMtZmFpbHMtb24tZmxvb3Itb2YtdS1zLWhvdXNlL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLWltcGVhY2htZW50LWJpZGVuLWJvcmRlci1jaGllZi1qZW9wYXJkeS12b3RpbmctY29udGludWVzLTIwMjQtMDItMDYv0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMieGh0dHBzOi8vdGVubmVzc2VlbG9va291dC5jb20vMjAyNC8wMi8wNi9pbXBlYWNobWVudC1vZi1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnktbWF5b3JrYXMtZmFpbHMtb24tZmxvb3Itb2YtdS1zLWhvdXNlL9IBAA",
+                "_": "CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLWltcGVhY2htZW50LWJpZGVuLWJvcmRlci1jaGllZi1qZW9wYXJkeS12b3RpbmctY29udGludWVzLTIwMjQtMDItMDYv0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 07 Feb 2024 00:36:57 GMT"
+              "Tue, 06 Feb 2024 23:37:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGVubmVzc2VlbG9va291dC5jb20vMjAyNC8wMi8wNi9pbXBlYWNobWVudC1vZi1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnktbWF5b3JrYXMtZmFpbHMtb24tZmxvb3Itb2YtdS1zLWhvdXNlL9IBAA?oc=5\" target=\"_blank\">Impeachment of Homeland Security Secretary Mayorkas fails on floor of U.S. House – Tennessee Lookout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessee Lookout</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLWltcGVhY2htZW50LWJpZGVuLWJvcmRlci1jaGllZi1qZW9wYXJkeS12b3RpbmctY29udGludWVzLTIwMjQtMDItMDYv0gEA?oc=5\" target=\"_blank\">US House impeachment of Biden border chief in jeopardy, voting continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
             ],
             "source": [
               {
-                "_": "Tennessee Lookout",
+                "_": "Reuters",
                 "$": {
-                  "url": "https://tennesseelookout.com"
+                  "url": "https://www.reuters.com"
                 }
               }
             ]
@@ -447,6 +447,66 @@
                 "_": "Mint",
                 "$": {
                   "url": "https://www.livemint.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hunter Biden agrees to face Republican committee in impeachment probe - Hindustan Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL2h1bnRlci1iaWRlbi1hZ3JlZXMtdG8tZmFjZS1yZXB1YmxpY2FuLWNvbW1pdHRlZS1pbi1pbXBlYWNobWVudC1wcm9iZS0xMDE3MDU2Mjg0MDQ3NjEuaHRtbNIBkAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL2h1bnRlci1iaWRlbi1hZ3JlZXMtdG8tZmFjZS1yZXB1YmxpY2FuLWNvbW1pdHRlZS1pbi1pbXBlYWNobWVudC1wcm9iZS0xMDE3MDU2Mjg0MDQ3NjEtYW1wLmh0bWw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL2h1bnRlci1iaWRlbi1hZ3JlZXMtdG8tZmFjZS1yZXB1YmxpY2FuLWNvbW1pdHRlZS1pbi1pbXBlYWNobWVudC1wcm9iZS0xMDE3MDU2Mjg0MDQ3NjEuaHRtbNIBkAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL2h1bnRlci1iaWRlbi1hZ3JlZXMtdG8tZmFjZS1yZXB1YmxpY2FuLWNvbW1pdHRlZS1pbi1pbXBlYWNobWVudC1wcm9iZS0xMDE3MDU2Mjg0MDQ3NjEtYW1wLmh0bWw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL2h1bnRlci1iaWRlbi1hZ3JlZXMtdG8tZmFjZS1yZXB1YmxpY2FuLWNvbW1pdHRlZS1pbi1pbXBlYWNobWVudC1wcm9iZS0xMDE3MDU2Mjg0MDQ3NjEuaHRtbNIBkAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL2h1bnRlci1iaWRlbi1hZ3JlZXMtdG8tZmFjZS1yZXB1YmxpY2FuLWNvbW1pdHRlZS1pbi1pbXBlYWNobWVudC1wcm9iZS0xMDE3MDU2Mjg0MDQ3NjEtYW1wLmh0bWw?oc=5\" target=\"_blank\">Hunter Biden agrees to face Republican committee in impeachment probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Hindustan Times",
+                "$": {
+                  "url": "https://www.hindustantimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US House of Representatives Votes To Authorise Joe Biden Impeachment Inquiry - The Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGhld2lyZS5pbi93b3JsZC91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXV0aG9yaXNlLWpvZS1iaWRlbi1pbXBlYWNobWVudC1pbnF1aXJ50gFqaHR0cHM6Ly9tLnRoZXdpcmUuaW4vYXJ0aWNsZS93b3JsZC91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXV0aG9yaXNlLWpvZS1iaWRlbi1pbXBlYWNobWVudC1pbnF1aXJ5L2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vdGhld2lyZS5pbi93b3JsZC91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXV0aG9yaXNlLWpvZS1iaWRlbi1pbXBlYWNobWVudC1pbnF1aXJ50gFqaHR0cHM6Ly9tLnRoZXdpcmUuaW4vYXJ0aWNsZS93b3JsZC91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXV0aG9yaXNlLWpvZS1iaWRlbi1pbXBlYWNobWVudC1pbnF1aXJ5L2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGhld2lyZS5pbi93b3JsZC91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXV0aG9yaXNlLWpvZS1iaWRlbi1pbXBlYWNobWVudC1pbnF1aXJ50gFqaHR0cHM6Ly9tLnRoZXdpcmUuaW4vYXJ0aWNsZS93b3JsZC91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXV0aG9yaXNlLWpvZS1iaWRlbi1pbXBlYWNobWVudC1pbnF1aXJ5L2FtcA?oc=5\" target=\"_blank\">US House of Representatives Votes To Authorise Joe Biden Impeachment Inquiry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "The Wire",
+                "$": {
+                  "url": "https://thewire.in"
                 }
               }
             ]
@@ -507,6 +567,96 @@
                 "_": "CNN",
                 "$": {
                   "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Impeachment of Homeland Security Secretary Mayorkas fails on floor of U.S. House – Tennessee Lookout - Tennessee Lookout"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGVubmVzc2VlbG9va291dC5jb20vMjAyNC8wMi8wNi9pbXBlYWNobWVudC1vZi1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnktbWF5b3JrYXMtZmFpbHMtb24tZmxvb3Itb2YtdS1zLWhvdXNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vdGVubmVzc2VlbG9va291dC5jb20vMjAyNC8wMi8wNi9pbXBlYWNobWVudC1vZi1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnktbWF5b3JrYXMtZmFpbHMtb24tZmxvb3Itb2YtdS1zLWhvdXNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 00:36:57 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGVubmVzc2VlbG9va291dC5jb20vMjAyNC8wMi8wNi9pbXBlYWNobWVudC1vZi1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnktbWF5b3JrYXMtZmFpbHMtb24tZmxvb3Itb2YtdS1zLWhvdXNlL9IBAA?oc=5\" target=\"_blank\">Impeachment of Homeland Security Secretary Mayorkas fails on floor of U.S. House – Tennessee Lookout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessee Lookout</font>"
+            ],
+            "source": [
+              {
+                "_": "Tennessee Lookout",
+                "$": {
+                  "url": "https://tennesseelookout.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Explained | Joe Biden's impeachment inquiry and what it means for him - CNBCTV18"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS93b3JsZC91cy1wcmVzaWRlbnQtam9lLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktZXhwbGFpbmVkLTE4NTc3NTQxLmh0bdIBZGh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS93b3JsZC91cy1wcmVzaWRlbnQtam9lLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktZXhwbGFpbmVkLTE4NTc3NTQxLmh0bS9hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS93b3JsZC91cy1wcmVzaWRlbnQtam9lLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktZXhwbGFpbmVkLTE4NTc3NTQxLmh0bdIBZGh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS93b3JsZC91cy1wcmVzaWRlbnQtam9lLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktZXhwbGFpbmVkLTE4NTc3NTQxLmh0bS9hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS93b3JsZC91cy1wcmVzaWRlbnQtam9lLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktZXhwbGFpbmVkLTE4NTc3NTQxLmh0bdIBZGh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS93b3JsZC91cy1wcmVzaWRlbnQtam9lLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktZXhwbGFpbmVkLTE4NTc3NTQxLmh0bS9hbXA?oc=5\" target=\"_blank\">Explained | Joe Biden's impeachment inquiry and what it means for him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBCTV18</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBCTV18",
+                "$": {
+                  "url": "https://www.cnbctv18.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US House Republicans authorise Joe Biden impeachment inquiry - CNBCTV18"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS93b3JsZC9iaWRlbi1pbXBlYWNobWVudC1pbnF1aXJ5LXVzLWhvdXNlLXJlcHVibGljYW5zLWF1dGhvcmlzZS0xODU2NDY0MS5odG3SAWhodHRwczovL3d3dy5jbmJjdHYxOC5jb20vd29ybGQvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS11cy1ob3VzZS1yZXB1YmxpY2Fucy1hdXRob3Jpc2UtMTg1NjQ2NDEuaHRtL2FtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS93b3JsZC9iaWRlbi1pbXBlYWNobWVudC1pbnF1aXJ5LXVzLWhvdXNlLXJlcHVibGljYW5zLWF1dGhvcmlzZS0xODU2NDY0MS5odG3SAWhodHRwczovL3d3dy5jbmJjdHYxOC5jb20vd29ybGQvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS11cy1ob3VzZS1yZXB1YmxpY2Fucy1hdXRob3Jpc2UtMTg1NjQ2NDEuaHRtL2FtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNuYmN0djE4LmNvbS93b3JsZC9iaWRlbi1pbXBlYWNobWVudC1pbnF1aXJ5LXVzLWhvdXNlLXJlcHVibGljYW5zLWF1dGhvcmlzZS0xODU2NDY0MS5odG3SAWhodHRwczovL3d3dy5jbmJjdHYxOC5jb20vd29ybGQvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS11cy1ob3VzZS1yZXB1YmxpY2Fucy1hdXRob3Jpc2UtMTg1NjQ2NDEuaHRtL2FtcA?oc=5\" target=\"_blank\">US House Republicans authorise Joe Biden impeachment inquiry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBCTV18</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBCTV18",
+                "$": {
+                  "url": "https://www.cnbctv18.com"
                 }
               }
             ]
@@ -633,36 +783,6 @@
           },
           {
             "title": [
-              "Republicans' plan to get Biden impeached hits a roadblock, new poll reveals - Hindustan Times"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL3JlcHVibGljYW5zLXBsYW4tdG8tZ2V0LWJpZGVuLWltcGVhY2hlZC1oaXRzLWEtcm9hZGJsb2NrLW5ldy1wb2xsLXJldmVhbHMtc3VycHJpc2luZy1kZXRhaWxzLTEwMTcwMjQ0MTMyNDEyNS5odG1s0gGnAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS93b3JsZC1uZXdzL3VzLW5ld3MvcmVwdWJsaWNhbnMtcGxhbi10by1nZXQtYmlkZW4taW1wZWFjaGVkLWhpdHMtYS1yb2FkYmxvY2stbmV3LXBvbGwtcmV2ZWFscy1zdXJwcmlzaW5nLWRldGFpbHMtMTAxNzAyNDQxMzI0MTI1LWFtcC5odG1s?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiowFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL3JlcHVibGljYW5zLXBsYW4tdG8tZ2V0LWJpZGVuLWltcGVhY2hlZC1oaXRzLWEtcm9hZGJsb2NrLW5ldy1wb2xsLXJldmVhbHMtc3VycHJpc2luZy1kZXRhaWxzLTEwMTcwMjQ0MTMyNDEyNS5odG1s0gGnAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS93b3JsZC1uZXdzL3VzLW5ld3MvcmVwdWJsaWNhbnMtcGxhbi10by1nZXQtYmlkZW4taW1wZWFjaGVkLWhpdHMtYS1yb2FkYmxvY2stbmV3LXBvbGwtcmV2ZWFscy1zdXJwcmlzaW5nLWRldGFpbHMtMTAxNzAyNDQxMzI0MTI1LWFtcC5odG1s",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 13 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL3JlcHVibGljYW5zLXBsYW4tdG8tZ2V0LWJpZGVuLWltcGVhY2hlZC1oaXRzLWEtcm9hZGJsb2NrLW5ldy1wb2xsLXJldmVhbHMtc3VycHJpc2luZy1kZXRhaWxzLTEwMTcwMjQ0MTMyNDEyNS5odG1s0gGnAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS93b3JsZC1uZXdzL3VzLW5ld3MvcmVwdWJsaWNhbnMtcGxhbi10by1nZXQtYmlkZW4taW1wZWFjaGVkLWhpdHMtYS1yb2FkYmxvY2stbmV3LXBvbGwtcmV2ZWFscy1zdXJwcmlzaW5nLWRldGFpbHMtMTAxNzAyNDQxMzI0MTI1LWFtcC5odG1s?oc=5\" target=\"_blank\">Republicans' plan to get Biden impeached hits a roadblock, new poll reveals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>"
-            ],
-            "source": [
-              {
-                "_": "Hindustan Times",
-                "$": {
-                  "url": "https://www.hindustantimes.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "'Trump Revenge Show': House GOP Ready to Impeach Biden - TIME"
             ],
             "link": [
@@ -717,6 +837,66 @@
                 "_": "The New Republic",
                 "$": {
                   "url": "https://newrepublic.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US House launches Republican impeachment inquiry against President Biden - The Economic Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimgFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvdXMtaG91c2UtbGF1bmNoZXMtcmVwdWJsaWNhbi1pbXBlYWNobWVudC1pbnF1aXJ5LWFnYWluc3QtcHJlc2lkZW50LWJpZGVuL3ZpZGVvc2hvdy8xMDU5NzIzNzkuY21z0gGeAWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvd29ybGQtbmV3cy91cy1ob3VzZS1sYXVuY2hlcy1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1wcmVzaWRlbnQtYmlkZW4vYW1wX3ZpZGVvc2hvdy8xMDU5NzIzNzkuY21z?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimgFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvdXMtaG91c2UtbGF1bmNoZXMtcmVwdWJsaWNhbi1pbXBlYWNobWVudC1pbnF1aXJ5LWFnYWluc3QtcHJlc2lkZW50LWJpZGVuL3ZpZGVvc2hvdy8xMDU5NzIzNzkuY21z0gGeAWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvd29ybGQtbmV3cy91cy1ob3VzZS1sYXVuY2hlcy1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1wcmVzaWRlbnQtYmlkZW4vYW1wX3ZpZGVvc2hvdy8xMDU5NzIzNzkuY21z",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimgFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvdXMtaG91c2UtbGF1bmNoZXMtcmVwdWJsaWNhbi1pbXBlYWNobWVudC1pbnF1aXJ5LWFnYWluc3QtcHJlc2lkZW50LWJpZGVuL3ZpZGVvc2hvdy8xMDU5NzIzNzkuY21z0gGeAWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvd29ybGQtbmV3cy91cy1ob3VzZS1sYXVuY2hlcy1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1wcmVzaWRlbnQtYmlkZW4vYW1wX3ZpZGVvc2hvdy8xMDU5NzIzNzkuY21z?oc=5\" target=\"_blank\">US House launches Republican impeachment inquiry against President Biden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Economic Times",
+                "$": {
+                  "url": "https://m.economictimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hunter Biden agrees to testify in impeachment probe - BBC.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjgwMjY3NzPSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY4MDI2NzczLmFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjgwMjY3NzPSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY4MDI2NzczLmFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjgwMjY3NzPSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY4MDI2NzczLmFtcA?oc=5\" target=\"_blank\">Hunter Biden agrees to testify in impeachment probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC.com</font>"
+            ],
+            "source": [
+              {
+                "_": "BBC.com",
+                "$": {
+                  "url": "https://www.bbc.com"
                 }
               }
             ]
@@ -783,6 +963,36 @@
           },
           {
             "title": [
+              "US House Launches Republican Impeachment Inquiry Against Biden - NDTV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MdIBcmh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MS9hbXAvMQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MdIBcmh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MS9hbXAvMQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MdIBcmh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MS9hbXAvMQ?oc=5\" target=\"_blank\">US House Launches Republican Impeachment Inquiry Against Biden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>"
+            ],
+            "source": [
+              {
+                "_": "NDTV",
+                "$": {
+                  "url": "https://www.ndtv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "The GOP Wants to Impeach Biden. Republicans Can't Even Impeach the DHS Secretary. - The Daily Beast"
             ],
             "link": [
@@ -807,6 +1017,36 @@
                 "_": "The Daily Beast",
                 "$": {
                   "url": "https://www.thedailybeast.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US House of Representatives approves impeachment inquiry on President Joe Biden - IndiaTimes"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXBwcm92ZXMtaW1wZWFjaG1lbnQtaW5xdWlyeS1vbi1wcmVzaWRlbnQtam9lLWJpZGVuL2FydGljbGVzaG93LzEwNTk3MTY0MC5jbXPSAZEBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vd29ybGQvdXMvdXMtaG91c2Utb2YtcmVwcmVzZW50YXRpdmVzLWFwcHJvdmVzLWltcGVhY2htZW50LWlucXVpcnktb24tcHJlc2lkZW50LWpvZS1iaWRlbi9hbXBfYXJ0aWNsZXNob3cvMTA1OTcxNjQwLmNtcw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXBwcm92ZXMtaW1wZWFjaG1lbnQtaW5xdWlyeS1vbi1wcmVzaWRlbnQtam9lLWJpZGVuL2FydGljbGVzaG93LzEwNTk3MTY0MC5jbXPSAZEBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vd29ybGQvdXMvdXMtaG91c2Utb2YtcmVwcmVzZW50YXRpdmVzLWFwcHJvdmVzLWltcGVhY2htZW50LWlucXVpcnktb24tcHJlc2lkZW50LWpvZS1iaWRlbi9hbXBfYXJ0aWNsZXNob3cvMTA1OTcxNjQwLmNtcw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXBwcm92ZXMtaW1wZWFjaG1lbnQtaW5xdWlyeS1vbi1wcmVzaWRlbnQtam9lLWJpZGVuL2FydGljbGVzaG93LzEwNTk3MTY0MC5jbXPSAZEBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vd29ybGQvdXMvdXMtaG91c2Utb2YtcmVwcmVzZW50YXRpdmVzLWFwcHJvdmVzLWltcGVhY2htZW50LWlucXVpcnktb24tcHJlc2lkZW50LWpvZS1iaWRlbi9hbXBfYXJ0aWNsZXNob3cvMTA1OTcxNjQwLmNtcw?oc=5\" target=\"_blank\">US House of Representatives approves impeachment inquiry on President Joe Biden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndiaTimes</font>"
+            ],
+            "source": [
+              {
+                "_": "IndiaTimes",
+                "$": {
+                  "url": "https://m.timesofindia.com"
                 }
               }
             ]
@@ -843,66 +1083,6 @@
           },
           {
             "title": [
-              "US House Launches Republican Impeachment Inquiry Against Biden - NDTV"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MdIBcmh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MS9hbXAvMQ?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMibGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MdIBcmh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MS9hbXAvMQ",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 14 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MdIBcmh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtaG91c2UtdG8tdm90ZS1vbi1yZXB1YmxpY2FuLWltcGVhY2htZW50LWlucXVpcnktYWdhaW5zdC1qb2UtYmlkZW4tNDY2OTc1MS9hbXAvMQ?oc=5\" target=\"_blank\">US House Launches Republican Impeachment Inquiry Against Biden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>"
-            ],
-            "source": [
-              {
-                "_": "NDTV",
-                "$": {
-                  "url": "https://www.ndtv.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Mayorkas Impeachment Vote: Republican Impeachment of Mayorkas Fails - The New York Times"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyNC8wMi8wNi91cy9tYXlvcmthcy1pbXBlYWNobWVudNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyNC8wMi8wNi91cy9tYXlvcmthcy1pbXBlYWNobWVudNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 21:30:46 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyNC8wMi8wNi91cy9tYXlvcmthcy1pbXBlYWNobWVudNIBAA?oc=5\" target=\"_blank\">Mayorkas Impeachment Vote: Republican Impeachment of Mayorkas Fails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
-            ],
-            "source": [
-              {
-                "_": "The New York Times",
-                "$": {
-                  "url": "https://www.nytimes.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Republicans press Joe Biden on Iran | Latest US politics news from The Economist - The Economist"
             ],
             "link": [
@@ -933,30 +1113,60 @@
           },
           {
             "title": [
-              "US House of Representatives approves impeachment inquiry on President Joe Biden - IndiaTimes"
+              "Biden impeachment inquiry authorized by House Republicans, despite lack of evidence - Reuters"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMijQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXBwcm92ZXMtaW1wZWFjaG1lbnQtaW5xdWlyeS1vbi1wcmVzaWRlbnQtam9lLWJpZGVuL2FydGljbGVzaG93LzEwNTk3MTY0MC5jbXPSAZEBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vd29ybGQvdXMvdXMtaG91c2Utb2YtcmVwcmVzZW50YXRpdmVzLWFwcHJvdmVzLWltcGVhY2htZW50LWlucXVpcnktb24tcHJlc2lkZW50LWpvZS1iaWRlbi9hbXBfYXJ0aWNsZXNob3cvMTA1OTcxNjQwLmNtcw?oc=5"
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXJlcHVibGljYW5zLXJlYWR5LXZvdGUtZm9ybWFsaXplLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktMjAyMy0xMi0xMy_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMijQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXBwcm92ZXMtaW1wZWFjaG1lbnQtaW5xdWlyeS1vbi1wcmVzaWRlbnQtam9lLWJpZGVuL2FydGljbGVzaG93LzEwNTk3MTY0MC5jbXPSAZEBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vd29ybGQvdXMvdXMtaG91c2Utb2YtcmVwcmVzZW50YXRpdmVzLWFwcHJvdmVzLWltcGVhY2htZW50LWlucXVpcnktb24tcHJlc2lkZW50LWpvZS1iaWRlbi9hbXBfYXJ0aWNsZXNob3cvMTA1OTcxNjQwLmNtcw",
+                "_": "CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXJlcHVibGljYW5zLXJlYWR5LXZvdGUtZm9ybWFsaXplLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktMjAyMy0xMi0xMy_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 14 Dec 2023 08:00:00 GMT"
+              "Wed, 13 Dec 2023 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS93b3JsZC91cy91cy1ob3VzZS1vZi1yZXByZXNlbnRhdGl2ZXMtYXBwcm92ZXMtaW1wZWFjaG1lbnQtaW5xdWlyeS1vbi1wcmVzaWRlbnQtam9lLWJpZGVuL2FydGljbGVzaG93LzEwNTk3MTY0MC5jbXPSAZEBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vd29ybGQvdXMvdXMtaG91c2Utb2YtcmVwcmVzZW50YXRpdmVzLWFwcHJvdmVzLWltcGVhY2htZW50LWlucXVpcnktb24tcHJlc2lkZW50LWpvZS1iaWRlbi9hbXBfYXJ0aWNsZXNob3cvMTA1OTcxNjQwLmNtcw?oc=5\" target=\"_blank\">US House of Representatives approves impeachment inquiry on President Joe Biden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndiaTimes</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXJlcHVibGljYW5zLXJlYWR5LXZvdGUtZm9ybWFsaXplLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktMjAyMy0xMi0xMy_SAQA?oc=5\" target=\"_blank\">Biden impeachment inquiry authorized by House Republicans, despite lack of evidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
             ],
             "source": [
               {
-                "_": "IndiaTimes",
+                "_": "Reuters",
                 "$": {
-                  "url": "https://m.timesofindia.com"
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayorkas Impeachment Vote: Republican Impeachment of Mayorkas Fails - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyNC8wMi8wNi91cy9tYXlvcmthcy1pbXBlYWNobWVudNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyNC8wMi8wNi91cy9tYXlvcmthcy1pbXBlYWNobWVudNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:30:46 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyNC8wMi8wNi91cy9tYXlvcmthcy1pbXBlYWNobWVudNIBAA?oc=5\" target=\"_blank\">Mayorkas Impeachment Vote: Republican Impeachment of Mayorkas Fails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
                 }
               }
             ]
@@ -1023,66 +1233,6 @@
           },
           {
             "title": [
-              "Biden impeachment inquiry authorized by House Republicans, despite lack of evidence - Reuters"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXJlcHVibGljYW5zLXJlYWR5LXZvdGUtZm9ybWFsaXplLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktMjAyMy0xMi0xMy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXJlcHVibGljYW5zLXJlYWR5LXZvdGUtZm9ybWFsaXplLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktMjAyMy0xMi0xMy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 13 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXJlcHVibGljYW5zLXJlYWR5LXZvdGUtZm9ybWFsaXplLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnktMjAyMy0xMi0xMy_SAQA?oc=5\" target=\"_blank\">Biden impeachment inquiry authorized by House Republicans, despite lack of evidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
-            ],
-            "source": [
-              {
-                "_": "Reuters",
-                "$": {
-                  "url": "https://www.reuters.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Hunter Biden defies GOP congressional subpoena, says 'impeachment inquiry beyond absurd' - The Economic Times"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMipwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvaHVudGVyLWJpZGVuLWRlZmllcy1nb3AtY29uZ3Jlc3Npb25hbC1zdWJwb2VuYS1zYXlzLWltcGVhY2htZW50LWlucXVpcnktYmV5b25kLWFic3VyZC92aWRlb3Nob3cvMTA1OTk0MTQwLmNtc9IBqwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvaHVudGVyLWJpZGVuLWRlZmllcy1nb3AtY29uZ3Jlc3Npb25hbC1zdWJwb2VuYS1zYXlzLWltcGVhY2htZW50LWlucXVpcnktYmV5b25kLWFic3VyZC9hbXBfdmlkZW9zaG93LzEwNTk5NDE0MC5jbXM?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMipwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvaHVudGVyLWJpZGVuLWRlZmllcy1nb3AtY29uZ3Jlc3Npb25hbC1zdWJwb2VuYS1zYXlzLWltcGVhY2htZW50LWlucXVpcnktYmV5b25kLWFic3VyZC92aWRlb3Nob3cvMTA1OTk0MTQwLmNtc9IBqwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvaHVudGVyLWJpZGVuLWRlZmllcy1nb3AtY29uZ3Jlc3Npb25hbC1zdWJwb2VuYS1zYXlzLWltcGVhY2htZW50LWlucXVpcnktYmV5b25kLWFic3VyZC9hbXBfdmlkZW9zaG93LzEwNTk5NDE0MC5jbXM",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 14 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMipwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvaHVudGVyLWJpZGVuLWRlZmllcy1nb3AtY29uZ3Jlc3Npb25hbC1zdWJwb2VuYS1zYXlzLWltcGVhY2htZW50LWlucXVpcnktYmV5b25kLWFic3VyZC92aWRlb3Nob3cvMTA1OTk0MTQwLmNtc9IBqwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvaHVudGVyLWJpZGVuLWRlZmllcy1nb3AtY29uZ3Jlc3Npb25hbC1zdWJwb2VuYS1zYXlzLWltcGVhY2htZW50LWlucXVpcnktYmV5b25kLWFic3VyZC9hbXBfdmlkZW9zaG93LzEwNTk5NDE0MC5jbXM?oc=5\" target=\"_blank\">Hunter Biden defies GOP congressional subpoena, says 'impeachment inquiry beyond absurd'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>"
-            ],
-            "source": [
-              {
-                "_": "The Economic Times",
-                "$": {
-                  "url": "https://m.economictimes.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "The House GOP’s impeachment Fyre Festival - The Washington Post"
             ],
             "link": [
@@ -1107,36 +1257,6 @@
                 "_": "The Washington Post",
                 "$": {
                   "url": "https://www.washingtonpost.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Rep. Brandon Williams votes to impeach Biden cabinet member Alejandro Mayorkas - syracuse.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbNIBjwFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMigAFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbNIBjwFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbD9vdXRwdXRUeXBlPWFtcA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 23:56:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbNIBjwFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">Rep. Brandon Williams votes to impeach Biden cabinet member Alejandro Mayorkas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">syracuse.com</font>"
-            ],
-            "source": [
-              {
-                "_": "syracuse.com",
-                "$": {
-                  "url": "https://www.syracuse.com"
                 }
               }
             ]
@@ -1203,60 +1323,30 @@
           },
           {
             "title": [
-              "House speaker criticizes Biden administration on border amid Mayorkas impeachment efforts - CBS News"
+              "Rep. Brandon Williams votes to impeach Biden cabinet member Alejandro Mayorkas - syracuse.com"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2hvdXNlLXNwZWFrZXItY3JpdGljaXplcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vbi1ib3JkZXItYW1pZC1tYXlvcmthcy1pbXBlYWNobWVudC1lZmZvcnRzL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbNIBjwFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMieGh0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2hvdXNlLXNwZWFrZXItY3JpdGljaXplcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vbi1ib3JkZXItYW1pZC1tYXlvcmthcy1pbXBlYWNobWVudC1lZmZvcnRzL9IBAA",
+                "_": "CBMigAFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbNIBjwFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbD9vdXRwdXRUeXBlPWFtcA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 31 Jan 2024 17:31:00 GMT"
+              "Tue, 06 Feb 2024 23:56:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2hvdXNlLXNwZWFrZXItY3JpdGljaXplcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vbi1ib3JkZXItYW1pZC1tYXlvcmthcy1pbXBlYWNobWVudC1lZmZvcnRzL9IBAA?oc=5\" target=\"_blank\">House speaker criticizes Biden administration on border amid Mayorkas impeachment efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbNIBjwFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vcG9saXRpY3MvY255LzIwMjQvMDIvcmVwLWJyYW5kb24td2lsbGlhbXMtdm90ZXMtdG8taW1wZWFjaC1iaWRlbi1jYWJpbmV0LW1lbWJlci1hbGVqYW5kcm8tbWF5b3JrYXMuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">Rep. Brandon Williams votes to impeach Biden cabinet member Alejandro Mayorkas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">syracuse.com</font>"
             ],
             "source": [
               {
-                "_": "CBS News",
+                "_": "syracuse.com",
                 "$": {
-                  "url": "https://www.cbsnews.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Republicans fail in bid to impeach Biden’s homeland security secretary - La Prensa Latina"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmxhcHJlbnNhbGF0aW5hLmNvbS9yZXB1YmxpY2Fucy1mYWlsLWluLWJpZC10by1pbXBlYWNoLWJpZGVucy1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnkv0gFpaHR0cHM6Ly93d3cubGFwcmVuc2FsYXRpbmEuY29tL3JlcHVibGljYW5zLWZhaWwtaW4tYmlkLXRvLWltcGVhY2gtYmlkZW5zLWhvbWVsYW5kLXNlY3VyaXR5LXNlY3JldGFyeS9hbXAv?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiZWh0dHBzOi8vd3d3LmxhcHJlbnNhbGF0aW5hLmNvbS9yZXB1YmxpY2Fucy1mYWlsLWluLWJpZC10by1pbXBlYWNoLWJpZGVucy1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnkv0gFpaHR0cHM6Ly93d3cubGFwcmVuc2FsYXRpbmEuY29tL3JlcHVibGljYW5zLWZhaWwtaW4tYmlkLXRvLWltcGVhY2gtYmlkZW5zLWhvbWVsYW5kLXNlY3VyaXR5LXNlY3JldGFyeS9hbXAv",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 07 Feb 2024 02:03:01 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmxhcHJlbnNhbGF0aW5hLmNvbS9yZXB1YmxpY2Fucy1mYWlsLWluLWJpZC10by1pbXBlYWNoLWJpZGVucy1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnkv0gFpaHR0cHM6Ly93d3cubGFwcmVuc2FsYXRpbmEuY29tL3JlcHVibGljYW5zLWZhaWwtaW4tYmlkLXRvLWltcGVhY2gtYmlkZW5zLWhvbWVsYW5kLXNlY3VyaXR5LXNlY3JldGFyeS9hbXAv?oc=5\" target=\"_blank\">Republicans fail in bid to impeach Biden’s homeland security secretary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Prensa Latina</font>"
-            ],
-            "source": [
-              {
-                "_": "La Prensa Latina",
-                "$": {
-                  "url": "https://www.laprensalatina.com"
+                  "url": "https://www.syracuse.com"
                 }
               }
             ]
@@ -1323,6 +1413,66 @@
           },
           {
             "title": [
+              "House speaker criticizes Biden administration on border amid Mayorkas impeachment efforts - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2hvdXNlLXNwZWFrZXItY3JpdGljaXplcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vbi1ib3JkZXItYW1pZC1tYXlvcmthcy1pbXBlYWNobWVudC1lZmZvcnRzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2hvdXNlLXNwZWFrZXItY3JpdGljaXplcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vbi1ib3JkZXItYW1pZC1tYXlvcmthcy1pbXBlYWNobWVudC1lZmZvcnRzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 17:31:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2hvdXNlLXNwZWFrZXItY3JpdGljaXplcy1iaWRlbi1hZG1pbmlzdHJhdGlvbi1vbi1ib3JkZXItYW1pZC1tYXlvcmthcy1pbXBlYWNobWVudC1lZmZvcnRzL9IBAA?oc=5\" target=\"_blank\">House speaker criticizes Biden administration on border amid Mayorkas impeachment efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans fail in bid to impeach Biden’s homeland security secretary - La Prensa Latina"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmxhcHJlbnNhbGF0aW5hLmNvbS9yZXB1YmxpY2Fucy1mYWlsLWluLWJpZC10by1pbXBlYWNoLWJpZGVucy1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnkv0gFpaHR0cHM6Ly93d3cubGFwcmVuc2FsYXRpbmEuY29tL3JlcHVibGljYW5zLWZhaWwtaW4tYmlkLXRvLWltcGVhY2gtYmlkZW5zLWhvbWVsYW5kLXNlY3VyaXR5LXNlY3JldGFyeS9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmxhcHJlbnNhbGF0aW5hLmNvbS9yZXB1YmxpY2Fucy1mYWlsLWluLWJpZC10by1pbXBlYWNoLWJpZGVucy1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnkv0gFpaHR0cHM6Ly93d3cubGFwcmVuc2FsYXRpbmEuY29tL3JlcHVibGljYW5zLWZhaWwtaW4tYmlkLXRvLWltcGVhY2gtYmlkZW5zLWhvbWVsYW5kLXNlY3VyaXR5LXNlY3JldGFyeS9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:03:01 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmxhcHJlbnNhbGF0aW5hLmNvbS9yZXB1YmxpY2Fucy1mYWlsLWluLWJpZC10by1pbXBlYWNoLWJpZGVucy1ob21lbGFuZC1zZWN1cml0eS1zZWNyZXRhcnkv0gFpaHR0cHM6Ly93d3cubGFwcmVuc2FsYXRpbmEuY29tL3JlcHVibGljYW5zLWZhaWwtaW4tYmlkLXRvLWltcGVhY2gtYmlkZW5zLWhvbWVsYW5kLXNlY3VyaXR5LXNlY3JldGFyeS9hbXAv?oc=5\" target=\"_blank\">Republicans fail in bid to impeach Biden’s homeland security secretary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Prensa Latina</font>"
+            ],
+            "source": [
+              {
+                "_": "La Prensa Latina",
+                "$": {
+                  "url": "https://www.laprensalatina.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Analysis | Another impeachment witness tells the GOP what it doesn't want to hear - The Washington Post"
             ],
             "link": [
@@ -1341,6 +1491,36 @@
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzMxL2JpZGVuLWltcGVhY2htZW50LWludmVzdGlnYXRpb25zLXJlcHVibGljYW5zL9IBAA?oc=5\" target=\"_blank\">Analysis | Another impeachment witness tells the GOP what it doesn't want to hear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Analysis | The Mayorkas impeachment push is a Biden dry run - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzMwL21heW9ya2FzLWltcGVhY2htZW50LWJpZGVuLWhvdXNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzMwL21heW9ya2FzLWltcGVhY2htZW50LWJpZGVuLWhvdXNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 20:35:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzMwL21heW9ya2FzLWltcGVhY2htZW50LWJpZGVuLWhvdXNlL9IBAA?oc=5\" target=\"_blank\">Analysis | The Mayorkas impeachment push is a Biden dry run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
             ],
             "source": [
               {
@@ -1383,36 +1563,6 @@
           },
           {
             "title": [
-              "Analysis | The Mayorkas impeachment push is a Biden dry run - The Washington Post"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzMwL21heW9ya2FzLWltcGVhY2htZW50LWJpZGVuLWhvdXNlL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiVGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzMwL21heW9ya2FzLWltcGVhY2htZW50LWJpZGVuLWhvdXNlL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 30 Jan 2024 20:35:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzAxLzMwL21heW9ya2FzLWltcGVhY2htZW50LWJpZGVuLWhvdXNlL9IBAA?oc=5\" target=\"_blank\">Analysis | The Mayorkas impeachment push is a Biden dry run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
-            ],
-            "source": [
-              {
-                "_": "The Washington Post",
-                "$": {
-                  "url": "https://www.washingtonpost.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Inside Impeachment's Rise as a Weapon of Partisan Warfare - The New York Times"
             ],
             "link": [
@@ -1437,66 +1587,6 @@
                 "_": "The New York Times",
                 "$": {
                   "url": "https://www.nytimes.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "US House impeachment of Biden border chief in jeopardy, voting continues - StreetInsider.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnN0cmVldGluc2lkZXIuY29tL1JldXRlcnMvVVMrSG91c2UraW1wZWFjaG1lbnQrb2YrQmlkZW4rYm9yZGVyK2NoaWVmK2luK2plb3BhcmR5JTJDK3ZvdGluZytjb250aW51ZXMvMjI3MzAyOTkuaHRtbNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifmh0dHBzOi8vd3d3LnN0cmVldGluc2lkZXIuY29tL1JldXRlcnMvVVMrSG91c2UraW1wZWFjaG1lbnQrb2YrQmlkZW4rYm9yZGVyK2NoaWVmK2luK2plb3BhcmR5JTJDK3ZvdGluZytjb250aW51ZXMvMjI3MzAyOTkuaHRtbNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 23:39:53 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnN0cmVldGluc2lkZXIuY29tL1JldXRlcnMvVVMrSG91c2UraW1wZWFjaG1lbnQrb2YrQmlkZW4rYm9yZGVyK2NoaWVmK2luK2plb3BhcmR5JTJDK3ZvdGluZytjb250aW51ZXMvMjI3MzAyOTkuaHRtbNIBAA?oc=5\" target=\"_blank\">US House impeachment of Biden border chief in jeopardy, voting continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider.com</font>"
-            ],
-            "source": [
-              {
-                "_": "StreetInsider.com",
-                "$": {
-                  "url": "https://www.streetinsider.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "US House Republicans hold vote to impeach homeland security chief - MSN"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tY2EvbmV3cy93b3JsZC9iaWRlbi1ob21lbGFuZC1zZWN1cml0eS1jaGllZi1zdXJ2aXZlcy11cy1ob3VzZS1pbXBlYWNobWVudC12b3RlL2FyLUJCMWhSVEhR0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tY2EvbmV3cy93b3JsZC9iaWRlbi1ob21lbGFuZC1zZWN1cml0eS1jaGllZi1zdXJ2aXZlcy11cy1ob3VzZS1pbXBlYWNobWVudC12b3RlL2FyLUJCMWhSVEhR0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 07 Feb 2024 00:25:23 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tY2EvbmV3cy93b3JsZC9iaWRlbi1ob21lbGFuZC1zZWN1cml0eS1jaGllZi1zdXJ2aXZlcy11cy1ob3VzZS1pbXBlYWNobWVudC12b3RlL2FyLUJCMWhSVEhR0gEA?oc=5\" target=\"_blank\">US House Republicans hold vote to impeach homeland security chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>"
-            ],
-            "source": [
-              {
-                "_": "MSN",
-                "$": {
-                  "url": "https://www.msn.com"
                 }
               }
             ]
@@ -1563,6 +1653,66 @@
           },
           {
             "title": [
+              "US House Republicans hold vote to impeach homeland security chief - MSN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tY2EvbmV3cy93b3JsZC9iaWRlbi1ob21lbGFuZC1zZWN1cml0eS1jaGllZi1zdXJ2aXZlcy11cy1ob3VzZS1pbXBlYWNobWVudC12b3RlL2FyLUJCMWhSVEhR0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tY2EvbmV3cy93b3JsZC9iaWRlbi1ob21lbGFuZC1zZWN1cml0eS1jaGllZi1zdXJ2aXZlcy11cy1ob3VzZS1pbXBlYWNobWVudC12b3RlL2FyLUJCMWhSVEhR0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 00:25:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tY2EvbmV3cy93b3JsZC9iaWRlbi1ob21lbGFuZC1zZWN1cml0eS1jaGllZi1zdXJ2aXZlcy11cy1ob3VzZS1pbXBlYWNobWVudC12b3RlL2FyLUJCMWhSVEhR0gEA?oc=5\" target=\"_blank\">US House Republicans hold vote to impeach homeland security chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>"
+            ],
+            "source": [
+              {
+                "_": "MSN",
+                "$": {
+                  "url": "https://www.msn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US House impeachment of Biden border chief in jeopardy, voting continues - StreetInsider.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnN0cmVldGluc2lkZXIuY29tL1JldXRlcnMvVVMrSG91c2UraW1wZWFjaG1lbnQrb2YrQmlkZW4rYm9yZGVyK2NoaWVmK2luK2plb3BhcmR5JTJDK3ZvdGluZytjb250aW51ZXMvMjI3MzAyOTkuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LnN0cmVldGluc2lkZXIuY29tL1JldXRlcnMvVVMrSG91c2UraW1wZWFjaG1lbnQrb2YrQmlkZW4rYm9yZGVyK2NoaWVmK2luK2plb3BhcmR5JTJDK3ZvdGluZytjb250aW51ZXMvMjI3MzAyOTkuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:39:53 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnN0cmVldGluc2lkZXIuY29tL1JldXRlcnMvVVMrSG91c2UraW1wZWFjaG1lbnQrb2YrQmlkZW4rYm9yZGVyK2NoaWVmK2luK2plb3BhcmR5JTJDK3ZvdGluZytjb250aW51ZXMvMjI3MzAyOTkuaHRtbNIBAA?oc=5\" target=\"_blank\">US House impeachment of Biden border chief in jeopardy, voting continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider.com</font>"
+            ],
+            "source": [
+              {
+                "_": "StreetInsider.com",
+                "$": {
+                  "url": "https://www.streetinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "What's the basis of the Republicans' Joe Biden impeachment inquiry? - Reuters"
             ],
             "link": [
@@ -1593,30 +1743,30 @@
           },
           {
             "title": [
-              "Biden's brother to testify in impeachment inquiry Feb. 21 - Reuters"
+              "Comer insists his job was ‘never to impeach’ as GOP doubts grow about Biden impeachment vote - CNN"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL2JpZGVucy1icm90aGVyLXRlc3RpZnktaW1wZWFjaG1lbnQtaW5xdWlyeS1mZWItMjEtMjAyNC0wMS0zMS_SAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8xNC9wb2xpdGljcy9qYW1lcy1jb21lci1pbXBlYWNobWVudC1pbnRlcnZpZXcvaW5kZXguaHRtbNIBWGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDEvMTQvcG9saXRpY3MvamFtZXMtY29tZXItaW1wZWFjaG1lbnQtaW50ZXJ2aWV3L2luZGV4Lmh0bWw?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiW2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL2JpZGVucy1icm90aGVyLXRlc3RpZnktaW1wZWFjaG1lbnQtaW5xdWlyeS1mZWItMjEtMjAyNC0wMS0zMS_SAQA",
+                "_": "CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8xNC9wb2xpdGljcy9qYW1lcy1jb21lci1pbXBlYWNobWVudC1pbnRlcnZpZXcvaW5kZXguaHRtbNIBWGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDEvMTQvcG9saXRpY3MvamFtZXMtY29tZXItaW1wZWFjaG1lbnQtaW50ZXJ2aWV3L2luZGV4Lmh0bWw",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 31 Jan 2024 21:36:00 GMT"
+              "Sun, 14 Jan 2024 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL2JpZGVucy1icm90aGVyLXRlc3RpZnktaW1wZWFjaG1lbnQtaW5xdWlyeS1mZWItMjEtMjAyNC0wMS0zMS_SAQA?oc=5\" target=\"_blank\">Biden's brother to testify in impeachment inquiry Feb. 21</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8xNC9wb2xpdGljcy9qYW1lcy1jb21lci1pbXBlYWNobWVudC1pbnRlcnZpZXcvaW5kZXguaHRtbNIBWGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDEvMTQvcG9saXRpY3MvamFtZXMtY29tZXItaW1wZWFjaG1lbnQtaW50ZXJ2aWV3L2luZGV4Lmh0bWw?oc=5\" target=\"_blank\">Comer insists his job was ‘never to impeach’ as GOP doubts grow about Biden impeachment vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
             ],
             "source": [
               {
-                "_": "Reuters",
+                "_": "CNN",
                 "$": {
-                  "url": "https://www.reuters.com"
+                  "url": "https://www.cnn.com"
                 }
               }
             ]
@@ -1653,36 +1803,6 @@
           },
           {
             "title": [
-              "Johnson's risky impeachment bet - POLITICO - POLITICO"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDIvMDYvam9obnNvbi1iaWRlbi1pbXBlYWNobWVudC1tYXlvcmthcy0wMDEzOTczNdIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDIvMDYvam9obnNvbi1iaWRlbi1pbXBlYWNobWVudC1tYXlvcmthcy0wMDEzOTczNdIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 10:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDIvMDYvam9obnNvbi1iaWRlbi1pbXBlYWNobWVudC1tYXlvcmthcy0wMDEzOTczNdIBAA?oc=5\" target=\"_blank\">Johnson's risky impeachment bet - POLITICO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
-            ],
-            "source": [
-              {
-                "_": "POLITICO",
-                "$": {
-                  "url": "https://www.politico.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "US House Republicans plan impeachment hearing for Biden's border chief - Reuters"
             ],
             "link": [
@@ -1707,36 +1827,6 @@
                 "_": "Reuters",
                 "$": {
                   "url": "https://www.reuters.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Bid to Impeach DHS Chief Mayorkas Fails in House; Issa Lone 'Yes' amid San Diegans - Times of San Diego"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3RpbWVzb2ZzYW5kaWVnby5jb20vcG9saXRpY3MvMjAyNC8wMi8wNi9iaWQtdG8taW1wZWFjaC1kaHMtY2hpZWYtbWF5b3JrYXMtZmFpbHMtaW4taG91c2UtaXNzYS1sb25lLXllcy1hbWlkLXNhbi1kaWVnYW5zL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMigAFodHRwczovL3RpbWVzb2ZzYW5kaWVnby5jb20vcG9saXRpY3MvMjAyNC8wMi8wNi9iaWQtdG8taW1wZWFjaC1kaHMtY2hpZWYtbWF5b3JrYXMtZmFpbHMtaW4taG91c2UtaXNzYS1sb25lLXllcy1hbWlkLXNhbi1kaWVnYW5zL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 07 Feb 2024 01:04:46 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3RpbWVzb2ZzYW5kaWVnby5jb20vcG9saXRpY3MvMjAyNC8wMi8wNi9iaWQtdG8taW1wZWFjaC1kaHMtY2hpZWYtbWF5b3JrYXMtZmFpbHMtaW4taG91c2UtaXNzYS1sb25lLXllcy1hbWlkLXNhbi1kaWVnYW5zL9IBAA?oc=5\" target=\"_blank\">Bid to Impeach DHS Chief Mayorkas Fails in House; Issa Lone 'Yes' amid San Diegans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of San Diego</font>"
-            ],
-            "source": [
-              {
-                "_": "Times of San Diego",
-                "$": {
-                  "url": "https://timesofsandiego.com"
                 }
               }
             ]
@@ -1773,36 +1863,6 @@
           },
           {
             "title": [
-              "US House expects Wednesday vote on formalizing Biden impeachment inquiry - aide - Reuters"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXZvdGUtdGh1cnNkYXktZm9ybWFsaXppbmctYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS1sYXdtYWtlci0yMDIzLTEyLTExL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXZvdGUtdGh1cnNkYXktZm9ybWFsaXppbmctYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS1sYXdtYWtlci0yMDIzLTEyLTExL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 11 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXZvdGUtdGh1cnNkYXktZm9ybWFsaXppbmctYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS1sYXdtYWtlci0yMDIzLTEyLTExL9IBAA?oc=5\" target=\"_blank\">US House expects Wednesday vote on formalizing Biden impeachment inquiry - aide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
-            ],
-            "source": [
-              {
-                "_": "Reuters",
-                "$": {
-                  "url": "https://www.reuters.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "House Approves Biden Impeachment Inquiry as G.O.P. Hunts for an Offense - The New York Times"
             ],
             "link": [
@@ -1833,6 +1893,66 @@
           },
           {
             "title": [
+              "Johnson's risky impeachment bet - POLITICO - POLITICO"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDIvMDYvam9obnNvbi1iaWRlbi1pbXBlYWNobWVudC1tYXlvcmthcy0wMDEzOTczNdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDIvMDYvam9obnNvbi1iaWRlbi1pbXBlYWNobWVudC1tYXlvcmthcy0wMDEzOTczNdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 10:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDIvMDYvam9obnNvbi1iaWRlbi1pbXBlYWNobWVudC1tYXlvcmthcy0wMDEzOTczNdIBAA?oc=5\" target=\"_blank\">Johnson's risky impeachment bet - POLITICO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO",
+                "$": {
+                  "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US House expects Wednesday vote on formalizing Biden impeachment inquiry - aide - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXZvdGUtdGh1cnNkYXktZm9ybWFsaXppbmctYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS1sYXdtYWtlci0yMDIzLTEyLTExL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXZvdGUtdGh1cnNkYXktZm9ybWFsaXppbmctYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS1sYXdtYWtlci0yMDIzLTEyLTExL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 11 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWhvdXNlLXZvdGUtdGh1cnNkYXktZm9ybWFsaXppbmctYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS1sYXdtYWtlci0yMDIzLTEyLTExL9IBAA?oc=5\" target=\"_blank\">US House expects Wednesday vote on formalizing Biden impeachment inquiry - aide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "House Republicans ask whether Joe Biden obstructed impeachment inquiry after Hunter Biden defied subpoena - USA TODAY"
             ],
             "link": [
@@ -1857,6 +1977,36 @@
                 "_": "USA TODAY",
                 "$": {
                   "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Bid to Impeach DHS Chief Mayorkas Fails in House; Issa Lone 'Yes' amid San Diegans - Times of San Diego"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3RpbWVzb2ZzYW5kaWVnby5jb20vcG9saXRpY3MvMjAyNC8wMi8wNi9iaWQtdG8taW1wZWFjaC1kaHMtY2hpZWYtbWF5b3JrYXMtZmFpbHMtaW4taG91c2UtaXNzYS1sb25lLXllcy1hbWlkLXNhbi1kaWVnYW5zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3RpbWVzb2ZzYW5kaWVnby5jb20vcG9saXRpY3MvMjAyNC8wMi8wNi9iaWQtdG8taW1wZWFjaC1kaHMtY2hpZWYtbWF5b3JrYXMtZmFpbHMtaW4taG91c2UtaXNzYS1sb25lLXllcy1hbWlkLXNhbi1kaWVnYW5zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 01:04:46 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3RpbWVzb2ZzYW5kaWVnby5jb20vcG9saXRpY3MvMjAyNC8wMi8wNi9iaWQtdG8taW1wZWFjaC1kaHMtY2hpZWYtbWF5b3JrYXMtZmFpbHMtaW4taG91c2UtaXNzYS1sb25lLXllcy1hbWlkLXNhbi1kaWVnYW5zL9IBAA?oc=5\" target=\"_blank\">Bid to Impeach DHS Chief Mayorkas Fails in House; Issa Lone 'Yes' amid San Diegans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of San Diego</font>"
+            ],
+            "source": [
+              {
+                "_": "Times of San Diego",
+                "$": {
+                  "url": "https://timesofsandiego.com"
                 }
               }
             ]
@@ -1953,36 +2103,6 @@
           },
           {
             "title": [
-              "Republicans FAIL to impeach Alejandro Mayorkas over border crisis: Chaotic GOP deals Speaker Mike Johnson an e - Daily Mail"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTMwNTMzMDEvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s0gFmaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzA1MzMwMS9hbXAvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiYmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTMwNTMzMDEvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s0gFmaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzA1MzMwMS9hbXAvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 23:46:31 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTMwNTMzMDEvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s0gFmaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzA1MzMwMS9hbXAvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s?oc=5\" target=\"_blank\">Republicans FAIL to impeach Alejandro Mayorkas over border crisis: Chaotic GOP deals Speaker Mike Johnson an e</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
-            ],
-            "source": [
-              {
-                "_": "Daily Mail",
-                "$": {
-                  "url": "https://www.dailymail.co.uk"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "The House Authorized Its Impeachment Inquiry Against Biden. Now What? - The New York Times"
             ],
             "link": [
@@ -2001,6 +2121,36 @@
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMTQvdXMvcG9saXRpY3MvYmlkZW4taW1wZWFjaG1lbnQtaG91c2UtaW5xdWlyeS5odG1s0gEA?oc=5\" target=\"_blank\">The House Authorized Its Impeachment Inquiry Against Biden. Now What?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hunter Biden Agrees to Deposition in Impeachment Inquiry - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMTgvdXMvaHVudGVyLWJpZGVuLWRlcG9zaXRpb24uaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMTgvdXMvaHVudGVyLWJpZGVuLWRlcG9zaXRpb24uaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMTgvdXMvaHVudGVyLWJpZGVuLWRlcG9zaXRpb24uaHRtbNIBAA?oc=5\" target=\"_blank\">Hunter Biden Agrees to Deposition in Impeachment Inquiry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
             ],
             "source": [
               {
@@ -2043,96 +2193,6 @@
           },
           {
             "title": [
-              "House committee advances Mayorkas impeachment articles, teeing up historic floor vote - CBS News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbWF5b3JrYXMtaW1wZWFjaG1lbnQtYXJ0aWNsZXMtaG91c2UtaG9tZWxhbmQtc2VjdXJpdHktdm90ZS_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9tYXlvcmthcy1pbXBlYWNobWVudC1hcnRpY2xlcy1ob3VzZS1ob21lbGFuZC1zZWN1cml0eS12b3RlLw?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbWF5b3JrYXMtaW1wZWFjaG1lbnQtYXJ0aWNsZXMtaG91c2UtaG9tZWxhbmQtc2VjdXJpdHktdm90ZS_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9tYXlvcmthcy1pbXBlYWNobWVudC1hcnRpY2xlcy1ob3VzZS1ob21lbGFuZC1zZWN1cml0eS12b3RlLw",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 15:24:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbWF5b3JrYXMtaW1wZWFjaG1lbnQtYXJ0aWNsZXMtaG91c2UtaG9tZWxhbmQtc2VjdXJpdHktdm90ZS_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9tYXlvcmthcy1pbXBlYWNobWVudC1hcnRpY2xlcy1ob3VzZS1ob21lbGFuZC1zZWN1cml0eS12b3RlLw?oc=5\" target=\"_blank\">House committee advances Mayorkas impeachment articles, teeing up historic floor vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
-            ],
-            "source": [
-              {
-                "_": "CBS News",
-                "$": {
-                  "url": "https://www.cbsnews.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "US House authorizes formal impeachment inquiry into Biden - Anadolu Agency | English"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmFhLmNvbS50ci9lbi9hbWVyaWNhcy91cy1ob3VzZS1hdXRob3JpemVzLWZvcm1hbC1pbXBlYWNobWVudC1pbnF1aXJ5LWludG8tYmlkZW4vMzA4MTg3MdIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiY2h0dHBzOi8vd3d3LmFhLmNvbS50ci9lbi9hbWVyaWNhcy91cy1ob3VzZS1hdXRob3JpemVzLWZvcm1hbC1pbXBlYWNobWVudC1pbnF1aXJ5LWludG8tYmlkZW4vMzA4MTg3MdIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 14 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmFhLmNvbS50ci9lbi9hbWVyaWNhcy91cy1ob3VzZS1hdXRob3JpemVzLWZvcm1hbC1pbXBlYWNobWVudC1pbnF1aXJ5LWludG8tYmlkZW4vMzA4MTg3MdIBAA?oc=5\" target=\"_blank\">US House authorizes formal impeachment inquiry into Biden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Agency | English</font>"
-            ],
-            "source": [
-              {
-                "_": "Anadolu Agency | English",
-                "$": {
-                  "url": "https://www.aa.com.tr"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "House Republicans release articles of impeachment against Homeland Security Secretary Mayorkas - CNN"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s0gFdaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s0gFdaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sun, 28 Jan 2024 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s0gFdaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s?oc=5\" target=\"_blank\">House Republicans release articles of impeachment against Homeland Security Secretary Mayorkas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
-            ],
-            "source": [
-              {
-                "_": "CNN",
-                "$": {
-                  "url": "https://www.cnn.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Republicans make their case at Biden impeachment inquiry - BBC.com"
             ],
             "link": [
@@ -2163,30 +2223,30 @@
           },
           {
             "title": [
-              "House GOP Takes Party-Line Vote Toward Mayorkas Impeachment - TIME"
+              "US House authorizes formal impeachment inquiry into Biden - Anadolu Agency"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vdGltZS5jb20vNjU5MDQ1OC9ob3VzZS1nb3AtYWxlamFuZHJvLW1heW9ya2FzLWltcGVhY2htZW50LXZvdGUv0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmFhLmNvbS50ci9lbi9hbWVyaWNhcy91cy1ob3VzZS1hdXRob3JpemVzLWZvcm1hbC1pbXBlYWNobWVudC1pbnF1aXJ5LWludG8tYmlkZW4vMzA4MTg3MdIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiR2h0dHBzOi8vdGltZS5jb20vNjU5MDQ1OC9ob3VzZS1nb3AtYWxlamFuZHJvLW1heW9ya2FzLWltcGVhY2htZW50LXZvdGUv0gEA",
+                "_": "CBMiY2h0dHBzOi8vd3d3LmFhLmNvbS50ci9lbi9hbWVyaWNhcy91cy1ob3VzZS1hdXRob3JpemVzLWZvcm1hbC1pbXBlYWNobWVudC1pbnF1aXJ5LWludG8tYmlkZW4vMzA4MTg3MdIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 31 Jan 2024 14:13:19 GMT"
+              "Thu, 14 Dec 2023 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vdGltZS5jb20vNjU5MDQ1OC9ob3VzZS1nb3AtYWxlamFuZHJvLW1heW9ya2FzLWltcGVhY2htZW50LXZvdGUv0gEA?oc=5\" target=\"_blank\">House GOP Takes Party-Line Vote Toward Mayorkas Impeachment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIME</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmFhLmNvbS50ci9lbi9hbWVyaWNhcy91cy1ob3VzZS1hdXRob3JpemVzLWZvcm1hbC1pbXBlYWNobWVudC1pbnF1aXJ5LWludG8tYmlkZW4vMzA4MTg3MdIBAA?oc=5\" target=\"_blank\">US House authorizes formal impeachment inquiry into Biden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Agency</font>"
             ],
             "source": [
               {
-                "_": "TIME",
+                "_": "Anadolu Agency",
                 "$": {
-                  "url": "https://time.com"
+                  "url": "https://www.aa.com.tr"
                 }
               }
             ]
@@ -2253,30 +2313,90 @@
           },
           {
             "title": [
-              "An Analysis of the Biden Impeachment Inquiry - Just Security"
+              "House Republicans release articles of impeachment against Homeland Security Secretary Mayorkas - CNN"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmp1c3RzZWN1cml0eS5vcmcvOTA2NDgvYW4tYW5hbHlzaXMtb2YtdGhlLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnkv0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s0gFdaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiUGh0dHBzOi8vd3d3Lmp1c3RzZWN1cml0eS5vcmcvOTA2NDgvYW4tYW5hbHlzaXMtb2YtdGhlLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnkv0gEA",
+                "_": "CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s0gFdaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 13 Dec 2023 08:00:00 GMT"
+              "Sun, 28 Jan 2024 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmp1c3RzZWN1cml0eS5vcmcvOTA2NDgvYW4tYW5hbHlzaXMtb2YtdGhlLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnkv0gEA?oc=5\" target=\"_blank\">An Analysis of the Biden Impeachment Inquiry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Just Security</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s0gFdaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wMS8yOC9wb2xpdGljcy9tYXlvcmthcy1pbXBlYWNobWVudC1ob3VzZS1yZXB1YmxpY2Fucy9pbmRleC5odG1s?oc=5\" target=\"_blank\">House Republicans release articles of impeachment against Homeland Security Secretary Mayorkas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
             ],
             "source": [
               {
-                "_": "Just Security",
+                "_": "CNN",
                 "$": {
-                  "url": "https://www.justsecurity.org"
+                  "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans FAIL to impeach Alejandro Mayorkas over border crisis: Chaotic GOP deals Speaker Mike Johnson an e - Daily Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTMwNTMzMDEvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s0gFmaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzA1MzMwMS9hbXAvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTMwNTMzMDEvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s0gFmaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzA1MzMwMS9hbXAvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:46:31 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTMwNTMzMDEvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s0gFmaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzA1MzMwMS9hbXAvcmVwdWJsaWNhbnMtZmFpbC1pbXBlYWNoLWFsZWphbmRyby1tYXlvcmthcy5odG1s?oc=5\" target=\"_blank\">Republicans FAIL to impeach Alejandro Mayorkas over border crisis: Chaotic GOP deals Speaker Mike Johnson an e</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Mail",
+                "$": {
+                  "url": "https://www.dailymail.co.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "House committee advances Mayorkas impeachment articles, teeing up historic floor vote - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbWF5b3JrYXMtaW1wZWFjaG1lbnQtYXJ0aWNsZXMtaG91c2UtaG9tZWxhbmQtc2VjdXJpdHktdm90ZS_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9tYXlvcmthcy1pbXBlYWNobWVudC1hcnRpY2xlcy1ob3VzZS1ob21lbGFuZC1zZWN1cml0eS12b3RlLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbWF5b3JrYXMtaW1wZWFjaG1lbnQtYXJ0aWNsZXMtaG91c2UtaG9tZWxhbmQtc2VjdXJpdHktdm90ZS_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9tYXlvcmthcy1pbXBlYWNobWVudC1hcnRpY2xlcy1ob3VzZS1ob21lbGFuZC1zZWN1cml0eS12b3RlLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 15:24:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbWF5b3JrYXMtaW1wZWFjaG1lbnQtYXJ0aWNsZXMtaG91c2UtaG9tZWxhbmQtc2VjdXJpdHktdm90ZS_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9tYXlvcmthcy1pbXBlYWNobWVudC1hcnRpY2xlcy1ob3VzZS1ob21lbGFuZC1zZWN1cml0eS12b3RlLw?oc=5\" target=\"_blank\">House committee advances Mayorkas impeachment articles, teeing up historic floor vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
                 }
               }
             ]
@@ -2313,30 +2433,30 @@
           },
           {
             "title": [
-              "Republicans Push to Impeach Biden's Homeland Security Chief - The New York Times"
+              "Biden Impeachment Inquiry Authorized by US House Republicans - Bloomberg"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMzAvYnJpZWZpbmcvaG9tZWxhbmQtc2VjdXJpdHktaW1wZWFjaG1lbnQtaXNyYWVsLWhhbWFzLXdhci1wYXVzZS5odG1s0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTEyLTEzL2dvcC1zLWJpZGVuLWltcGVhY2htZW50LWRyaXZlLWVzY2FsYXRlcy1pbi1mb3JtYWwtaG91c2UtaW5xdWlyedIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiZWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMzAvYnJpZWZpbmcvaG9tZWxhbmQtc2VjdXJpdHktaW1wZWFjaG1lbnQtaXNyYWVsLWhhbWFzLXdhci1wYXVzZS5odG1s0gEA",
+                "_": "CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTEyLTEzL2dvcC1zLWJpZGVuLWltcGVhY2htZW50LWRyaXZlLWVzY2FsYXRlcy1pbi1mb3JtYWwtaG91c2UtaW5xdWlyedIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 30 Jan 2024 22:48:19 GMT"
+              "Wed, 13 Dec 2023 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMzAvYnJpZWZpbmcvaG9tZWxhbmQtc2VjdXJpdHktaW1wZWFjaG1lbnQtaXNyYWVsLWhhbWFzLXdhci1wYXVzZS5odG1s0gEA?oc=5\" target=\"_blank\">Republicans Push to Impeach Biden's Homeland Security Chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTEyLTEzL2dvcC1zLWJpZGVuLWltcGVhY2htZW50LWRyaXZlLWVzY2FsYXRlcy1pbi1mb3JtYWwtaG91c2UtaW5xdWlyedIBAA?oc=5\" target=\"_blank\">Biden Impeachment Inquiry Authorized by US House Republicans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
             ],
             "source": [
               {
-                "_": "The New York Times",
+                "_": "Bloomberg",
                 "$": {
-                  "url": "https://www.nytimes.com"
+                  "url": "https://www.bloomberg.com"
                 }
               }
             ]
@@ -2367,6 +2487,36 @@
                 "_": "BBC.com",
                 "$": {
                   "url": "https://www.bbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republicans Push to Impeach Biden's Homeland Security Chief - The New York Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMzAvYnJpZWZpbmcvaG9tZWxhbmQtc2VjdXJpdHktaW1wZWFjaG1lbnQtaXNyYWVsLWhhbWFzLXdhci1wYXVzZS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMzAvYnJpZWZpbmcvaG9tZWxhbmQtc2VjdXJpdHktaW1wZWFjaG1lbnQtaXNyYWVsLWhhbWFzLXdhci1wYXVzZS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 22:48:19 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMzAvYnJpZWZpbmcvaG9tZWxhbmQtc2VjdXJpdHktaW1wZWFjaG1lbnQtaXNyYWVsLWhhbWFzLXdhci1wYXVzZS5odG1s0gEA?oc=5\" target=\"_blank\">Republicans Push to Impeach Biden's Homeland Security Chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The New York Times",
+                "$": {
+                  "url": "https://www.nytimes.com"
                 }
               }
             ]
@@ -2433,6 +2583,36 @@
           },
           {
             "title": [
+              "47 percent in new poll opposed to Biden impeachment inquiry - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvNDQyMzY2Ni00Ny1wZXJjZW50LW9wcG9zZWQtYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS_SAVxodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2hvdXNlLzQ0MjM2NjYtNDctcGVyY2VudC1vcHBvc2VkLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnkvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvNDQyMzY2Ni00Ny1wZXJjZW50LW9wcG9zZWQtYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS_SAVxodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2hvdXNlLzQ0MjM2NjYtNDctcGVyY2VudC1vcHBvc2VkLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnkvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvNDQyMzY2Ni00Ny1wZXJjZW50LW9wcG9zZWQtYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS_SAVxodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2hvdXNlLzQ0MjM2NjYtNDctcGVyY2VudC1vcHBvc2VkLWJpZGVuLWltcGVhY2htZW50LWlucXVpcnkvYW1wLw?oc=5\" target=\"_blank\">47 percent in new poll opposed to Biden impeachment inquiry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Biden impeachment inquiry: McCarthy says House will investigate president - BBC.com"
             ],
             "link": [
@@ -2457,36 +2637,6 @@
                 "_": "BBC.com",
                 "$": {
                   "url": "https://www.bbc.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Homeland's Mayorkas escapes impeachment, with Alaska Rep. Peltola sticking with Biden - Must Read Alaska"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbXVzdHJlYWRhbGFza2EuY29tL2hvbWVsYW5kcy1tYXlvcmthcy1lc2NhcGVzLWltcGVhY2htZW50LXdpdGgtYWxhc2thLXJlcC1wZWx0b2xhLXN0aWNraW5nLXdpdGgtYmlkZW4v0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMibmh0dHBzOi8vbXVzdHJlYWRhbGFza2EuY29tL2hvbWVsYW5kcy1tYXlvcmthcy1lc2NhcGVzLWltcGVhY2htZW50LXdpdGgtYWxhc2thLXJlcC1wZWx0b2xhLXN0aWNraW5nLXdpdGgtYmlkZW4v0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 07 Feb 2024 00:50:54 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbXVzdHJlYWRhbGFza2EuY29tL2hvbWVsYW5kcy1tYXlvcmthcy1lc2NhcGVzLWltcGVhY2htZW50LXdpdGgtYWxhc2thLXJlcC1wZWx0b2xhLXN0aWNraW5nLXdpdGgtYmlkZW4v0gEA?oc=5\" target=\"_blank\">Homeland's Mayorkas escapes impeachment, with Alaska Rep. Peltola sticking with Biden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Must Read Alaska</font>"
-            ],
-            "source": [
-              {
-                "_": "Must Read Alaska",
-                "$": {
-                  "url": "https://mustreadalaska.com"
                 }
               }
             ]
@@ -2523,30 +2673,30 @@
           },
           {
             "title": [
-              "Hunter Biden defies Republican subpoena to testify before House panel - BBC.com"
+              "Homeland's Mayorkas escapes impeachment, with Alaska Rep. Peltola sticking with Biden - Must Read Alaska"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjc2OTQ5MDTSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY3Njk0OTA0LmFtcA?oc=5"
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbXVzdHJlYWRhbGFza2EuY29tL2hvbWVsYW5kcy1tYXlvcmthcy1lc2NhcGVzLWltcGVhY2htZW50LXdpdGgtYWxhc2thLXJlcC1wZWx0b2xhLXN0aWNraW5nLXdpdGgtYmlkZW4v0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjc2OTQ5MDTSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY3Njk0OTA0LmFtcA",
+                "_": "CBMibmh0dHBzOi8vbXVzdHJlYWRhbGFza2EuY29tL2hvbWVsYW5kcy1tYXlvcmthcy1lc2NhcGVzLWltcGVhY2htZW50LXdpdGgtYWxhc2thLXJlcC1wZWx0b2xhLXN0aWNraW5nLXdpdGgtYmlkZW4v0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 13 Dec 2023 08:00:00 GMT"
+              "Wed, 07 Feb 2024 00:50:54 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjc2OTQ5MDTSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY3Njk0OTA0LmFtcA?oc=5\" target=\"_blank\">Hunter Biden defies Republican subpoena to testify before House panel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC.com</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbXVzdHJlYWRhbGFza2EuY29tL2hvbWVsYW5kcy1tYXlvcmthcy1lc2NhcGVzLWltcGVhY2htZW50LXdpdGgtYWxhc2thLXJlcC1wZWx0b2xhLXN0aWNraW5nLXdpdGgtYmlkZW4v0gEA?oc=5\" target=\"_blank\">Homeland's Mayorkas escapes impeachment, with Alaska Rep. Peltola sticking with Biden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Must Read Alaska</font>"
             ],
             "source": [
               {
-                "_": "BBC.com",
+                "_": "Must Read Alaska",
                 "$": {
-                  "url": "https://www.bbc.com"
+                  "url": "https://mustreadalaska.com"
                 }
               }
             ]
@@ -2613,66 +2763,6 @@
           },
           {
             "title": [
-              "US House impeachment of Biden border chief in jeopardy, voting continues By Reuters - Investing.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmludmVzdGluZy5jb20vbmV3cy93b3JsZC1uZXdzL3VzLWhvdXNlLWltcGVhY2htZW50LW9mLWJpZGVuLWJvcmRlci1jaGllZi1pbi1qZW9wYXJkeS12b3RpbmctY29udGludWVzLTMyOTQ1NjnSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMieWh0dHBzOi8vd3d3LmludmVzdGluZy5jb20vbmV3cy93b3JsZC1uZXdzL3VzLWhvdXNlLWltcGVhY2htZW50LW9mLWJpZGVuLWJvcmRlci1jaGllZi1pbi1qZW9wYXJkeS12b3RpbmctY29udGludWVzLTMyOTQ1NjnSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 23:37:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmludmVzdGluZy5jb20vbmV3cy93b3JsZC1uZXdzL3VzLWhvdXNlLWltcGVhY2htZW50LW9mLWJpZGVuLWJvcmRlci1jaGllZi1pbi1qZW9wYXJkeS12b3RpbmctY29udGludWVzLTMyOTQ1NjnSAQA?oc=5\" target=\"_blank\">US House impeachment of Biden border chief in jeopardy, voting continues By Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>"
-            ],
-            "source": [
-              {
-                "_": "Investing.com",
-                "$": {
-                  "url": "https://www.investing.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Biden impeachment inquiry vote expected next week, House Republican leaders say - CNBC"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s0gFsaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiaGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s0gFsaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 05 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s0gFsaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s?oc=5\" target=\"_blank\">Biden impeachment inquiry vote expected next week, House Republican leaders say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
-            ],
-            "source": [
-              {
-                "_": "CNBC",
-                "$": {
-                  "url": "https://www.cnbc.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Republicans open Biden impeachment inquiry with focus on son's business dealings - Reuters"
             ],
             "link": [
@@ -2703,60 +2793,30 @@
           },
           {
             "title": [
-              "Biden impeachment: At-risk Republicans thread the needle in inquiry vote - BBC"
+              "Biden impeachment inquiry vote expected next week, House Republican leaders say - CNBC"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzcxNjI5MtIBN2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzcxNjI5Mi5hbXA?oc=5"
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s0gFsaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiM2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzcxNjI5MtIBN2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzcxNjI5Mi5hbXA",
+                "_": "CBMiaGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s0gFsaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Fri, 15 Dec 2023 08:00:00 GMT"
+              "Tue, 05 Dec 2023 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzcxNjI5MtIBN2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NzcxNjI5Mi5hbXA?oc=5\" target=\"_blank\">Biden impeachment: At-risk Republicans thread the needle in inquiry vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s0gFsaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMTIvMDUvYmlkZW4taW1wZWFjaG1lbnQtaW5xdWlyeS12b3RlLXBsYW5uZWQtZm9yLW5leHQtd2Vlay1ob3VzZS1nb3Atc2F5cy5odG1s?oc=5\" target=\"_blank\">Biden impeachment inquiry vote expected next week, House Republican leaders say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
             ],
             "source": [
               {
-                "_": "BBC",
+                "_": "CNBC",
                 "$": {
-                  "url": "https://www.bbc.co.uk"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Impeachment Experts: Biden Inquiry May Be Weakest in History - TIME"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vdGltZS5jb20vNjMxMzQ1Mi9pbXBlYWNobWVudC1leHBlcnRzLWJpZGVuLWlucXVpcnktd2Vha2VzdC11cy1oaXN0b3J5L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiTmh0dHBzOi8vdGltZS5jb20vNjMxMzQ1Mi9pbXBlYWNobWVudC1leHBlcnRzLWJpZGVuLWlucXVpcnktd2Vha2VzdC11cy1oaXN0b3J5L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 12 Sep 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vdGltZS5jb20vNjMxMzQ1Mi9pbXBlYWNobWVudC1leHBlcnRzLWJpZGVuLWlucXVpcnktd2Vha2VzdC11cy1oaXN0b3J5L9IBAA?oc=5\" target=\"_blank\">Impeachment Experts: Biden Inquiry May Be Weakest in History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIME</font>"
-            ],
-            "source": [
-              {
-                "_": "TIME",
-                "$": {
-                  "url": "https://time.com"
+                  "url": "https://www.cnbc.com"
                 }
               }
             ]

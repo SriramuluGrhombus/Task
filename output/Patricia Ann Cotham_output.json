@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:41 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -57,6 +57,66 @@
                 "_": "The New York Times",
                 "$": {
                   "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What's Behind Tricia Cotham's Democratic Divorce - The Assembly"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnRoZWFzc2VtYmx5bmMuY29tL3BvbGl0aWNzL3RyaWNpYS1jb3RoYW0tZGVtb2NyYXQtcmVwdWJsaWNhbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSWh0dHBzOi8vd3d3LnRoZWFzc2VtYmx5bmMuY29tL3BvbGl0aWNzL3RyaWNpYS1jb3RoYW0tZGVtb2NyYXQtcmVwdWJsaWNhbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnRoZWFzc2VtYmx5bmMuY29tL3BvbGl0aWNzL3RyaWNpYS1jb3RoYW0tZGVtb2NyYXQtcmVwdWJsaWNhbi_SAQA?oc=5\" target=\"_blank\">What's Behind Tricia Cotham's Democratic Divorce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assembly</font>"
+            ],
+            "source": [
+              {
+                "_": "The Assembly",
+                "$": {
+                  "url": "https://www.theassemblync.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Will rage against Tricia Cotham sink her mother? - WFAE"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDUtMjIvd2lsbC1yYWdlLWFnYWluc3QtdHJpY2lhLWNvdGhhbS1zaW5rLWhlci1tb3RoZXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDUtMjIvd2lsbC1yYWdlLWFnYWluc3QtdHJpY2lhLWNvdGhhbS1zaW5rLWhlci1tb3RoZXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDUtMjIvd2lsbC1yYWdlLWFnYWluc3QtdHJpY2lhLWNvdGhhbS1zaW5rLWhlci1tb3RoZXLSAQA?oc=5\" target=\"_blank\">Will rage against Tricia Cotham sink her mother?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFAE</font>"
+            ],
+            "source": [
+              {
+                "_": "WFAE",
+                "$": {
+                  "url": "https://www.wfae.org"
                 }
               }
             ]
@@ -273,36 +333,6 @@
           },
           {
             "title": [
-              "NC Dems furious as Tricia Cotham bails on Democratic Party - WFAE"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtZGVtcy1mdXJpb3VzLWFzLWNvdGhhbS1iYWlscy1vbi1kZW1vY3JhdGljLXBhcnR50gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiXGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtZGVtcy1mdXJpb3VzLWFzLWNvdGhhbS1iYWlscy1vbi1kZW1vY3JhdGljLXBhcnR50gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 05 Apr 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtZGVtcy1mdXJpb3VzLWFzLWNvdGhhbS1iYWlscy1vbi1kZW1vY3JhdGljLXBhcnR50gEA?oc=5\" target=\"_blank\">NC Dems furious as Tricia Cotham bails on Democratic Party</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFAE</font>"
-            ],
-            "source": [
-              {
-                "_": "WFAE",
-                "$": {
-                  "url": "https://www.wfae.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Rep. Tricia Cotham: New NC abortion law is 'reasonable balance' - WCNC.com"
             ],
             "link": [
@@ -423,6 +453,36 @@
           },
           {
             "title": [
+              "NC Dems furious as Tricia Cotham bails on Democratic Party - WFAE"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtZGVtcy1mdXJpb3VzLWFzLWNvdGhhbS1iYWlscy1vbi1kZW1vY3JhdGljLXBhcnR50gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtZGVtcy1mdXJpb3VzLWFzLWNvdGhhbS1iYWlscy1vbi1kZW1vY3JhdGljLXBhcnR50gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LndmYWUub3JnL3BvbGl0aWNzLzIwMjMtMDQtMDUvbmMtZGVtcy1mdXJpb3VzLWFzLWNvdGhhbS1iYWlscy1vbi1kZW1vY3JhdGljLXBhcnR50gEA?oc=5\" target=\"_blank\">NC Dems furious as Tricia Cotham bails on Democratic Party</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFAE</font>"
+            ],
+            "source": [
+              {
+                "_": "WFAE",
+                "$": {
+                  "url": "https://www.wfae.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "NC State Rep. Tricia Cotham switches to Republican Party - WSOC Charlotte"
             ],
             "link": [
@@ -513,36 +573,6 @@
           },
           {
             "title": [
-              "Cotham defended abortion rights. Will she now help GOP reduce access? - WRAL News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L2NvdGhhbS1kZWZlbmRlZC1hYm9ydGlvbi1yaWdodHMtd2lsbC1zaGUtbm93LWhlbHAtZ29wLXJlZHVjZS1hY2Nlc3MvMjA3OTgyOTgv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwNzk4Mjk4Lw?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L2NvdGhhbS1kZWZlbmRlZC1hYm9ydGlvbi1yaWdodHMtd2lsbC1zaGUtbm93LWhlbHAtZ29wLXJlZHVjZS1hY2Nlc3MvMjA3OTgyOTgv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwNzk4Mjk4Lw",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 05 Apr 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L2NvdGhhbS1kZWZlbmRlZC1hYm9ydGlvbi1yaWdodHMtd2lsbC1zaGUtbm93LWhlbHAtZ29wLXJlZHVjZS1hY2Nlc3MvMjA3OTgyOTgv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwNzk4Mjk4Lw?oc=5\" target=\"_blank\">Cotham defended abortion rights. Will she now help GOP reduce access?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
-            ],
-            "source": [
-              {
-                "_": "WRAL News",
-                "$": {
-                  "url": "https://www.wral.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "‘Not the Democratic Party I grew up in.’ Pat Cotham talks about daughter’s GOP switch - Charlotte Observer"
             ],
             "link": [
@@ -567,6 +597,36 @@
                 "_": "Charlotte Observer",
                 "$": {
                   "url": "https://www.charlotteobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cotham defended abortion rights. Will she now help GOP reduce access? - WRAL News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L2NvdGhhbS1kZWZlbmRlZC1hYm9ydGlvbi1yaWdodHMtd2lsbC1zaGUtbm93LWhlbHAtZ29wLXJlZHVjZS1hY2Nlc3MvMjA3OTgyOTgv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwNzk4Mjk4Lw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L2NvdGhhbS1kZWZlbmRlZC1hYm9ydGlvbi1yaWdodHMtd2lsbC1zaGUtbm93LWhlbHAtZ29wLXJlZHVjZS1hY2Nlc3MvMjA3OTgyOTgv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwNzk4Mjk4Lw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndyYWwuY29tL3N0b3J5L2NvdGhhbS1kZWZlbmRlZC1hYm9ydGlvbi1yaWdodHMtd2lsbC1zaGUtbm93LWhlbHAtZ29wLXJlZHVjZS1hY2Nlc3MvMjA3OTgyOTgv0gEiaHR0cHM6Ly93d3cud3JhbC5jb20vYW1wLzIwNzk4Mjk4Lw?oc=5\" target=\"_blank\">Cotham defended abortion rights. Will she now help GOP reduce access?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL News</font>"
+            ],
+            "source": [
+              {
+                "_": "WRAL News",
+                "$": {
+                  "url": "https://www.wral.com"
                 }
               }
             ]
@@ -813,6 +873,36 @@
           },
           {
             "title": [
+              "Sonoma County residents wait for word from Mexico as hurricane makes landfall - The Santa Rosa Press Democrat"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnByZXNzZGVtb2NyYXQuY29tL2FydGljbGUvbmV3cy9zb25vbWEtY291bnR5LXJlc2lkZW50cy13YWl0LWFueGlvdXNseS1mb3Itd29yZC1mcm9tLW1leGljby1hcy1odXJyaWNhbmUtcGEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LnByZXNzZGVtb2NyYXQuY29tL2FydGljbGUvbmV3cy9zb25vbWEtY291bnR5LXJlc2lkZW50cy13YWl0LWFueGlvdXNseS1mb3Itd29yZC1mcm9tLW1leGljby1hcy1odXJyaWNhbmUtcGEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 23 Oct 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnByZXNzZGVtb2NyYXQuY29tL2FydGljbGUvbmV3cy9zb25vbWEtY291bnR5LXJlc2lkZW50cy13YWl0LWFueGlvdXNseS1mb3Itd29yZC1mcm9tLW1leGljby1hcy1odXJyaWNhbmUtcGEv0gEA?oc=5\" target=\"_blank\">Sonoma County residents wait for word from Mexico as hurricane makes landfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Santa Rosa Press Democrat</font>"
+            ],
+            "source": [
+              {
+                "_": "The Santa Rosa Press Democrat",
+                "$": {
+                  "url": "https://www.pressdemocrat.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Tricia Cotham Husband: Is Tricia Cotham Married? All About Tricia Cothan - San Diego Gay & Lesbian News"
             ],
             "link": [
@@ -837,6 +927,36 @@
                 "_": "San Diego Gay & Lesbian News",
                 "$": {
                   "url": "https://sdgln.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Pat Cotham ex-husband: Who is John Cotham? - ABTC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vYWJ0Yy5uZy9wYXQtY290aGFtLWV4LWh1c2JhbmQtd2hvLWlzLWpvaG4tY290aGFtL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOWh0dHBzOi8vYWJ0Yy5uZy9wYXQtY290aGFtLWV4LWh1c2JhbmQtd2hvLWlzLWpvaG4tY290aGFtL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vYWJ0Yy5uZy9wYXQtY290aGFtLWV4LWh1c2JhbmQtd2hvLWlzLWpvaG4tY290aGFtL9IBAA?oc=5\" target=\"_blank\">Pat Cotham ex-husband: Who is John Cotham?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABTC</font>"
+            ],
+            "source": [
+              {
+                "_": "ABTC",
+                "$": {
+                  "url": "https://abtc.ng"
                 }
               }
             ]

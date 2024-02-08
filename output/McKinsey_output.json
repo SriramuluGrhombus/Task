@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -123,14 +123,14 @@
           },
           {
             "title": [
-              "Digital commerce: A growth opportunity for Greece - McKinsey"
+              "Generative AI in energy and materials - McKinsey"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvZGlnaXRhbC1jb21tZXJjZS1hLWdyb3d0aC1vcHBvcnR1bml0eS1mb3ItZ3JlZWNl0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9tZXRhbHMtYW5kLW1pbmluZy9vdXItaW5zaWdodHMvYmV5b25kLXRoZS1oeXBlLW5ldy1vcHBvcnR1bml0aWVzLWZvci1nZW4tYWktaW4tZW5lcmd5LWFuZC1tYXRlcmlhbHPSAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvZGlnaXRhbC1jb21tZXJjZS1hLWdyb3d0aC1vcHBvcnR1bml0eS1mb3ItZ3JlZWNl0gEA",
+                "_": "CBMihwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9tZXRhbHMtYW5kLW1pbmluZy9vdXItaW5zaWdodHMvYmV5b25kLXRoZS1oeXBlLW5ldy1vcHBvcnR1bml0aWVzLWZvci1nZW4tYWktaW4tZW5lcmd5LWFuZC1tYXRlcmlhbHPSAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
@@ -140,7 +140,7 @@
               "Mon, 05 Feb 2024 00:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvZGlnaXRhbC1jb21tZXJjZS1hLWdyb3d0aC1vcHBvcnR1bml0eS1mb3ItZ3JlZWNl0gEA?oc=5\" target=\"_blank\">Digital commerce: A growth opportunity for Greece</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9tZXRhbHMtYW5kLW1pbmluZy9vdXItaW5zaWdodHMvYmV5b25kLXRoZS1oeXBlLW5ldy1vcHBvcnR1bml0aWVzLWZvci1nZW4tYWktaW4tZW5lcmd5LWFuZC1tYXRlcmlhbHPSAQA?oc=5\" target=\"_blank\">Generative AI in energy and materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
             ],
             "source": [
               {
@@ -167,7 +167,7 @@
               }
             ],
             "pubDate": [
-              "Wed, 07 Feb 2024 01:02:31 GMT"
+              "Wed, 07 Feb 2024 02:26:15 GMT"
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTA3L3NlbmF0b3JzLWFjY3VzZS1tY2tpbnNleS1iY2ctb2YtaGluZGVyaW5nLXBnYS1saXYtcHJvYmXSAQA?oc=5\" target=\"_blank\">PGA-LIV Probe: McKinsey, BCG Accused of Not Cooperating With Senators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
@@ -207,6 +207,36 @@
                 "_": "Bloomberg Tax",
                 "$": {
                   "url": "https://news.bloombergtax.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "McKinsey, BCG Warn Staff of Jail Risk for Disclosing Saudi Work - BNN Breaking"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2ZpbmFuY2UtbmF2L2J1c2luZXNzL21ja2luc2V5LWJjZy13YXJuLXN0YWZmLW9mLWphaWwtcmlzay1mb3ItZGlzY2xvc2luZy1zYXVkaS13b3Jr0gFraHR0cHM6Ly9ibm5icmVha2luZy5jb20vZmluYW5jZS1uYXYvYnVzaW5lc3MvbWNraW5zZXktYmNnLXdhcm4tc3RhZmYtb2YtamFpbC1yaXNrLWZvci1kaXNjbG9zaW5nLXNhdWRpLXdvcms?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2ZpbmFuY2UtbmF2L2J1c2luZXNzL21ja2luc2V5LWJjZy13YXJuLXN0YWZmLW9mLWphaWwtcmlzay1mb3ItZGlzY2xvc2luZy1zYXVkaS13b3Jr0gFraHR0cHM6Ly9ibm5icmVha2luZy5jb20vZmluYW5jZS1uYXYvYnVzaW5lc3MvbWNraW5zZXktYmNnLXdhcm4tc3RhZmYtb2YtamFpbC1yaXNrLWZvci1kaXNjbG9zaW5nLXNhdWRpLXdvcms",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 02:39:10 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2ZpbmFuY2UtbmF2L2J1c2luZXNzL21ja2luc2V5LWJjZy13YXJuLXN0YWZmLW9mLWphaWwtcmlzay1mb3ItZGlzY2xvc2luZy1zYXVkaS13b3Jr0gFraHR0cHM6Ly9ibm5icmVha2luZy5jb20vZmluYW5jZS1uYXYvYnVzaW5lc3MvbWNraW5zZXktYmNnLXdhcm4tc3RhZmYtb2YtamFpbC1yaXNrLWZvci1kaXNjbG9zaW5nLXNhdWRpLXdvcms?oc=5\" target=\"_blank\">McKinsey, BCG Warn Staff of Jail Risk for Disclosing Saudi Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNN Breaking</font>"
+            ],
+            "source": [
+              {
+                "_": "BNN Breaking",
+                "$": {
+                  "url": "https://bnnbreaking.com"
                 }
               }
             ]
@@ -303,60 +333,30 @@
           },
           {
             "title": [
-              "McKinsey, BCG Warn Staff of Jail Risk for Disclosing Saudi Work - BNN Breaking"
+              "McKinsey on how US can Advance the Clean Energy Transition - Energy Digital"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2ZpbmFuY2UtbmF2L2J1c2luZXNzL21ja2luc2V5LWJjZy13YXJuLXN0YWZmLW9mLWphaWwtcmlzay1mb3ItZGlzY2xvc2luZy1zYXVkaS13b3Jr0gFraHR0cHM6Ly9ibm5icmVha2luZy5jb20vZmluYW5jZS1uYXYvYnVzaW5lc3MvbWNraW5zZXktYmNnLXdhcm4tc3RhZmYtb2YtamFpbC1yaXNrLWZvci1kaXNjbG9zaW5nLXNhdWRpLXdvcms?oc=5"
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktb24taG93LXVzLWNhbi1hZHZhbmNlLXRoZS1jbGVhbi1lbmVyZ3ktdHJhbnNpdGlvbtIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMia2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2ZpbmFuY2UtbmF2L2J1c2luZXNzL21ja2luc2V5LWJjZy13YXJuLXN0YWZmLW9mLWphaWwtcmlzay1mb3ItZGlzY2xvc2luZy1zYXVkaS13b3Jr0gFraHR0cHM6Ly9ibm5icmVha2luZy5jb20vZmluYW5jZS1uYXYvYnVzaW5lc3MvbWNraW5zZXktYmNnLXdhcm4tc3RhZmYtb2YtamFpbC1yaXNrLWZvci1kaXNjbG9zaW5nLXNhdWRpLXdvcms",
+                "_": "CBMiXWh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktb24taG93LXVzLWNhbi1hZHZhbmNlLXRoZS1jbGVhbi1lbmVyZ3ktdHJhbnNpdGlvbtIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 07 Feb 2024 02:39:10 GMT"
+              "Mon, 05 Feb 2024 09:02:25 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2ZpbmFuY2UtbmF2L2J1c2luZXNzL21ja2luc2V5LWJjZy13YXJuLXN0YWZmLW9mLWphaWwtcmlzay1mb3ItZGlzY2xvc2luZy1zYXVkaS13b3Jr0gFraHR0cHM6Ly9ibm5icmVha2luZy5jb20vZmluYW5jZS1uYXYvYnVzaW5lc3MvbWNraW5zZXktYmNnLXdhcm4tc3RhZmYtb2YtamFpbC1yaXNrLWZvci1kaXNjbG9zaW5nLXNhdWRpLXdvcms?oc=5\" target=\"_blank\">McKinsey, BCG Warn Staff of Jail Risk for Disclosing Saudi Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNN Breaking</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktb24taG93LXVzLWNhbi1hZHZhbmNlLXRoZS1jbGVhbi1lbmVyZ3ktdHJhbnNpdGlvbtIBAA?oc=5\" target=\"_blank\">McKinsey on how US can Advance the Clean Energy Transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy Digital</font>"
             ],
             "source": [
               {
-                "_": "BNN Breaking",
+                "_": "Energy Digital",
                 "$": {
-                  "url": "https://bnnbreaking.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Generative AI in energy and materials - McKinsey"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9tZXRhbHMtYW5kLW1pbmluZy9vdXItaW5zaWdodHMvYmV5b25kLXRoZS1oeXBlLW5ldy1vcHBvcnR1bml0aWVzLWZvci1nZW4tYWktaW4tZW5lcmd5LWFuZC1tYXRlcmlhbHPSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMihwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9tZXRhbHMtYW5kLW1pbmluZy9vdXItaW5zaWdodHMvYmV5b25kLXRoZS1oeXBlLW5ldy1vcHBvcnR1bml0aWVzLWZvci1nZW4tYWktaW4tZW5lcmd5LWFuZC1tYXRlcmlhbHPSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 05 Feb 2024 00:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9tZXRhbHMtYW5kLW1pbmluZy9vdXItaW5zaWdodHMvYmV5b25kLXRoZS1oeXBlLW5ldy1vcHBvcnR1bml0aWVzLWZvci1nZW4tYWktaW4tZW5lcmd5LWFuZC1tYXRlcmlhbHPSAQA?oc=5\" target=\"_blank\">Generative AI in energy and materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
-            ],
-            "source": [
-              {
-                "_": "McKinsey",
-                "$": {
-                  "url": "https://www.mckinsey.com"
+                  "url": "https://energydigital.com"
                 }
               }
             ]
@@ -393,6 +393,36 @@
           },
           {
             "title": [
+              "Consumer confidence and sentiment in Europe - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2NvbnN1bWVyLXBhY2thZ2VkLWdvb2RzL291ci1pbnNpZ2h0cy9hbi11cGRhdGUtb24tZXVyb3BlYW4tY29uc3VtZXItc2VudGltZW500gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2NvbnN1bWVyLXBhY2thZ2VkLWdvb2RzL291ci1pbnNpZ2h0cy9hbi11cGRhdGUtb24tZXVyb3BlYW4tY29uc3VtZXItc2VudGltZW500gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 00:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2NvbnN1bWVyLXBhY2thZ2VkLWdvb2RzL291ci1pbnNpZ2h0cy9hbi11cGRhdGUtb24tZXVyb3BlYW4tY29uc3VtZXItc2VudGltZW500gEA?oc=5\" target=\"_blank\">Consumer confidence and sentiment in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "McKinsey and Peers Slam Brakes on UK Jobs as Vacancies Dive 80% - Bloomberg"
             ],
             "link": [
@@ -423,24 +453,24 @@
           },
           {
             "title": [
-              "Consumer confidence and sentiment in Europe - McKinsey"
+              "The State of Fashion 2024 report - McKinsey"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2NvbnN1bWVyLXBhY2thZ2VkLWdvb2RzL291ci1pbnNpZ2h0cy9hbi11cGRhdGUtb24tZXVyb3BlYW4tY29uc3VtZXItc2VudGltZW500gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3RhdGUtb2YtZmFzaGlvbtIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMicWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2NvbnN1bWVyLXBhY2thZ2VkLWdvb2RzL291ci1pbnNpZ2h0cy9hbi11cGRhdGUtb24tZXVyb3BlYW4tY29uc3VtZXItc2VudGltZW500gEA",
+                "_": "CBMiSGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3RhdGUtb2YtZmFzaGlvbtIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Fri, 26 Jan 2024 00:00:00 GMT"
+              "Wed, 29 Nov 2023 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL2NvbnN1bWVyLXBhY2thZ2VkLWdvb2RzL291ci1pbnNpZ2h0cy9hbi11cGRhdGUtb24tZXVyb3BlYW4tY29uc3VtZXItc2VudGltZW500gEA?oc=5\" target=\"_blank\">Consumer confidence and sentiment in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3RhdGUtb2YtZmFzaGlvbtIBAA?oc=5\" target=\"_blank\">The State of Fashion 2024 report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
             ],
             "source": [
               {
@@ -477,36 +507,6 @@
                 "_": "Financial Times",
                 "$": {
                   "url": "https://www.ft.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "The State of Fashion 2024 report - McKinsey"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3RhdGUtb2YtZmFzaGlvbtIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiSGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3RhdGUtb2YtZmFzaGlvbtIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 29 Nov 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3JldGFpbC9vdXItaW5zaWdodHMvc3RhdGUtb2YtZmFzaGlvbtIBAA?oc=5\" target=\"_blank\">The State of Fashion 2024 report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
-            ],
-            "source": [
-              {
-                "_": "McKinsey",
-                "$": {
-                  "url": "https://www.mckinsey.com"
                 }
               }
             ]
@@ -603,60 +603,30 @@
           },
           {
             "title": [
-              "Energy organizations in transition - McKinsey"
+              "McKinsey Technology Trends Outlook 2023 - McKinsey"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL29pbC1hbmQtZ2FzL291ci1pbnNpZ2h0cy9lbmVyZ3ktb3JnYW5pemF0aW9ucy1pbi10cmFuc2l0aW9u0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGhlLXRvcC10cmVuZHMtaW4tdGVjaNIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiX2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL29pbC1hbmQtZ2FzL291ci1pbnNpZ2h0cy9lbmVyZ3ktb3JnYW5pemF0aW9ucy1pbi10cmFuc2l0aW9u0gEA",
+                "_": "CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGhlLXRvcC10cmVuZHMtaW4tdGVjaNIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 01 Feb 2024 00:00:00 GMT"
+              "Thu, 20 Jul 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL29pbC1hbmQtZ2FzL291ci1pbnNpZ2h0cy9lbmVyZ3ktb3JnYW5pemF0aW9ucy1pbi10cmFuc2l0aW9u0gEA?oc=5\" target=\"_blank\">Energy organizations in transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGhlLXRvcC10cmVuZHMtaW4tdGVjaNIBAA?oc=5\" target=\"_blank\">McKinsey Technology Trends Outlook 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
             ],
             "source": [
               {
                 "_": "McKinsey",
                 "$": {
                   "url": "https://www.mckinsey.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "McKinsey on how US can Advance the Clean Energy Transition - Energy Digital"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktb24taG93LXVzLWNhbi1hZHZhbmNlLXRoZS1jbGVhbi1lbmVyZ3ktdHJhbnNpdGlvbtIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiXWh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktb24taG93LXVzLWNhbi1hZHZhbmNlLXRoZS1jbGVhbi1lbmVyZ3ktdHJhbnNpdGlvbtIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 05 Feb 2024 09:02:25 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZW5lcmd5ZGlnaXRhbC5jb20vYXJ0aWNsZXMvbWNraW5zZXktb24taG93LXVzLWNhbi1hZHZhbmNlLXRoZS1jbGVhbi1lbmVyZ3ktdHJhbnNpdGlvbtIBAA?oc=5\" target=\"_blank\">McKinsey on how US can Advance the Clean Energy Transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy Digital</font>"
-            ],
-            "source": [
-              {
-                "_": "Energy Digital",
-                "$": {
-                  "url": "https://energydigital.com"
                 }
               }
             ]
@@ -693,24 +663,24 @@
           },
           {
             "title": [
-              "McKinsey Technology Trends Outlook 2023 - McKinsey"
+              "Energy organizations in transition - McKinsey"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGhlLXRvcC10cmVuZHMtaW4tdGVjaNIBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL29pbC1hbmQtZ2FzL291ci1pbnNpZ2h0cy9lbmVyZ3ktb3JnYW5pemF0aW9ucy1pbi10cmFuc2l0aW9u0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGhlLXRvcC10cmVuZHMtaW4tdGVjaNIBAA",
+                "_": "CBMiX2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL29pbC1hbmQtZ2FzL291ci1pbnNpZ2h0cy9lbmVyZ3ktb3JnYW5pemF0aW9ucy1pbi10cmFuc2l0aW9u0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 20 Jul 2023 07:00:00 GMT"
+              "Thu, 01 Feb 2024 00:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvbWNraW5zZXktZGlnaXRhbC9vdXItaW5zaWdodHMvdGhlLXRvcC10cmVuZHMtaW4tdGVjaNIBAA?oc=5\" target=\"_blank\">McKinsey Technology Trends Outlook 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL29pbC1hbmQtZ2FzL291ci1pbnNpZ2h0cy9lbmVyZ3ktb3JnYW5pemF0aW9ucy1pbi10cmFuc2l0aW9u0gEA?oc=5\" target=\"_blank\">Energy organizations in transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
             ],
             "source": [
               {
@@ -843,36 +813,6 @@
           },
           {
             "title": [
-              "Hinge's CEO invested $12,000 signing bonus from McKinsey into company - Business Insider"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGluZ2VzLWNlby1pbnZlc3RlZC0xMi0wMDAtc2lnbmluZy1ib251cy1tY2tpbnNleS1pbnRvLWNvbXBhbnktMjAyNC0y0gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oaW5nZXMtY2VvLWludmVzdGVkLTEyLTAwMC1zaWduaW5nLWJvbnVzLW1ja2luc2V5LWludG8tY29tcGFueS0yMDI0LTI_YW1w?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGluZ2VzLWNlby1pbnZlc3RlZC0xMi0wMDAtc2lnbmluZy1ib251cy1tY2tpbnNleS1pbnRvLWNvbXBhbnktMjAyNC0y0gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oaW5nZXMtY2VvLWludmVzdGVkLTEyLTAwMC1zaWduaW5nLWJvbnVzLW1ja2luc2V5LWludG8tY29tcGFueS0yMDI0LTI_YW1w",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 11:07:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGluZ2VzLWNlby1pbnZlc3RlZC0xMi0wMDAtc2lnbmluZy1ib251cy1tY2tpbnNleS1pbnRvLWNvbXBhbnktMjAyNC0y0gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oaW5nZXMtY2VvLWludmVzdGVkLTEyLTAwMC1zaWduaW5nLWJvbnVzLW1ja2luc2V5LWludG8tY29tcGFueS0yMDI0LTI_YW1w?oc=5\" target=\"_blank\">Hinge's CEO invested $12,000 signing bonus from McKinsey into company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
-            ],
-            "source": [
-              {
-                "_": "Business Insider",
-                "$": {
-                  "url": "https://www.businessinsider.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Takeaways from the World Economic Forum 2024 panel at Davos - McKinsey"
             ],
             "link": [
@@ -963,6 +903,36 @@
           },
           {
             "title": [
+              "Hinge's CEO invested $12,000 signing bonus from McKinsey into company - Business Insider"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGluZ2VzLWNlby1pbnZlc3RlZC0xMi0wMDAtc2lnbmluZy1ib251cy1tY2tpbnNleS1pbnRvLWNvbXBhbnktMjAyNC0y0gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oaW5nZXMtY2VvLWludmVzdGVkLTEyLTAwMC1zaWduaW5nLWJvbnVzLW1ja2luc2V5LWludG8tY29tcGFueS0yMDI0LTI_YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGluZ2VzLWNlby1pbnZlc3RlZC0xMi0wMDAtc2lnbmluZy1ib251cy1tY2tpbnNleS1pbnRvLWNvbXBhbnktMjAyNC0y0gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oaW5nZXMtY2VvLWludmVzdGVkLTEyLTAwMC1zaWduaW5nLWJvbnVzLW1ja2luc2V5LWludG8tY29tcGFueS0yMDI0LTI_YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 11:07:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGluZ2VzLWNlby1pbnZlc3RlZC0xMi0wMDAtc2lnbmluZy1ib251cy1tY2tpbnNleS1pbnRvLWNvbXBhbnktMjAyNC0y0gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oaW5nZXMtY2VvLWludmVzdGVkLTEyLTAwMC1zaWduaW5nLWJvbnVzLW1ja2luc2V5LWludG8tY29tcGFueS0yMDI0LTI_YW1w?oc=5\" target=\"_blank\">Hinge's CEO invested $12,000 signing bonus from McKinsey into company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Insider",
+                "$": {
+                  "url": "https://www.businessinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Ten unsung digital and AI ideas shaping business - McKinsey"
             ],
             "link": [
@@ -1023,36 +993,6 @@
           },
           {
             "title": [
-              "How US states can advance a successful clean-energy transition - McKinsey"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3B1YmxpYy1zZWN0b3Ivb3VyLWluc2lnaHRzL2hvdy11cy1zdGF0ZXMtY2FuLWFkdmFuY2UtYS1zdWNjZXNzZnVsLWNsZWFuLWVuZXJneS10cmFuc2l0aW9u0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3B1YmxpYy1zZWN0b3Ivb3VyLWluc2lnaHRzL2hvdy11cy1zdGF0ZXMtY2FuLWFkdmFuY2UtYS1zdWNjZXNzZnVsLWNsZWFuLWVuZXJneS10cmFuc2l0aW9u0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 29 Jan 2024 00:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3B1YmxpYy1zZWN0b3Ivb3VyLWluc2lnaHRzL2hvdy11cy1zdGF0ZXMtY2FuLWFkdmFuY2UtYS1zdWNjZXNzZnVsLWNsZWFuLWVuZXJneS10cmFuc2l0aW9u0gEA?oc=5\" target=\"_blank\">How US states can advance a successful clean-energy transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
-            ],
-            "source": [
-              {
-                "_": "McKinsey",
-                "$": {
-                  "url": "https://www.mckinsey.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "How product design can yield 'triple wins': Growth, margin, and sustainability - McKinsey"
             ],
             "link": [
@@ -1083,30 +1023,30 @@
           },
           {
             "title": [
-              "Consulting Company Executives Testify on Foreign Influence - C-SPAN "
+              "How US states can advance a successful clean-energy transition - McKinsey"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzM5MS0xL2NvbnN1bHRpbmctY29tcGFueS1leGVjdXRpdmVzLXRlc3RpZnktZm9yZWlnbi1pbmZsdWVuY2XSAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3B1YmxpYy1zZWN0b3Ivb3VyLWluc2lnaHRzL2hvdy11cy1zdGF0ZXMtY2FuLWFkdmFuY2UtYS1zdWNjZXNzZnVsLWNsZWFuLWVuZXJneS10cmFuc2l0aW9u0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiXmh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzM5MS0xL2NvbnN1bHRpbmctY29tcGFueS1leGVjdXRpdmVzLXRlc3RpZnktZm9yZWlnbi1pbmZsdWVuY2XSAQA",
+                "_": "CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3B1YmxpYy1zZWN0b3Ivb3VyLWluc2lnaHRzL2hvdy11cy1zdGF0ZXMtY2FuLWFkdmFuY2UtYS1zdWNjZXNzZnVsLWNsZWFuLWVuZXJneS10cmFuc2l0aW9u0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 06 Feb 2024 20:36:56 GMT"
+              "Mon, 29 Jan 2024 00:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzM5MS0xL2NvbnN1bHRpbmctY29tcGFueS1leGVjdXRpdmVzLXRlc3RpZnktZm9yZWlnbi1pbmZsdWVuY2XSAQA?oc=5\" target=\"_blank\">Consulting Company Executives Testify on Foreign Influence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C-SPAN </font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9pbmR1c3RyaWVzL3B1YmxpYy1zZWN0b3Ivb3VyLWluc2lnaHRzL2hvdy11cy1zdGF0ZXMtY2FuLWFkdmFuY2UtYS1zdWNjZXNzZnVsLWNsZWFuLWVuZXJneS10cmFuc2l0aW9u0gEA?oc=5\" target=\"_blank\">How US states can advance a successful clean-energy transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
             ],
             "source": [
               {
-                "_": "C-SPAN ",
+                "_": "McKinsey",
                 "$": {
-                  "url": "https://www.c-span.org"
+                  "url": "https://www.mckinsey.com"
                 }
               }
             ]
@@ -1137,6 +1077,36 @@
                 "_": "Airport Technology",
                 "$": {
                   "url": "https://www.airport-technology.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Consulting Company Executives Testify on Foreign Influence - C-SPAN "
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzM5MS0xL2NvbnN1bHRpbmctY29tcGFueS1leGVjdXRpdmVzLXRlc3RpZnktZm9yZWlnbi1pbmZsdWVuY2XSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzM5MS0xL2NvbnN1bHRpbmctY29tcGFueS1leGVjdXRpdmVzLXRlc3RpZnktZm9yZWlnbi1pbmZsdWVuY2XSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:36:56 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmMtc3Bhbi5vcmcvdmlkZW8vPzUzMzM5MS0xL2NvbnN1bHRpbmctY29tcGFueS1leGVjdXRpdmVzLXRlc3RpZnktZm9yZWlnbi1pbmZsdWVuY2XSAQA?oc=5\" target=\"_blank\">Consulting Company Executives Testify on Foreign Influence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C-SPAN </font>"
+            ],
+            "source": [
+              {
+                "_": "C-SPAN ",
+                "$": {
+                  "url": "https://www.c-span.org"
                 }
               }
             ]
@@ -2991,6 +2961,36 @@
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9tY2tpbnNleS1leHBsYWluZXJzL3doYXQtaXMtdG9rZW5pemF0aW9u0gEA?oc=5\" target=\"_blank\">What is tokenization?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
+            ],
+            "source": [
+              {
+                "_": "McKinsey",
+                "$": {
+                  "url": "https://www.mckinsey.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CFO priorities: A balancing act for resilience - McKinsey"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvY2Zvcy1iYWxhbmNpbmctYWN0LWp1Z2dsaW5nLXByaW9yaXRpZXMtdG8tYnVpbGQtcmVzaWxpZW5jZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvY2Zvcy1iYWxhbmNpbmctYWN0LWp1Z2dsaW5nLXByaW9yaXRpZXMtdG8tYnVpbGQtcmVzaWxpZW5jZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 31 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3N0cmF0ZWd5LWFuZC1jb3Jwb3JhdGUtZmluYW5jZS9vdXItaW5zaWdodHMvY2Zvcy1iYWxhbmNpbmctYWN0LWp1Z2dsaW5nLXByaW9yaXRpZXMtdG8tYnVpbGQtcmVzaWxpZW5jZdIBAA?oc=5\" target=\"_blank\">CFO priorities: A balancing act for resilience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey</font>"
             ],
             "source": [
               {

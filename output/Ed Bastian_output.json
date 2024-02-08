@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -1353,36 +1353,6 @@
           },
           {
             "title": [
-              "Delta's Ed Bastian Named Chief Executive Magazine's 2023 CEO of The Year - PR Newswire"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby1vZi10aGUteWVhci0zMDE4MTExMDguaHRtbNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby1vZi10aGUteWVhci0zMDE4MTExMDguaHRtbNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 01 May 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby1vZi10aGUteWVhci0zMDE4MTExMDguaHRtbNIBAA?oc=5\" target=\"_blank\">Delta's Ed Bastian Named Chief Executive Magazine's 2023 CEO of The Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
-            ],
-            "source": [
-              {
-                "_": "PR Newswire",
-                "$": {
-                  "url": "https://www.prnewswire.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Delta CEO confident Boeing will learn from mid-air panel incident - Yahoo Finance"
             ],
             "link": [
@@ -1407,6 +1377,36 @@
                 "_": "Yahoo Finance",
                 "$": {
                   "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta's Ed Bastian Named Chief Executive Magazine's 2023 CEO of The Year - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby1vZi10aGUteWVhci0zMDE4MTExMDguaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby1vZi10aGUteWVhci0zMDE4MTExMDguaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 01 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvZGVsdGFzLWVkLWJhc3RpYW4tbmFtZWQtY2hpZWYtZXhlY3V0aXZlLW1hZ2F6aW5lcy0yMDIzLWNlby1vZi10aGUteWVhci0zMDE4MTExMDguaHRtbNIBAA?oc=5\" target=\"_blank\">Delta's Ed Bastian Named Chief Executive Magazine's 2023 CEO of The Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
                 }
               }
             ]
@@ -2163,36 +2163,6 @@
           },
           {
             "title": [
-              "Delta posts record quarterly earnings, hikes full-year outlook on travel boom - CNBC"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDcvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC0ycTIzLWVhcm5pbmdzLmh0bWzSAUpodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNy8xMy9kZWx0YS1haXItbGluZXMtZGFsLTJxMjMtZWFybmluZ3MuaHRtbA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiRmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDcvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC0ycTIzLWVhcm5pbmdzLmh0bWzSAUpodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNy8xMy9kZWx0YS1haXItbGluZXMtZGFsLTJxMjMtZWFybmluZ3MuaHRtbA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 13 Jul 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDcvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC0ycTIzLWVhcm5pbmdzLmh0bWzSAUpodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNy8xMy9kZWx0YS1haXItbGluZXMtZGFsLTJxMjMtZWFybmluZ3MuaHRtbA?oc=5\" target=\"_blank\">Delta posts record quarterly earnings, hikes full-year outlook on travel boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
-            ],
-            "source": [
-              {
-                "_": "CNBC",
-                "$": {
-                  "url": "https://www.cnbc.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Delta Air Lines, Inc. (NYSE:DAL) Q3 2023 Earnings Call Transcript - Yahoo Finance"
             ],
             "link": [
@@ -2217,6 +2187,36 @@
                 "_": "Yahoo Finance",
                 "$": {
                   "url": "https://finance.yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta posts record quarterly earnings, hikes full-year outlook on travel boom - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDcvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC0ycTIzLWVhcm5pbmdzLmh0bWzSAUpodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNy8xMy9kZWx0YS1haXItbGluZXMtZGFsLTJxMjMtZWFybmluZ3MuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDcvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC0ycTIzLWVhcm5pbmdzLmh0bWzSAUpodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNy8xMy9kZWx0YS1haXItbGluZXMtZGFsLTJxMjMtZWFybmluZ3MuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 13 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDcvMTMvZGVsdGEtYWlyLWxpbmVzLWRhbC0ycTIzLWVhcm5pbmdzLmh0bWzSAUpodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wNy8xMy9kZWx0YS1haXItbGluZXMtZGFsLTJxMjMtZWFybmluZ3MuaHRtbA?oc=5\" target=\"_blank\">Delta posts record quarterly earnings, hikes full-year outlook on travel boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
                 }
               }
             ]
@@ -2283,36 +2283,6 @@
           },
           {
             "title": [
-              "'Demand has never been higher': Delta CEO Bastian - Flightglobal"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vc3RyYXRlZ3kvZGVtYW5kLWhhcy1uZXZlci1iZWVuLWhpZ2hlci1kZWx0YS1jZW8tYmFzdGlhbi8xNTI4OTUuYXJ0aWNsZdIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vc3RyYXRlZ3kvZGVtYW5kLWhhcy1uZXZlci1iZWVuLWhpZ2hlci1kZWx0YS1jZW8tYmFzdGlhbi8xNTI4OTUuYXJ0aWNsZdIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 18 Apr 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vc3RyYXRlZ3kvZGVtYW5kLWhhcy1uZXZlci1iZWVuLWhpZ2hlci1kZWx0YS1jZW8tYmFzdGlhbi8xNTI4OTUuYXJ0aWNsZdIBAA?oc=5\" target=\"_blank\">'Demand has never been higher': Delta CEO Bastian</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Flightglobal</font>"
-            ],
-            "source": [
-              {
-                "_": "Flightglobal",
-                "$": {
-                  "url": "https://www.flightglobal.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Delta Profit Intact After Controversial SkyMiles Changes - Skift Travel News"
             ],
             "link": [
@@ -2337,6 +2307,36 @@
                 "_": "Skift Travel News",
                 "$": {
                   "url": "https://skift.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Demand has never been higher': Delta CEO Bastian - Flightglobal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vc3RyYXRlZ3kvZGVtYW5kLWhhcy1uZXZlci1iZWVuLWhpZ2hlci1kZWx0YS1jZW8tYmFzdGlhbi8xNTI4OTUuYXJ0aWNsZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vc3RyYXRlZ3kvZGVtYW5kLWhhcy1uZXZlci1iZWVuLWhpZ2hlci1kZWx0YS1jZW8tYmFzdGlhbi8xNTI4OTUuYXJ0aWNsZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vc3RyYXRlZ3kvZGVtYW5kLWhhcy1uZXZlci1iZWVuLWhpZ2hlci1kZWx0YS1jZW8tYmFzdGlhbi8xNTI4OTUuYXJ0aWNsZdIBAA?oc=5\" target=\"_blank\">'Demand has never been higher': Delta CEO Bastian</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Flightglobal</font>"
+            ],
+            "source": [
+              {
+                "_": "Flightglobal",
+                "$": {
+                  "url": "https://www.flightglobal.com"
                 }
               }
             ]
@@ -2403,36 +2403,6 @@
           },
           {
             "title": [
-              "Delta CEO: The ten highest sales days in our history happened in the last 30 days - CNBC"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDMvMTQvZGVsdGEtY2VvLXRoZS10ZW4taGlnaGVzdC1zYWxlcy1kYXlzLWluLW91ci1oaXN0b3J5LWhhcHBlbmVkLWluLXRoZS1sYXN0LTMwLWRheXMuaHRtbNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMie2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDMvMTQvZGVsdGEtY2VvLXRoZS10ZW4taGlnaGVzdC1zYWxlcy1kYXlzLWluLW91ci1oaXN0b3J5LWhhcHBlbmVkLWluLXRoZS1sYXN0LTMwLWRheXMuaHRtbNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 14 Mar 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDMvMTQvZGVsdGEtY2VvLXRoZS10ZW4taGlnaGVzdC1zYWxlcy1kYXlzLWluLW91ci1oaXN0b3J5LWhhcHBlbmVkLWluLXRoZS1sYXN0LTMwLWRheXMuaHRtbNIBAA?oc=5\" target=\"_blank\">Delta CEO: The ten highest sales days in our history happened in the last 30 days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
-            ],
-            "source": [
-              {
-                "_": "CNBC",
-                "$": {
-                  "url": "https://www.cnbc.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Delta CEO: Airline ‘probably went too far’ with SkyMiles changes - CNN"
             ],
             "link": [
@@ -2457,6 +2427,36 @@
                 "_": "CNN",
                 "$": {
                   "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Delta CEO: The ten highest sales days in our history happened in the last 30 days - CNBC"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDMvMTQvZGVsdGEtY2VvLXRoZS10ZW4taGlnaGVzdC1zYWxlcy1kYXlzLWluLW91ci1oaXN0b3J5LWhhcHBlbmVkLWluLXRoZS1sYXN0LTMwLWRheXMuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDMvMTQvZGVsdGEtY2VvLXRoZS10ZW4taGlnaGVzdC1zYWxlcy1kYXlzLWluLW91ci1oaXN0b3J5LWhhcHBlbmVkLWluLXRoZS1sYXN0LTMwLWRheXMuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjMvMDMvMTQvZGVsdGEtY2VvLXRoZS10ZW4taGlnaGVzdC1zYWxlcy1kYXlzLWluLW91ci1oaXN0b3J5LWhhcHBlbmVkLWluLXRoZS1sYXN0LTMwLWRheXMuaHRtbNIBAA?oc=5\" target=\"_blank\">Delta CEO: The ten highest sales days in our history happened in the last 30 days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+            ],
+            "source": [
+              {
+                "_": "CNBC",
+                "$": {
+                  "url": "https://www.cnbc.com"
                 }
               }
             ]
@@ -2703,36 +2703,6 @@
           },
           {
             "title": [
-              "Delta Airlines CEO Has a Message for Summer Travelers - TheStreet"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpcmxpbmVzLWNlby1oYXMtYS1tZXNzYWdlLWZvci1zdW1tZXItdHJhdmVsZXJz0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpcmxpbmVzLWNlby1oYXMtYS1tZXNzYWdlLWZvci1zdW1tZXItdHJhdmVsZXJz0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 17 May 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpcmxpbmVzLWNlby1oYXMtYS1tZXNzYWdlLWZvci1zdW1tZXItdHJhdmVsZXJz0gEA?oc=5\" target=\"_blank\">Delta Airlines CEO Has a Message for Summer Travelers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet</font>"
-            ],
-            "source": [
-              {
-                "_": "TheStreet",
-                "$": {
-                  "url": "https://www.thestreet.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Following uproar, Delta CEO says airline went 'too far' with SkyMiles crackdown - MarketWatch"
             ],
             "link": [
@@ -2763,60 +2733,60 @@
           },
           {
             "title": [
-              "When should you recline your seat on a plane? Delta CEO Ed Bastian says he'd NEVER push his back and ethics ex - Daily Mail"
+              "Delta Airlines CEO Has a Message for Summer Travelers - TheStreet"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNDE2OTM1L0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s0gGeAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI0MTY5MzUvYW1wL0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s?oc=5"
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpcmxpbmVzLWNlby1oYXMtYS1tZXNzYWdlLWZvci1zdW1tZXItdHJhdmVsZXJz0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMimgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNDE2OTM1L0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s0gGeAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI0MTY5MzUvYW1wL0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s",
+                "_": "CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpcmxpbmVzLWNlby1oYXMtYS1tZXNzYWdlLWZvci1zdW1tZXItdHJhdmVsZXJz0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 17 Aug 2023 07:00:00 GMT"
+              "Wed, 17 May 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNDE2OTM1L0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s0gGeAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTI0MTY5MzUvYW1wL0V0aGljcy1leHBlcnQtcmV2ZWFscy1yaWdodC1yZWNsaW5lLXNlYXQtYWlycGxhbmUtRGVsdGEtQ0VPLXNhaWQtaGVkLW5ldmVyLXB1c2gtQW1lcmljYW5zLXNlYXQtd2Fycy5odG1s?oc=5\" target=\"_blank\">When should you recline your seat on a plane? Delta CEO Ed Bastian says he'd NEVER push his back and ethics ex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdHJhdmVsL2RlbHRhLWFpcmxpbmVzLWNlby1oYXMtYS1tZXNzYWdlLWZvci1zdW1tZXItdHJhdmVsZXJz0gEA?oc=5\" target=\"_blank\">Delta Airlines CEO Has a Message for Summer Travelers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet</font>"
             ],
             "source": [
               {
-                "_": "Daily Mail",
+                "_": "TheStreet",
                 "$": {
-                  "url": "https://www.dailymail.co.uk"
+                  "url": "https://www.thestreet.com"
                 }
               }
             ]
           },
           {
             "title": [
-              "'This is bull***t': George Santos has meltdown over 'nightmare' experience with Delta Air Lines as he calls ou - Daily Mail"
+              "Delta is returning to the gate to tweak unpopular changes in its frequent-flyer program - Yahoo Finance"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiwAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyODk3MzUzL1RoaXMtYnVsbC10LUdlb3JnZS1TYW50b3MtbWVsdGRvd24tbmlnaHRtYXJlLWV4cGVyaWVuY2UtRGVsdGEtQWlyLUxpbmVzLWNhbGxzLWJvc3MtRWQtQmFzdGlhbi1jbGFpbXMtY2Fycmllci1mbHlpbmctdW5kb2N1bWVudGVkLW1pZ3JhbnRzLmh0bWzSAcQBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMjg5NzM1My9hbXAvVGhpcy1idWxsLXQtR2VvcmdlLVNhbnRvcy1tZWx0ZG93bi1uaWdodG1hcmUtZXhwZXJpZW5jZS1EZWx0YS1BaXItTGluZXMtY2FsbHMtYm9zcy1FZC1CYXN0aWFuLWNsYWltcy1jYXJyaWVyLWZseWluZy11bmRvY3VtZW50ZWQtbWlncmFudHMuaHRtbA?oc=5"
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1yZXR1cm5pbmctZ2F0ZS10d2Vhay11bnBvcHVsYXItMDAzMzIzNTEzLmh0bWzSAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiwAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyODk3MzUzL1RoaXMtYnVsbC10LUdlb3JnZS1TYW50b3MtbWVsdGRvd24tbmlnaHRtYXJlLWV4cGVyaWVuY2UtRGVsdGEtQWlyLUxpbmVzLWNhbGxzLWJvc3MtRWQtQmFzdGlhbi1jbGFpbXMtY2Fycmllci1mbHlpbmctdW5kb2N1bWVudGVkLW1pZ3JhbnRzLmh0bWzSAcQBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMjg5NzM1My9hbXAvVGhpcy1idWxsLXQtR2VvcmdlLVNhbnRvcy1tZWx0ZG93bi1uaWdodG1hcmUtZXhwZXJpZW5jZS1EZWx0YS1BaXItTGluZXMtY2FsbHMtYm9zcy1FZC1CYXN0aWFuLWNsYWltcy1jYXJyaWVyLWZseWluZy11bmRvY3VtZW50ZWQtbWlncmFudHMuaHRtbA",
+                "_": "CBMiUmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1yZXR1cm5pbmctZ2F0ZS10d2Vhay11bnBvcHVsYXItMDAzMzIzNTEzLmh0bWzSAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Sat, 23 Dec 2023 08:00:00 GMT"
+              "Wed, 27 Sep 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiwAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyODk3MzUzL1RoaXMtYnVsbC10LUdlb3JnZS1TYW50b3MtbWVsdGRvd24tbmlnaHRtYXJlLWV4cGVyaWVuY2UtRGVsdGEtQWlyLUxpbmVzLWNhbGxzLWJvc3MtRWQtQmFzdGlhbi1jbGFpbXMtY2Fycmllci1mbHlpbmctdW5kb2N1bWVudGVkLW1pZ3JhbnRzLmh0bWzSAcQBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMjg5NzM1My9hbXAvVGhpcy1idWxsLXQtR2VvcmdlLVNhbnRvcy1tZWx0ZG93bi1uaWdodG1hcmUtZXhwZXJpZW5jZS1EZWx0YS1BaXItTGluZXMtY2FsbHMtYm9zcy1FZC1CYXN0aWFuLWNsYWltcy1jYXJyaWVyLWZseWluZy11bmRvY3VtZW50ZWQtbWlncmFudHMuaHRtbA?oc=5\" target=\"_blank\">'This is bull***t': George Santos has meltdown over 'nightmare' experience with Delta Air Lines as he calls ou</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWx0YS1yZXR1cm5pbmctZ2F0ZS10d2Vhay11bnBvcHVsYXItMDAzMzIzNTEzLmh0bWzSAQA?oc=5\" target=\"_blank\">Delta is returning to the gate to tweak unpopular changes in its frequent-flyer program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
             ],
             "source": [
               {
-                "_": "Daily Mail",
+                "_": "Yahoo Finance",
                 "$": {
-                  "url": "https://www.dailymail.co.uk"
+                  "url": "https://finance.yahoo.com"
                 }
               }
             ]

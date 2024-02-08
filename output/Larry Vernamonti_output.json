@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:41 GMT"
+          "Wed, 07 Feb 2024 08:29:22 GMT"
         ],
         "description": [
           "Google News"
@@ -213,36 +213,6 @@
           },
           {
             "title": [
-              "Election Day In Moorestown: Who's On The Ballot, Where To Vote - Patch"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 31 Oct 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA?oc=5\" target=\"_blank\">Election Day In Moorestown: Who's On The Ballot, Where To Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
-            ],
-            "source": [
-              {
-                "_": "Patch",
-                "$": {
-                  "url": "https://patch.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Election Day In Cinnaminson: Who's On The Ballot, Where To Vote - Patch"
             ],
             "link": [
@@ -261,6 +231,36 @@
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvY2lubmFtaW5zb24vZWxlY3Rpb24tZGF5LWNpbm5hbWluc29uLXdob3MtYmFsbG90LXdoZXJlLXZvdGUtMNIBAA?oc=5\" target=\"_blank\">Election Day In Cinnaminson: Who's On The Ballot, Where To Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
+            ],
+            "source": [
+              {
+                "_": "Patch",
+                "$": {
+                  "url": "https://patch.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Election Day In Moorestown: Who's On The Ballot, Where To Vote - Patch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy1qZXJzZXkvbW9vcmVzdG93bi9lbGVjdGlvbi1kYXktbW9vcmVzdG93bi13aG9zLWJhbGxvdC13aGVyZS12b3RlLTDSAQA?oc=5\" target=\"_blank\">Election Day In Moorestown: Who's On The Ballot, Where To Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
             ],
             "source": [
               {

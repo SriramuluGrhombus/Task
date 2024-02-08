@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -117,6 +117,36 @@
                 "_": "The Guardian",
                 "$": {
                   "url": "https://www.theguardian.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Houston woman charged with killing landlord, hiding him, stealing rent - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIzL2hvdXN0b24td29tYW4tY2hhcmdlZC13aXRoLWtpbGxpbmctbGFuZGxvcmQtaGlkaW5nLWJvZHkvNzA2NTcwOTkwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIzL2hvdXN0b24td29tYW4tY2hhcmdlZC13aXRoLWtpbGxpbmctbGFuZGxvcmQtaGlkaW5nLWJvZHkvNzA2NTcwOTkwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 23 Aug 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIzL2hvdXN0b24td29tYW4tY2hhcmdlZC13aXRoLWtpbGxpbmctbGFuZGxvcmQtaGlkaW5nLWJvZHkvNzA2NTcwOTkwMDcv0gEA?oc=5\" target=\"_blank\">Houston woman charged with killing landlord, hiding him, stealing rent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
                 }
               }
             ]
@@ -423,36 +453,6 @@
           },
           {
             "title": [
-              "Elizabeth Warren and Paul Ryan Campaign in West Virginia Senate Race | TIME - TIME"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGltZS5jb20vMjk4MzAyMC9lbGl6YWJldGgtd2FycmVuLXBhdWwtcnlhbi13ZXN0LXZpcmdpbmlhLTIwMTQtZWxlY3Rpb24v0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiUGh0dHBzOi8vdGltZS5jb20vMjk4MzAyMC9lbGl6YWJldGgtd2FycmVuLXBhdWwtcnlhbi13ZXN0LXZpcmdpbmlhLTIwMTQtZWxlY3Rpb24v0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 14 Jul 2014 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGltZS5jb20vMjk4MzAyMC9lbGl6YWJldGgtd2FycmVuLXBhdWwtcnlhbi13ZXN0LXZpcmdpbmlhLTIwMTQtZWxlY3Rpb24v0gEA?oc=5\" target=\"_blank\">Elizabeth Warren and Paul Ryan Campaign in West Virginia Senate Race | TIME</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIME</font>"
-            ],
-            "source": [
-              {
-                "_": "TIME",
-                "$": {
-                  "url": "https://time.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Rent control for RVs? Policy could extend protections to nontraditional tenants - The Oaklandside"
             ],
             "link": [
@@ -633,6 +633,36 @@
           },
           {
             "title": [
+              "Elizabeth Warren and Paul Ryan Campaign in West Virginia Senate Race | TIME - TIME"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGltZS5jb20vMjk4MzAyMC9lbGl6YWJldGgtd2FycmVuLXBhdWwtcnlhbi13ZXN0LXZpcmdpbmlhLTIwMTQtZWxlY3Rpb24v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUGh0dHBzOi8vdGltZS5jb20vMjk4MzAyMC9lbGl6YWJldGgtd2FycmVuLXBhdWwtcnlhbi13ZXN0LXZpcmdpbmlhLTIwMTQtZWxlY3Rpb24v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 14 Jul 2014 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGltZS5jb20vMjk4MzAyMC9lbGl6YWJldGgtd2FycmVuLXBhdWwtcnlhbi13ZXN0LXZpcmdpbmlhLTIwMTQtZWxlY3Rpb24v0gEA?oc=5\" target=\"_blank\">Elizabeth Warren and Paul Ryan Campaign in West Virginia Senate Race | TIME</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIME</font>"
+            ],
+            "source": [
+              {
+                "_": "TIME",
+                "$": {
+                  "url": "https://time.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Boxed in: Eviction moving costs shock Dane County landlords, tenants - The Capital Times"
             ],
             "link": [
@@ -687,36 +717,6 @@
                 "_": "Santa Monica Daily Press",
                 "$": {
                   "url": "https://smdp.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Houston woman charged with killing landlord, hiding him, stealing rent - USA TODAY"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIzL2hvdXN0b24td29tYW4tY2hhcmdlZC13aXRoLWtpbGxpbmctbGFuZGxvcmQtaGlkaW5nLWJvZHkvNzA2NTcwOTkwMDcv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIzL2hvdXN0b24td29tYW4tY2hhcmdlZC13aXRoLWtpbGxpbmctbGFuZGxvcmQtaGlkaW5nLWJvZHkvNzA2NTcwOTkwMDcv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 23 Aug 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzA4LzIzL2hvdXN0b24td29tYW4tY2hhcmdlZC13aXRoLWtpbGxpbmctbGFuZGxvcmQtaGlkaW5nLWJvZHkvNzA2NTcwOTkwMDcv0gEA?oc=5\" target=\"_blank\">Houston woman charged with killing landlord, hiding him, stealing rent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
-            ],
-            "source": [
-              {
-                "_": "USA TODAY",
-                "$": {
-                  "url": "https://www.usatoday.com"
                 }
               }
             ]
@@ -1377,6 +1377,36 @@
                 "_": "KING5.com",
                 "$": {
                   "url": "https://www.king5.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Facing Eviction, Tenant Sues UC Regents to Release Public Records - Post News Group"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnBvc3RuZXdzZ3JvdXAuY29tL2ZhY2luZy1ldmljdGlvbi10ZW5hbnQtc3Vlcy11Yy1yZWdlbnRzLXRvLXJlbGVhc2UtcHVibGljLXJlY29yZHMv0gFjaHR0cHM6Ly93d3cucG9zdG5ld3Nncm91cC5jb20vZmFjaW5nLWV2aWN0aW9uLXRlbmFudC1zdWVzLXVjLXJlZ2VudHMtdG8tcmVsZWFzZS1wdWJsaWMtcmVjb3Jkcy9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiX2h0dHBzOi8vd3d3LnBvc3RuZXdzZ3JvdXAuY29tL2ZhY2luZy1ldmljdGlvbi10ZW5hbnQtc3Vlcy11Yy1yZWdlbnRzLXRvLXJlbGVhc2UtcHVibGljLXJlY29yZHMv0gFjaHR0cHM6Ly93d3cucG9zdG5ld3Nncm91cC5jb20vZmFjaW5nLWV2aWN0aW9uLXRlbmFudC1zdWVzLXVjLXJlZ2VudHMtdG8tcmVsZWFzZS1wdWJsaWMtcmVjb3Jkcy9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 25 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnBvc3RuZXdzZ3JvdXAuY29tL2ZhY2luZy1ldmljdGlvbi10ZW5hbnQtc3Vlcy11Yy1yZWdlbnRzLXRvLXJlbGVhc2UtcHVibGljLXJlY29yZHMv0gFjaHR0cHM6Ly93d3cucG9zdG5ld3Nncm91cC5jb20vZmFjaW5nLWV2aWN0aW9uLXRlbmFudC1zdWVzLXVjLXJlZ2VudHMtdG8tcmVsZWFzZS1wdWJsaWMtcmVjb3Jkcy9hbXAv?oc=5\" target=\"_blank\">Facing Eviction, Tenant Sues UC Regents to Release Public Records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Post News Group</font>"
+            ],
+            "source": [
+              {
+                "_": "Post News Group",
+                "$": {
+                  "url": "https://www.postnewsgroup.com"
                 }
               }
             ]

@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -1383,36 +1383,6 @@
           },
           {
             "title": [
-              "Property Owners in Los Angeles Sue City Over Complex and Costly Rental Regulations - Westside Today"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd2VzdHNpZGV0b2RheS5jb20vMjAyMy8wMy8xMC9wcm9wZXJ0eS1vd25lcnMtaW4tbG9zLWFuZ2VsZXMtc3VlLWNpdHktb3Zlci1jb21wbGV4LWFuZC1jb3N0bHktcmVudGFsLXJlZ3VsYXRpb25zL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMieGh0dHBzOi8vd2VzdHNpZGV0b2RheS5jb20vMjAyMy8wMy8xMC9wcm9wZXJ0eS1vd25lcnMtaW4tbG9zLWFuZ2VsZXMtc3VlLWNpdHktb3Zlci1jb21wbGV4LWFuZC1jb3N0bHktcmVudGFsLXJlZ3VsYXRpb25zL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 10 Mar 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd2VzdHNpZGV0b2RheS5jb20vMjAyMy8wMy8xMC9wcm9wZXJ0eS1vd25lcnMtaW4tbG9zLWFuZ2VsZXMtc3VlLWNpdHktb3Zlci1jb21wbGV4LWFuZC1jb3N0bHktcmVudGFsLXJlZ3VsYXRpb25zL9IBAA?oc=5\" target=\"_blank\">Property Owners in Los Angeles Sue City Over Complex and Costly Rental Regulations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Westside Today</font>"
-            ],
-            "source": [
-              {
-                "_": "Westside Today",
-                "$": {
-                  "url": "https://westsidetoday.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Remaking Rent Control - San Francisco Public Press"
             ],
             "link": [
@@ -1437,6 +1407,36 @@
                 "_": "San Francisco Public Press",
                 "$": {
                   "url": "https://www.sfpublicpress.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Property Owners in Los Angeles Sue City Over Complex and Costly Rental Regulations - Westside Today"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd2VzdHNpZGV0b2RheS5jb20vMjAyMy8wMy8xMC9wcm9wZXJ0eS1vd25lcnMtaW4tbG9zLWFuZ2VsZXMtc3VlLWNpdHktb3Zlci1jb21wbGV4LWFuZC1jb3N0bHktcmVudGFsLXJlZ3VsYXRpb25zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd2VzdHNpZGV0b2RheS5jb20vMjAyMy8wMy8xMC9wcm9wZXJ0eS1vd25lcnMtaW4tbG9zLWFuZ2VsZXMtc3VlLWNpdHktb3Zlci1jb21wbGV4LWFuZC1jb3N0bHktcmVudGFsLXJlZ3VsYXRpb25zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd2VzdHNpZGV0b2RheS5jb20vMjAyMy8wMy8xMC9wcm9wZXJ0eS1vd25lcnMtaW4tbG9zLWFuZ2VsZXMtc3VlLWNpdHktb3Zlci1jb21wbGV4LWFuZC1jb3N0bHktcmVudGFsLXJlZ3VsYXRpb25zL9IBAA?oc=5\" target=\"_blank\">Property Owners in Los Angeles Sue City Over Complex and Costly Rental Regulations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Westside Today</font>"
+            ],
+            "source": [
+              {
+                "_": "Westside Today",
+                "$": {
+                  "url": "https://westsidetoday.com"
                 }
               }
             ]

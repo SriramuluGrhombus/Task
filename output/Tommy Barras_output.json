@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -303,24 +303,24 @@
           },
           {
             "title": [
-              "Reynolds to look at acquisitions, become more public-facing - Automotive News"
+              "TIMELINE: The case against former Reynolds and Reynolds CEO Bob Brockman - Automotive News"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWxvb2stYWNxdWlzaXRpb25zLWJlY29tZS1tb3JlLXB1YmxpYy1mYWNpbmfSAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3RpbWVsaW5lLWNhc2UtYWdhaW5zdC1mb3JtZXItcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlby1ib2ItYnJvY2ttYW7SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiVWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWxvb2stYWNxdWlzaXRpb25zLWJlY29tZS1tb3JlLXB1YmxpYy1mYWNpbmfSAQA",
+                "_": "CBMiZGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3RpbWVsaW5lLWNhc2UtYWdhaW5zdC1mb3JtZXItcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlby1ib2ItYnJvY2ttYW7SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Fri, 04 Feb 2022 08:00:00 GMT"
+              "Fri, 27 May 2022 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3JleW5vbGRzLWxvb2stYWNxdWlzaXRpb25zLWJlY29tZS1tb3JlLXB1YmxpYy1mYWNpbmfSAQA?oc=5\" target=\"_blank\">Reynolds to look at acquisitions, become more public-facing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3RpbWVsaW5lLWNhc2UtYWdhaW5zdC1mb3JtZXItcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlby1ib2ItYnJvY2ttYW7SAQA?oc=5\" target=\"_blank\">TIMELINE: The case against former Reynolds and Reynolds CEO Bob Brockman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
             ],
             "source": [
               {
@@ -357,36 +357,6 @@
                 "_": "Dayton Daily News",
                 "$": {
                   "url": "https://www.daytondailynews.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "TIMELINE: The case against former Reynolds and Reynolds CEO Bob Brockman - Automotive News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3RpbWVsaW5lLWNhc2UtYWdhaW5zdC1mb3JtZXItcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlby1ib2ItYnJvY2ttYW7SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiZGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3RpbWVsaW5lLWNhc2UtYWdhaW5zdC1mb3JtZXItcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlby1ib2ItYnJvY2ttYW7SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 27 May 2022 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmF1dG9uZXdzLmNvbS9kZWFsZXJzL3RpbWVsaW5lLWNhc2UtYWdhaW5zdC1mb3JtZXItcmV5bm9sZHMtYW5kLXJleW5vbGRzLWNlby1ib2ItYnJvY2ttYW7SAQA?oc=5\" target=\"_blank\">TIMELINE: The case against former Reynolds and Reynolds CEO Bob Brockman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font>"
-            ],
-            "source": [
-              {
-                "_": "Automotive News",
-                "$": {
-                  "url": "https://www.autonews.com"
                 }
               }
             ]

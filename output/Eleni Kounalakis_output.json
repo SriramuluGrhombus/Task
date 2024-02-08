@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -753,36 +753,6 @@
           },
           {
             "title": [
-              "The first female vice president is from California. Could she help elect the state's first woman governor? - Yahoo News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vZmlyc3QtZmVtYWxlLXZpY2UtcHJlc2lkZW50LWNhbGlmb3JuaWEtMTY0MjExNDg3Lmh0bWzSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vZmlyc3QtZmVtYWxlLXZpY2UtcHJlc2lkZW50LWNhbGlmb3JuaWEtMTY0MjExNDg3Lmh0bWzSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 26 Jan 2024 16:42:11 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vZmlyc3QtZmVtYWxlLXZpY2UtcHJlc2lkZW50LWNhbGlmb3JuaWEtMTY0MjExNDg3Lmh0bWzSAQA?oc=5\" target=\"_blank\">The first female vice president is from California. Could she help elect the state's first woman governor?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
-            ],
-            "source": [
-              {
-                "_": "Yahoo News",
-                "$": {
-                  "url": "https://news.yahoo.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Eleni Kounalakis announces 2026 run for California governor - CBS News"
             ],
             "link": [
@@ -807,6 +777,36 @@
                 "_": "CBS News",
                 "$": {
                   "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The first female vice president is from California. Could she help elect the state's first woman governor? - Yahoo News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vZmlyc3QtZmVtYWxlLXZpY2UtcHJlc2lkZW50LWNhbGlmb3JuaWEtMTY0MjExNDg3Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vZmlyc3QtZmVtYWxlLXZpY2UtcHJlc2lkZW50LWNhbGlmb3JuaWEtMTY0MjExNDg3Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 16:42:11 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vZmlyc3QtZmVtYWxlLXZpY2UtcHJlc2lkZW50LWNhbGlmb3JuaWEtMTY0MjExNDg3Lmh0bWzSAQA?oc=5\" target=\"_blank\">The first female vice president is from California. Could she help elect the state's first woman governor?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News",
+                "$": {
+                  "url": "https://news.yahoo.com"
                 }
               }
             ]

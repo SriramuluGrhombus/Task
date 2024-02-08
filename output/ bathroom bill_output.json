@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -243,6 +243,36 @@
           },
           {
             "title": [
+              "Utah House passes transgender bathroom ban - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc3RhdGUtd2F0Y2gvNDQxODkzNy11dGFoLWhvdXNlLXBhc3Nlcy10cmFuc2dlbmRlci1iYXRocm9vbS1iYW4v0gFgaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zdGF0ZS13YXRjaC80NDE4OTM3LXV0YWgtaG91c2UtcGFzc2VzLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJhbi9hbXAv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc3RhdGUtd2F0Y2gvNDQxODkzNy11dGFoLWhvdXNlLXBhc3Nlcy10cmFuc2dlbmRlci1iYXRocm9vbS1iYW4v0gFgaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zdGF0ZS13YXRjaC80NDE4OTM3LXV0YWgtaG91c2UtcGFzc2VzLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJhbi9hbXAv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 19 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc3RhdGUtd2F0Y2gvNDQxODkzNy11dGFoLWhvdXNlLXBhc3Nlcy10cmFuc2dlbmRlci1iYXRocm9vbS1iYW4v0gFgaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zdGF0ZS13YXRjaC80NDE4OTM3LXV0YWgtaG91c2UtcGFzc2VzLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJhbi9hbXAv?oc=5\" target=\"_blank\">Utah House passes transgender bathroom ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Utah transgender bathroom ban goes into effect after Gov. Cox quickly signs bill - Salt Lake Tribune"
             ],
             "link": [
@@ -423,36 +453,6 @@
           },
           {
             "title": [
-              "Utah governor signs anti-trans bathroom bill - Axios"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAxLzMxL3V0YWgtZ292ZXJub3Itc2lnbi1iaWxsLWJhdGhyb29tLXRyYW5zZ2VuZGVyLWFjY2Vzc9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiVGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAxLzMxL3V0YWgtZ292ZXJub3Itc2lnbi1iaWxsLWJhdGhyb29tLXRyYW5zZ2VuZGVyLWFjY2Vzc9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 02:53:50 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAxLzMxL3V0YWgtZ292ZXJub3Itc2lnbi1iaWxsLWJhdGhyb29tLXRyYW5zZ2VuZGVyLWFjY2Vzc9IBAA?oc=5\" target=\"_blank\">Utah governor signs anti-trans bathroom bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
-            ],
-            "source": [
-              {
-                "_": "Axios",
-                "$": {
-                  "url": "https://www.axios.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Controversial trans bathroom bill passes through Utah Senate committee - Utah Public Radio"
             ],
             "link": [
@@ -483,30 +483,30 @@
           },
           {
             "title": [
-              "Transgender bathroom bill heads to Cox after last-minute deal - FOX 13 News Utah"
+              "Utah governor signs anti-trans bathroom bill - Axios"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvaG91c2Utd29udC1jb25jdXItd2l0aC10cmFuc2dlbmRlci1iYXRocm9vbS1iaWxs0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAxLzMxL3V0YWgtZ292ZXJub3Itc2lnbi1iaWxsLWJhdGhyb29tLXRyYW5zZ2VuZGVyLWFjY2Vzc9IBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiWWh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvaG91c2Utd29udC1jb25jdXItd2l0aC10cmFuc2dlbmRlci1iYXRocm9vbS1iaWxs0gEA",
+                "_": "CBMiVGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAxLzMxL3V0YWgtZ292ZXJub3Itc2lnbi1iaWxsLWJhdGhyb29tLXRyYW5zZ2VuZGVyLWFjY2Vzc9IBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Fri, 26 Jan 2024 08:00:00 GMT"
+              "Wed, 31 Jan 2024 02:53:50 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvaG91c2Utd29udC1jb25jdXItd2l0aC10cmFuc2dlbmRlci1iYXRocm9vbS1iaWxs0gEA?oc=5\" target=\"_blank\">Transgender bathroom bill heads to Cox after last-minute deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 News Utah</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAxLzMxL3V0YWgtZ292ZXJub3Itc2lnbi1iaWxsLWJhdGhyb29tLXRyYW5zZ2VuZGVyLWFjY2Vzc9IBAA?oc=5\" target=\"_blank\">Utah governor signs anti-trans bathroom bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
             ],
             "source": [
               {
-                "_": "FOX 13 News Utah",
+                "_": "Axios",
                 "$": {
-                  "url": "https://www.fox13now.com"
+                  "url": "https://www.axios.com"
                 }
               }
             ]
@@ -567,6 +567,36 @@
                 "_": "Deseret News",
                 "$": {
                   "url": "https://www.deseret.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Utah Gov. signs anti-trans bathroom bill, which advocates say is 'harassment in the most private of settings' - Yahoo News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbmV3cy55YWhvby5jb20vdXRhaC1nb3Ytc2lnbnMtYW50aS10cmFucy0xNDIzMjI4MDcuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vbmV3cy55YWhvby5jb20vdXRhaC1nb3Ytc2lnbnMtYW50aS10cmFucy0xNDIzMjI4MDcuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 14:23:22 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbmV3cy55YWhvby5jb20vdXRhaC1nb3Ytc2lnbnMtYW50aS10cmFucy0xNDIzMjI4MDcuaHRtbNIBAA?oc=5\" target=\"_blank\">Utah Gov. signs anti-trans bathroom bill, which advocates say is 'harassment in the most private of settings'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo News",
+                "$": {
+                  "url": "https://news.yahoo.com"
                 }
               }
             ]
@@ -663,30 +693,30 @@
           },
           {
             "title": [
-              "Utah Gov. signs anti-trans bathroom bill, which advocates say is 'harassment in the most private of settings' - Yahoo News"
+              "Transgender bathroom bill heads to Cox after last-minute deal - FOX 13 News Utah"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbmV3cy55YWhvby5jb20vdXRhaC1nb3Ytc2lnbnMtYW50aS10cmFucy0xNDIzMjI4MDcuaHRtbNIBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvaG91c2Utd29udC1jb25jdXItd2l0aC10cmFuc2dlbmRlci1iYXRocm9vbS1iaWxs0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiP2h0dHBzOi8vbmV3cy55YWhvby5jb20vdXRhaC1nb3Ytc2lnbnMtYW50aS10cmFucy0xNDIzMjI4MDcuaHRtbNIBAA",
+                "_": "CBMiWWh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvaG91c2Utd29udC1jb25jdXItd2l0aC10cmFuc2dlbmRlci1iYXRocm9vbS1iaWxs0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 31 Jan 2024 14:23:22 GMT"
+              "Fri, 26 Jan 2024 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbmV3cy55YWhvby5jb20vdXRhaC1nb3Ytc2lnbnMtYW50aS10cmFucy0xNDIzMjI4MDcuaHRtbNIBAA?oc=5\" target=\"_blank\">Utah Gov. signs anti-trans bathroom bill, which advocates say is 'harassment in the most private of settings'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvaG91c2Utd29udC1jb25jdXItd2l0aC10cmFuc2dlbmRlci1iYXRocm9vbS1iaWxs0gEA?oc=5\" target=\"_blank\">Transgender bathroom bill heads to Cox after last-minute deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 News Utah</font>"
             ],
             "source": [
               {
-                "_": "Yahoo News",
+                "_": "FOX 13 News Utah",
                 "$": {
-                  "url": "https://news.yahoo.com"
+                  "url": "https://www.fox13now.com"
                 }
               }
             ]
@@ -873,36 +903,6 @@
           },
           {
             "title": [
-              "Wednesday AM headlines: Gov. Cox signs trans bathroom bill and DEI bill into law - Utah Public Radio"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnVwci5vcmcvdXRhaC1uZXdzLzIwMjQtMDEtMzEvd2VkbmVzZGF5LWFtLWhlYWRsaW5lcy1nb3YtY294LXNpZ25zLXRyYW5zLWJhdGhyb29tLWJpbGwtYW5kLWRlaS1iaWxsLWludG8tbGF30gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMid2h0dHBzOi8vd3d3LnVwci5vcmcvdXRhaC1uZXdzLzIwMjQtMDEtMzEvd2VkbmVzZGF5LWFtLWhlYWRsaW5lcy1nb3YtY294LXNpZ25zLXRyYW5zLWJhdGhyb29tLWJpbGwtYW5kLWRlaS1iaWxsLWludG8tbGF30gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 15:21:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnVwci5vcmcvdXRhaC1uZXdzLzIwMjQtMDEtMzEvd2VkbmVzZGF5LWFtLWhlYWRsaW5lcy1nb3YtY294LXNpZ25zLXRyYW5zLWJhdGhyb29tLWJpbGwtYW5kLWRlaS1iaWxsLWludG8tbGF30gEA?oc=5\" target=\"_blank\">Wednesday AM headlines: Gov. Cox signs trans bathroom bill and DEI bill into law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utah Public Radio</font>"
-            ],
-            "source": [
-              {
-                "_": "Utah Public Radio",
-                "$": {
-                  "url": "https://www.upr.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Senators significantly alter transgender bathroom bill, cut sex-based limits on some restrooms - KSL.com"
             ],
             "link": [
@@ -927,6 +927,36 @@
                 "_": "KSL.com",
                 "$": {
                   "url": "https://www.ksl.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Wednesday AM headlines: Gov. Cox signs trans bathroom bill and DEI bill into law - Utah Public Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnVwci5vcmcvdXRhaC1uZXdzLzIwMjQtMDEtMzEvd2VkbmVzZGF5LWFtLWhlYWRsaW5lcy1nb3YtY294LXNpZ25zLXRyYW5zLWJhdGhyb29tLWJpbGwtYW5kLWRlaS1iaWxsLWludG8tbGF30gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LnVwci5vcmcvdXRhaC1uZXdzLzIwMjQtMDEtMzEvd2VkbmVzZGF5LWFtLWhlYWRsaW5lcy1nb3YtY294LXNpZ25zLXRyYW5zLWJhdGhyb29tLWJpbGwtYW5kLWRlaS1iaWxsLWludG8tbGF30gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 15:21:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnVwci5vcmcvdXRhaC1uZXdzLzIwMjQtMDEtMzEvd2VkbmVzZGF5LWFtLWhlYWRsaW5lcy1nb3YtY294LXNpZ25zLXRyYW5zLWJhdGhyb29tLWJpbGwtYW5kLWRlaS1iaWxsLWludG8tbGF30gEA?oc=5\" target=\"_blank\">Wednesday AM headlines: Gov. Cox signs trans bathroom bill and DEI bill into law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utah Public Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "Utah Public Radio",
+                "$": {
+                  "url": "https://www.upr.org"
                 }
               }
             ]
@@ -993,36 +1023,6 @@
           },
           {
             "title": [
-              "Governor's bill draft would put sex changes on Iowa driver's licenses, birth certificates - Iowa Capital Dispatch"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiggFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDIvMDEvZ292ZXJub3JzLWJpbGwtZHJhZnQtd291bGQtcHV0LXNleC1jaGFuZ2VzLW9uLWlvd2EtZHJpdmVycy1saWNlbnNlcy1iaXJ0aC1jZXJ0aWZpY2F0ZXMv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiggFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDIvMDEvZ292ZXJub3JzLWJpbGwtZHJhZnQtd291bGQtcHV0LXNleC1jaGFuZ2VzLW9uLWlvd2EtZHJpdmVycy1saWNlbnNlcy1iaXJ0aC1jZXJ0aWZpY2F0ZXMv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Feb 2024 22:40:45 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDIvMDEvZ292ZXJub3JzLWJpbGwtZHJhZnQtd291bGQtcHV0LXNleC1jaGFuZ2VzLW9uLWlvd2EtZHJpdmVycy1saWNlbnNlcy1iaXJ0aC1jZXJ0aWZpY2F0ZXMv0gEA?oc=5\" target=\"_blank\">Governor's bill draft would put sex changes on Iowa driver's licenses, birth certificates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Iowa Capital Dispatch</font>"
-            ],
-            "source": [
-              {
-                "_": "Iowa Capital Dispatch",
-                "$": {
-                  "url": "https://iowacapitaldispatch.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Opinion | Anti-Trans Bathroom Bills Are About Humiliation - The New York Times"
             ],
             "link": [
@@ -1047,6 +1047,36 @@
                 "_": "The New York Times",
                 "$": {
                   "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Governor's bill draft would put sex changes on Iowa driver's licenses, birth certificates - Iowa Capital Dispatch"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDIvMDEvZ292ZXJub3JzLWJpbGwtZHJhZnQtd291bGQtcHV0LXNleC1jaGFuZ2VzLW9uLWlvd2EtZHJpdmVycy1saWNlbnNlcy1iaXJ0aC1jZXJ0aWZpY2F0ZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDIvMDEvZ292ZXJub3JzLWJpbGwtZHJhZnQtd291bGQtcHV0LXNleC1jaGFuZ2VzLW9uLWlvd2EtZHJpdmVycy1saWNlbnNlcy1iaXJ0aC1jZXJ0aWZpY2F0ZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 22:40:45 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDIvMDEvZ292ZXJub3JzLWJpbGwtZHJhZnQtd291bGQtcHV0LXNleC1jaGFuZ2VzLW9uLWlvd2EtZHJpdmVycy1saWNlbnNlcy1iaXJ0aC1jZXJ0aWZpY2F0ZXMv0gEA?oc=5\" target=\"_blank\">Governor's bill draft would put sex changes on Iowa driver's licenses, birth certificates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Iowa Capital Dispatch</font>"
+            ],
+            "source": [
+              {
+                "_": "Iowa Capital Dispatch",
+                "$": {
+                  "url": "https://iowacapitaldispatch.com"
                 }
               }
             ]
@@ -1233,36 +1263,6 @@
           },
           {
             "title": [
-              "ACLU signals potential legal action over Utah gender bathroom bill - KUTV 2News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL2t1dHYuY29tL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz0gGPAWh0dHBzOi8va3V0di5jb20vYW1wL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiiwFodHRwczovL2t1dHYuY29tL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz0gGPAWh0dHBzOi8va3V0di5jb20vYW1wL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Feb 2024 01:23:58 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL2t1dHYuY29tL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz0gGPAWh0dHBzOi8va3V0di5jb20vYW1wL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz?oc=5\" target=\"_blank\">ACLU signals potential legal action over Utah gender bathroom bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV 2News</font>"
-            ],
-            "source": [
-              {
-                "_": "KUTV 2News",
-                "$": {
-                  "url": "https://kutv.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Transgender bathroom bill revised: bill moves forward - KSLTV"
             ],
             "link": [
@@ -1317,6 +1317,36 @@
                 "_": "Salt Lake Tribune",
                 "$": {
                   "url": "https://www.sltrib.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "ACLU signals potential legal action over Utah gender bathroom bill - KUTV 2News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiwFodHRwczovL2t1dHYuY29tL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz0gGPAWh0dHBzOi8va3V0di5jb20vYW1wL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiwFodHRwczovL2t1dHYuY29tL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz0gGPAWh0dHBzOi8va3V0di5jb20vYW1wL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 01:23:58 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiwFodHRwczovL2t1dHYuY29tL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz0gGPAWh0dHBzOi8va3V0di5jb20vYW1wL25ld3MvcG9saXRpY3MvYWNsdS1zaWduYWxzLXBvdGVudGlhbC1sZWdhbC1hY3Rpb24tb3Zlci11dGFoLWdlbmRlci1iYXRocm9vbS1iaWxsLWhiLTI1Ny10cmFuc2dlbmRlci1jaXZpbC1yaWdodHMtbGliZXJ0aWVz?oc=5\" target=\"_blank\">ACLU signals potential legal action over Utah gender bathroom bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV 2News</font>"
+            ],
+            "source": [
+              {
+                "_": "KUTV 2News",
+                "$": {
+                  "url": "https://kutv.com"
                 }
               }
             ]
@@ -1473,36 +1503,6 @@
           },
           {
             "title": [
-              "Utah transgender bathroom ban — Schools, airport and enforcement questions - Salt Lake Tribune"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNsdHJpYi5jb20vbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2hvdy11dGFocy1uZXctdHJhbnNnZW5kZXItYmFuLXdpbGwv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiU2h0dHBzOi8vd3d3LnNsdHJpYi5jb20vbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2hvdy11dGFocy1uZXctdHJhbnNnZW5kZXItYmFuLXdpbGwv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 13:01:20 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNsdHJpYi5jb20vbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2hvdy11dGFocy1uZXctdHJhbnNnZW5kZXItYmFuLXdpbGwv0gEA?oc=5\" target=\"_blank\">Utah transgender bathroom ban — Schools, airport and enforcement questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salt Lake Tribune</font>"
-            ],
-            "source": [
-              {
-                "_": "Salt Lake Tribune",
-                "$": {
-                  "url": "https://www.sltrib.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Utah Senators frustrated with gender bathroom bill passage - KSL NewsRadio"
             ],
             "link": [
@@ -1623,36 +1623,6 @@
           },
           {
             "title": [
-              "Cox signs transgender bathroom bill, anti-DEI bill - ABC4.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFiYzQuY29tL25ld3MvcG9saXRpY3MvY294LXNpZ25zLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJpbGwtYW50aS1kZWktYmlsbC_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiVWh0dHBzOi8vd3d3LmFiYzQuY29tL25ld3MvcG9saXRpY3MvY294LXNpZ25zLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJpbGwtYW50aS1kZWktYmlsbC_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 02:00:10 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFiYzQuY29tL25ld3MvcG9saXRpY3MvY294LXNpZ25zLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJpbGwtYW50aS1kZWktYmlsbC_SAQA?oc=5\" target=\"_blank\">Cox signs transgender bathroom bill, anti-DEI bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4.com</font>"
-            ],
-            "source": [
-              {
-                "_": "ABC4.com",
-                "$": {
-                  "url": "https://www.abc4.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Me, Myself, as Mommy: Bathroom bill further proof of Utah's fear-based governance - Standard-Examiner"
             ],
             "link": [
@@ -1707,6 +1677,36 @@
                 "_": "KUTV 2News",
                 "$": {
                   "url": "https://kutv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Utah transgender bathroom ban — Schools, airport and enforcement questions - Salt Lake Tribune"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNsdHJpYi5jb20vbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2hvdy11dGFocy1uZXctdHJhbnNnZW5kZXItYmFuLXdpbGwv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiU2h0dHBzOi8vd3d3LnNsdHJpYi5jb20vbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2hvdy11dGFocy1uZXctdHJhbnNnZW5kZXItYmFuLXdpbGwv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 13:01:20 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNsdHJpYi5jb20vbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2hvdy11dGFocy1uZXctdHJhbnNnZW5kZXItYmFuLXdpbGwv0gEA?oc=5\" target=\"_blank\">Utah transgender bathroom ban — Schools, airport and enforcement questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salt Lake Tribune</font>"
+            ],
+            "source": [
+              {
+                "_": "Salt Lake Tribune",
+                "$": {
+                  "url": "https://www.sltrib.com"
                 }
               }
             ]
@@ -1881,6 +1881,36 @@
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFiYzQuY29tL25ld3MvcG9saXRpY3Mvc2FsdC1sYWtlLWNpdHktY291bmNpbC12b2ljZXMtc3Ryb25nLW9wcG9zaXRpb24tdG8tZ2VuZGVyLWJhdGhyb29tLWJpbGwv0gEA?oc=5\" target=\"_blank\">Salt Lake City voices strong opposition to gender bathroom bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4.com</font>"
+            ],
+            "source": [
+              {
+                "_": "ABC4.com",
+                "$": {
+                  "url": "https://www.abc4.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cox signs transgender bathroom bill, anti-DEI bill - ABC4.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFiYzQuY29tL25ld3MvcG9saXRpY3MvY294LXNpZ25zLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJpbGwtYW50aS1kZWktYmlsbC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vd3d3LmFiYzQuY29tL25ld3MvcG9saXRpY3MvY294LXNpZ25zLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJpbGwtYW50aS1kZWktYmlsbC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 02:00:10 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFiYzQuY29tL25ld3MvcG9saXRpY3MvY294LXNpZ25zLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJpbGwtYW50aS1kZWktYmlsbC_SAQA?oc=5\" target=\"_blank\">Cox signs transgender bathroom bill, anti-DEI bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4.com</font>"
             ],
             "source": [
               {
@@ -2283,36 +2313,6 @@
           },
           {
             "title": [
-              "Utah becomes latest state to regulate bathroom access for transgender people - The Hill"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc3RhdGUtd2F0Y2gvNDQ0MDIzNy11dGFoLWJlY29tZXMtbGF0ZXN0LXN0YXRlLXRvLXJlZ3VsYXRlLWJhdGhyb29tLWFjY2Vzcy1mb3ItdHJhbnNnZW5kZXItcGVvcGxlL9IBggFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3N0YXRlLXdhdGNoLzQ0NDAyMzctdXRhaC1iZWNvbWVzLWxhdGVzdC1zdGF0ZS10by1yZWd1bGF0ZS1iYXRocm9vbS1hY2Nlc3MtZm9yLXRyYW5zZ2VuZGVyLXBlb3BsZS9hbXAv?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc3RhdGUtd2F0Y2gvNDQ0MDIzNy11dGFoLWJlY29tZXMtbGF0ZXN0LXN0YXRlLXRvLXJlZ3VsYXRlLWJhdGhyb29tLWFjY2Vzcy1mb3ItdHJhbnNnZW5kZXItcGVvcGxlL9IBggFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3N0YXRlLXdhdGNoLzQ0NDAyMzctdXRhaC1iZWNvbWVzLWxhdGVzdC1zdGF0ZS10by1yZWd1bGF0ZS1iYXRocm9vbS1hY2Nlc3MtZm9yLXRyYW5zZ2VuZGVyLXBlb3BsZS9hbXAv",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 18:29:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc3RhdGUtd2F0Y2gvNDQ0MDIzNy11dGFoLWJlY29tZXMtbGF0ZXN0LXN0YXRlLXRvLXJlZ3VsYXRlLWJhdGhyb29tLWFjY2Vzcy1mb3ItdHJhbnNnZW5kZXItcGVvcGxlL9IBggFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3N0YXRlLXdhdGNoLzQ0NDAyMzctdXRhaC1iZWNvbWVzLWxhdGVzdC1zdGF0ZS10by1yZWd1bGF0ZS1iYXRocm9vbS1hY2Nlc3MtZm9yLXRyYW5zZ2VuZGVyLXBlb3BsZS9hbXAv?oc=5\" target=\"_blank\">Utah becomes latest state to regulate bathroom access for transgender people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
-            ],
-            "source": [
-              {
-                "_": "The Hill",
-                "$": {
-                  "url": "https://thehill.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Lawmakers OK 'bathroom bill' restricting transgender students' use of school restrooms - Iowa Capital Dispatch"
             ],
             "link": [
@@ -2493,36 +2493,6 @@
           },
           {
             "title": [
-              "Ohio Republican implies opponents of her trans bathroom bill should be drowned - Yahoo! Voices"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL29oaW8tcmVwdWJsaWNhbi1pbXBsaWVzLW9wcG9uZW50cy1oZXItMTMzMjM0MDMxLmh0bWzSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiT2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL29oaW8tcmVwdWJsaWNhbi1pbXBsaWVzLW9wcG9uZW50cy1oZXItMTMzMjM0MDMxLmh0bWzSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 11 Jan 2024 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL29oaW8tcmVwdWJsaWNhbi1pbXBsaWVzLW9wcG9uZW50cy1oZXItMTMzMjM0MDMxLmh0bWzSAQA?oc=5\" target=\"_blank\">Ohio Republican implies opponents of her trans bathroom bill should be drowned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Voices</font>"
-            ],
-            "source": [
-              {
-                "_": "Yahoo! Voices",
-                "$": {
-                  "url": "https://www.yahoo.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Florida bathroom bill causes problems beyond restrooms for trans kids - Tallahassee Democrat"
             ],
             "link": [
@@ -2547,6 +2517,36 @@
                 "_": "Tallahassee Democrat",
                 "$": {
                   "url": "https://www.tallahassee.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ohio Republican implies opponents of her trans bathroom bill should be drowned - Yahoo! Voices"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL29oaW8tcmVwdWJsaWNhbi1pbXBsaWVzLW9wcG9uZW50cy1oZXItMTMzMjM0MDMxLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL29oaW8tcmVwdWJsaWNhbi1pbXBsaWVzLW9wcG9uZW50cy1oZXItMTMzMjM0MDMxLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL29oaW8tcmVwdWJsaWNhbi1pbXBsaWVzLW9wcG9uZW50cy1oZXItMTMzMjM0MDMxLmh0bWzSAQA?oc=5\" target=\"_blank\">Ohio Republican implies opponents of her trans bathroom bill should be drowned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Voices</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo! Voices",
+                "$": {
+                  "url": "https://www.yahoo.com"
                 }
               }
             ]
@@ -2607,36 +2607,6 @@
                 "_": "NBC4 WCMH-TV",
                 "$": {
                   "url": "https://www.nbc4i.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Utah Gov. Cox signs transgender bathroom bill and diversity, equity and inclusion program end - KSL.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5rc2wuY29tL2FydGljbGUvNTA4NjE2MDcvdXRhaC1nb3YtY294LXNpZ25zLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJpbGwtYW5kLWRpdmVyc2l0eS1lcXVpdHktYW5kLWluY2x1c2lvbi1wcm9ncmFtLWVuZNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMigAFodHRwczovL3d3dy5rc2wuY29tL2FydGljbGUvNTA4NjE2MDcvdXRhaC1nb3YtY294LXNpZ25zLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJpbGwtYW5kLWRpdmVyc2l0eS1lcXVpdHktYW5kLWluY2x1c2lvbi1wcm9ncmFtLWVuZNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 02:15:03 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5rc2wuY29tL2FydGljbGUvNTA4NjE2MDcvdXRhaC1nb3YtY294LXNpZ25zLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJpbGwtYW5kLWRpdmVyc2l0eS1lcXVpdHktYW5kLWluY2x1c2lvbi1wcm9ncmFtLWVuZNIBAA?oc=5\" target=\"_blank\">Utah Gov. Cox signs transgender bathroom bill and diversity, equity and inclusion program end</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSL.com</font>"
-            ],
-            "source": [
-              {
-                "_": "KSL.com",
-                "$": {
-                  "url": "https://www.ksl.com"
                 }
               }
             ]
@@ -2763,36 +2733,6 @@
           },
           {
             "title": [
-              "Gov. Cox signs bathroom and diversity bills into law - KSL NewsRadio"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8va3NsbmV3c3JhZGlvLmNvbS8yMDc2MjM0L3V0YWgtZ292LXNpZ25zLWJhdGhyb29tLWFuZC1kaXZlcnNpdHktYmlsbHMv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiTWh0dHBzOi8va3NsbmV3c3JhZGlvLmNvbS8yMDc2MjM0L3V0YWgtZ292LXNpZ25zLWJhdGhyb29tLWFuZC1kaXZlcnNpdHktYmlsbHMv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 02:38:11 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8va3NsbmV3c3JhZGlvLmNvbS8yMDc2MjM0L3V0YWgtZ292LXNpZ25zLWJhdGhyb29tLWFuZC1kaXZlcnNpdHktYmlsbHMv0gEA?oc=5\" target=\"_blank\">Gov. Cox signs bathroom and diversity bills into law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSL NewsRadio</font>"
-            ],
-            "source": [
-              {
-                "_": "KSL NewsRadio",
-                "$": {
-                  "url": "https://kslnewsradio.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Arkansas House committee changes controversial public bathroom bill - KUAR"
             ],
             "link": [
@@ -2877,6 +2817,96 @@
                 "_": "Advocate.com",
                 "$": {
                   "url": "https://www.advocate.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hobbs vetoes transgender bathroom bill, reaches 111 vetoes - Arizona Mirror"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmF6bWlycm9yLmNvbS8yMDIzLzA2LzA4L2hvYmJzLXZldG9lcy10cmFuc2dlbmRlci1iYXRocm9vbS1iaWxsLXJlYWNoZXMtMTExLXZldG9lcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3LmF6bWlycm9yLmNvbS8yMDIzLzA2LzA4L2hvYmJzLXZldG9lcy10cmFuc2dlbmRlci1iYXRocm9vbS1iaWxsLXJlYWNoZXMtMTExLXZldG9lcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 08 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmF6bWlycm9yLmNvbS8yMDIzLzA2LzA4L2hvYmJzLXZldG9lcy10cmFuc2dlbmRlci1iYXRocm9vbS1iaWxsLXJlYWNoZXMtMTExLXZldG9lcy_SAQA?oc=5\" target=\"_blank\">Hobbs vetoes transgender bathroom bill, reaches 111 vetoes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arizona Mirror</font>"
+            ],
+            "source": [
+              {
+                "_": "Arizona Mirror",
+                "$": {
+                  "url": "https://www.azmirror.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Florida legislature passes anti-trans bathroom bill - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMy8wNS8wNC9mbG9yaWRhLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJhbi1iaWxsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMy8wNS8wNC9mbG9yaWRhLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJhbi1iaWxsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMy8wNS8wNC9mbG9yaWRhLXRyYW5zZ2VuZGVyLWJhdGhyb29tLWJhbi1iaWxsL9IBAA?oc=5\" target=\"_blank\">Florida legislature passes anti-trans bathroom bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Florida's New Bathroom Law Has Gone Into Effect. What Does That Mean for Trans People? - Them"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnRoZW0udXMvc3RvcnkvZmxvcmlkYS10cmFucy1iYXRocm9vbS1sYXfSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiNGh0dHBzOi8vd3d3LnRoZW0udXMvc3RvcnkvZmxvcmlkYS10cmFucy1iYXRocm9vbS1sYXfSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnRoZW0udXMvc3RvcnkvZmxvcmlkYS10cmFucy1iYXRocm9vbS1sYXfSAQA?oc=5\" target=\"_blank\">Florida's New Bathroom Law Has Gone Into Effect. What Does That Mean for Trans People?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Them</font>"
+            ],
+            "source": [
+              {
+                "_": "Them",
+                "$": {
+                  "url": "https://www.them.us"
                 }
               }
             ]

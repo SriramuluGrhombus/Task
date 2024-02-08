@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:41 GMT"
+          "Wed, 07 Feb 2024 08:29:22 GMT"
         ],
         "description": [
           "Google News"
@@ -87,6 +87,36 @@
                 "_": "KSMU Radio",
                 "$": {
                   "url": "https://www.ksmu.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New Voter I-D Cards Coming To Mailboxes Throughout Greene County - 98.7 The Dove"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vOTg3dGhlZG92ZS5jb20vbmV3LXZvdGVyLWktZC1jYXJkcy1jb21pbmctdG8tbWFpbGJveGVzLXRocm91Z2hvdXQtZ3JlZW5lLWNvdW50eS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vOTg3dGhlZG92ZS5jb20vbmV3LXZvdGVyLWktZC1jYXJkcy1jb21pbmctdG8tbWFpbGJveGVzLXRocm91Z2hvdXQtZ3JlZW5lLWNvdW50eS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 13:43:36 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vOTg3dGhlZG92ZS5jb20vbmV3LXZvdGVyLWktZC1jYXJkcy1jb21pbmctdG8tbWFpbGJveGVzLXRocm91Z2hvdXQtZ3JlZW5lLWNvdW50eS_SAQA?oc=5\" target=\"_blank\">New Voter I-D Cards Coming To Mailboxes Throughout Greene County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">98.7 The Dove</font>"
+            ],
+            "source": [
+              {
+                "_": "98.7 The Dove",
+                "$": {
+                  "url": "https://987thedove.com"
                 }
               }
             ]
@@ -393,36 +423,6 @@
           },
           {
             "title": [
-              "(LISTEN): State Rep. Adam Schwadron (R-St. Charles) discusses his run for Missouri secretary of state and Israel - 939theeagle.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL3N0YXRlLXJlcC1hZGFtLXNjaHdhZHJvbi1yLXN0LWNoYXJsZXMtZGlzY3Vzc2VzLWhpcy1ydW4tZm9yLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1hbmQtaXNyYWVsL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL3N0YXRlLXJlcC1hZGFtLXNjaHdhZHJvbi1yLXN0LWNoYXJsZXMtZGlzY3Vzc2VzLWhpcy1ydW4tZm9yLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1hbmQtaXNyYWVsL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 16 Oct 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL3N0YXRlLXJlcC1hZGFtLXNjaHdhZHJvbi1yLXN0LWNoYXJsZXMtZGlzY3Vzc2VzLWhpcy1ydW4tZm9yLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1hbmQtaXNyYWVsL9IBAA?oc=5\" target=\"_blank\">(LISTEN): State Rep. Adam Schwadron (R-St. Charles) discusses his run for Missouri secretary of state and Israel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
-            ],
-            "source": [
-              {
-                "_": "939theeagle.com",
-                "$": {
-                  "url": "https://939theeagle.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Are your taxpayer dollars paying for Ozarks Pridefest? Not quite. - News-Leader"
             ],
             "link": [
@@ -627,6 +627,36 @@
                 "_": "News-Leader",
                 "$": {
                   "url": "https://www.news-leader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "(LISTEN): State Rep. Adam Schwadron (R-St. Charles) discusses his run for Missouri secretary of state and Israel - 939theeagle.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL3N0YXRlLXJlcC1hZGFtLXNjaHdhZHJvbi1yLXN0LWNoYXJsZXMtZGlzY3Vzc2VzLWhpcy1ydW4tZm9yLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1hbmQtaXNyYWVsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL3N0YXRlLXJlcC1hZGFtLXNjaHdhZHJvbi1yLXN0LWNoYXJsZXMtZGlzY3Vzc2VzLWhpcy1ydW4tZm9yLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1hbmQtaXNyYWVsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vOTM5dGhlZWFnbGUuY29tL3N0YXRlLXJlcC1hZGFtLXNjaHdhZHJvbi1yLXN0LWNoYXJsZXMtZGlzY3Vzc2VzLWhpcy1ydW4tZm9yLW1pc3NvdXJpLXNlY3JldGFyeS1vZi1zdGF0ZS1hbmQtaXNyYWVsL9IBAA?oc=5\" target=\"_blank\">(LISTEN): State Rep. Adam Schwadron (R-St. Charles) discusses his run for Missouri secretary of state and Israel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">939theeagle.com</font>"
+            ],
+            "source": [
+              {
+                "_": "939theeagle.com",
+                "$": {
+                  "url": "https://939theeagle.com"
                 }
               }
             ]

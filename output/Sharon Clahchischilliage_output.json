@@ -25,42 +25,12 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:41 GMT"
+          "Wed, 07 Feb 2024 08:29:22 GMT"
         ],
         "description": [
           "Google News"
         ],
         "item": [
-          {
-            "title": [
-              "Election 2024-New Mexico | Nation | hjnews.com - The Herald Journal"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmhqbmV3cy5jb20vbmF0aW9uL2VsZWN0aW9uLTIwMjQtbmV3LW1leGljby9pbWFnZV8zOTY2ZTQzNS0yZDFhLTUzMmQtOWIwMS0yNWUwMmE5NGRmYzUuaHRtbNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiZmh0dHBzOi8vd3d3LmhqbmV3cy5jb20vbmF0aW9uL2VsZWN0aW9uLTIwMjQtbmV3LW1leGljby9pbWFnZV8zOTY2ZTQzNS0yZDFhLTUzMmQtOWIwMS0yNWUwMmE5NGRmYzUuaHRtbNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 21:43:09 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmhqbmV3cy5jb20vbmF0aW9uL2VsZWN0aW9uLTIwMjQtbmV3LW1leGljby9pbWFnZV8zOTY2ZTQzNS0yZDFhLTUzMmQtOWIwMS0yNWUwMmE5NGRmYzUuaHRtbNIBAA?oc=5\" target=\"_blank\">Election 2024-New Mexico | Nation | hjnews.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Herald Journal</font>"
-            ],
-            "source": [
-              {
-                "_": "The Herald Journal",
-                "$": {
-                  "url": "https://www.hjnews.com"
-                }
-              }
-            ]
-          },
           {
             "title": [
               "Former State Rep. announces run for Congress - New Mexico Political Report"
@@ -93,6 +63,36 @@
           },
           {
             "title": [
+              "Election 2024-New Mexico | Nation | hjnews.com - The Herald Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmhqbmV3cy5jb20vbmF0aW9uL2VsZWN0aW9uLTIwMjQtbmV3LW1leGljby9pbWFnZV8zOTY2ZTQzNS0yZDFhLTUzMmQtOWIwMS0yNWUwMmE5NGRmYzUuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmhqbmV3cy5jb20vbmF0aW9uL2VsZWN0aW9uLTIwMjQtbmV3LW1leGljby9pbWFnZV8zOTY2ZTQzNS0yZDFhLTUzMmQtOWIwMS0yNWUwMmE5NGRmYzUuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:43:09 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmhqbmV3cy5jb20vbmF0aW9uL2VsZWN0aW9uLTIwMjQtbmV3LW1leGljby9pbWFnZV8zOTY2ZTQzNS0yZDFhLTUzMmQtOWIwMS0yNWUwMmE5NGRmYzUuaHRtbNIBAA?oc=5\" target=\"_blank\">Election 2024-New Mexico | Nation | hjnews.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Herald Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "The Herald Journal",
+                "$": {
+                  "url": "https://www.hjnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Clahchischilliage announces bid for Congress | News | abqjournal.com - Albuquerque Journal"
             ],
             "link": [
@@ -117,6 +117,36 @@
                 "_": "Albuquerque Journal",
                 "$": {
                   "url": "https://www.abqjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Republican launches bid to unseat Leger Fernandez in US House race - Roswell Daily Record"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5yZHJuZXdzLmNvbS9uZXdzL2xvY2FsL3JlcHVibGljYW4tbGF1bmNoZXMtYmlkLXRvLXVuc2VhdC1sZWdlci1mZXJuYW5kZXotaW4tdXMtaG91c2UtcmFjZS9hcnRpY2xlXzg5YzIzYjVhLTRmMzktMTFlZS1hNzg4LWJiYTg0ZDVkODBkZS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilwFodHRwczovL3d3dy5yZHJuZXdzLmNvbS9uZXdzL2xvY2FsL3JlcHVibGljYW4tbGF1bmNoZXMtYmlkLXRvLXVuc2VhdC1sZWdlci1mZXJuYW5kZXotaW4tdXMtaG91c2UtcmFjZS9hcnRpY2xlXzg5YzIzYjVhLTRmMzktMTFlZS1hNzg4LWJiYTg0ZDVkODBkZS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 10 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5yZHJuZXdzLmNvbS9uZXdzL2xvY2FsL3JlcHVibGljYW4tbGF1bmNoZXMtYmlkLXRvLXVuc2VhdC1sZWdlci1mZXJuYW5kZXotaW4tdXMtaG91c2UtcmFjZS9hcnRpY2xlXzg5YzIzYjVhLTRmMzktMTFlZS1hNzg4LWJiYTg0ZDVkODBkZS5odG1s0gEA?oc=5\" target=\"_blank\">Republican launches bid to unseat Leger Fernandez in US House race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roswell Daily Record</font>"
+            ],
+            "source": [
+              {
+                "_": "Roswell Daily Record",
+                "$": {
+                  "url": "https://www.rdrnews.com"
                 }
               }
             ]

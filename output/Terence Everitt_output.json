@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:22 GMT"
         ],
         "description": [
           "Google News"
@@ -153,36 +153,6 @@
           },
           {
             "title": [
-              "Triad legislative Democrats involved in spats over bills - Winston-Salem Journal"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiuAFodHRwczovL2pvdXJuYWxub3cuY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy90cmlhZC1kZW1vY3JhdGljLWxlZ2lzbGF0b3JzLWludm9sdmVkLWluLXNwYXRzLW92ZXItYnVkZ2V0LWNhc2luby1iaWxscy9hcnRpY2xlX2JmNTkxMmRhLTViMDQtMTFlZS1hM2ZkLTlmMjljZGI2ODU3Yi5odG1s0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiuAFodHRwczovL2pvdXJuYWxub3cuY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy90cmlhZC1kZW1vY3JhdGljLWxlZ2lzbGF0b3JzLWludm9sdmVkLWluLXNwYXRzLW92ZXItYnVkZ2V0LWNhc2luby1iaWxscy9hcnRpY2xlX2JmNTkxMmRhLTViMDQtMTFlZS1hM2ZkLTlmMjljZGI2ODU3Yi5odG1s0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 25 Sep 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiuAFodHRwczovL2pvdXJuYWxub3cuY29tL25ld3Mvc3RhdGUtcmVnaW9uYWwvZ292ZXJubWVudC1wb2xpdGljcy90cmlhZC1kZW1vY3JhdGljLWxlZ2lzbGF0b3JzLWludm9sdmVkLWluLXNwYXRzLW92ZXItYnVkZ2V0LWNhc2luby1iaWxscy9hcnRpY2xlX2JmNTkxMmRhLTViMDQtMTFlZS1hM2ZkLTlmMjljZGI2ODU3Yi5odG1s0gEA?oc=5\" target=\"_blank\">Triad legislative Democrats involved in spats over bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Winston-Salem Journal</font>"
-            ],
-            "source": [
-              {
-                "_": "Winston-Salem Journal",
-                "$": {
-                  "url": "https://journalnow.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "NC Republican House Speaker moves Democrat to basement office - CBS17.com"
             ],
             "link": [
@@ -267,6 +237,36 @@
                 "_": "North State Journal",
                 "$": {
                   "url": "https://nsjonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Schietzelt files in N.C. House 35 race - Restoration NewsMedia - Restoration NewsMedia"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vcmVzdG9yYXRpb25uZXdzbWVkaWEuY29tL2FydGljbGVzL3dha2V3ZWVrbHkvc2NoaWV0emVsdC1maWxlcy1pbi1uLWMtaG91c2UtMzUtcmFjZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vcmVzdG9yYXRpb25uZXdzbWVkaWEuY29tL2FydGljbGVzL3dha2V3ZWVrbHkvc2NoaWV0emVsdC1maWxlcy1pbi1uLWMtaG91c2UtMzUtcmFjZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vcmVzdG9yYXRpb25uZXdzbWVkaWEuY29tL2FydGljbGVzL3dha2V3ZWVrbHkvc2NoaWV0emVsdC1maWxlcy1pbi1uLWMtaG91c2UtMzUtcmFjZS_SAQA?oc=5\" target=\"_blank\">Schietzelt files in N.C. House 35 race - Restoration NewsMedia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Restoration NewsMedia</font>"
+            ],
+            "source": [
+              {
+                "_": "Restoration NewsMedia",
+                "$": {
+                  "url": "https://restorationnewsmedia.com"
                 }
               }
             ]
@@ -423,54 +423,24 @@
           },
           {
             "title": [
-              "NC Democrats push status quo on access to abortion - Charlotte Post"
+              "The NC legislative races that could influence state abortion laws - Axios"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoZWNoYXJsb3R0ZXBvc3QuY29tL25ld3MvMjAyMy8wMS8zMS9sb2NhbC1zdGF0ZS9uYy1kZW1vY3JhdHMtcHVzaC1zdGF0dXMtcXVvLW9uLWFjY2Vzcy10by1hYm9ydGlvbi_SAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTAvMTIvYWJvcnRpb24tcmlnaHRzLW5jLXN0YXRlLWxlZ2lzbGF0aXZlLXJhY2Vz0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMicGh0dHBzOi8vd3d3LnRoZWNoYXJsb3R0ZXBvc3QuY29tL25ld3MvMjAyMy8wMS8zMS9sb2NhbC1zdGF0ZS9uYy1kZW1vY3JhdHMtcHVzaC1zdGF0dXMtcXVvLW9uLWFjY2Vzcy10by1hYm9ydGlvbi_SAQA",
+                "_": "CBMiWWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTAvMTIvYWJvcnRpb24tcmlnaHRzLW5jLXN0YXRlLWxlZ2lzbGF0aXZlLXJhY2Vz0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 31 Jan 2023 08:00:00 GMT"
+              "Wed, 12 Oct 2022 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoZWNoYXJsb3R0ZXBvc3QuY29tL25ld3MvMjAyMy8wMS8zMS9sb2NhbC1zdGF0ZS9uYy1kZW1vY3JhdHMtcHVzaC1zdGF0dXMtcXVvLW9uLWFjY2Vzcy10by1hYm9ydGlvbi_SAQA?oc=5\" target=\"_blank\">NC Democrats push status quo on access to abortion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Post</font>"
-            ],
-            "source": [
-              {
-                "_": "Charlotte Post",
-                "$": {
-                  "url": "https://www.thecharlottepost.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Midterm election results: NC Republicans win Senate supermajority, lose NC-13 - Axios"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTEvMDkvcmFsZWlnaC1kdXJoYW0tbm9ydGgtY2Fyb2xpbmEtZWxlY3Rpb24tcmVzdWx0cy1rZXktcmFjZXPSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiZ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTEvMDkvcmFsZWlnaC1kdXJoYW0tbm9ydGgtY2Fyb2xpbmEtZWxlY3Rpb24tcmVzdWx0cy1rZXktcmFjZXPSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 09 Nov 2022 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTEvMDkvcmFsZWlnaC1kdXJoYW0tbm9ydGgtY2Fyb2xpbmEtZWxlY3Rpb24tcmVzdWx0cy1rZXktcmFjZXPSAQA?oc=5\" target=\"_blank\">Midterm election results: NC Republicans win Senate supermajority, lose NC-13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTAvMTIvYWJvcnRpb24tcmlnaHRzLW5jLXN0YXRlLWxlZ2lzbGF0aXZlLXJhY2Vz0gEA?oc=5\" target=\"_blank\">The NC legislative races that could influence state abortion laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
             ],
             "source": [
               {
@@ -537,6 +507,36 @@
                 "_": "WRAL News",
                 "$": {
                   "url": "https://www.wral.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Midterm election results: NC Republicans win Senate supermajority, lose NC-13 - Axios"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTEvMDkvcmFsZWlnaC1kdXJoYW0tbm9ydGgtY2Fyb2xpbmEtZWxlY3Rpb24tcmVzdWx0cy1rZXktcmFjZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTEvMDkvcmFsZWlnaC1kdXJoYW0tbm9ydGgtY2Fyb2xpbmEtZWxlY3Rpb24tcmVzdWx0cy1rZXktcmFjZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Nov 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9yYWxlaWdoLzIwMjIvMTEvMDkvcmFsZWlnaC1kdXJoYW0tbm9ydGgtY2Fyb2xpbmEtZWxlY3Rpb24tcmVzdWx0cy1rZXktcmFjZXPSAQA?oc=5\" target=\"_blank\">Midterm election results: NC Republicans win Senate supermajority, lose NC-13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+            ],
+            "source": [
+              {
+                "_": "Axios",
+                "$": {
+                  "url": "https://www.axios.com"
                 }
               }
             ]
@@ -627,6 +627,36 @@
                 "_": "Raleigh News & Observer",
                 "$": {
                   "url": "https://www.newsobserver.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "NC Democrats push status quo on access to abortion - Charlotte Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoZWNoYXJsb3R0ZXBvc3QuY29tL25ld3MvMjAyMy8wMS8zMS9sb2NhbC1zdGF0ZS9uYy1kZW1vY3JhdHMtcHVzaC1zdGF0dXMtcXVvLW9uLWFjY2Vzcy10by1hYm9ydGlvbi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicGh0dHBzOi8vd3d3LnRoZWNoYXJsb3R0ZXBvc3QuY29tL25ld3MvMjAyMy8wMS8zMS9sb2NhbC1zdGF0ZS9uYy1kZW1vY3JhdHMtcHVzaC1zdGF0dXMtcXVvLW9uLWFjY2Vzcy10by1hYm9ydGlvbi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoZWNoYXJsb3R0ZXBvc3QuY29tL25ld3MvMjAyMy8wMS8zMS9sb2NhbC1zdGF0ZS9uYy1kZW1vY3JhdHMtcHVzaC1zdGF0dXMtcXVvLW9uLWFjY2Vzcy10by1hYm9ydGlvbi_SAQA?oc=5\" target=\"_blank\">NC Democrats push status quo on access to abortion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Post</font>"
+            ],
+            "source": [
+              {
+                "_": "Charlotte Post",
+                "$": {
+                  "url": "https://www.thecharlottepost.com"
                 }
               }
             ]

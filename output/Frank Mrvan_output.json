@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -243,6 +243,36 @@
           },
           {
             "title": [
+              "Von Tobel hosts congressman - HBS Dealer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vaGJzZGVhbGVyLmNvbS92b24tdG9iZWwtaG9zdHMtY29uZ3Jlc3NtYW7SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMWh0dHBzOi8vaGJzZGVhbGVyLmNvbS92b24tdG9iZWwtaG9zdHMtY29uZ3Jlc3NtYW7SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 09 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vaGJzZGVhbGVyLmNvbS92b24tdG9iZWwtaG9zdHMtY29uZ3Jlc3NtYW7SAQA?oc=5\" target=\"_blank\">Von Tobel hosts congressman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HBS Dealer</font>"
+            ],
+            "source": [
+              {
+                "_": "HBS Dealer",
+                "$": {
+                  "url": "https://hbsdealer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "U.S. Rep. Mrvan addresses national security concerns during virtual forum - Lakeshore Public Media"
             ],
             "link": [
@@ -273,30 +303,30 @@
           },
           {
             "title": [
-              "Von Tobel hosts congressman - HBS Dealer"
+              "Holcomb: You can't be 'isolationist' about U.S. Steel acquisition by Japanese company - WFYI"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vaGJzZGVhbGVyLmNvbS92b24tdG9iZWwtaG9zdHMtY29uZ3Jlc3NtYW7SAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LndmeWkub3JnL25ld3MvYXJ0aWNsZXMvaG9sY29tYi15b3UtY2FudC1iZS1pc29sYXRpb25pc3QtYWJvdXQtdXMtc3RlZWwtYWNxdWlzaXRpb24tYnktamFwYW5lc2UtY29tcGFuedIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiMWh0dHBzOi8vaGJzZGVhbGVyLmNvbS92b24tdG9iZWwtaG9zdHMtY29uZ3Jlc3NtYW7SAQA",
+                "_": "CBMicmh0dHBzOi8vd3d3LndmeWkub3JnL25ld3MvYXJ0aWNsZXMvaG9sY29tYi15b3UtY2FudC1iZS1pc29sYXRpb25pc3QtYWJvdXQtdXMtc3RlZWwtYWNxdWlzaXRpb24tYnktamFwYW5lc2UtY29tcGFuedIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 09 Oct 2023 07:00:00 GMT"
+              "Tue, 19 Dec 2023 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vaGJzZGVhbGVyLmNvbS92b24tdG9iZWwtaG9zdHMtY29uZ3Jlc3NtYW7SAQA?oc=5\" target=\"_blank\">Von Tobel hosts congressman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HBS Dealer</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LndmeWkub3JnL25ld3MvYXJ0aWNsZXMvaG9sY29tYi15b3UtY2FudC1iZS1pc29sYXRpb25pc3QtYWJvdXQtdXMtc3RlZWwtYWNxdWlzaXRpb24tYnktamFwYW5lc2UtY29tcGFuedIBAA?oc=5\" target=\"_blank\">Holcomb: You can't be 'isolationist' about U.S. Steel acquisition by Japanese company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFYI</font>"
             ],
             "source": [
               {
-                "_": "HBS Dealer",
+                "_": "WFYI",
                 "$": {
-                  "url": "https://hbsdealer.com"
+                  "url": "https://www.wfyi.org"
                 }
               }
             ]
@@ -357,36 +387,6 @@
                 "_": "NWI.Life",
                 "$": {
                   "url": "https://nwi.life"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Frank Mrvan takes pro-Hamas money - National Republican Congressional Committee"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm5yY2Mub3JnLzIwMjMvMTAvMjcvZnJhbmstbXJ2YW4tdGFrZXMtcHJvLWhhbWFzLW1vbmV5L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiQmh0dHBzOi8vd3d3Lm5yY2Mub3JnLzIwMjMvMTAvMjcvZnJhbmstbXJ2YW4tdGFrZXMtcHJvLWhhbWFzLW1vbmV5L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 27 Oct 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm5yY2Mub3JnLzIwMjMvMTAvMjcvZnJhbmstbXJ2YW4tdGFrZXMtcHJvLWhhbWFzLW1vbmV5L9IBAA?oc=5\" target=\"_blank\">Frank Mrvan takes pro-Hamas money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Republican Congressional Committee</font>"
-            ],
-            "source": [
-              {
-                "_": "National Republican Congressional Committee",
-                "$": {
-                  "url": "https://www.nrcc.org"
                 }
               }
             ]
@@ -663,36 +663,6 @@
           },
           {
             "title": [
-              "US Rep. Frank Mrvan volunteers with Food Bank of NWI, pledges to advocate for nutrition programs - The Times of Northwest Indiana"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21lcnJpbGx2aWxsZS91cy1yZXAtZnJhbmstbXJ2YW4tdm9sdW50ZWVycy13aXRoLWZvb2QtYmFuay1vZi1ud2ktcGxlZGdlcy10by1hZHZvY2F0ZS1mb3ItbnV0cml0aW9uL2FydGljbGVfMDUzZjEwZDctYTUzZS01NTE2LTg2MWItN2E1ZWEzYTAwOWM1Lmh0bWzSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMivQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21lcnJpbGx2aWxsZS91cy1yZXAtZnJhbmstbXJ2YW4tdm9sdW50ZWVycy13aXRoLWZvb2QtYmFuay1vZi1ud2ktcGxlZGdlcy10by1hZHZvY2F0ZS1mb3ItbnV0cml0aW9uL2FydGljbGVfMDUzZjEwZDctYTUzZS01NTE2LTg2MWItN2E1ZWEzYTAwOWM1Lmh0bWzSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 31 Mar 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21lcnJpbGx2aWxsZS91cy1yZXAtZnJhbmstbXJ2YW4tdm9sdW50ZWVycy13aXRoLWZvb2QtYmFuay1vZi1ud2ktcGxlZGdlcy10by1hZHZvY2F0ZS1mb3ItbnV0cml0aW9uL2FydGljbGVfMDUzZjEwZDctYTUzZS01NTE2LTg2MWItN2E1ZWEzYTAwOWM1Lmh0bWzSAQA?oc=5\" target=\"_blank\">US Rep. Frank Mrvan volunteers with Food Bank of NWI, pledges to advocate for nutrition programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
-            ],
-            "source": [
-              {
-                "_": "The Times of Northwest Indiana",
-                "$": {
-                  "url": "https://www.nwitimes.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "SteelBriefs | Rep. Frank Mrvan (IN-01) Profile - American Iron and Steel Institute"
             ],
             "link": [
@@ -717,6 +687,36 @@
                 "_": "American Iron and Steel Institute",
                 "$": {
                   "url": "https://www.steel.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US Rep. Frank Mrvan volunteers with Food Bank of NWI, pledges to advocate for nutrition programs - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21lcnJpbGx2aWxsZS91cy1yZXAtZnJhbmstbXJ2YW4tdm9sdW50ZWVycy13aXRoLWZvb2QtYmFuay1vZi1ud2ktcGxlZGdlcy10by1hZHZvY2F0ZS1mb3ItbnV0cml0aW9uL2FydGljbGVfMDUzZjEwZDctYTUzZS01NTE2LTg2MWItN2E1ZWEzYTAwOWM1Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMivQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21lcnJpbGx2aWxsZS91cy1yZXAtZnJhbmstbXJ2YW4tdm9sdW50ZWVycy13aXRoLWZvb2QtYmFuay1vZi1ud2ktcGxlZGdlcy10by1hZHZvY2F0ZS1mb3ItbnV0cml0aW9uL2FydGljbGVfMDUzZjEwZDctYTUzZS01NTE2LTg2MWItN2E1ZWEzYTAwOWM1Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 31 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21lcnJpbGx2aWxsZS91cy1yZXAtZnJhbmstbXJ2YW4tdm9sdW50ZWVycy13aXRoLWZvb2QtYmFuay1vZi1ud2ktcGxlZGdlcy10by1hZHZvY2F0ZS1mb3ItbnV0cml0aW9uL2FydGljbGVfMDUzZjEwZDctYTUzZS01NTE2LTg2MWItN2E1ZWEzYTAwOWM1Lmh0bWzSAQA?oc=5\" target=\"_blank\">US Rep. Frank Mrvan volunteers with Food Bank of NWI, pledges to advocate for nutrition programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
                 }
               }
             ]
@@ -1143,36 +1143,6 @@
           },
           {
             "title": [
-              "Hypocrite Mrvan votes against critical infrastructure funding he requested - National Republican Congressional Committee"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm5yY2Mub3JnLzIwMjMvMTAvMjYvaHlwb2NyaXRlLW1ydmFuLXZvdGVzLWFnYWluc3QtY3JpdGljYWwtaW5mcmFzdHJ1Y3R1cmUtZnVuZGluZy1oZS1yZXF1ZXN0ZWQv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMia2h0dHBzOi8vd3d3Lm5yY2Mub3JnLzIwMjMvMTAvMjYvaHlwb2NyaXRlLW1ydmFuLXZvdGVzLWFnYWluc3QtY3JpdGljYWwtaW5mcmFzdHJ1Y3R1cmUtZnVuZGluZy1oZS1yZXF1ZXN0ZWQv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 26 Oct 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm5yY2Mub3JnLzIwMjMvMTAvMjYvaHlwb2NyaXRlLW1ydmFuLXZvdGVzLWFnYWluc3QtY3JpdGljYWwtaW5mcmFzdHJ1Y3R1cmUtZnVuZGluZy1oZS1yZXF1ZXN0ZWQv0gEA?oc=5\" target=\"_blank\">Hypocrite Mrvan votes against critical infrastructure funding he requested</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Republican Congressional Committee</font>"
-            ],
-            "source": [
-              {
-                "_": "National Republican Congressional Committee",
-                "$": {
-                  "url": "https://www.nrcc.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Region congressman adjusts top aides as longtime chief of staff moves to advisory role - The Times of Northwest Indiana"
             ],
             "link": [
@@ -1197,6 +1167,36 @@
                 "_": "The Times of Northwest Indiana",
                 "$": {
                   "url": "https://www.nwitimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hypocrite Mrvan votes against critical infrastructure funding he requested - National Republican Congressional Committee"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm5yY2Mub3JnLzIwMjMvMTAvMjYvaHlwb2NyaXRlLW1ydmFuLXZvdGVzLWFnYWluc3QtY3JpdGljYWwtaW5mcmFzdHJ1Y3R1cmUtZnVuZGluZy1oZS1yZXF1ZXN0ZWQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vd3d3Lm5yY2Mub3JnLzIwMjMvMTAvMjYvaHlwb2NyaXRlLW1ydmFuLXZvdGVzLWFnYWluc3QtY3JpdGljYWwtaW5mcmFzdHJ1Y3R1cmUtZnVuZGluZy1oZS1yZXF1ZXN0ZWQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 26 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm5yY2Mub3JnLzIwMjMvMTAvMjYvaHlwb2NyaXRlLW1ydmFuLXZvdGVzLWFnYWluc3QtY3JpdGljYWwtaW5mcmFzdHJ1Y3R1cmUtZnVuZGluZy1oZS1yZXF1ZXN0ZWQv0gEA?oc=5\" target=\"_blank\">Hypocrite Mrvan votes against critical infrastructure funding he requested</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Republican Congressional Committee</font>"
+            ],
+            "source": [
+              {
+                "_": "National Republican Congressional Committee",
+                "$": {
+                  "url": "https://www.nrcc.org"
                 }
               }
             ]
@@ -1323,6 +1323,36 @@
           },
           {
             "title": [
+              "Mixed opinions surface as U.S. Steel faces acquisition by Japan's Nippon Steel - The Chicago Cusader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9taXhlZC1vcGluaW9ucy1zdXJmYWNlLWFzLXUtcy1zdGVlbC1mYWNlcy1hY3F1aXNpdGlvbi1ieS1qYXBhbnMtbmlwcG9uLXN0ZWVsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9taXhlZC1vcGluaW9ucy1zdXJmYWNlLWFzLXUtcy1zdGVlbC1mYWNlcy1hY3F1aXNpdGlvbi1ieS1qYXBhbnMtbmlwcG9uLXN0ZWVsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 26 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9taXhlZC1vcGluaW9ucy1zdXJmYWNlLWFzLXUtcy1zdGVlbC1mYWNlcy1hY3F1aXNpdGlvbi1ieS1qYXBhbnMtbmlwcG9uLXN0ZWVsL9IBAA?oc=5\" target=\"_blank\">Mixed opinions surface as U.S. Steel faces acquisition by Japan's Nippon Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Chicago Cusader</font>"
+            ],
+            "source": [
+              {
+                "_": "The Chicago Cusader",
+                "$": {
+                  "url": "https://chicagocrusader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Mrvan seeking 3rd term representing Northwest Indiana in U.S. House - The Times of Northwest Indiana"
             ],
             "link": [
@@ -1377,6 +1407,36 @@
                 "_": "IndyStar",
                 "$": {
                   "url": "https://www.indystar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Frank J. Mrvan | Congress.gov | Library of Congress - Congress.gov"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmNvbmdyZXNzLmdvdi9tZW1iZXIvZnJhbmstbXJ2YW4vTTAwMTIxNNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiM2h0dHBzOi8vd3d3LmNvbmdyZXNzLmdvdi9tZW1iZXIvZnJhbmstbXJ2YW4vTTAwMTIxNNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Jan 2021 10:22:09 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmNvbmdyZXNzLmdvdi9tZW1iZXIvZnJhbmstbXJ2YW4vTTAwMTIxNNIBAA?oc=5\" target=\"_blank\">Frank J. Mrvan | Congress.gov | Library of Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Congress.gov</font>"
+            ],
+            "source": [
+              {
+                "_": "Congress.gov",
+                "$": {
+                  "url": "https://www.congress.gov"
                 }
               }
             ]
@@ -1443,36 +1503,6 @@
           },
           {
             "title": [
-              "Frank J. Mrvan | Congress.gov | Library of Congress - Congress.gov"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmNvbmdyZXNzLmdvdi9tZW1iZXIvZnJhbmstbXJ2YW4vTTAwMTIxNNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiM2h0dHBzOi8vd3d3LmNvbmdyZXNzLmdvdi9tZW1iZXIvZnJhbmstbXJ2YW4vTTAwMTIxNNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 13 Jan 2021 10:22:09 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmNvbmdyZXNzLmdvdi9tZW1iZXIvZnJhbmstbXJ2YW4vTTAwMTIxNNIBAA?oc=5\" target=\"_blank\">Frank J. Mrvan | Congress.gov | Library of Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Congress.gov</font>"
-            ],
-            "source": [
-              {
-                "_": "Congress.gov",
-                "$": {
-                  "url": "https://www.congress.gov"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Crown Point Liberty Park Pipelining Project Begins - Building Indiana"
             ],
             "link": [
@@ -1497,36 +1527,6 @@
                 "_": "Building Indiana",
                 "$": {
                   "url": "https://buildingindiana.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "US REP. FRANK J. MRVAN: Building on our successes - The Times of Northwest Indiana"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vYnVzaW5lc3Mvc3RhdGUtYW5kLXJlZ2lvbmFsL3VzLXJlcC1mcmFuay1qLW1ydmFuLWJ1aWxkaW5nLW9uLW91ci1zdWNjZXNzZXMvYXJ0aWNsZV82OGI2NjQyYy0xY2ZkLTUyY2QtODg2Zi1kMTZiZWFmODg0NmYuaHRtbNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMilQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vYnVzaW5lc3Mvc3RhdGUtYW5kLXJlZ2lvbmFsL3VzLXJlcC1mcmFuay1qLW1ydmFuLWJ1aWxkaW5nLW9uLW91ci1zdWNjZXNzZXMvYXJ0aWNsZV82OGI2NjQyYy0xY2ZkLTUyY2QtODg2Zi1kMTZiZWFmODg0NmYuaHRtbNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sun, 12 Mar 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vYnVzaW5lc3Mvc3RhdGUtYW5kLXJlZ2lvbmFsL3VzLXJlcC1mcmFuay1qLW1ydmFuLWJ1aWxkaW5nLW9uLW91ci1zdWNjZXNzZXMvYXJ0aWNsZV82OGI2NjQyYy0xY2ZkLTUyY2QtODg2Zi1kMTZiZWFmODg0NmYuaHRtbNIBAA?oc=5\" target=\"_blank\">US REP. FRANK J. MRVAN: Building on our successes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
-            ],
-            "source": [
-              {
-                "_": "The Times of Northwest Indiana",
-                "$": {
-                  "url": "https://www.nwitimes.com"
                 }
               }
             ]
@@ -1617,6 +1617,36 @@
                 "_": "National Republican Congressional Committee",
                 "$": {
                   "url": "https://www.nrcc.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "US REP. FRANK J. MRVAN: Building on our successes - The Times of Northwest Indiana"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vYnVzaW5lc3Mvc3RhdGUtYW5kLXJlZ2lvbmFsL3VzLXJlcC1mcmFuay1qLW1ydmFuLWJ1aWxkaW5nLW9uLW91ci1zdWNjZXNzZXMvYXJ0aWNsZV82OGI2NjQyYy0xY2ZkLTUyY2QtODg2Zi1kMTZiZWFmODg0NmYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vYnVzaW5lc3Mvc3RhdGUtYW5kLXJlZ2lvbmFsL3VzLXJlcC1mcmFuay1qLW1ydmFuLWJ1aWxkaW5nLW9uLW91ci1zdWNjZXNzZXMvYXJ0aWNsZV82OGI2NjQyYy0xY2ZkLTUyY2QtODg2Zi1kMTZiZWFmODg0NmYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 12 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vYnVzaW5lc3Mvc3RhdGUtYW5kLXJlZ2lvbmFsL3VzLXJlcC1mcmFuay1qLW1ydmFuLWJ1aWxkaW5nLW9uLW91ci1zdWNjZXNzZXMvYXJ0aWNsZV82OGI2NjQyYy0xY2ZkLTUyY2QtODg2Zi1kMTZiZWFmODg0NmYuaHRtbNIBAA?oc=5\" target=\"_blank\">US REP. FRANK J. MRVAN: Building on our successes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
+            ],
+            "source": [
+              {
+                "_": "The Times of Northwest Indiana",
+                "$": {
+                  "url": "https://www.nwitimes.com"
                 }
               }
             ]
@@ -2553,6 +2583,36 @@
           },
           {
             "title": [
+              "Rep. Jim Clyburn endorses Rep. Frank Mrvan in crucial race - The Chicago Cusader"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9yZXAtamltLWNseWJ1cm4tZW5kb3JzZXMtcmVwLWZyYW5rLW1ydmFuLWluLWNydWNpYWwtcmFjZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9yZXAtamltLWNseWJ1cm4tZW5kb3JzZXMtcmVwLWZyYW5rLW1ydmFuLWluLWNydWNpYWwtcmFjZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 01 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9yZXAtamltLWNseWJ1cm4tZW5kb3JzZXMtcmVwLWZyYW5rLW1ydmFuLWluLWNydWNpYWwtcmFjZS_SAQA?oc=5\" target=\"_blank\">Rep. Jim Clyburn endorses Rep. Frank Mrvan in crucial race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Chicago Cusader</font>"
+            ],
+            "source": [
+              {
+                "_": "The Chicago Cusader",
+                "$": {
+                  "url": "https://chicagocrusader.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Green raises more than Mrvan in previous quarter: FEC filing - Chicago Tribune"
             ],
             "link": [
@@ -2613,36 +2673,6 @@
           },
           {
             "title": [
-              "Latest vote for speaker of the House: Indiana Representatives react - IndyStar"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzAxLzA2L3VzLWNvbmdyZXNzLXNwZWFrZXItb2YtdGhlLWhvdXNlLWluZGlhbmEtcmVwcmVzZW50YXRpdmVzLXJlYWN0LzY5Nzg1Mzk3MDA3L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMigwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzAxLzA2L3VzLWNvbmdyZXNzLXNwZWFrZXItb2YtdGhlLWhvdXNlLWluZGlhbmEtcmVwcmVzZW50YXRpdmVzLXJlYWN0LzY5Nzg1Mzk3MDA3L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 06 Jan 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzAxLzA2L3VzLWNvbmdyZXNzLXNwZWFrZXItb2YtdGhlLWhvdXNlLWluZGlhbmEtcmVwcmVzZW50YXRpdmVzLXJlYWN0LzY5Nzg1Mzk3MDA3L9IBAA?oc=5\" target=\"_blank\">Latest vote for speaker of the House: Indiana Representatives react</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndyStar</font>"
-            ],
-            "source": [
-              {
-                "_": "IndyStar",
-                "$": {
-                  "url": "https://www.indystar.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Frank Mrvan wins Indiana 1st Congressional race: 'It's a serious job for very serious times' - Chicago Tribune"
             ],
             "link": [
@@ -2673,30 +2703,30 @@
           },
           {
             "title": [
-              "Rep. Jim Clyburn endorses Rep. Frank Mrvan in crucial race - The Chicago Cusader"
+              "Latest vote for speaker of the House: Indiana Representatives react - IndyStar"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9yZXAtamltLWNseWJ1cm4tZW5kb3JzZXMtcmVwLWZyYW5rLW1ydmFuLWluLWNydWNpYWwtcmFjZS_SAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzAxLzA2L3VzLWNvbmdyZXNzLXNwZWFrZXItb2YtdGhlLWhvdXNlLWluZGlhbmEtcmVwcmVzZW50YXRpdmVzLXJlYWN0LzY5Nzg1Mzk3MDA3L9IBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiVWh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9yZXAtamltLWNseWJ1cm4tZW5kb3JzZXMtcmVwLWZyYW5rLW1ydmFuLWluLWNydWNpYWwtcmFjZS_SAQA",
+                "_": "CBMigwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzAxLzA2L3VzLWNvbmdyZXNzLXNwZWFrZXItb2YtdGhlLWhvdXNlLWluZGlhbmEtcmVwcmVzZW50YXRpdmVzLXJlYWN0LzY5Nzg1Mzk3MDA3L9IBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 01 Nov 2022 07:00:00 GMT"
+              "Fri, 06 Jan 2023 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vY2hpY2Fnb2NydXNhZGVyLmNvbS9yZXAtamltLWNseWJ1cm4tZW5kb3JzZXMtcmVwLWZyYW5rLW1ydmFuLWluLWNydWNpYWwtcmFjZS_SAQA?oc=5\" target=\"_blank\">Rep. Jim Clyburn endorses Rep. Frank Mrvan in crucial race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Chicago Cusader</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDIzLzAxLzA2L3VzLWNvbmdyZXNzLXNwZWFrZXItb2YtdGhlLWhvdXNlLWluZGlhbmEtcmVwcmVzZW50YXRpdmVzLXJlYWN0LzY5Nzg1Mzk3MDA3L9IBAA?oc=5\" target=\"_blank\">Latest vote for speaker of the House: Indiana Representatives react</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndyStar</font>"
             ],
             "source": [
               {
-                "_": "The Chicago Cusader",
+                "_": "IndyStar",
                 "$": {
-                  "url": "https://chicagocrusader.com"
+                  "url": "https://www.indystar.com"
                 }
               }
             ]
@@ -2733,36 +2763,6 @@
           },
           {
             "title": [
-              "Democrat Rep. Frank Mrvan's campaign spent thousands of dollars on flights for wife, seat upgrades - Fox News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlc9IBeWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlcy5hbXA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMidWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlc9IBeWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlcy5hbXA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 21 Jul 2022 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlc9IBeWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlcy5hbXA?oc=5\" target=\"_blank\">Democrat Rep. Frank Mrvan's campaign spent thousands of dollars on flights for wife, seat upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
-            ],
-            "source": [
-              {
-                "_": "Fox News",
-                "$": {
-                  "url": "https://www.foxnews.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "WATCH NOW: Mrvan seeking seat on powerful U.S. House Appropriations Committee - The Times of Northwest Indiana"
             ],
             "link": [
@@ -2793,6 +2793,36 @@
           },
           {
             "title": [
+              "Democrat Rep. Frank Mrvan's campaign spent thousands of dollars on flights for wife, seat upgrades - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlc9IBeWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlcy5hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlc9IBeWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlcy5hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlc9IBeWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2RlbW9jcmF0LXJlcC1mcmFuay1tcnZhbi1jYW1wYWlnbi1zcGVudC10aG91c2FuZHMtZG9sbGFycy1mbGlnaHRzLXdpZmUtc2VhdC11cGdyYWRlcy5hbXA?oc=5\" target=\"_blank\">Democrat Rep. Frank Mrvan's campaign spent thousands of dollars on flights for wife, seat upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Election Day 2022 Indiana: Jennifer Ruth Green challenges House of Representatives incumbent Frank Mrvan on abortion, inflation - WLS-TV"
             ],
             "link": [
@@ -2817,66 +2847,6 @@
                 "_": "WLS-TV",
                 "$": {
                   "url": "https://abc7chicago.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Mrvan, state legislators host event to discuss issues facing the Hispanic community - Chicago Tribune"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNoaWNhZ290cmlidW5lLmNvbS8yMDIyLzA0LzE1L21ydmFuLXN0YXRlLWxlZ2lzbGF0b3JzLWhvc3QtZXZlbnQtdG8tZGlzY3Vzcy1pc3N1ZXMtZmFjaW5nLXRoZS1oaXNwYW5pYy1jb21tdW5pdHkv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifWh0dHBzOi8vd3d3LmNoaWNhZ290cmlidW5lLmNvbS8yMDIyLzA0LzE1L21ydmFuLXN0YXRlLWxlZ2lzbGF0b3JzLWhvc3QtZXZlbnQtdG8tZGlzY3Vzcy1pc3N1ZXMtZmFjaW5nLXRoZS1oaXNwYW5pYy1jb21tdW5pdHkv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 15 Apr 2022 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNoaWNhZ290cmlidW5lLmNvbS8yMDIyLzA0LzE1L21ydmFuLXN0YXRlLWxlZ2lzbGF0b3JzLWhvc3QtZXZlbnQtdG8tZGlzY3Vzcy1pc3N1ZXMtZmFjaW5nLXRoZS1oaXNwYW5pYy1jb21tdW5pdHkv0gEA?oc=5\" target=\"_blank\">Mrvan, state legislators host event to discuss issues facing the Hispanic community</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Tribune</font>"
-            ],
-            "source": [
-              {
-                "_": "Chicago Tribune",
-                "$": {
-                  "url": "https://www.chicagotribune.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "TradeWinds to honor Mrvan as AbilityOne Congressional Champion - The Times of Northwest Indiana"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21lcnJpbGx2aWxsZS90cmFkZXdpbmRzLXRvLWhvbm9yLW1ydmFuLWFzLWFiaWxpdHlvbmUtY29uZ3Jlc3Npb25hbC1jaGFtcGlvbi9hcnRpY2xlXzE1NTYyZWI1LWMzZjEtNTI1NC1hYTJkLTU5NTE2NjU2ZGUyZi5odG1s0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMipgFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21lcnJpbGx2aWxsZS90cmFkZXdpbmRzLXRvLWhvbm9yLW1ydmFuLWFzLWFiaWxpdHlvbmUtY29uZ3Jlc3Npb25hbC1jaGFtcGlvbi9hcnRpY2xlXzE1NTYyZWI1LWMzZjEtNTI1NC1hYTJkLTU5NTE2NjU2ZGUyZi5odG1s0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 11 Oct 2022 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vbmV3cy9sb2NhbC9sYWtlL21lcnJpbGx2aWxsZS90cmFkZXdpbmRzLXRvLWhvbm9yLW1ydmFuLWFzLWFiaWxpdHlvbmUtY29uZ3Jlc3Npb25hbC1jaGFtcGlvbi9hcnRpY2xlXzE1NTYyZWI1LWMzZjEtNTI1NC1hYTJkLTU5NTE2NjU2ZGUyZi5odG1s0gEA?oc=5\" target=\"_blank\">TradeWinds to honor Mrvan as AbilityOne Congressional Champion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Northwest Indiana</font>"
-            ],
-            "source": [
-              {
-                "_": "The Times of Northwest Indiana",
-                "$": {
-                  "url": "https://www.nwitimes.com"
                 }
               }
             ]

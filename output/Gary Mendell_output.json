@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -57,6 +57,36 @@
                 "_": "CT Insider",
                 "$": {
                   "url": "https://www.ctinsider.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Shatterproof Honors Mark Hoplamazian, President And CEO Of Hyatt - Hospitality Net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lmhvc3BpdGFsaXR5bmV0Lm9yZy9uZXdzLzQxMTkzMDEuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiMGh0dHBzOi8vd3d3Lmhvc3BpdGFsaXR5bmV0Lm9yZy9uZXdzLzQxMTkzMDEuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 28 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lmhvc3BpdGFsaXR5bmV0Lm9yZy9uZXdzLzQxMTkzMDEuaHRtbNIBAA?oc=5\" target=\"_blank\">Shatterproof Honors Mark Hoplamazian, President And CEO Of Hyatt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hospitality Net</font>"
+            ],
+            "source": [
+              {
+                "_": "Hospitality Net",
+                "$": {
+                  "url": "https://www.hospitalitynet.org"
                 }
               }
             ]
@@ -117,36 +147,6 @@
                 "_": "Hartford Courant",
                 "$": {
                   "url": "https://www.courant.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Shatterproof Honors Mark Hoplamazian, President And CEO Of Hyatt - Hospitality Net"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lmhvc3BpdGFsaXR5bmV0Lm9yZy9uZXdzLzQxMTkzMDEuaHRtbNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiMGh0dHBzOi8vd3d3Lmhvc3BpdGFsaXR5bmV0Lm9yZy9uZXdzLzQxMTkzMDEuaHRtbNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 28 Nov 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lmhvc3BpdGFsaXR5bmV0Lm9yZy9uZXdzLzQxMTkzMDEuaHRtbNIBAA?oc=5\" target=\"_blank\">Shatterproof Honors Mark Hoplamazian, President And CEO Of Hyatt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hospitality Net</font>"
-            ],
-            "source": [
-              {
-                "_": "Hospitality Net",
-                "$": {
-                  "url": "https://www.hospitalitynet.org"
                 }
               }
             ]
@@ -333,30 +333,30 @@
           },
           {
             "title": [
-              "Shatterproof 'Hospitality Heroes' Reception Convenes More than 60 Hospitality Companies and Raises $2M to Drive ... - Yahoo Finance"
+              "Keeping Supply Chains Moving: The Role Of Credit Insurance During Coronavirus - Forbes"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zaGF0dGVycHJvb2YtaG9zcGl0YWxpdHktaGVyb2VzLXJlY2VwdGlvbi1jb252ZW5lcy0xNDMxMDAzMDIuaHRtbNIBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3JvYmVydGdpbnNidXJnLzIwMjAvMDYvMTIva2VlcGluZy1zdXBwbHktY2hhaW5zLW1vdmluZy10aGUtcm9sZS1vZi1jcmVkaXQtaW5zdXJhbmNlLWR1cmluZy1jb3JvbmF2aXJ1cy_SAYgBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9yb2JlcnRnaW5zYnVyZy8yMDIwLzA2LzEyL2tlZXBpbmctc3VwcGx5LWNoYWlucy1tb3ZpbmctdGhlLXJvbGUtb2YtY3JlZGl0LWluc3VyYW5jZS1kdXJpbmctY29yb25hdmlydXMvYW1wLw?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiYGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zaGF0dGVycHJvb2YtaG9zcGl0YWxpdHktaGVyb2VzLXJlY2VwdGlvbi1jb252ZW5lcy0xNDMxMDAzMDIuaHRtbNIBAA",
+                "_": "CBMihAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3JvYmVydGdpbnNidXJnLzIwMjAvMDYvMTIva2VlcGluZy1zdXBwbHktY2hhaW5zLW1vdmluZy10aGUtcm9sZS1vZi1jcmVkaXQtaW5zdXJhbmNlLWR1cmluZy1jb3JvbmF2aXJ1cy_SAYgBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9yb2JlcnRnaW5zYnVyZy8yMDIwLzA2LzEyL2tlZXBpbmctc3VwcGx5LWNoYWlucy1tb3ZpbmctdGhlLXJvbGUtb2YtY3JlZGl0LWluc3VyYW5jZS1kdXJpbmctY29yb25hdmlydXMvYW1wLw",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 25 Jan 2024 14:31:00 GMT"
+              "Fri, 12 Jun 2020 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zaGF0dGVycHJvb2YtaG9zcGl0YWxpdHktaGVyb2VzLXJlY2VwdGlvbi1jb252ZW5lcy0xNDMxMDAzMDIuaHRtbNIBAA?oc=5\" target=\"_blank\">Shatterproof 'Hospitality Heroes' Reception Convenes More than 60 Hospitality Companies and Raises $2M to Drive ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3JvYmVydGdpbnNidXJnLzIwMjAvMDYvMTIva2VlcGluZy1zdXBwbHktY2hhaW5zLW1vdmluZy10aGUtcm9sZS1vZi1jcmVkaXQtaW5zdXJhbmNlLWR1cmluZy1jb3JvbmF2aXJ1cy_SAYgBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9yb2JlcnRnaW5zYnVyZy8yMDIwLzA2LzEyL2tlZXBpbmctc3VwcGx5LWNoYWlucy1tb3ZpbmctdGhlLXJvbGUtb2YtY3JlZGl0LWluc3VyYW5jZS1kdXJpbmctY29yb25hdmlydXMvYW1wLw?oc=5\" target=\"_blank\">Keeping Supply Chains Moving: The Role Of Credit Insurance During Coronavirus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
             ],
             "source": [
               {
-                "_": "Yahoo Finance",
+                "_": "Forbes",
                 "$": {
-                  "url": "https://finance.yahoo.com"
+                  "url": "https://www.forbes.com"
                 }
               }
             ]
@@ -483,30 +483,30 @@
           },
           {
             "title": [
-              "Shatterproof to Build a Rating System for Addiction Treatment Programs - PR Newswire"
+              "Shatterproof 'Hospitality Heroes' Reception Convenes More than 60 Hospitality Companies and Raises $2M to Drive ... - InvestorsObserver"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvc2hhdHRlcnByb29mLXRvLWJ1aWxkLWEtcmF0aW5nLXN5c3RlbS1mb3ItYWRkaWN0aW9uLXRyZWF0bWVudC1wcm9ncmFtcy0zMDA3Njc2NTEuaHRtbNIBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmludmVzdG9yc29ic2VydmVyLmNvbS9uZXdzL3FtLXByLzQ2NjgxODcxMTQ1NDQzMTTSAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvc2hhdHRlcnByb29mLXRvLWJ1aWxkLWEtcmF0aW5nLXN5c3RlbS1mb3ItYWRkaWN0aW9uLXRyZWF0bWVudC1wcm9ncmFtcy0zMDA3Njc2NTEuaHRtbNIBAA",
+                "_": "CBMiPWh0dHBzOi8vd3d3LmludmVzdG9yc29ic2VydmVyLmNvbS9uZXdzL3FtLXByLzQ2NjgxODcxMTQ1NDQzMTTSAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 18 Dec 2018 08:00:00 GMT"
+              "Thu, 25 Jan 2024 14:33:42 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvc2hhdHRlcnByb29mLXRvLWJ1aWxkLWEtcmF0aW5nLXN5c3RlbS1mb3ItYWRkaWN0aW9uLXRyZWF0bWVudC1wcm9ncmFtcy0zMDA3Njc2NTEuaHRtbNIBAA?oc=5\" target=\"_blank\">Shatterproof to Build a Rating System for Addiction Treatment Programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmludmVzdG9yc29ic2VydmVyLmNvbS9uZXdzL3FtLXByLzQ2NjgxODcxMTQ1NDQzMTTSAQA?oc=5\" target=\"_blank\">Shatterproof 'Hospitality Heroes' Reception Convenes More than 60 Hospitality Companies and Raises $2M to Drive ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestorsObserver</font>"
             ],
             "source": [
               {
-                "_": "PR Newswire",
+                "_": "InvestorsObserver",
                 "$": {
-                  "url": "https://www.prnewswire.com"
+                  "url": "https://www.investorsobserver.com"
                 }
               }
             ]
@@ -573,30 +573,30 @@
           },
           {
             "title": [
-              "Opioid prescriptions dropped for the first time in the modern drug crisis - The Washington Post"
+              "Roundtable: Credit where it's due - Global Trade Review (GTR)"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vbmF0aW9uYWwvaGVhbHRoLXNjaWVuY2Uvb3Bpb2lkLXByZXNjcmlwdGlvbnMtZHJvcHBlZC1mb3ItdGhlLWZpcnN0LXRpbWUtaW4tdGhlLW1vZGVybi1kcnVnLWNyaXNpcy8yMDE3LzA3LzA2Lzg5MmZmMTkyLTYxZjUtMTFlNy1hNGY3LWFmMzRmYzFkOWQzOV9zdG9yeS5odG1s0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lmd0cmV2aWV3LmNvbS9zdXBwbGVtZW50cy9ndHItaW5zdXJhbmNlLTIwMTgvY3JlZGl0LXdoZXJlLWl0cy1kdWUv0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiuwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vbmF0aW9uYWwvaGVhbHRoLXNjaWVuY2Uvb3Bpb2lkLXByZXNjcmlwdGlvbnMtZHJvcHBlZC1mb3ItdGhlLWZpcnN0LXRpbWUtaW4tdGhlLW1vZGVybi1kcnVnLWNyaXNpcy8yMDE3LzA3LzA2Lzg5MmZmMTkyLTYxZjUtMTFlNy1hNGY3LWFmMzRmYzFkOWQzOV9zdG9yeS5odG1s0gEA",
+                "_": "CBMiTWh0dHBzOi8vd3d3Lmd0cmV2aWV3LmNvbS9zdXBwbGVtZW50cy9ndHItaW5zdXJhbmNlLTIwMTgvY3JlZGl0LXdoZXJlLWl0cy1kdWUv0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 06 Jul 2017 07:00:00 GMT"
+              "Tue, 20 Nov 2018 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vbmF0aW9uYWwvaGVhbHRoLXNjaWVuY2Uvb3Bpb2lkLXByZXNjcmlwdGlvbnMtZHJvcHBlZC1mb3ItdGhlLWZpcnN0LXRpbWUtaW4tdGhlLW1vZGVybi1kcnVnLWNyaXNpcy8yMDE3LzA3LzA2Lzg5MmZmMTkyLTYxZjUtMTFlNy1hNGY3LWFmMzRmYzFkOWQzOV9zdG9yeS5odG1s0gEA?oc=5\" target=\"_blank\">Opioid prescriptions dropped for the first time in the modern drug crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lmd0cmV2aWV3LmNvbS9zdXBwbGVtZW50cy9ndHItaW5zdXJhbmNlLTIwMTgvY3JlZGl0LXdoZXJlLWl0cy1kdWUv0gEA?oc=5\" target=\"_blank\">Roundtable: Credit where it's due</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Trade Review (GTR)</font>"
             ],
             "source": [
               {
-                "_": "The Washington Post",
+                "_": "Global Trade Review (GTR)",
                 "$": {
-                  "url": "https://www.washingtonpost.com"
+                  "url": "https://www.gtreview.com"
                 }
               }
             ]
@@ -627,6 +627,36 @@
                 "_": "Hospitality Net",
                 "$": {
                   "url": "https://www.hospitalitynet.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opioid prescriptions dropped for the first time in the modern drug crisis - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vbmF0aW9uYWwvaGVhbHRoLXNjaWVuY2Uvb3Bpb2lkLXByZXNjcmlwdGlvbnMtZHJvcHBlZC1mb3ItdGhlLWZpcnN0LXRpbWUtaW4tdGhlLW1vZGVybi1kcnVnLWNyaXNpcy8yMDE3LzA3LzA2Lzg5MmZmMTkyLTYxZjUtMTFlNy1hNGY3LWFmMzRmYzFkOWQzOV9zdG9yeS5odG1s0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiuwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vbmF0aW9uYWwvaGVhbHRoLXNjaWVuY2Uvb3Bpb2lkLXByZXNjcmlwdGlvbnMtZHJvcHBlZC1mb3ItdGhlLWZpcnN0LXRpbWUtaW4tdGhlLW1vZGVybi1kcnVnLWNyaXNpcy8yMDE3LzA3LzA2Lzg5MmZmMTkyLTYxZjUtMTFlNy1hNGY3LWFmMzRmYzFkOWQzOV9zdG9yeS5odG1s0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 06 Jul 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vbmF0aW9uYWwvaGVhbHRoLXNjaWVuY2Uvb3Bpb2lkLXByZXNjcmlwdGlvbnMtZHJvcHBlZC1mb3ItdGhlLWZpcnN0LXRpbWUtaW4tdGhlLW1vZGVybi1kcnVnLWNyaXNpcy8yMDE3LzA3LzA2Lzg5MmZmMTkyLTYxZjUtMTFlNy1hNGY3LWFmMzRmYzFkOWQzOV9zdG9yeS5odG1s0gEA?oc=5\" target=\"_blank\">Opioid prescriptions dropped for the first time in the modern drug crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
                 }
               }
             ]
@@ -693,60 +723,60 @@
           },
           {
             "title": [
-              "DC Buzz: 'Do the right thing' - CTPost"
+              "Opinion | Managing Pain and Opioid Addiction - The New York Times"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmN0cG9zdC5jb20vbG9jYWwvYXJ0aWNsZS9EQy1CdXp6LURvLXRoZS1yaWdodC10aGluZy05MjM3ODcxLnBocNIBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTYvMDUvMTYvb3Bpbmlvbi9tYW5hZ2luZy1wYWluLWFuZC1vcGlvaWQtYWRkaWN0aW9uLmh0bWzSAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiS2h0dHBzOi8vd3d3LmN0cG9zdC5jb20vbG9jYWwvYXJ0aWNsZS9EQy1CdXp6LURvLXRoZS1yaWdodC10aGluZy05MjM3ODcxLnBocNIBAA",
+                "_": "CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTYvMDUvMTYvb3Bpbmlvbi9tYW5hZ2luZy1wYWluLWFuZC1vcGlvaWQtYWRkaWN0aW9uLmh0bWzSAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 21 Sep 2016 07:00:00 GMT"
+              "Mon, 16 May 2016 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmN0cG9zdC5jb20vbG9jYWwvYXJ0aWNsZS9EQy1CdXp6LURvLXRoZS1yaWdodC10aGluZy05MjM3ODcxLnBocNIBAA?oc=5\" target=\"_blank\">DC Buzz: 'Do the right thing'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTPost</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTYvMDUvMTYvb3Bpbmlvbi9tYW5hZ2luZy1wYWluLWFuZC1vcGlvaWQtYWRkaWN0aW9uLmh0bWzSAQA?oc=5\" target=\"_blank\">Opinion | Managing Pain and Opioid Addiction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
             ],
             "source": [
               {
-                "_": "CTPost",
+                "_": "The New York Times",
                 "$": {
-                  "url": "https://www.ctpost.com"
+                  "url": "https://www.nytimes.com"
                 }
               }
             ]
           },
           {
             "title": [
-              "Shatterproof Hospitality Heroes honors Wyndham's Geoff Ballotti - Hotel Management"
+              "Doctors resist new painkiller prescribing procedures - CBS News"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmhvdGVsbWFuYWdlbWVudC5uZXQvb3BlcmF0ZS9zaGF0dGVycHJvb2YtaG9zcGl0YWxpdHktaGVyb2VzLWhvbm9ycy13eW5kaGFtcy1nZW9mZi1iYWxsb3R0adIBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZG9jdG9ycy1yZXNpc3QtbmV3LXBhaW5raWxsZXItcHJlc2NyaWJpbmctcHJvY2VkdXJlcy_SAVZodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9kb2N0b3JzLXJlc2lzdC1uZXctcGFpbmtpbGxlci1wcmVzY3JpYmluZy1wcm9jZWR1cmVzLw?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiZmh0dHBzOi8vd3d3LmhvdGVsbWFuYWdlbWVudC5uZXQvb3BlcmF0ZS9zaGF0dGVycHJvb2YtaG9zcGl0YWxpdHktaGVyb2VzLWhvbm9ycy13eW5kaGFtcy1nZW9mZi1iYWxsb3R0adIBAA",
+                "_": "CBMiUmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZG9jdG9ycy1yZXNpc3QtbmV3LXBhaW5raWxsZXItcHJlc2NyaWJpbmctcHJvY2VkdXJlcy_SAVZodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9kb2N0b3JzLXJlc2lzdC1uZXctcGFpbmtpbGxlci1wcmVzY3JpYmluZy1wcm9jZWR1cmVzLw",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 13 Dec 2021 08:00:00 GMT"
+              "Mon, 28 Mar 2016 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmhvdGVsbWFuYWdlbWVudC5uZXQvb3BlcmF0ZS9zaGF0dGVycHJvb2YtaG9zcGl0YWxpdHktaGVyb2VzLWhvbm9ycy13eW5kaGFtcy1nZW9mZi1iYWxsb3R0adIBAA?oc=5\" target=\"_blank\">Shatterproof Hospitality Heroes honors Wyndham's Geoff Ballotti</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hotel Management</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZG9jdG9ycy1yZXNpc3QtbmV3LXBhaW5raWxsZXItcHJlc2NyaWJpbmctcHJvY2VkdXJlcy_SAVZodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9kb2N0b3JzLXJlc2lzdC1uZXctcGFpbmtpbGxlci1wcmVzY3JpYmluZy1wcm9jZWR1cmVzLw?oc=5\" target=\"_blank\">Doctors resist new painkiller prescribing procedures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
             ],
             "source": [
               {
-                "_": "Hotel Management",
+                "_": "CBS News",
                 "$": {
-                  "url": "https://www.hotelmanagement.net"
+                  "url": "https://www.cbsnews.com"
                 }
               }
             ]
@@ -843,36 +873,6 @@
           },
           {
             "title": [
-              "Experts Say Attack On Hunter Biden's Addiction Deepens Stigma For Millions | - WBUR News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LndidXIub3JnL25wci85MjM2NDczODkvZXhwZXJ0cy1zYXktYXR0YWNrLW9uLWh1bnRlci1iaWRlbnMtYWRkaWN0aW9uLWRlZXBlbnMtc3RpZ21hLWZvci1taWxsaW9uc9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMibGh0dHBzOi8vd3d3LndidXIub3JnL25wci85MjM2NDczODkvZXhwZXJ0cy1zYXktYXR0YWNrLW9uLWh1bnRlci1iaWRlbnMtYWRkaWN0aW9uLWRlZXBlbnMtc3RpZ21hLWZvci1taWxsaW9uc9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 16 Oct 2020 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LndidXIub3JnL25wci85MjM2NDczODkvZXhwZXJ0cy1zYXktYXR0YWNrLW9uLWh1bnRlci1iaWRlbnMtYWRkaWN0aW9uLWRlZXBlbnMtc3RpZ21hLWZvci1taWxsaW9uc9IBAA?oc=5\" target=\"_blank\">Experts Say Attack On Hunter Biden's Addiction Deepens Stigma For Millions |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBUR News</font>"
-            ],
-            "source": [
-              {
-                "_": "WBUR News",
-                "$": {
-                  "url": "https://www.wbur.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "'Shatterproof' Founder Delivers Impassioned Address on Addiction in West Hartford - http://www.we-ha.com"
             ],
             "link": [
@@ -903,6 +903,66 @@
           },
           {
             "title": [
+              "Shatterproof to honor Hilton’s Chris Nassetta - Hotel Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vaG90ZWxidXNpbmVzcy5jb20vc2hhdHRlcnByb29mLXRvLWhvbm9yLWhpbHRvbnMtY2hyaXMtbmFzc2V0dGEv0gFNaHR0cHM6Ly9ob3RlbGJ1c2luZXNzLmNvbS9zaGF0dGVycHJvb2YtdG8taG9ub3ItaGlsdG9ucy1jaHJpcy1uYXNzZXR0YS8_YW1wPTE?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiR2h0dHBzOi8vaG90ZWxidXNpbmVzcy5jb20vc2hhdHRlcnByb29mLXRvLWhvbm9yLWhpbHRvbnMtY2hyaXMtbmFzc2V0dGEv0gFNaHR0cHM6Ly9ob3RlbGJ1c2luZXNzLmNvbS9zaGF0dGVycHJvb2YtdG8taG9ub3ItaGlsdG9ucy1jaHJpcy1uYXNzZXR0YS8_YW1wPTE",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 09 Jan 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vaG90ZWxidXNpbmVzcy5jb20vc2hhdHRlcnByb29mLXRvLWhvbm9yLWhpbHRvbnMtY2hyaXMtbmFzc2V0dGEv0gFNaHR0cHM6Ly9ob3RlbGJ1c2luZXNzLmNvbS9zaGF0dGVycHJvb2YtdG8taG9ub3ItaGlsdG9ucy1jaHJpcy1uYXNzZXR0YS8_YW1wPTE?oc=5\" target=\"_blank\">Shatterproof to honor Hilton’s Chris Nassetta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hotel Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Hotel Business",
+                "$": {
+                  "url": "https://hotelbusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Dish: NHL great chills in Greenwich during the snowstorm - Greenwich Time"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmdyZWVud2ljaHRpbWUuY29tL2xvY2FsL2FydGljbGUvVGhlLURpc2gtTkhMLWdyZWF0LWNoaWxscy1pbi1HcmVlbndpY2gtZHVyaW5nLTEyNzc4OTQ0LnBocNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZmh0dHBzOi8vd3d3LmdyZWVud2ljaHRpbWUuY29tL2xvY2FsL2FydGljbGUvVGhlLURpc2gtTkhMLWdyZWF0LWNoaWxscy1pbi1HcmVlbndpY2gtZHVyaW5nLTEyNzc4OTQ0LnBocNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 24 Mar 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmdyZWVud2ljaHRpbWUuY29tL2xvY2FsL2FydGljbGUvVGhlLURpc2gtTkhMLWdyZWF0LWNoaWxscy1pbi1HcmVlbndpY2gtZHVyaW5nLTEyNzc4OTQ0LnBocNIBAA?oc=5\" target=\"_blank\">The Dish: NHL great chills in Greenwich during the snowstorm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Greenwich Time</font>"
+            ],
+            "source": [
+              {
+                "_": "Greenwich Time",
+                "$": {
+                  "url": "https://www.greenwichtime.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "President-elect Trump can use his skills to help the addiction crisis - The Hill"
             ],
             "link": [
@@ -927,6 +987,36 @@
                 "_": "The Hill",
                 "$": {
                   "url": "https://thehill.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Shatterproof Hospitality Heroes Reception to honor Geoff Ballotti at ALIS - Hotel Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vaG90ZWxidXNpbmVzcy5jb20vc2hhdHRlcnByb29mLWhvc3BpdGFsaXR5LWhlcm9lcy1yZWNlcHRpb24tdG8taG9ub3ItZ2VvZmYtYmFsbG90dGktYXQtYWxpcy_SAWpodHRwczovL2hvdGVsYnVzaW5lc3MuY29tL3NoYXR0ZXJwcm9vZi1ob3NwaXRhbGl0eS1oZXJvZXMtcmVjZXB0aW9uLXRvLWhvbm9yLWdlb2ZmLWJhbGxvdHRpLWF0LWFsaXMvP2FtcD0x?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vaG90ZWxidXNpbmVzcy5jb20vc2hhdHRlcnByb29mLWhvc3BpdGFsaXR5LWhlcm9lcy1yZWNlcHRpb24tdG8taG9ub3ItZ2VvZmYtYmFsbG90dGktYXQtYWxpcy_SAWpodHRwczovL2hvdGVsYnVzaW5lc3MuY29tL3NoYXR0ZXJwcm9vZi1ob3NwaXRhbGl0eS1oZXJvZXMtcmVjZXB0aW9uLXRvLWhvbm9yLWdlb2ZmLWJhbGxvdHRpLWF0LWFsaXMvP2FtcD0x",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 Dec 2021 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vaG90ZWxidXNpbmVzcy5jb20vc2hhdHRlcnByb29mLWhvc3BpdGFsaXR5LWhlcm9lcy1yZWNlcHRpb24tdG8taG9ub3ItZ2VvZmYtYmFsbG90dGktYXQtYWxpcy_SAWpodHRwczovL2hvdGVsYnVzaW5lc3MuY29tL3NoYXR0ZXJwcm9vZi1ob3NwaXRhbGl0eS1oZXJvZXMtcmVjZXB0aW9uLXRvLWhvbm9yLWdlb2ZmLWJhbGxvdHRpLWF0LWFsaXMvP2FtcD0x?oc=5\" target=\"_blank\">Shatterproof Hospitality Heroes Reception to honor Geoff Ballotti at ALIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hotel Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Hotel Business",
+                "$": {
+                  "url": "https://hotelbusiness.com"
                 }
               }
             ]
@@ -1083,6 +1173,36 @@
           },
           {
             "title": [
+              "Industry Honors Corcoran, Raises $580K for Shatterproof at ALIS - Hotel Business"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vaG90ZWxidXNpbmVzcy5jb20vaW5kdXN0cnktaG9ub3JzLWNvcmNvcmFuLXJhaXNlcy01ODBrLWZvci1zaGF0dGVycHJvb2YtYXQtYWxpcy_SAV5odHRwczovL2hvdGVsYnVzaW5lc3MuY29tL2luZHVzdHJ5LWhvbm9ycy1jb3Jjb3Jhbi1yYWlzZXMtNTgway1mb3Itc2hhdHRlcnByb29mLWF0LWFsaXMvP2FtcD0x?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWGh0dHBzOi8vaG90ZWxidXNpbmVzcy5jb20vaW5kdXN0cnktaG9ub3JzLWNvcmNvcmFuLXJhaXNlcy01ODBrLWZvci1zaGF0dGVycHJvb2YtYXQtYWxpcy_SAV5odHRwczovL2hvdGVsYnVzaW5lc3MuY29tL2luZHVzdHJ5LWhvbm9ycy1jb3Jjb3Jhbi1yYWlzZXMtNTgway1mb3Itc2hhdHRlcnByb29mLWF0LWFsaXMvP2FtcD0x",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2018 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vaG90ZWxidXNpbmVzcy5jb20vaW5kdXN0cnktaG9ub3JzLWNvcmNvcmFuLXJhaXNlcy01ODBrLWZvci1zaGF0dGVycHJvb2YtYXQtYWxpcy_SAV5odHRwczovL2hvdGVsYnVzaW5lc3MuY29tL2luZHVzdHJ5LWhvbm9ycy1jb3Jjb3Jhbi1yYWlzZXMtNTgway1mb3Itc2hhdHRlcnByb29mLWF0LWFsaXMvP2FtcD0x?oc=5\" target=\"_blank\">Industry Honors Corcoran, Raises $580K for Shatterproof at ALIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hotel Business</font>"
+            ],
+            "source": [
+              {
+                "_": "Hotel Business",
+                "$": {
+                  "url": "https://hotelbusiness.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "UJA-Federation of New York's Hospitality Division honors Jim Abrahamson of Interstate Hotels & Resorts - Hospitality Net"
             ],
             "link": [
@@ -1143,30 +1263,90 @@
           },
           {
             "title": [
-              "State of the Union: who Connecticut is sending - Middletown Press"
+              "UJA-Federation of New York to honor Arthur Adler of JLL-Hotels & Hospitality Group - Hospitality Net"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm1pZGRsZXRvd25wcmVzcy5jb20vbWlkZGxldG93bi9hcnRpY2xlL1N0YXRlLW9mLXRoZS1Vbmlvbi13aG8tQ29ubmVjdGljdXQtaXMtc2VuZGluZy0xNTAyNzAyNC5waHDSAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lmhvc3BpdGFsaXR5bmV0Lm9yZy9uZXdzLzQwNzYzNDEuaHRtbNIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMibWh0dHBzOi8vd3d3Lm1pZGRsZXRvd25wcmVzcy5jb20vbWlkZGxldG93bi9hcnRpY2xlL1N0YXRlLW9mLXRoZS1Vbmlvbi13aG8tQ29ubmVjdGljdXQtaXMtc2VuZGluZy0xNTAyNzAyNC5waHDSAQA",
+                "_": "CBMiMGh0dHBzOi8vd3d3Lmhvc3BpdGFsaXR5bmV0Lm9yZy9uZXdzLzQwNzYzNDEuaHRtbNIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 04 Feb 2020 08:00:00 GMT"
+              "Wed, 01 Jun 2016 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm1pZGRsZXRvd25wcmVzcy5jb20vbWlkZGxldG93bi9hcnRpY2xlL1N0YXRlLW9mLXRoZS1Vbmlvbi13aG8tQ29ubmVjdGljdXQtaXMtc2VuZGluZy0xNTAyNzAyNC5waHDSAQA?oc=5\" target=\"_blank\">State of the Union: who Connecticut is sending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middletown Press</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lmhvc3BpdGFsaXR5bmV0Lm9yZy9uZXdzLzQwNzYzNDEuaHRtbNIBAA?oc=5\" target=\"_blank\">UJA-Federation of New York to honor Arthur Adler of JLL-Hotels & Hospitality Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hospitality Net</font>"
             ],
             "source": [
               {
-                "_": "Middletown Press",
+                "_": "Hospitality Net",
                 "$": {
-                  "url": "https://www.middletownpress.com"
+                  "url": "https://www.hospitalitynet.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Giant brain made entirely of flowers will change how you think about addiction - Campaign US"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNhbXBhaWdubGl2ZS5jb20vYXJ0aWNsZS9naWFudC1icmFpbi1tYWRlLWVudGlyZWx5LWZsb3dlcnMtd2lsbC1jaGFuZ2UtdGhpbmstYWRkaWN0aW9uLzE1ODEwMzbSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiamh0dHBzOi8vd3d3LmNhbXBhaWdubGl2ZS5jb20vYXJ0aWNsZS9naWFudC1icmFpbi1tYWRlLWVudGlyZWx5LWZsb3dlcnMtd2lsbC1jaGFuZ2UtdGhpbmstYWRkaWN0aW9uLzE1ODEwMzbSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 Apr 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNhbXBhaWdubGl2ZS5jb20vYXJ0aWNsZS9naWFudC1icmFpbi1tYWRlLWVudGlyZWx5LWZsb3dlcnMtd2lsbC1jaGFuZ2UtdGhpbmstYWRkaWN0aW9uLzE1ODEwMzbSAQA?oc=5\" target=\"_blank\">Giant brain made entirely of flowers will change how you think about addiction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Campaign US</font>"
+            ],
+            "source": [
+              {
+                "_": "Campaign US",
+                "$": {
+                  "url": "https://www.campaignlive.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "GOP health-care bill would drop addiction treatment mandate covering 1.3 million Americans - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vbmV3cy93b25rL3dwLzIwMTcvMDMvMDkvZ29wLWhlYWx0aC1jYXJlLWJpbGwtd291bGQtZHJvcC1tZW50YWwtaGVhbHRoLWNvdmVyYWdlLW1hbmRhdGUtY292ZXJpbmctMS0zLW1pbGxpb24tYW1lcmljYW5zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMilQFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vbmV3cy93b25rL3dwLzIwMTcvMDMvMDkvZ29wLWhlYWx0aC1jYXJlLWJpbGwtd291bGQtZHJvcC1tZW50YWwtaGVhbHRoLWNvdmVyYWdlLW1hbmRhdGUtY292ZXJpbmctMS0zLW1pbGxpb24tYW1lcmljYW5zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Mar 2017 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vbmV3cy93b25rL3dwLzIwMTcvMDMvMDkvZ29wLWhlYWx0aC1jYXJlLWJpbGwtd291bGQtZHJvcC1tZW50YWwtaGVhbHRoLWNvdmVyYWdlLW1hbmRhdGUtY292ZXJpbmctMS0zLW1pbGxpb24tYW1lcmljYW5zL9IBAA?oc=5\" target=\"_blank\">GOP health-care bill would drop addiction treatment mandate covering 1.3 million Americans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
                 }
               }
             ]
@@ -1203,30 +1383,60 @@
           },
           {
             "title": [
-              "Gary Boyer, Judy Nelson, Mendell Thompson win seats on Glendora City Council - The San Gabriel Valley Tribune"
+              "Edie Magnus: Break drugs silence - The Cincinnati Enquirer"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5zZ3Z0cmlidW5lLmNvbS9nb3Zlcm5tZW50LWFuZC1wb2xpdGljcy8yMDE1MDMxMS9nYXJ5LWJveWVyLWp1ZHktbmVsc29uLW1lbmRlbGwtdGhvbXBzb24td2luLXNlYXRzLW9uLWdsZW5kb3JhLWNpdHktY291bmNpbC_SAXVodHRwczovL3d3dy5zZ3Z0cmlidW5lLmNvbS8yMDE1LzAzLzEyL2dhcnktYm95ZXItanVkeS1uZWxzb24tbWVuZGVsbC10aG9tcHNvbi13aW4tc2VhdHMtb24tZ2xlbmRvcmEtY2l0eS1jb3VuY2lsL2FtcC8?oc=5"
+              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNpbmNpbm5hdGkuY29tL3N0b3J5L25ld3MvMjAxNC8wNy8yNy9lZGllLW1hZ251cy1icmVhay1kcnVncy1zaWxlbmNlLzEzMjUyOTM1L9IBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMihwFodHRwczovL3d3dy5zZ3Z0cmlidW5lLmNvbS9nb3Zlcm5tZW50LWFuZC1wb2xpdGljcy8yMDE1MDMxMS9nYXJ5LWJveWVyLWp1ZHktbmVsc29uLW1lbmRlbGwtdGhvbXBzb24td2luLXNlYXRzLW9uLWdsZW5kb3JhLWNpdHktY291bmNpbC_SAXVodHRwczovL3d3dy5zZ3Z0cmlidW5lLmNvbS8yMDE1LzAzLzEyL2dhcnktYm95ZXItanVkeS1uZWxzb24tbWVuZGVsbC10aG9tcHNvbi13aW4tc2VhdHMtb24tZ2xlbmRvcmEtY2l0eS1jb3VuY2lsL2FtcC8",
+                "_": "CBMiWmh0dHBzOi8vd3d3LmNpbmNpbm5hdGkuY29tL3N0b3J5L25ld3MvMjAxNC8wNy8yNy9lZGllLW1hZ251cy1icmVhay1kcnVncy1zaWxlbmNlLzEzMjUyOTM1L9IBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 12 Mar 2015 07:00:00 GMT"
+              "Sun, 27 Jul 2014 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5zZ3Z0cmlidW5lLmNvbS9nb3Zlcm5tZW50LWFuZC1wb2xpdGljcy8yMDE1MDMxMS9nYXJ5LWJveWVyLWp1ZHktbmVsc29uLW1lbmRlbGwtdGhvbXBzb24td2luLXNlYXRzLW9uLWdsZW5kb3JhLWNpdHktY291bmNpbC_SAXVodHRwczovL3d3dy5zZ3Z0cmlidW5lLmNvbS8yMDE1LzAzLzEyL2dhcnktYm95ZXItanVkeS1uZWxzb24tbWVuZGVsbC10aG9tcHNvbi13aW4tc2VhdHMtb24tZ2xlbmRvcmEtY2l0eS1jb3VuY2lsL2FtcC8?oc=5\" target=\"_blank\">Gary Boyer, Judy Nelson, Mendell Thompson win seats on Glendora City Council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The San Gabriel Valley Tribune</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNpbmNpbm5hdGkuY29tL3N0b3J5L25ld3MvMjAxNC8wNy8yNy9lZGllLW1hZ251cy1icmVhay1kcnVncy1zaWxlbmNlLzEzMjUyOTM1L9IBAA?oc=5\" target=\"_blank\">Edie Magnus: Break drugs silence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cincinnati Enquirer</font>"
             ],
             "source": [
               {
-                "_": "The San Gabriel Valley Tribune",
+                "_": "The Cincinnati Enquirer",
                 "$": {
-                  "url": "https://www.sgvtribune.com"
+                  "url": "https://www.cincinnati.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Florida AG Moody Boosts Website To Help Fight Opioid Addiction - Tampa Free Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRhbXBhZnAuY29tL2Zsb3JpZGEtYWctbW9vZHktYm9vc3RzLXdlYnNpdGUtdG8taGVscC1maWdodC1vcGlvaWQtYWRkaWN0aW9uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHBzOi8vd3d3LnRhbXBhZnAuY29tL2Zsb3JpZGEtYWctbW9vZHktYm9vc3RzLXdlYnNpdGUtdG8taGVscC1maWdodC1vcGlvaWQtYWRkaWN0aW9uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Sep 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRhbXBhZnAuY29tL2Zsb3JpZGEtYWctbW9vZHktYm9vc3RzLXdlYnNpdGUtdG8taGVscC1maWdodC1vcGlvaWQtYWRkaWN0aW9uL9IBAA?oc=5\" target=\"_blank\">Florida AG Moody Boosts Website To Help Fight Opioid Addiction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tampa Free Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Tampa Free Press",
+                "$": {
+                  "url": "https://www.tampafp.com"
                 }
               }
             ]

@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:41 GMT"
+          "Wed, 07 Feb 2024 08:29:22 GMT"
         ],
         "description": [
           "Google News"
@@ -123,14 +123,14 @@
           },
           {
             "title": [
-              "A look at North Carolina's major political races in 2024 - Yahoo News"
+              "A look at North Carolina’s major political races in 2024 - WSOC Charlotte"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vbmV3cy55YWhvby5jb20vbG9vay1ub3J0aC1jYXJvbGluYS1tYWpvci1wb2xpdGljYWwtMDA1MTMxMDQ5Lmh0bWzSAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lndzb2N0di5jb20vbmV3cy9sb2NhbC9sb29rLW5vcnRoLWNhcm9saW5hcy1tYWpvci1wb2xpdGljYWwtcmFjZXMtMjAyNC9DVEcyREdIS0k1RkRIR1IyT1NTU1dPNVpNVS_SAXxodHRwczovL3d3dy53c29jdHYuY29tL25ld3MvbG9jYWwvbG9vay1ub3J0aC1jYXJvbGluYXMtbWFqb3ItcG9saXRpY2FsLXJhY2VzLTIwMjQvQ1RHMkRHSEtJNUZESEdSMk9TU1NXTzVaTVUvP291dHB1dFR5cGU9YW1w?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiSWh0dHBzOi8vbmV3cy55YWhvby5jb20vbG9vay1ub3J0aC1jYXJvbGluYS1tYWpvci1wb2xpdGljYWwtMDA1MTMxMDQ5Lmh0bWzSAQA",
+                "_": "CBMibWh0dHBzOi8vd3d3Lndzb2N0di5jb20vbmV3cy9sb2NhbC9sb29rLW5vcnRoLWNhcm9saW5hcy1tYWpvci1wb2xpdGljYWwtcmFjZXMtMjAyNC9DVEcyREdIS0k1RkRIR1IyT1NTU1dPNVpNVS_SAXxodHRwczovL3d3dy53c29jdHYuY29tL25ld3MvbG9jYWwvbG9vay1ub3J0aC1jYXJvbGluYXMtbWFqb3ItcG9saXRpY2FsLXJhY2VzLTIwMjQvQ1RHMkRHSEtJNUZESEdSMk9TU1NXTzVaTVUvP291dHB1dFR5cGU9YW1w",
                 "$": {
                   "isPermaLink": "false"
                 }
@@ -140,13 +140,13 @@
               "Mon, 01 Jan 2024 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vbmV3cy55YWhvby5jb20vbG9vay1ub3J0aC1jYXJvbGluYS1tYWpvci1wb2xpdGljYWwtMDA1MTMxMDQ5Lmh0bWzSAQA?oc=5\" target=\"_blank\">A look at North Carolina's major political races in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lndzb2N0di5jb20vbmV3cy9sb2NhbC9sb29rLW5vcnRoLWNhcm9saW5hcy1tYWpvci1wb2xpdGljYWwtcmFjZXMtMjAyNC9DVEcyREdIS0k1RkRIR1IyT1NTU1dPNVpNVS_SAXxodHRwczovL3d3dy53c29jdHYuY29tL25ld3MvbG9jYWwvbG9vay1ub3J0aC1jYXJvbGluYXMtbWFqb3ItcG9saXRpY2FsLXJhY2VzLTIwMjQvQ1RHMkRHSEtJNUZESEdSMk9TU1NXTzVaTVUvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">A look at North Carolina’s major political races in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSOC Charlotte</font>"
             ],
             "source": [
               {
-                "_": "Yahoo News",
+                "_": "WSOC Charlotte",
                 "$": {
-                  "url": "https://news.yahoo.com"
+                  "url": "https://www.wsoctv.com"
                 }
               }
             ]
@@ -327,6 +327,36 @@
                 "_": "Boston Herald",
                 "$": {
                   "url": "https://www.bostonherald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Donald Silvis | Obituary | The Tribune Democrat - The Tribune-Democrat"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vb2JpdHVhcmllcy50cmliZGVtLmNvbS9vYml0dWFyeS9kb25hbGQtc2lsdmlzLTEwNzkyNzExMTXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQGh0dHBzOi8vb2JpdHVhcmllcy50cmliZGVtLmNvbS9vYml0dWFyeS9kb25hbGQtc2lsdmlzLTEwNzkyNzExMTXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 28 May 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vb2JpdHVhcmllcy50cmliZGVtLmNvbS9vYml0dWFyeS9kb25hbGQtc2lsdmlzLTEwNzkyNzExMTXSAQA?oc=5\" target=\"_blank\">Donald Silvis | Obituary | The Tribune Democrat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune-Democrat</font>"
+            ],
+            "source": [
+              {
+                "_": "The Tribune-Democrat",
+                "$": {
+                  "url": "https://obituaries.tribdem.com"
                 }
               }
             ]

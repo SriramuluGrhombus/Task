@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:22 GMT"
         ],
         "description": [
           "Google News"
@@ -123,36 +123,6 @@
           },
           {
             "title": [
-              "Man found fatally stabbed in east Oak Cliff, Dallas police say - The Dallas Morning News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRhbGxhc25ld3MuY29tL25ld3MvY3JpbWUvMjAyMi8xMi8yMC8zOC15ZWFyLW9sZC1tYW4tZmF0YWxseS1zdGFiYmVkLWluLWVhc3Qtb2FrLWNsaWZmLWRhbGxhcy1wb2xpY2Utc2F5L9IBhAFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9uZXdzL2NyaW1lLzIwMjIvMTIvMjAvMzgteWVhci1vbGQtbWFuLWZhdGFsbHktc3RhYmJlZC1pbi1lYXN0LW9hay1jbGlmZi1kYWxsYXMtcG9saWNlLXNheS8_b3V0cHV0VHlwZT1hbXA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMidWh0dHBzOi8vd3d3LmRhbGxhc25ld3MuY29tL25ld3MvY3JpbWUvMjAyMi8xMi8yMC8zOC15ZWFyLW9sZC1tYW4tZmF0YWxseS1zdGFiYmVkLWluLWVhc3Qtb2FrLWNsaWZmLWRhbGxhcy1wb2xpY2Utc2F5L9IBhAFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9uZXdzL2NyaW1lLzIwMjIvMTIvMjAvMzgteWVhci1vbGQtbWFuLWZhdGFsbHktc3RhYmJlZC1pbi1lYXN0LW9hay1jbGlmZi1kYWxsYXMtcG9saWNlLXNheS8_b3V0cHV0VHlwZT1hbXA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 20 Dec 2022 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRhbGxhc25ld3MuY29tL25ld3MvY3JpbWUvMjAyMi8xMi8yMC8zOC15ZWFyLW9sZC1tYW4tZmF0YWxseS1zdGFiYmVkLWluLWVhc3Qtb2FrLWNsaWZmLWRhbGxhcy1wb2xpY2Utc2F5L9IBhAFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9uZXdzL2NyaW1lLzIwMjIvMTIvMjAvMzgteWVhci1vbGQtbWFuLWZhdGFsbHktc3RhYmJlZC1pbi1lYXN0LW9hay1jbGlmZi1kYWxsYXMtcG9saWNlLXNheS8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Man found fatally stabbed in east Oak Cliff, Dallas police say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dallas Morning News</font>"
-            ],
-            "source": [
-              {
-                "_": "The Dallas Morning News",
-                "$": {
-                  "url": "https://www.dallasnews.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Jamie Macpherson - Macfarlanes"
             ],
             "link": [
@@ -177,6 +147,36 @@
                 "_": "Macfarlanes",
                 "$": {
                   "url": "https://www.macfarlanes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Man found fatally stabbed in east Oak Cliff, Dallas police say - The Dallas Morning News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRhbGxhc25ld3MuY29tL25ld3MvY3JpbWUvMjAyMi8xMi8yMC8zOC15ZWFyLW9sZC1tYW4tZmF0YWxseS1zdGFiYmVkLWluLWVhc3Qtb2FrLWNsaWZmLWRhbGxhcy1wb2xpY2Utc2F5L9IBhAFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9uZXdzL2NyaW1lLzIwMjIvMTIvMjAvMzgteWVhci1vbGQtbWFuLWZhdGFsbHktc3RhYmJlZC1pbi1lYXN0LW9hay1jbGlmZi1kYWxsYXMtcG9saWNlLXNheS8_b3V0cHV0VHlwZT1hbXA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vd3d3LmRhbGxhc25ld3MuY29tL25ld3MvY3JpbWUvMjAyMi8xMi8yMC8zOC15ZWFyLW9sZC1tYW4tZmF0YWxseS1zdGFiYmVkLWluLWVhc3Qtb2FrLWNsaWZmLWRhbGxhcy1wb2xpY2Utc2F5L9IBhAFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9uZXdzL2NyaW1lLzIwMjIvMTIvMjAvMzgteWVhci1vbGQtbWFuLWZhdGFsbHktc3RhYmJlZC1pbi1lYXN0LW9hay1jbGlmZi1kYWxsYXMtcG9saWNlLXNheS8_b3V0cHV0VHlwZT1hbXA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 20 Dec 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRhbGxhc25ld3MuY29tL25ld3MvY3JpbWUvMjAyMi8xMi8yMC8zOC15ZWFyLW9sZC1tYW4tZmF0YWxseS1zdGFiYmVkLWluLWVhc3Qtb2FrLWNsaWZmLWRhbGxhcy1wb2xpY2Utc2F5L9IBhAFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9uZXdzL2NyaW1lLzIwMjIvMTIvMjAvMzgteWVhci1vbGQtbWFuLWZhdGFsbHktc3RhYmJlZC1pbi1lYXN0LW9hay1jbGlmZi1kYWxsYXMtcG9saWNlLXNheS8_b3V0cHV0VHlwZT1hbXA?oc=5\" target=\"_blank\">Man found fatally stabbed in east Oak Cliff, Dallas police say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dallas Morning News</font>"
+            ],
+            "source": [
+              {
+                "_": "The Dallas Morning News",
+                "$": {
+                  "url": "https://www.dallasnews.com"
                 }
               }
             ]

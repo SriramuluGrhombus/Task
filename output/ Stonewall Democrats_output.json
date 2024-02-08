@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -1557,36 +1557,6 @@
                 "_": "outinsa.com",
                 "$": {
                   "url": "https://outinsa.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Geoff Kors and James Williamson are Palm Springs' political power couple - Desert Sun"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmRlc2VydHN1bi5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDE4LzA3LzI2L2xnYnQtY2FsaWZvcm5pYS1rb3JzLXdpbGxpYW1zb24tZ2F5LXBvbGl0aWNhbC1wb3dlci1jb3VwbGUvNzkzNzU2MDAyL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifmh0dHBzOi8vd3d3LmRlc2VydHN1bi5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDE4LzA3LzI2L2xnYnQtY2FsaWZvcm5pYS1rb3JzLXdpbGxpYW1zb24tZ2F5LXBvbGl0aWNhbC1wb3dlci1jb3VwbGUvNzkzNzU2MDAyL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 26 Jul 2018 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmRlc2VydHN1bi5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDE4LzA3LzI2L2xnYnQtY2FsaWZvcm5pYS1rb3JzLXdpbGxpYW1zb24tZ2F5LXBvbGl0aWNhbC1wb3dlci1jb3VwbGUvNzkzNzU2MDAyL9IBAA?oc=5\" target=\"_blank\">Geoff Kors and James Williamson are Palm Springs' political power couple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Desert Sun</font>"
-            ],
-            "source": [
-              {
-                "_": "Desert Sun",
-                "$": {
-                  "url": "https://www.desertsun.com"
                 }
               }
             ]

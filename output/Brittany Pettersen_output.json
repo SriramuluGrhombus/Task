@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -753,36 +753,6 @@
           },
           {
             "title": [
-              "In DC, Mayor Mike Johnston has one big ask: Let migrants get to work - Denverite"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGVudmVyaXRlLmNvbS8yMDI0LzAxLzE4L2luLWRjLWRlbnZlcnMtbWF5b3ItaGFzLW9uZS1iaWctYXNrLWxldC1taWdyYW50cy1nZXQtdG8td29yay_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiXmh0dHBzOi8vZGVudmVyaXRlLmNvbS8yMDI0LzAxLzE4L2luLWRjLWRlbnZlcnMtbWF5b3ItaGFzLW9uZS1iaWctYXNrLWxldC1taWdyYW50cy1nZXQtdG8td29yay_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 18 Jan 2024 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGVudmVyaXRlLmNvbS8yMDI0LzAxLzE4L2luLWRjLWRlbnZlcnMtbWF5b3ItaGFzLW9uZS1iaWctYXNrLWxldC1taWdyYW50cy1nZXQtdG8td29yay_SAQA?oc=5\" target=\"_blank\">In DC, Mayor Mike Johnston has one big ask: Let migrants get to work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Denverite</font>"
-            ],
-            "source": [
-              {
-                "_": "Denverite",
-                "$": {
-                  "url": "https://denverite.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "House Passes Pettersen Provision in Reauthorization of the SUPPORT Act - by Ark Valley Voice Staff - The Ark Valley Voice"
             ],
             "link": [
@@ -807,6 +777,36 @@
                 "_": "The Ark Valley Voice",
                 "$": {
                   "url": "https://arkvalleyvoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "In DC, Mayor Mike Johnston has one big ask: Let migrants get to work - Denverite"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGVudmVyaXRlLmNvbS8yMDI0LzAxLzE4L2luLWRjLWRlbnZlcnMtbWF5b3ItaGFzLW9uZS1iaWctYXNrLWxldC1taWdyYW50cy1nZXQtdG8td29yay_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vZGVudmVyaXRlLmNvbS8yMDI0LzAxLzE4L2luLWRjLWRlbnZlcnMtbWF5b3ItaGFzLW9uZS1iaWctYXNrLWxldC1taWdyYW50cy1nZXQtdG8td29yay_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 18 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGVudmVyaXRlLmNvbS8yMDI0LzAxLzE4L2luLWRjLWRlbnZlcnMtbWF5b3ItaGFzLW9uZS1iaWctYXNrLWxldC1taWdyYW50cy1nZXQtdG8td29yay_SAQA?oc=5\" target=\"_blank\">In DC, Mayor Mike Johnston has one big ask: Let migrants get to work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Denverite</font>"
+            ],
+            "source": [
+              {
+                "_": "Denverite",
+                "$": {
+                  "url": "https://denverite.com"
                 }
               }
             ]

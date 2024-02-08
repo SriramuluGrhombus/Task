@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:22 GMT"
         ],
         "description": [
           "Google News"
@@ -693,36 +693,6 @@
           },
           {
             "title": [
-              "Sun Pharma's Dadra facility receives 11 USFDA observations after inspection - Business Standard"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9jb21wYW5pZXMvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1wb3N0LWluc3BlY3Rpb24tYXQtc3VuLXBoYXJtYS1zLWRhZHJhLWZhY2lsaXR5LTExNzA0MjIwMDYyNF8xLmh0bWzSAZcBaHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FtcC9hcnRpY2xlL2NvbXBhbmllcy91c2ZkYS1pc3N1ZXMtMTEtb2JzZXJ2YXRpb25zLXBvc3QtaW5zcGVjdGlvbi1hdC1zdW4tcGhhcm1hLXMtZGFkcmEtZmFjaWxpdHktMTE3MDQyMjAwNjI0XzEuaHRtbA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMikwFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9jb21wYW5pZXMvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1wb3N0LWluc3BlY3Rpb24tYXQtc3VuLXBoYXJtYS1zLWRhZHJhLWZhY2lsaXR5LTExNzA0MjIwMDYyNF8xLmh0bWzSAZcBaHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FtcC9hcnRpY2xlL2NvbXBhbmllcy91c2ZkYS1pc3N1ZXMtMTEtb2JzZXJ2YXRpb25zLXBvc3QtaW5zcGVjdGlvbi1hdC1zdW4tcGhhcm1hLXMtZGFkcmEtZmFjaWxpdHktMTE3MDQyMjAwNjI0XzEuaHRtbA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sat, 22 Apr 2017 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9jb21wYW5pZXMvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1wb3N0LWluc3BlY3Rpb24tYXQtc3VuLXBoYXJtYS1zLWRhZHJhLWZhY2lsaXR5LTExNzA0MjIwMDYyNF8xLmh0bWzSAZcBaHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FtcC9hcnRpY2xlL2NvbXBhbmllcy91c2ZkYS1pc3N1ZXMtMTEtb2JzZXJ2YXRpb25zLXBvc3QtaW5zcGVjdGlvbi1hdC1zdW4tcGhhcm1hLXMtZGFkcmEtZmFjaWxpdHktMTE3MDQyMjAwNjI0XzEuaHRtbA?oc=5\" target=\"_blank\">Sun Pharma's Dadra facility receives 11 USFDA observations after inspection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>"
-            ],
-            "source": [
-              {
-                "_": "Business Standard",
-                "$": {
-                  "url": "https://www.business-standard.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Lupin Shares Slide as USFDA Issues 10 Observations on Pithampur Unit - EquityPandit"
             ],
             "link": [
@@ -747,6 +717,36 @@
                 "_": "EquityPandit",
                 "$": {
                   "url": "https://www.equitypandit.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Sun Pharma's Dadra facility receives 11 USFDA observations after inspection - Business Standard"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9jb21wYW5pZXMvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1wb3N0LWluc3BlY3Rpb24tYXQtc3VuLXBoYXJtYS1zLWRhZHJhLWZhY2lsaXR5LTExNzA0MjIwMDYyNF8xLmh0bWzSAZcBaHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FtcC9hcnRpY2xlL2NvbXBhbmllcy91c2ZkYS1pc3N1ZXMtMTEtb2JzZXJ2YXRpb25zLXBvc3QtaW5zcGVjdGlvbi1hdC1zdW4tcGhhcm1hLXMtZGFkcmEtZmFjaWxpdHktMTE3MDQyMjAwNjI0XzEuaHRtbA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikwFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9jb21wYW5pZXMvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1wb3N0LWluc3BlY3Rpb24tYXQtc3VuLXBoYXJtYS1zLWRhZHJhLWZhY2lsaXR5LTExNzA0MjIwMDYyNF8xLmh0bWzSAZcBaHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FtcC9hcnRpY2xlL2NvbXBhbmllcy91c2ZkYS1pc3N1ZXMtMTEtb2JzZXJ2YXRpb25zLXBvc3QtaW5zcGVjdGlvbi1hdC1zdW4tcGhhcm1hLXMtZGFkcmEtZmFjaWxpdHktMTE3MDQyMjAwNjI0XzEuaHRtbA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 22 Apr 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9jb21wYW5pZXMvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1wb3N0LWluc3BlY3Rpb24tYXQtc3VuLXBoYXJtYS1zLWRhZHJhLWZhY2lsaXR5LTExNzA0MjIwMDYyNF8xLmh0bWzSAZcBaHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FtcC9hcnRpY2xlL2NvbXBhbmllcy91c2ZkYS1pc3N1ZXMtMTEtb2JzZXJ2YXRpb25zLXBvc3QtaW5zcGVjdGlvbi1hdC1zdW4tcGhhcm1hLXMtZGFkcmEtZmFjaWxpdHktMTE3MDQyMjAwNjI0XzEuaHRtbA?oc=5\" target=\"_blank\">Sun Pharma's Dadra facility receives 11 USFDA observations after inspection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>"
+            ],
+            "source": [
+              {
+                "_": "Business Standard",
+                "$": {
+                  "url": "https://www.business-standard.com"
                 }
               }
             ]
@@ -1173,36 +1173,6 @@
           },
           {
             "title": [
-              "USFDA issues 11 observations for Sun Pharma's Dadra facility - ETHealthWorld"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDHSAYABaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDE?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifGh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDHSAYABaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDE",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sun, 23 Apr 2017 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDHSAYABaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDE?oc=5\" target=\"_blank\">USFDA issues 11 observations for Sun Pharma's Dadra facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETHealthWorld</font>"
-            ],
-            "source": [
-              {
-                "_": "ETHealthWorld",
-                "$": {
-                  "url": "https://health.economictimes.indiatimes.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Lupin has found itself in the FDA's crosshairs once again - FiercePharma"
             ],
             "link": [
@@ -1227,6 +1197,36 @@
                 "_": "FiercePharma",
                 "$": {
                   "url": "https://www.fiercepharma.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "USFDA issues 11 observations for Sun Pharma's Dadra facility - ETHealthWorld"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDHSAYABaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDE?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDHSAYABaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDE",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 23 Apr 2017 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDHSAYABaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9waGFybWEvdXNmZGEtaXNzdWVzLTExLW9ic2VydmF0aW9ucy1mb3Itc3VuLXBoYXJtYXMtZGFkcmEtZmFjaWxpdHkvNTgzMjM2NDE?oc=5\" target=\"_blank\">USFDA issues 11 observations for Sun Pharma's Dadra facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETHealthWorld</font>"
+            ],
+            "source": [
+              {
+                "_": "ETHealthWorld",
+                "$": {
+                  "url": "https://health.economictimes.indiatimes.com"
                 }
               }
             ]
@@ -2127,36 +2127,6 @@
                 "_": "Food Safety News",
                 "$": {
                   "url": "https://www.foodsafetynews.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "FDA Warns Zimmer Biomet Again, Seeks Meeting - https://ryortho.com/"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vcnlvcnRoby5jb20vYnJlYWtpbmcvZmRhLXdhcm5zLXppbW1lci1iaW9tZXQtYWdhaW4tc2Vla3MtbWVldGluZy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiSWh0dHBzOi8vcnlvcnRoby5jb20vYnJlYWtpbmcvZmRhLXdhcm5zLXppbW1lci1iaW9tZXQtYWdhaW4tc2Vla3MtbWVldGluZy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 31 Aug 2018 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vcnlvcnRoby5jb20vYnJlYWtpbmcvZmRhLXdhcm5zLXppbW1lci1iaW9tZXQtYWdhaW4tc2Vla3MtbWVldGluZy_SAQA?oc=5\" target=\"_blank\">FDA Warns Zimmer Biomet Again, Seeks Meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://ryortho.com/</font>"
-            ],
-            "source": [
-              {
-                "_": "https://ryortho.com/",
-                "$": {
-                  "url": "https://ryortho.com"
                 }
               }
             ]

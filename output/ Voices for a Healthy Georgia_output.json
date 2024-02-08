@@ -25,42 +25,12 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:22 GMT"
         ],
         "description": [
           "Google News"
         ],
         "item": [
-          {
-            "title": [
-              "A Healthy Resolution – Georgia Voice – Gay & LGBT Atlanta News - Georgia Voice"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vb3V0c3Bva2VuL3RoYXRzLXdoYXQtc2hlLXNhaWQvYS1oZWFsdGh5LXJlc29sdXRpb24v0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiSmh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vb3V0c3Bva2VuL3RoYXRzLXdoYXQtc2hlLXNhaWQvYS1oZWFsdGh5LXJlc29sdXRpb24v0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 11 Jan 2024 22:19:36 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vb3V0c3Bva2VuL3RoYXRzLXdoYXQtc2hlLXNhaWQvYS1oZWFsdGh5LXJlc29sdXRpb24v0gEA?oc=5\" target=\"_blank\">A Healthy Resolution – Georgia Voice – Gay & LGBT Atlanta News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
-            ],
-            "source": [
-              {
-                "_": "Georgia Voice",
-                "$": {
-                  "url": "https://thegavoice.com"
-                }
-              }
-            ]
-          },
           {
             "title": [
               "Georgia Set to Ban Commercial Surrogacy | Institute for War and Peace Reporting - Institute for War & Peace Reporting "
@@ -87,66 +57,6 @@
                 "_": "Institute for War & Peace Reporting ",
                 "$": {
                   "url": "https://iwpr.net"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "The mental health crisis in Georgia schools: A student's perspective – Scalawag - scalawagmagazine.org"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc2NhbGF3YWdtYWdhemluZS5vcmcvMjAyMy8wOS9nZW9yZ2lhLXNjaG9vbHMtbWVudGFsLWhlYWx0aC_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiQ2h0dHBzOi8vc2NhbGF3YWdtYWdhemluZS5vcmcvMjAyMy8wOS9nZW9yZ2lhLXNjaG9vbHMtbWVudGFsLWhlYWx0aC_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 14 Sep 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc2NhbGF3YWdtYWdhemluZS5vcmcvMjAyMy8wOS9nZW9yZ2lhLXNjaG9vbHMtbWVudGFsLWhlYWx0aC_SAQA?oc=5\" target=\"_blank\">The mental health crisis in Georgia schools: A student's perspective – Scalawag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scalawagmagazine.org</font>"
-            ],
-            "source": [
-              {
-                "_": "scalawagmagazine.org",
-                "$": {
-                  "url": "https://scalawagmagazine.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "An Indigenous Voice will help fight against endemic disease - Department of Health"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmhlYWx0aC5nb3YuYXUvbWluaXN0ZXJzL3RoZS1ob24tbWFyay1idXRsZXItbXAvbWVkaWEvYW4taW5kaWdlbm91cy12b2ljZS13aWxsLWhlbHAtZmlnaHQtYWdhaW5zdC1lbmRlbWljLWRpc2Vhc2XSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifGh0dHBzOi8vd3d3LmhlYWx0aC5nb3YuYXUvbWluaXN0ZXJzL3RoZS1ob24tbWFyay1idXRsZXItbXAvbWVkaWEvYW4taW5kaWdlbm91cy12b2ljZS13aWxsLWhlbHAtZmlnaHQtYWdhaW5zdC1lbmRlbWljLWRpc2Vhc2XSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 24 Aug 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmhlYWx0aC5nb3YuYXUvbWluaXN0ZXJzL3RoZS1ob24tbWFyay1idXRsZXItbXAvbWVkaWEvYW4taW5kaWdlbm91cy12b2ljZS13aWxsLWhlbHAtZmlnaHQtYWdhaW5zdC1lbmRlbWljLWRpc2Vhc2XSAQA?oc=5\" target=\"_blank\">An Indigenous Voice will help fight against endemic disease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Health</font>"
-            ],
-            "source": [
-              {
-                "_": "Department of Health",
-                "$": {
-                  "url": "https://www.health.gov.au"
                 }
               }
             ]
@@ -183,66 +93,6 @@
           },
           {
             "title": [
-              "Rehabilitation - Speech Therapy - Southeast Georgia Heath System"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL3JlaGFiaWxpdGF0aW9uL3NwZWVjaC10aGVyYXB5L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiPGh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL3JlaGFiaWxpdGF0aW9uL3NwZWVjaC10aGVyYXB5L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 May 2023 19:57:06 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL3JlaGFiaWxpdGF0aW9uL3NwZWVjaC10aGVyYXB5L9IBAA?oc=5\" target=\"_blank\">Rehabilitation - Speech Therapy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southeast Georgia Heath System</font>"
-            ],
-            "source": [
-              {
-                "_": "Southeast Georgia Heath System",
-                "$": {
-                  "url": "https://www.sghs.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Amerigroup donates $250k to 100Black Men of America - The Atlanta Voice"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWF0bGFudGF2b2ljZS5jb20vYW1lcmlncm91cHMtMjUwMDAwLWRvbmF0aW9uLWV4cGFuZHMtZWR1Y2F0aW9uLWFuZC1lY29ub21pYy1vcHBvcnR1bml0aWVzLWZvci1hZnJpY2FuLWFtZXJpY2Fucy1pbi1nZW9yZ2lhL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMihgFodHRwczovL3RoZWF0bGFudGF2b2ljZS5jb20vYW1lcmlncm91cHMtMjUwMDAwLWRvbmF0aW9uLWV4cGFuZHMtZWR1Y2F0aW9uLWFuZC1lY29ub21pYy1vcHBvcnR1bml0aWVzLWZvci1hZnJpY2FuLWFtZXJpY2Fucy1pbi1nZW9yZ2lhL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 17 Nov 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWF0bGFudGF2b2ljZS5jb20vYW1lcmlncm91cHMtMjUwMDAwLWRvbmF0aW9uLWV4cGFuZHMtZWR1Y2F0aW9uLWFuZC1lY29ub21pYy1vcHBvcnR1bml0aWVzLWZvci1hZnJpY2FuLWFtZXJpY2Fucy1pbi1nZW9yZ2lhL9IBAA?oc=5\" target=\"_blank\">Amerigroup donates $250k to 100Black Men of America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Voice</font>"
-            ],
-            "source": [
-              {
-                "_": "The Atlanta Voice",
-                "$": {
-                  "url": "https://theatlantavoice.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Study reveals mental health toll of student loan debt: Local voices weigh in - wgxa.tv"
             ],
             "link": [
@@ -273,6 +123,66 @@
           },
           {
             "title": [
+              "Spotlight on Mental Health Month – Youth voices from Georgia - World Bank"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYmxvZ3Mud29ybGRiYW5rLm9yZy9ldXJvcGVhbmRjZW50cmFsYXNpYS9zcG90bGlnaHQtbWVudGFsLWhlYWx0aC1tb250aC15b3V0aC12b2ljZXMtZ2VvcmdpYdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vYmxvZ3Mud29ybGRiYW5rLm9yZy9ldXJvcGVhbmRjZW50cmFsYXNpYS9zcG90bGlnaHQtbWVudGFsLWhlYWx0aC1tb250aC15b3V0aC12b2ljZXMtZ2VvcmdpYdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 10 May 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYmxvZ3Mud29ybGRiYW5rLm9yZy9ldXJvcGVhbmRjZW50cmFsYXNpYS9zcG90bGlnaHQtbWVudGFsLWhlYWx0aC1tb250aC15b3V0aC12b2ljZXMtZ2VvcmdpYdIBAA?oc=5\" target=\"_blank\">Spotlight on Mental Health Month – Youth voices from Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Bank</font>"
+            ],
+            "source": [
+              {
+                "_": "World Bank",
+                "$": {
+                  "url": "https://blogs.worldbank.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "State Politics: Georgia Republicans failed to get their key issues across the finish line - The Atlanta Voice"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9zdGF0ZS1wb2xpdGljcy1nZW9yZ2lhLXJlcHVibGljYW5zLWZhaWxlZC10by1nZXQtdGhlaXIta2V5LWlzc3Vlcy1hY3Jvc3MtdGhlLWZpbmlzaC1saW5lL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9zdGF0ZS1wb2xpdGljcy1nZW9yZ2lhLXJlcHVibGljYW5zLWZhaWxlZC10by1nZXQtdGhlaXIta2V5LWlzc3Vlcy1hY3Jvc3MtdGhlLWZpbmlzaC1saW5lL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 05 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9zdGF0ZS1wb2xpdGljcy1nZW9yZ2lhLXJlcHVibGljYW5zLWZhaWxlZC10by1nZXQtdGhlaXIta2V5LWlzc3Vlcy1hY3Jvc3MtdGhlLWZpbmlzaC1saW5lL9IBAA?oc=5\" target=\"_blank\">State Politics: Georgia Republicans failed to get their key issues across the finish line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Voice</font>"
+            ],
+            "source": [
+              {
+                "_": "The Atlanta Voice",
+                "$": {
+                  "url": "https://theatlantavoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "'I want to be that voice': Team of Central Georgia sheriff's offices chooses leader for co-responder task force - 13WMAZ.com"
             ],
             "link": [
@@ -297,6 +207,36 @@
                 "_": "13WMAZ.com",
                 "$": {
                   "url": "https://www.13wmaz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ear, Nose and Throat - Southeast Georgia Heath System"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL2Vhci1ub3NlLXRocm9hdC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiLmh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL2Vhci1ub3NlLXRocm9hdC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 May 2023 19:47:37 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL2Vhci1ub3NlLXRocm9hdC_SAQA?oc=5\" target=\"_blank\">Ear, Nose and Throat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southeast Georgia Heath System</font>"
+            ],
+            "source": [
+              {
+                "_": "Southeast Georgia Heath System",
+                "$": {
+                  "url": "https://www.sghs.org"
                 }
               }
             ]
@@ -363,6 +303,66 @@
           },
           {
             "title": [
+              "The State of the Mental Health Crisis Among LGBTQ Youth - Georgia Voice"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L3RoZS1zdGF0ZS1vZi10aGUtbWVudGFsLWhlYWx0aC1jcmlzaXMtYW1vbmctbGdidHEteW91dGgv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiWWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L3RoZS1zdGF0ZS1vZi10aGUtbWVudGFsLWhlYWx0aC1jcmlzaXMtYW1vbmctbGdidHEteW91dGgv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 04 May 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L3RoZS1zdGF0ZS1vZi10aGUtbWVudGFsLWhlYWx0aC1jcmlzaXMtYW1vbmctbGdidHEteW91dGgv0gEA?oc=5\" target=\"_blank\">The State of the Mental Health Crisis Among LGBTQ Youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
+            ],
+            "source": [
+              {
+                "_": "Georgia Voice",
+                "$": {
+                  "url": "https://thegavoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "How COVID-19 Changed Lives - Voices of Children - UNICEF"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnVuaWNlZi5vcmcvZ2VvcmdpYS9zdG9yaWVzL2hvdy1jb3ZpZC0xOS1jaGFuZ2VkLWxpdmVzLXZvaWNlcy1jaGlsZHJlbtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUWh0dHBzOi8vd3d3LnVuaWNlZi5vcmcvZ2VvcmdpYS9zdG9yaWVzL2hvdy1jb3ZpZC0xOS1jaGFuZ2VkLWxpdmVzLXZvaWNlcy1jaGlsZHJlbtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 May 2020 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnVuaWNlZi5vcmcvZ2VvcmdpYS9zdG9yaWVzL2hvdy1jb3ZpZC0xOS1jaGFuZ2VkLWxpdmVzLXZvaWNlcy1jaGlsZHJlbtIBAA?oc=5\" target=\"_blank\">How COVID-19 Changed Lives - Voices of Children</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNICEF</font>"
+            ],
+            "source": [
+              {
+                "_": "UNICEF",
+                "$": {
+                  "url": "https://www.unicef.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Family Ties Enterprises, Inc. and TQIntelligence Launch A Voice AI Digital Health Solution for Georgia Youth - PR Newswire"
             ],
             "link": [
@@ -423,60 +423,60 @@
           },
           {
             "title": [
-              "State Politics: Georgia Republicans failed to get their key issues across the finish line - The Atlanta Voice"
+              "Shortage of mental health providers harms Georgia kids, report says - Georgia Health News"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9zdGF0ZS1wb2xpdGljcy1nZW9yZ2lhLXJlcHVibGljYW5zLWZhaWxlZC10by1nZXQtdGhlaXIta2V5LWlzc3Vlcy1hY3Jvc3MtdGhlLWZpbmlzaC1saW5lL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE4LzAxL3Nob3J0YWdlLW1lbnRhbC1oZWFsdGgtcHJvdmlkZXJzLWhhcm1zLWdlb3JnaWEtY2hpbGRyZW4tcmVwb3J0L9IBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMidWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9zdGF0ZS1wb2xpdGljcy1nZW9yZ2lhLXJlcHVibGljYW5zLWZhaWxlZC10by1nZXQtdGhlaXIta2V5LWlzc3Vlcy1hY3Jvc3MtdGhlLWZpbmlzaC1saW5lL9IBAA",
+                "_": "CBMiaWh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE4LzAxL3Nob3J0YWdlLW1lbnRhbC1oZWFsdGgtcHJvdmlkZXJzLWhhcm1zLWdlb3JnaWEtY2hpbGRyZW4tcmVwb3J0L9IBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 05 Apr 2023 07:00:00 GMT"
+              "Mon, 22 Jan 2018 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9zdGF0ZS1wb2xpdGljcy1nZW9yZ2lhLXJlcHVibGljYW5zLWZhaWxlZC10by1nZXQtdGhlaXIta2V5LWlzc3Vlcy1hY3Jvc3MtdGhlLWZpbmlzaC1saW5lL9IBAA?oc=5\" target=\"_blank\">State Politics: Georgia Republicans failed to get their key issues across the finish line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Voice</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE4LzAxL3Nob3J0YWdlLW1lbnRhbC1oZWFsdGgtcHJvdmlkZXJzLWhhcm1zLWdlb3JnaWEtY2hpbGRyZW4tcmVwb3J0L9IBAA?oc=5\" target=\"_blank\">Shortage of mental health providers harms Georgia kids, report says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Health News</font>"
             ],
             "source": [
               {
-                "_": "The Atlanta Voice",
+                "_": "Georgia Health News",
                 "$": {
-                  "url": "https://theatlantavoice.com"
+                  "url": "https://www.georgiahealthnews.com"
                 }
               }
             ]
           },
           {
             "title": [
-              "Ear, Nose and Throat - Southeast Georgia Heath System"
+              "Student Voice of Mental Health Award 2021 Winner Georgia Messinger Is Using Tech to Transform Mental Health Peer ... - The Jed Foundation"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL2Vhci1ub3NlLXRocm9hdC_SAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMikwFodHRwczovL2plZGZvdW5kYXRpb24ub3JnL3N0dWRlbnQtdm9pY2Utb2YtbWVudGFsLWhlYWx0aC1hd2FyZC0yMDIxLXdpbm5lci1nZW9yZ2lhLW1lc3Npbmdlci1pcy11c2luZy10ZWNoLXRvLXRyYW5zZm9ybS1tZW50YWwtaGVhbHRoLXBlZXItc3VwcG9ydC_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiLmh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL2Vhci1ub3NlLXRocm9hdC_SAQA",
+                "_": "CBMikwFodHRwczovL2plZGZvdW5kYXRpb24ub3JnL3N0dWRlbnQtdm9pY2Utb2YtbWVudGFsLWhlYWx0aC1hd2FyZC0yMDIxLXdpbm5lci1nZW9yZ2lhLW1lc3Npbmdlci1pcy11c2luZy10ZWNoLXRvLXRyYW5zZm9ybS1tZW50YWwtaGVhbHRoLXBlZXItc3VwcG9ydC_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 31 May 2023 19:47:37 GMT"
+              "Mon, 21 Jun 2021 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL2Vhci1ub3NlLXRocm9hdC_SAQA?oc=5\" target=\"_blank\">Ear, Nose and Throat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southeast Georgia Heath System</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMikwFodHRwczovL2plZGZvdW5kYXRpb24ub3JnL3N0dWRlbnQtdm9pY2Utb2YtbWVudGFsLWhlYWx0aC1hd2FyZC0yMDIxLXdpbm5lci1nZW9yZ2lhLW1lc3Npbmdlci1pcy11c2luZy10ZWNoLXRvLXRyYW5zZm9ybS1tZW50YWwtaGVhbHRoLXBlZXItc3VwcG9ydC_SAQA?oc=5\" target=\"_blank\">Student Voice of Mental Health Award 2021 Winner Georgia Messinger Is Using Tech to Transform Mental Health Peer ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jed Foundation</font>"
             ],
             "source": [
               {
-                "_": "Southeast Georgia Heath System",
+                "_": "The Jed Foundation",
                 "$": {
-                  "url": "https://www.sghs.org"
+                  "url": "https://jedfoundation.org"
                 }
               }
             ]
@@ -513,30 +513,30 @@
           },
           {
             "title": [
-              "The State of the Mental Health Crisis Among LGBTQ Youth - Georgia Voice"
+              "Youth Voices Georgia | Youth Voices Georgia - World Bank"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L3RoZS1zdGF0ZS1vZi10aGUtbWVudGFsLWhlYWx0aC1jcmlzaXMtYW1vbmctbGdidHEteW91dGgv0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vYmxvZ3Mud29ybGRiYW5rLm9yZy90ZWFtL3lvdXRoLXZvaWNlcy1nZW9yZ2lh0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiWWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L3RoZS1zdGF0ZS1vZi10aGUtbWVudGFsLWhlYWx0aC1jcmlzaXMtYW1vbmctbGdidHEteW91dGgv0gEA",
+                "_": "CBMiNWh0dHBzOi8vYmxvZ3Mud29ybGRiYW5rLm9yZy90ZWFtL3lvdXRoLXZvaWNlcy1nZW9yZ2lh0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 04 May 2023 07:00:00 GMT"
+              "Fri, 10 May 2019 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L3RoZS1zdGF0ZS1vZi10aGUtbWVudGFsLWhlYWx0aC1jcmlzaXMtYW1vbmctbGdidHEteW91dGgv0gEA?oc=5\" target=\"_blank\">The State of the Mental Health Crisis Among LGBTQ Youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vYmxvZ3Mud29ybGRiYW5rLm9yZy90ZWFtL3lvdXRoLXZvaWNlcy1nZW9yZ2lh0gEA?oc=5\" target=\"_blank\">Youth Voices Georgia | Youth Voices Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Bank</font>"
             ],
             "source": [
               {
-                "_": "Georgia Voice",
+                "_": "World Bank",
                 "$": {
-                  "url": "https://thegavoice.com"
+                  "url": "https://blogs.worldbank.org"
                 }
               }
             ]
@@ -573,24 +573,24 @@
           },
           {
             "title": [
-              "Mayor Dickens Announces $55000 in Funding for Trans Community - Georgia Voice"
+              "Grief: A Mental Health Crisis for LGBTQ People - Georgia Voice"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9hdGxhbnRhL21heW9yLWRpY2tlbnMtYW5ub3VuY2VzLTU1MDAwLWluLWZ1bmRpbmctZm9yLXRyYW5zLWNvbW11bml0eS_SAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L2dyaWVmLWEtbWVudGFsLWhlYWx0aC1jcmlzaXMtZm9yLWxnYnRxLXBlb3BsZS_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiYWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9hdGxhbnRhL21heW9yLWRpY2tlbnMtYW5ub3VuY2VzLTU1MDAwLWluLWZ1bmRpbmctZm9yLXRyYW5zLWNvbW11bml0eS_SAQA",
+                "_": "CBMiT2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L2dyaWVmLWEtbWVudGFsLWhlYWx0aC1jcmlzaXMtZm9yLWxnYnRxLXBlb3BsZS_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Fri, 12 May 2023 07:00:00 GMT"
+              "Fri, 26 May 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9hdGxhbnRhL21heW9yLWRpY2tlbnMtYW5ub3VuY2VzLTU1MDAwLWluLWZ1bmRpbmctZm9yLXRyYW5zLWNvbW11bml0eS_SAQA?oc=5\" target=\"_blank\">Mayor Dickens Announces $55000 in Funding for Trans Community</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L2dyaWVmLWEtbWVudGFsLWhlYWx0aC1jcmlzaXMtZm9yLWxnYnRxLXBlb3BsZS_SAQA?oc=5\" target=\"_blank\">Grief: A Mental Health Crisis for LGBTQ People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
             ],
             "source": [
               {
@@ -603,90 +603,120 @@
           },
           {
             "title": [
-              "'Our Georgia deserves a voice': Parents to release powerful memoir ten years on since murder of teenage daughter - Shropshire Star"
+              "Welcome to the Recorder: A fresh voice for Georgia news & commentary - Georgia Recorder"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy5zaHJvcHNoaXJlc3Rhci5jb20vbmV3cy9sb2NhbC1odWJzL3RlbGZvcmQvd2VsbGluZ3Rvbi8yMDIzLzAzLzA2L291ci1nZW9yZ2lhLWRlc2VydmVzLWEtdm9pY2UtLXBhcmVudHMtdG8tcmVsZWFzZS1wb3dlcmZ1bC1tZW1vaXItdGVuLXllYXJzLW9uLXNpbmNlLW11cmRlci1vZi10ZWVuYWdlLWRhdWdodGVyL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZ2VvcmdpYXJlY29yZGVyLmNvbS8yMDE5LzA4LzA2L3dlbGNvbWUtdG8tdGhlLXJlY29yZGVyLWEtZnJlc2gtdm9pY2UtZm9yLWdlb3JnaWEtbmV3cy1jb21tZW50YXJ5L9IBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMivAFodHRwczovL3d3dy5zaHJvcHNoaXJlc3Rhci5jb20vbmV3cy9sb2NhbC1odWJzL3RlbGZvcmQvd2VsbGluZ3Rvbi8yMDIzLzAzLzA2L291ci1nZW9yZ2lhLWRlc2VydmVzLWEtdm9pY2UtLXBhcmVudHMtdG8tcmVsZWFzZS1wb3dlcmZ1bC1tZW1vaXItdGVuLXllYXJzLW9uLXNpbmNlLW11cmRlci1vZi10ZWVuYWdlLWRhdWdodGVyL9IBAA",
+                "_": "CBMiaWh0dHBzOi8vZ2VvcmdpYXJlY29yZGVyLmNvbS8yMDE5LzA4LzA2L3dlbGNvbWUtdG8tdGhlLXJlY29yZGVyLWEtZnJlc2gtdm9pY2UtZm9yLWdlb3JnaWEtbmV3cy1jb21tZW50YXJ5L9IBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 06 Mar 2023 08:00:00 GMT"
+              "Tue, 06 Aug 2019 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy5zaHJvcHNoaXJlc3Rhci5jb20vbmV3cy9sb2NhbC1odWJzL3RlbGZvcmQvd2VsbGluZ3Rvbi8yMDIzLzAzLzA2L291ci1nZW9yZ2lhLWRlc2VydmVzLWEtdm9pY2UtLXBhcmVudHMtdG8tcmVsZWFzZS1wb3dlcmZ1bC1tZW1vaXItdGVuLXllYXJzLW9uLXNpbmNlLW11cmRlci1vZi10ZWVuYWdlLWRhdWdodGVyL9IBAA?oc=5\" target=\"_blank\">'Our Georgia deserves a voice': Parents to release powerful memoir ten years on since murder of teenage daughter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shropshire Star</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZ2VvcmdpYXJlY29yZGVyLmNvbS8yMDE5LzA4LzA2L3dlbGNvbWUtdG8tdGhlLXJlY29yZGVyLWEtZnJlc2gtdm9pY2UtZm9yLWdlb3JnaWEtbmV3cy1jb21tZW50YXJ5L9IBAA?oc=5\" target=\"_blank\">Welcome to the Recorder: A fresh voice for Georgia news & commentary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Recorder</font>"
             ],
             "source": [
               {
-                "_": "Shropshire Star",
+                "_": "Georgia Recorder",
                 "$": {
-                  "url": "https://www.shropshirestar.com"
+                  "url": "https://georgiarecorder.com"
                 }
               }
             ]
           },
           {
             "title": [
-              "Georgia Lambasted Over Saakashvili's Treatment | Institute for War and Peace Reporting - Institute for War & Peace Reporting "
+              "A state of health: Georgia CTSA making a difference for translational research - UGA Research News - UGA research"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vaXdwci5uZXQvZ2xvYmFsLXZvaWNlcy9nZW9yZ2lhLWxhbWJhc3RlZC1vdmVyLXNhYWthc2h2aWxpcy10cmVhdG1lbnTSAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vcmVzZWFyY2gudWdhLmVkdS9uZXdzL2Etc3RhdGUtb2YtaGVhbHRoLWdlb3JnaWEtY3RzYS1tYWtpbmctYS1kaWZmZXJlbmNlLWZvci10cmFuc2xhdGlvbmFsLXJlc2VhcmNoL9IBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiTGh0dHBzOi8vaXdwci5uZXQvZ2xvYmFsLXZvaWNlcy9nZW9yZ2lhLWxhbWJhc3RlZC1vdmVyLXNhYWthc2h2aWxpcy10cmVhdG1lbnTSAQA",
+                "_": "CBMibGh0dHBzOi8vcmVzZWFyY2gudWdhLmVkdS9uZXdzL2Etc3RhdGUtb2YtaGVhbHRoLWdlb3JnaWEtY3RzYS1tYWtpbmctYS1kaWZmZXJlbmNlLWZvci10cmFuc2xhdGlvbmFsLXJlc2VhcmNoL9IBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 11 Jul 2023 07:00:00 GMT"
+              "Tue, 22 Sep 2020 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vaXdwci5uZXQvZ2xvYmFsLXZvaWNlcy9nZW9yZ2lhLWxhbWJhc3RlZC1vdmVyLXNhYWthc2h2aWxpcy10cmVhdG1lbnTSAQA?oc=5\" target=\"_blank\">Georgia Lambasted Over Saakashvili's Treatment | Institute for War and Peace Reporting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institute for War & Peace Reporting </font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vcmVzZWFyY2gudWdhLmVkdS9uZXdzL2Etc3RhdGUtb2YtaGVhbHRoLWdlb3JnaWEtY3RzYS1tYWtpbmctYS1kaWZmZXJlbmNlLWZvci10cmFuc2xhdGlvbmFsLXJlc2VhcmNoL9IBAA?oc=5\" target=\"_blank\">A state of health: Georgia CTSA making a difference for translational research - UGA Research News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UGA research</font>"
             ],
             "source": [
               {
-                "_": "Institute for War & Peace Reporting ",
+                "_": "UGA research",
                 "$": {
-                  "url": "https://iwpr.net"
+                  "url": "https://research.uga.edu"
                 }
               }
             ]
           },
           {
             "title": [
-              "SURGE Project Connects Atlanta Communities with Georgia State Researchers to Better Understand Health Disparities - Georgia State University News"
+              "Patient Voice Project: Real stories shape simulated learning - uat vcastapi"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMikgFodHRwczovL25ld3MuZ3N1LmVkdS8yMDIzLzEwLzExL3N1cmdlLXByb2plY3QtY29ubmVjdHMtYXRsYW50YS1jb21tdW5pdGllcy13aXRoLWdlb3JnaWEtc3RhdGUtcmVzZWFyY2hlcnMtdG8tYmV0dGVyLXVuZGVyc3RhbmQtaGVhbHRoLWRpc3Bhcml0aWVzL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmJvaXNlc3RhdGUuZWR1L251cnNpbmcvMjAyMi8wOS8wNi9wYXRpZW50LXZvaWNlLXByb2plY3Qv0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMikgFodHRwczovL25ld3MuZ3N1LmVkdS8yMDIzLzEwLzExL3N1cmdlLXByb2plY3QtY29ubmVjdHMtYXRsYW50YS1jb21tdW5pdGllcy13aXRoLWdlb3JnaWEtc3RhdGUtcmVzZWFyY2hlcnMtdG8tYmV0dGVyLXVuZGVyc3RhbmQtaGVhbHRoLWRpc3Bhcml0aWVzL9IBAA",
+                "_": "CBMiRGh0dHBzOi8vd3d3LmJvaXNlc3RhdGUuZWR1L251cnNpbmcvMjAyMi8wOS8wNi9wYXRpZW50LXZvaWNlLXByb2plY3Qv0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 11 Oct 2023 07:00:00 GMT"
+              "Tue, 06 Sep 2022 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL25ld3MuZ3N1LmVkdS8yMDIzLzEwLzExL3N1cmdlLXByb2plY3QtY29ubmVjdHMtYXRsYW50YS1jb21tdW5pdGllcy13aXRoLWdlb3JnaWEtc3RhdGUtcmVzZWFyY2hlcnMtdG8tYmV0dGVyLXVuZGVyc3RhbmQtaGVhbHRoLWRpc3Bhcml0aWVzL9IBAA?oc=5\" target=\"_blank\">SURGE Project Connects Atlanta Communities with Georgia State Researchers to Better Understand Health Disparities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia State University News</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmJvaXNlc3RhdGUuZWR1L251cnNpbmcvMjAyMi8wOS8wNi9wYXRpZW50LXZvaWNlLXByb2plY3Qv0gEA?oc=5\" target=\"_blank\">Patient Voice Project: Real stories shape simulated learning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uat vcastapi</font>"
             ],
             "source": [
               {
-                "_": "Georgia State University News",
+                "_": "uat vcastapi",
                 "$": {
-                  "url": "https://news.gsu.edu"
+                  "url": "https://www.boisestate.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Harvard Student Georgia Messinger Wins The Jed Foundation 14th Annual Student Voice in Mental Health Award For ... - The Jed Foundation"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitgFodHRwczovL2plZGZvdW5kYXRpb24ub3JnL2hhcnZhcmQtc3R1ZGVudC1nZW9yZ2lhLW1lc3Npbmdlci13aW5zLXRoZS1qZWQtZm91bmRhdGlvbi0xNHRoLWFubnVhbC1zdHVkZW50LXZvaWNlLWluLW1lbnRhbC1oZWFsdGgtYXdhcmQtZm9yLWhlci1ncm91bmRicmVha2luZy13b3JrLW9uLXRoZS10cmlsbC1wcm9qZWN0L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitgFodHRwczovL2plZGZvdW5kYXRpb24ub3JnL2hhcnZhcmQtc3R1ZGVudC1nZW9yZ2lhLW1lc3Npbmdlci13aW5zLXRoZS1qZWQtZm91bmRhdGlvbi0xNHRoLWFubnVhbC1zdHVkZW50LXZvaWNlLWluLW1lbnRhbC1oZWFsdGgtYXdhcmQtZm9yLWhlci1ncm91bmRicmVha2luZy13b3JrLW9uLXRoZS10cmlsbC1wcm9qZWN0L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 22 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitgFodHRwczovL2plZGZvdW5kYXRpb24ub3JnL2hhcnZhcmQtc3R1ZGVudC1nZW9yZ2lhLW1lc3Npbmdlci13aW5zLXRoZS1qZWQtZm91bmRhdGlvbi0xNHRoLWFubnVhbC1zdHVkZW50LXZvaWNlLWluLW1lbnRhbC1oZWFsdGgtYXdhcmQtZm9yLWhlci1ncm91bmRicmVha2luZy13b3JrLW9uLXRoZS10cmlsbC1wcm9qZWN0L9IBAA?oc=5\" target=\"_blank\">Harvard Student Georgia Messinger Wins The Jed Foundation 14th Annual Student Voice in Mental Health Award For ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jed Foundation</font>"
+            ],
+            "source": [
+              {
+                "_": "The Jed Foundation",
+                "$": {
+                  "url": "https://jedfoundation.org"
                 }
               }
             ]
@@ -723,6 +753,36 @@
           },
           {
             "title": [
+              "SURGE Project Connects Atlanta Communities with Georgia State Researchers to Better Understand Health Disparities - Georgia State University News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL25ld3MuZ3N1LmVkdS8yMDIzLzEwLzExL3N1cmdlLXByb2plY3QtY29ubmVjdHMtYXRsYW50YS1jb21tdW5pdGllcy13aXRoLWdlb3JnaWEtc3RhdGUtcmVzZWFyY2hlcnMtdG8tYmV0dGVyLXVuZGVyc3RhbmQtaGVhbHRoLWRpc3Bhcml0aWVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL25ld3MuZ3N1LmVkdS8yMDIzLzEwLzExL3N1cmdlLXByb2plY3QtY29ubmVjdHMtYXRsYW50YS1jb21tdW5pdGllcy13aXRoLWdlb3JnaWEtc3RhdGUtcmVzZWFyY2hlcnMtdG8tYmV0dGVyLXVuZGVyc3RhbmQtaGVhbHRoLWRpc3Bhcml0aWVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 11 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL25ld3MuZ3N1LmVkdS8yMDIzLzEwLzExL3N1cmdlLXByb2plY3QtY29ubmVjdHMtYXRsYW50YS1jb21tdW5pdGllcy13aXRoLWdlb3JnaWEtc3RhdGUtcmVzZWFyY2hlcnMtdG8tYmV0dGVyLXVuZGVyc3RhbmQtaGVhbHRoLWRpc3Bhcml0aWVzL9IBAA?oc=5\" target=\"_blank\">SURGE Project Connects Atlanta Communities with Georgia State Researchers to Better Understand Health Disparities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia State University News</font>"
+            ],
+            "source": [
+              {
+                "_": "Georgia State University News",
+                "$": {
+                  "url": "https://news.gsu.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Butler: More Affordable Health Care Means Greater Equity and Progress in Georgia - The Atlanta Voice"
             ],
             "link": [
@@ -747,6 +807,66 @@
                 "_": "The Atlanta Voice",
                 "$": {
                   "url": "https://theatlantavoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The mental health crisis in Georgia schools: A student's perspective – Scalawag - scalawagmagazine.org"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc2NhbGF3YWdtYWdhemluZS5vcmcvMjAyMy8wOS9nZW9yZ2lhLXNjaG9vbHMtbWVudGFsLWhlYWx0aC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vc2NhbGF3YWdtYWdhemluZS5vcmcvMjAyMy8wOS9nZW9yZ2lhLXNjaG9vbHMtbWVudGFsLWhlYWx0aC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 14 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc2NhbGF3YWdtYWdhemluZS5vcmcvMjAyMy8wOS9nZW9yZ2lhLXNjaG9vbHMtbWVudGFsLWhlYWx0aC_SAQA?oc=5\" target=\"_blank\">The mental health crisis in Georgia schools: A student's perspective – Scalawag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scalawagmagazine.org</font>"
+            ],
+            "source": [
+              {
+                "_": "scalawagmagazine.org",
+                "$": {
+                  "url": "https://scalawagmagazine.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rehabilitation - Speech Therapy - Southeast Georgia Heath System"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL3JlaGFiaWxpdGF0aW9uL3NwZWVjaC10aGVyYXB5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPGh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL3JlaGFiaWxpdGF0aW9uL3NwZWVjaC10aGVyYXB5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 May 2023 19:57:06 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnNnaHMub3JnL3NlcnZpY2VzL3JlaGFiaWxpdGF0aW9uL3NwZWVjaC10aGVyYXB5L9IBAA?oc=5\" target=\"_blank\">Rehabilitation - Speech Therapy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southeast Georgia Heath System</font>"
+            ],
+            "source": [
+              {
+                "_": "Southeast Georgia Heath System",
+                "$": {
+                  "url": "https://www.sghs.org"
                 }
               }
             ]
@@ -783,90 +903,60 @@
           },
           {
             "title": [
-              "Farmers have silently struggled with their mental health for years. Are they ready to talk? - GPB News"
+              "A Voice for the Vulnerable - COVID-19's Impact on Refugees - Georgia State University News"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmdwYi5vcmcvbmV3cy8yMDIyLzA4LzA5L2Zhcm1lcnMtaGF2ZS1zaWxlbnRseS1zdHJ1Z2dsZWQtdGhlaXItbWVudGFsLWhlYWx0aC1mb3IteWVhcnMtYXJlLXRoZXktcmVhZHktdGFsa9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbmV3cy5nc3UuZWR1L3Jlc2VhcmNoLW1hZ2F6aW5lL2Etdm9pY2UtZm9yLXRoZS12dWxuZXJhYmxlLXBhbmRlbWljLWNvdmlkMTktcmVmdWdlZXPSAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMidWh0dHBzOi8vd3d3LmdwYi5vcmcvbmV3cy8yMDIyLzA4LzA5L2Zhcm1lcnMtaGF2ZS1zaWxlbnRseS1zdHJ1Z2dsZWQtdGhlaXItbWVudGFsLWhlYWx0aC1mb3IteWVhcnMtYXJlLXRoZXktcmVhZHktdGFsa9IBAA",
+                "_": "CBMiW2h0dHBzOi8vbmV3cy5nc3UuZWR1L3Jlc2VhcmNoLW1hZ2F6aW5lL2Etdm9pY2UtZm9yLXRoZS12dWxuZXJhYmxlLXBhbmRlbWljLWNvdmlkMTktcmVmdWdlZXPSAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 09 Aug 2022 07:00:00 GMT"
+              "Mon, 09 Nov 2020 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmdwYi5vcmcvbmV3cy8yMDIyLzA4LzA5L2Zhcm1lcnMtaGF2ZS1zaWxlbnRseS1zdHJ1Z2dsZWQtdGhlaXItbWVudGFsLWhlYWx0aC1mb3IteWVhcnMtYXJlLXRoZXktcmVhZHktdGFsa9IBAA?oc=5\" target=\"_blank\">Farmers have silently struggled with their mental health for years. Are they ready to talk?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GPB News</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbmV3cy5nc3UuZWR1L3Jlc2VhcmNoLW1hZ2F6aW5lL2Etdm9pY2UtZm9yLXRoZS12dWxuZXJhYmxlLXBhbmRlbWljLWNvdmlkMTktcmVmdWdlZXPSAQA?oc=5\" target=\"_blank\">A Voice for the Vulnerable - COVID-19's Impact on Refugees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia State University News</font>"
             ],
             "source": [
               {
-                "_": "GPB News",
+                "_": "Georgia State University News",
                 "$": {
-                  "url": "https://www.gpb.org"
+                  "url": "https://news.gsu.edu"
                 }
               }
             ]
           },
           {
             "title": [
-              "LCF Georgia Releases Groundbreaking Status of Latino Health Report in Georgia - Newswire"
+              "Five Georgia students named local Youth Heart Ambassadors - American Heart Association"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2xjZi1nZW9yZ2lhLXJlbGVhc2VzLWdyb3VuZGJyZWFraW5nLXN0YXR1cy1vZi1sYXRpbm8taGVhbHRoLXJlcG9ydC1pbi0yMjE3MTgxNNIBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbmV3c3Jvb20uaGVhcnQub3JnL2xvY2FsLW5ld3MvZml2ZS1nZW9yZ2lhLXN0dWRlbnRzLW5hbWVkLWxvY2FsLXlvdXRoLWhlYXJ0LWFtYmFzc2Fkb3Jz0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMibGh0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2xjZi1nZW9yZ2lhLXJlbGVhc2VzLWdyb3VuZGJyZWFraW5nLXN0YXR1cy1vZi1sYXRpbm8taGVhbHRoLXJlcG9ydC1pbi0yMjE3MTgxNNIBAA",
+                "_": "CBMiX2h0dHBzOi8vbmV3c3Jvb20uaGVhcnQub3JnL2xvY2FsLW5ld3MvZml2ZS1nZW9yZ2lhLXN0dWRlbnRzLW5hbWVkLWxvY2FsLXlvdXRoLWhlYXJ0LWFtYmFzc2Fkb3Jz0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 16 Nov 2023 08:00:00 GMT"
+              "Tue, 15 Aug 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2xjZi1nZW9yZ2lhLXJlbGVhc2VzLWdyb3VuZGJyZWFraW5nLXN0YXR1cy1vZi1sYXRpbm8taGVhbHRoLXJlcG9ydC1pbi0yMjE3MTgxNNIBAA?oc=5\" target=\"_blank\">LCF Georgia Releases Groundbreaking Status of Latino Health Report in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswire</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbmV3c3Jvb20uaGVhcnQub3JnL2xvY2FsLW5ld3MvZml2ZS1nZW9yZ2lhLXN0dWRlbnRzLW5hbWVkLWxvY2FsLXlvdXRoLWhlYXJ0LWFtYmFzc2Fkb3Jz0gEA?oc=5\" target=\"_blank\">Five Georgia students named local Youth Heart Ambassadors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Heart Association</font>"
             ],
             "source": [
               {
-                "_": "Newswire",
+                "_": "American Heart Association",
                 "$": {
-                  "url": "https://www.newswire.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Behind the numbers: The impact of Medicaid 'unwinding' in Georgia – WABE - WABE 90.1 FM"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LndhYmUub3JnL2JlaGluZC10aGUtbnVtYmVycy10aGUtaW1wYWN0LW9mLW1lZGljYWlkLXVud2luZGluZy1pbi1nZW9yZ2lhL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiVGh0dHBzOi8vd3d3LndhYmUub3JnL2JlaGluZC10aGUtbnVtYmVycy10aGUtaW1wYWN0LW9mLW1lZGljYWlkLXVud2luZGluZy1pbi1nZW9yZ2lhL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 10 Aug 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LndhYmUub3JnL2JlaGluZC10aGUtbnVtYmVycy10aGUtaW1wYWN0LW9mLW1lZGljYWlkLXVud2luZGluZy1pbi1nZW9yZ2lhL9IBAA?oc=5\" target=\"_blank\">Behind the numbers: The impact of Medicaid 'unwinding' in Georgia – WABE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE 90.1 FM</font>"
-            ],
-            "source": [
-              {
-                "_": "WABE 90.1 FM",
-                "$": {
-                  "url": "https://www.wabe.org"
+                  "url": "https://newsroom.heart.org"
                 }
               }
             ]
@@ -933,60 +1023,60 @@
           },
           {
             "title": [
-              "Cobb and Douglas Public Health host World AIDS Day event - The Atlanta Voice"
+              "LCF Georgia Releases Groundbreaking Status of Latino Health Report in Georgia - Newswire"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9jb2JiLWFuZC1kb3VnbGFzLXB1YmxpYy1oZWFsdGgtaG9zdC13b3JsZC1haWRzLWRheS1ldmVudC_SAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2xjZi1nZW9yZ2lhLXJlbGVhc2VzLWdyb3VuZGJyZWFraW5nLXN0YXR1cy1vZi1sYXRpbm8taGVhbHRoLXJlcG9ydC1pbi0yMjE3MTgxNNIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiVWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9jb2JiLWFuZC1kb3VnbGFzLXB1YmxpYy1oZWFsdGgtaG9zdC13b3JsZC1haWRzLWRheS1ldmVudC_SAQA",
+                "_": "CBMibGh0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2xjZi1nZW9yZ2lhLXJlbGVhc2VzLWdyb3VuZGJyZWFraW5nLXN0YXR1cy1vZi1sYXRpbm8taGVhbHRoLXJlcG9ydC1pbi0yMjE3MTgxNNIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 30 Nov 2023 08:00:00 GMT"
+              "Thu, 16 Nov 2023 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9jb2JiLWFuZC1kb3VnbGFzLXB1YmxpYy1oZWFsdGgtaG9zdC13b3JsZC1haWRzLWRheS1ldmVudC_SAQA?oc=5\" target=\"_blank\">Cobb and Douglas Public Health host World AIDS Day event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Voice</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL2xjZi1nZW9yZ2lhLXJlbGVhc2VzLWdyb3VuZGJyZWFraW5nLXN0YXR1cy1vZi1sYXRpbm8taGVhbHRoLXJlcG9ydC1pbi0yMjE3MTgxNNIBAA?oc=5\" target=\"_blank\">LCF Georgia Releases Groundbreaking Status of Latino Health Report in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswire</font>"
             ],
             "source": [
               {
-                "_": "The Atlanta Voice",
+                "_": "Newswire",
                 "$": {
-                  "url": "https://theatlantavoice.com"
+                  "url": "https://www.newswire.com"
                 }
               }
             ]
           },
           {
             "title": [
-              "Carter Center to celebrate life of Dr. John Gates, state mental health care reformer - Georgia Recorder"
+              "Behind the numbers: The impact of Medicaid 'unwinding' in Georgia – WABE - WABE 90.1 FM"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vZ2VvcmdpYXJlY29yZGVyLmNvbS9icmllZi9jYXJ0ZXItY2VudGVyLXRvLWNlbGVicmF0ZS1saWZlLW9mLWRyLWpvaG4tZ2F0ZXMtc3RhdGUtbWVudGFsLWhlYWx0aC1jYXJlLXJlZm9ybWVyL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LndhYmUub3JnL2JlaGluZC10aGUtbnVtYmVycy10aGUtaW1wYWN0LW9mLW1lZGljYWlkLXVud2luZGluZy1pbi1nZW9yZ2lhL9IBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMidWh0dHBzOi8vZ2VvcmdpYXJlY29yZGVyLmNvbS9icmllZi9jYXJ0ZXItY2VudGVyLXRvLWNlbGVicmF0ZS1saWZlLW9mLWRyLWpvaG4tZ2F0ZXMtc3RhdGUtbWVudGFsLWhlYWx0aC1jYXJlLXJlZm9ybWVyL9IBAA",
+                "_": "CBMiVGh0dHBzOi8vd3d3LndhYmUub3JnL2JlaGluZC10aGUtbnVtYmVycy10aGUtaW1wYWN0LW9mLW1lZGljYWlkLXVud2luZGluZy1pbi1nZW9yZ2lhL9IBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 18 Apr 2022 07:00:00 GMT"
+              "Thu, 10 Aug 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vZ2VvcmdpYXJlY29yZGVyLmNvbS9icmllZi9jYXJ0ZXItY2VudGVyLXRvLWNlbGVicmF0ZS1saWZlLW9mLWRyLWpvaG4tZ2F0ZXMtc3RhdGUtbWVudGFsLWhlYWx0aC1jYXJlLXJlZm9ybWVyL9IBAA?oc=5\" target=\"_blank\">Carter Center to celebrate life of Dr. John Gates, state mental health care reformer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Recorder</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LndhYmUub3JnL2JlaGluZC10aGUtbnVtYmVycy10aGUtaW1wYWN0LW9mLW1lZGljYWlkLXVud2luZGluZy1pbi1nZW9yZ2lhL9IBAA?oc=5\" target=\"_blank\">Behind the numbers: The impact of Medicaid 'unwinding' in Georgia – WABE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE 90.1 FM</font>"
             ],
             "source": [
               {
-                "_": "Georgia Recorder",
+                "_": "WABE 90.1 FM",
                 "$": {
-                  "url": "https://georgiarecorder.com"
+                  "url": "https://www.wabe.org"
                 }
               }
             ]
@@ -1023,30 +1113,60 @@
           },
           {
             "title": [
-              "Can One of Opera's Greatest Singers Get Her Voice Back? - The New York Times"
+              "Carter Center to celebrate life of Dr. John Gates, state mental health care reformer - Georgia Recorder"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMjAvYXJ0cy9tdXNpYy9hbml0YS1yYWNodmVsaXNodmlsaS1vcGVyYS12b2ljZS5odG1s0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vZ2VvcmdpYXJlY29yZGVyLmNvbS9icmllZi9jYXJ0ZXItY2VudGVyLXRvLWNlbGVicmF0ZS1saWZlLW9mLWRyLWpvaG4tZ2F0ZXMtc3RhdGUtbWVudGFsLWhlYWx0aC1jYXJlLXJlZm9ybWVyL9IBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiU2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMjAvYXJ0cy9tdXNpYy9hbml0YS1yYWNodmVsaXNodmlsaS1vcGVyYS12b2ljZS5odG1s0gEA",
+                "_": "CBMidWh0dHBzOi8vZ2VvcmdpYXJlY29yZGVyLmNvbS9icmllZi9jYXJ0ZXItY2VudGVyLXRvLWNlbGVicmF0ZS1saWZlLW9mLWRyLWpvaG4tZ2F0ZXMtc3RhdGUtbWVudGFsLWhlYWx0aC1jYXJlLXJlZm9ybWVyL9IBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 20 Dec 2023 08:00:00 GMT"
+              "Mon, 18 Apr 2022 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTIvMjAvYXJ0cy9tdXNpYy9hbml0YS1yYWNodmVsaXNodmlsaS1vcGVyYS12b2ljZS5odG1s0gEA?oc=5\" target=\"_blank\">Can One of Opera's Greatest Singers Get Her Voice Back?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vZ2VvcmdpYXJlY29yZGVyLmNvbS9icmllZi9jYXJ0ZXItY2VudGVyLXRvLWNlbGVicmF0ZS1saWZlLW9mLWRyLWpvaG4tZ2F0ZXMtc3RhdGUtbWVudGFsLWhlYWx0aC1jYXJlLXJlZm9ybWVyL9IBAA?oc=5\" target=\"_blank\">Carter Center to celebrate life of Dr. John Gates, state mental health care reformer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Recorder</font>"
             ],
             "source": [
               {
-                "_": "The New York Times",
+                "_": "Georgia Recorder",
                 "$": {
-                  "url": "https://www.nytimes.com"
+                  "url": "https://georgiarecorder.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "VOICES: Stacey Abrams sets her sights on vaccine access in rural Georgia - Facing South"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZhY2luZ3NvdXRoLm9yZy8yMDIxLzAzL3ZvaWNlcy1zdGFjZXktYWJyYW1zLXNldHMtaGVyLXNpZ2h0cy12YWNjaW5lLWFjY2Vzcy1ydXJhbC1nZW9yZ2lh0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmZhY2luZ3NvdXRoLm9yZy8yMDIxLzAzL3ZvaWNlcy1zdGFjZXktYWJyYW1zLXNldHMtaGVyLXNpZ2h0cy12YWNjaW5lLWFjY2Vzcy1ydXJhbC1nZW9yZ2lh0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 23 Mar 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZhY2luZ3NvdXRoLm9yZy8yMDIxLzAzL3ZvaWNlcy1zdGFjZXktYWJyYW1zLXNldHMtaGVyLXNpZ2h0cy12YWNjaW5lLWFjY2Vzcy1ydXJhbC1nZW9yZ2lh0gEA?oc=5\" target=\"_blank\">VOICES: Stacey Abrams sets her sights on vaccine access in rural Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facing South</font>"
+            ],
+            "source": [
+              {
+                "_": "Facing South",
+                "$": {
+                  "url": "https://www.facingsouth.org"
                 }
               }
             ]
@@ -1083,66 +1203,6 @@
           },
           {
             "title": [
-              "Update on Medicaid Coverage of Gender-Affirming Health Services | KFF - KFF"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmtmZi5vcmcvd29tZW5zLWhlYWx0aC1wb2xpY3kvaXNzdWUtYnJpZWYvdXBkYXRlLW9uLW1lZGljYWlkLWNvdmVyYWdlLW9mLWdlbmRlci1hZmZpcm1pbmctaGVhbHRoLXNlcnZpY2VzL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMidWh0dHBzOi8vd3d3LmtmZi5vcmcvd29tZW5zLWhlYWx0aC1wb2xpY3kvaXNzdWUtYnJpZWYvdXBkYXRlLW9uLW1lZGljYWlkLWNvdmVyYWdlLW9mLWdlbmRlci1hZmZpcm1pbmctaGVhbHRoLXNlcnZpY2VzL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 11 Oct 2022 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmtmZi5vcmcvd29tZW5zLWhlYWx0aC1wb2xpY3kvaXNzdWUtYnJpZWYvdXBkYXRlLW9uLW1lZGljYWlkLWNvdmVyYWdlLW9mLWdlbmRlci1hZmZpcm1pbmctaGVhbHRoLXNlcnZpY2VzL9IBAA?oc=5\" target=\"_blank\">Update on Medicaid Coverage of Gender-Affirming Health Services | KFF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFF</font>"
-            ],
-            "source": [
-              {
-                "_": "KFF",
-                "$": {
-                  "url": "https://www.kff.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Meet Our 2023 to 2024 Public Health Fellows - Kaiser Permanente"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiogFodHRwczovL2Fib3V0LmthaXNlcnBlcm1hbmVudGUub3JnL2NvbnRlbnQvaW50ZXJuZXQva3Ava3Bjb21tcy9lbi9jb21taXRtZW50cy1hbmQtaW1wYWN0L2hlYWx0aHktY29tbXVuaXRpZXMvbmV3cy9tZWV0LW91ci0yMDIzLXRvLTIwMjQtcHVibGljLWhlYWx0aC1mZWxsb3dzLmh0bWzSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiogFodHRwczovL2Fib3V0LmthaXNlcnBlcm1hbmVudGUub3JnL2NvbnRlbnQvaW50ZXJuZXQva3Ava3Bjb21tcy9lbi9jb21taXRtZW50cy1hbmQtaW1wYWN0L2hlYWx0aHktY29tbXVuaXRpZXMvbmV3cy9tZWV0LW91ci0yMDIzLXRvLTIwMjQtcHVibGljLWhlYWx0aC1mZWxsb3dzLmh0bWzSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 01 Nov 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL2Fib3V0LmthaXNlcnBlcm1hbmVudGUub3JnL2NvbnRlbnQvaW50ZXJuZXQva3Ava3Bjb21tcy9lbi9jb21taXRtZW50cy1hbmQtaW1wYWN0L2hlYWx0aHktY29tbXVuaXRpZXMvbmV3cy9tZWV0LW91ci0yMDIzLXRvLTIwMjQtcHVibGljLWhlYWx0aC1mZWxsb3dzLmh0bWzSAQA?oc=5\" target=\"_blank\">Meet Our 2023 to 2024 Public Health Fellows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kaiser Permanente</font>"
-            ],
-            "source": [
-              {
-                "_": "Kaiser Permanente",
-                "$": {
-                  "url": "https://about.kaiserpermanente.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Mental health advocates urge Georgians to 'vote for mental health' - GPB News"
             ],
             "link": [
@@ -1173,30 +1233,30 @@
           },
           {
             "title": [
-              "Reporter shares what triggered series on gaps in Georgia's mental health care system, shares how you can help - 11Alive.com WXIA"
+              "Residents, officials voice concern about ethylene oxide pollution - Georgia Health News"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvaW52ZXN0aWdhdGlvbnMva2VlcGluZy9yZXNvdXJjZXMtaG93LXRvLWhlbHAtY2hpbGQtbWVudGFsLWhlYWx0aC1jYXJlLWdlb3JnaWEvODUtM2E5Y2QwYmEtNzU4MS00NjMyLWJkNzUtODRlMDFlM2RkNDg40gGeAWh0dHBzOi8vd3d3LjExYWxpdmUuY29tL2FtcC9hcnRpY2xlL25ld3MvaW52ZXN0aWdhdGlvbnMva2VlcGluZy9yZXNvdXJjZXMtaG93LXRvLWhlbHAtY2hpbGQtbWVudGFsLWhlYWx0aC1jYXJlLWdlb3JnaWEvODUtM2E5Y2QwYmEtNzU4MS00NjMyLWJkNzUtODRlMDFlM2RkNDg4?oc=5"
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE5LzA3L3Jlc2lkZW50cy1vZmZpY2lhbHMtZXhwcmVzcy1jb25jZXJuLWV0aHlsZW5lLW94aWRlLXBvbGx1dGlvbi_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMimgFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvaW52ZXN0aWdhdGlvbnMva2VlcGluZy9yZXNvdXJjZXMtaG93LXRvLWhlbHAtY2hpbGQtbWVudGFsLWhlYWx0aC1jYXJlLWdlb3JnaWEvODUtM2E5Y2QwYmEtNzU4MS00NjMyLWJkNzUtODRlMDFlM2RkNDg40gGeAWh0dHBzOi8vd3d3LjExYWxpdmUuY29tL2FtcC9hcnRpY2xlL25ld3MvaW52ZXN0aWdhdGlvbnMva2VlcGluZy9yZXNvdXJjZXMtaG93LXRvLWhlbHAtY2hpbGQtbWVudGFsLWhlYWx0aC1jYXJlLWdlb3JnaWEvODUtM2E5Y2QwYmEtNzU4MS00NjMyLWJkNzUtODRlMDFlM2RkNDg4",
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE5LzA3L3Jlc2lkZW50cy1vZmZpY2lhbHMtZXhwcmVzcy1jb25jZXJuLWV0aHlsZW5lLW94aWRlLXBvbGx1dGlvbi_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 25 Jan 2022 08:00:00 GMT"
+              "Tue, 23 Jul 2019 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvaW52ZXN0aWdhdGlvbnMva2VlcGluZy9yZXNvdXJjZXMtaG93LXRvLWhlbHAtY2hpbGQtbWVudGFsLWhlYWx0aC1jYXJlLWdlb3JnaWEvODUtM2E5Y2QwYmEtNzU4MS00NjMyLWJkNzUtODRlMDFlM2RkNDg40gGeAWh0dHBzOi8vd3d3LjExYWxpdmUuY29tL2FtcC9hcnRpY2xlL25ld3MvaW52ZXN0aWdhdGlvbnMva2VlcGluZy9yZXNvdXJjZXMtaG93LXRvLWhlbHAtY2hpbGQtbWVudGFsLWhlYWx0aC1jYXJlLWdlb3JnaWEvODUtM2E5Y2QwYmEtNzU4MS00NjMyLWJkNzUtODRlMDFlM2RkNDg4?oc=5\" target=\"_blank\">Reporter shares what triggered series on gaps in Georgia's mental health care system, shares how you can help</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com WXIA</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE5LzA3L3Jlc2lkZW50cy1vZmZpY2lhbHMtZXhwcmVzcy1jb25jZXJuLWV0aHlsZW5lLW94aWRlLXBvbGx1dGlvbi_SAQA?oc=5\" target=\"_blank\">Residents, officials voice concern about ethylene oxide pollution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Health News</font>"
             ],
             "source": [
               {
-                "_": "11Alive.com WXIA",
+                "_": "Georgia Health News",
                 "$": {
-                  "url": "https://www.11alive.com"
+                  "url": "https://www.georgiahealthnews.com"
                 }
               }
             ]
@@ -1233,114 +1293,54 @@
           },
           {
             "title": [
-              "Georgia State Rep. Barnes introduces EmPATH Georgia Act - The Atlanta Voice"
+              "Many Georgia kids face barriers to health insurance, medical care - Georgia Health News"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9nZW9yZ2lhLXN0YXRlLXJlcC1pbWFuaS1iYXJuZXMtaW50cm9kdWNlcy1sZWdpc2xhdGlvbi1mb3ItZW1lcmdlbmN5LXBzeWNoaWF0cmljLWNhcmUv0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE4LzEwL3VuaW5zdXJlZC1raWRzLWVsaWdpYmxlLW1lZGljYWlkLXBlYWNoY2FyZS1lbnJvbGxlZC1yZXBvcnQv0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMicWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9nZW9yZ2lhLXN0YXRlLXJlcC1pbWFuaS1iYXJuZXMtaW50cm9kdWNlcy1sZWdpc2xhdGlvbi1mb3ItZW1lcmdlbmN5LXBzeWNoaWF0cmljLWNhcmUv0gEA",
+                "_": "CBMiZWh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE4LzEwL3VuaW5zdXJlZC1raWRzLWVsaWdpYmxlLW1lZGljYWlkLXBlYWNoY2FyZS1lbnJvbGxlZC1yZXBvcnQv0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Sun, 14 Jan 2024 08:00:00 GMT"
+              "Mon, 01 Oct 2018 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9nZW9yZ2lhLXN0YXRlLXJlcC1pbWFuaS1iYXJuZXMtaW50cm9kdWNlcy1sZWdpc2xhdGlvbi1mb3ItZW1lcmdlbmN5LXBzeWNoaWF0cmljLWNhcmUv0gEA?oc=5\" target=\"_blank\">Georgia State Rep. Barnes introduces EmPATH Georgia Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Voice</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE4LzEwL3VuaW5zdXJlZC1raWRzLWVsaWdpYmxlLW1lZGljYWlkLXBlYWNoY2FyZS1lbnJvbGxlZC1yZXBvcnQv0gEA?oc=5\" target=\"_blank\">Many Georgia kids face barriers to health insurance, medical care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Health News</font>"
             ],
             "source": [
               {
-                "_": "The Atlanta Voice",
+                "_": "Georgia Health News",
                 "$": {
-                  "url": "https://theatlantavoice.com"
+                  "url": "https://www.georgiahealthnews.com"
                 }
               }
             ]
           },
           {
             "title": [
-              "Children with autism are making public service announcements on MARTA trains - GPB News"
+              "Amerigroup donates $250k to 100Black Men of America - The Atlanta Voice"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdwYi5vcmcvbmV3cy8yMDIzLzA1LzAyL2NoaWxkcmVuLWF1dGlzbS1hcmUtbWFraW5nLXB1YmxpYy1zZXJ2aWNlLWFubm91bmNlbWVudHMtb24tbWFydGEtdHJhaW5z0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWF0bGFudGF2b2ljZS5jb20vYW1lcmlncm91cHMtMjUwMDAwLWRvbmF0aW9uLWV4cGFuZHMtZWR1Y2F0aW9uLWFuZC1lY29ub21pYy1vcHBvcnR1bml0aWVzLWZvci1hZnJpY2FuLWFtZXJpY2Fucy1pbi1nZW9yZ2lhL9IBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMia2h0dHBzOi8vd3d3LmdwYi5vcmcvbmV3cy8yMDIzLzA1LzAyL2NoaWxkcmVuLWF1dGlzbS1hcmUtbWFraW5nLXB1YmxpYy1zZXJ2aWNlLWFubm91bmNlbWVudHMtb24tbWFydGEtdHJhaW5z0gEA",
+                "_": "CBMihgFodHRwczovL3RoZWF0bGFudGF2b2ljZS5jb20vYW1lcmlncm91cHMtMjUwMDAwLWRvbmF0aW9uLWV4cGFuZHMtZWR1Y2F0aW9uLWFuZC1lY29ub21pYy1vcHBvcnR1bml0aWVzLWZvci1hZnJpY2FuLWFtZXJpY2Fucy1pbi1nZW9yZ2lhL9IBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 02 May 2023 07:00:00 GMT"
+              "Fri, 17 Nov 2023 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdwYi5vcmcvbmV3cy8yMDIzLzA1LzAyL2NoaWxkcmVuLWF1dGlzbS1hcmUtbWFraW5nLXB1YmxpYy1zZXJ2aWNlLWFubm91bmNlbWVudHMtb24tbWFydGEtdHJhaW5z0gEA?oc=5\" target=\"_blank\">Children with autism are making public service announcements on MARTA trains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GPB News</font>"
-            ],
-            "source": [
-              {
-                "_": "GPB News",
-                "$": {
-                  "url": "https://www.gpb.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Teens are struggling with mental health. Why aren't we helping them? - USA TODAY"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9vcGluaW9uL3ZvaWNlcy8yMDIzLzAzLzEyL3N0dWRlbnRzLW5lZWQtbWVudGFsLWhlYWx0aC1yZXNvdXJjZXMvMTE0Mjk3ODQwMDIv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMia2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9vcGluaW9uL3ZvaWNlcy8yMDIzLzAzLzEyL3N0dWRlbnRzLW5lZWQtbWVudGFsLWhlYWx0aC1yZXNvdXJjZXMvMTE0Mjk3ODQwMDIv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sun, 12 Mar 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9vcGluaW9uL3ZvaWNlcy8yMDIzLzAzLzEyL3N0dWRlbnRzLW5lZWQtbWVudGFsLWhlYWx0aC1yZXNvdXJjZXMvMTE0Mjk3ODQwMDIv0gEA?oc=5\" target=\"_blank\">Teens are struggling with mental health. Why aren't we helping them?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
-            ],
-            "source": [
-              {
-                "_": "USA TODAY",
-                "$": {
-                  "url": "https://www.usatoday.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Amerigroup Georgia opens Community Service Center in Southwest Atlanta - The Atlanta Voice"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9hbWVyaWdyb3VwLWdlb3JnaWEtb3BlbnMtY29tbXVuaXR5LXNlcnZpY2UtY2VudGVyLWluLXNvdXRod2VzdC1hdGxhbnRhL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiY2h0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9hbWVyaWdyb3VwLWdlb3JnaWEtb3BlbnMtY29tbXVuaXR5LXNlcnZpY2UtY2VudGVyLWluLXNvdXRod2VzdC1hdGxhbnRhL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 19 May 2022 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9hbWVyaWdyb3VwLWdlb3JnaWEtb3BlbnMtY29tbXVuaXR5LXNlcnZpY2UtY2VudGVyLWluLXNvdXRod2VzdC1hdGxhbnRhL9IBAA?oc=5\" target=\"_blank\">Amerigroup Georgia opens Community Service Center in Southwest Atlanta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Voice</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWF0bGFudGF2b2ljZS5jb20vYW1lcmlncm91cHMtMjUwMDAwLWRvbmF0aW9uLWV4cGFuZHMtZWR1Y2F0aW9uLWFuZC1lY29ub21pYy1vcHBvcnR1bml0aWVzLWZvci1hZnJpY2FuLWFtZXJpY2Fucy1pbi1nZW9yZ2lhL9IBAA?oc=5\" target=\"_blank\">Amerigroup donates $250k to 100Black Men of America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Voice</font>"
             ],
             "source": [
               {
@@ -1383,6 +1383,66 @@
           },
           {
             "title": [
+              "Amerigroup Georgia opens Community Service Center in Southwest Atlanta - The Atlanta Voice"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9hbWVyaWdyb3VwLWdlb3JnaWEtb3BlbnMtY29tbXVuaXR5LXNlcnZpY2UtY2VudGVyLWluLXNvdXRod2VzdC1hdGxhbnRhL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9hbWVyaWdyb3VwLWdlb3JnaWEtb3BlbnMtY29tbXVuaXR5LXNlcnZpY2UtY2VudGVyLWluLXNvdXRod2VzdC1hdGxhbnRhL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 19 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYXRsYW50YXZvaWNlLmNvbS9hbWVyaWdyb3VwLWdlb3JnaWEtb3BlbnMtY29tbXVuaXR5LXNlcnZpY2UtY2VudGVyLWluLXNvdXRod2VzdC1hdGxhbnRhL9IBAA?oc=5\" target=\"_blank\">Amerigroup Georgia opens Community Service Center in Southwest Atlanta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Voice</font>"
+            ],
+            "source": [
+              {
+                "_": "The Atlanta Voice",
+                "$": {
+                  "url": "https://theatlantavoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "READOUT: Senator Reverend Warnock Elevates the Voices of Georgia Farmers; Brings Together Middle Georgia ... - Raphael Warnock"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMi6QFodHRwczovL3d3dy53YXJub2NrLnNlbmF0ZS5nb3YvbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvcmVhZG91dC1zZW5hdG9yLXJldmVyZW5kLXdhcm5vY2stZWxldmF0ZXMtdGhlLXZvaWNlcy1vZi1nZW9yZ2lhLWZhcm1lcnMtYnJpbmdzLXRvZ2V0aGVyLW1pZGRsZS1nZW9yZ2lhLWZhcm1lcnMtd2l0aC10b3AtdXNkYS1vZmZpY2lhbHMtdG8tZGlzY3Vzcy1mYXJtLXN0cmVzcy1ydXJhbC1tZW50YWwtaGVhbHRoL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMi6QFodHRwczovL3d3dy53YXJub2NrLnNlbmF0ZS5nb3YvbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvcmVhZG91dC1zZW5hdG9yLXJldmVyZW5kLXdhcm5vY2stZWxldmF0ZXMtdGhlLXZvaWNlcy1vZi1nZW9yZ2lhLWZhcm1lcnMtYnJpbmdzLXRvZ2V0aGVyLW1pZGRsZS1nZW9yZ2lhLWZhcm1lcnMtd2l0aC10b3AtdXNkYS1vZmZpY2lhbHMtdG8tZGlzY3Vzcy1mYXJtLXN0cmVzcy1ydXJhbC1tZW50YWwtaGVhbHRoL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 01 Jun 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMi6QFodHRwczovL3d3dy53YXJub2NrLnNlbmF0ZS5nb3YvbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvcmVhZG91dC1zZW5hdG9yLXJldmVyZW5kLXdhcm5vY2stZWxldmF0ZXMtdGhlLXZvaWNlcy1vZi1nZW9yZ2lhLWZhcm1lcnMtYnJpbmdzLXRvZ2V0aGVyLW1pZGRsZS1nZW9yZ2lhLWZhcm1lcnMtd2l0aC10b3AtdXNkYS1vZmZpY2lhbHMtdG8tZGlzY3Vzcy1mYXJtLXN0cmVzcy1ydXJhbC1tZW50YWwtaGVhbHRoL9IBAA?oc=5\" target=\"_blank\">READOUT: Senator Reverend Warnock Elevates the Voices of Georgia Farmers; Brings Together Middle Georgia ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raphael Warnock</font>"
+            ],
+            "source": [
+              {
+                "_": "Raphael Warnock",
+                "$": {
+                  "url": "https://www.warnock.senate.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Georgia framing opposition to 'Cop City' as a criminal conspiracy - UPI News"
             ],
             "link": [
@@ -1413,36 +1473,6 @@
           },
           {
             "title": [
-              "'Finding My Voice' - Emory University"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vdG9nZXRoZXIuZW1vcnkuZWR1L25ld3MvMjAyMS0wNi0yMi1maW5kaW5nLW15LXZvaWNl0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiO2h0dHBzOi8vdG9nZXRoZXIuZW1vcnkuZWR1L25ld3MvMjAyMS0wNi0yMi1maW5kaW5nLW15LXZvaWNl0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 17 Jun 2021 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vdG9nZXRoZXIuZW1vcnkuZWR1L25ld3MvMjAyMS0wNi0yMi1maW5kaW5nLW15LXZvaWNl0gEA?oc=5\" target=\"_blank\">'Finding My Voice'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Emory University</font>"
-            ],
-            "source": [
-              {
-                "_": "Emory University",
-                "$": {
-                  "url": "https://together.emory.edu"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Georgia legislature passes sweeping Mental Health reform bill - The Atlanta Voice"
             ],
             "link": [
@@ -1467,6 +1497,36 @@
                 "_": "The Atlanta Voice",
                 "$": {
                   "url": "https://theatlantavoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Covid vaccination rates among young children lag in Georgia, South - Georgia Health News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDIyLzAxL2NvdmlkLXZhY2NpbmF0aW9uLXlvdW5nLWNoaWxkcmVuLWxhZ3MtZ2VvcmdpYS1zb3V0aC_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXmh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDIyLzAxL2NvdmlkLXZhY2NpbmF0aW9uLXlvdW5nLWNoaWxkcmVuLWxhZ3MtZ2VvcmdpYS1zb3V0aC_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 18 Jan 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDIyLzAxL2NvdmlkLXZhY2NpbmF0aW9uLXlvdW5nLWNoaWxkcmVuLWxhZ3MtZ2VvcmdpYS1zb3V0aC_SAQA?oc=5\" target=\"_blank\">Covid vaccination rates among young children lag in Georgia, South</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Health News</font>"
+            ],
+            "source": [
+              {
+                "_": "Georgia Health News",
+                "$": {
+                  "url": "https://www.georgiahealthnews.com"
                 }
               }
             ]
@@ -1533,30 +1593,30 @@
           },
           {
             "title": [
-              "Teddy Swims is The Soulful Rebel of Genres - BET"
+              "Calm, but Moved to Be Heard on Health Care (Published 2009) - The New York Times"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmJldC5jb20vYXJ0aWNsZS96Z2J5YmMvdGVkZHktc3dpbXMtdGhlLXNvdWxmdWwtcmViZWwtb2YtZ2VucmVz0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMDkvMDgvMjUvaGVhbHRoL3BvbGljeS8yNWdlb3JnaWEuaHRtbNIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiSmh0dHBzOi8vd3d3LmJldC5jb20vYXJ0aWNsZS96Z2J5YmMvdGVkZHktc3dpbXMtdGhlLXNvdWxmdWwtcmViZWwtb2YtZ2VucmVz0gEA",
+                "_": "CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMDkvMDgvMjUvaGVhbHRoL3BvbGljeS8yNWdlb3JnaWEuaHRtbNIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Fri, 15 Sep 2023 07:00:00 GMT"
+              "Mon, 24 Aug 2009 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmJldC5jb20vYXJ0aWNsZS96Z2J5YmMvdGVkZHktc3dpbXMtdGhlLXNvdWxmdWwtcmViZWwtb2YtZ2VucmVz0gEA?oc=5\" target=\"_blank\">Teddy Swims is The Soulful Rebel of Genres</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BET</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMDkvMDgvMjUvaGVhbHRoL3BvbGljeS8yNWdlb3JnaWEuaHRtbNIBAA?oc=5\" target=\"_blank\">Calm, but Moved to Be Heard on Health Care (Published 2009)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
             ],
             "source": [
               {
-                "_": "BET",
+                "_": "The New York Times",
                 "$": {
-                  "url": "https://www.bet.com"
+                  "url": "https://www.nytimes.com"
                 }
               }
             ]
@@ -1593,6 +1653,126 @@
           },
           {
             "title": [
+              "Campus groups say slavery a modern menace – Georgia Health News - Georgia Health News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE2LzA0L2NhbXB1cy1ncm91cHMtc2xhdmVyeS1tb2Rlcm4tbWVuYWNlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTmh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE2LzA0L2NhbXB1cy1ncm91cHMtc2xhdmVyeS1tb2Rlcm4tbWVuYWNlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 06 Apr 2016 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lmdlb3JnaWFoZWFsdGhuZXdzLmNvbS8yMDE2LzA0L2NhbXB1cy1ncm91cHMtc2xhdmVyeS1tb2Rlcm4tbWVuYWNlL9IBAA?oc=5\" target=\"_blank\">Campus groups say slavery a modern menace – Georgia Health News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Health News</font>"
+            ],
+            "source": [
+              {
+                "_": "Georgia Health News",
+                "$": {
+                  "url": "https://www.georgiahealthnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Teddy Swims is The Soulful Rebel of Genres - BET"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmJldC5jb20vYXJ0aWNsZS96Z2J5YmMvdGVkZHktc3dpbXMtdGhlLXNvdWxmdWwtcmViZWwtb2YtZ2VucmVz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3LmJldC5jb20vYXJ0aWNsZS96Z2J5YmMvdGVkZHktc3dpbXMtdGhlLXNvdWxmdWwtcmViZWwtb2YtZ2VucmVz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 15 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmJldC5jb20vYXJ0aWNsZS96Z2J5YmMvdGVkZHktc3dpbXMtdGhlLXNvdWxmdWwtcmViZWwtb2YtZ2VucmVz0gEA?oc=5\" target=\"_blank\">Teddy Swims is The Soulful Rebel of Genres</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BET</font>"
+            ],
+            "source": [
+              {
+                "_": "BET",
+                "$": {
+                  "url": "https://www.bet.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Our Georgia deserves a voice': Parents to release powerful memoir ten years on since murder of teenage daughter - Shropshire Star"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy5zaHJvcHNoaXJlc3Rhci5jb20vbmV3cy9sb2NhbC1odWJzL3RlbGZvcmQvd2VsbGluZ3Rvbi8yMDIzLzAzLzA2L291ci1nZW9yZ2lhLWRlc2VydmVzLWEtdm9pY2UtLXBhcmVudHMtdG8tcmVsZWFzZS1wb3dlcmZ1bC1tZW1vaXItdGVuLXllYXJzLW9uLXNpbmNlLW11cmRlci1vZi10ZWVuYWdlLWRhdWdodGVyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMivAFodHRwczovL3d3dy5zaHJvcHNoaXJlc3Rhci5jb20vbmV3cy9sb2NhbC1odWJzL3RlbGZvcmQvd2VsbGluZ3Rvbi8yMDIzLzAzLzA2L291ci1nZW9yZ2lhLWRlc2VydmVzLWEtdm9pY2UtLXBhcmVudHMtdG8tcmVsZWFzZS1wb3dlcmZ1bC1tZW1vaXItdGVuLXllYXJzLW9uLXNpbmNlLW11cmRlci1vZi10ZWVuYWdlLWRhdWdodGVyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 06 Mar 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy5zaHJvcHNoaXJlc3Rhci5jb20vbmV3cy9sb2NhbC1odWJzL3RlbGZvcmQvd2VsbGluZ3Rvbi8yMDIzLzAzLzA2L291ci1nZW9yZ2lhLWRlc2VydmVzLWEtdm9pY2UtLXBhcmVudHMtdG8tcmVsZWFzZS1wb3dlcmZ1bC1tZW1vaXItdGVuLXllYXJzLW9uLXNpbmNlLW11cmRlci1vZi10ZWVuYWdlLWRhdWdodGVyL9IBAA?oc=5\" target=\"_blank\">'Our Georgia deserves a voice': Parents to release powerful memoir ten years on since murder of teenage daughter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shropshire Star</font>"
+            ],
+            "source": [
+              {
+                "_": "Shropshire Star",
+                "$": {
+                  "url": "https://www.shropshirestar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "National Trans Health Conference returning to Atlanta for fourth year - Georgia Voice"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9hdGxhbnRhL25hdGlvbmFsLXRyYW5zLWhlYWx0aC1jb25mZXJlbmNlLXJldHVybmluZy1hdGxhbnRhLWZvdXJ0aC15ZWFyL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9hdGxhbnRhL25hdGlvbmFsLXRyYW5zLWhlYWx0aC1jb25mZXJlbmNlLXJldHVybmluZy1hdGxhbnRhLWZvdXJ0aC15ZWFyL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 15 Nov 2016 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9hdGxhbnRhL25hdGlvbmFsLXRyYW5zLWhlYWx0aC1jb25mZXJlbmNlLXJldHVybmluZy1hdGxhbnRhLWZvdXJ0aC15ZWFyL9IBAA?oc=5\" target=\"_blank\">National Trans Health Conference returning to Atlanta for fourth year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
+            ],
+            "source": [
+              {
+                "_": "Georgia Voice",
+                "$": {
+                  "url": "https://thegavoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "PCOM Georgia students receive symbolic white coats - North Gwinnett Voice"
             ],
             "link": [
@@ -1611,96 +1791,6 @@
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm5vcnRoZ3dpbm5ldHR2b2ljZS5jb20vcGNvbS1zdHVkZW50cy1yZWNlaXZlLXN5bWJvbGljLXdoaXRlLWNvYXRzL9IBUmh0dHBzOi8vd3d3Lm5vcnRoZ3dpbm5ldHR2b2ljZS5jb20vcGNvbS1zdHVkZW50cy1yZWNlaXZlLXN5bWJvbGljLXdoaXRlLWNvYXRzL2FtcC8?oc=5\" target=\"_blank\">PCOM Georgia students receive symbolic white coats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North Gwinnett Voice</font>"
-            ],
-            "source": [
-              {
-                "_": "North Gwinnett Voice",
-                "$": {
-                  "url": "https://www.northgwinnettvoice.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Suicide is an LGBTQ Issue – Georgia Voice – Gay & LGBT Atlanta News - Georgia Voice"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L3N1aWNpZGUtaXMtYW4tbGdidHEtaXNzdWUv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiO2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L3N1aWNpZGUtaXMtYW4tbGdidHEtaXNzdWUv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 14 Sep 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vY29tbXVuaXR5L3N1aWNpZGUtaXMtYW4tbGdidHEtaXNzdWUv0gEA?oc=5\" target=\"_blank\">Suicide is an LGBTQ Issue – Georgia Voice – Gay & LGBT Atlanta News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
-            ],
-            "source": [
-              {
-                "_": "Georgia Voice",
-                "$": {
-                  "url": "https://thegavoice.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Photo Gallery: Positive Impact Health Centers' annual Party With Impact fundraiser - Georgia Voice"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vcGhvdG8tZ2FsbGVyeS9waG90by1nYWxsZXJ5LXBvc2l0aXZlLWltcGFjdC1oZWFsdGgtY2VudGVycy1hbm51YWwtcGFydHktaW1wYWN0LWZ1bmRyYWlzZXIv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMicWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vcGhvdG8tZ2FsbGVyeS9waG90by1nYWxsZXJ5LXBvc2l0aXZlLWltcGFjdC1oZWFsdGgtY2VudGVycy1hbm51YWwtcGFydHktaW1wYWN0LWZ1bmRyYWlzZXIv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sun, 24 Sep 2017 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vcGhvdG8tZ2FsbGVyeS9waG90by1nYWxsZXJ5LXBvc2l0aXZlLWltcGFjdC1oZWFsdGgtY2VudGVycy1hbm51YWwtcGFydHktaW1wYWN0LWZ1bmRyYWlzZXIv0gEA?oc=5\" target=\"_blank\">Photo Gallery: Positive Impact Health Centers' annual Party With Impact fundraiser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
-            ],
-            "source": [
-              {
-                "_": "Georgia Voice",
-                "$": {
-                  "url": "https://thegavoice.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Medical students at PCOM Georgia match with residency programs - North Gwinnett Voice"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5vcnRoZ3dpbm5ldHR2b2ljZS5jb20vbWVkaWNhbC1zdHVkZW50cy1hdC1wY29tLWdlb3JnaWEtbWF0Y2gtd2l0aC1yZXNpZGVuY3ktcHJvZ3JhbXMv0gFmaHR0cHM6Ly93d3cubm9ydGhnd2lubmV0dHZvaWNlLmNvbS9tZWRpY2FsLXN0dWRlbnRzLWF0LXBjb20tZ2VvcmdpYS1tYXRjaC13aXRoLXJlc2lkZW5jeS1wcm9ncmFtcy9hbXAv?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiYmh0dHBzOi8vd3d3Lm5vcnRoZ3dpbm5ldHR2b2ljZS5jb20vbWVkaWNhbC1zdHVkZW50cy1hdC1wY29tLWdlb3JnaWEtbWF0Y2gtd2l0aC1yZXNpZGVuY3ktcHJvZ3JhbXMv0gFmaHR0cHM6Ly93d3cubm9ydGhnd2lubmV0dHZvaWNlLmNvbS9tZWRpY2FsLXN0dWRlbnRzLWF0LXBjb20tZ2VvcmdpYS1tYXRjaC13aXRoLXJlc2lkZW5jeS1wcm9ncmFtcy9hbXAv",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sun, 02 Apr 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5vcnRoZ3dpbm5ldHR2b2ljZS5jb20vbWVkaWNhbC1zdHVkZW50cy1hdC1wY29tLWdlb3JnaWEtbWF0Y2gtd2l0aC1yZXNpZGVuY3ktcHJvZ3JhbXMv0gFmaHR0cHM6Ly93d3cubm9ydGhnd2lubmV0dHZvaWNlLmNvbS9tZWRpY2FsLXN0dWRlbnRzLWF0LXBjb20tZ2VvcmdpYS1tYXRjaC13aXRoLXJlc2lkZW5jeS1wcm9ncmFtcy9hbXAv?oc=5\" target=\"_blank\">Medical students at PCOM Georgia match with residency programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North Gwinnett Voice</font>"
             ],
             "source": [
               {
@@ -1743,216 +1833,6 @@
           },
           {
             "title": [
-              "Atlanta Pride 2023's Grand Marshals – Georgia Voice – Gay & LGBT Atlanta News - Georgia Voice"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvYXRsYW50YS1wcmlkZS0yMDIzcy1ncmFuZC1tYXJzaGFscy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiT2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvYXRsYW50YS1wcmlkZS0yMDIzcy1ncmFuZC1tYXJzaGFscy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 13 Oct 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvYXRsYW50YS1wcmlkZS0yMDIzcy1ncmFuZC1tYXJzaGFscy_SAQA?oc=5\" target=\"_blank\">Atlanta Pride 2023's Grand Marshals – Georgia Voice – Gay & LGBT Atlanta News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
-            ],
-            "source": [
-              {
-                "_": "Georgia Voice",
-                "$": {
-                  "url": "https://thegavoice.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Legislation impacting child mental health in Georgia | The latest - 11Alive.com WXIA"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvaW52ZXN0aWdhdGlvbnMva2VlcGluZy93aGF0LXlvdS1uZWVkLXRvLWtub3ctbGVnaXNsYXRpb24taW1wYWN0aW5nLWNoaWxkLW1lbnRhbC1oZWFsdGgtaW4tZ2VvcmdpYS84NS0wZTJmMmFmMi01MDMxLTRlMGQtYmJjMi02NDM2OTU0Y2QxM2TSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMirgFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvaW52ZXN0aWdhdGlvbnMva2VlcGluZy93aGF0LXlvdS1uZWVkLXRvLWtub3ctbGVnaXNsYXRpb24taW1wYWN0aW5nLWNoaWxkLW1lbnRhbC1oZWFsdGgtaW4tZ2VvcmdpYS84NS0wZTJmMmFmMi01MDMxLTRlMGQtYmJjMi02NDM2OTU0Y2QxM2TSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 25 Jan 2022 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvaW52ZXN0aWdhdGlvbnMva2VlcGluZy93aGF0LXlvdS1uZWVkLXRvLWtub3ctbGVnaXNsYXRpb24taW1wYWN0aW5nLWNoaWxkLW1lbnRhbC1oZWFsdGgtaW4tZ2VvcmdpYS84NS0wZTJmMmFmMi01MDMxLTRlMGQtYmJjMi02NDM2OTU0Y2QxM2TSAQA?oc=5\" target=\"_blank\">Legislation impacting child mental health in Georgia | The latest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com WXIA</font>"
-            ],
-            "source": [
-              {
-                "_": "11Alive.com WXIA",
-                "$": {
-                  "url": "https://www.11alive.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Georgia football announcer Scott Howard has embraced his voice with UGA - Online Athens"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5vbmxpbmVhdGhlbnMuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2J1bGxkb2dzLWV4dHJhLzIwMjEvMDkvMjMvZ2VvcmdpYS1mb290YmFsbC1hbm5vdW5jZXItc2NvdHQtaG93YXJkLWhhcy1lbWJyYWNlZC1oaXMtdm9pY2UtdWdhLzU4MjQ5NTIwMDEv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMimgFodHRwczovL3d3dy5vbmxpbmVhdGhlbnMuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2J1bGxkb2dzLWV4dHJhLzIwMjEvMDkvMjMvZ2VvcmdpYS1mb290YmFsbC1hbm5vdW5jZXItc2NvdHQtaG93YXJkLWhhcy1lbWJyYWNlZC1oaXMtdm9pY2UtdWdhLzU4MjQ5NTIwMDEv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 23 Sep 2021 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5vbmxpbmVhdGhlbnMuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2J1bGxkb2dzLWV4dHJhLzIwMjEvMDkvMjMvZ2VvcmdpYS1mb290YmFsbC1hbm5vdW5jZXItc2NvdHQtaG93YXJkLWhhcy1lbWJyYWNlZC1oaXMtdm9pY2UtdWdhLzU4MjQ5NTIwMDEv0gEA?oc=5\" target=\"_blank\">Georgia football announcer Scott Howard has embraced his voice with UGA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Online Athens</font>"
-            ],
-            "source": [
-              {
-                "_": "Online Athens",
-                "$": {
-                  "url": "https://www.onlineathens.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "National Trans Health Conference returning to Atlanta for fourth year - Georgia Voice"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9hdGxhbnRhL25hdGlvbmFsLXRyYW5zLWhlYWx0aC1jb25mZXJlbmNlLXJldHVybmluZy1hdGxhbnRhLWZvdXJ0aC15ZWFyL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiY2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9hdGxhbnRhL25hdGlvbmFsLXRyYW5zLWhlYWx0aC1jb25mZXJlbmNlLXJldHVybmluZy1hdGxhbnRhLWZvdXJ0aC15ZWFyL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 15 Nov 2016 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9hdGxhbnRhL25hdGlvbmFsLXRyYW5zLWhlYWx0aC1jb25mZXJlbmNlLXJldHVybmluZy1hdGxhbnRhLWZvdXJ0aC15ZWFyL9IBAA?oc=5\" target=\"_blank\">National Trans Health Conference returning to Atlanta for fourth year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
-            ],
-            "source": [
-              {
-                "_": "Georgia Voice",
-                "$": {
-                  "url": "https://thegavoice.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Journalism is struggling. In Atlanta, new indie outlets are finding ways to make it work—and bringing in important voices - Atlanta Magazine"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5hdGxhbnRhbWFnYXppbmUuY29tL25ld3MtY3VsdHVyZS1hcnRpY2xlcy9qb3VybmFsaXNtLWlzLXN0cnVnZ2xpbmctaW4tYXRsYW50YS1uZXctaW5kaWUtb3V0bGV0cy1hcmUtZmluZGluZy13YXlzLXRvLW1ha2UtaXQtd29yay1hbmQtYnJpbmdpbmctaW4taW1wb3J0YW50LXZvaWNlcy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMirgFodHRwczovL3d3dy5hdGxhbnRhbWFnYXppbmUuY29tL25ld3MtY3VsdHVyZS1hcnRpY2xlcy9qb3VybmFsaXNtLWlzLXN0cnVnZ2xpbmctaW4tYXRsYW50YS1uZXctaW5kaWUtb3V0bGV0cy1hcmUtZmluZGluZy13YXlzLXRvLW1ha2UtaXQtd29yay1hbmQtYnJpbmdpbmctaW4taW1wb3J0YW50LXZvaWNlcy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 03 Apr 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5hdGxhbnRhbWFnYXppbmUuY29tL25ld3MtY3VsdHVyZS1hcnRpY2xlcy9qb3VybmFsaXNtLWlzLXN0cnVnZ2xpbmctaW4tYXRsYW50YS1uZXctaW5kaWUtb3V0bGV0cy1hcmUtZmluZGluZy13YXlzLXRvLW1ha2UtaXQtd29yay1hbmQtYnJpbmdpbmctaW4taW1wb3J0YW50LXZvaWNlcy_SAQA?oc=5\" target=\"_blank\">Journalism is struggling. In Atlanta, new indie outlets are finding ways to make it work—and bringing in important voices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta Magazine</font>"
-            ],
-            "source": [
-              {
-                "_": "Atlanta Magazine",
-                "$": {
-                  "url": "https://www.atlantamagazine.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Georgia's Eric Nam, K-Pop star wins TIME100 Impact Award | 11alive.com - 11Alive.com WXIA"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvY29tbXVuaXR5L3ZvaWNlcy1mb3ItZXF1YWxpdHkvZXJpYy1uYW0tdGltZTEwMC1pbXBhY3QtYXdhcmQvODUtZGViODk2NTAtMzZmMS00M2U2LTljNTUtMTY3YWI5MThjZTA40gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiiAFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvY29tbXVuaXR5L3ZvaWNlcy1mb3ItZXF1YWxpdHkvZXJpYy1uYW0tdGltZTEwMC1pbXBhY3QtYXdhcmQvODUtZGViODk2NTAtMzZmMS00M2U2LTljNTUtMTY3YWI5MThjZTA40gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 21 Sep 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvY29tbXVuaXR5L3ZvaWNlcy1mb3ItZXF1YWxpdHkvZXJpYy1uYW0tdGltZTEwMC1pbXBhY3QtYXdhcmQvODUtZGViODk2NTAtMzZmMS00M2U2LTljNTUtMTY3YWI5MThjZTA40gEA?oc=5\" target=\"_blank\">Georgia's Eric Nam, K-Pop star wins TIME100 Impact Award | 11alive.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com WXIA</font>"
-            ],
-            "source": [
-              {
-                "_": "11Alive.com WXIA",
-                "$": {
-                  "url": "https://www.11alive.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Atlanta Pride Committee Announces 2023 Grand Marshals – Including Georgia Voice! - Georgia Voice"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvYXRsYW50YS1wcmlkZS1jb21taXR0ZWUtYW5ub3VuY2VzLTIwMjMtZ3JhbmQtbWFyc2hhbHMtaW5jbHVkaW5nLWdlb3JnaWEtdm9pY2Uv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiemh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvYXRsYW50YS1wcmlkZS1jb21taXR0ZWUtYW5ub3VuY2VzLTIwMjMtZ3JhbmQtbWFyc2hhbHMtaW5jbHVkaW5nLWdlb3JnaWEtdm9pY2Uv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 28 Aug 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvYXRsYW50YS1wcmlkZS1jb21taXR0ZWUtYW5ub3VuY2VzLTIwMjMtZ3JhbmQtbWFyc2hhbHMtaW5jbHVkaW5nLWdlb3JnaWEtdm9pY2Uv0gEA?oc=5\" target=\"_blank\">Atlanta Pride Committee Announces 2023 Grand Marshals – Including Georgia Voice!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
-            ],
-            "source": [
-              {
-                "_": "Georgia Voice",
-                "$": {
-                  "url": "https://thegavoice.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Health Alert: Why I wiped HIV off my face - Georgia Voice"
             ],
             "link": [
@@ -1983,30 +1863,30 @@
           },
           {
             "title": [
-              "Calm, but Moved to Be Heard on Health Care (Published 2009) - The New York Times"
+              "Medical students at PCOM Georgia match with residency programs - North Gwinnett Voice"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMDkvMDgvMjUvaGVhbHRoL3BvbGljeS8yNWdlb3JnaWEuaHRtbNIBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5vcnRoZ3dpbm5ldHR2b2ljZS5jb20vbWVkaWNhbC1zdHVkZW50cy1hdC1wY29tLWdlb3JnaWEtbWF0Y2gtd2l0aC1yZXNpZGVuY3ktcHJvZ3JhbXMv0gFmaHR0cHM6Ly93d3cubm9ydGhnd2lubmV0dHZvaWNlLmNvbS9tZWRpY2FsLXN0dWRlbnRzLWF0LXBjb20tZ2VvcmdpYS1tYXRjaC13aXRoLXJlc2lkZW5jeS1wcm9ncmFtcy9hbXAv?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMDkvMDgvMjUvaGVhbHRoL3BvbGljeS8yNWdlb3JnaWEuaHRtbNIBAA",
+                "_": "CBMiYmh0dHBzOi8vd3d3Lm5vcnRoZ3dpbm5ldHR2b2ljZS5jb20vbWVkaWNhbC1zdHVkZW50cy1hdC1wY29tLWdlb3JnaWEtbWF0Y2gtd2l0aC1yZXNpZGVuY3ktcHJvZ3JhbXMv0gFmaHR0cHM6Ly93d3cubm9ydGhnd2lubmV0dHZvaWNlLmNvbS9tZWRpY2FsLXN0dWRlbnRzLWF0LXBjb20tZ2VvcmdpYS1tYXRjaC13aXRoLXJlc2lkZW5jeS1wcm9ncmFtcy9hbXAv",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 24 Aug 2009 07:00:00 GMT"
+              "Sun, 02 Apr 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMDkvMDgvMjUvaGVhbHRoL3BvbGljeS8yNWdlb3JnaWEuaHRtbNIBAA?oc=5\" target=\"_blank\">Calm, but Moved to Be Heard on Health Care (Published 2009)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5vcnRoZ3dpbm5ldHR2b2ljZS5jb20vbWVkaWNhbC1zdHVkZW50cy1hdC1wY29tLWdlb3JnaWEtbWF0Y2gtd2l0aC1yZXNpZGVuY3ktcHJvZ3JhbXMv0gFmaHR0cHM6Ly93d3cubm9ydGhnd2lubmV0dHZvaWNlLmNvbS9tZWRpY2FsLXN0dWRlbnRzLWF0LXBjb20tZ2VvcmdpYS1tYXRjaC13aXRoLXJlc2lkZW5jeS1wcm9ncmFtcy9hbXAv?oc=5\" target=\"_blank\">Medical students at PCOM Georgia match with residency programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North Gwinnett Voice</font>"
             ],
             "source": [
               {
-                "_": "The New York Times",
+                "_": "North Gwinnett Voice",
                 "$": {
-                  "url": "https://www.nytimes.com"
+                  "url": "https://www.northgwinnettvoice.com"
                 }
               }
             ]
@@ -2031,36 +1911,6 @@
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9hdGxhbnRhL3Bvc2l0aXZlLWltcGFjdC1oZWFsdGgtY2VudGVycy1jZWxlYnJhdGVzLTI1LXllYXJzLXNlcnZpY2Uv0gEA?oc=5\" target=\"_blank\">Positive Impact Health Centers celebrates 25 years of service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
-            ],
-            "source": [
-              {
-                "_": "Georgia Voice",
-                "$": {
-                  "url": "https://thegavoice.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Queer ATL Politicians AWOL in Monkeypox Fight – Georgia Voice – Gay & LGBT Atlanta News - Georgia Voice"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvcXVlZXItYXRsLXBvbGl0aWNpYW5zLWF3b2wtaW4tbW9ua2V5cG94LWZpZ2h0L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiWmh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvcXVlZXItYXRsLXBvbGl0aWNpYW5zLWF3b2wtaW4tbW9ua2V5cG94LWZpZ2h0L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 04 Aug 2022 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvcXVlZXItYXRsLXBvbGl0aWNpYW5zLWF3b2wtaW4tbW9ua2V5cG94LWZpZ2h0L9IBAA?oc=5\" target=\"_blank\">Queer ATL Politicians AWOL in Monkeypox Fight – Georgia Voice – Gay & LGBT Atlanta News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
             ],
             "source": [
               {
@@ -2103,6 +1953,156 @@
           },
           {
             "title": [
+              "Atlanta Pride 2023's Grand Marshals – Georgia Voice – Gay & LGBT Atlanta News - Georgia Voice"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvYXRsYW50YS1wcmlkZS0yMDIzcy1ncmFuZC1tYXJzaGFscy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiT2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvYXRsYW50YS1wcmlkZS0yMDIzcy1ncmFuZC1tYXJzaGFscy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 13 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vdG9kYXktaW4tZ2F5LWF0bGFudGEvYXRsYW50YS1wcmlkZS0yMDIzcy1ncmFuZC1tYXJzaGFscy_SAQA?oc=5\" target=\"_blank\">Atlanta Pride 2023's Grand Marshals – Georgia Voice – Gay & LGBT Atlanta News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
+            ],
+            "source": [
+              {
+                "_": "Georgia Voice",
+                "$": {
+                  "url": "https://thegavoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Division III Women's Preview: Healthy Georgia Carroll Just Peachy for Middlebury - USA Lacrosse Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnVzYWxheG1hZ2F6aW5lLmNvbS9jb2xsZWdlL3dvbWVuL2RpdmlzaW9uLWlpaS13b21lbnMtcHJldmlldy1oZWFsdGh5LWdlb3JnaWEtY2Fycm9sbC1qdXN0LXBlYWNoeS1mb3ItbWlkZGxlYnVyedIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LnVzYWxheG1hZ2F6aW5lLmNvbS9jb2xsZWdlL3dvbWVuL2RpdmlzaW9uLWlpaS13b21lbnMtcHJldmlldy1oZWFsdGh5LWdlb3JnaWEtY2Fycm9sbC1qdXN0LXBlYWNoeS1mb3ItbWlkZGxlYnVyedIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 25 May 2018 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnVzYWxheG1hZ2F6aW5lLmNvbS9jb2xsZWdlL3dvbWVuL2RpdmlzaW9uLWlpaS13b21lbnMtcHJldmlldy1oZWFsdGh5LWdlb3JnaWEtY2Fycm9sbC1qdXN0LXBlYWNoeS1mb3ItbWlkZGxlYnVyedIBAA?oc=5\" target=\"_blank\">Division III Women's Preview: Healthy Georgia Carroll Just Peachy for Middlebury</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Lacrosse Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "USA Lacrosse Magazine",
+                "$": {
+                  "url": "https://www.usalaxmagazine.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Georgia's Eric Nam, K-Pop star wins TIME100 Impact Award | 11alive.com - 11Alive.com WXIA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvY29tbXVuaXR5L3ZvaWNlcy1mb3ItZXF1YWxpdHkvZXJpYy1uYW0tdGltZTEwMC1pbXBhY3QtYXdhcmQvODUtZGViODk2NTAtMzZmMS00M2U2LTljNTUtMTY3YWI5MThjZTA40gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvY29tbXVuaXR5L3ZvaWNlcy1mb3ItZXF1YWxpdHkvZXJpYy1uYW0tdGltZTEwMC1pbXBhY3QtYXdhcmQvODUtZGViODk2NTAtMzZmMS00M2U2LTljNTUtMTY3YWI5MThjZTA40gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 21 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy4xMWFsaXZlLmNvbS9hcnRpY2xlL25ld3MvY29tbXVuaXR5L3ZvaWNlcy1mb3ItZXF1YWxpdHkvZXJpYy1uYW0tdGltZTEwMC1pbXBhY3QtYXdhcmQvODUtZGViODk2NTAtMzZmMS00M2U2LTljNTUtMTY3YWI5MThjZTA40gEA?oc=5\" target=\"_blank\">Georgia's Eric Nam, K-Pop star wins TIME100 Impact Award | 11alive.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com WXIA</font>"
+            ],
+            "source": [
+              {
+                "_": "11Alive.com WXIA",
+                "$": {
+                  "url": "https://www.11alive.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Transparency International : Events in Georgia are a cause for concern. Attempts to discredit civil society, and other ... - ინტერპრესნიუსი"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMi5AFodHRwczovL3d3dy5pbnRlcnByZXNzbmV3cy5nZS9lbi9hcnRpY2xlLzEwNDgxNi10cmFuc3BhcmVuY3ktaW50ZXJuYXRpb25hbC1ldmVudHMtaW4tZ2VvcmdpYS1hcmUtYS1jYXVzZS1mb3ItY29uY2Vybi1hdHRlbXB0cy10by1kaXNjcmVkaXQtY2l2aWwtc29jaWV0eS1hbmQtb3RoZXItY3JpdGljYWwtdm9pY2VzLXVuZGVybWluZS10aGUtZm91bmRhdGlvbnMtb2YtYS1oZWFsdGh5LWRlbW9jcmFjeS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMi5AFodHRwczovL3d3dy5pbnRlcnByZXNzbmV3cy5nZS9lbi9hcnRpY2xlLzEwNDgxNi10cmFuc3BhcmVuY3ktaW50ZXJuYXRpb25hbC1ldmVudHMtaW4tZ2VvcmdpYS1hcmUtYS1jYXVzZS1mb3ItY29uY2Vybi1hdHRlbXB0cy10by1kaXNjcmVkaXQtY2l2aWwtc29jaWV0eS1hbmQtb3RoZXItY3JpdGljYWwtdm9pY2VzLXVuZGVybWluZS10aGUtZm91bmRhdGlvbnMtb2YtYS1oZWFsdGh5LWRlbW9jcmFjeS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sat, 30 Nov 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMi5AFodHRwczovL3d3dy5pbnRlcnByZXNzbmV3cy5nZS9lbi9hcnRpY2xlLzEwNDgxNi10cmFuc3BhcmVuY3ktaW50ZXJuYXRpb25hbC1ldmVudHMtaW4tZ2VvcmdpYS1hcmUtYS1jYXVzZS1mb3ItY29uY2Vybi1hdHRlbXB0cy10by1kaXNjcmVkaXQtY2l2aWwtc29jaWV0eS1hbmQtb3RoZXItY3JpdGljYWwtdm9pY2VzLXVuZGVybWluZS10aGUtZm91bmRhdGlvbnMtb2YtYS1oZWFsdGh5LWRlbW9jcmFjeS_SAQA?oc=5\" target=\"_blank\">Transparency International : Events in Georgia are a cause for concern. Attempts to discredit civil society, and other ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ინტერპრესნიუსი</font>"
+            ],
+            "source": [
+              {
+                "_": "ინტერპრესნიუსი",
+                "$": {
+                  "url": "https://www.interpressnews.ge"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gay, bisexual health front and center at MSM Symposium - Georgia Voice"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL2dheS1iaXNleHVhbC1oZWFsdGgtZnJvbnQtYW5kLWNlbnRlci1hdC1tc20tc3ltcG9zaXVtL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL2dheS1iaXNleHVhbC1oZWFsdGgtZnJvbnQtYW5kLWNlbnRlci1hdC1tc20tc3ltcG9zaXVtL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Oct 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL2dheS1iaXNleHVhbC1oZWFsdGgtZnJvbnQtYW5kLWNlbnRlci1hdC1tc20tc3ltcG9zaXVtL9IBAA?oc=5\" target=\"_blank\">Gay, bisexual health front and center at MSM Symposium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
+            ],
+            "source": [
+              {
+                "_": "Georgia Voice",
+                "$": {
+                  "url": "https://thegavoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Island Voices: Flaws in herring management undermine Salish Sea's health - Times Colonist"
             ],
             "link": [
@@ -2127,36 +2127,6 @@
                 "_": "Times Colonist",
                 "$": {
                   "url": "https://www.timescolonist.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "After miscarrying in a Georgia detention center, Pamela Winn became a powerful voice for women in prison—and for ... - Atlanta Magazine"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMixgFodHRwczovL3d3dy5hdGxhbnRhbWFnYXppbmUuY29tL25ld3MtY3VsdHVyZS1hcnRpY2xlcy9hZnRlci1taXNjYXJyeWluZy1pbi1hLWdlb3JnaWEtZGV0ZW50aW9uLWNlbnRlci1wYW1lbGEtd2lubi1iZWNhbWUtYS1wb3dlcmZ1bC12b2ljZS1mb3Itd29tZW4taW4tcHJpc29uLWFuZC1mb3ItdGhvc2UtdHJ5aW5nLXRvLWxlYXZlLWl0LWJlaGluZC_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMixgFodHRwczovL3d3dy5hdGxhbnRhbWFnYXppbmUuY29tL25ld3MtY3VsdHVyZS1hcnRpY2xlcy9hZnRlci1taXNjYXJyeWluZy1pbi1hLWdlb3JnaWEtZGV0ZW50aW9uLWNlbnRlci1wYW1lbGEtd2lubi1iZWNhbWUtYS1wb3dlcmZ1bC12b2ljZS1mb3Itd29tZW4taW4tcHJpc29uLWFuZC1mb3ItdGhvc2UtdHJ5aW5nLXRvLWxlYXZlLWl0LWJlaGluZC_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 11 Feb 2022 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMixgFodHRwczovL3d3dy5hdGxhbnRhbWFnYXppbmUuY29tL25ld3MtY3VsdHVyZS1hcnRpY2xlcy9hZnRlci1taXNjYXJyeWluZy1pbi1hLWdlb3JnaWEtZGV0ZW50aW9uLWNlbnRlci1wYW1lbGEtd2lubi1iZWNhbWUtYS1wb3dlcmZ1bC12b2ljZS1mb3Itd29tZW4taW4tcHJpc29uLWFuZC1mb3ItdGhvc2UtdHJ5aW5nLXRvLWxlYXZlLWl0LWJlaGluZC_SAQA?oc=5\" target=\"_blank\">After miscarrying in a Georgia detention center, Pamela Winn became a powerful voice for women in prison—and for ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta Magazine</font>"
-            ],
-            "source": [
-              {
-                "_": "Atlanta Magazine",
-                "$": {
-                  "url": "https://www.atlantamagazine.com"
                 }
               }
             ]
@@ -2223,60 +2193,30 @@
           },
           {
             "title": [
-              "Pride Medical marks 20th birthday with an eye on future - Georgia Voice"
+              "After miscarrying in a Georgia detention center, Pamela Winn became a powerful voice for women in prison—and for ... - Atlanta Magazine"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL3ByaWRlLW1lZGljYWwtbWFya3MtMjB0aC1iaXJ0aGRheS1leWUtZnV0dXJlL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMixgFodHRwczovL3d3dy5hdGxhbnRhbWFnYXppbmUuY29tL25ld3MtY3VsdHVyZS1hcnRpY2xlcy9hZnRlci1taXNjYXJyeWluZy1pbi1hLWdlb3JnaWEtZGV0ZW50aW9uLWNlbnRlci1wYW1lbGEtd2lubi1iZWNhbWUtYS1wb3dlcmZ1bC12b2ljZS1mb3Itd29tZW4taW4tcHJpc29uLWFuZC1mb3ItdGhvc2UtdHJ5aW5nLXRvLWxlYXZlLWl0LWJlaGluZC_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiS2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL3ByaWRlLW1lZGljYWwtbWFya3MtMjB0aC1iaXJ0aGRheS1leWUtZnV0dXJlL9IBAA",
+                "_": "CBMixgFodHRwczovL3d3dy5hdGxhbnRhbWFnYXppbmUuY29tL25ld3MtY3VsdHVyZS1hcnRpY2xlcy9hZnRlci1taXNjYXJyeWluZy1pbi1hLWdlb3JnaWEtZGV0ZW50aW9uLWNlbnRlci1wYW1lbGEtd2lubi1iZWNhbWUtYS1wb3dlcmZ1bC12b2ljZS1mb3Itd29tZW4taW4tcHJpc29uLWFuZC1mb3ItdGhvc2UtdHJ5aW5nLXRvLWxlYXZlLWl0LWJlaGluZC_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 12 Jan 2015 08:00:00 GMT"
+              "Fri, 11 Feb 2022 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL3ByaWRlLW1lZGljYWwtbWFya3MtMjB0aC1iaXJ0aGRheS1leWUtZnV0dXJlL9IBAA?oc=5\" target=\"_blank\">Pride Medical marks 20th birthday with an eye on future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMixgFodHRwczovL3d3dy5hdGxhbnRhbWFnYXppbmUuY29tL25ld3MtY3VsdHVyZS1hcnRpY2xlcy9hZnRlci1taXNjYXJyeWluZy1pbi1hLWdlb3JnaWEtZGV0ZW50aW9uLWNlbnRlci1wYW1lbGEtd2lubi1iZWNhbWUtYS1wb3dlcmZ1bC12b2ljZS1mb3Itd29tZW4taW4tcHJpc29uLWFuZC1mb3ItdGhvc2UtdHJ5aW5nLXRvLWxlYXZlLWl0LWJlaGluZC_SAQA?oc=5\" target=\"_blank\">After miscarrying in a Georgia detention center, Pamela Winn became a powerful voice for women in prison—and for ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta Magazine</font>"
             ],
             "source": [
               {
-                "_": "Georgia Voice",
+                "_": "Atlanta Magazine",
                 "$": {
-                  "url": "https://thegavoice.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Atlanta abounds with LGBT-friendly all-natural pet food alternatives - Georgia Voice"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL2F0bGFudGEtYWJvdW5kcy13aXRoLWxnYnQtZnJpZW5kbHktYWxsLW5hdHVyYWwtcGV0LWZvb2QtYWx0ZXJuYXRpdmVzL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiY2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL2F0bGFudGEtYWJvdW5kcy13aXRoLWxnYnQtZnJpZW5kbHktYWxsLW5hdHVyYWwtcGV0LWZvb2QtYWx0ZXJuYXRpdmVzL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 17 Jul 2015 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL2F0bGFudGEtYWJvdW5kcy13aXRoLWxnYnQtZnJpZW5kbHktYWxsLW5hdHVyYWwtcGV0LWZvb2QtYWx0ZXJuYXRpdmVzL9IBAA?oc=5\" target=\"_blank\">Atlanta abounds with LGBT-friendly all-natural pet food alternatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
-            ],
-            "source": [
-              {
-                "_": "Georgia Voice",
-                "$": {
-                  "url": "https://thegavoice.com"
+                  "url": "https://www.atlantamagazine.com"
                 }
               }
             ]
@@ -2313,6 +2253,36 @@
           },
           {
             "title": [
+              "Health & Fitness: Reader success stories – Georgia Voice – Gay & LGBT Atlanta News - Georgia Voice"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL2hlYWx0aC1hLWZpdG5lc3MtcmVhZGVyLXN1Y2Nlc3Mtc3Rvcmllcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRmh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL2hlYWx0aC1hLWZpdG5lc3MtcmVhZGVyLXN1Y2Nlc3Mtc3Rvcmllcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 21 Jan 2011 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vaGVhbHRoL2hlYWx0aC1hLWZpdG5lc3MtcmVhZGVyLXN1Y2Nlc3Mtc3Rvcmllcy_SAQA?oc=5\" target=\"_blank\">Health & Fitness: Reader success stories – Georgia Voice – Gay & LGBT Atlanta News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
+            ],
+            "source": [
+              {
+                "_": "Georgia Voice",
+                "$": {
+                  "url": "https://thegavoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "New Atlanta transgender organization emerges after Southern Comfort departure - Georgia Voice"
             ],
             "link": [
@@ -2331,6 +2301,36 @@
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9nZW9yZ2lhL25ldy1hdGxhbnRhLXRyYW5zZ2VuZGVyLW9yZ2FuaXphdGlvbi1lbWVyZ2VzLWZyb20tYXNoZXMtb2Ytc291dGhlcm4tY29tZm9ydC_SAQA?oc=5\" target=\"_blank\">New Atlanta transgender organization emerges after Southern Comfort departure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
+            ],
+            "source": [
+              {
+                "_": "Georgia Voice",
+                "$": {
+                  "url": "https://thegavoice.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Gay and Latino in Georgia – Georgia Voice – Gay & LGBT Atlanta News - Georgia Voice"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9nZW9yZ2lhL2dheS1hbmQtbGF0aW5vLWluLWdhL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiOWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9nZW9yZ2lhL2dheS1hbmQtbGF0aW5vLWluLWdhL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Jun 2011 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vdGhlZ2F2b2ljZS5jb20vbmV3cy9nZW9yZ2lhL2dheS1hbmQtbGF0aW5vLWluLWdhL9IBAA?oc=5\" target=\"_blank\">Gay and Latino in Georgia – Georgia Voice – Gay & LGBT Atlanta News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Voice</font>"
             ],
             "source": [
               {

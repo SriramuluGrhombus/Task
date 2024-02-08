@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:41 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -2703,36 +2703,6 @@
           },
           {
             "title": [
-              "Albuterol/Budesonide Fixed-Dose Combo Rescue Inhaler to Get FDA Review - Monthly Prescribing Reference"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmVtcHIuY29tL2hvbWUvbmV3cy9kcnVncy1pbi10aGUtcGlwZWxpbmUvYWxidXRlcm9sLWJ1ZGVzb25pZGUtZml4ZWQtZG9zZS1jb21iby1yZXNjdWUtaW5oYWxlci10by1nZXQtZmRhLXJldmlldy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifGh0dHBzOi8vd3d3LmVtcHIuY29tL2hvbWUvbmV3cy9kcnVncy1pbi10aGUtcGlwZWxpbmUvYWxidXRlcm9sLWJ1ZGVzb25pZGUtZml4ZWQtZG9zZS1jb21iby1yZXNjdWUtaW5oYWxlci10by1nZXQtZmRhLXJldmlldy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 31 May 2022 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmVtcHIuY29tL2hvbWUvbmV3cy9kcnVncy1pbi10aGUtcGlwZWxpbmUvYWxidXRlcm9sLWJ1ZGVzb25pZGUtZml4ZWQtZG9zZS1jb21iby1yZXNjdWUtaW5oYWxlci10by1nZXQtZmRhLXJldmlldy_SAQA?oc=5\" target=\"_blank\">Albuterol/Budesonide Fixed-Dose Combo Rescue Inhaler to Get FDA Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Monthly Prescribing Reference</font>"
-            ],
-            "source": [
-              {
-                "_": "Monthly Prescribing Reference",
-                "$": {
-                  "url": "https://www.empr.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Genomic Analysis Reveals Why Asthma Inhalers Fail Minority Children - UC San Francisco"
             ],
             "link": [
@@ -2757,6 +2727,36 @@
                 "_": "UC San Francisco",
                 "$": {
                   "url": "https://www.ucsf.edu"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Albuterol/Budesonide Fixed-Dose Combo Rescue Inhaler to Get FDA Review - Monthly Prescribing Reference"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmVtcHIuY29tL2hvbWUvbmV3cy9kcnVncy1pbi10aGUtcGlwZWxpbmUvYWxidXRlcm9sLWJ1ZGVzb25pZGUtZml4ZWQtZG9zZS1jb21iby1yZXNjdWUtaW5oYWxlci10by1nZXQtZmRhLXJldmlldy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3LmVtcHIuY29tL2hvbWUvbmV3cy9kcnVncy1pbi10aGUtcGlwZWxpbmUvYWxidXRlcm9sLWJ1ZGVzb25pZGUtZml4ZWQtZG9zZS1jb21iby1yZXNjdWUtaW5oYWxlci10by1nZXQtZmRhLXJldmlldy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 31 May 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmVtcHIuY29tL2hvbWUvbmV3cy9kcnVncy1pbi10aGUtcGlwZWxpbmUvYWxidXRlcm9sLWJ1ZGVzb25pZGUtZml4ZWQtZG9zZS1jb21iby1yZXNjdWUtaW5oYWxlci10by1nZXQtZmRhLXJldmlldy_SAQA?oc=5\" target=\"_blank\">Albuterol/Budesonide Fixed-Dose Combo Rescue Inhaler to Get FDA Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Monthly Prescribing Reference</font>"
+            ],
+            "source": [
+              {
+                "_": "Monthly Prescribing Reference",
+                "$": {
+                  "url": "https://www.empr.com"
                 }
               }
             ]

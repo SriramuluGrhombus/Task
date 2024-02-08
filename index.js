@@ -1,6 +1,19 @@
 import axios from 'axios';
 import { parseString } from 'xml2js';
 import fs from 'fs';
+import http from 'http';
+
+/*const server = http.createServer((req, res) => {
+  JSON.parse(queryTerms).forEach(fetchDataForTerm);
+  res.writeHead(200, { 'Content-Type': 'text/plain' });
+  res.end('Hello, this is your server responding!');
+});
+
+const port = 3000;
+
+server.listen(port, () => {
+  console.log(`Server is running on http://localhost:${port}`);
+});*/
 
 const outputDirectory = 'output';
 const queryTermsFilePath = 'terms.js';
@@ -34,3 +47,7 @@ const fetchDataForTerm = async (term) => {
 };
 
 JSON.parse(queryTerms).forEach(fetchDataForTerm);
+
+
+
+

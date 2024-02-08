@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -123,6 +123,36 @@
           },
           {
             "title": [
+              "New research links the habit of nose picking to Alzheimer's disease - MSN"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4taW4vaGVhbHRoL290aGVyL25ldy1yZXNlYXJjaC1saW5rcy10aGUtaGFiaXQtb2Ytbm9zZS1waWNraW5nLXRvLWFsemhlaW1lci1zLWRpc2Vhc2UvYXItQkIxaFR6OXLSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4taW4vaGVhbHRoL290aGVyL25ldy1yZXNlYXJjaC1saW5rcy10aGUtaGFiaXQtb2Ytbm9zZS1waWNraW5nLXRvLWFsemhlaW1lci1zLWRpc2Vhc2UvYXItQkIxaFR6OXLSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 07:17:56 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4taW4vaGVhbHRoL290aGVyL25ldy1yZXNlYXJjaC1saW5rcy10aGUtaGFiaXQtb2Ytbm9zZS1waWNraW5nLXRvLWFsemhlaW1lci1zLWRpc2Vhc2UvYXItQkIxaFR6OXLSAQA?oc=5\" target=\"_blank\">New research links the habit of nose picking to Alzheimer's disease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>"
+            ],
+            "source": [
+              {
+                "_": "MSN",
+                "$": {
+                  "url": "https://www.msn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "COVID-19 set back Alzheimer's disease research - AuntMinnie"
             ],
             "link": [
@@ -183,36 +213,6 @@
           },
           {
             "title": [
-              "Cadaveric pituitary-derived growth hormone delivery influences iatrogenic Alzheimer's Disease - News-Medical.Net"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5uZXdzLW1lZGljYWwubmV0L25ld3MvMjAyNDAxMzEvQ2FkYXZlcmljLXBpdHVpdGFyeS1kZXJpdmVkLWdyb3d0aC1ob3Jtb25lLWRlbGl2ZXJ5LWluZmx1ZW5jZXMtaWF0cm9nZW5pYy1BbHpoZWltZXJlMjgwOTlzLURpc2Vhc2UuYXNweNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMikgFodHRwczovL3d3dy5uZXdzLW1lZGljYWwubmV0L25ld3MvMjAyNDAxMzEvQ2FkYXZlcmljLXBpdHVpdGFyeS1kZXJpdmVkLWdyb3d0aC1ob3Jtb25lLWRlbGl2ZXJ5LWluZmx1ZW5jZXMtaWF0cm9nZW5pYy1BbHpoZWltZXJlMjgwOTlzLURpc2Vhc2UuYXNweNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 09:44:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5uZXdzLW1lZGljYWwubmV0L25ld3MvMjAyNDAxMzEvQ2FkYXZlcmljLXBpdHVpdGFyeS1kZXJpdmVkLWdyb3d0aC1ob3Jtb25lLWRlbGl2ZXJ5LWluZmx1ZW5jZXMtaWF0cm9nZW5pYy1BbHpoZWltZXJlMjgwOTlzLURpc2Vhc2UuYXNweNIBAA?oc=5\" target=\"_blank\">Cadaveric pituitary-derived growth hormone delivery influences iatrogenic Alzheimer's Disease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Medical.Net</font>"
-            ],
-            "source": [
-              {
-                "_": "News-Medical.Net",
-                "$": {
-                  "url": "https://www.news-medical.net"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Kerala University to create awareness on Alzheimer’s disease among youngsters - The Hindu"
             ],
             "link": [
@@ -267,6 +267,36 @@
                 "_": "Medical News Today",
                 "$": {
                   "url": "https://www.medicalnewstoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Cadaveric pituitary-derived growth hormone delivery influences iatrogenic Alzheimer's Disease - News-Medical.Net"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5uZXdzLW1lZGljYWwubmV0L25ld3MvMjAyNDAxMzEvQ2FkYXZlcmljLXBpdHVpdGFyeS1kZXJpdmVkLWdyb3d0aC1ob3Jtb25lLWRlbGl2ZXJ5LWluZmx1ZW5jZXMtaWF0cm9nZW5pYy1BbHpoZWltZXJlMjgwOTlzLURpc2Vhc2UuYXNweNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikgFodHRwczovL3d3dy5uZXdzLW1lZGljYWwubmV0L25ld3MvMjAyNDAxMzEvQ2FkYXZlcmljLXBpdHVpdGFyeS1kZXJpdmVkLWdyb3d0aC1ob3Jtb25lLWRlbGl2ZXJ5LWluZmx1ZW5jZXMtaWF0cm9nZW5pYy1BbHpoZWltZXJlMjgwOTlzLURpc2Vhc2UuYXNweNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 09:44:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5uZXdzLW1lZGljYWwubmV0L25ld3MvMjAyNDAxMzEvQ2FkYXZlcmljLXBpdHVpdGFyeS1kZXJpdmVkLWdyb3d0aC1ob3Jtb25lLWRlbGl2ZXJ5LWluZmx1ZW5jZXMtaWF0cm9nZW5pYy1BbHpoZWltZXJlMjgwOTlzLURpc2Vhc2UuYXNweNIBAA?oc=5\" target=\"_blank\">Cadaveric pituitary-derived growth hormone delivery influences iatrogenic Alzheimer's Disease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Medical.Net</font>"
+            ],
+            "source": [
+              {
+                "_": "News-Medical.Net",
+                "$": {
+                  "url": "https://www.news-medical.net"
                 }
               }
             ]
@@ -783,36 +813,6 @@
           },
           {
             "title": [
-              "Alzheimer's disease found to be transmitted through medical procedures decades ago, study finds - Fox News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2hlYWx0aC9hbHpoZWltZXJzLWRpc2Vhc2UtZm91bmQtdHJhbnNtaXR0ZWQtbWVkaWNhbC1wcm9jZWR1cmVzLWRlY2FkZXMtYWdvLXN0dWR5LWZpbmRz0gFyaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vaGVhbHRoL2FsemhlaW1lcnMtZGlzZWFzZS1mb3VuZC10cmFuc21pdHRlZC1tZWRpY2FsLXByb2NlZHVyZXMtZGVjYWRlcy1hZ28tc3R1ZHktZmluZHMuYW1w?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMibmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2hlYWx0aC9hbHpoZWltZXJzLWRpc2Vhc2UtZm91bmQtdHJhbnNtaXR0ZWQtbWVkaWNhbC1wcm9jZWR1cmVzLWRlY2FkZXMtYWdvLXN0dWR5LWZpbmRz0gFyaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vaGVhbHRoL2FsemhlaW1lcnMtZGlzZWFzZS1mb3VuZC10cmFuc21pdHRlZC1tZWRpY2FsLXByb2NlZHVyZXMtZGVjYWRlcy1hZ28tc3R1ZHktZmluZHMuYW1w",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Feb 2024 10:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2hlYWx0aC9hbHpoZWltZXJzLWRpc2Vhc2UtZm91bmQtdHJhbnNtaXR0ZWQtbWVkaWNhbC1wcm9jZWR1cmVzLWRlY2FkZXMtYWdvLXN0dWR5LWZpbmRz0gFyaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vaGVhbHRoL2FsemhlaW1lcnMtZGlzZWFzZS1mb3VuZC10cmFuc21pdHRlZC1tZWRpY2FsLXByb2NlZHVyZXMtZGVjYWRlcy1hZ28tc3R1ZHktZmluZHMuYW1w?oc=5\" target=\"_blank\">Alzheimer's disease found to be transmitted through medical procedures decades ago, study finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
-            ],
-            "source": [
-              {
-                "_": "Fox News",
-                "$": {
-                  "url": "https://www.foxnews.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Female sex hormones play significant role in Alzheimer's disease - News-Medical.Net"
             ],
             "link": [
@@ -837,6 +837,36 @@
                 "_": "News-Medical.Net",
                 "$": {
                   "url": "https://www.news-medical.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alzheimer's disease found to be transmitted through medical procedures decades ago, study finds - Fox News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2hlYWx0aC9hbHpoZWltZXJzLWRpc2Vhc2UtZm91bmQtdHJhbnNtaXR0ZWQtbWVkaWNhbC1wcm9jZWR1cmVzLWRlY2FkZXMtYWdvLXN0dWR5LWZpbmRz0gFyaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vaGVhbHRoL2FsemhlaW1lcnMtZGlzZWFzZS1mb3VuZC10cmFuc21pdHRlZC1tZWRpY2FsLXByb2NlZHVyZXMtZGVjYWRlcy1hZ28tc3R1ZHktZmluZHMuYW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2hlYWx0aC9hbHpoZWltZXJzLWRpc2Vhc2UtZm91bmQtdHJhbnNtaXR0ZWQtbWVkaWNhbC1wcm9jZWR1cmVzLWRlY2FkZXMtYWdvLXN0dWR5LWZpbmRz0gFyaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vaGVhbHRoL2FsemhlaW1lcnMtZGlzZWFzZS1mb3VuZC10cmFuc21pdHRlZC1tZWRpY2FsLXByb2NlZHVyZXMtZGVjYWRlcy1hZ28tc3R1ZHktZmluZHMuYW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 10:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2hlYWx0aC9hbHpoZWltZXJzLWRpc2Vhc2UtZm91bmQtdHJhbnNtaXR0ZWQtbWVkaWNhbC1wcm9jZWR1cmVzLWRlY2FkZXMtYWdvLXN0dWR5LWZpbmRz0gFyaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vaGVhbHRoL2FsemhlaW1lcnMtZGlzZWFzZS1mb3VuZC10cmFuc21pdHRlZC1tZWRpY2FsLXByb2NlZHVyZXMtZGVjYWRlcy1hZ28tc3R1ZHktZmluZHMuYW1w?oc=5\" target=\"_blank\">Alzheimer's disease found to be transmitted through medical procedures decades ago, study finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox News",
+                "$": {
+                  "url": "https://www.foxnews.com"
                 }
               }
             ]
@@ -993,36 +1023,6 @@
           },
           {
             "title": [
-              "Dementia - World Health Organization (WHO)"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lndoby5pbnQvbmV3cy1yb29tL2ZhY3Qtc2hlZXRzL2RldGFpbC9kZW1lbnRpYdIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiOWh0dHBzOi8vd3d3Lndoby5pbnQvbmV3cy1yb29tL2ZhY3Qtc2hlZXRzL2RldGFpbC9kZW1lbnRpYdIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 15 Mar 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lndoby5pbnQvbmV3cy1yb29tL2ZhY3Qtc2hlZXRzL2RldGFpbC9kZW1lbnRpYdIBAA?oc=5\" target=\"_blank\">Dementia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Health Organization (WHO)</font>"
-            ],
-            "source": [
-              {
-                "_": "World Health Organization (WHO)",
-                "$": {
-                  "url": "https://www.who.int"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "ALZHEIMER'S ASSOCIATION WELCOMES U.S. FDA TRADITIONAL APPROVAL OF LEQEMBI - PR Newswire"
             ],
             "link": [
@@ -1053,30 +1053,30 @@
           },
           {
             "title": [
-              "Alzheimer's Association Support Group | Fairport Library | Meetings - CITY Magazine. Arts. Music. Culture."
+              "Dementia - World Health Organization (WHO)"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnJvY2NpdHltYWcuY29tL3JvY2hlc3Rlci9hbHpoZWltZXJzLWFzc29jaWF0aW9uLXN1cHBvcnQtZ3JvdXAvRXZlbnQ_b2lkPTE3MTYzNDE10gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lndoby5pbnQvbmV3cy1yb29tL2ZhY3Qtc2hlZXRzL2RldGFpbC9kZW1lbnRpYdIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiXGh0dHBzOi8vd3d3LnJvY2NpdHltYWcuY29tL3JvY2hlc3Rlci9hbHpoZWltZXJzLWFzc29jaWF0aW9uLXN1cHBvcnQtZ3JvdXAvRXZlbnQ_b2lkPTE3MTYzNDE10gEA",
+                "_": "CBMiOWh0dHBzOi8vd3d3Lndoby5pbnQvbmV3cy1yb29tL2ZhY3Qtc2hlZXRzL2RldGFpbC9kZW1lbnRpYdIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 06 Feb 2024 17:24:22 GMT"
+              "Wed, 15 Mar 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnJvY2NpdHltYWcuY29tL3JvY2hlc3Rlci9hbHpoZWltZXJzLWFzc29jaWF0aW9uLXN1cHBvcnQtZ3JvdXAvRXZlbnQ_b2lkPTE3MTYzNDE10gEA?oc=5\" target=\"_blank\">Alzheimer's Association Support Group | Fairport Library | Meetings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CITY Magazine. Arts. Music. Culture.</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lndoby5pbnQvbmV3cy1yb29tL2ZhY3Qtc2hlZXRzL2RldGFpbC9kZW1lbnRpYdIBAA?oc=5\" target=\"_blank\">Dementia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Health Organization (WHO)</font>"
             ],
             "source": [
               {
-                "_": "CITY Magazine. Arts. Music. Culture.",
+                "_": "World Health Organization (WHO)",
                 "$": {
-                  "url": "https://www.roccitymag.com"
+                  "url": "https://www.who.int"
                 }
               }
             ]
@@ -1143,30 +1143,30 @@
           },
           {
             "title": [
-              "New cancer-like rating system introduced for Alzheimer's diagnosis - ETHealthWorld"
+              "Alzheimer's Association Support Group | Fairport Library | Meetings - CITY Magazine. Arts. Music. Culture."
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx0gGMAWh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vYW1wL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx?oc=5"
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnJvY2NpdHltYWcuY29tL3JvY2hlc3Rlci9hbHpoZWltZXJzLWFzc29jaWF0aW9uLXN1cHBvcnQtZ3JvdXAvRXZlbnQ_b2lkPTE3MTYzNDE10gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiiAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx0gGMAWh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vYW1wL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx",
+                "_": "CBMiXGh0dHBzOi8vd3d3LnJvY2NpdHltYWcuY29tL3JvY2hlc3Rlci9hbHpoZWltZXJzLWFzc29jaWF0aW9uLXN1cHBvcnQtZ3JvdXAvRXZlbnQ_b2lkPTE3MTYzNDE10gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 17 Jul 2023 07:00:00 GMT"
+              "Tue, 06 Feb 2024 17:24:22 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx0gGMAWh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vYW1wL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx?oc=5\" target=\"_blank\">New cancer-like rating system introduced for Alzheimer's diagnosis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETHealthWorld</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnJvY2NpdHltYWcuY29tL3JvY2hlc3Rlci9hbHpoZWltZXJzLWFzc29jaWF0aW9uLXN1cHBvcnQtZ3JvdXAvRXZlbnQ_b2lkPTE3MTYzNDE10gEA?oc=5\" target=\"_blank\">Alzheimer's Association Support Group | Fairport Library | Meetings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CITY Magazine. Arts. Music. Culture.</font>"
             ],
             "source": [
               {
-                "_": "ETHealthWorld",
+                "_": "CITY Magazine. Arts. Music. Culture.",
                 "$": {
-                  "url": "https://health.economictimes.indiatimes.com"
+                  "url": "https://www.roccitymag.com"
                 }
               }
             ]
@@ -1197,6 +1197,36 @@
                 "_": "Penn Medicine",
                 "$": {
                   "url": "https://www.pennmedicine.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New cancer-like rating system introduced for Alzheimer's diagnosis - ETHealthWorld"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx0gGMAWh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vYW1wL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx0gGMAWh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vYW1wL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 17 Jul 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx0gGMAWh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vYW1wL25ld3MvZGlhZ25vc3RpY3MvbmV3LWNhbmNlci1saWtlLXJhdGluZy1zeXN0ZW0taW50cm9kdWNlZC1mb3ItYWx6aGVpbWVycy1kaWFnbm9zaXMvMTAxODE0Njkx?oc=5\" target=\"_blank\">New cancer-like rating system introduced for Alzheimer's diagnosis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETHealthWorld</font>"
+            ],
+            "source": [
+              {
+                "_": "ETHealthWorld",
+                "$": {
+                  "url": "https://health.economictimes.indiatimes.com"
                 }
               }
             ]
@@ -1563,6 +1593,36 @@
           },
           {
             "title": [
+              "Sisters raising money for Alzheimer's Foundation after grandmother's diagnosis - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmNic25ld3MuY29tL3NhbmZyYW5jaXNjby9uZXdzL3Npc3RlcnMtcmFpc2luZy1tb25leS1mb3ItYWx6aGVpbWVycy1mb3VuZGF0aW9uLWFmdGVyLWdyYW5kbW90aGVycy1kaWFnbm9zaXMv0gF7aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL3NhbmZyYW5jaXNjby9uZXdzL3Npc3RlcnMtcmFpc2luZy1tb25leS1mb3ItYWx6aGVpbWVycy1mb3VuZGF0aW9uLWFmdGVyLWdyYW5kbW90aGVycy1kaWFnbm9zaXMv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LmNic25ld3MuY29tL3NhbmZyYW5jaXNjby9uZXdzL3Npc3RlcnMtcmFpc2luZy1tb25leS1mb3ItYWx6aGVpbWVycy1mb3VuZGF0aW9uLWFmdGVyLWdyYW5kbW90aGVycy1kaWFnbm9zaXMv0gF7aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL3NhbmZyYW5jaXNjby9uZXdzL3Npc3RlcnMtcmFpc2luZy1tb25leS1mb3ItYWx6aGVpbWVycy1mb3VuZGF0aW9uLWFmdGVyLWdyYW5kbW90aGVycy1kaWFnbm9zaXMv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 22:12:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmNic25ld3MuY29tL3NhbmZyYW5jaXNjby9uZXdzL3Npc3RlcnMtcmFpc2luZy1tb25leS1mb3ItYWx6aGVpbWVycy1mb3VuZGF0aW9uLWFmdGVyLWdyYW5kbW90aGVycy1kaWFnbm9zaXMv0gF7aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL3NhbmZyYW5jaXNjby9uZXdzL3Npc3RlcnMtcmFpc2luZy1tb25leS1mb3ItYWx6aGVpbWVycy1mb3VuZGF0aW9uLWFmdGVyLWdyYW5kbW90aGVycy1kaWFnbm9zaXMv?oc=5\" target=\"_blank\">Sisters raising money for Alzheimer's Foundation after grandmother's diagnosis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Alzheimer's disease: Could gut bacteria play a role? - Medical News Today"
             ],
             "link": [
@@ -1917,6 +1977,36 @@
                 "_": "News-Medical.Net",
                 "$": {
                   "url": "https://www.news-medical.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alzheimer's Association raises awareness at State House - FOX Bangor/ABC 7 News and Stories"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5mb3hiYW5nb3IuY29tL25ld3Mvc3RhdGUvYWx6aGVpbWVycy1hc3NvY2lhdGlvbi1yYWlzZXMtYXdhcmVuZXNzLWF0LXN0YXRlLWhvdXNlL2FydGljbGVfNDY2N2UwZGUtYzU0Ni0xMWVlLThkMTUtMjcwNzk4ZmIwOGNjLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijQFodHRwczovL3d3dy5mb3hiYW5nb3IuY29tL25ld3Mvc3RhdGUvYWx6aGVpbWVycy1hc3NvY2lhdGlvbi1yYWlzZXMtYXdhcmVuZXNzLWF0LXN0YXRlLWhvdXNlL2FydGljbGVfNDY2N2UwZGUtYzU0Ni0xMWVlLThkMTUtMjcwNzk4ZmIwOGNjLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:20:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5mb3hiYW5nb3IuY29tL25ld3Mvc3RhdGUvYWx6aGVpbWVycy1hc3NvY2lhdGlvbi1yYWlzZXMtYXdhcmVuZXNzLWF0LXN0YXRlLWhvdXNlL2FydGljbGVfNDY2N2UwZGUtYzU0Ni0xMWVlLThkMTUtMjcwNzk4ZmIwOGNjLmh0bWzSAQA?oc=5\" target=\"_blank\">Alzheimer's Association raises awareness at State House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Bangor/ABC 7 News and Stories</font>"
+            ],
+            "source": [
+              {
+                "_": "FOX Bangor/ABC 7 News and Stories",
+                "$": {
+                  "url": "https://www.foxbangor.com"
                 }
               }
             ]
@@ -2283,36 +2373,6 @@
           },
           {
             "title": [
-              "Alzheimer's Awareness Fundraiser At South Central February 9 | South Central Illinois' News, Sports and Weather Station - WJBD News - Salem, Illinois"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vc291dGhlcm5pbGxpbm9pc25vdy5jb20vMjAyNC8wMi8wMi9hbHpoZWltZXJzLWF3YXJlbmVzcy1mdW5kcmFpc2VyLWF0LXNvdXRoLWNlbnRyYWwtZmVicnVhcnktOS_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiZ2h0dHBzOi8vc291dGhlcm5pbGxpbm9pc25vdy5jb20vMjAyNC8wMi8wMi9hbHpoZWltZXJzLWF3YXJlbmVzcy1mdW5kcmFpc2VyLWF0LXNvdXRoLWNlbnRyYWwtZmVicnVhcnktOS_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 02 Feb 2024 17:21:35 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vc291dGhlcm5pbGxpbm9pc25vdy5jb20vMjAyNC8wMi8wMi9hbHpoZWltZXJzLWF3YXJlbmVzcy1mdW5kcmFpc2VyLWF0LXNvdXRoLWNlbnRyYWwtZmVicnVhcnktOS_SAQA?oc=5\" target=\"_blank\">Alzheimer's Awareness Fundraiser At South Central February 9 | South Central Illinois' News, Sports and Weather Station</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBD News - Salem, Illinois</font>"
-            ],
-            "source": [
-              {
-                "_": "WJBD News - Salem, Illinois",
-                "$": {
-                  "url": "https://southernillinoisnow.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Fast Five Quiz: Alzheimer's Disease Signs and Symptoms - Medscape Reference"
             ],
             "link": [
@@ -2337,6 +2397,36 @@
                 "_": "Medscape Reference",
                 "$": {
                   "url": "https://reference.medscape.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alzheimer's Awareness Fundraiser At South Central February 9 | South Central Illinois' News, Sports and Weather Station - WJBD News - Salem, Illinois"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vc291dGhlcm5pbGxpbm9pc25vdy5jb20vMjAyNC8wMi8wMi9hbHpoZWltZXJzLWF3YXJlbmVzcy1mdW5kcmFpc2VyLWF0LXNvdXRoLWNlbnRyYWwtZmVicnVhcnktOS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vc291dGhlcm5pbGxpbm9pc25vdy5jb20vMjAyNC8wMi8wMi9hbHpoZWltZXJzLWF3YXJlbmVzcy1mdW5kcmFpc2VyLWF0LXNvdXRoLWNlbnRyYWwtZmVicnVhcnktOS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 17:21:35 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vc291dGhlcm5pbGxpbm9pc25vdy5jb20vMjAyNC8wMi8wMi9hbHpoZWltZXJzLWF3YXJlbmVzcy1mdW5kcmFpc2VyLWF0LXNvdXRoLWNlbnRyYWwtZmVicnVhcnktOS_SAQA?oc=5\" target=\"_blank\">Alzheimer's Awareness Fundraiser At South Central February 9 | South Central Illinois' News, Sports and Weather Station</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBD News - Salem, Illinois</font>"
+            ],
+            "source": [
+              {
+                "_": "WJBD News - Salem, Illinois",
+                "$": {
+                  "url": "https://southernillinoisnow.com"
                 }
               }
             ]
@@ -2397,36 +2487,6 @@
                 "_": "News-Medical.Net",
                 "$": {
                   "url": "https://www.news-medical.net"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Biogen discontinues Alzheimer's medication Aduhelm - WDJT"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2Jpb2dlbi1kaXNjb250aW51ZXMtYWx6aGVpbWVyLXMtbWVkaWNhdGlvbi1hZHVoZWxt0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiTWh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2Jpb2dlbi1kaXNjb250aW51ZXMtYWx6aGVpbWVyLXMtbWVkaWNhdGlvbi1hZHVoZWxt0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 21:50:51 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2Jpb2dlbi1kaXNjb250aW51ZXMtYWx6aGVpbWVyLXMtbWVkaWNhdGlvbi1hZHVoZWxt0gEA?oc=5\" target=\"_blank\">Biogen discontinues Alzheimer's medication Aduhelm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDJT</font>"
-            ],
-            "source": [
-              {
-                "_": "WDJT",
-                "$": {
-                  "url": "https://www.cbs58.com"
                 }
               }
             ]
@@ -2523,6 +2583,36 @@
           },
           {
             "title": [
+              "Biogen Stops Selling Alzheimer's Drug Aduhelm - Managed Healthcare Executive"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1hbmFnZWRoZWFsdGhjYXJlZXhlY3V0aXZlLmNvbS92aWV3L2Jpb2dlbi1zdG9wcy1zZWxsaW5nLWFsemhlaW1lci1zLWRydWctYWR1aGVsbdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3Lm1hbmFnZWRoZWFsdGhjYXJlZXhlY3V0aXZlLmNvbS92aWV3L2Jpb2dlbi1zdG9wcy1zZWxsaW5nLWFsemhlaW1lci1zLWRydWctYWR1aGVsbdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 21:33:04 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1hbmFnZWRoZWFsdGhjYXJlZXhlY3V0aXZlLmNvbS92aWV3L2Jpb2dlbi1zdG9wcy1zZWxsaW5nLWFsemhlaW1lci1zLWRydWctYWR1aGVsbdIBAA?oc=5\" target=\"_blank\">Biogen Stops Selling Alzheimer's Drug Aduhelm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Managed Healthcare Executive</font>"
+            ],
+            "source": [
+              {
+                "_": "Managed Healthcare Executive",
+                "$": {
+                  "url": "https://www.managedhealthcareexecutive.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Alzheimer Disease Pipeline Update: Inside Look at Promising Agents - Neurology Live"
             ],
             "link": [
@@ -2577,6 +2667,36 @@
                 "_": "Times Now",
                 "$": {
                   "url": "https://www.timesnownews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Biogen discontinues Alzheimer's medication Aduhelm - WDJT"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2Jpb2dlbi1kaXNjb250aW51ZXMtYWx6aGVpbWVyLXMtbWVkaWNhdGlvbi1hZHVoZWxt0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTWh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2Jpb2dlbi1kaXNjb250aW51ZXMtYWx6aGVpbWVyLXMtbWVkaWNhdGlvbi1hZHVoZWxt0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 21:50:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2Jpb2dlbi1kaXNjb250aW51ZXMtYWx6aGVpbWVyLXMtbWVkaWNhdGlvbi1hZHVoZWxt0gEA?oc=5\" target=\"_blank\">Biogen discontinues Alzheimer's medication Aduhelm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDJT</font>"
+            ],
+            "source": [
+              {
+                "_": "WDJT",
+                "$": {
+                  "url": "https://www.cbs58.com"
                 }
               }
             ]
@@ -2673,36 +2793,6 @@
           },
           {
             "title": [
-              "Biogen Is Dropping Controversial Alzheimer's Drug Aduhelm - HealthDay"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhlYWx0aGRheS5jb20vaGVhbHRoLW5ld3MvbmV1cm9sb2d5L2Jpb2dlbi1pcy1kcm9wcGluZy1jb250cm92ZXJzaWFsLWFsemhlaW1lcnMtZHJ1Zy1hZHVoZWxt0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiaGh0dHBzOi8vd3d3LmhlYWx0aGRheS5jb20vaGVhbHRoLW5ld3MvbmV1cm9sb2d5L2Jpb2dlbi1pcy1kcm9wcGluZy1jb250cm92ZXJzaWFsLWFsemhlaW1lcnMtZHJ1Zy1hZHVoZWxt0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 17:41:18 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhlYWx0aGRheS5jb20vaGVhbHRoLW5ld3MvbmV1cm9sb2d5L2Jpb2dlbi1pcy1kcm9wcGluZy1jb250cm92ZXJzaWFsLWFsemhlaW1lcnMtZHJ1Zy1hZHVoZWxt0gEA?oc=5\" target=\"_blank\">Biogen Is Dropping Controversial Alzheimer's Drug Aduhelm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HealthDay</font>"
-            ],
-            "source": [
-              {
-                "_": "HealthDay",
-                "$": {
-                  "url": "https://www.healthday.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Blood biomarker shows 'great promise' predicting progression to Alzheimer's disease in at-risk population - Medical Xpress"
             ],
             "link": [
@@ -2793,36 +2883,6 @@
           },
           {
             "title": [
-              "National Alzheimer's research led by UW-Madison boosted by $150M grant - Wisconsin Public Radio"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy91dy1tYWRpc29uLWFsemhlaW1lcnMtcmVzZWFyY2gtMTUwbS1ncmFudNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiQmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy91dy1tYWRpc29uLWFsemhlaW1lcnMtcmVzZWFyY2gtMTUwbS1ncmFudNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Feb 2024 11:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy91dy1tYWRpc29uLWFsemhlaW1lcnMtcmVzZWFyY2gtMTUwbS1ncmFudNIBAA?oc=5\" target=\"_blank\">National Alzheimer's research led by UW-Madison boosted by $150M grant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Public Radio</font>"
-            ],
-            "source": [
-              {
-                "_": "Wisconsin Public Radio",
-                "$": {
-                  "url": "https://www.wpr.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Do stress and depression increase the risk of Alzheimer's disease? - Monash Lens"
             ],
             "link": [
@@ -2883,30 +2943,60 @@
           },
           {
             "title": [
-              "Cuyahoga County has highest Alzheimer’s rate in Ohio: Study - WJW FOX 8 News Cleveland"
+              "National Alzheimer's research led by UW-Madison boosted by $150M grant - Wisconsin Public Radio"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZm94OC5jb20vbmV3cy9jdXlhaG9nYS1jb3VudHktaGFzLWhpZ2hlc3QtYWx6aGVpbWVycy1yYXRlLWluLW9oaW8tc3R1ZHkv0gFUaHR0cHM6Ly9mb3g4LmNvbS9uZXdzL2N1eWFob2dhLWNvdW50eS1oYXMtaGlnaGVzdC1hbHpoZWltZXJzLXJhdGUtaW4tb2hpby1zdHVkeS9hbXAv?oc=5"
+              "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy91dy1tYWRpc29uLWFsemhlaW1lcnMtcmVzZWFyY2gtMTUwbS1ncmFudNIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiUGh0dHBzOi8vZm94OC5jb20vbmV3cy9jdXlhaG9nYS1jb3VudHktaGFzLWhpZ2hlc3QtYWx6aGVpbWVycy1yYXRlLWluLW9oaW8tc3R1ZHkv0gFUaHR0cHM6Ly9mb3g4LmNvbS9uZXdzL2N1eWFob2dhLWNvdW50eS1oYXMtaGlnaGVzdC1hbHpoZWltZXJzLXJhdGUtaW4tb2hpby1zdHVkeS9hbXAv",
+                "_": "CBMiQmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy91dy1tYWRpc29uLWFsemhlaW1lcnMtcmVzZWFyY2gtMTUwbS1ncmFudNIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 05 Feb 2024 22:12:45 GMT"
+              "Thu, 01 Feb 2024 11:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZm94OC5jb20vbmV3cy9jdXlhaG9nYS1jb3VudHktaGFzLWhpZ2hlc3QtYWx6aGVpbWVycy1yYXRlLWluLW9oaW8tc3R1ZHkv0gFUaHR0cHM6Ly9mb3g4LmNvbS9uZXdzL2N1eWFob2dhLWNvdW50eS1oYXMtaGlnaGVzdC1hbHpoZWltZXJzLXJhdGUtaW4tb2hpby1zdHVkeS9hbXAv?oc=5\" target=\"_blank\">Cuyahoga County has highest Alzheimer’s rate in Ohio: Study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJW FOX 8 News Cleveland</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lndwci5vcmcvbmV3cy91dy1tYWRpc29uLWFsemhlaW1lcnMtcmVzZWFyY2gtMTUwbS1ncmFudNIBAA?oc=5\" target=\"_blank\">National Alzheimer's research led by UW-Madison boosted by $150M grant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Public Radio</font>"
             ],
             "source": [
               {
-                "_": "WJW FOX 8 News Cleveland",
+                "_": "Wisconsin Public Radio",
                 "$": {
-                  "url": "https://fox8.com"
+                  "url": "https://www.wpr.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Biogen Is Dropping Controversial Alzheimer's Drug Aduhelm - HealthDay"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhlYWx0aGRheS5jb20vaGVhbHRoLW5ld3MvbmV1cm9sb2d5L2Jpb2dlbi1pcy1kcm9wcGluZy1jb250cm92ZXJzaWFsLWFsemhlaW1lcnMtZHJ1Zy1hZHVoZWxt0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaGh0dHBzOi8vd3d3LmhlYWx0aGRheS5jb20vaGVhbHRoLW5ld3MvbmV1cm9sb2d5L2Jpb2dlbi1pcy1kcm9wcGluZy1jb250cm92ZXJzaWFsLWFsemhlaW1lcnMtZHJ1Zy1hZHVoZWxt0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 17:41:18 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhlYWx0aGRheS5jb20vaGVhbHRoLW5ld3MvbmV1cm9sb2d5L2Jpb2dlbi1pcy1kcm9wcGluZy1jb250cm92ZXJzaWFsLWFsemhlaW1lcnMtZHJ1Zy1hZHVoZWxt0gEA?oc=5\" target=\"_blank\">Biogen Is Dropping Controversial Alzheimer's Drug Aduhelm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HealthDay</font>"
+            ],
+            "source": [
+              {
+                "_": "HealthDay",
+                "$": {
+                  "url": "https://www.healthday.com"
                 }
               }
             ]
@@ -2937,96 +3027,6 @@
                 "_": "Healio",
                 "$": {
                   "url": "https://www.healio.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Human growth hormone from cadavers linked to Alzheimer's in five rare cases, study finds - Yahoo News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jb20vaHVtYW4tZ3Jvd3RoLWhvcm1vbmUtY2FkYXZlcnMtbGlua2VkLTIwMTQ1MzAwOS5odG1s0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jb20vaHVtYW4tZ3Jvd3RoLWhvcm1vbmUtY2FkYXZlcnMtbGlua2VkLTIwMTQ1MzAwOS5odG1s0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 29 Jan 2024 22:11:44 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jb20vaHVtYW4tZ3Jvd3RoLWhvcm1vbmUtY2FkYXZlcnMtbGlua2VkLTIwMTQ1MzAwOS5odG1s0gEA?oc=5\" target=\"_blank\">Human growth hormone from cadavers linked to Alzheimer's in five rare cases, study finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News</font>"
-            ],
-            "source": [
-              {
-                "_": "Yahoo News",
-                "$": {
-                  "url": "https://news.yahoo.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "UAB researcher receives funding to study link between periodontitis and Alzheimer's disease - University of Alabama at Birmingham"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy51YWIuZWR1L25ld3MvcmVzZWFyY2gvaXRlbS8xMzcyNS11YWItcmVzZWFyY2hlci1yZWNlaXZlcy1mdW5kaW5nLXRvLXN0dWR5LWxpbmstYmV0d2Vlbi1wZXJpb2RvbnRpdGlzLWFuZC1hbHpoZWltZXItcy1kaXNlYXNl0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiiAFodHRwczovL3d3dy51YWIuZWR1L25ld3MvcmVzZWFyY2gvaXRlbS8xMzcyNS11YWItcmVzZWFyY2hlci1yZWNlaXZlcy1mdW5kaW5nLXRvLXN0dWR5LWxpbmstYmV0d2Vlbi1wZXJpb2RvbnRpdGlzLWFuZC1hbHpoZWltZXItcy1kaXNlYXNl0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 10 Aug 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy51YWIuZWR1L25ld3MvcmVzZWFyY2gvaXRlbS8xMzcyNS11YWItcmVzZWFyY2hlci1yZWNlaXZlcy1mdW5kaW5nLXRvLXN0dWR5LWxpbmstYmV0d2Vlbi1wZXJpb2RvbnRpdGlzLWFuZC1hbHpoZWltZXItcy1kaXNlYXNl0gEA?oc=5\" target=\"_blank\">UAB researcher receives funding to study link between periodontitis and Alzheimer's disease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Alabama at Birmingham</font>"
-            ],
-            "source": [
-              {
-                "_": "University of Alabama at Birmingham",
-                "$": {
-                  "url": "https://www.uab.edu"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "A common stomach infection can increase the risk of developing Alzheimer's disease, study finds - Euronews"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5ldXJvbmV3cy5jb20vbmV4dC8yMDIzLzEyLzI5L2EtY29tbW9uLXN0b21hY2gtaW5mZWN0aW9uLWNhbi1pbmNyZWFzZS10aGUtcmlzay1vZi1kZXZlbG9waW5nLWFsemhlaW1lcnMtZGlzZWFzZS1zdHVkeS1madIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMigwFodHRwczovL3d3dy5ldXJvbmV3cy5jb20vbmV4dC8yMDIzLzEyLzI5L2EtY29tbW9uLXN0b21hY2gtaW5mZWN0aW9uLWNhbi1pbmNyZWFzZS10aGUtcmlzay1vZi1kZXZlbG9waW5nLWFsemhlaW1lcnMtZGlzZWFzZS1zdHVkeS1madIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 29 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5ldXJvbmV3cy5jb20vbmV4dC8yMDIzLzEyLzI5L2EtY29tbW9uLXN0b21hY2gtaW5mZWN0aW9uLWNhbi1pbmNyZWFzZS10aGUtcmlzay1vZi1kZXZlbG9waW5nLWFsemhlaW1lcnMtZGlzZWFzZS1zdHVkeS1madIBAA?oc=5\" target=\"_blank\">A common stomach infection can increase the risk of developing Alzheimer's disease, study finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews</font>"
-            ],
-            "source": [
-              {
-                "_": "Euronews",
-                "$": {
-                  "url": "https://www.euronews.com"
                 }
               }
             ]

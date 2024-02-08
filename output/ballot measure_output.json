@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -57,6 +57,36 @@
                 "_": "CalMatters",
                 "$": {
                   "url": "https://calmatters.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Addressing Abortion Access through State Ballot Initiatives | KFF - KFF"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmtmZi5vcmcvd29tZW5zLWhlYWx0aC1wb2xpY3kvaXNzdWUtYnJpZWYvYWRkcmVzc2luZy1hYm9ydGlvbi1hY2Nlc3MtdGhyb3VnaC1zdGF0ZS1iYWxsb3QtaW5pdGlhdGl2ZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMicWh0dHBzOi8vd3d3LmtmZi5vcmcvd29tZW5zLWhlYWx0aC1wb2xpY3kvaXNzdWUtYnJpZWYvYWRkcmVzc2luZy1hYm9ydGlvbi1hY2Nlc3MtdGhyb3VnaC1zdGF0ZS1iYWxsb3QtaW5pdGlhdGl2ZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 13:00:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmtmZi5vcmcvd29tZW5zLWhlYWx0aC1wb2xpY3kvaXNzdWUtYnJpZWYvYWRkcmVzc2luZy1hYm9ydGlvbi1hY2Nlc3MtdGhyb3VnaC1zdGF0ZS1iYWxsb3QtaW5pdGlhdGl2ZXMv0gEA?oc=5\" target=\"_blank\">Addressing Abortion Access through State Ballot Initiatives | KFF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFF</font>"
+            ],
+            "source": [
+              {
+                "_": "KFF",
+                "$": {
+                  "url": "https://www.kff.org"
                 }
               }
             ]
@@ -117,36 +147,6 @@
                 "_": "ABC News",
                 "$": {
                   "url": "https://abcnews.go.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Addressing Abortion Access through State Ballot Initiatives | KFF - KFF"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmtmZi5vcmcvd29tZW5zLWhlYWx0aC1wb2xpY3kvaXNzdWUtYnJpZWYvYWRkcmVzc2luZy1hYm9ydGlvbi1hY2Nlc3MtdGhyb3VnaC1zdGF0ZS1iYWxsb3QtaW5pdGlhdGl2ZXMv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMicWh0dHBzOi8vd3d3LmtmZi5vcmcvd29tZW5zLWhlYWx0aC1wb2xpY3kvaXNzdWUtYnJpZWYvYWRkcmVzc2luZy1hYm9ydGlvbi1hY2Nlc3MtdGhyb3VnaC1zdGF0ZS1iYWxsb3QtaW5pdGlhdGl2ZXMv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 30 Jan 2024 13:00:32 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmtmZi5vcmcvd29tZW5zLWhlYWx0aC1wb2xpY3kvaXNzdWUtYnJpZWYvYWRkcmVzc2luZy1hYm9ydGlvbi1hY2Nlc3MtdGhyb3VnaC1zdGF0ZS1iYWxsb3QtaW5pdGlhdGl2ZXMv0gEA?oc=5\" target=\"_blank\">Addressing Abortion Access through State Ballot Initiatives | KFF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFF</font>"
-            ],
-            "source": [
-              {
-                "_": "KFF",
-                "$": {
-                  "url": "https://www.kff.org"
                 }
               }
             ]
@@ -363,36 +363,6 @@
           },
           {
             "title": [
-              "Which states could have abortion on the ballot in 2024? - WTOP"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3RvcC5jb20vbmF0aW9uYWwvMjAyNC8wMi93aGljaC1zdGF0ZXMtY291bGQtaGF2ZS1hYm9ydGlvbi1vbi10aGUtYmFsbG90LWluLTIwMjQv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiWWh0dHBzOi8vd3RvcC5jb20vbmF0aW9uYWwvMjAyNC8wMi93aGljaC1zdGF0ZXMtY291bGQtaGF2ZS1hYm9ydGlvbi1vbi10aGUtYmFsbG90LWluLTIwMjQv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 07 Feb 2024 05:26:38 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3RvcC5jb20vbmF0aW9uYWwvMjAyNC8wMi93aGljaC1zdGF0ZXMtY291bGQtaGF2ZS1hYm9ydGlvbi1vbi10aGUtYmFsbG90LWluLTIwMjQv0gEA?oc=5\" target=\"_blank\">Which states could have abortion on the ballot in 2024?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOP</font>"
-            ],
-            "source": [
-              {
-                "_": "WTOP",
-                "$": {
-                  "url": "https://wtop.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "The Bounded Triumph of Health Care Ballot Initiatives - The Regulatory Review"
             ],
             "link": [
@@ -447,6 +417,36 @@
                 "_": "Axios",
                 "$": {
                   "url": "https://www.axios.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Dade City pair submitted over 100 fake signatures for abortion ballot initiative: FDLE - WFLA"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUv0gGBAWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUv0gGBAWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 22:55:04 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUv0gGBAWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUvYW1wLw?oc=5\" target=\"_blank\">Dade City pair submitted over 100 fake signatures for abortion ballot initiative: FDLE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFLA</font>"
+            ],
+            "source": [
+              {
+                "_": "WFLA",
+                "$": {
+                  "url": "https://www.wfla.com"
                 }
               }
             ]
@@ -543,36 +543,6 @@
           },
           {
             "title": [
-              "Dade City pair submitted over 100 fake signatures for abortion ballot initiative: FDLE - WFLA"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUv0gGBAWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUvYW1wLw?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUv0gGBAWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUvYW1wLw",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 22:55:04 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUv0gGBAWh0dHBzOi8vd3d3LndmbGEuY29tL25ld3MvcGFzY28tY291bnR5L2RhZGUtY2l0eS1wYWlyLXN1Ym1pdHRlZC1vdmVyLTEwMC1mYWtlLXNpZ25hdHVyZXMtZm9yLWFib3J0aW9uLWJhbGxvdC1pbml0aWF0aXZlLWZkbGUvYW1wLw?oc=5\" target=\"_blank\">Dade City pair submitted over 100 fake signatures for abortion ballot initiative: FDLE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFLA</font>"
-            ],
-            "source": [
-              {
-                "_": "WFLA",
-                "$": {
-                  "url": "https://www.wfla.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Measure HLA: Who's Backing The 'Health Streets LA' Measure On The March 5 Ballot And Why It Matters - LAist"
             ],
             "link": [
@@ -627,6 +597,36 @@
                 "_": "Drgnews",
                 "$": {
                   "url": "https://drgnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Which states could have abortion on the ballot in 2024? - Winnipeg Free Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lndpbm5pcGVnZnJlZXByZXNzLmNvbS9hcnRzLWFuZC1saWZlL2xpZmUvaGVhbHRoLzIwMjQvMDIvMDYvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI00gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3Lndpbm5pcGVnZnJlZXByZXNzLmNvbS9hcnRzLWFuZC1saWZlL2xpZmUvaGVhbHRoLzIwMjQvMDIvMDYvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI00gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 05:15:29 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lndpbm5pcGVnZnJlZXByZXNzLmNvbS9hcnRzLWFuZC1saWZlL2xpZmUvaGVhbHRoLzIwMjQvMDIvMDYvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI00gEA?oc=5\" target=\"_blank\">Which states could have abortion on the ballot in 2024?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Winnipeg Free Press</font>"
+            ],
+            "source": [
+              {
+                "_": "Winnipeg Free Press",
+                "$": {
+                  "url": "https://www.winnipegfreepress.com"
                 }
               }
             ]
@@ -723,36 +723,6 @@
           },
           {
             "title": [
-              "Judge finds parts of bill adding new hurdles for Montana ballot initiatives unconstitutional – Daily Montanan - Daily Montanan"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiggFodHRwczovL2RhaWx5bW9udGFuYW4uY29tLzIwMjQvMDIvMDYvanVkZ2UtZmluZHMtcGFydHMtb2YtYmlsbC1hZGRpbmctbmV3LWh1cmRsZXMtZm9yLW1vbnRhbmEtYmFsbG90LWluaXRpYXRpdmVzLXVuY29uc3RpdHV0aW9uYWwv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiggFodHRwczovL2RhaWx5bW9udGFuYW4uY29tLzIwMjQvMDIvMDYvanVkZ2UtZmluZHMtcGFydHMtb2YtYmlsbC1hZGRpbmctbmV3LWh1cmRsZXMtZm9yLW1vbnRhbmEtYmFsbG90LWluaXRpYXRpdmVzLXVuY29uc3RpdHV0aW9uYWwv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 22:28:26 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL2RhaWx5bW9udGFuYW4uY29tLzIwMjQvMDIvMDYvanVkZ2UtZmluZHMtcGFydHMtb2YtYmlsbC1hZGRpbmctbmV3LWh1cmRsZXMtZm9yLW1vbnRhbmEtYmFsbG90LWluaXRpYXRpdmVzLXVuY29uc3RpdHV0aW9uYWwv0gEA?oc=5\" target=\"_blank\">Judge finds parts of bill adding new hurdles for Montana ballot initiatives unconstitutional – Daily Montanan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Montanan</font>"
-            ],
-            "source": [
-              {
-                "_": "Daily Montanan",
-                "$": {
-                  "url": "https://dailymontanan.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Recapping the November 2023 Local Ballot Measure Results - MRSC"
             ],
             "link": [
@@ -783,30 +753,60 @@
           },
           {
             "title": [
-              "Arkansas Advocate : Language for “Direct Democracy” amendment submitted to ease Arkansas' ballot initiative process - Magnoliareporter"
+              "Judge finds parts of bill adding new hurdles for Montana ballot initiatives unconstitutional – Daily Montanan - Daily Montanan"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMicWh0dHA6Ly93d3cubWFnbm9saWFyZXBvcnRlci5jb20vbmV3c19hbmRfYnVzaW5lc3MvcmVnaW9uYWxfbmV3cy9hcnRpY2xlXzVjMDI0NjJjLWM0ZGUtMTFlZS1iMTE0LTJiMjI0MWRkOTEwZi5odG1s0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL2RhaWx5bW9udGFuYW4uY29tLzIwMjQvMDIvMDYvanVkZ2UtZmluZHMtcGFydHMtb2YtYmlsbC1hZGRpbmctbmV3LWh1cmRsZXMtZm9yLW1vbnRhbmEtYmFsbG90LWluaXRpYXRpdmVzLXVuY29uc3RpdHV0aW9uYWwv0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMicWh0dHA6Ly93d3cubWFnbm9saWFyZXBvcnRlci5jb20vbmV3c19hbmRfYnVzaW5lc3MvcmVnaW9uYWxfbmV3cy9hcnRpY2xlXzVjMDI0NjJjLWM0ZGUtMTFlZS1iMTE0LTJiMjI0MWRkOTEwZi5odG1s0gEA",
+                "_": "CBMiggFodHRwczovL2RhaWx5bW9udGFuYW4uY29tLzIwMjQvMDIvMDYvanVkZ2UtZmluZHMtcGFydHMtb2YtYmlsbC1hZGRpbmctbmV3LWh1cmRsZXMtZm9yLW1vbnRhbmEtYmFsbG90LWluaXRpYXRpdmVzLXVuY29uc3RpdHV0aW9uYWwv0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 06 Feb 2024 10:56:00 GMT"
+              "Tue, 06 Feb 2024 22:28:26 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHA6Ly93d3cubWFnbm9saWFyZXBvcnRlci5jb20vbmV3c19hbmRfYnVzaW5lc3MvcmVnaW9uYWxfbmV3cy9hcnRpY2xlXzVjMDI0NjJjLWM0ZGUtMTFlZS1iMTE0LTJiMjI0MWRkOTEwZi5odG1s0gEA?oc=5\" target=\"_blank\">Arkansas Advocate : Language for “Direct Democracy” amendment submitted to ease Arkansas' ballot initiative process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Magnoliareporter</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL2RhaWx5bW9udGFuYW4uY29tLzIwMjQvMDIvMDYvanVkZ2UtZmluZHMtcGFydHMtb2YtYmlsbC1hZGRpbmctbmV3LWh1cmRsZXMtZm9yLW1vbnRhbmEtYmFsbG90LWluaXRpYXRpdmVzLXVuY29uc3RpdHV0aW9uYWwv0gEA?oc=5\" target=\"_blank\">Judge finds parts of bill adding new hurdles for Montana ballot initiatives unconstitutional – Daily Montanan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Montanan</font>"
             ],
             "source": [
               {
-                "_": "Magnoliareporter",
+                "_": "Daily Montanan",
                 "$": {
-                  "url": "http://www.magnoliareporter.com"
+                  "url": "https://dailymontanan.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New amendment pitched to clear hurdles blocking citizen-led ballot initiatives - Arkansas Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYXJrdGltZXMuY29tL2Fya2Fuc2FzLWJsb2cvMjAyNC8wMi8wNS9uZXctYW1lbmRtZW50LXBpdGNoZWQtdG8tY2xlYXItaHVyZGxlcy1ibG9ja2luZy1jaXRpemVuLWxlZC1iYWxsb3QtaW5pdGlhdGl2ZXPSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vYXJrdGltZXMuY29tL2Fya2Fuc2FzLWJsb2cvMjAyNC8wMi8wNS9uZXctYW1lbmRtZW50LXBpdGNoZWQtdG8tY2xlYXItaHVyZGxlcy1ibG9ja2luZy1jaXRpemVuLWxlZC1iYWxsb3QtaW5pdGlhdGl2ZXPSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 20:02:44 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYXJrdGltZXMuY29tL2Fya2Fuc2FzLWJsb2cvMjAyNC8wMi8wNS9uZXctYW1lbmRtZW50LXBpdGNoZWQtdG8tY2xlYXItaHVyZGxlcy1ibG9ja2luZy1jaXRpemVuLWxlZC1iYWxsb3QtaW5pdGlhdGl2ZXPSAQA?oc=5\" target=\"_blank\">New amendment pitched to clear hurdles blocking citizen-led ballot initiatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arkansas Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Arkansas Times",
+                "$": {
+                  "url": "https://arktimes.com"
                 }
               }
             ]
@@ -963,30 +963,30 @@
           },
           {
             "title": [
-              "Florida Supreme Court to hear pivotal battle over abortion - The Hill"
+              "Arkansas Advocate : Language for “Direct Democracy” amendment submitted to ease Arkansas' ballot initiative process - Magnoliareporter"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL9IBbWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL2FtcC8?oc=5"
+              "https://news.google.com/rss/articles/CBMicWh0dHA6Ly93d3cubWFnbm9saWFyZXBvcnRlci5jb20vbmV3c19hbmRfYnVzaW5lc3MvcmVnaW9uYWxfbmV3cy9hcnRpY2xlXzVjMDI0NjJjLWM0ZGUtMTFlZS1iMTE0LTJiMjI0MWRkOTEwZi5odG1s0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiaWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL9IBbWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL2FtcC8",
+                "_": "CBMicWh0dHA6Ly93d3cubWFnbm9saWFyZXBvcnRlci5jb20vbmV3c19hbmRfYnVzaW5lc3MvcmVnaW9uYWxfbmV3cy9hcnRpY2xlXzVjMDI0NjJjLWM0ZGUtMTFlZS1iMTE0LTJiMjI0MWRkOTEwZi5odG1s0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 06 Feb 2024 11:00:00 GMT"
+              "Tue, 06 Feb 2024 10:56:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL9IBbWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL2FtcC8?oc=5\" target=\"_blank\">Florida Supreme Court to hear pivotal battle over abortion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHA6Ly93d3cubWFnbm9saWFyZXBvcnRlci5jb20vbmV3c19hbmRfYnVzaW5lc3MvcmVnaW9uYWxfbmV3cy9hcnRpY2xlXzVjMDI0NjJjLWM0ZGUtMTFlZS1iMTE0LTJiMjI0MWRkOTEwZi5odG1s0gEA?oc=5\" target=\"_blank\">Arkansas Advocate : Language for “Direct Democracy” amendment submitted to ease Arkansas' ballot initiative process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Magnoliareporter</font>"
             ],
             "source": [
               {
-                "_": "The Hill",
+                "_": "Magnoliareporter",
                 "$": {
-                  "url": "https://thehill.com"
+                  "url": "http://www.magnoliareporter.com"
                 }
               }
             ]
@@ -1047,6 +1047,36 @@
                 "_": "Colorado Public Radio",
                 "$": {
                   "url": "https://www.cpr.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Florida Supreme Court to hear pivotal battle over abortion - The Hill"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL9IBbWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL2FtcC8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL9IBbWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL2FtcC8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 11:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL9IBbWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvNDQ0OTY2NC1mbG9yaWRhLXN1cHJlbWUtY291cnQtdG8taGVhci1waXZvdGFsLWJhdHRsZS1vdmVyLWFib3J0aW9uL2FtcC8?oc=5\" target=\"_blank\">Florida Supreme Court to hear pivotal battle over abortion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+            ],
+            "source": [
+              {
+                "_": "The Hill",
+                "$": {
+                  "url": "https://thehill.com"
                 }
               }
             ]
@@ -1293,36 +1323,6 @@
           },
           {
             "title": [
-              "Which states could have abortion on the ballot in 2024? - goskagit.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5nb3NrYWdpdC5jb20vbmV3cy9wb2xpdGljcy93aGljaC1zdGF0ZXMtY291bGQtaGF2ZS1hYm9ydGlvbi1vbi10aGUtYmFsbG90LWluLTIwMjQvYXJ0aWNsZV85NDhiNTk0NC1mYzJmLTU2YmMtYmU5OS05NTg3NjZhOWJlMjIuaHRtbNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMijwFodHRwczovL3d3dy5nb3NrYWdpdC5jb20vbmV3cy9wb2xpdGljcy93aGljaC1zdGF0ZXMtY291bGQtaGF2ZS1hYm9ydGlvbi1vbi10aGUtYmFsbG90LWluLTIwMjQvYXJ0aWNsZV85NDhiNTk0NC1mYzJmLTU2YmMtYmU5OS05NTg3NjZhOWJlMjIuaHRtbNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 07 Feb 2024 05:09:58 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5nb3NrYWdpdC5jb20vbmV3cy9wb2xpdGljcy93aGljaC1zdGF0ZXMtY291bGQtaGF2ZS1hYm9ydGlvbi1vbi10aGUtYmFsbG90LWluLTIwMjQvYXJ0aWNsZV85NDhiNTk0NC1mYzJmLTU2YmMtYmU5OS05NTg3NjZhOWJlMjIuaHRtbNIBAA?oc=5\" target=\"_blank\">Which states could have abortion on the ballot in 2024?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">goskagit.com</font>"
-            ],
-            "source": [
-              {
-                "_": "goskagit.com",
-                "$": {
-                  "url": "https://www.goskagit.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Yost's Office Issues Statement Clarifying Legal Filing in Lawsuit Over Proposed Ballot Measure - Ohio Attorney General"
             ],
             "link": [
@@ -1377,6 +1377,66 @@
                 "_": "Spectrum News 1",
                 "$": {
                   "url": "https://spectrumnews1.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Which states could have abortion on the ballot in 2024? - Bozeman Daily Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5ib3plbWFuZGFpbHljaHJvbmljbGUuY29tL2FwX25ld3MvcG9saXRpY3Mvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfYmI1MTBhNmMtZjQ3MC01NjdjLWIxNDAtMWUwMTMwMGIzNjUyLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinwFodHRwczovL3d3dy5ib3plbWFuZGFpbHljaHJvbmljbGUuY29tL2FwX25ld3MvcG9saXRpY3Mvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfYmI1MTBhNmMtZjQ3MC01NjdjLWIxNDAtMWUwMTMwMGIzNjUyLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 05:09:58 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5ib3plbWFuZGFpbHljaHJvbmljbGUuY29tL2FwX25ld3MvcG9saXRpY3Mvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfYmI1MTBhNmMtZjQ3MC01NjdjLWIxNDAtMWUwMTMwMGIzNjUyLmh0bWzSAQA?oc=5\" target=\"_blank\">Which states could have abortion on the ballot in 2024?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bozeman Daily Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "Bozeman Daily Chronicle",
+                "$": {
+                  "url": "https://www.bozemandailychronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Which states could have abortion on the ballot in 2024? - goskagit.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5nb3NrYWdpdC5jb20vbmV3cy9wb2xpdGljcy93aGljaC1zdGF0ZXMtY291bGQtaGF2ZS1hYm9ydGlvbi1vbi10aGUtYmFsbG90LWluLTIwMjQvYXJ0aWNsZV85NDhiNTk0NC1mYzJmLTU2YmMtYmU5OS05NTg3NjZhOWJlMjIuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijwFodHRwczovL3d3dy5nb3NrYWdpdC5jb20vbmV3cy9wb2xpdGljcy93aGljaC1zdGF0ZXMtY291bGQtaGF2ZS1hYm9ydGlvbi1vbi10aGUtYmFsbG90LWluLTIwMjQvYXJ0aWNsZV85NDhiNTk0NC1mYzJmLTU2YmMtYmU5OS05NTg3NjZhOWJlMjIuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 05:09:58 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5nb3NrYWdpdC5jb20vbmV3cy9wb2xpdGljcy93aGljaC1zdGF0ZXMtY291bGQtaGF2ZS1hYm9ydGlvbi1vbi10aGUtYmFsbG90LWluLTIwMjQvYXJ0aWNsZV85NDhiNTk0NC1mYzJmLTU2YmMtYmU5OS05NTg3NjZhOWJlMjIuaHRtbNIBAA?oc=5\" target=\"_blank\">Which states could have abortion on the ballot in 2024?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">goskagit.com</font>"
+            ],
+            "source": [
+              {
+                "_": "goskagit.com",
+                "$": {
+                  "url": "https://www.goskagit.com"
                 }
               }
             ]
@@ -1473,36 +1533,6 @@
           },
           {
             "title": [
-              "Jerry Brown joins Newsom in urging California Supreme Court to remove tax measure from ballot - San Francisco Chronicle"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL2plcnJ5LWJyb3duLWJhbGxvdC0xODY0MzEwOS5waHDSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiTGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL2plcnJ5LWJyb3duLWJhbGxvdC0xODY0MzEwOS5waHDSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 02 Feb 2024 18:22:30 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL2plcnJ5LWJyb3duLWJhbGxvdC0xODY0MzEwOS5waHDSAQA?oc=5\" target=\"_blank\">Jerry Brown joins Newsom in urging California Supreme Court to remove tax measure from ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>"
-            ],
-            "source": [
-              {
-                "_": "San Francisco Chronicle",
-                "$": {
-                  "url": "https://www.sfchronicle.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "New KFF Brief Examines Potential Abortion-Related Ballot Initiatives in 13 States | KFF - KFF"
             ],
             "link": [
@@ -1533,30 +1563,30 @@
           },
           {
             "title": [
-              "New amendment pitched to clear hurdles blocking citizen-led ballot initiatives - Arkansas Times"
+              "Jerry Brown joins Newsom in urging California Supreme Court to remove tax measure from ballot - San Francisco Chronicle"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYXJrdGltZXMuY29tL2Fya2Fuc2FzLWJsb2cvMjAyNC8wMi8wNS9uZXctYW1lbmRtZW50LXBpdGNoZWQtdG8tY2xlYXItaHVyZGxlcy1ibG9ja2luZy1jaXRpemVuLWxlZC1iYWxsb3QtaW5pdGlhdGl2ZXPSAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL2plcnJ5LWJyb3duLWJhbGxvdC0xODY0MzEwOS5waHDSAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMifGh0dHBzOi8vYXJrdGltZXMuY29tL2Fya2Fuc2FzLWJsb2cvMjAyNC8wMi8wNS9uZXctYW1lbmRtZW50LXBpdGNoZWQtdG8tY2xlYXItaHVyZGxlcy1ibG9ja2luZy1jaXRpemVuLWxlZC1iYWxsb3QtaW5pdGlhdGl2ZXPSAQA",
+                "_": "CBMiTGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL2plcnJ5LWJyb3duLWJhbGxvdC0xODY0MzEwOS5waHDSAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 05 Feb 2024 20:02:44 GMT"
+              "Fri, 02 Feb 2024 18:22:30 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYXJrdGltZXMuY29tL2Fya2Fuc2FzLWJsb2cvMjAyNC8wMi8wNS9uZXctYW1lbmRtZW50LXBpdGNoZWQtdG8tY2xlYXItaHVyZGxlcy1ibG9ja2luZy1jaXRpemVuLWxlZC1iYWxsb3QtaW5pdGlhdGl2ZXPSAQA?oc=5\" target=\"_blank\">New amendment pitched to clear hurdles blocking citizen-led ballot initiatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arkansas Times</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9wb2xpdGljcy9hcnRpY2xlL2plcnJ5LWJyb3duLWJhbGxvdC0xODY0MzEwOS5waHDSAQA?oc=5\" target=\"_blank\">Jerry Brown joins Newsom in urging California Supreme Court to remove tax measure from ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>"
             ],
             "source": [
               {
-                "_": "Arkansas Times",
+                "_": "San Francisco Chronicle",
                 "$": {
-                  "url": "https://arktimes.com"
+                  "url": "https://www.sfchronicle.com"
                 }
               }
             ]
@@ -1587,36 +1617,6 @@
                 "_": "EFF",
                 "$": {
                   "url": "https://www.eff.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "'Process already in place': our testimony on LB861 - Civic Nebraska"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmNpdmljbmVicmFza2Eub3JnLzIwMjQwMTMxLXVoaW5nLXRlc3RpbW9ueS1sYjg2MS_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiPWh0dHBzOi8vd3d3LmNpdmljbmVicmFza2Eub3JnLzIwMjQwMTMxLXVoaW5nLXRlc3RpbW9ueS1sYjg2MS_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 20:53:29 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmNpdmljbmVicmFza2Eub3JnLzIwMjQwMTMxLXVoaW5nLXRlc3RpbW9ueS1sYjg2MS_SAQA?oc=5\" target=\"_blank\">'Process already in place': our testimony on LB861</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Civic Nebraska</font>"
-            ],
-            "source": [
-              {
-                "_": "Civic Nebraska",
-                "$": {
-                  "url": "https://www.civicnebraska.org"
                 }
               }
             ]
@@ -1683,30 +1683,30 @@
           },
           {
             "title": [
-              "California Prop. 1: Explaining ballot measure to tackle homelessness, mental health issues - KABC-TV"
+              "'Process already in place': our testimony on LB861 - Civic Nebraska"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWJjNy5jb20vY2FsaWZvcm5pYS13aGF0LWlzLXByb3Bvc2l0aW9uLTEtZWxlY3Rpb24tZGF5LWJhbGxvdC0yMDI0LzE0Mzc5NDUzL9IBWGh0dHBzOi8vYWJjNy5jb20vYW1wL2NhbGlmb3JuaWEtd2hhdC1pcy1wcm9wb3NpdGlvbi0xLWVsZWN0aW9uLWRheS1iYWxsb3QtMjAyNC8xNDM3OTQ1My8?oc=5"
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmNpdmljbmVicmFza2Eub3JnLzIwMjQwMTMxLXVoaW5nLXRlc3RpbW9ueS1sYjg2MS_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiVGh0dHBzOi8vYWJjNy5jb20vY2FsaWZvcm5pYS13aGF0LWlzLXByb3Bvc2l0aW9uLTEtZWxlY3Rpb24tZGF5LWJhbGxvdC0yMDI0LzE0Mzc5NDUzL9IBWGh0dHBzOi8vYWJjNy5jb20vYW1wL2NhbGlmb3JuaWEtd2hhdC1pcy1wcm9wb3NpdGlvbi0xLWVsZWN0aW9uLWRheS1iYWxsb3QtMjAyNC8xNDM3OTQ1My8",
+                "_": "CBMiPWh0dHBzOi8vd3d3LmNpdmljbmVicmFza2Eub3JnLzIwMjQwMTMxLXVoaW5nLXRlc3RpbW9ueS1sYjg2MS_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Fri, 02 Feb 2024 06:26:35 GMT"
+              "Wed, 31 Jan 2024 20:53:29 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWJjNy5jb20vY2FsaWZvcm5pYS13aGF0LWlzLXByb3Bvc2l0aW9uLTEtZWxlY3Rpb24tZGF5LWJhbGxvdC0yMDI0LzE0Mzc5NDUzL9IBWGh0dHBzOi8vYWJjNy5jb20vYW1wL2NhbGlmb3JuaWEtd2hhdC1pcy1wcm9wb3NpdGlvbi0xLWVsZWN0aW9uLWRheS1iYWxsb3QtMjAyNC8xNDM3OTQ1My8?oc=5\" target=\"_blank\">California Prop. 1: Explaining ballot measure to tackle homelessness, mental health issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KABC-TV</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmNpdmljbmVicmFza2Eub3JnLzIwMjQwMTMxLXVoaW5nLXRlc3RpbW9ueS1sYjg2MS_SAQA?oc=5\" target=\"_blank\">'Process already in place': our testimony on LB861</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Civic Nebraska</font>"
             ],
             "source": [
               {
-                "_": "KABC-TV",
+                "_": "Civic Nebraska",
                 "$": {
-                  "url": "https://abc7.com"
+                  "url": "https://www.civicnebraska.org"
                 }
               }
             ]
@@ -1767,6 +1767,36 @@
                 "_": "Missouri Independent",
                 "$": {
                   "url": "https://missouriindependent.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "California Prop. 1: Explaining ballot measure to tackle homelessness, mental health issues - KABC-TV"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWJjNy5jb20vY2FsaWZvcm5pYS13aGF0LWlzLXByb3Bvc2l0aW9uLTEtZWxlY3Rpb24tZGF5LWJhbGxvdC0yMDI0LzE0Mzc5NDUzL9IBWGh0dHBzOi8vYWJjNy5jb20vYW1wL2NhbGlmb3JuaWEtd2hhdC1pcy1wcm9wb3NpdGlvbi0xLWVsZWN0aW9uLWRheS1iYWxsb3QtMjAyNC8xNDM3OTQ1My8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vYWJjNy5jb20vY2FsaWZvcm5pYS13aGF0LWlzLXByb3Bvc2l0aW9uLTEtZWxlY3Rpb24tZGF5LWJhbGxvdC0yMDI0LzE0Mzc5NDUzL9IBWGh0dHBzOi8vYWJjNy5jb20vYW1wL2NhbGlmb3JuaWEtd2hhdC1pcy1wcm9wb3NpdGlvbi0xLWVsZWN0aW9uLWRheS1iYWxsb3QtMjAyNC8xNDM3OTQ1My8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 06:26:35 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWJjNy5jb20vY2FsaWZvcm5pYS13aGF0LWlzLXByb3Bvc2l0aW9uLTEtZWxlY3Rpb24tZGF5LWJhbGxvdC0yMDI0LzE0Mzc5NDUzL9IBWGh0dHBzOi8vYWJjNy5jb20vYW1wL2NhbGlmb3JuaWEtd2hhdC1pcy1wcm9wb3NpdGlvbi0xLWVsZWN0aW9uLWRheS1iYWxsb3QtMjAyNC8xNDM3OTQ1My8?oc=5\" target=\"_blank\">California Prop. 1: Explaining ballot measure to tackle homelessness, mental health issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KABC-TV</font>"
+            ],
+            "source": [
+              {
+                "_": "KABC-TV",
+                "$": {
+                  "url": "https://abc7.com"
                 }
               }
             ]
@@ -1917,36 +1947,6 @@
                 "_": "Arkansas Advocate",
                 "$": {
                   "url": "https://arkansasadvocate.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Which states could have abortion on the ballot in 2024? - The Daily Reflector"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5yZWZsZWN0b3IuY29tL25ld3MvbmF0aW9uYWwvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfYWRmYmI4OWQtMzk2Ny01ZmRkLWIwNGMtOGRiNzA2YWQzNGRmLmh0bWzSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMikAFodHRwczovL3d3dy5yZWZsZWN0b3IuY29tL25ld3MvbmF0aW9uYWwvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfYWRmYmI4OWQtMzk2Ny01ZmRkLWIwNGMtOGRiNzA2YWQzNGRmLmh0bWzSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 07 Feb 2024 05:09:58 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5yZWZsZWN0b3IuY29tL25ld3MvbmF0aW9uYWwvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfYWRmYmI4OWQtMzk2Ny01ZmRkLWIwNGMtOGRiNzA2YWQzNGRmLmh0bWzSAQA?oc=5\" target=\"_blank\">Which states could have abortion on the ballot in 2024?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Reflector</font>"
-            ],
-            "source": [
-              {
-                "_": "The Daily Reflector",
-                "$": {
-                  "url": "https://www.reflector.com"
                 }
               }
             ]
@@ -2133,6 +2133,36 @@
           },
           {
             "title": [
+              "Which states could have abortion on the ballot in 2024? - The Daily Reflector"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5yZWZsZWN0b3IuY29tL25ld3MvbmF0aW9uYWwvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfYWRmYmI4OWQtMzk2Ny01ZmRkLWIwNGMtOGRiNzA2YWQzNGRmLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL3d3dy5yZWZsZWN0b3IuY29tL25ld3MvbmF0aW9uYWwvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfYWRmYmI4OWQtMzk2Ny01ZmRkLWIwNGMtOGRiNzA2YWQzNGRmLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 05:09:58 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5yZWZsZWN0b3IuY29tL25ld3MvbmF0aW9uYWwvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfYWRmYmI4OWQtMzk2Ny01ZmRkLWIwNGMtOGRiNzA2YWQzNGRmLmh0bWzSAQA?oc=5\" target=\"_blank\">Which states could have abortion on the ballot in 2024?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Reflector</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Reflector",
+                "$": {
+                  "url": "https://www.reflector.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "New York Proposal 1 Election Results: Change the Debt Limit for Small-City School Districts - The New York Times"
             ],
             "link": [
@@ -2193,36 +2223,6 @@
           },
           {
             "title": [
-              "Which states could have abortion on the ballot in 2024? - Hamilton Spectator"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy50aGVzcGVjLmNvbS9uZXdzL3dvcmxkL3VuaXRlZC1zdGF0ZXMvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfNTNkMGI2NzItZTY1NC01N2JiLWIwZTctMmQxZTNkN2ZkYTZkLmh0bWzSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMimQFodHRwczovL3d3dy50aGVzcGVjLmNvbS9uZXdzL3dvcmxkL3VuaXRlZC1zdGF0ZXMvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfNTNkMGI2NzItZTY1NC01N2JiLWIwZTctMmQxZTNkN2ZkYTZkLmh0bWzSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 07 Feb 2024 05:15:27 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy50aGVzcGVjLmNvbS9uZXdzL3dvcmxkL3VuaXRlZC1zdGF0ZXMvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfNTNkMGI2NzItZTY1NC01N2JiLWIwZTctMmQxZTNkN2ZkYTZkLmh0bWzSAQA?oc=5\" target=\"_blank\">Which states could have abortion on the ballot in 2024?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamilton Spectator</font>"
-            ],
-            "source": [
-              {
-                "_": "Hamilton Spectator",
-                "$": {
-                  "url": "https://www.thespec.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Ballot measures addressing drugs and walkouts could set the tone for legislative session - KATU"
             ],
             "link": [
@@ -2247,6 +2247,36 @@
                 "_": "KATU",
                 "$": {
                   "url": "https://katu.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Which states could have abortion on the ballot in 2024? - Hamilton Spectator"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy50aGVzcGVjLmNvbS9uZXdzL3dvcmxkL3VuaXRlZC1zdGF0ZXMvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfNTNkMGI2NzItZTY1NC01N2JiLWIwZTctMmQxZTNkN2ZkYTZkLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimQFodHRwczovL3d3dy50aGVzcGVjLmNvbS9uZXdzL3dvcmxkL3VuaXRlZC1zdGF0ZXMvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfNTNkMGI2NzItZTY1NC01N2JiLWIwZTctMmQxZTNkN2ZkYTZkLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 05:15:27 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy50aGVzcGVjLmNvbS9uZXdzL3dvcmxkL3VuaXRlZC1zdGF0ZXMvd2hpY2gtc3RhdGVzLWNvdWxkLWhhdmUtYWJvcnRpb24tb24tdGhlLWJhbGxvdC1pbi0yMDI0L2FydGljbGVfNTNkMGI2NzItZTY1NC01N2JiLWIwZTctMmQxZTNkN2ZkYTZkLmh0bWzSAQA?oc=5\" target=\"_blank\">Which states could have abortion on the ballot in 2024?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamilton Spectator</font>"
+            ],
+            "source": [
+              {
+                "_": "Hamilton Spectator",
+                "$": {
+                  "url": "https://www.thespec.com"
                 }
               }
             ]
@@ -2313,36 +2343,6 @@
           },
           {
             "title": [
-              "Florida Lawmakers Attempt to Limit THC Potency Before Potential Vote on Adult-Use Cannabis Ballot Measure - Cannabis Business Times"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNhbm5hYmlzYnVzaW5lc3N0aW1lcy5jb20vbmV3cy9mbG9yaWRhLWxhd21ha2Vycy1hdHRlbXB0LXRvLWxpbWl0LXRoYy1wb3RlbmN5LWFkdWx0LXVzZS1jYW5uYWJpcy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMibWh0dHBzOi8vd3d3LmNhbm5hYmlzYnVzaW5lc3N0aW1lcy5jb20vbmV3cy9mbG9yaWRhLWxhd21ha2Vycy1hdHRlbXB0LXRvLWxpbWl0LXRoYy1wb3RlbmN5LWFkdWx0LXVzZS1jYW5uYWJpcy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 02 Feb 2024 19:25:59 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNhbm5hYmlzYnVzaW5lc3N0aW1lcy5jb20vbmV3cy9mbG9yaWRhLWxhd21ha2Vycy1hdHRlbXB0LXRvLWxpbWl0LXRoYy1wb3RlbmN5LWFkdWx0LXVzZS1jYW5uYWJpcy_SAQA?oc=5\" target=\"_blank\">Florida Lawmakers Attempt to Limit THC Potency Before Potential Vote on Adult-Use Cannabis Ballot Measure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cannabis Business Times</font>"
-            ],
-            "source": [
-              {
-                "_": "Cannabis Business Times",
-                "$": {
-                  "url": "https://www.cannabisbusinesstimes.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Ballot Measure Highlights from the August 2023 Primary Election - MRSC"
             ],
             "link": [
@@ -2373,6 +2373,36 @@
           },
           {
             "title": [
+              "Florida Lawmakers Attempt to Limit THC Potency Before Potential Vote on Adult-Use Cannabis Ballot Measure - Cannabis Business Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNhbm5hYmlzYnVzaW5lc3N0aW1lcy5jb20vbmV3cy9mbG9yaWRhLWxhd21ha2Vycy1hdHRlbXB0LXRvLWxpbWl0LXRoYy1wb3RlbmN5LWFkdWx0LXVzZS1jYW5uYWJpcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibWh0dHBzOi8vd3d3LmNhbm5hYmlzYnVzaW5lc3N0aW1lcy5jb20vbmV3cy9mbG9yaWRhLWxhd21ha2Vycy1hdHRlbXB0LXRvLWxpbWl0LXRoYy1wb3RlbmN5LWFkdWx0LXVzZS1jYW5uYWJpcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 19:25:59 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNhbm5hYmlzYnVzaW5lc3N0aW1lcy5jb20vbmV3cy9mbG9yaWRhLWxhd21ha2Vycy1hdHRlbXB0LXRvLWxpbWl0LXRoYy1wb3RlbmN5LWFkdWx0LXVzZS1jYW5uYWJpcy_SAQA?oc=5\" target=\"_blank\">Florida Lawmakers Attempt to Limit THC Potency Before Potential Vote on Adult-Use Cannabis Ballot Measure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cannabis Business Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Cannabis Business Times",
+                "$": {
+                  "url": "https://www.cannabisbusinesstimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "What Californians Need to Know About the 2024 Mental Health Ballot Measure - California Health Care Foundation"
             ],
             "link": [
@@ -2397,36 +2427,6 @@
                 "_": "California Health Care Foundation",
                 "$": {
                   "url": "https://www.chcf.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Arkansas attorney general rejects marijuana initiative language - Marijuana Business Daily"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbWpiaXpkYWlseS5jb20vYXJrYW5zYXMtYXR0b3JuZXktZ2VuZXJhbC1yZWplY3RzLW1hcmlqdWFuYS1iYWxsb3QtaW5pdGlhdGl2ZS1sYW5ndWFnZS_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiXmh0dHBzOi8vbWpiaXpkYWlseS5jb20vYXJrYW5zYXMtYXR0b3JuZXktZ2VuZXJhbC1yZWplY3RzLW1hcmlqdWFuYS1iYWxsb3QtaW5pdGlhdGl2ZS1sYW5ndWFnZS_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 13:30:17 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbWpiaXpkYWlseS5jb20vYXJrYW5zYXMtYXR0b3JuZXktZ2VuZXJhbC1yZWplY3RzLW1hcmlqdWFuYS1iYWxsb3QtaW5pdGlhdGl2ZS1sYW5ndWFnZS_SAQA?oc=5\" target=\"_blank\">Arkansas attorney general rejects marijuana initiative language</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marijuana Business Daily</font>"
-            ],
-            "source": [
-              {
-                "_": "Marijuana Business Daily",
-                "$": {
-                  "url": "https://mjbizdaily.com"
                 }
               }
             ]
@@ -2493,60 +2493,30 @@
           },
           {
             "title": [
-              "Abortion Ballot Tracker: Where Your State Stands on Codifying Reproductive Rights - Rewire News Group"
+              "Arkansas attorney general rejects marijuana initiative language - Marijuana Business Daily"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vcmV3aXJlbmV3c2dyb3VwLmNvbS8yMDI0LzAyLzA2L2Fib3J0aW9uLWJhbGxvdC10cmFja2VyLXdoZXJlLXlvdXItc3RhdGUtc3RhbmRzLW9uLWNvZGlmeWluZy1yZXByb2R1Y3RpdmUtcmlnaHRzL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbWpiaXpkYWlseS5jb20vYXJrYW5zYXMtYXR0b3JuZXktZ2VuZXJhbC1yZWplY3RzLW1hcmlqdWFuYS1iYWxsb3QtaW5pdGlhdGl2ZS1sYW5ndWFnZS_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMieGh0dHBzOi8vcmV3aXJlbmV3c2dyb3VwLmNvbS8yMDI0LzAyLzA2L2Fib3J0aW9uLWJhbGxvdC10cmFja2VyLXdoZXJlLXlvdXItc3RhdGUtc3RhbmRzLW9uLWNvZGlmeWluZy1yZXByb2R1Y3RpdmUtcmlnaHRzL9IBAA",
+                "_": "CBMiXmh0dHBzOi8vbWpiaXpkYWlseS5jb20vYXJrYW5zYXMtYXR0b3JuZXktZ2VuZXJhbC1yZWplY3RzLW1hcmlqdWFuYS1iYWxsb3QtaW5pdGlhdGl2ZS1sYW5ndWFnZS_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 06 Feb 2024 14:52:32 GMT"
+              "Wed, 31 Jan 2024 13:30:17 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vcmV3aXJlbmV3c2dyb3VwLmNvbS8yMDI0LzAyLzA2L2Fib3J0aW9uLWJhbGxvdC10cmFja2VyLXdoZXJlLXlvdXItc3RhdGUtc3RhbmRzLW9uLWNvZGlmeWluZy1yZXByb2R1Y3RpdmUtcmlnaHRzL9IBAA?oc=5\" target=\"_blank\">Abortion Ballot Tracker: Where Your State Stands on Codifying Reproductive Rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rewire News Group</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbWpiaXpkYWlseS5jb20vYXJrYW5zYXMtYXR0b3JuZXktZ2VuZXJhbC1yZWplY3RzLW1hcmlqdWFuYS1iYWxsb3QtaW5pdGlhdGl2ZS1sYW5ndWFnZS_SAQA?oc=5\" target=\"_blank\">Arkansas attorney general rejects marijuana initiative language</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marijuana Business Daily</font>"
             ],
             "source": [
               {
-                "_": "Rewire News Group",
+                "_": "Marijuana Business Daily",
                 "$": {
-                  "url": "https://rewirenewsgroup.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "What's the status of the proposed ballot measure to end 'factory farming' in Sonoma County - North Bay Business Journal"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5ub3J0aGJheWJ1c2luZXNzam91cm5hbC5jb20vYXJ0aWNsZS9hcnRpY2xlL3doYXQtdGhlLXByb3Bvc2VkLWJhbGxvdC1tZWFzdXJlLXRvLWVuZC1mYWN0b3J5LWZhcm1zLWluLXNvbm9tYS1jb3VudHktd28v0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiggFodHRwczovL3d3dy5ub3J0aGJheWJ1c2luZXNzam91cm5hbC5jb20vYXJ0aWNsZS9hcnRpY2xlL3doYXQtdGhlLXByb3Bvc2VkLWJhbGxvdC1tZWFzdXJlLXRvLWVuZC1mYWN0b3J5LWZhcm1zLWluLXNvbm9tYS1jb3VudHktd28v0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 23:39:22 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5ub3J0aGJheWJ1c2luZXNzam91cm5hbC5jb20vYXJ0aWNsZS9hcnRpY2xlL3doYXQtdGhlLXByb3Bvc2VkLWJhbGxvdC1tZWFzdXJlLXRvLWVuZC1mYWN0b3J5LWZhcm1zLWluLXNvbm9tYS1jb3VudHktd28v0gEA?oc=5\" target=\"_blank\">What's the status of the proposed ballot measure to end 'factory farming' in Sonoma County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North Bay Business Journal</font>"
-            ],
-            "source": [
-              {
-                "_": "North Bay Business Journal",
-                "$": {
-                  "url": "https://www.northbaybusinessjournal.com"
+                  "url": "https://mjbizdaily.com"
                 }
               }
             ]
@@ -2577,6 +2547,36 @@
                 "_": "Reuters",
                 "$": {
                   "url": "https://www.reuters.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "What's the status of the proposed ballot measure to end 'factory farming' in Sonoma County - North Bay Business Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5ub3J0aGJheWJ1c2luZXNzam91cm5hbC5jb20vYXJ0aWNsZS9hcnRpY2xlL3doYXQtdGhlLXByb3Bvc2VkLWJhbGxvdC1tZWFzdXJlLXRvLWVuZC1mYWN0b3J5LWZhcm1zLWluLXNvbm9tYS1jb3VudHktd28v0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiggFodHRwczovL3d3dy5ub3J0aGJheWJ1c2luZXNzam91cm5hbC5jb20vYXJ0aWNsZS9hcnRpY2xlL3doYXQtdGhlLXByb3Bvc2VkLWJhbGxvdC1tZWFzdXJlLXRvLWVuZC1mYWN0b3J5LWZhcm1zLWluLXNvbm9tYS1jb3VudHktd28v0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 23:39:22 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5ub3J0aGJheWJ1c2luZXNzam91cm5hbC5jb20vYXJ0aWNsZS9hcnRpY2xlL3doYXQtdGhlLXByb3Bvc2VkLWJhbGxvdC1tZWFzdXJlLXRvLWVuZC1mYWN0b3J5LWZhcm1zLWluLXNvbm9tYS1jb3VudHktd28v0gEA?oc=5\" target=\"_blank\">What's the status of the proposed ballot measure to end 'factory farming' in Sonoma County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North Bay Business Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "North Bay Business Journal",
+                "$": {
+                  "url": "https://www.northbaybusinessjournal.com"
                 }
               }
             ]
@@ -2667,6 +2667,36 @@
                 "_": "Boulder County (.gov)",
                 "$": {
                   "url": "https://bouldercounty.gov"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Abortion Ballot Tracker: Where Your State Stands on Codifying Reproductive Rights - Rewire News Group"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vcmV3aXJlbmV3c2dyb3VwLmNvbS8yMDI0LzAyLzA2L2Fib3J0aW9uLWJhbGxvdC10cmFja2VyLXdoZXJlLXlvdXItc3RhdGUtc3RhbmRzLW9uLWNvZGlmeWluZy1yZXByb2R1Y3RpdmUtcmlnaHRzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vcmV3aXJlbmV3c2dyb3VwLmNvbS8yMDI0LzAyLzA2L2Fib3J0aW9uLWJhbGxvdC10cmFja2VyLXdoZXJlLXlvdXItc3RhdGUtc3RhbmRzLW9uLWNvZGlmeWluZy1yZXByb2R1Y3RpdmUtcmlnaHRzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:52:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vcmV3aXJlbmV3c2dyb3VwLmNvbS8yMDI0LzAyLzA2L2Fib3J0aW9uLWJhbGxvdC10cmFja2VyLXdoZXJlLXlvdXItc3RhdGUtc3RhbmRzLW9uLWNvZGlmeWluZy1yZXByb2R1Y3RpdmUtcmlnaHRzL9IBAA?oc=5\" target=\"_blank\">Abortion Ballot Tracker: Where Your State Stands on Codifying Reproductive Rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rewire News Group</font>"
+            ],
+            "source": [
+              {
+                "_": "Rewire News Group",
+                "$": {
+                  "url": "https://rewirenewsgroup.com"
                 }
               }
             ]

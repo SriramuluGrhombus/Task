@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:43 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -843,36 +843,6 @@
           },
           {
             "title": [
-              "Federal program inadvertently promotes costlier drugs | Cornell Chronicle - Cornell Chronicle"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmV3cy5jb3JuZWxsLmVkdS9zdG9yaWVzLzIwMjMvMDYvZmVkZXJhbC1wcm9ncmFtLWluYWR2ZXJ0ZW50bHktcHJvbW90ZXMtY29zdGxpZXItZHJ1Z3PSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiXmh0dHBzOi8vbmV3cy5jb3JuZWxsLmVkdS9zdG9yaWVzLzIwMjMvMDYvZmVkZXJhbC1wcm9ncmFtLWluYWR2ZXJ0ZW50bHktcHJvbW90ZXMtY29zdGxpZXItZHJ1Z3PSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 20 Jun 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmV3cy5jb3JuZWxsLmVkdS9zdG9yaWVzLzIwMjMvMDYvZmVkZXJhbC1wcm9ncmFtLWluYWR2ZXJ0ZW50bHktcHJvbW90ZXMtY29zdGxpZXItZHJ1Z3PSAQA?oc=5\" target=\"_blank\">Federal program inadvertently promotes costlier drugs | Cornell Chronicle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cornell Chronicle</font>"
-            ],
-            "source": [
-              {
-                "_": "Cornell Chronicle",
-                "$": {
-                  "url": "https://news.cornell.edu"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "340B Program May Be Reducing Biosimilar Uptake - AJMC.com Managed Markets Network"
             ],
             "link": [
@@ -927,36 +897,6 @@
                 "_": "Bloomberg Law",
                 "$": {
                   "url": "https://news.bloomberglaw.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Hospitals hike prices and retain large insurer payments, campus public health study finds - Daily Californian"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiwgFodHRwczovL3d3dy5kYWlseWNhbC5vcmcvbmV3cy9jYW1wdXMvcmVzZWFyY2gtYW5kLWlkZWFzL2hvc3BpdGFscy1oaWtlLXByaWNlcy1hbmQtcmV0YWluLWxhcmdlLWluc3VyZXItcGF5bWVudHMtY2FtcHVzLXB1YmxpYy1oZWFsdGgtc3R1ZHktZmluZHMvYXJ0aWNsZV81NGUwMWM1NC1jNTMxLTExZWUtODM4Zi05YjU1ZjIzMDUxN2YuaHRtbNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiwgFodHRwczovL3d3dy5kYWlseWNhbC5vcmcvbmV3cy9jYW1wdXMvcmVzZWFyY2gtYW5kLWlkZWFzL2hvc3BpdGFscy1oaWtlLXByaWNlcy1hbmQtcmV0YWluLWxhcmdlLWluc3VyZXItcGF5bWVudHMtY2FtcHVzLXB1YmxpYy1oZWFsdGgtc3R1ZHktZmluZHMvYXJ0aWNsZV81NGUwMWM1NC1jNTMxLTExZWUtODM4Zi05YjU1ZjIzMDUxN2YuaHRtbNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 21:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiwgFodHRwczovL3d3dy5kYWlseWNhbC5vcmcvbmV3cy9jYW1wdXMvcmVzZWFyY2gtYW5kLWlkZWFzL2hvc3BpdGFscy1oaWtlLXByaWNlcy1hbmQtcmV0YWluLWxhcmdlLWluc3VyZXItcGF5bWVudHMtY2FtcHVzLXB1YmxpYy1oZWFsdGgtc3R1ZHktZmluZHMvYXJ0aWNsZV81NGUwMWM1NC1jNTMxLTExZWUtODM4Zi05YjU1ZjIzMDUxN2YuaHRtbNIBAA?oc=5\" target=\"_blank\">Hospitals hike prices and retain large insurer payments, campus public health study finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Californian</font>"
-            ],
-            "source": [
-              {
-                "_": "Daily Californian",
-                "$": {
-                  "url": "https://www.dailycal.org"
                 }
               }
             ]
@@ -1077,6 +1017,36 @@
                 "_": "Healthcare Finance News",
                 "$": {
                   "url": "https://www.healthcarefinancenews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Hospitals hike prices and retain large insurer payments, campus public health study finds - Daily Californian"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiwgFodHRwczovL3d3dy5kYWlseWNhbC5vcmcvbmV3cy9jYW1wdXMvcmVzZWFyY2gtYW5kLWlkZWFzL2hvc3BpdGFscy1oaWtlLXByaWNlcy1hbmQtcmV0YWluLWxhcmdlLWluc3VyZXItcGF5bWVudHMtY2FtcHVzLXB1YmxpYy1oZWFsdGgtc3R1ZHktZmluZHMvYXJ0aWNsZV81NGUwMWM1NC1jNTMxLTExZWUtODM4Zi05YjU1ZjIzMDUxN2YuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiwgFodHRwczovL3d3dy5kYWlseWNhbC5vcmcvbmV3cy9jYW1wdXMvcmVzZWFyY2gtYW5kLWlkZWFzL2hvc3BpdGFscy1oaWtlLXByaWNlcy1hbmQtcmV0YWluLWxhcmdlLWluc3VyZXItcGF5bWVudHMtY2FtcHVzLXB1YmxpYy1oZWFsdGgtc3R1ZHktZmluZHMvYXJ0aWNsZV81NGUwMWM1NC1jNTMxLTExZWUtODM4Zi05YjU1ZjIzMDUxN2YuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiwgFodHRwczovL3d3dy5kYWlseWNhbC5vcmcvbmV3cy9jYW1wdXMvcmVzZWFyY2gtYW5kLWlkZWFzL2hvc3BpdGFscy1oaWtlLXByaWNlcy1hbmQtcmV0YWluLWxhcmdlLWluc3VyZXItcGF5bWVudHMtY2FtcHVzLXB1YmxpYy1oZWFsdGgtc3R1ZHktZmluZHMvYXJ0aWNsZV81NGUwMWM1NC1jNTMxLTExZWUtODM4Zi05YjU1ZjIzMDUxN2YuaHRtbNIBAA?oc=5\" target=\"_blank\">Hospitals hike prices and retain large insurer payments, campus public health study finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Californian</font>"
+            ],
+            "source": [
+              {
+                "_": "Daily Californian",
+                "$": {
+                  "url": "https://www.dailycal.org"
                 }
               }
             ]
@@ -1953,36 +1923,6 @@
           },
           {
             "title": [
-              "Are 340B drug discount programs at risk of being cut? - Medical Economics"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm1lZGljYWxlY29ub21pY3MuY29tL3ZpZXcvYXJlLTM0MGItZHJ1Zy1kaXNjb3VudC1wcm9ncmFtcy1hdC1yaXNrLW9mLWJlaW5nLWN1dC3SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiW2h0dHBzOi8vd3d3Lm1lZGljYWxlY29ub21pY3MuY29tL3ZpZXcvYXJlLTM0MGItZHJ1Zy1kaXNjb3VudC1wcm9ncmFtcy1hdC1yaXNrLW9mLWJlaW5nLWN1dC3SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 24 Mar 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm1lZGljYWxlY29ub21pY3MuY29tL3ZpZXcvYXJlLTM0MGItZHJ1Zy1kaXNjb3VudC1wcm9ncmFtcy1hdC1yaXNrLW9mLWJlaW5nLWN1dC3SAQA?oc=5\" target=\"_blank\">Are 340B drug discount programs at risk of being cut?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Economics</font>"
-            ],
-            "source": [
-              {
-                "_": "Medical Economics",
-                "$": {
-                  "url": "https://www.medicaleconomics.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "CMS Proposes $9 Billion Lump-Sum Repayment to 340B Hospitals - AJMC.com Managed Markets Network"
             ],
             "link": [
@@ -2007,6 +1947,36 @@
                 "_": "AJMC.com Managed Markets Network",
                 "$": {
                   "url": "https://www.ajmc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Are 340B drug discount programs at risk of being cut? - Medical Economics"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm1lZGljYWxlY29ub21pY3MuY29tL3ZpZXcvYXJlLTM0MGItZHJ1Zy1kaXNjb3VudC1wcm9ncmFtcy1hdC1yaXNrLW9mLWJlaW5nLWN1dC3SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vd3d3Lm1lZGljYWxlY29ub21pY3MuY29tL3ZpZXcvYXJlLTM0MGItZHJ1Zy1kaXNjb3VudC1wcm9ncmFtcy1hdC1yaXNrLW9mLWJlaW5nLWN1dC3SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 24 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm1lZGljYWxlY29ub21pY3MuY29tL3ZpZXcvYXJlLTM0MGItZHJ1Zy1kaXNjb3VudC1wcm9ncmFtcy1hdC1yaXNrLW9mLWJlaW5nLWN1dC3SAQA?oc=5\" target=\"_blank\">Are 340B drug discount programs at risk of being cut?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Economics</font>"
+            ],
+            "source": [
+              {
+                "_": "Medical Economics",
+                "$": {
+                  "url": "https://www.medicaleconomics.com"
                 }
               }
             ]
@@ -2163,36 +2133,6 @@
           },
           {
             "title": [
-              "AHA discusses legislative proposals on site-neutral, 340B and other issues at House subcommittee hearing | AHA News - American Hospital Association"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5haGEub3JnL25ld3MvaGVhZGxpbmUvMjAyMy0wNC0yNi1haGEtZGlzY3Vzc2VzLWxlZ2lzbGF0aXZlLXByb3Bvc2Fscy1zaXRlLW5ldXRyYWwtMzQwYi1hbmQtb3RoZXItaXNzdWVzLWhvdXNlLXN1YmNvbW1pdHRlZS1oZWFyaW5n0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMijgFodHRwczovL3d3dy5haGEub3JnL25ld3MvaGVhZGxpbmUvMjAyMy0wNC0yNi1haGEtZGlzY3Vzc2VzLWxlZ2lzbGF0aXZlLXByb3Bvc2Fscy1zaXRlLW5ldXRyYWwtMzQwYi1hbmQtb3RoZXItaXNzdWVzLWhvdXNlLXN1YmNvbW1pdHRlZS1oZWFyaW5n0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 26 Apr 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5haGEub3JnL25ld3MvaGVhZGxpbmUvMjAyMy0wNC0yNi1haGEtZGlzY3Vzc2VzLWxlZ2lzbGF0aXZlLXByb3Bvc2Fscy1zaXRlLW5ldXRyYWwtMzQwYi1hbmQtb3RoZXItaXNzdWVzLWhvdXNlLXN1YmNvbW1pdHRlZS1oZWFyaW5n0gEA?oc=5\" target=\"_blank\">AHA discusses legislative proposals on site-neutral, 340B and other issues at House subcommittee hearing | AHA News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Hospital Association</font>"
-            ],
-            "source": [
-              {
-                "_": "American Hospital Association",
-                "$": {
-                  "url": "https://www.aha.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Penn hospital will get $86 million from 340B drug program - The Philadelphia Inquirer"
             ],
             "link": [
@@ -2217,6 +2157,36 @@
                 "_": "The Philadelphia Inquirer",
                 "$": {
                   "url": "https://www.inquirer.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AHA discusses legislative proposals on site-neutral, 340B and other issues at House subcommittee hearing | AHA News - American Hospital Association"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5haGEub3JnL25ld3MvaGVhZGxpbmUvMjAyMy0wNC0yNi1haGEtZGlzY3Vzc2VzLWxlZ2lzbGF0aXZlLXByb3Bvc2Fscy1zaXRlLW5ldXRyYWwtMzQwYi1hbmQtb3RoZXItaXNzdWVzLWhvdXNlLXN1YmNvbW1pdHRlZS1oZWFyaW5n0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijgFodHRwczovL3d3dy5haGEub3JnL25ld3MvaGVhZGxpbmUvMjAyMy0wNC0yNi1haGEtZGlzY3Vzc2VzLWxlZ2lzbGF0aXZlLXByb3Bvc2Fscy1zaXRlLW5ldXRyYWwtMzQwYi1hbmQtb3RoZXItaXNzdWVzLWhvdXNlLXN1YmNvbW1pdHRlZS1oZWFyaW5n0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 26 Apr 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5haGEub3JnL25ld3MvaGVhZGxpbmUvMjAyMy0wNC0yNi1haGEtZGlzY3Vzc2VzLWxlZ2lzbGF0aXZlLXByb3Bvc2Fscy1zaXRlLW5ldXRyYWwtMzQwYi1hbmQtb3RoZXItaXNzdWVzLWhvdXNlLXN1YmNvbW1pdHRlZS1oZWFyaW5n0gEA?oc=5\" target=\"_blank\">AHA discusses legislative proposals on site-neutral, 340B and other issues at House subcommittee hearing | AHA News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Hospital Association</font>"
+            ],
+            "source": [
+              {
+                "_": "American Hospital Association",
+                "$": {
+                  "url": "https://www.aha.org"
                 }
               }
             ]
@@ -2763,6 +2733,36 @@
           },
           {
             "title": [
+              "Surging Drug Sales Under Controversial Program Raises Concerns - The Healthcare Technology Report."
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdGhlaGVhbHRoY2FyZXRlY2hub2xvZ3lyZXBvcnQuY29tL3N1cmdpbmctZHJ1Zy1zYWxlcy11bmRlci1jb250cm92ZXJzaWFsLXByb2dyYW0tcmFpc2VzLWNvbmNlcm5zL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiaWh0dHBzOi8vdGhlaGVhbHRoY2FyZXRlY2hub2xvZ3lyZXBvcnQuY29tL3N1cmdpbmctZHJ1Zy1zYWxlcy11bmRlci1jb250cm92ZXJzaWFsLXByb2dyYW0tcmFpc2VzLWNvbmNlcm5zL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 13 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdGhlaGVhbHRoY2FyZXRlY2hub2xvZ3lyZXBvcnQuY29tL3N1cmdpbmctZHJ1Zy1zYWxlcy11bmRlci1jb250cm92ZXJzaWFsLXByb2dyYW0tcmFpc2VzLWNvbmNlcm5zL9IBAA?oc=5\" target=\"_blank\">Surging Drug Sales Under Controversial Program Raises Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Healthcare Technology Report.</font>"
+            ],
+            "source": [
+              {
+                "_": "The Healthcare Technology Report.",
+                "$": {
+                  "url": "https://thehealthcaretechnologyreport.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Making the Most of Your 340B Administrator - Pharmacy Practice News"
             ],
             "link": [
@@ -3003,30 +3003,30 @@
           },
           {
             "title": [
-              "340B Drug Pricing Program Eligibility Tied to Lower Biosimilar Use - RevCycleIntelligence.com"
+              "340Bs Challenge Drug Shortage Bill's Elimination of Sterile Injectable Discounts - Pharmacy Practice News"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vcmV2Y3ljbGVpbnRlbGxpZ2VuY2UuY29tL25ld3MvMzQwYi1kcnVnLXByaWNpbmctcHJvZ3JhbS1lbGlnaWJpbGl0eS10aWVkLXRvLWxvd2VyLWJpb3NpbWlsYXItdXNl0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5waGFybWFjeXByYWN0aWNlbmV3cy5jb20vT25saW5lLUZpcnN0L0FydGljbGUvMDktMjMvMzQwQnMtQ2hhbGxlbmdlLURydWctU2hvcnRhZ2UtQmlsbHMtRWxpbWluYXRpb24tb2YtU3RlcmlsZS1JbmplY3RhYmxlLURpc2NvdW50cy83MTM3NtIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiaGh0dHBzOi8vcmV2Y3ljbGVpbnRlbGxpZ2VuY2UuY29tL25ld3MvMzQwYi1kcnVnLXByaWNpbmctcHJvZ3JhbS1lbGlnaWJpbGl0eS10aWVkLXRvLWxvd2VyLWJpb3NpbWlsYXItdXNl0gEA",
+                "_": "CBMilQFodHRwczovL3d3dy5waGFybWFjeXByYWN0aWNlbmV3cy5jb20vT25saW5lLUZpcnN0L0FydGljbGUvMDktMjMvMzQwQnMtQ2hhbGxlbmdlLURydWctU2hvcnRhZ2UtQmlsbHMtRWxpbWluYXRpb24tb2YtU3RlcmlsZS1JbmplY3RhYmxlLURpc2NvdW50cy83MTM3NtIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Fri, 05 May 2023 07:00:00 GMT"
+              "Tue, 05 Sep 2023 14:48:43 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vcmV2Y3ljbGVpbnRlbGxpZ2VuY2UuY29tL25ld3MvMzQwYi1kcnVnLXByaWNpbmctcHJvZ3JhbS1lbGlnaWJpbGl0eS10aWVkLXRvLWxvd2VyLWJpb3NpbWlsYXItdXNl0gEA?oc=5\" target=\"_blank\">340B Drug Pricing Program Eligibility Tied to Lower Biosimilar Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RevCycleIntelligence.com</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5waGFybWFjeXByYWN0aWNlbmV3cy5jb20vT25saW5lLUZpcnN0L0FydGljbGUvMDktMjMvMzQwQnMtQ2hhbGxlbmdlLURydWctU2hvcnRhZ2UtQmlsbHMtRWxpbWluYXRpb24tb2YtU3RlcmlsZS1JbmplY3RhYmxlLURpc2NvdW50cy83MTM3NtIBAA?oc=5\" target=\"_blank\">340Bs Challenge Drug Shortage Bill's Elimination of Sterile Injectable Discounts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmacy Practice News</font>"
             ],
             "source": [
               {
-                "_": "RevCycleIntelligence.com",
+                "_": "Pharmacy Practice News",
                 "$": {
-                  "url": "https://revcycleintelligence.com"
+                  "url": "https://www.pharmacypracticenews.com"
                 }
               }
             ]

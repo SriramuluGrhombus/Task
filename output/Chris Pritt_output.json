@@ -25,12 +25,42 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:41 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
         ],
         "item": [
+          {
+            "title": [
+              "Highlights of last week's events in the House of Delegates - spiritofjefferson"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiV2h0dHA6Ly93d3cuc3Bpcml0b2ZqZWZmZXJzb24uY29tL25ld3MvYXJ0aWNsZV9kZTczMjBmYS1iYjI4LTExZWUtODI2MS1kNzBjZWEzMTY1NTMuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiV2h0dHA6Ly93d3cuc3Bpcml0b2ZqZWZmZXJzb24uY29tL25ld3MvYXJ0aWNsZV9kZTczMjBmYS1iYjI4LTExZWUtODI2MS1kNzBjZWEzMTY1NTMuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 02:24:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHA6Ly93d3cuc3Bpcml0b2ZqZWZmZXJzb24uY29tL25ld3MvYXJ0aWNsZV9kZTczMjBmYS1iYjI4LTExZWUtODI2MS1kNzBjZWEzMTY1NTMuaHRtbNIBAA?oc=5\" target=\"_blank\">Highlights of last week's events in the House of Delegates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spiritofjefferson</font>"
+            ],
+            "source": [
+              {
+                "_": "spiritofjefferson",
+                "$": {
+                  "url": "http://www.spiritofjefferson.com"
+                }
+              }
+            ]
+          },
           {
             "title": [
               "Delegate announces run for West Virginia Secretary of State - WOWK 13 News"
@@ -57,36 +87,6 @@
                 "_": "WOWK 13 News",
                 "$": {
                   "url": "https://www.wowktv.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "West Virginia Bill Would Create State Process to End Police Qualified Immunity | Tenth Amendment Center - blog.tenthamendmentcenter.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYmxvZy50ZW50aGFtZW5kbWVudGNlbnRlci5jb20vMjAyNC8wMS93ZXN0LXZpcmdpbmlhLWJpbGwtY3JlYXRlLXN0YXRlLXByb2Nlc3MtdG8tZW5kLXBvbGljZS1xdWFsaWZpZWQtaW1tdW5pdHkv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMid2h0dHBzOi8vYmxvZy50ZW50aGFtZW5kbWVudGNlbnRlci5jb20vMjAyNC8wMS93ZXN0LXZpcmdpbmlhLWJpbGwtY3JlYXRlLXN0YXRlLXByb2Nlc3MtdG8tZW5kLXBvbGljZS1xdWFsaWZpZWQtaW1tdW5pdHkv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 24 Jan 2024 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYmxvZy50ZW50aGFtZW5kbWVudGNlbnRlci5jb20vMjAyNC8wMS93ZXN0LXZpcmdpbmlhLWJpbGwtY3JlYXRlLXN0YXRlLXByb2Nlc3MtdG8tZW5kLXBvbGljZS1xdWFsaWZpZWQtaW1tdW5pdHkv0gEA?oc=5\" target=\"_blank\">West Virginia Bill Would Create State Process to End Police Qualified Immunity | Tenth Amendment Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.tenthamendmentcenter.com</font>"
-            ],
-            "source": [
-              {
-                "_": "blog.tenthamendmentcenter.com",
-                "$": {
-                  "url": "https://blog.tenthamendmentcenter.com"
                 }
               }
             ]
@@ -123,90 +123,30 @@
           },
           {
             "title": [
-              "High school football: Volusia-Flagler award winners for first half - Daytona Beach News-Journal"
+              "Big 12 Conference football, CFP predictions from UCF, WVU grads - Daytona Beach News-Journal"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEwLzAyL2hpZ2gtc2Nob29sLWZvb3RiYWxsLXZvbHVzaWEtZmxhZ2xlci1hd2FyZC13aW5uZXJzLWZvci1maXJzdC1oYWxmLzcwOTcyMDY4MDA3L9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2Zvb3RiYWxsLzIwMjMvMDgvMTkvYmlnLTEyLWNvbmZlcmVuY2UtZm9vdGJhbGwtY2ZwLXByZWRpY3Rpb25zLWZyb20tdWNmLXd2dS1ncmFkcy83MDU5MDc4ODAwNy_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMingFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEwLzAyL2hpZ2gtc2Nob29sLWZvb3RiYWxsLXZvbHVzaWEtZmxhZ2xlci1hd2FyZC13aW5uZXJzLWZvci1maXJzdC1oYWxmLzcwOTcyMDY4MDA3L9IBAA",
+                "_": "CBMilgFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2Zvb3RiYWxsLzIwMjMvMDgvMTkvYmlnLTEyLWNvbmZlcmVuY2UtZm9vdGJhbGwtY2ZwLXByZWRpY3Rpb25zLWZyb20tdWNmLXd2dS1ncmFkcy83MDU5MDc4ODAwNy_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 02 Oct 2023 07:00:00 GMT"
+              "Sat, 19 Aug 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEwLzAyL2hpZ2gtc2Nob29sLWZvb3RiYWxsLXZvbHVzaWEtZmxhZ2xlci1hd2FyZC13aW5uZXJzLWZvci1maXJzdC1oYWxmLzcwOTcyMDY4MDA3L9IBAA?oc=5\" target=\"_blank\">High school football: Volusia-Flagler award winners for first half</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2Zvb3RiYWxsLzIwMjMvMDgvMTkvYmlnLTEyLWNvbmZlcmVuY2UtZm9vdGJhbGwtY2ZwLXByZWRpY3Rpb25zLWZyb20tdWNmLXd2dS1ncmFkcy83MDU5MDc4ODAwNy_SAQA?oc=5\" target=\"_blank\">Big 12 Conference football, CFP predictions from UCF, WVU grads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>"
             ],
             "source": [
               {
                 "_": "Daytona Beach News-Journal",
                 "$": {
                   "url": "https://www.news-journalonline.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "WV religious freedom bill sparks concerns of LGBTQ discrimination - Mountain State Spotlight"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbW91bnRhaW5zdGF0ZXNwb3RsaWdodC5vcmcvMjAyMy8wMi8yMi93di1sZ2J0cS1kaXNjcmltaW5hdGlvbi1yZWxpZ2lvdXMtZnJlZWRvbS1zcy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiW2h0dHBzOi8vbW91bnRhaW5zdGF0ZXNwb3RsaWdodC5vcmcvMjAyMy8wMi8yMi93di1sZ2J0cS1kaXNjcmltaW5hdGlvbi1yZWxpZ2lvdXMtZnJlZWRvbS1zcy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 22 Feb 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbW91bnRhaW5zdGF0ZXNwb3RsaWdodC5vcmcvMjAyMy8wMi8yMi93di1sZ2J0cS1kaXNjcmltaW5hdGlvbi1yZWxpZ2lvdXMtZnJlZWRvbS1zcy_SAQA?oc=5\" target=\"_blank\">WV religious freedom bill sparks concerns of LGBTQ discrimination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mountain State Spotlight</font>"
-            ],
-            "source": [
-              {
-                "_": "Mountain State Spotlight",
-                "$": {
-                  "url": "https://mountainstatespotlight.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "WV Lawmaker Introduces Bill To Ban 'Diversity, Equity And Inclusion' Policies On College Campuses - The Daily Wire"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmRhaWx5d2lyZS5jb20vbmV3cy93di1sYXdtYWtlci1pbnRyb2R1Y2VzLWJpbGwtdG8tYmFuLWRpdmVyc2l0eS1lcXVpdHktYW5kLWluY2x1c2lvbi1wb2xpY2llcy1vbi1jb2xsZWdlLWNhbXB1c2Vz0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifWh0dHBzOi8vd3d3LmRhaWx5d2lyZS5jb20vbmV3cy93di1sYXdtYWtlci1pbnRyb2R1Y2VzLWJpbGwtdG8tYmFuLWRpdmVyc2l0eS1lcXVpdHktYW5kLWluY2x1c2lvbi1wb2xpY2llcy1vbi1jb2xsZWdlLWNhbXB1c2Vz0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 14 Feb 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmRhaWx5d2lyZS5jb20vbmV3cy93di1sYXdtYWtlci1pbnRyb2R1Y2VzLWJpbGwtdG8tYmFuLWRpdmVyc2l0eS1lcXVpdHktYW5kLWluY2x1c2lvbi1wb2xpY2llcy1vbi1jb2xsZWdlLWNhbXB1c2Vz0gEA?oc=5\" target=\"_blank\">WV Lawmaker Introduces Bill To Ban 'Diversity, Equity And Inclusion' Policies On College Campuses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Wire</font>"
-            ],
-            "source": [
-              {
-                "_": "The Daily Wire",
-                "$": {
-                  "url": "https://www.dailywire.com"
                 }
               }
             ]
@@ -243,30 +183,120 @@
           },
           {
             "title": [
-              "Big 12 football breakdown: Texas is back, Baylor is not, TCU never left - Daytona Beach News-Journal"
+              "Predicting UCF football record in first Big 12 Conference season - Daytona Beach News-Journal"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL3VjZi8yMDIzLzA5LzIzL2JpZy0xMi1jb2xsZWdlLWZvb3RiYWxsLXRleGFzLWJheWxvci1pb3dhLXN0YXRlLWJ5dS1va2xhaG9tYS83MDg5NzUwODAwNy_SAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2Zvb3RiYWxsLzIwMjMvMDgvMjcvdWNmLWZvb3RiYWxsLXJlY29yZC1pbi1iaWctMTItY29uZmVyZW5jZS83MDY0MTM4NDAwNy_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMikAFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL3VjZi8yMDIzLzA5LzIzL2JpZy0xMi1jb2xsZWdlLWZvb3RiYWxsLXRleGFzLWJheWxvci1pb3dhLXN0YXRlLWJ5dS1va2xhaG9tYS83MDg5NzUwODAwNy_SAQA",
+                "_": "CBMigQFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2Zvb3RiYWxsLzIwMjMvMDgvMjcvdWNmLWZvb3RiYWxsLXJlY29yZC1pbi1iaWctMTItY29uZmVyZW5jZS83MDY0MTM4NDAwNy_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Sat, 23 Sep 2023 07:00:00 GMT"
+              "Sun, 27 Aug 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL3VjZi8yMDIzLzA5LzIzL2JpZy0xMi1jb2xsZWdlLWZvb3RiYWxsLXRleGFzLWJheWxvci1pb3dhLXN0YXRlLWJ5dS1va2xhaG9tYS83MDg5NzUwODAwNy_SAQA?oc=5\" target=\"_blank\">Big 12 football breakdown: Texas is back, Baylor is not, TCU never left</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2Zvb3RiYWxsLzIwMjMvMDgvMjcvdWNmLWZvb3RiYWxsLXJlY29yZC1pbi1iaWctMTItY29uZmVyZW5jZS83MDY0MTM4NDAwNy_SAQA?oc=5\" target=\"_blank\">Predicting UCF football record in first Big 12 Conference season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>"
             ],
             "source": [
               {
                 "_": "Daytona Beach News-Journal",
                 "$": {
                   "url": "https://www.news-journalonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WV Lawmaker Introduces Bill To Ban 'Diversity, Equity And Inclusion' Policies On College Campuses - The Daily Wire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmRhaWx5d2lyZS5jb20vbmV3cy93di1sYXdtYWtlci1pbnRyb2R1Y2VzLWJpbGwtdG8tYmFuLWRpdmVyc2l0eS1lcXVpdHktYW5kLWluY2x1c2lvbi1wb2xpY2llcy1vbi1jb2xsZWdlLWNhbXB1c2Vz0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LmRhaWx5d2lyZS5jb20vbmV3cy93di1sYXdtYWtlci1pbnRyb2R1Y2VzLWJpbGwtdG8tYmFuLWRpdmVyc2l0eS1lcXVpdHktYW5kLWluY2x1c2lvbi1wb2xpY2llcy1vbi1jb2xsZWdlLWNhbXB1c2Vz0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 14 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmRhaWx5d2lyZS5jb20vbmV3cy93di1sYXdtYWtlci1pbnRyb2R1Y2VzLWJpbGwtdG8tYmFuLWRpdmVyc2l0eS1lcXVpdHktYW5kLWluY2x1c2lvbi1wb2xpY2llcy1vbi1jb2xsZWdlLWNhbXB1c2Vz0gEA?oc=5\" target=\"_blank\">WV Lawmaker Introduces Bill To Ban 'Diversity, Equity And Inclusion' Policies On College Campuses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Wire</font>"
+            ],
+            "source": [
+              {
+                "_": "The Daily Wire",
+                "$": {
+                  "url": "https://www.dailywire.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "State delegate accuses Wheeling Park High School teacher of pushing critical race theory - WCHS"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL3N0YXRlLWRlbGVnYXRlLWFjY3VzZXMtd2hlZWxpbmctcGFyay1oaWdoLXNjaG9vbC10ZWFjaGVyLW9mLXB1c2hpbmctY3JpdGljYWwtcmFjZS10aGVvcnnSAXpodHRwczovL3djaHN0di5jb20vYW1wL25ld3MvbG9jYWwvc3RhdGUtZGVsZWdhdGUtYWNjdXNlcy13aGVlbGluZy1wYXJrLWhpZ2gtc2Nob29sLXRlYWNoZXItb2YtcHVzaGluZy1jcml0aWNhbC1yYWNlLXRoZW9yeQ?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL3N0YXRlLWRlbGVnYXRlLWFjY3VzZXMtd2hlZWxpbmctcGFyay1oaWdoLXNjaG9vbC10ZWFjaGVyLW9mLXB1c2hpbmctY3JpdGljYWwtcmFjZS10aGVvcnnSAXpodHRwczovL3djaHN0di5jb20vYW1wL25ld3MvbG9jYWwvc3RhdGUtZGVsZWdhdGUtYWNjdXNlcy13aGVlbGluZy1wYXJrLWhpZ2gtc2Nob29sLXRlYWNoZXItb2YtcHVzaGluZy1jcml0aWNhbC1yYWNlLXRoZW9yeQ",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Feb 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd2Noc3R2LmNvbS9uZXdzL2xvY2FsL3N0YXRlLWRlbGVnYXRlLWFjY3VzZXMtd2hlZWxpbmctcGFyay1oaWdoLXNjaG9vbC10ZWFjaGVyLW9mLXB1c2hpbmctY3JpdGljYWwtcmFjZS10aGVvcnnSAXpodHRwczovL3djaHN0di5jb20vYW1wL25ld3MvbG9jYWwvc3RhdGUtZGVsZWdhdGUtYWNjdXNlcy13aGVlbGluZy1wYXJrLWhpZ2gtc2Nob29sLXRlYWNoZXItb2YtcHVzaGluZy1jcml0aWNhbC1yYWNlLXRoZW9yeQ?oc=5\" target=\"_blank\">State delegate accuses Wheeling Park High School teacher of pushing critical race theory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCHS</font>"
+            ],
+            "source": [
+              {
+                "_": "WCHS",
+                "$": {
+                  "url": "https://wchstv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WV religious freedom bill sparks concerns of LGBTQ discrimination - Mountain State Spotlight"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbW91bnRhaW5zdGF0ZXNwb3RsaWdodC5vcmcvMjAyMy8wMi8yMi93di1sZ2J0cS1kaXNjcmltaW5hdGlvbi1yZWxpZ2lvdXMtZnJlZWRvbS1zcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiW2h0dHBzOi8vbW91bnRhaW5zdGF0ZXNwb3RsaWdodC5vcmcvMjAyMy8wMi8yMi93di1sZ2J0cS1kaXNjcmltaW5hdGlvbi1yZWxpZ2lvdXMtZnJlZWRvbS1zcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 22 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbW91bnRhaW5zdGF0ZXNwb3RsaWdodC5vcmcvMjAyMy8wMi8yMi93di1sZ2J0cS1kaXNjcmltaW5hdGlvbi1yZWxpZ2lvdXMtZnJlZWRvbS1zcy_SAQA?oc=5\" target=\"_blank\">WV religious freedom bill sparks concerns of LGBTQ discrimination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mountain State Spotlight</font>"
+            ],
+            "source": [
+              {
+                "_": "Mountain State Spotlight",
+                "$": {
+                  "url": "https://mountainstatespotlight.org"
                 }
               }
             ]
@@ -363,6 +393,66 @@
           },
           {
             "title": [
+              "West Virginia Bill Would Make Gold and Silver Legal Tender in the State | Tenth Amendment Center - blog.tenthamendmentcenter.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vYmxvZy50ZW50aGFtZW5kbWVudGNlbnRlci5jb20vMjAyNC8wMS93ZXN0LXZpcmdpbmlhLWJpbGwtd291bGQtbWFrZS1nb2xkLWFuZC1zaWx2ZXItbGVnYWwtdGVuZGVyLWluLXRoZS1zdGF0ZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMidmh0dHBzOi8vYmxvZy50ZW50aGFtZW5kbWVudGNlbnRlci5jb20vMjAyNC8wMS93ZXN0LXZpcmdpbmlhLWJpbGwtd291bGQtbWFrZS1nb2xkLWFuZC1zaWx2ZXItbGVnYWwtdGVuZGVyLWluLXRoZS1zdGF0ZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 11 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vYmxvZy50ZW50aGFtZW5kbWVudGNlbnRlci5jb20vMjAyNC8wMS93ZXN0LXZpcmdpbmlhLWJpbGwtd291bGQtbWFrZS1nb2xkLWFuZC1zaWx2ZXItbGVnYWwtdGVuZGVyLWluLXRoZS1zdGF0ZS_SAQA?oc=5\" target=\"_blank\">West Virginia Bill Would Make Gold and Silver Legal Tender in the State | Tenth Amendment Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.tenthamendmentcenter.com</font>"
+            ],
+            "source": [
+              {
+                "_": "blog.tenthamendmentcenter.com",
+                "$": {
+                  "url": "https://blog.tenthamendmentcenter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "West Virginia House of Delegates Passes Its Version of Budget - Wheeling Intelligencer"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoZWludGVsbGlnZW5jZXIubmV0L25ld3MvdG9wLWhlYWRsaW5lcy8yMDIyLzAzL3dlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzLXBhc3Nlcy1pdHMtdmVyc2lvbi1vZi1idWRnZXQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LnRoZWludGVsbGlnZW5jZXIubmV0L25ld3MvdG9wLWhlYWRsaW5lcy8yMDIyLzAzL3dlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzLXBhc3Nlcy1pdHMtdmVyc2lvbi1vZi1idWRnZXQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 09 Mar 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoZWludGVsbGlnZW5jZXIubmV0L25ld3MvdG9wLWhlYWRsaW5lcy8yMDIyLzAzL3dlc3QtdmlyZ2luaWEtaG91c2Utb2YtZGVsZWdhdGVzLXBhc3Nlcy1pdHMtdmVyc2lvbi1vZi1idWRnZXQv0gEA?oc=5\" target=\"_blank\">West Virginia House of Delegates Passes Its Version of Budget</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wheeling Intelligencer</font>"
+            ],
+            "source": [
+              {
+                "_": "Wheeling Intelligencer",
+                "$": {
+                  "url": "https://www.theintelligencer.net"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "50% income tax cut legislation passes W.Va. House - WSAZ"
             ],
             "link": [
@@ -393,120 +483,60 @@
           },
           {
             "title": [
-              "Lawmakers Discuss Uses, Concerns Of AI Tech In Legislative Interim - West Virginia Public Broadcasting"
+              "West Virginia House Judiciary Committee takes up bills on immigration enforcement, gender-affirming care - WV News"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3ZwdWJsaWMub3JnL2xhd21ha2Vycy1kaXNjdXNzLXVzZXMtY29uY2VybnMtb2YtYWktdGVjaC1pbi1sZWdpc2xhdGl2ZS1pbnRlcmltL9IBXWh0dHBzOi8vd3ZwdWJsaWMub3JnL2xhd21ha2Vycy1kaXNjdXNzLXVzZXMtY29uY2VybnMtb2YtYWktdGVjaC1pbi1sZWdpc2xhdGl2ZS1pbnRlcmltLz9hbXA9MQ?oc=5"
+              "https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL3dlc3QtdmlyZ2luaWEtaG91c2UtanVkaWNpYXJ5LWNvbW1pdHRlZS10YWtlcy11cC1iaWxscy1vbi1pbW1pZ3JhdGlvbi1lbmZvcmNlbWVudC1nZW5kZXItYWZmaXJtaW5nLWNhcmUvYXJ0aWNsZV8yZGU3YjU2Yy1hMGYyLTExZWQtYjA1MS1jNzFjOTU5MWExYjUuaHRtbNIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiV2h0dHBzOi8vd3ZwdWJsaWMub3JnL2xhd21ha2Vycy1kaXNjdXNzLXVzZXMtY29uY2VybnMtb2YtYWktdGVjaC1pbi1sZWdpc2xhdGl2ZS1pbnRlcmltL9IBXWh0dHBzOi8vd3ZwdWJsaWMub3JnL2xhd21ha2Vycy1kaXNjdXNzLXVzZXMtY29uY2VybnMtb2YtYWktdGVjaC1pbi1sZWdpc2xhdGl2ZS1pbnRlcmltLz9hbXA9MQ",
+                "_": "CBMivAFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL3dlc3QtdmlyZ2luaWEtaG91c2UtanVkaWNpYXJ5LWNvbW1pdHRlZS10YWtlcy11cC1iaWxscy1vbi1pbW1pZ3JhdGlvbi1lbmZvcmNlbWVudC1nZW5kZXItYWZmaXJtaW5nLWNhcmUvYXJ0aWNsZV8yZGU3YjU2Yy1hMGYyLTExZWQtYjA1MS1jNzFjOTU5MWExYjUuaHRtbNIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 09 May 2023 07:00:00 GMT"
+              "Mon, 30 Jan 2023 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3ZwdWJsaWMub3JnL2xhd21ha2Vycy1kaXNjdXNzLXVzZXMtY29uY2VybnMtb2YtYWktdGVjaC1pbi1sZWdpc2xhdGl2ZS1pbnRlcmltL9IBXWh0dHBzOi8vd3ZwdWJsaWMub3JnL2xhd21ha2Vycy1kaXNjdXNzLXVzZXMtY29uY2VybnMtb2YtYWktdGVjaC1pbi1sZWdpc2xhdGl2ZS1pbnRlcmltLz9hbXA9MQ?oc=5\" target=\"_blank\">Lawmakers Discuss Uses, Concerns Of AI Tech In Legislative Interim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia Public Broadcasting</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy53dm5ld3MuY29tL25ld3Mvd3ZuZXdzL3dlc3QtdmlyZ2luaWEtaG91c2UtanVkaWNpYXJ5LWNvbW1pdHRlZS10YWtlcy11cC1iaWxscy1vbi1pbW1pZ3JhdGlvbi1lbmZvcmNlbWVudC1nZW5kZXItYWZmaXJtaW5nLWNhcmUvYXJ0aWNsZV8yZGU3YjU2Yy1hMGYyLTExZWQtYjA1MS1jNzFjOTU5MWExYjUuaHRtbNIBAA?oc=5\" target=\"_blank\">West Virginia House Judiciary Committee takes up bills on immigration enforcement, gender-affirming care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WV News</font>"
             ],
             "source": [
               {
-                "_": "West Virginia Public Broadcasting",
+                "_": "WV News",
                 "$": {
-                  "url": "https://wvpublic.org"
+                  "url": "https://www.wvnews.com"
                 }
               }
             ]
           },
           {
             "title": [
-              "New poll released on statewide races in West Virginia - Parkersburg News"
+              "Big 12 football breakdown: Texas is back, Baylor is not, TCU never left - Daytona Beach News-Journal"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMTEvbmV3LXBvbGwtcmVsZWFzZWQtb24tc3RhdGV3aWRlLXJhY2VzLWluLXdlc3QtdmlyZ2luaWEv0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL3VjZi8yMDIzLzA5LzIzL2JpZy0xMi1jb2xsZWdlLWZvb3RiYWxsLXRleGFzLWJheWxvci1pb3dhLXN0YXRlLWJ5dS1va2xhaG9tYS83MDg5NzUwODAwNy_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMibmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMTEvbmV3LXBvbGwtcmVsZWFzZWQtb24tc3RhdGV3aWRlLXJhY2VzLWluLXdlc3QtdmlyZ2luaWEv0gEA",
+                "_": "CBMikAFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL3VjZi8yMDIzLzA5LzIzL2JpZy0xMi1jb2xsZWdlLWZvb3RiYWxsLXRleGFzLWJheWxvci1pb3dhLXN0YXRlLWJ5dS1va2xhaG9tYS83MDg5NzUwODAwNy_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 23 Nov 2023 08:00:00 GMT"
+              "Sat, 23 Sep 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMTEvbmV3LXBvbGwtcmVsZWFzZWQtb24tc3RhdGV3aWRlLXJhY2VzLWluLXdlc3QtdmlyZ2luaWEv0gEA?oc=5\" target=\"_blank\">New poll released on statewide races in West Virginia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parkersburg News</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL3VjZi8yMDIzLzA5LzIzL2JpZy0xMi1jb2xsZWdlLWZvb3RiYWxsLXRleGFzLWJheWxvci1pb3dhLXN0YXRlLWJ5dS1va2xhaG9tYS83MDg5NzUwODAwNy_SAQA?oc=5\" target=\"_blank\">Big 12 football breakdown: Texas is back, Baylor is not, TCU never left</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>"
             ],
             "source": [
               {
-                "_": "Parkersburg News",
+                "_": "Daytona Beach News-Journal",
                 "$": {
-                  "url": "https://www.newsandsentinel.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "State delegate accuses Wheeling Park High School teacher of pushing critical race theory - WTOV Steubenville"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3RvdjkuY29tL25ld3MvbG9jYWwvc3RhdGUtZGVsZWdhdGUtYWNjdXNlcy13aGVlbGluZy1wYXJrLWhpZ2gtc2Nob29sLXRlYWNoZXItb2YtcHVzaGluZy1jcml0aWNhbC1yYWNlLXRoZW9yedIBeWh0dHBzOi8vd3RvdjkuY29tL2FtcC9uZXdzL2xvY2FsL3N0YXRlLWRlbGVnYXRlLWFjY3VzZXMtd2hlZWxpbmctcGFyay1oaWdoLXNjaG9vbC10ZWFjaGVyLW9mLXB1c2hpbmctY3JpdGljYWwtcmFjZS10aGVvcnk?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMidWh0dHBzOi8vd3RvdjkuY29tL25ld3MvbG9jYWwvc3RhdGUtZGVsZWdhdGUtYWNjdXNlcy13aGVlbGluZy1wYXJrLWhpZ2gtc2Nob29sLXRlYWNoZXItb2YtcHVzaGluZy1jcml0aWNhbC1yYWNlLXRoZW9yedIBeWh0dHBzOi8vd3RvdjkuY29tL2FtcC9uZXdzL2xvY2FsL3N0YXRlLWRlbGVnYXRlLWFjY3VzZXMtd2hlZWxpbmctcGFyay1oaWdoLXNjaG9vbC10ZWFjaGVyLW9mLXB1c2hpbmctY3JpdGljYWwtcmFjZS10aGVvcnk",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 08 Feb 2022 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3RvdjkuY29tL25ld3MvbG9jYWwvc3RhdGUtZGVsZWdhdGUtYWNjdXNlcy13aGVlbGluZy1wYXJrLWhpZ2gtc2Nob29sLXRlYWNoZXItb2YtcHVzaGluZy1jcml0aWNhbC1yYWNlLXRoZW9yedIBeWh0dHBzOi8vd3RvdjkuY29tL2FtcC9uZXdzL2xvY2FsL3N0YXRlLWRlbGVnYXRlLWFjY3VzZXMtd2hlZWxpbmctcGFyay1oaWdoLXNjaG9vbC10ZWFjaGVyLW9mLXB1c2hpbmctY3JpdGljYWwtcmFjZS10aGVvcnk?oc=5\" target=\"_blank\">State delegate accuses Wheeling Park High School teacher of pushing critical race theory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOV Steubenville</font>"
-            ],
-            "source": [
-              {
-                "_": "WTOV Steubenville",
-                "$": {
-                  "url": "https://wtov9.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Morrisey Touts Record at Ohio County GOP Dinner - Wheeling Intelligencer"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWludGVsbGlnZW5jZXIubmV0L25ld3MvY29tbXVuaXR5LzIwMjMvMTAvbW9ycmlzZXktdG91dHMtcmVjb3JkLWF0LW9oaW8tY291bnR5LWdvcC1kaW5uZXIv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiaGh0dHBzOi8vd3d3LnRoZWludGVsbGlnZW5jZXIubmV0L25ld3MvY29tbXVuaXR5LzIwMjMvMTAvbW9ycmlzZXktdG91dHMtcmVjb3JkLWF0LW9oaW8tY291bnR5LWdvcC1kaW5uZXIv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 13 Oct 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWludGVsbGlnZW5jZXIubmV0L25ld3MvY29tbXVuaXR5LzIwMjMvMTAvbW9ycmlzZXktdG91dHMtcmVjb3JkLWF0LW9oaW8tY291bnR5LWdvcC1kaW5uZXIv0gEA?oc=5\" target=\"_blank\">Morrisey Touts Record at Ohio County GOP Dinner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wheeling Intelligencer</font>"
-            ],
-            "source": [
-              {
-                "_": "Wheeling Intelligencer",
-                "$": {
-                  "url": "https://www.theintelligencer.net"
+                  "url": "https://www.news-journalonline.com"
                 }
               }
             ]
@@ -573,6 +603,156 @@
           },
           {
             "title": [
+              "Just ahead of passage, state funding for battery plant sparks debate - West Virginia MetroNews"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDIvMDkvanVzdC1haGVhZC1vZi1wYXNzYWdlLXN0YXRlLWZ1bmRpbmctZm9yLWJhdHRlcnktcGxhbnQtc3BhcmtzLWRlYmF0ZS_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZ2h0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDIvMDkvanVzdC1haGVhZC1vZi1wYXNzYWdlLXN0YXRlLWZ1bmRpbmctZm9yLWJhdHRlcnktcGxhbnQtc3BhcmtzLWRlYmF0ZS_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 09 Feb 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDIvMDkvanVzdC1haGVhZC1vZi1wYXNzYWdlLXN0YXRlLWZ1bmRpbmctZm9yLWJhdHRlcnktcGxhbnQtc3BhcmtzLWRlYmF0ZS_SAQA?oc=5\" target=\"_blank\">Just ahead of passage, state funding for battery plant sparks debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia MetroNews</font>"
+            ],
+            "source": [
+              {
+                "_": "West Virginia MetroNews",
+                "$": {
+                  "url": "https://wvmetronews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "W.Va. Amendment 1: Changing Impeachment - WSAZ"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LndzYXouY29tLzIwMjIvMTEvMDIvd3ZhLWFtZW5kbWVudC0xLWNoYW5naW5nLWltcGVhY2htZW50L9IBVGh0dHBzOi8vd3d3LndzYXouY29tLzIwMjIvMTEvMDIvd3ZhLWFtZW5kbWVudC0xLWNoYW5naW5nLWltcGVhY2htZW50Lz9vdXRwdXRUeXBlPWFtcA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiRWh0dHBzOi8vd3d3LndzYXouY29tLzIwMjIvMTEvMDIvd3ZhLWFtZW5kbWVudC0xLWNoYW5naW5nLWltcGVhY2htZW50L9IBVGh0dHBzOi8vd3d3LndzYXouY29tLzIwMjIvMTEvMDIvd3ZhLWFtZW5kbWVudC0xLWNoYW5naW5nLWltcGVhY2htZW50Lz9vdXRwdXRUeXBlPWFtcA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 02 Nov 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LndzYXouY29tLzIwMjIvMTEvMDIvd3ZhLWFtZW5kbWVudC0xLWNoYW5naW5nLWltcGVhY2htZW50L9IBVGh0dHBzOi8vd3d3LndzYXouY29tLzIwMjIvMTEvMDIvd3ZhLWFtZW5kbWVudC0xLWNoYW5naW5nLWltcGVhY2htZW50Lz9vdXRwdXRUeXBlPWFtcA?oc=5\" target=\"_blank\">W.Va. Amendment 1: Changing Impeachment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAZ</font>"
+            ],
+            "source": [
+              {
+                "_": "WSAZ",
+                "$": {
+                  "url": "https://www.wsaz.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "New poll released on statewide races in West Virginia - Parkersburg News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMTEvbmV3LXBvbGwtcmVsZWFzZWQtb24tc3RhdGV3aWRlLXJhY2VzLWluLXdlc3QtdmlyZ2luaWEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMTEvbmV3LXBvbGwtcmVsZWFzZWQtb24tc3RhdGV3aWRlLXJhY2VzLWluLXdlc3QtdmlyZ2luaWEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 23 Nov 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5ld3NhbmRzZW50aW5lbC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjMvMTEvbmV3LXBvbGwtcmVsZWFzZWQtb24tc3RhdGV3aWRlLXJhY2VzLWluLXdlc3QtdmlyZ2luaWEv0gEA?oc=5\" target=\"_blank\">New poll released on statewide races in West Virginia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parkersburg News</font>"
+            ],
+            "source": [
+              {
+                "_": "Parkersburg News",
+                "$": {
+                  "url": "https://www.newsandsentinel.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "West Virginia Bill Would Create State Process to End Police Qualified Immunity | Tenth Amendment Center - blog.tenthamendmentcenter.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYmxvZy50ZW50aGFtZW5kbWVudGNlbnRlci5jb20vMjAyNC8wMS93ZXN0LXZpcmdpbmlhLWJpbGwtY3JlYXRlLXN0YXRlLXByb2Nlc3MtdG8tZW5kLXBvbGljZS1xdWFsaWZpZWQtaW1tdW5pdHkv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vYmxvZy50ZW50aGFtZW5kbWVudGNlbnRlci5jb20vMjAyNC8wMS93ZXN0LXZpcmdpbmlhLWJpbGwtY3JlYXRlLXN0YXRlLXByb2Nlc3MtdG8tZW5kLXBvbGljZS1xdWFsaWZpZWQtaW1tdW5pdHkv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYmxvZy50ZW50aGFtZW5kbWVudGNlbnRlci5jb20vMjAyNC8wMS93ZXN0LXZpcmdpbmlhLWJpbGwtY3JlYXRlLXN0YXRlLXByb2Nlc3MtdG8tZW5kLXBvbGljZS1xdWFsaWZpZWQtaW1tdW5pdHkv0gEA?oc=5\" target=\"_blank\">West Virginia Bill Would Create State Process to End Police Qualified Immunity | Tenth Amendment Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.tenthamendmentcenter.com</font>"
+            ],
+            "source": [
+              {
+                "_": "blog.tenthamendmentcenter.com",
+                "$": {
+                  "url": "https://blog.tenthamendmentcenter.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "High school football: Volusia-Flagler award winners for first half - Daytona Beach News-Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEwLzAyL2hpZ2gtc2Nob29sLWZvb3RiYWxsLXZvbHVzaWEtZmxhZ2xlci1hd2FyZC13aW5uZXJzLWZvci1maXJzdC1oYWxmLzcwOTcyMDY4MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMingFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEwLzAyL2hpZ2gtc2Nob29sLWZvb3RiYWxsLXZvbHVzaWEtZmxhZ2xlci1hd2FyZC13aW5uZXJzLWZvci1maXJzdC1oYWxmLzcwOTcyMDY4MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 02 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEwLzAyL2hpZ2gtc2Nob29sLWZvb3RiYWxsLXZvbHVzaWEtZmxhZ2xlci1hd2FyZC13aW5uZXJzLWZvci1maXJzdC1oYWxmLzcwOTcyMDY4MDA3L9IBAA?oc=5\" target=\"_blank\">High school football: Volusia-Flagler award winners for first half</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Daytona Beach News-Journal",
+                "$": {
+                  "url": "https://www.news-journalonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "West Virginia Bill Would Make Gold and Silver Legal Tender | Tenth Amendment Center - blog.tenthamendmentcenter.com"
             ],
             "link": [
@@ -603,36 +783,6 @@
           },
           {
             "title": [
-              "House bill would reallocate magistrates according to population - West Virginia MetroNews"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjIvMDIvMDEvaG91c2UtYmlsbC13b3VsZC1yZWFsbG9jYXRlLW1hZ2lzdHJhdGVzLWFjY29yZGluZy10by1wb3B1bGF0aW9uL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiY2h0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjIvMDIvMDEvaG91c2UtYmlsbC13b3VsZC1yZWFsbG9jYXRlLW1hZ2lzdHJhdGVzLWFjY29yZGluZy10by1wb3B1bGF0aW9uL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 01 Feb 2022 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjIvMDIvMDEvaG91c2UtYmlsbC13b3VsZC1yZWFsbG9jYXRlLW1hZ2lzdHJhdGVzLWFjY29yZGluZy10by1wb3B1bGF0aW9uL9IBAA?oc=5\" target=\"_blank\">House bill would reallocate magistrates according to population</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Virginia MetroNews</font>"
-            ],
-            "source": [
-              {
-                "_": "West Virginia MetroNews",
-                "$": {
-                  "url": "https://wvmetronews.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "3 members, 2 seats: West Virginia Republicans gird for redistricting showdown - POLITICO"
             ],
             "link": [
@@ -657,6 +807,36 @@
                 "_": "POLITICO",
                 "$": {
                   "url": "https://www.politico.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Fallout continues over anti-Critical Race Theory bill in West Virginia House - Parkersburg News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5uZXdzYW5kc2VudGluZWwuY29tL25ld3MvbG9jYWwtbmV3cy8yMDIyLzAyL2ZhbGxvdXQtY29udGludWVzLW92ZXItYW50aS1jcml0aWNhbC1yYWNlLXRoZW9yeS1iaWxsLWluLXdlc3QtdmlyZ2luaWEtaG91c2Uv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihQFodHRwczovL3d3dy5uZXdzYW5kc2VudGluZWwuY29tL25ld3MvbG9jYWwtbmV3cy8yMDIyLzAyL2ZhbGxvdXQtY29udGludWVzLW92ZXItYW50aS1jcml0aWNhbC1yYWNlLXRoZW9yeS1iaWxsLWluLXdlc3QtdmlyZ2luaWEtaG91c2Uv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 08 Feb 2022 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5uZXdzYW5kc2VudGluZWwuY29tL25ld3MvbG9jYWwtbmV3cy8yMDIyLzAyL2ZhbGxvdXQtY29udGludWVzLW92ZXItYW50aS1jcml0aWNhbC1yYWNlLXRoZW9yeS1iaWxsLWluLXdlc3QtdmlyZ2luaWEtaG91c2Uv0gEA?oc=5\" target=\"_blank\">Fallout continues over anti-Critical Race Theory bill in West Virginia House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parkersburg News</font>"
+            ],
+            "source": [
+              {
+                "_": "Parkersburg News",
+                "$": {
+                  "url": "https://www.newsandsentinel.com"
                 }
               }
             ]
@@ -777,66 +957,6 @@
                 "_": "blog.tenthamendmentcenter.com",
                 "$": {
                   "url": "https://blog.tenthamendmentcenter.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Former Delegate Ken Reed enters West Virginia Secretary of State race - WVNS-TV"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lnd2bnN0di5jb20vbmV3cy9sb2NhbC1uZXdzL2Zvcm1lci1kZWxlZ2F0ZS1rZW4tcmVlZC1lbnRlcnMtd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS_SAXFodHRwczovL3d3dy53dm5zdHYuY29tL25ld3MvbG9jYWwtbmV3cy9mb3JtZXItZGVsZWdhdGUta2VuLXJlZWQtZW50ZXJzLXdlc3QtdmlyZ2luaWEtc2VjcmV0YXJ5LW9mLXN0YXRlLXJhY2UvYW1wLw?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMibWh0dHBzOi8vd3d3Lnd2bnN0di5jb20vbmV3cy9sb2NhbC1uZXdzL2Zvcm1lci1kZWxlZ2F0ZS1rZW4tcmVlZC1lbnRlcnMtd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS_SAXFodHRwczovL3d3dy53dm5zdHYuY29tL25ld3MvbG9jYWwtbmV3cy9mb3JtZXItZGVsZWdhdGUta2VuLXJlZWQtZW50ZXJzLXdlc3QtdmlyZ2luaWEtc2VjcmV0YXJ5LW9mLXN0YXRlLXJhY2UvYW1wLw",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 02 May 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lnd2bnN0di5jb20vbmV3cy9sb2NhbC1uZXdzL2Zvcm1lci1kZWxlZ2F0ZS1rZW4tcmVlZC1lbnRlcnMtd2VzdC12aXJnaW5pYS1zZWNyZXRhcnktb2Ytc3RhdGUtcmFjZS_SAXFodHRwczovL3d3dy53dm5zdHYuY29tL25ld3MvbG9jYWwtbmV3cy9mb3JtZXItZGVsZWdhdGUta2VuLXJlZWQtZW50ZXJzLXdlc3QtdmlyZ2luaWEtc2VjcmV0YXJ5LW9mLXN0YXRlLXJhY2UvYW1wLw?oc=5\" target=\"_blank\">Former Delegate Ken Reed enters West Virginia Secretary of State race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVNS-TV</font>"
-            ],
-            "source": [
-              {
-                "_": "WVNS-TV",
-                "$": {
-                  "url": "https://www.wvnstv.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "FHSAA football playoffs: Volusia-Flagler previews, picks for Round 1 - Daytona Beach News-Journal"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzExLzEwL2Zoc2FhLWZvb3RiYWxsLXBsYXlvZmZzLXZvbHVzaWEtZmxhZ2xlci1wcmV2aWV3cy1waWNrcy1mb3Itcm91bmQtMS83MTUwMzAwNDAwNy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMinwFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzExLzEwL2Zoc2FhLWZvb3RiYWxsLXBsYXlvZmZzLXZvbHVzaWEtZmxhZ2xlci1wcmV2aWV3cy1waWNrcy1mb3Itcm91bmQtMS83MTUwMzAwNDAwNy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 10 Nov 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzExLzEwL2Zoc2FhLWZvb3RiYWxsLXBsYXlvZmZzLXZvbHVzaWEtZmxhZ2xlci1wcmV2aWV3cy1waWNrcy1mb3Itcm91bmQtMS83MTUwMzAwNDAwNy_SAQA?oc=5\" target=\"_blank\">FHSAA football playoffs: Volusia-Flagler previews, picks for Round 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>"
-            ],
-            "source": [
-              {
-                "_": "Daytona Beach News-Journal",
-                "$": {
-                  "url": "https://www.news-journalonline.com"
                 }
               }
             ]
@@ -993,30 +1113,30 @@
           },
           {
             "title": [
-              "2022 West Virginia Midterm Election Results - Lootpress"
+              "With a straight face, West Virginia senator says raped children are in 'relationships' with abusers - Daily Kos"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lmxvb3RwcmVzcy5jb20vMjAyMi13ZXN0LXZpcmdpbmlhLW1pZHRlcm0tZWxlY3Rpb24tcmVzdWx0cy_SAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5kYWlseWtvcy5jb20vc3Rvcmllcy8yMDIyLzgvMi8yMTE0MDcwLy1XZXN0LVZpcmdpbmlhLXNlbmF0b3Itc2F5cy12aWN0aW1zLW9mLWNoaWxkLXJhcGUtcm9tYW50aWNpemUtYWJ1c2Vycy1zZWUtdGhlbS1hcy1ib3lmcmllbmRz0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiRmh0dHBzOi8vd3d3Lmxvb3RwcmVzcy5jb20vMjAyMi13ZXN0LXZpcmdpbmlhLW1pZHRlcm0tZWxlY3Rpb24tcmVzdWx0cy_SAQA",
+                "_": "CBMijgFodHRwczovL3d3dy5kYWlseWtvcy5jb20vc3Rvcmllcy8yMDIyLzgvMi8yMTE0MDcwLy1XZXN0LVZpcmdpbmlhLXNlbmF0b3Itc2F5cy12aWN0aW1zLW9mLWNoaWxkLXJhcGUtcm9tYW50aWNpemUtYWJ1c2Vycy1zZWUtdGhlbS1hcy1ib3lmcmllbmRz0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 08 Nov 2022 08:00:00 GMT"
+              "Tue, 02 Aug 2022 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lmxvb3RwcmVzcy5jb20vMjAyMi13ZXN0LXZpcmdpbmlhLW1pZHRlcm0tZWxlY3Rpb24tcmVzdWx0cy_SAQA?oc=5\" target=\"_blank\">2022 West Virginia Midterm Election Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lootpress</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5kYWlseWtvcy5jb20vc3Rvcmllcy8yMDIyLzgvMi8yMTE0MDcwLy1XZXN0LVZpcmdpbmlhLXNlbmF0b3Itc2F5cy12aWN0aW1zLW9mLWNoaWxkLXJhcGUtcm9tYW50aWNpemUtYWJ1c2Vycy1zZWUtdGhlbS1hcy1ib3lmcmllbmRz0gEA?oc=5\" target=\"_blank\">With a straight face, West Virginia senator says raped children are in 'relationships' with abusers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Kos</font>"
             ],
             "source": [
               {
-                "_": "Lootpress",
+                "_": "Daily Kos",
                 "$": {
-                  "url": "https://www.lootpress.com"
+                  "url": "https://www.dailykos.com"
                 }
               }
             ]
@@ -1077,66 +1197,6 @@
                 "_": "WDTV",
                 "$": {
                   "url": "https://www.wdtv.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "High school football: Volusia-Flagler power rankings through Week 8 - Daytona Beach News-Journal"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEwLzE5L2hpZ2gtc2Nob29sLWZvb3RiYWxsLXZvbHVzaWEtZmxhZ2xlci1wb3dlci1yYW5raW5ncy10aHJvdWdoLXdlZWstOC83MTIxNTYxNTAwNy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMinwFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEwLzE5L2hpZ2gtc2Nob29sLWZvb3RiYWxsLXZvbHVzaWEtZmxhZ2xlci1wb3dlci1yYW5raW5ncy10aHJvdWdoLXdlZWstOC83MTIxNTYxNTAwNy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 19 Oct 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEwLzE5L2hpZ2gtc2Nob29sLWZvb3RiYWxsLXZvbHVzaWEtZmxhZ2xlci1wb3dlci1yYW5raW5ncy10aHJvdWdoLXdlZWstOC83MTIxNTYxNTAwNy_SAQA?oc=5\" target=\"_blank\">High school football: Volusia-Flagler power rankings through Week 8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>"
-            ],
-            "source": [
-              {
-                "_": "Daytona Beach News-Journal",
-                "$": {
-                  "url": "https://www.news-journalonline.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "FHSAA football Final Four: DeLand heads to Venice, Mainland hosts Vanguard - Daytona Beach News-Journal"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEyLzAxL21haW5sYW5kLWhvc3RzLXZhbmd1YXJkLWRlbGFuZC1oZWFkcy10by12ZW5pY2UtaW4tZm9vdGJhbGwtc2VtaWZpbmFscy83MTcxNjA2OTAwNy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiogFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEyLzAxL21haW5sYW5kLWhvc3RzLXZhbmd1YXJkLWRlbGFuZC1oZWFkcy10by12ZW5pY2UtaW4tZm9vdGJhbGwtc2VtaWZpbmFscy83MTcxNjA2OTAwNy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 01 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L3Nwb3J0cy9oaWdoLXNjaG9vbC9mb290YmFsbC8yMDIzLzEyLzAxL21haW5sYW5kLWhvc3RzLXZhbmd1YXJkLWRlbGFuZC1oZWFkcy10by12ZW5pY2UtaW4tZm9vdGJhbGwtc2VtaWZpbmFscy83MTcxNjA2OTAwNy_SAQA?oc=5\" target=\"_blank\">FHSAA football Final Four: DeLand heads to Venice, Mainland hosts Vanguard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>"
-            ],
-            "source": [
-              {
-                "_": "Daytona Beach News-Journal",
-                "$": {
-                  "url": "https://www.news-journalonline.com"
                 }
               }
             ]
@@ -1233,120 +1293,30 @@
           },
           {
             "title": [
-              "Tom Cruise and Brad Pritt are on a collision course! - New Idea"
+              "Wheeling Park principal staunchly defends teacher’s work - WTRF"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3Lm5ld2lkZWEuY29tLmF1L3RvbS1jcnVpc2UtYnJhZC1waXR0LWZldWTSAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lnd0cmYuY29tL3doZWVsaW5nLXBhcmstaGlnaC1zY2hvb2wvd2hlZWxpbmctcGFyay1wcmluY2lwYWwtc3RhdW5jaGx5LWRlZmVuZHMtdGVhY2hlcnMtd29yay_SAWtodHRwczovL3d3dy53dHJmLmNvbS93aGVlbGluZy1wYXJrLWhpZ2gtc2Nob29sL3doZWVsaW5nLXBhcmstcHJpbmNpcGFsLXN0YXVuY2hseS1kZWZlbmRzLXRlYWNoZXJzLXdvcmsvYW1wLw?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiNGh0dHBzOi8vd3d3Lm5ld2lkZWEuY29tLmF1L3RvbS1jcnVpc2UtYnJhZC1waXR0LWZldWTSAQA",
+                "_": "CBMiZ2h0dHBzOi8vd3d3Lnd0cmYuY29tL3doZWVsaW5nLXBhcmstaGlnaC1zY2hvb2wvd2hlZWxpbmctcGFyay1wcmluY2lwYWwtc3RhdW5jaGx5LWRlZmVuZHMtdGVhY2hlcnMtd29yay_SAWtodHRwczovL3d3dy53dHJmLmNvbS93aGVlbGluZy1wYXJrLWhpZ2gtc2Nob29sL3doZWVsaW5nLXBhcmstcHJpbmNpcGFsLXN0YXVuY2hseS1kZWZlbmRzLXRlYWNoZXJzLXdvcmsvYW1wLw",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 15 May 2023 07:00:00 GMT"
+              "Tue, 08 Feb 2022 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3Lm5ld2lkZWEuY29tLmF1L3RvbS1jcnVpc2UtYnJhZC1waXR0LWZldWTSAQA?oc=5\" target=\"_blank\">Tom Cruise and Brad Pritt are on a collision course!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Idea</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lnd0cmYuY29tL3doZWVsaW5nLXBhcmstaGlnaC1zY2hvb2wvd2hlZWxpbmctcGFyay1wcmluY2lwYWwtc3RhdW5jaGx5LWRlZmVuZHMtdGVhY2hlcnMtd29yay_SAWtodHRwczovL3d3dy53dHJmLmNvbS93aGVlbGluZy1wYXJrLWhpZ2gtc2Nob29sL3doZWVsaW5nLXBhcmstcHJpbmNpcGFsLXN0YXVuY2hseS1kZWZlbmRzLXRlYWNoZXJzLXdvcmsvYW1wLw?oc=5\" target=\"_blank\">Wheeling Park principal staunchly defends teacher’s work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTRF</font>"
             ],
             "source": [
               {
-                "_": "New Idea",
+                "_": "WTRF",
                 "$": {
-                  "url": "https://www.newidea.com.au"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Chris Buescher won. Is RFK Racing now a NASCAR championship threat? - Daytona Beach News-Journal"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm5ld3Mtam91cm5hbG9ubGluZS5jb20vc3Rvcnkvc3BvcnRzL25hc2Nhci8yMDIzLzA3LzMwL2NocmlzLWJ1ZXNjaGVyLXJpY2htb25kLXJmay1uYXNjYXItY2hhbXBpb25zaGlwLzcwNDk1NTg2MDA3L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifmh0dHBzOi8vd3d3Lm5ld3Mtam91cm5hbG9ubGluZS5jb20vc3Rvcnkvc3BvcnRzL25hc2Nhci8yMDIzLzA3LzMwL2NocmlzLWJ1ZXNjaGVyLXJpY2htb25kLXJmay1uYXNjYXItY2hhbXBpb25zaGlwLzcwNDk1NTg2MDA3L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sun, 30 Jul 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm5ld3Mtam91cm5hbG9ubGluZS5jb20vc3Rvcnkvc3BvcnRzL25hc2Nhci8yMDIzLzA3LzMwL2NocmlzLWJ1ZXNjaGVyLXJpY2htb25kLXJmay1uYXNjYXItY2hhbXBpb25zaGlwLzcwNDk1NTg2MDA3L9IBAA?oc=5\" target=\"_blank\">Chris Buescher won. Is RFK Racing now a NASCAR championship threat?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>"
-            ],
-            "source": [
-              {
-                "_": "Daytona Beach News-Journal",
-                "$": {
-                  "url": "https://www.news-journalonline.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Take that, rat: Taupō conservationist Didymo Dave traps 1000th rat - New Zealand Herald"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9yb3RvcnVhLWRhaWx5LXBvc3QvbmV3cy90YWtlLXRoYXQtcmF0LXRhdXBvLWNvbnNlcnZhdGlvbmlzdC1kaWR5bW8tZGF2ZS10cmFwcy0xMDAwdGgtcmF0L0pSUkZBVFRPUVVPVkpFREhVSkk3UEtSUVZNL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMijwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9yb3RvcnVhLWRhaWx5LXBvc3QvbmV3cy90YWtlLXRoYXQtcmF0LXRhdXBvLWNvbnNlcnZhdGlvbmlzdC1kaWR5bW8tZGF2ZS10cmFwcy0xMDAwdGgtcmF0L0pSUkZBVFRPUVVPVkpFREhVSkk3UEtSUVZNL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 25 Sep 2019 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9yb3RvcnVhLWRhaWx5LXBvc3QvbmV3cy90YWtlLXRoYXQtcmF0LXRhdXBvLWNvbnNlcnZhdGlvbmlzdC1kaWR5bW8tZGF2ZS10cmFwcy0xMDAwdGgtcmF0L0pSUkZBVFRPUVVPVkpFREhVSkk3UEtSUVZNL9IBAA?oc=5\" target=\"_blank\">Take that, rat: Taupō conservationist Didymo Dave traps 1000th rat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Zealand Herald</font>"
-            ],
-            "source": [
-              {
-                "_": "New Zealand Herald",
-                "$": {
-                  "url": "https://www.nzherald.co.nz"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Brad Pitt Recalls Filming His First Ever Sex Scene In A Barn - Show News Today"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnNob3duZXdzLnRvZGF5L3R2LW1vdmllcy9CcmFkLVBpdHQtUmVjYWxscy1GaWxtaW5nLUhpcy1GaXJzdC1FdmVyLVNleC1TY2VuZS1Jbi1BLUJhcm4tMjAyMzAxMTAtMDAwNC5odG1s0gF4aHR0cHM6Ly93d3cuc2hvd25ld3MudG9kYXkvYW1wL3R2LW1vdmllcy9CcmFkLVBpdHQtUmVjYWxscy1GaWxtaW5nLUhpcy1GaXJzdC1FdmVyLVNleC1TY2VuZS1Jbi1BLUJhcm4tMjAyMzAxMTAtMDAwNC5odG1s?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMidGh0dHBzOi8vd3d3LnNob3duZXdzLnRvZGF5L3R2LW1vdmllcy9CcmFkLVBpdHQtUmVjYWxscy1GaWxtaW5nLUhpcy1GaXJzdC1FdmVyLVNleC1TY2VuZS1Jbi1BLUJhcm4tMjAyMzAxMTAtMDAwNC5odG1s0gF4aHR0cHM6Ly93d3cuc2hvd25ld3MudG9kYXkvYW1wL3R2LW1vdmllcy9CcmFkLVBpdHQtUmVjYWxscy1GaWxtaW5nLUhpcy1GaXJzdC1FdmVyLVNleC1TY2VuZS1Jbi1BLUJhcm4tMjAyMzAxMTAtMDAwNC5odG1s",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 10 Jan 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnNob3duZXdzLnRvZGF5L3R2LW1vdmllcy9CcmFkLVBpdHQtUmVjYWxscy1GaWxtaW5nLUhpcy1GaXJzdC1FdmVyLVNleC1TY2VuZS1Jbi1BLUJhcm4tMjAyMzAxMTAtMDAwNC5odG1s0gF4aHR0cHM6Ly93d3cuc2hvd25ld3MudG9kYXkvYW1wL3R2LW1vdmllcy9CcmFkLVBpdHQtUmVjYWxscy1GaWxtaW5nLUhpcy1GaXJzdC1FdmVyLVNleC1TY2VuZS1Jbi1BLUJhcm4tMjAyMzAxMTAtMDAwNC5odG1s?oc=5\" target=\"_blank\">Brad Pitt Recalls Filming His First Ever Sex Scene In A Barn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Show News Today</font>"
-            ],
-            "source": [
-              {
-                "_": "Show News Today",
-                "$": {
-                  "url": "https://www.shownews.today"
+                  "url": "https://www.wtrf.com"
                 }
               }
             ]

@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:41 GMT"
+          "Wed, 07 Feb 2024 08:29:22 GMT"
         ],
         "description": [
           "Google News"
@@ -483,36 +483,6 @@
           },
           {
             "title": [
-              "'What's wrong with you?' detective asked man on trial for murdering his mother - Chicago Sun-Times"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzEvMTg0ODE2Nzcvd2hhdC1zLXdyb25nLXdpdGgteW91LWRldGVjdGl2ZS1hc2tlZC1tYW4tb24tdHJpYWwtZm9yLW11cmRlcmluZy1oaXMtbW90aGVy0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiemh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzEvMTg0ODE2Nzcvd2hhdC1zLXdyb25nLXdpdGgteW91LWRldGVjdGl2ZS1hc2tlZC1tYW4tb24tdHJpYWwtZm9yLW11cmRlcmluZy1oaXMtbW90aGVy0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 01 Mar 2019 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzEvMTg0ODE2Nzcvd2hhdC1zLXdyb25nLXdpdGgteW91LWRldGVjdGl2ZS1hc2tlZC1tYW4tb24tdHJpYWwtZm9yLW11cmRlcmluZy1oaXMtbW90aGVy0gEA?oc=5\" target=\"_blank\">'What's wrong with you?' detective asked man on trial for murdering his mother</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Sun-Times</font>"
-            ],
-            "source": [
-              {
-                "_": "Chicago Sun-Times",
-                "$": {
-                  "url": "https://chicago.suntimes.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Watch Bad Blood | Sleeping With Death - Oxygen"
             ],
             "link": [
@@ -537,6 +507,36 @@
                 "_": "Oxygen",
                 "$": {
                   "url": "https://www.oxygen.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'What's wrong with you?' detective asked man on trial for murdering his mother - Chicago Sun-Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzEvMTg0ODE2Nzcvd2hhdC1zLXdyb25nLXdpdGgteW91LWRldGVjdGl2ZS1hc2tlZC1tYW4tb24tdHJpYWwtZm9yLW11cmRlcmluZy1oaXMtbW90aGVy0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzEvMTg0ODE2Nzcvd2hhdC1zLXdyb25nLXdpdGgteW91LWRldGVjdGl2ZS1hc2tlZC1tYW4tb24tdHJpYWwtZm9yLW11cmRlcmluZy1oaXMtbW90aGVy0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 01 Mar 2019 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vMjAxOS8zLzEvMTg0ODE2Nzcvd2hhdC1zLXdyb25nLXdpdGgteW91LWRldGVjdGl2ZS1hc2tlZC1tYW4tb24tdHJpYWwtZm9yLW11cmRlcmluZy1oaXMtbW90aGVy0gEA?oc=5\" target=\"_blank\">'What's wrong with you?' detective asked man on trial for murdering his mother</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Sun-Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Chicago Sun-Times",
+                "$": {
+                  "url": "https://chicago.suntimes.com"
                 }
               }
             ]
@@ -993,36 +993,6 @@
           },
           {
             "title": [
-              "Qaw'mane Wilson, aka Young QC, Trial 'Taking Forever,' Mom's Friend Says - DNAinfo"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNTA0MDEvdXB0b3duL3Fhd21hbmUtd2lsc29uLWFrYS15b3VuZy1xYy10cmlhbC10YWtpbmctZm9yZXZlci1tb21zLWZyaWVuZC1zYXlz0gF1aHR0cHM6Ly93d3cuZG5haW5mby5jb20vY2hpY2Fnby8yMDE1MDQwMS91cHRvd24vcWF3bWFuZS13aWxzb24tYWthLXlvdW5nLXFjLXRyaWFsLXRha2luZy1mb3JldmVyLW1vbXMtZnJpZW5kLXNheXMuYW1w?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMicWh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNTA0MDEvdXB0b3duL3Fhd21hbmUtd2lsc29uLWFrYS15b3VuZy1xYy10cmlhbC10YWtpbmctZm9yZXZlci1tb21zLWZyaWVuZC1zYXlz0gF1aHR0cHM6Ly93d3cuZG5haW5mby5jb20vY2hpY2Fnby8yMDE1MDQwMS91cHRvd24vcWF3bWFuZS13aWxzb24tYWthLXlvdW5nLXFjLXRyaWFsLXRha2luZy1mb3JldmVyLW1vbXMtZnJpZW5kLXNheXMuYW1w",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 01 Apr 2015 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmRuYWluZm8uY29tL2NoaWNhZ28vMjAxNTA0MDEvdXB0b3duL3Fhd21hbmUtd2lsc29uLWFrYS15b3VuZy1xYy10cmlhbC10YWtpbmctZm9yZXZlci1tb21zLWZyaWVuZC1zYXlz0gF1aHR0cHM6Ly93d3cuZG5haW5mby5jb20vY2hpY2Fnby8yMDE1MDQwMS91cHRvd24vcWF3bWFuZS13aWxzb24tYWthLXlvdW5nLXFjLXRyaWFsLXRha2luZy1mb3JldmVyLW1vbXMtZnJpZW5kLXNheXMuYW1w?oc=5\" target=\"_blank\">Qaw'mane Wilson, aka Young QC, Trial 'Taking Forever,' Mom's Friend Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DNAinfo</font>"
-            ],
-            "source": [
-              {
-                "_": "DNAinfo",
-                "$": {
-                  "url": "https://www.dnainfo.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Illinois woman pleads guilty to stealing from Meijer, sentenced to 300 days in House of Correction - FOX 6 Milwaukee"
             ],
             "link": [
@@ -1077,66 +1047,6 @@
                 "_": "FOX 6 Milwaukee",
                 "$": {
                   "url": "https://www.fox6now.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Who is Young QC?... - The US Sun"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZS1zdW4uY29tL2VudGVydGFpbm1lbnQvNzMwMjI4My93aG8teW91bmctcWMtY3JpbWUtc2VudGVuY2Uv0gFOaHR0cHM6Ly93d3cudGhlLXN1bi5jb20vZW50ZXJ0YWlubWVudC83MzAyMjgzL3doby15b3VuZy1xYy1jcmltZS1zZW50ZW5jZS9hbXAv?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiSmh0dHBzOi8vd3d3LnRoZS1zdW4uY29tL2VudGVydGFpbm1lbnQvNzMwMjI4My93aG8teW91bmctcWMtY3JpbWUtc2VudGVuY2Uv0gFOaHR0cHM6Ly93d3cudGhlLXN1bi5jb20vZW50ZXJ0YWlubWVudC83MzAyMjgzL3doby15b3VuZy1xYy1jcmltZS1zZW50ZW5jZS9hbXAv",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 03 Feb 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZS1zdW4uY29tL2VudGVydGFpbm1lbnQvNzMwMjI4My93aG8teW91bmctcWMtY3JpbWUtc2VudGVuY2Uv0gFOaHR0cHM6Ly93d3cudGhlLXN1bi5jb20vZW50ZXJ0YWlubWVudC83MzAyMjgzL3doby15b3VuZy1xYy1jcmltZS1zZW50ZW5jZS9hbXAv?oc=5\" target=\"_blank\">Who is Young QC?...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The US Sun</font>"
-            ],
-            "source": [
-              {
-                "_": "The US Sun",
-                "$": {
-                  "url": "https://www.the-sun.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Fannie Lowery Obituary - West's Mortuary - 2023 - Legacy.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2Zhbm5pZS1sb3dlcnktb2JpdHVhcnk_aWQ9NTE1NDczNjbSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiTGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2Zhbm5pZS1sb3dlcnktb2JpdHVhcnk_aWQ9NTE1NDczNjbSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 03 Apr 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2Zhbm5pZS1sb3dlcnktb2JpdHVhcnk_aWQ9NTE1NDczNjbSAQA?oc=5\" target=\"_blank\">Fannie Lowery Obituary - West's Mortuary - 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy.com</font>"
-            ],
-            "source": [
-              {
-                "_": "Legacy.com",
-                "$": {
-                  "url": "https://www.legacy.com"
                 }
               }
             ]
@@ -1287,96 +1197,6 @@
                 "_": "Briefly News",
                 "$": {
                   "url": "https://briefly.co.za"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Upcoming Rapper Sentenced To 99 Years In Prison For Hiring A Hitman To Kill His Mother - The Herald"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmhlcmFsZC5uZy9yYXBwZXItOTkteWVhcnMtaGl0bWFuLW1vdGhlci_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiNGh0dHBzOi8vd3d3LmhlcmFsZC5uZy9yYXBwZXItOTkteWVhcnMtaGl0bWFuLW1vdGhlci_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sun, 02 Feb 2020 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmhlcmFsZC5uZy9yYXBwZXItOTkteWVhcnMtaGl0bWFuLW1vdGhlci_SAQA?oc=5\" target=\"_blank\">Upcoming Rapper Sentenced To 99 Years In Prison For Hiring A Hitman To Kill His Mother</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Herald</font>"
-            ],
-            "source": [
-              {
-                "_": "The Herald",
-                "$": {
-                  "url": "https://www.herald.ng"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Chicago Rapper Killed His Mother, Masterminded Her Murder For Insurance Money - MemphisRap.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbWVtcGhpc3JhcC5jb20vbmV3cy9jaGljYWdvLXJhcHBlci1raWxsZWQtaGlzLW1vdGhlci1tYXN0ZXJtaW5kZWQtaGVyLW11cmRlci1mb3ItaW5zdXJhbmNlLW1vbmV5L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiaWh0dHBzOi8vbWVtcGhpc3JhcC5jb20vbmV3cy9jaGljYWdvLXJhcHBlci1raWxsZWQtaGlzLW1vdGhlci1tYXN0ZXJtaW5kZWQtaGVyLW11cmRlci1mb3ItaW5zdXJhbmNlLW1vbmV5L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sat, 28 Dec 2013 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbWVtcGhpc3JhcC5jb20vbmV3cy9jaGljYWdvLXJhcHBlci1raWxsZWQtaGlzLW1vdGhlci1tYXN0ZXJtaW5kZWQtaGVyLW11cmRlci1mb3ItaW5zdXJhbmNlLW1vbmV5L9IBAA?oc=5\" target=\"_blank\">Chicago Rapper Killed His Mother, Masterminded Her Murder For Insurance Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MemphisRap.com</font>"
-            ],
-            "source": [
-              {
-                "_": "MemphisRap.com",
-                "$": {
-                  "url": "https://memphisrap.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Tom Cruise Wife Audition: Is Yolanda Pecoraro The Next Nazanin Boniadi or Katie Holmes? - International Business Times"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmlidGltZXMuY29tL3RvbS1jcnVpc2Utd2lmZS1hdWRpdGlvbi15b2xhbmRhLXBlY29yYXJvLW5leHQtbmF6YW5pbi1ib25pYWRpLW9yLWthdGllLWhvbG1lcy03NjEzMjfSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMibWh0dHBzOi8vd3d3LmlidGltZXMuY29tL3RvbS1jcnVpc2Utd2lmZS1hdWRpdGlvbi15b2xhbmRhLXBlY29yYXJvLW5leHQtbmF6YW5pbi1ib25pYWRpLW9yLWthdGllLWhvbG1lcy03NjEzMjfSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 05 Sep 2012 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmlidGltZXMuY29tL3RvbS1jcnVpc2Utd2lmZS1hdWRpdGlvbi15b2xhbmRhLXBlY29yYXJvLW5leHQtbmF6YW5pbi1ib25pYWRpLW9yLWthdGllLWhvbG1lcy03NjEzMjfSAQA?oc=5\" target=\"_blank\">Tom Cruise Wife Audition: Is Yolanda Pecoraro The Next Nazanin Boniadi or Katie Holmes?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times</font>"
-            ],
-            "source": [
-              {
-                "_": "International Business Times",
-                "$": {
-                  "url": "https://www.ibtimes.com"
                 }
               }
             ]

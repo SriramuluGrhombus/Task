@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:41 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -183,6 +183,36 @@
           },
           {
             "title": [
+              "Juneteenth events in Odessa! | newswest9.com - NewsWest9.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm5ld3N3ZXN0OS5jb20vYXJ0aWNsZS9lbnRlcnRhaW5tZW50L2V2ZW50cy9qdW5ldGVlbnRoLWV2ZW50cy1vZGVzc2EvNTEzLWIyODczODExLTlmNWYtNDAxZC04OGY3LTQxZGI3NGI3NGIwZtIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3Lm5ld3N3ZXN0OS5jb20vYXJ0aWNsZS9lbnRlcnRhaW5tZW50L2V2ZW50cy9qdW5ldGVlbnRoLWV2ZW50cy1vZGVzc2EvNTEzLWIyODczODExLTlmNWYtNDAxZC04OGY3LTQxZGI3NGI3NGIwZtIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 12 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm5ld3N3ZXN0OS5jb20vYXJ0aWNsZS9lbnRlcnRhaW5tZW50L2V2ZW50cy9qdW5ldGVlbnRoLWV2ZW50cy1vZGVzc2EvNTEzLWIyODczODExLTlmNWYtNDAxZC04OGY3LTQxZGI3NGI3NGIwZtIBAA?oc=5\" target=\"_blank\">Juneteenth events in Odessa! | newswest9.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsWest9.com</font>"
+            ],
+            "source": [
+              {
+                "_": "NewsWest9.com",
+                "$": {
+                  "url": "https://www.newswest9.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Civic Activists Headline 2020 Virtual Commencement Ceremony - Wesleyan University"
             ],
             "link": [
@@ -237,6 +267,36 @@
                 "_": "Houston Chronicle ",
                 "$": {
                   "url": "https://www.houstonchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "1 dead after early morning wreck on I-110 S - WAFB"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LndhZmIuY29tLzIwMTkvMDMvMTQvZGVhZC1hZnRlci1lYXJseS1tb3JuaW5nLXdyZWNrLWktcy_SAVJodHRwczovL3d3dy53YWZiLmNvbS8yMDE5LzAzLzE0L2RlYWQtYWZ0ZXItZWFybHktbW9ybmluZy13cmVjay1pLXMvP291dHB1dFR5cGU9YW1w?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQ2h0dHBzOi8vd3d3LndhZmIuY29tLzIwMTkvMDMvMTQvZGVhZC1hZnRlci1lYXJseS1tb3JuaW5nLXdyZWNrLWktcy_SAVJodHRwczovL3d3dy53YWZiLmNvbS8yMDE5LzAzLzE0L2RlYWQtYWZ0ZXItZWFybHktbW9ybmluZy13cmVjay1pLXMvP291dHB1dFR5cGU9YW1w",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 13 Mar 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LndhZmIuY29tLzIwMTkvMDMvMTQvZGVhZC1hZnRlci1lYXJseS1tb3JuaW5nLXdyZWNrLWktcy_SAVJodHRwczovL3d3dy53YWZiLmNvbS8yMDE5LzAzLzE0L2RlYWQtYWZ0ZXItZWFybHktbW9ybmluZy13cmVjay1pLXMvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">1 dead after early morning wreck on I-110 S</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAFB</font>"
+            ],
+            "source": [
+              {
+                "_": "WAFB",
+                "$": {
+                  "url": "https://www.wafb.com"
                 }
               }
             ]
@@ -447,6 +507,66 @@
                 "_": "DeSoto County News",
                 "$": {
                   "url": "https://desotocountynews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Opinion | 77 years later, still seeking appropriate honor for a heroic Black medic on D-Day - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDIxLzA2LzIwLzc3LXllYXJzLWxhdGVyLXN0aWxsLXNlZWtpbmctYXBwcm9wcmlhdGUtaG9ub3ItaGVyb2ljLWJsYWNrLW1lZGljLWQtZGF5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDIxLzA2LzIwLzc3LXllYXJzLWxhdGVyLXN0aWxsLXNlZWtpbmctYXBwcm9wcmlhdGUtaG9ub3ItaGVyb2ljLWJsYWNrLW1lZGljLWQtZGF5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 20 Jun 2021 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDIxLzA2LzIwLzc3LXllYXJzLWxhdGVyLXN0aWxsLXNlZWtpbmctYXBwcm9wcmlhdGUtaG9ub3ItaGVyb2ljLWJsYWNrLW1lZGljLWQtZGF5L9IBAA?oc=5\" target=\"_blank\">Opinion | 77 years later, still seeking appropriate honor for a heroic Black medic on D-Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Girls' lacrosse Top 10: Langley gets payback against W.T. Woodson - The Washington Post"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zcG9ydHMvMjAxOS8wNC8yMi9naXJscy1sYWNyb3NzZS10b3AtbGFuZ2xleS1nZXRzLXBheWJhY2stYWdhaW5zdC13dC13b29kc29uL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zcG9ydHMvMjAxOS8wNC8yMi9naXJscy1sYWNyb3NzZS10b3AtbGFuZ2xleS1nZXRzLXBheWJhY2stYWdhaW5zdC13dC13b29kc29uL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Apr 2019 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zcG9ydHMvMjAxOS8wNC8yMi9naXJscy1sYWNyb3NzZS10b3AtbGFuZ2xleS1nZXRzLXBheWJhY2stYWdhaW5zdC13dC13b29kc29uL9IBAA?oc=5\" target=\"_blank\">Girls' lacrosse Top 10: Langley gets payback against W.T. Woodson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+            ],
+            "source": [
+              {
+                "_": "The Washington Post",
+                "$": {
+                  "url": "https://www.washingtonpost.com"
                 }
               }
             ]

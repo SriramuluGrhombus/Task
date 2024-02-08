@@ -25,42 +25,12 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
         ],
         "item": [
-          {
-            "title": [
-              "Join the Nation of Lifesavers at Super Bowl LVIII in Las Vegas - American Heart Association"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmV3c3Jvb20uaGVhcnQub3JnL25ld3Mvam9pbi10aGUtbmF0aW9uLW9mLWxpZmVzYXZlcnMtYXQtc3VwZXItYm93bC1sdmlpaS1pbi1sYXMtdmVnYXPSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiXmh0dHBzOi8vbmV3c3Jvb20uaGVhcnQub3JnL25ld3Mvam9pbi10aGUtbmF0aW9uLW9mLWxpZmVzYXZlcnMtYXQtc3VwZXItYm93bC1sdmlpaS1pbi1sYXMtdmVnYXPSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 13:02:42 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmV3c3Jvb20uaGVhcnQub3JnL25ld3Mvam9pbi10aGUtbmF0aW9uLW9mLWxpZmVzYXZlcnMtYXQtc3VwZXItYm93bC1sdmlpaS1pbi1sYXMtdmVnYXPSAQA?oc=5\" target=\"_blank\">Join the Nation of Lifesavers at Super Bowl LVIII in Las Vegas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Heart Association</font>"
-            ],
-            "source": [
-              {
-                "_": "American Heart Association",
-                "$": {
-                  "url": "https://newsroom.heart.org"
-                }
-              }
-            ]
-          },
           {
             "title": [
               "KSI Joins National Coalition to Advance Life-Saving Policies for Student Athletes - UConn Today - University of Connecticut"
@@ -207,6 +177,36 @@
                 "_": "The Associated Press",
                 "$": {
                   "url": "https://apnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "National Football League commitment to Nation of Lifesavers supports Hands-Only CPR education for youth - American Heart Association"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihwFodHRwczovL25ld3Nyb29tLmhlYXJ0Lm9yZy9uZXdzL25hdGlvbmFsLWZvb3RiYWxsLWxlYWd1ZS1jb21taXRtZW50LXRvLW5hdGlvbi1vZi1saWZlc2F2ZXJzLXN1cHBvcnRzLWhhbmRzLW9ubHktY3ByLWVkdWNhdGlvbi1mb3IteW91dGjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihwFodHRwczovL25ld3Nyb29tLmhlYXJ0Lm9yZy9uZXdzL25hdGlvbmFsLWZvb3RiYWxsLWxlYWd1ZS1jb21taXRtZW50LXRvLW5hdGlvbi1vZi1saWZlc2F2ZXJzLXN1cHBvcnRzLWhhbmRzLW9ubHktY3ByLWVkdWNhdGlvbi1mb3IteW91dGjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 16 Oct 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL25ld3Nyb29tLmhlYXJ0Lm9yZy9uZXdzL25hdGlvbmFsLWZvb3RiYWxsLWxlYWd1ZS1jb21taXRtZW50LXRvLW5hdGlvbi1vZi1saWZlc2F2ZXJzLXN1cHBvcnRzLWhhbmRzLW9ubHktY3ByLWVkdWNhdGlvbi1mb3IteW91dGjSAQA?oc=5\" target=\"_blank\">National Football League commitment to Nation of Lifesavers supports Hands-Only CPR education for youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Heart Association</font>"
+            ],
+            "source": [
+              {
+                "_": "American Heart Association",
+                "$": {
+                  "url": "https://newsroom.heart.org"
                 }
               }
             ]
@@ -453,36 +453,6 @@
           },
           {
             "title": [
-              "National Football League commitment to Nation of Lifesavers supports Hands-Only CPR education for youth - American Heart Association"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMihwFodHRwczovL25ld3Nyb29tLmhlYXJ0Lm9yZy9uZXdzL25hdGlvbmFsLWZvb3RiYWxsLWxlYWd1ZS1jb21taXRtZW50LXRvLW5hdGlvbi1vZi1saWZlc2F2ZXJzLXN1cHBvcnRzLWhhbmRzLW9ubHktY3ByLWVkdWNhdGlvbi1mb3IteW91dGjSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMihwFodHRwczovL25ld3Nyb29tLmhlYXJ0Lm9yZy9uZXdzL25hdGlvbmFsLWZvb3RiYWxsLWxlYWd1ZS1jb21taXRtZW50LXRvLW5hdGlvbi1vZi1saWZlc2F2ZXJzLXN1cHBvcnRzLWhhbmRzLW9ubHktY3ByLWVkdWNhdGlvbi1mb3IteW91dGjSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 16 Oct 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMihwFodHRwczovL25ld3Nyb29tLmhlYXJ0Lm9yZy9uZXdzL25hdGlvbmFsLWZvb3RiYWxsLWxlYWd1ZS1jb21taXRtZW50LXRvLW5hdGlvbi1vZi1saWZlc2F2ZXJzLXN1cHBvcnRzLWhhbmRzLW9ubHktY3ByLWVkdWNhdGlvbi1mb3IteW91dGjSAQA?oc=5\" target=\"_blank\">National Football League commitment to Nation of Lifesavers supports Hands-Only CPR education for youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Heart Association</font>"
-            ],
-            "source": [
-              {
-                "_": "American Heart Association",
-                "$": {
-                  "url": "https://newsroom.heart.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Space Coast Non-Profit 'Who We Play For' Partners With National Football League - SpaceCoastDaily.com"
             ],
             "link": [
@@ -633,36 +603,6 @@
           },
           {
             "title": [
-              "Help is a heartbeat away: Trainers, AEDs at the ready - American Press | American Press - American Press"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmFtZXJpY2FucHJlc3MuY29tLzIwMjMvMDYvMjgvaGVscC1pcy1hLWhlYXJ0YmVhdC1hd2F5LXRyYWluZXJzLWFlZHMtYXQtdGhlLXJlYWR5L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiXWh0dHBzOi8vd3d3LmFtZXJpY2FucHJlc3MuY29tLzIwMjMvMDYvMjgvaGVscC1pcy1hLWhlYXJ0YmVhdC1hd2F5LXRyYWluZXJzLWFlZHMtYXQtdGhlLXJlYWR5L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 28 Jun 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmFtZXJpY2FucHJlc3MuY29tLzIwMjMvMDYvMjgvaGVscC1pcy1hLWhlYXJ0YmVhdC1hd2F5LXRyYWluZXJzLWFlZHMtYXQtdGhlLXJlYWR5L9IBAA?oc=5\" target=\"_blank\">Help is a heartbeat away: Trainers, AEDs at the ready - American Press | American Press</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Press</font>"
-            ],
-            "source": [
-              {
-                "_": "American Press",
-                "$": {
-                  "url": "https://www.americanpress.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Bills' Damar Hamlin OK to play after suffering cardiac arrest - ESPN"
             ],
             "link": [
@@ -783,30 +723,30 @@
           },
           {
             "title": [
-              "Damar Hamlin to throw first pitch at Yankee Stadium Monday - Spectrum News"
+              "Join the Nation of Lifesavers at Super Bowl LVIII in Las Vegas - American Heart Association"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL255cy9idWZmYWxvL25ld3MvMjAyMy8wNi8yNy9kYW1hci1oYW1saW4tdG8tdGhyb3ctb3V0LWZpcnN0LXBpdGNoLWF0LXlhbmtlZS1zdGFkaXVtLW1vbmRhedIBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmV3c3Jvb20uaGVhcnQub3JnL25ld3Mvam9pbi10aGUtbmF0aW9uLW9mLWxpZmVzYXZlcnMtYXQtc3VwZXItYm93bC1sdmlpaS1pbi1sYXMtdmVnYXPSAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMieGh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL255cy9idWZmYWxvL25ld3MvMjAyMy8wNi8yNy9kYW1hci1oYW1saW4tdG8tdGhyb3ctb3V0LWZpcnN0LXBpdGNoLWF0LXlhbmtlZS1zdGFkaXVtLW1vbmRhedIBAA",
+                "_": "CBMiXmh0dHBzOi8vbmV3c3Jvb20uaGVhcnQub3JnL25ld3Mvam9pbi10aGUtbmF0aW9uLW9mLWxpZmVzYXZlcnMtYXQtc3VwZXItYm93bC1sdmlpaS1pbi1sYXMtdmVnYXPSAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 27 Jun 2023 07:00:00 GMT"
+              "Tue, 06 Feb 2024 13:02:42 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL255cy9idWZmYWxvL25ld3MvMjAyMy8wNi8yNy9kYW1hci1oYW1saW4tdG8tdGhyb3ctb3V0LWZpcnN0LXBpdGNoLWF0LXlhbmtlZS1zdGFkaXVtLW1vbmRhedIBAA?oc=5\" target=\"_blank\">Damar Hamlin to throw first pitch at Yankee Stadium Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmV3c3Jvb20uaGVhcnQub3JnL25ld3Mvam9pbi10aGUtbmF0aW9uLW9mLWxpZmVzYXZlcnMtYXQtc3VwZXItYm93bC1sdmlpaS1pbi1sYXMtdmVnYXPSAQA?oc=5\" target=\"_blank\">Join the Nation of Lifesavers at Super Bowl LVIII in Las Vegas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Heart Association</font>"
             ],
             "source": [
               {
-                "_": "Spectrum News",
+                "_": "American Heart Association",
                 "$": {
-                  "url": "https://spectrumlocalnews.com"
+                  "url": "https://newsroom.heart.org"
                 }
               }
             ]
@@ -903,36 +843,6 @@
           },
           {
             "title": [
-              "Raiders training staff helping to educate local students and administrators in emergency response training and athletic ... - Raiders.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJhaWRlcnMuY29tL25ld3MvcmFpZGVycy10cmFpbmluZy1zdGFmZi1lZHVjYXRlLWxvY2FsLXN0dWRlbnRzLWF0aGxldGljLWFkbWluaXN0cmF0b3JzLWxhcy12ZWdhc9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMibGh0dHBzOi8vd3d3LnJhaWRlcnMuY29tL25ld3MvcmFpZGVycy10cmFpbmluZy1zdGFmZi1lZHVjYXRlLWxvY2FsLXN0dWRlbnRzLWF0aGxldGljLWFkbWluaXN0cmF0b3JzLWxhcy12ZWdhc9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 30 Mar 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJhaWRlcnMuY29tL25ld3MvcmFpZGVycy10cmFpbmluZy1zdGFmZi1lZHVjYXRlLWxvY2FsLXN0dWRlbnRzLWF0aGxldGljLWFkbWluaXN0cmF0b3JzLWxhcy12ZWdhc9IBAA?oc=5\" target=\"_blank\">Raiders training staff helping to educate local students and administrators in emergency response training and athletic ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raiders.com</font>"
-            ],
-            "source": [
-              {
-                "_": "Raiders.com",
-                "$": {
-                  "url": "https://www.raiders.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "NCAA athletes' sudden cardiac death rate fell over 20 years, still higher in some athletes - American Heart Association"
             ],
             "link": [
@@ -1017,6 +927,36 @@
                 "_": "ideastream",
                 "$": {
                   "url": "https://www.ideastream.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Help is a heartbeat away: Trainers, AEDs at the ready - American Press | American Press - American Press"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmFtZXJpY2FucHJlc3MuY29tLzIwMjMvMDYvMjgvaGVscC1pcy1hLWhlYXJ0YmVhdC1hd2F5LXRyYWluZXJzLWFlZHMtYXQtdGhlLXJlYWR5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3LmFtZXJpY2FucHJlc3MuY29tLzIwMjMvMDYvMjgvaGVscC1pcy1hLWhlYXJ0YmVhdC1hd2F5LXRyYWluZXJzLWFlZHMtYXQtdGhlLXJlYWR5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 28 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmFtZXJpY2FucHJlc3MuY29tLzIwMjMvMDYvMjgvaGVscC1pcy1hLWhlYXJ0YmVhdC1hd2F5LXRyYWluZXJzLWFlZHMtYXQtdGhlLXJlYWR5L9IBAA?oc=5\" target=\"_blank\">Help is a heartbeat away: Trainers, AEDs at the ready - American Press | American Press</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Press</font>"
+            ],
+            "source": [
+              {
+                "_": "American Press",
+                "$": {
+                  "url": "https://www.americanpress.com"
                 }
               }
             ]
@@ -1173,36 +1113,6 @@
           },
           {
             "title": [
-              "American Red Cross Honors Buffalo Bills Trainers for Saving Damar Hamlin - JEMS (Journal of Emergency Medical Services)"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmplbXMuY29tL3BhdGllbnQtY2FyZS9hbWVyaWNhbi1yZWQtY3Jvc3MtaG9ub3JzLWJ1ZmZhbG8tYmlsbHMtdHJhaW5lcnMtZm9yLXNhdmluZy1kYW1hci1oYW1saW4v0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMia2h0dHBzOi8vd3d3LmplbXMuY29tL3BhdGllbnQtY2FyZS9hbWVyaWNhbi1yZWQtY3Jvc3MtaG9ub3JzLWJ1ZmZhbG8tYmlsbHMtdHJhaW5lcnMtZm9yLXNhdmluZy1kYW1hci1oYW1saW4v0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 08 Jun 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmplbXMuY29tL3BhdGllbnQtY2FyZS9hbWVyaWNhbi1yZWQtY3Jvc3MtaG9ub3JzLWJ1ZmZhbG8tYmlsbHMtdHJhaW5lcnMtZm9yLXNhdmluZy1kYW1hci1oYW1saW4v0gEA?oc=5\" target=\"_blank\">American Red Cross Honors Buffalo Bills Trainers for Saving Damar Hamlin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JEMS (Journal of Emergency Medical Services)</font>"
-            ],
-            "source": [
-              {
-                "_": "JEMS (Journal of Emergency Medical Services)",
-                "$": {
-                  "url": "https://www.jems.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "This life-saving medical device isn’t required at all schools. Damar Hamlin wants to help change that - CNN"
             ],
             "link": [
@@ -1227,6 +1137,66 @@
                 "_": "CNN",
                 "$": {
                   "url": "https://www.cnn.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Damar Hamlin to throw first pitch at Yankee Stadium Monday - Spectrum News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL255cy9idWZmYWxvL25ld3MvMjAyMy8wNi8yNy9kYW1hci1oYW1saW4tdG8tdGhyb3ctb3V0LWZpcnN0LXBpdGNoLWF0LXlhbmtlZS1zdGFkaXVtLW1vbmRhedIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL255cy9idWZmYWxvL25ld3MvMjAyMy8wNi8yNy9kYW1hci1oYW1saW4tdG8tdGhyb3ctb3V0LWZpcnN0LXBpdGNoLWF0LXlhbmtlZS1zdGFkaXVtLW1vbmRhedIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 27 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL255cy9idWZmYWxvL25ld3MvMjAyMy8wNi8yNy9kYW1hci1oYW1saW4tdG8tdGhyb3ctb3V0LWZpcnN0LXBpdGNoLWF0LXlhbmtlZS1zdGFkaXVtLW1vbmRhedIBAA?oc=5\" target=\"_blank\">Damar Hamlin to throw first pitch at Yankee Stadium Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News</font>"
+            ],
+            "source": [
+              {
+                "_": "Spectrum News",
+                "$": {
+                  "url": "https://spectrumlocalnews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Raiders training staff helping to educate local students and administrators in emergency response training and athletic ... - Raiders.com"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJhaWRlcnMuY29tL25ld3MvcmFpZGVycy10cmFpbmluZy1zdGFmZi1lZHVjYXRlLWxvY2FsLXN0dWRlbnRzLWF0aGxldGljLWFkbWluaXN0cmF0b3JzLWxhcy12ZWdhc9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibGh0dHBzOi8vd3d3LnJhaWRlcnMuY29tL25ld3MvcmFpZGVycy10cmFpbmluZy1zdGFmZi1lZHVjYXRlLWxvY2FsLXN0dWRlbnRzLWF0aGxldGljLWFkbWluaXN0cmF0b3JzLWxhcy12ZWdhc9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 30 Mar 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJhaWRlcnMuY29tL25ld3MvcmFpZGVycy10cmFpbmluZy1zdGFmZi1lZHVjYXRlLWxvY2FsLXN0dWRlbnRzLWF0aGxldGljLWFkbWluaXN0cmF0b3JzLWxhcy12ZWdhc9IBAA?oc=5\" target=\"_blank\">Raiders training staff helping to educate local students and administrators in emergency response training and athletic ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raiders.com</font>"
+            ],
+            "source": [
+              {
+                "_": "Raiders.com",
+                "$": {
+                  "url": "https://www.raiders.com"
                 }
               }
             ]
@@ -1347,66 +1317,6 @@
                 "_": "WKYC.com",
                 "$": {
                   "url": "https://www.wkyc.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "A Twist in the Bears Relocation Saga - Front Office Sports"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZnJvbnRvZmZpY2VzcG9ydHMuY29tL25ld3NsZXR0ZXIvYS10d2lzdC1pbi10aGUtYmVhcnMtcmVsb2NhdGlvbi1zYWdhL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiTmh0dHBzOi8vZnJvbnRvZmZpY2VzcG9ydHMuY29tL25ld3NsZXR0ZXIvYS10d2lzdC1pbi10aGUtYmVhcnMtcmVsb2NhdGlvbi1zYWdhL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 05 Jun 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZnJvbnRvZmZpY2VzcG9ydHMuY29tL25ld3NsZXR0ZXIvYS10d2lzdC1pbi10aGUtYmVhcnMtcmVsb2NhdGlvbi1zYWdhL9IBAA?oc=5\" target=\"_blank\">A Twist in the Bears Relocation Saga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Front Office Sports</font>"
-            ],
-            "source": [
-              {
-                "_": "Front Office Sports",
-                "$": {
-                  "url": "https://frontofficesports.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Damar Hamlin launches CPR Tour at Bills' stadium, raises awareness - WGRZ.com"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy53Z3J6LmNvbS9hcnRpY2xlL25ld3MvaGVhbHRoL2J1ZmZhbG8tYmlsbHMtc2FmZXR5LWRhbWFyLWhhbWxpbi1sYXVuY2hlcy1jcHItdG91ci1yYWlzaW5nLWF3YXJlbmVzcy83MS0xMWVmOWY1YS1mOGY5LTQ1ZDQtOGU3ZC01YzFhZWZkMzMyZDbSAZoBaHR0cHM6Ly93d3cud2dyei5jb20vYW1wL2FydGljbGUvbmV3cy9oZWFsdGgvYnVmZmFsby1iaWxscy1zYWZldHktZGFtYXItaGFtbGluLWxhdW5jaGVzLWNwci10b3VyLXJhaXNpbmctYXdhcmVuZXNzLzcxLTExZWY5ZjVhLWY4ZjktNDVkNC04ZTdkLTVjMWFlZmQzMzJkNg?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMilgFodHRwczovL3d3dy53Z3J6LmNvbS9hcnRpY2xlL25ld3MvaGVhbHRoL2J1ZmZhbG8tYmlsbHMtc2FmZXR5LWRhbWFyLWhhbWxpbi1sYXVuY2hlcy1jcHItdG91ci1yYWlzaW5nLWF3YXJlbmVzcy83MS0xMWVmOWY1YS1mOGY5LTQ1ZDQtOGU3ZC01YzFhZWZkMzMyZDbSAZoBaHR0cHM6Ly93d3cud2dyei5jb20vYW1wL2FydGljbGUvbmV3cy9oZWFsdGgvYnVmZmFsby1iaWxscy1zYWZldHktZGFtYXItaGFtbGluLWxhdW5jaGVzLWNwci10b3VyLXJhaXNpbmctYXdhcmVuZXNzLzcxLTExZWY5ZjVhLWY4ZjktNDVkNC04ZTdkLTVjMWFlZmQzMzJkNg",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sat, 03 Jun 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy53Z3J6LmNvbS9hcnRpY2xlL25ld3MvaGVhbHRoL2J1ZmZhbG8tYmlsbHMtc2FmZXR5LWRhbWFyLWhhbWxpbi1sYXVuY2hlcy1jcHItdG91ci1yYWlzaW5nLWF3YXJlbmVzcy83MS0xMWVmOWY1YS1mOGY5LTQ1ZDQtOGU3ZC01YzFhZWZkMzMyZDbSAZoBaHR0cHM6Ly93d3cud2dyei5jb20vYW1wL2FydGljbGUvbmV3cy9oZWFsdGgvYnVmZmFsby1iaWxscy1zYWZldHktZGFtYXItaGFtbGluLWxhdW5jaGVzLWNwci10b3VyLXJhaXNpbmctYXdhcmVuZXNzLzcxLTExZWY5ZjVhLWY4ZjktNDVkNC04ZTdkLTVjMWFlZmQzMzJkNg?oc=5\" target=\"_blank\">Damar Hamlin launches CPR Tour at Bills' stadium, raises awareness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGRZ.com</font>"
-            ],
-            "source": [
-              {
-                "_": "WGRZ.com",
-                "$": {
-                  "url": "https://www.wgrz.com"
                 }
               }
             ]
@@ -1563,36 +1473,6 @@
           },
           {
             "title": [
-              "Katherine Fitzgerald: 'Damar Effect' comes back to Buffalo - Buffalo News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMihgFodHRwczovL2J1ZmZhbG9uZXdzLmNvbS9zcG9ydHMvYmlsbHMvYnVmZmFsby1iaWxscy1kYW1hci1oYW1saW4tbmZsLWNwci1kYW1hci1lZmZlY3QvYXJ0aWNsZV9mOTMzOWU1NC00YjVlLTExZWUtYTZiOC05ZmRmZmU0ZDA4NzQuaHRtbNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMihgFodHRwczovL2J1ZmZhbG9uZXdzLmNvbS9zcG9ydHMvYmlsbHMvYnVmZmFsby1iaWxscy1kYW1hci1oYW1saW4tbmZsLWNwci1kYW1hci1lZmZlY3QvYXJ0aWNsZV9mOTMzOWU1NC00YjVlLTExZWUtYTZiOC05ZmRmZmU0ZDA4NzQuaHRtbNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 04 Sep 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL2J1ZmZhbG9uZXdzLmNvbS9zcG9ydHMvYmlsbHMvYnVmZmFsby1iaWxscy1kYW1hci1oYW1saW4tbmZsLWNwci1kYW1hci1lZmZlY3QvYXJ0aWNsZV9mOTMzOWU1NC00YjVlLTExZWUtYTZiOC05ZmRmZmU0ZDA4NzQuaHRtbNIBAA?oc=5\" target=\"_blank\">Katherine Fitzgerald: 'Damar Effect' comes back to Buffalo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Buffalo News</font>"
-            ],
-            "source": [
-              {
-                "_": "Buffalo News",
-                "$": {
-                  "url": "https://buffalonews.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Jets and Atlantic Health System Announce Youth Football CPR and AED Education Sessions - newyorkjets.com"
             ],
             "link": [
@@ -1686,21 +1566,21 @@
               "Local Sports | miamitimesonline.com - The Miami Times"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lm1pYW1pdGltZXNvbmxpbmUuY29tL2xpdmluZ19ibGFjay9sb2NhbF9zcG9ydHMv0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm1pYW1pdGltZXNvbmxpbmUuY29tL3Nwb3J0cy_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiO2h0dHBzOi8vd3d3Lm1pYW1pdGltZXNvbmxpbmUuY29tL2xpdmluZ19ibGFjay9sb2NhbF9zcG9ydHMv0gEA",
+                "_": "CBMiKGh0dHBzOi8vd3d3Lm1pYW1pdGltZXNvbmxpbmUuY29tL3Nwb3J0cy_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Sat, 19 Sep 2020 03:52:43 GMT"
+              "Fri, 01 May 2020 15:33:07 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lm1pYW1pdGltZXNvbmxpbmUuY29tL2xpdmluZ19ibGFjay9sb2NhbF9zcG9ydHMv0gEA?oc=5\" target=\"_blank\">Local Sports | miamitimesonline.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Miami Times</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm1pYW1pdGltZXNvbmxpbmUuY29tL3Nwb3J0cy_SAQA?oc=5\" target=\"_blank\">Local Sports | miamitimesonline.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Miami Times</font>"
             ],
             "source": [
               {

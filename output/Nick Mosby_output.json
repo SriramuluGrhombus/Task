@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -123,36 +123,6 @@
           },
           {
             "title": [
-              "Former Baltimore State's Attorney Marilyn Mosby found guilty of one count of mortgage fraud - Yahoo Finance"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjMwNDAwNjA3Lmh0bWzSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjMwNDAwNjA3Lmh0bWzSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 23:04:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjMwNDAwNjA3Lmh0bWzSAQA?oc=5\" target=\"_blank\">Former Baltimore State's Attorney Marilyn Mosby found guilty of one count of mortgage fraud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
-            ],
-            "source": [
-              {
-                "_": "Yahoo Finance",
-                "$": {
-                  "url": "https://finance.yahoo.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "News Wrap: Marilyn and Nick Mosby, the trial & their future - WYPR"
             ],
             "link": [
@@ -207,6 +177,36 @@
                 "_": "Fox Baltimore",
                 "$": {
                   "url": "https://foxbaltimore.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former Baltimore State's Attorney Marilyn Mosby found guilty of one count of mortgage fraud - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjMwNDAwNjA3Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjMwNDAwNjA3Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 23:04:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjMwNDAwNjA3Lmh0bWzSAQA?oc=5\" target=\"_blank\">Former Baltimore State's Attorney Marilyn Mosby found guilty of one count of mortgage fraud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
                 }
               }
             ]
@@ -306,21 +306,21 @@
               "Former Baltimore State's Attorney Marilyn Mosby convicted of mortgage fraud - Afro American Newspaper"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYWZyby5jb20vZm9ybWVyLWJhbHRpbW9yZS1zdGF0ZXMtYXR0b3JuZXktbWFyaWx5bi1tb3NieS1jb252aWN0ZWQtb2YtbW9ydGdhZ2UtZnJhdWQtMi_SAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYWZyby5jb20vZm9ybWVyLWJhbHRpbW9yZS1zdGF0ZXMtYXR0b3JuZXktbWFyaWx5bi1tb3NieS1jb252aWN0ZWQtb2YtbW9ydGdhZ2UtZnJhdWQv0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiXmh0dHBzOi8vYWZyby5jb20vZm9ybWVyLWJhbHRpbW9yZS1zdGF0ZXMtYXR0b3JuZXktbWFyaWx5bi1tb3NieS1jb252aWN0ZWQtb2YtbW9ydGdhZ2UtZnJhdWQtMi_SAQA",
+                "_": "CBMiXGh0dHBzOi8vYWZyby5jb20vZm9ybWVyLWJhbHRpbW9yZS1zdGF0ZXMtYXR0b3JuZXktbWFyaWx5bi1tb3NieS1jb252aWN0ZWQtb2YtbW9ydGdhZ2UtZnJhdWQv0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 07 Feb 2024 04:12:52 GMT"
+              "Wed, 07 Feb 2024 03:54:05 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYWZyby5jb20vZm9ybWVyLWJhbHRpbW9yZS1zdGF0ZXMtYXR0b3JuZXktbWFyaWx5bi1tb3NieS1jb252aWN0ZWQtb2YtbW9ydGdhZ2UtZnJhdWQtMi_SAQA?oc=5\" target=\"_blank\">Former Baltimore State's Attorney Marilyn Mosby convicted of mortgage fraud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Afro American Newspaper</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYWZyby5jb20vZm9ybWVyLWJhbHRpbW9yZS1zdGF0ZXMtYXR0b3JuZXktbWFyaWx5bi1tb3NieS1jb252aWN0ZWQtb2YtbW9ydGdhZ2UtZnJhdWQv0gEA?oc=5\" target=\"_blank\">Former Baltimore State's Attorney Marilyn Mosby convicted of mortgage fraud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Afro American Newspaper</font>"
             ],
             "source": [
               {
@@ -363,7 +363,7 @@
           },
           {
             "title": [
-              "Marilyn Mosby, Former Baltimore Top Attorney, Guilty Of Mortgage Fraud - Patch"
+              "Marilyn Mosby, Former Baltimore Top Attorney, Guilty Of Mortgage Fraud - Baltimore, MD Patch"
             ],
             "link": [
               "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vcGF0Y2guY29tL21hcnlsYW5kL2JhbHRpbW9yZS9tYXJpbHluLW1vc2J5LWZvcm1lci1iYWx0aW1vcmUtdG9wLWF0dG9ybmV5LWd1aWx0eS1tb3J0Z2FnZS1mcmF1ZNIBdmh0dHBzOi8vcGF0Y2guY29tL21hcnlsYW5kL2JhbHRpbW9yZS9hbXAvMzE2NjM4NzUvbWFyaWx5bi1tb3NieS1mb3JtZXItYmFsdGltb3JlLXRvcC1hdHRvcm5leS1ndWlsdHktb2YtbW9ydGdhZ2UtZnJhdWQ?oc=5"
@@ -380,11 +380,11 @@
               "Wed, 07 Feb 2024 00:34:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vcGF0Y2guY29tL21hcnlsYW5kL2JhbHRpbW9yZS9tYXJpbHluLW1vc2J5LWZvcm1lci1iYWx0aW1vcmUtdG9wLWF0dG9ybmV5LWd1aWx0eS1tb3J0Z2FnZS1mcmF1ZNIBdmh0dHBzOi8vcGF0Y2guY29tL21hcnlsYW5kL2JhbHRpbW9yZS9hbXAvMzE2NjM4NzUvbWFyaWx5bi1tb3NieS1mb3JtZXItYmFsdGltb3JlLXRvcC1hdHRvcm5leS1ndWlsdHktb2YtbW9ydGdhZ2UtZnJhdWQ?oc=5\" target=\"_blank\">Marilyn Mosby, Former Baltimore Top Attorney, Guilty Of Mortgage Fraud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vcGF0Y2guY29tL21hcnlsYW5kL2JhbHRpbW9yZS9tYXJpbHluLW1vc2J5LWZvcm1lci1iYWx0aW1vcmUtdG9wLWF0dG9ybmV5LWd1aWx0eS1tb3J0Z2FnZS1mcmF1ZNIBdmh0dHBzOi8vcGF0Y2guY29tL21hcnlsYW5kL2JhbHRpbW9yZS9hbXAvMzE2NjM4NzUvbWFyaWx5bi1tb3NieS1mb3JtZXItYmFsdGltb3JlLXRvcC1hdHRvcm5leS1ndWlsdHktb2YtbW9ydGdhZ2UtZnJhdWQ?oc=5\" target=\"_blank\">Marilyn Mosby, Former Baltimore Top Attorney, Guilty Of Mortgage Fraud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore, MD Patch</font>"
             ],
             "source": [
               {
-                "_": "Patch",
+                "_": "Baltimore, MD Patch",
                 "$": {
                   "url": "https://patch.com"
                 }
@@ -393,7 +393,7 @@
           },
           {
             "title": [
-              "Jury deliberating in Marilyn Mosby's mortgage fraud trial; supporters pray outside court - CBS News"
+              "Jury deliberating in Marilyn Mosby's mortgage fraud trial; supporters pray outside court - CBS Baltimore"
             ],
             "link": [
               "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2JhbHRpbW9yZS9uZXdzL21hcmlseW4tbW9zYnktY2xvc2luZy1hcmd1bWVudHMtYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1tb3J0Z2FnZS1mcmF1ZC10cmlhbC_SAXpodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvYmFsdGltb3JlL25ld3MvbWFyaWx5bi1tb3NieS1jbG9zaW5nLWFyZ3VtZW50cy1iYWx0aW1vcmUtc3RhdGVzLWF0dG9ybmV5LW1vcnRnYWdlLWZyYXVkLXRyaWFsLw?oc=5"
@@ -410,11 +410,11 @@
               "Tue, 06 Feb 2024 15:52:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2JhbHRpbW9yZS9uZXdzL21hcmlseW4tbW9zYnktY2xvc2luZy1hcmd1bWVudHMtYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1tb3J0Z2FnZS1mcmF1ZC10cmlhbC_SAXpodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvYmFsdGltb3JlL25ld3MvbWFyaWx5bi1tb3NieS1jbG9zaW5nLWFyZ3VtZW50cy1iYWx0aW1vcmUtc3RhdGVzLWF0dG9ybmV5LW1vcnRnYWdlLWZyYXVkLXRyaWFsLw?oc=5\" target=\"_blank\">Jury deliberating in Marilyn Mosby's mortgage fraud trial; supporters pray outside court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2JhbHRpbW9yZS9uZXdzL21hcmlseW4tbW9zYnktY2xvc2luZy1hcmd1bWVudHMtYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1tb3J0Z2FnZS1mcmF1ZC10cmlhbC_SAXpodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvYmFsdGltb3JlL25ld3MvbWFyaWx5bi1tb3NieS1jbG9zaW5nLWFyZ3VtZW50cy1iYWx0aW1vcmUtc3RhdGVzLWF0dG9ybmV5LW1vcnRnYWdlLWZyYXVkLXRyaWFsLw?oc=5\" target=\"_blank\">Jury deliberating in Marilyn Mosby's mortgage fraud trial; supporters pray outside court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS Baltimore</font>"
             ],
             "source": [
               {
-                "_": "CBS News",
+                "_": "CBS Baltimore",
                 "$": {
                   "url": "https://www.cbsnews.com"
                 }
@@ -603,36 +603,6 @@
           },
           {
             "title": [
-              "Marilyn Mosby blames mortgage company, says lies on forms \"not intentional\" during testy cross examination - CBS News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9iYWx0aW1vcmUvbmV3cy9tYXJpbHluLW5pY2stbW9zYnktZmVkZXJhbC1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1iYWx0aW1vcmUtc3RhdGVzLWF0dG9ybmV5LWJsYW1lcy1jb21wYW55L9IBhAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvYmFsdGltb3JlL25ld3MvbWFyaWx5bi1uaWNrLW1vc2J5LWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1ibGFtZXMtY29tcGFueS8?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMigAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9iYWx0aW1vcmUvbmV3cy9tYXJpbHluLW5pY2stbW9zYnktZmVkZXJhbC1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1iYWx0aW1vcmUtc3RhdGVzLWF0dG9ybmV5LWJsYW1lcy1jb21wYW55L9IBhAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvYmFsdGltb3JlL25ld3MvbWFyaWx5bi1uaWNrLW1vc2J5LWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1ibGFtZXMtY29tcGFueS8",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Feb 2024 22:17:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9iYWx0aW1vcmUvbmV3cy9tYXJpbHluLW5pY2stbW9zYnktZmVkZXJhbC1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1iYWx0aW1vcmUtc3RhdGVzLWF0dG9ybmV5LWJsYW1lcy1jb21wYW55L9IBhAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvYmFsdGltb3JlL25ld3MvbWFyaWx5bi1uaWNrLW1vc2J5LWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1ibGFtZXMtY29tcGFueS8?oc=5\" target=\"_blank\">Marilyn Mosby blames mortgage company, says lies on forms \"not intentional\" during testy cross examination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
-            ],
-            "source": [
-              {
-                "_": "CBS News",
-                "$": {
-                  "url": "https://www.cbsnews.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Baltimore Council President Nick Mosby should not run for reelection | STAFF COMMENTARY - Baltimore Sun"
             ],
             "link": [
@@ -657,6 +627,36 @@
                 "_": "Baltimore Sun",
                 "$": {
                   "url": "https://www.baltimoresun.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Marilyn Mosby blames mortgage company, says lies on forms \"not intentional\" during testy cross examination - CBS News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9iYWx0aW1vcmUvbmV3cy9tYXJpbHluLW5pY2stbW9zYnktZmVkZXJhbC1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1iYWx0aW1vcmUtc3RhdGVzLWF0dG9ybmV5LWJsYW1lcy1jb21wYW55L9IBhAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvYmFsdGltb3JlL25ld3MvbWFyaWx5bi1uaWNrLW1vc2J5LWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1ibGFtZXMtY29tcGFueS8?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9iYWx0aW1vcmUvbmV3cy9tYXJpbHluLW5pY2stbW9zYnktZmVkZXJhbC1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1iYWx0aW1vcmUtc3RhdGVzLWF0dG9ybmV5LWJsYW1lcy1jb21wYW55L9IBhAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvYmFsdGltb3JlL25ld3MvbWFyaWx5bi1uaWNrLW1vc2J5LWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1ibGFtZXMtY29tcGFueS8",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 22:17:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9iYWx0aW1vcmUvbmV3cy9tYXJpbHluLW5pY2stbW9zYnktZmVkZXJhbC1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1iYWx0aW1vcmUtc3RhdGVzLWF0dG9ybmV5LWJsYW1lcy1jb21wYW55L9IBhAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvYmFsdGltb3JlL25ld3MvbWFyaWx5bi1uaWNrLW1vc2J5LWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1ibGFtZXMtY29tcGFueS8?oc=5\" target=\"_blank\">Marilyn Mosby blames mortgage company, says lies on forms \"not intentional\" during testy cross examination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+            ],
+            "source": [
+              {
+                "_": "CBS News",
+                "$": {
+                  "url": "https://www.cbsnews.com"
                 }
               }
             ]
@@ -843,36 +843,6 @@
           },
           {
             "title": [
-              "Defense rests after Marilyn Mosby's testimony at mortgage fraud trial - Maryland Daily Record"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlZGFpbHlyZWNvcmQuY29tLzIwMjQvMDIvMDEvZGVmZW5zZS1yZXN0cy1hZnRlci1tb3NieXMtdGVzdGltb255LWF0LW1vcnRnYWdlLWZyYXVkLXRyaWFsL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiY2h0dHBzOi8vdGhlZGFpbHlyZWNvcmQuY29tLzIwMjQvMDIvMDEvZGVmZW5zZS1yZXN0cy1hZnRlci1tb3NieXMtdGVzdGltb255LWF0LW1vcnRnYWdlLWZyYXVkLXRyaWFsL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Feb 2024 18:33:45 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlZGFpbHlyZWNvcmQuY29tLzIwMjQvMDIvMDEvZGVmZW5zZS1yZXN0cy1hZnRlci1tb3NieXMtdGVzdGltb255LWF0LW1vcnRnYWdlLWZyYXVkLXRyaWFsL9IBAA?oc=5\" target=\"_blank\">Defense rests after Marilyn Mosby's testimony at mortgage fraud trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maryland Daily Record</font>"
-            ],
-            "source": [
-              {
-                "_": "Maryland Daily Record",
-                "$": {
-                  "url": "https://thedailyrecord.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Nick Mosby on stand at Marilyn Mosby's trial: 'Ultimately, it was my mismanagement' - Fox Baltimore"
             ],
             "link": [
@@ -903,6 +873,36 @@
           },
           {
             "title": [
+              "Defense rests after Marilyn Mosby's testimony at mortgage fraud trial - Maryland Daily Record"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlZGFpbHlyZWNvcmQuY29tLzIwMjQvMDIvMDEvZGVmZW5zZS1yZXN0cy1hZnRlci1tb3NieXMtdGVzdGltb255LWF0LW1vcnRnYWdlLWZyYXVkLXRyaWFsL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiY2h0dHBzOi8vdGhlZGFpbHlyZWNvcmQuY29tLzIwMjQvMDIvMDEvZGVmZW5zZS1yZXN0cy1hZnRlci1tb3NieXMtdGVzdGltb255LWF0LW1vcnRnYWdlLWZyYXVkLXRyaWFsL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 18:33:45 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlZGFpbHlyZWNvcmQuY29tLzIwMjQvMDIvMDEvZGVmZW5zZS1yZXN0cy1hZnRlci1tb3NieXMtdGVzdGltb255LWF0LW1vcnRnYWdlLWZyYXVkLXRyaWFsL9IBAA?oc=5\" target=\"_blank\">Defense rests after Marilyn Mosby's testimony at mortgage fraud trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maryland Daily Record</font>"
+            ],
+            "source": [
+              {
+                "_": "Maryland Daily Record",
+                "$": {
+                  "url": "https://thedailyrecord.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Council President Nick Mosby looks back on 2023 - wmar2news.com"
             ],
             "link": [
@@ -927,6 +927,36 @@
                 "_": "wmar2news.com",
                 "$": {
                   "url": "https://www.wmar2news.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Jurors to deliberate Tuesday in former Baltimore State's Attorney Marilyn Mosby's mortgage fraud trial - Baltimore Sun"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5iYWx0aW1vcmVzdW4uY29tLzIwMjQvMDIvMDUvY2xvc2luZy1hcmd1bWVudHMtaW4tdHJpYWwtYWdhaW5zdC1mb3JtZXItYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1tYXJpbHluLW1vc2J5LXRoZS1kZWZlbmRhbnQtaXMtbm90LWNyZWRpYmxlL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMimAFodHRwczovL3d3dy5iYWx0aW1vcmVzdW4uY29tLzIwMjQvMDIvMDUvY2xvc2luZy1hcmd1bWVudHMtaW4tdHJpYWwtYWdhaW5zdC1mb3JtZXItYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1tYXJpbHluLW1vc2J5LXRoZS1kZWZlbmRhbnQtaXMtbm90LWNyZWRpYmxlL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 05 Feb 2024 23:23:59 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5iYWx0aW1vcmVzdW4uY29tLzIwMjQvMDIvMDUvY2xvc2luZy1hcmd1bWVudHMtaW4tdHJpYWwtYWdhaW5zdC1mb3JtZXItYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1tYXJpbHluLW1vc2J5LXRoZS1kZWZlbmRhbnQtaXMtbm90LWNyZWRpYmxlL9IBAA?oc=5\" target=\"_blank\">Jurors to deliberate Tuesday in former Baltimore State's Attorney Marilyn Mosby's mortgage fraud trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore Sun</font>"
+            ],
+            "source": [
+              {
+                "_": "Baltimore Sun",
+                "$": {
+                  "url": "https://www.baltimoresun.com"
                 }
               }
             ]
@@ -1113,30 +1143,30 @@
           },
           {
             "title": [
-              "Jurors to deliberate Tuesday in former Baltimore State's Attorney Marilyn Mosby's mortgage fraud trial - Baltimore Sun"
+              "Two Baltimore City Council members currently ineligible for reelection over campaign fines - Fox Baltimore"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5iYWx0aW1vcmVzdW4uY29tLzIwMjQvMDIvMDUvY2xvc2luZy1hcmd1bWVudHMtaW4tdHJpYWwtYWdhaW5zdC1mb3JtZXItYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1tYXJpbHluLW1vc2J5LXRoZS1kZWZlbmRhbnQtaXMtbm90LWNyZWRpYmxlL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMimAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC90d28tYmFsdGltb3JlLWNpdHktY291bmNpbC1tZW1iZXJzLWN1cnJlbnRseS1pbmVsaWdpYmxlLWZvci1yZWVsZWN0aW9uLW92ZXItY2FtcGFpZ24tZmluZXMtbmljay1tb3NieS1hbnRvbmlvLWdsb3ZlctIBnAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vYW1wL25ld3MvbG9jYWwvdHdvLWJhbHRpbW9yZS1jaXR5LWNvdW5jaWwtbWVtYmVycy1jdXJyZW50bHktaW5lbGlnaWJsZS1mb3ItcmVlbGVjdGlvbi1vdmVyLWNhbXBhaWduLWZpbmVzLW5pY2stbW9zYnktYW50b25pby1nbG92ZXI?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMimAFodHRwczovL3d3dy5iYWx0aW1vcmVzdW4uY29tLzIwMjQvMDIvMDUvY2xvc2luZy1hcmd1bWVudHMtaW4tdHJpYWwtYWdhaW5zdC1mb3JtZXItYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1tYXJpbHluLW1vc2J5LXRoZS1kZWZlbmRhbnQtaXMtbm90LWNyZWRpYmxlL9IBAA",
+                "_": "CBMimAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC90d28tYmFsdGltb3JlLWNpdHktY291bmNpbC1tZW1iZXJzLWN1cnJlbnRseS1pbmVsaWdpYmxlLWZvci1yZWVsZWN0aW9uLW92ZXItY2FtcGFpZ24tZmluZXMtbmljay1tb3NieS1hbnRvbmlvLWdsb3ZlctIBnAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vYW1wL25ld3MvbG9jYWwvdHdvLWJhbHRpbW9yZS1jaXR5LWNvdW5jaWwtbWVtYmVycy1jdXJyZW50bHktaW5lbGlnaWJsZS1mb3ItcmVlbGVjdGlvbi1vdmVyLWNhbXBhaWduLWZpbmVzLW5pY2stbW9zYnktYW50b25pby1nbG92ZXI",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 05 Feb 2024 23:23:59 GMT"
+              "Thu, 21 Dec 2023 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5iYWx0aW1vcmVzdW4uY29tLzIwMjQvMDIvMDUvY2xvc2luZy1hcmd1bWVudHMtaW4tdHJpYWwtYWdhaW5zdC1mb3JtZXItYmFsdGltb3JlLXN0YXRlcy1hdHRvcm5leS1tYXJpbHluLW1vc2J5LXRoZS1kZWZlbmRhbnQtaXMtbm90LWNyZWRpYmxlL9IBAA?oc=5\" target=\"_blank\">Jurors to deliberate Tuesday in former Baltimore State's Attorney Marilyn Mosby's mortgage fraud trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore Sun</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC90d28tYmFsdGltb3JlLWNpdHktY291bmNpbC1tZW1iZXJzLWN1cnJlbnRseS1pbmVsaWdpYmxlLWZvci1yZWVsZWN0aW9uLW92ZXItY2FtcGFpZ24tZmluZXMtbmljay1tb3NieS1hbnRvbmlvLWdsb3ZlctIBnAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vYW1wL25ld3MvbG9jYWwvdHdvLWJhbHRpbW9yZS1jaXR5LWNvdW5jaWwtbWVtYmVycy1jdXJyZW50bHktaW5lbGlnaWJsZS1mb3ItcmVlbGVjdGlvbi1vdmVyLWNhbXBhaWduLWZpbmVzLW5pY2stbW9zYnktYW50b25pby1nbG92ZXI?oc=5\" target=\"_blank\">Two Baltimore City Council members currently ineligible for reelection over campaign fines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Baltimore</font>"
             ],
             "source": [
               {
-                "_": "Baltimore Sun",
+                "_": "Fox Baltimore",
                 "$": {
-                  "url": "https://www.baltimoresun.com"
+                  "url": "https://foxbaltimore.com"
                 }
               }
             ]
@@ -1161,36 +1191,6 @@
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnktdGFrZXMtdGhlLXN0YW5kLWZvci1zZWNvbmQtZGF5LWluLW1vcnRnYWdlLWZyYXVkLXRyaWFs0gFsaHR0cHM6Ly9mb3hiYWx0aW1vcmUuY29tL2FtcC9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnktdGFrZXMtdGhlLXN0YW5kLWZvci1zZWNvbmQtZGF5LWluLW1vcnRnYWdlLWZyYXVkLXRyaWFs?oc=5\" target=\"_blank\">Marilyn Mosby takes the stand for second day in mortgage fraud trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Baltimore</font>"
-            ],
-            "source": [
-              {
-                "_": "Fox Baltimore",
-                "$": {
-                  "url": "https://foxbaltimore.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Two Baltimore City Council members currently ineligible for reelection over campaign fines - Fox Baltimore"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMimAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC90d28tYmFsdGltb3JlLWNpdHktY291bmNpbC1tZW1iZXJzLWN1cnJlbnRseS1pbmVsaWdpYmxlLWZvci1yZWVsZWN0aW9uLW92ZXItY2FtcGFpZ24tZmluZXMtbmljay1tb3NieS1hbnRvbmlvLWdsb3ZlctIBnAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vYW1wL25ld3MvbG9jYWwvdHdvLWJhbHRpbW9yZS1jaXR5LWNvdW5jaWwtbWVtYmVycy1jdXJyZW50bHktaW5lbGlnaWJsZS1mb3ItcmVlbGVjdGlvbi1vdmVyLWNhbXBhaWduLWZpbmVzLW5pY2stbW9zYnktYW50b25pby1nbG92ZXI?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMimAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC90d28tYmFsdGltb3JlLWNpdHktY291bmNpbC1tZW1iZXJzLWN1cnJlbnRseS1pbmVsaWdpYmxlLWZvci1yZWVsZWN0aW9uLW92ZXItY2FtcGFpZ24tZmluZXMtbmljay1tb3NieS1hbnRvbmlvLWdsb3ZlctIBnAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vYW1wL25ld3MvbG9jYWwvdHdvLWJhbHRpbW9yZS1jaXR5LWNvdW5jaWwtbWVtYmVycy1jdXJyZW50bHktaW5lbGlnaWJsZS1mb3ItcmVlbGVjdGlvbi1vdmVyLWNhbXBhaWduLWZpbmVzLW5pY2stbW9zYnktYW50b25pby1nbG92ZXI",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 21 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMimAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC90d28tYmFsdGltb3JlLWNpdHktY291bmNpbC1tZW1iZXJzLWN1cnJlbnRseS1pbmVsaWdpYmxlLWZvci1yZWVsZWN0aW9uLW92ZXItY2FtcGFpZ24tZmluZXMtbmljay1tb3NieS1hbnRvbmlvLWdsb3ZlctIBnAFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vYW1wL25ld3MvbG9jYWwvdHdvLWJhbHRpbW9yZS1jaXR5LWNvdW5jaWwtbWVtYmVycy1jdXJyZW50bHktaW5lbGlnaWJsZS1mb3ItcmVlbGVjdGlvbi1vdmVyLWNhbXBhaWduLWZpbmVzLW5pY2stbW9zYnktYW50b25pby1nbG92ZXI?oc=5\" target=\"_blank\">Two Baltimore City Council members currently ineligible for reelection over campaign fines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Baltimore</font>"
             ],
             "source": [
               {
@@ -1233,24 +1233,24 @@
           },
           {
             "title": [
-              "Marilyn Mosby on the stand: 'I want this jury to hear my truth' - Fox Baltimore"
+              "Marilyn Mosby's federal mortgage fraud case now in hands of jury - Fox Baltimore"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnktdG8tdGVzdGlmeS1pbi1tb3J0Z2FnZS1mcmF1ZC10cmlhbNIBWGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5LXRvLXRlc3RpZnktaW4tbW9ydGdhZ2UtZnJhdWQtdHJpYWw?oc=5"
+              "https://news.google.com/rss/articles/CBMixwFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl0gHLAWh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiVGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnktdG8tdGVzdGlmeS1pbi1tb3J0Z2FnZS1mcmF1ZC10cmlhbNIBWGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5LXRvLXRlc3RpZnktaW4tbW9ydGdhZ2UtZnJhdWQtdHJpYWw",
+                "_": "CBMixwFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl0gHLAWh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 31 Jan 2024 15:21:30 GMT"
+              "Mon, 05 Feb 2024 17:39:56 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnktdG8tdGVzdGlmeS1pbi1tb3J0Z2FnZS1mcmF1ZC10cmlhbNIBWGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5LXRvLXRlc3RpZnktaW4tbW9ydGdhZ2UtZnJhdWQtdHJpYWw?oc=5\" target=\"_blank\">Marilyn Mosby on the stand: 'I want this jury to hear my truth'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Baltimore</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMixwFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl0gHLAWh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl?oc=5\" target=\"_blank\">Marilyn Mosby's federal mortgage fraud case now in hands of jury</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Baltimore</font>"
             ],
             "source": [
               {
@@ -1293,24 +1293,54 @@
           },
           {
             "title": [
-              "Marilyn Mosby's federal mortgage fraud case now in hands of jury - Fox Baltimore"
+              "Marilyn Mosby on the stand: 'I want this jury to hear my truth' - Fox Baltimore"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMixwFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl0gHLAWh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl?oc=5"
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnktdG8tdGVzdGlmeS1pbi1tb3J0Z2FnZS1mcmF1ZC10cmlhbNIBWGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5LXRvLXRlc3RpZnktaW4tbW9ydGdhZ2UtZnJhdWQtdHJpYWw?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMixwFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl0gHLAWh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl",
+                "_": "CBMiVGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnktdG8tdGVzdGlmeS1pbi1tb3J0Z2FnZS1mcmF1ZC10cmlhbNIBWGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5LXRvLXRlc3RpZnktaW4tbW9ydGdhZ2UtZnJhdWQtdHJpYWw",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Mon, 05 Feb 2024 17:39:56 GMT"
+              "Wed, 31 Jan 2024 15:21:30 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMixwFodHRwczovL2ZveGJhbHRpbW9yZS5jb20vbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl0gHLAWh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9jbG9zaW5nLWFyZ3VtZW50cy11bmRlcndheS1pbi1tYXJpbHluLW1vc2J5cy1tb3J0Z2FnZS1mcmF1ZC10cmlhbC1mb3JtZXItYmFsdGltb3JlLWNpdHktc3RhdGVzLWF0dG9ybmV5LWFzc2lzdGFudC11cy1hdHRvcm5leS1hYXJvbi16ZWxpbnNreWphbWVzLXd5ZGEtbWFnZ2llLWdyYWNl?oc=5\" target=\"_blank\">Marilyn Mosby's federal mortgage fraud case now in hands of jury</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Baltimore</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnktdG8tdGVzdGlmeS1pbi1tb3J0Z2FnZS1mcmF1ZC10cmlhbNIBWGh0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5LXRvLXRlc3RpZnktaW4tbW9ydGdhZ2UtZnJhdWQtdHJpYWw?oc=5\" target=\"_blank\">Marilyn Mosby on the stand: 'I want this jury to hear my truth'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Baltimore</font>"
+            ],
+            "source": [
+              {
+                "_": "Fox Baltimore",
+                "$": {
+                  "url": "https://foxbaltimore.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Marilyn Mosby's federal mortgage fraud trial leads to questions about Nick Mosby's future - Fox Baltimore"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnlzLWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtbGVhZHMtdG8tcXVlc3Rpb25zLWFib3V0LW5pY2stbW9zYnlzLWZ1dHVyZdIBf2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5cy1mZWRlcmFsLW1vcnRnYWdlLWZyYXVkLXRyaWFsLWxlYWRzLXRvLXF1ZXN0aW9ucy1hYm91dC1uaWNrLW1vc2J5cy1mdXR1cmU?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnlzLWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtbGVhZHMtdG8tcXVlc3Rpb25zLWFib3V0LW5pY2stbW9zYnlzLWZ1dHVyZdIBf2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5cy1mZWRlcmFsLW1vcnRnYWdlLWZyYXVkLXRyaWFsLWxlYWRzLXRvLXF1ZXN0aW9ucy1hYm91dC1uaWNrLW1vc2J5cy1mdXR1cmU",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 30 Jan 2024 22:40:37 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnlzLWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtbGVhZHMtdG8tcXVlc3Rpb25zLWFib3V0LW5pY2stbW9zYnlzLWZ1dHVyZdIBf2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5cy1mZWRlcmFsLW1vcnRnYWdlLWZyYXVkLXRyaWFsLWxlYWRzLXRvLXF1ZXN0aW9ucy1hYm91dC1uaWNrLW1vc2J5cy1mdXR1cmU?oc=5\" target=\"_blank\">Marilyn Mosby's federal mortgage fraud trial leads to questions about Nick Mosby's future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Baltimore</font>"
             ],
             "source": [
               {
@@ -1347,36 +1377,6 @@
                 "_": "The Baltimore Banner",
                 "$": {
                   "url": "https://www.thebaltimorebanner.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Marilyn Mosby's federal mortgage fraud trial leads to questions about Nick Mosby's future - Fox Baltimore"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnlzLWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtbGVhZHMtdG8tcXVlc3Rpb25zLWFib3V0LW5pY2stbW9zYnlzLWZ1dHVyZdIBf2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5cy1mZWRlcmFsLW1vcnRnYWdlLWZyYXVkLXRyaWFsLWxlYWRzLXRvLXF1ZXN0aW9ucy1hYm91dC1uaWNrLW1vc2J5cy1mdXR1cmU?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMie2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnlzLWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtbGVhZHMtdG8tcXVlc3Rpb25zLWFib3V0LW5pY2stbW9zYnlzLWZ1dHVyZdIBf2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5cy1mZWRlcmFsLW1vcnRnYWdlLWZyYXVkLXRyaWFsLWxlYWRzLXRvLXF1ZXN0aW9ucy1hYm91dC1uaWNrLW1vc2J5cy1mdXR1cmU",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 30 Jan 2024 22:40:37 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9uZXdzL2xvY2FsL21hcmlseW4tbW9zYnlzLWZlZGVyYWwtbW9ydGdhZ2UtZnJhdWQtdHJpYWwtbGVhZHMtdG8tcXVlc3Rpb25zLWFib3V0LW5pY2stbW9zYnlzLWZ1dHVyZdIBf2h0dHBzOi8vZm94YmFsdGltb3JlLmNvbS9hbXAvbmV3cy9sb2NhbC9tYXJpbHluLW1vc2J5cy1mZWRlcmFsLW1vcnRnYWdlLWZyYXVkLXRyaWFsLWxlYWRzLXRvLXF1ZXN0aW9ucy1hYm91dC1uaWNrLW1vc2J5cy1mdXR1cmU?oc=5\" target=\"_blank\">Marilyn Mosby's federal mortgage fraud trial leads to questions about Nick Mosby's future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Baltimore</font>"
-            ],
-            "source": [
-              {
-                "_": "Fox Baltimore",
-                "$": {
-                  "url": "https://foxbaltimore.com"
                 }
               }
             ]
@@ -1533,36 +1533,6 @@
           },
           {
             "title": [
-              "January 30th, 2024 – Nick Mosby's Testimony and His Political Future, Wes Moore's ENOUGH Act, and US Response ... - WBAL Radio"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy53YmFsLmNvbS9lcGlzb2RlL2phbnVhcnktMzB0aC0yMDI0LW5pY2stbW9zYnlzLXRlc3RpbW9ueS1hbmQtaGlzLXBvbGl0aWNhbC1mdXR1cmUtd2VzLW1vb3Jlcy1lbm91Z2gtYWN0LWFuZC11cy1yZXNwb25zZS10by1hdHRhY2tzLW9uLXVzLXRyb29wcy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMinAFodHRwczovL3d3dy53YmFsLmNvbS9lcGlzb2RlL2phbnVhcnktMzB0aC0yMDI0LW5pY2stbW9zYnlzLXRlc3RpbW9ueS1hbmQtaGlzLXBvbGl0aWNhbC1mdXR1cmUtd2VzLW1vb3Jlcy1lbm91Z2gtYWN0LWFuZC11cy1yZXNwb25zZS10by1hdHRhY2tzLW9uLXVzLXRyb29wcy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 30 Jan 2024 23:10:30 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy53YmFsLmNvbS9lcGlzb2RlL2phbnVhcnktMzB0aC0yMDI0LW5pY2stbW9zYnlzLXRlc3RpbW9ueS1hbmQtaGlzLXBvbGl0aWNhbC1mdXR1cmUtd2VzLW1vb3Jlcy1lbm91Z2gtYWN0LWFuZC11cy1yZXNwb25zZS10by1hdHRhY2tzLW9uLXVzLXRyb29wcy_SAQA?oc=5\" target=\"_blank\">January 30th, 2024 – Nick Mosby's Testimony and His Political Future, Wes Moore's ENOUGH Act, and US Response ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBAL Radio</font>"
-            ],
-            "source": [
-              {
-                "_": "WBAL Radio",
-                "$": {
-                  "url": "https://www.wbal.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Former Baltimore State's Attorney Marilyn Mosby testifies at federal mortgage fraud trial - Baltimore Sun"
             ],
             "link": [
@@ -1683,36 +1653,6 @@
           },
           {
             "title": [
-              "Former Baltimore State's Attorney Marilyn Mosby testifies in federal mortgage fraud trial - Yahoo Finance"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjIzODAwMjc3Lmh0bWzSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjIzODAwMjc3Lmh0bWzSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 22:38:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjIzODAwMjc3Lmh0bWzSAQA?oc=5\" target=\"_blank\">Former Baltimore State's Attorney Marilyn Mosby testifies in federal mortgage fraud trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
-            ],
-            "source": [
-              {
-                "_": "Yahoo Finance",
-                "$": {
-                  "url": "https://finance.yahoo.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Shannon Sneed grills Nick Mosby for approving Safe Streets funds with little scrutiny despite FBI probe - Fox Baltimore"
             ],
             "link": [
@@ -1737,6 +1677,66 @@
                 "_": "Fox Baltimore",
                 "$": {
                   "url": "https://foxbaltimore.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "January 30th, 2024 – Nick Mosby's Testimony and His Political Future, Wes Moore's ENOUGH Act, and US Response ... - WBAL Radio"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy53YmFsLmNvbS9lcGlzb2RlL2phbnVhcnktMzB0aC0yMDI0LW5pY2stbW9zYnlzLXRlc3RpbW9ueS1hbmQtaGlzLXBvbGl0aWNhbC1mdXR1cmUtd2VzLW1vb3Jlcy1lbm91Z2gtYWN0LWFuZC11cy1yZXNwb25zZS10by1hdHRhY2tzLW9uLXVzLXRyb29wcy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMinAFodHRwczovL3d3dy53YmFsLmNvbS9lcGlzb2RlL2phbnVhcnktMzB0aC0yMDI0LW5pY2stbW9zYnlzLXRlc3RpbW9ueS1hbmQtaGlzLXBvbGl0aWNhbC1mdXR1cmUtd2VzLW1vb3Jlcy1lbm91Z2gtYWN0LWFuZC11cy1yZXNwb25zZS10by1hdHRhY2tzLW9uLXVzLXRyb29wcy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 10:30:49 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy53YmFsLmNvbS9lcGlzb2RlL2phbnVhcnktMzB0aC0yMDI0LW5pY2stbW9zYnlzLXRlc3RpbW9ueS1hbmQtaGlzLXBvbGl0aWNhbC1mdXR1cmUtd2VzLW1vb3Jlcy1lbm91Z2gtYWN0LWFuZC11cy1yZXNwb25zZS10by1hdHRhY2tzLW9uLXVzLXRyb29wcy_SAQA?oc=5\" target=\"_blank\">January 30th, 2024 – Nick Mosby's Testimony and His Political Future, Wes Moore's ENOUGH Act, and US Response ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBAL Radio</font>"
+            ],
+            "source": [
+              {
+                "_": "WBAL Radio",
+                "$": {
+                  "url": "https://www.wbal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Former Baltimore State's Attorney Marilyn Mosby testifies in federal mortgage fraud trial - Yahoo Finance"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjIzODAwMjc3Lmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjIzODAwMjc3Lmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 22:38:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItYmFsdGltb3JlLXN0YXRlLWF0dG9ybmV5LW1hcmlseW4tMjIzODAwMjc3Lmh0bWzSAQA?oc=5\" target=\"_blank\">Former Baltimore State's Attorney Marilyn Mosby testifies in federal mortgage fraud trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+            ],
+            "source": [
+              {
+                "_": "Yahoo Finance",
+                "$": {
+                  "url": "https://finance.yahoo.com"
                 }
               }
             ]
@@ -2373,36 +2373,6 @@
           },
           {
             "title": [
-              "Ex-Baltimore State's Attorney Marilyn Mosby testifies in mortgage fraud trial - The Baltimore Banner"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy50aGViYWx0aW1vcmViYW5uZXIuY29tL2NvbW11bml0eS9jcmltaW5hbC1qdXN0aWNlL21hcmlseW4tbW9zYnktdGVzdGlmaWVzLW1vcnRnYWdlLWZyYXVkLXRyaWFsLTRPWFlHUUZUQVJIUFBBTVJXSjRVSkVETFlFL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMihgFodHRwczovL3d3dy50aGViYWx0aW1vcmViYW5uZXIuY29tL2NvbW11bml0eS9jcmltaW5hbC1qdXN0aWNlL21hcmlseW4tbW9zYnktdGVzdGlmaWVzLW1vcnRnYWdlLWZyYXVkLXRyaWFsLTRPWFlHUUZUQVJIUFBBTVJXSjRVSkVETFlFL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 15:11:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy50aGViYWx0aW1vcmViYW5uZXIuY29tL2NvbW11bml0eS9jcmltaW5hbC1qdXN0aWNlL21hcmlseW4tbW9zYnktdGVzdGlmaWVzLW1vcnRnYWdlLWZyYXVkLXRyaWFsLTRPWFlHUUZUQVJIUFBBTVJXSjRVSkVETFlFL9IBAA?oc=5\" target=\"_blank\">Ex-Baltimore State's Attorney Marilyn Mosby testifies in mortgage fraud trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Baltimore Banner</font>"
-            ],
-            "source": [
-              {
-                "_": "The Baltimore Banner",
-                "$": {
-                  "url": "https://www.thebaltimorebanner.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Marilyn Mosby keeping Florida home at center of federal trials, divorce agreement shows - Fox Baltimore"
             ],
             "link": [
@@ -2457,6 +2427,36 @@
                 "_": "wmar2news.com",
                 "$": {
                   "url": "https://www.wmar2news.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ex-Baltimore State's Attorney Marilyn Mosby testifies in mortgage fraud trial - The Baltimore Banner"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy50aGViYWx0aW1vcmViYW5uZXIuY29tL2NvbW11bml0eS9jcmltaW5hbC1qdXN0aWNlL21hcmlseW4tbW9zYnktdGVzdGlmaWVzLW1vcnRnYWdlLWZyYXVkLXRyaWFsLTRPWFlHUUZUQVJIUFBBTVJXSjRVSkVETFlFL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy50aGViYWx0aW1vcmViYW5uZXIuY29tL2NvbW11bml0eS9jcmltaW5hbC1qdXN0aWNlL21hcmlseW4tbW9zYnktdGVzdGlmaWVzLW1vcnRnYWdlLWZyYXVkLXRyaWFsLTRPWFlHUUZUQVJIUFBBTVJXSjRVSkVETFlFL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 15:11:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy50aGViYWx0aW1vcmViYW5uZXIuY29tL2NvbW11bml0eS9jcmltaW5hbC1qdXN0aWNlL21hcmlseW4tbW9zYnktdGVzdGlmaWVzLW1vcnRnYWdlLWZyYXVkLXRyaWFsLTRPWFlHUUZUQVJIUFBBTVJXSjRVSkVETFlFL9IBAA?oc=5\" target=\"_blank\">Ex-Baltimore State's Attorney Marilyn Mosby testifies in mortgage fraud trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Baltimore Banner</font>"
+            ],
+            "source": [
+              {
+                "_": "The Baltimore Banner",
+                "$": {
+                  "url": "https://www.thebaltimorebanner.com"
                 }
               }
             ]
@@ -2583,36 +2583,6 @@
           },
           {
             "title": [
-              "Marilyn Mosby, Baltimore's former prosecutor, testifies in own defense: 'I want the jury to hear my truth' - Bozeman Daily Chronicle"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5ib3plbWFuZGFpbHljaHJvbmljbGUuY29tL2FwX25ld3MvbWFyaWx5bi1tb3NieS1iYWx0aW1vcmUtcy1mb3JtZXItcHJvc2VjdXRvci10ZXN0aWZpZXMtaW4tb3duLWRlZmVuc2UtaS13YW50LXRoZS1qdXJ5LXRvL2FydGljbGVfMmQ5MmUyZjgtNGE4ZS01MTFlLWFhY2MtMWIyY2UyOTJkYjMwLmh0bWzSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMitwFodHRwczovL3d3dy5ib3plbWFuZGFpbHljaHJvbmljbGUuY29tL2FwX25ld3MvbWFyaWx5bi1tb3NieS1iYWx0aW1vcmUtcy1mb3JtZXItcHJvc2VjdXRvci10ZXN0aWZpZXMtaW4tb3duLWRlZmVuc2UtaS13YW50LXRoZS1qdXJ5LXRvL2FydGljbGVfMmQ5MmUyZjgtNGE4ZS01MTFlLWFhY2MtMWIyY2UyOTJkYjMwLmh0bWzSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Feb 2024 01:37:03 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5ib3plbWFuZGFpbHljaHJvbmljbGUuY29tL2FwX25ld3MvbWFyaWx5bi1tb3NieS1iYWx0aW1vcmUtcy1mb3JtZXItcHJvc2VjdXRvci10ZXN0aWZpZXMtaW4tb3duLWRlZmVuc2UtaS13YW50LXRoZS1qdXJ5LXRvL2FydGljbGVfMmQ5MmUyZjgtNGE4ZS01MTFlLWFhY2MtMWIyY2UyOTJkYjMwLmh0bWzSAQA?oc=5\" target=\"_blank\">Marilyn Mosby, Baltimore's former prosecutor, testifies in own defense: 'I want the jury to hear my truth'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bozeman Daily Chronicle</font>"
-            ],
-            "source": [
-              {
-                "_": "Bozeman Daily Chronicle",
-                "$": {
-                  "url": "https://www.bozemandailychronicle.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Marilyn Mosby, the Former Baltimore Prosector, Found Guilty of Perjury - The New York Times"
             ],
             "link": [
@@ -2637,6 +2607,36 @@
                 "_": "The New York Times",
                 "$": {
                   "url": "https://www.nytimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Marilyn Mosby, Baltimore's former prosecutor, testifies in own defense: 'I want the jury to hear my truth' - Bozeman Daily Chronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5ib3plbWFuZGFpbHljaHJvbmljbGUuY29tL2FwX25ld3MvbWFyaWx5bi1tb3NieS1iYWx0aW1vcmUtcy1mb3JtZXItcHJvc2VjdXRvci10ZXN0aWZpZXMtaW4tb3duLWRlZmVuc2UtaS13YW50LXRoZS1qdXJ5LXRvL2FydGljbGVfMmQ5MmUyZjgtNGE4ZS01MTFlLWFhY2MtMWIyY2UyOTJkYjMwLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMitwFodHRwczovL3d3dy5ib3plbWFuZGFpbHljaHJvbmljbGUuY29tL2FwX25ld3MvbWFyaWx5bi1tb3NieS1iYWx0aW1vcmUtcy1mb3JtZXItcHJvc2VjdXRvci10ZXN0aWZpZXMtaW4tb3duLWRlZmVuc2UtaS13YW50LXRoZS1qdXJ5LXRvL2FydGljbGVfMmQ5MmUyZjgtNGE4ZS01MTFlLWFhY2MtMWIyY2UyOTJkYjMwLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 01:37:03 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5ib3plbWFuZGFpbHljaHJvbmljbGUuY29tL2FwX25ld3MvbWFyaWx5bi1tb3NieS1iYWx0aW1vcmUtcy1mb3JtZXItcHJvc2VjdXRvci10ZXN0aWZpZXMtaW4tb3duLWRlZmVuc2UtaS13YW50LXRoZS1qdXJ5LXRvL2FydGljbGVfMmQ5MmUyZjgtNGE4ZS01MTFlLWFhY2MtMWIyY2UyOTJkYjMwLmh0bWzSAQA?oc=5\" target=\"_blank\">Marilyn Mosby, Baltimore's former prosecutor, testifies in own defense: 'I want the jury to hear my truth'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bozeman Daily Chronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "Bozeman Daily Chronicle",
+                "$": {
+                  "url": "https://www.bozemandailychronicle.com"
                 }
               }
             ]

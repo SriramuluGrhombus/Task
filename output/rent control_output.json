@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -237,36 +237,6 @@
                 "_": "LA Progressive",
                 "$": {
                   "url": "https://www.laprogressive.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Rent Regulation, Tenant Employment, And Their Economic Consequences - Forbes"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvcXVvcmEvMjAyNC8wMS8xOS9yZW50LXJlZ3VsYXRpb24tdGVuYW50LWVtcGxveW1lbnQtYW5kLXRoZWlyLWVjb25vbWljLWNvbnNlcXVlbmNlcy_SAXRodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3F1b3JhLzIwMjQvMDEvMTkvcmVudC1yZWd1bGF0aW9uLXRlbmFudC1lbXBsb3ltZW50LWFuZC10aGVpci1lY29ub21pYy1jb25zZXF1ZW5jZXMvYW1wLw?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMicGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvcXVvcmEvMjAyNC8wMS8xOS9yZW50LXJlZ3VsYXRpb24tdGVuYW50LWVtcGxveW1lbnQtYW5kLXRoZWlyLWVjb25vbWljLWNvbnNlcXVlbmNlcy_SAXRodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3F1b3JhLzIwMjQvMDEvMTkvcmVudC1yZWd1bGF0aW9uLXRlbmFudC1lbXBsb3ltZW50LWFuZC10aGVpci1lY29ub21pYy1jb25zZXF1ZW5jZXMvYW1wLw",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 19 Jan 2024 16:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvcXVvcmEvMjAyNC8wMS8xOS9yZW50LXJlZ3VsYXRpb24tdGVuYW50LWVtcGxveW1lbnQtYW5kLXRoZWlyLWVjb25vbWljLWNvbnNlcXVlbmNlcy_SAXRodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3F1b3JhLzIwMjQvMDEvMTkvcmVudC1yZWd1bGF0aW9uLXRlbmFudC1lbXBsb3ltZW50LWFuZC10aGVpci1lY29ub21pYy1jb25zZXF1ZW5jZXMvYW1wLw?oc=5\" target=\"_blank\">Rent Regulation, Tenant Employment, And Their Economic Consequences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
-            ],
-            "source": [
-              {
-                "_": "Forbes",
-                "$": {
-                  "url": "https://www.forbes.com"
                 }
               }
             ]
@@ -843,36 +813,6 @@
           },
           {
             "title": [
-              "B.C. court quashes City of Vancouver appeal for 'rent control' in SROs - Vancouver Is Awesome"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vbG9jYWwtbmV3cy9iYy1jb3VydC1xdWFzaGVzLWNpdHktb2YtdmFuY291dmVyLWFwcGVhbC1mb3ItcmVudC1jb250cm9sLWluLXNyb3MtODIxMzkyNNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMieGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vbG9jYWwtbmV3cy9iYy1jb3VydC1xdWFzaGVzLWNpdHktb2YtdmFuY291dmVyLWFwcGVhbC1mb3ItcmVudC1jb250cm9sLWluLXNyb3MtODIxMzkyNNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 09:30:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vbG9jYWwtbmV3cy9iYy1jb3VydC1xdWFzaGVzLWNpdHktb2YtdmFuY291dmVyLWFwcGVhbC1mb3ItcmVudC1jb250cm9sLWluLXNyb3MtODIxMzkyNNIBAA?oc=5\" target=\"_blank\">B.C. court quashes City of Vancouver appeal for 'rent control' in SROs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vancouver Is Awesome</font>"
-            ],
-            "source": [
-              {
-                "_": "Vancouver Is Awesome",
-                "$": {
-                  "url": "https://www.vancouverisawesome.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Lawmakers and tenants call on governor to make rent control a priority for 30-day session - Source New Mexico"
             ],
             "link": [
@@ -927,6 +867,36 @@
                 "_": "The New Indian Express",
                 "$": {
                   "url": "https://www.newindianexpress.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "B.C. court quashes City of Vancouver appeal for 'rent control' in SROs - Vancouver Is Awesome"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vbG9jYWwtbmV3cy9iYy1jb3VydC1xdWFzaGVzLWNpdHktb2YtdmFuY291dmVyLWFwcGVhbC1mb3ItcmVudC1jb250cm9sLWluLXNyb3MtODIxMzkyNNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMieGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vbG9jYWwtbmV3cy9iYy1jb3VydC1xdWFzaGVzLWNpdHktb2YtdmFuY291dmVyLWFwcGVhbC1mb3ItcmVudC1jb250cm9sLWluLXNyb3MtODIxMzkyNNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 09:30:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vbG9jYWwtbmV3cy9iYy1jb3VydC1xdWFzaGVzLWNpdHktb2YtdmFuY291dmVyLWFwcGVhbC1mb3ItcmVudC1jb250cm9sLWluLXNyb3MtODIxMzkyNNIBAA?oc=5\" target=\"_blank\">B.C. court quashes City of Vancouver appeal for 'rent control' in SROs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vancouver Is Awesome</font>"
+            ],
+            "source": [
+              {
+                "_": "Vancouver Is Awesome",
+                "$": {
+                  "url": "https://www.vancouverisawesome.com"
                 }
               }
             ]
@@ -1083,36 +1053,6 @@
           },
           {
             "title": [
-              "UBC student flies in from Calgary to save money - CTV News Vancouver"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYmMuY3R2bmV3cy5jYS91YmMtc3R1ZGVudC1jb21tdXRlcy1mcm9tLWNhbGdhcnktY2hlYXBlci10aGFuLXBheWluZy12YW5jb3V2ZXItcmVudC0xLjY3NTkxMTbSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiZGh0dHBzOi8vYmMuY3R2bmV3cy5jYS91YmMtc3R1ZGVudC1jb21tdXRlcy1mcm9tLWNhbGdhcnktY2hlYXBlci10aGFuLXBheWluZy12YW5jb3V2ZXItcmVudC0xLjY3NTkxMTbSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 07 Feb 2024 03:44:32 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYmMuY3R2bmV3cy5jYS91YmMtc3R1ZGVudC1jb21tdXRlcy1mcm9tLWNhbGdhcnktY2hlYXBlci10aGFuLXBheWluZy12YW5jb3V2ZXItcmVudC0xLjY3NTkxMTbSAQA?oc=5\" target=\"_blank\">UBC student flies in from Calgary to save money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News Vancouver</font>"
-            ],
-            "source": [
-              {
-                "_": "CTV News Vancouver",
-                "$": {
-                  "url": "https://bc.ctvnews.ca"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Merry Rent Control – Minnesota Women's Press - Minnesota Women's Press"
             ],
             "link": [
@@ -1167,6 +1107,36 @@
                 "_": "Press Herald",
                 "$": {
                   "url": "https://www.pressherald.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "UBC student flies in from Calgary to save money - CTV News Vancouver"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYmMuY3R2bmV3cy5jYS91YmMtc3R1ZGVudC1jb21tdXRlcy1mcm9tLWNhbGdhcnktY2hlYXBlci10aGFuLXBheWluZy12YW5jb3V2ZXItcmVudC0xLjY3NTkxMTbSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZGh0dHBzOi8vYmMuY3R2bmV3cy5jYS91YmMtc3R1ZGVudC1jb21tdXRlcy1mcm9tLWNhbGdhcnktY2hlYXBlci10aGFuLXBheWluZy12YW5jb3V2ZXItcmVudC0xLjY3NTkxMTbSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 03:44:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYmMuY3R2bmV3cy5jYS91YmMtc3R1ZGVudC1jb21tdXRlcy1mcm9tLWNhbGdhcnktY2hlYXBlci10aGFuLXBheWluZy12YW5jb3V2ZXItcmVudC0xLjY3NTkxMTbSAQA?oc=5\" target=\"_blank\">UBC student flies in from Calgary to save money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News Vancouver</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News Vancouver",
+                "$": {
+                  "url": "https://bc.ctvnews.ca"
                 }
               }
             ]
@@ -1263,7 +1233,7 @@
           },
           {
             "title": [
-              "Rent control on its own won't solve the housing crisis - The Conversation Indonesia"
+              "Rent control on its own won't solve the housing crisis - The Conversation"
             ],
             "link": [
               "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9yZW50LWNvbnRyb2wtb24taXRzLW93bi13b250LXNvbHZlLXRoZS1ob3VzaW5nLWNyaXNpcy0yMDczNTPSAQA?oc=5"
@@ -1280,11 +1250,11 @@
               "Mon, 24 Jul 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9yZW50LWNvbnRyb2wtb24taXRzLW93bi13b250LXNvbHZlLXRoZS1ob3VzaW5nLWNyaXNpcy0yMDczNTPSAQA?oc=5\" target=\"_blank\">Rent control on its own won't solve the housing crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation Indonesia</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9yZW50LWNvbnRyb2wtb24taXRzLW93bi13b250LXNvbHZlLXRoZS1ob3VzaW5nLWNyaXNpcy0yMDczNTPSAQA?oc=5\" target=\"_blank\">Rent control on its own won't solve the housing crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>"
             ],
             "source": [
               {
-                "_": "The Conversation Indonesia",
+                "_": "The Conversation",
                 "$": {
                   "url": "https://theconversation.com"
                 }
@@ -1383,6 +1353,36 @@
           },
           {
             "title": [
+              "Kingston rent-control showdown in the appellate court - Hudson Valley One"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vaHVkc29udmFsbGV5b25lLmNvbS8yMDI0LzAxLzI1L3JlbnQtY29udHJvbC1zaG93ZG93bi_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPWh0dHBzOi8vaHVkc29udmFsbGV5b25lLmNvbS8yMDI0LzAxLzI1L3JlbnQtY29udHJvbC1zaG93ZG93bi_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 25 Jan 2024 16:45:59 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vaHVkc29udmFsbGV5b25lLmNvbS8yMDI0LzAxLzI1L3JlbnQtY29udHJvbC1zaG93ZG93bi_SAQA?oc=5\" target=\"_blank\">Kingston rent-control showdown in the appellate court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hudson Valley One</font>"
+            ],
+            "source": [
+              {
+                "_": "Hudson Valley One",
+                "$": {
+                  "url": "https://hudsonvalleyone.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Housing crisis: Rent control gets the green light in Grenoble - Euronews"
             ],
             "link": [
@@ -1413,36 +1413,6 @@
           },
           {
             "title": [
-              "Providence rent control ordinance sheds light on how it works - The Providence Journal"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5wcm92aWRlbmNlam91cm5hbC5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDI0LzAxLzI2L3Byb3ZpZGVuY2UtcmVudC1jb250cm9sLW9yZGluYW5jZS1zaGVkcy1saWdodC1vbi1ob3ctaXQtd29ya3MvNzIzNDE3OTIwMDcv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiiAFodHRwczovL3d3dy5wcm92aWRlbmNlam91cm5hbC5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDI0LzAxLzI2L3Byb3ZpZGVuY2UtcmVudC1jb250cm9sLW9yZGluYW5jZS1zaGVkcy1saWdodC1vbi1ob3ctaXQtd29ya3MvNzIzNDE3OTIwMDcv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 26 Jan 2024 17:53:26 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5wcm92aWRlbmNlam91cm5hbC5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDI0LzAxLzI2L3Byb3ZpZGVuY2UtcmVudC1jb250cm9sLW9yZGluYW5jZS1zaGVkcy1saWdodC1vbi1ob3ctaXQtd29ya3MvNzIzNDE3OTIwMDcv0gEA?oc=5\" target=\"_blank\">Providence rent control ordinance sheds light on how it works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Providence Journal</font>"
-            ],
-            "source": [
-              {
-                "_": "The Providence Journal",
-                "$": {
-                  "url": "https://www.providencejournal.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Using Algorithms To Set Rents Isn’t Price Fixing; Rent Control Is - Forbes"
             ],
             "link": [
@@ -1467,6 +1437,36 @@
                 "_": "Forbes",
                 "$": {
                   "url": "https://www.forbes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Providence rent control ordinance sheds light on how it works - The Providence Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5wcm92aWRlbmNlam91cm5hbC5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDI0LzAxLzI2L3Byb3ZpZGVuY2UtcmVudC1jb250cm9sLW9yZGluYW5jZS1zaGVkcy1saWdodC1vbi1ob3ctaXQtd29ya3MvNzIzNDE3OTIwMDcv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiiAFodHRwczovL3d3dy5wcm92aWRlbmNlam91cm5hbC5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDI0LzAxLzI2L3Byb3ZpZGVuY2UtcmVudC1jb250cm9sLW9yZGluYW5jZS1zaGVkcy1saWdodC1vbi1ob3ctaXQtd29ya3MvNzIzNDE3OTIwMDcv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 26 Jan 2024 17:53:26 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5wcm92aWRlbmNlam91cm5hbC5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDI0LzAxLzI2L3Byb3ZpZGVuY2UtcmVudC1jb250cm9sLW9yZGluYW5jZS1zaGVkcy1saWdodC1vbi1ob3ctaXQtd29ya3MvNzIzNDE3OTIwMDcv0gEA?oc=5\" target=\"_blank\">Providence rent control ordinance sheds light on how it works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Providence Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "The Providence Journal",
+                "$": {
+                  "url": "https://www.providencejournal.com"
                 }
               }
             ]
@@ -1533,6 +1533,36 @@
           },
           {
             "title": [
+              "Rent Control Activists Protest Anti-tenant Corporate Landlord Fundraiser - Bluefield Daily Telegraph"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL25ld3MvbmF0aW9uX3dvcmxkL3JlbnQtY29udHJvbC1hY3RpdmlzdHMtcHJvdGVzdC1hbnRpLXRlbmFudC1jb3Jwb3JhdGUtbGFuZGxvcmQtZnVuZHJhaXNlci9pbWFnZV81NDBkOWZjMy04YTUwLTVlMjUtYmU0NS02MDE0MTQyMTc1YTYuaHRtbNIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMipAFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL25ld3MvbmF0aW9uX3dvcmxkL3JlbnQtY29udHJvbC1hY3RpdmlzdHMtcHJvdGVzdC1hbnRpLXRlbmFudC1jb3Jwb3JhdGUtbGFuZGxvcmQtZnVuZHJhaXNlci9pbWFnZV81NDBkOWZjMy04YTUwLTVlMjUtYmU0NS02MDE0MTQyMTc1YTYuaHRtbNIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 23:58:52 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL25ld3MvbmF0aW9uX3dvcmxkL3JlbnQtY29udHJvbC1hY3RpdmlzdHMtcHJvdGVzdC1hbnRpLXRlbmFudC1jb3Jwb3JhdGUtbGFuZGxvcmQtZnVuZHJhaXNlci9pbWFnZV81NDBkOWZjMy04YTUwLTVlMjUtYmU0NS02MDE0MTQyMTc1YTYuaHRtbNIBAA?oc=5\" target=\"_blank\">Rent Control Activists Protest Anti-tenant Corporate Landlord Fundraiser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bluefield Daily Telegraph</font>"
+            ],
+            "source": [
+              {
+                "_": "Bluefield Daily Telegraph",
+                "$": {
+                  "url": "https://www.bdtonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "'Catastrophic situation': Argentina Milei's 'mega-decree' reverses rent-control law - FRANCE 24 English"
             ],
             "link": [
@@ -1557,6 +1587,36 @@
                 "_": "FRANCE 24 English",
                 "$": {
                   "url": "https://www.france24.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rental housing market grew last year due to new build homes - DutchNews.nl"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmR1dGNobmV3cy5ubC8yMDI0LzAyL3JlbnRhbC1ob3VzaW5nLW1hcmtldC1ncmV3LWxhc3QteWVhci1kdWUtdG8tbmV3LWJ1aWxkLWhvbWVzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3LmR1dGNobmV3cy5ubC8yMDI0LzAyL3JlbnRhbC1ob3VzaW5nLW1hcmtldC1ncmV3LWxhc3QteWVhci1kdWUtdG8tbmV3LWJ1aWxkLWhvbWVzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 02 Feb 2024 09:20:23 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmR1dGNobmV3cy5ubC8yMDI0LzAyL3JlbnRhbC1ob3VzaW5nLW1hcmtldC1ncmV3LWxhc3QteWVhci1kdWUtdG8tbmV3LWJ1aWxkLWhvbWVzL9IBAA?oc=5\" target=\"_blank\">Rental housing market grew last year due to new build homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DutchNews.nl</font>"
+            ],
+            "source": [
+              {
+                "_": "DutchNews.nl",
+                "$": {
+                  "url": "https://www.dutchnews.nl"
                 }
               }
             ]
@@ -1683,36 +1743,6 @@
           },
           {
             "title": [
-              "WA Senate bill dies, signaling tough path ahead for limiting rent hikes - The Seattle Times"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL3BvbGl0aWNzL3dhLXNlbmF0ZS1iaWxsLWRpZXMtc2lnbmFsaW5nLXRvdWdoLXBhdGgtYWhlYWQtZm9yLWxpbWl0aW5nLXJlbnQtaGlrZXMv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiemh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL3BvbGl0aWNzL3dhLXNlbmF0ZS1iaWxsLWRpZXMtc2lnbmFsaW5nLXRvdWdoLXBhdGgtYWhlYWQtZm9yLWxpbWl0aW5nLXJlbnQtaGlrZXMv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Feb 2024 18:03:22 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL3BvbGl0aWNzL3dhLXNlbmF0ZS1iaWxsLWRpZXMtc2lnbmFsaW5nLXRvdWdoLXBhdGgtYWhlYWQtZm9yLWxpbWl0aW5nLXJlbnQtaGlrZXMv0gEA?oc=5\" target=\"_blank\">WA Senate bill dies, signaling tough path ahead for limiting rent hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>"
-            ],
-            "source": [
-              {
-                "_": "The Seattle Times",
-                "$": {
-                  "url": "https://www.seattletimes.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Legislative Democrats looking to end ban on rent control | - Capitol Beat"
             ],
             "link": [
@@ -1767,6 +1797,36 @@
                 "_": "WTXL ABC 27 Tallahassee News",
                 "$": {
                   "url": "https://www.wtxl.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WA Senate bill dies, signaling tough path ahead for limiting rent hikes - The Seattle Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL3BvbGl0aWNzL3dhLXNlbmF0ZS1iaWxsLWRpZXMtc2lnbmFsaW5nLXRvdWdoLXBhdGgtYWhlYWQtZm9yLWxpbWl0aW5nLXJlbnQtaGlrZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiemh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL3BvbGl0aWNzL3dhLXNlbmF0ZS1iaWxsLWRpZXMtc2lnbmFsaW5nLXRvdWdoLXBhdGgtYWhlYWQtZm9yLWxpbWl0aW5nLXJlbnQtaGlrZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 18:03:22 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL3BvbGl0aWNzL3dhLXNlbmF0ZS1iaWxsLWRpZXMtc2lnbmFsaW5nLXRvdWdoLXBhdGgtYWhlYWQtZm9yLWxpbWl0aW5nLXJlbnQtaGlrZXMv0gEA?oc=5\" target=\"_blank\">WA Senate bill dies, signaling tough path ahead for limiting rent hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>"
+            ],
+            "source": [
+              {
+                "_": "The Seattle Times",
+                "$": {
+                  "url": "https://www.seattletimes.com"
                 }
               }
             ]
@@ -1863,7 +1923,7 @@
           },
           {
             "title": [
-              "Not all rent control policies are the same – the Green Party proposal deserves an open-minded debate - The Conversation Indonesia"
+              "Not all rent control policies are the same – the Green Party proposal deserves an open-minded debate - The Conversation"
             ],
             "link": [
               "https://news.google.com/rss/articles/CBMihQFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vbm90LWFsbC1yZW50LWNvbnRyb2wtcG9saWNpZXMtYXJlLXRoZS1zYW1lLXRoZS1ncmVlbi1wYXJ0eS1wcm9wb3NhbC1kZXNlcnZlcy1hbi1vcGVuLW1pbmRlZC1kZWJhdGUtMjA5MDM50gEA?oc=5"
@@ -1880,11 +1940,11 @@
               "Tue, 04 Jul 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vbm90LWFsbC1yZW50LWNvbnRyb2wtcG9saWNpZXMtYXJlLXRoZS1zYW1lLXRoZS1ncmVlbi1wYXJ0eS1wcm9wb3NhbC1kZXNlcnZlcy1hbi1vcGVuLW1pbmRlZC1kZWJhdGUtMjA5MDM50gEA?oc=5\" target=\"_blank\">Not all rent control policies are the same – the Green Party proposal deserves an open-minded debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation Indonesia</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vbm90LWFsbC1yZW50LWNvbnRyb2wtcG9saWNpZXMtYXJlLXRoZS1zYW1lLXRoZS1ncmVlbi1wYXJ0eS1wcm9wb3NhbC1kZXNlcnZlcy1hbi1vcGVuLW1pbmRlZC1kZWJhdGUtMjA5MDM50gEA?oc=5\" target=\"_blank\">Not all rent control policies are the same – the Green Party proposal deserves an open-minded debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>"
             ],
             "source": [
               {
-                "_": "The Conversation Indonesia",
+                "_": "The Conversation",
                 "$": {
                   "url": "https://theconversation.com"
                 }
@@ -2043,60 +2103,30 @@
           },
           {
             "title": [
-              "Rent Control Activists Protest Anti-tenant Corporate Landlord Fundraiser - Bluefield Daily Telegraph"
+              "How a lack of information is influencing DC's rent control debates - Street Sense Media"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL25ld3MvbmF0aW9uX3dvcmxkL3JlbnQtY29udHJvbC1hY3RpdmlzdHMtcHJvdGVzdC1hbnRpLXRlbmFudC1jb3Jwb3JhdGUtbGFuZGxvcmQtZnVuZHJhaXNlci9pbWFnZV8yMDExOGNhZC0wODQ4LTUxZjktODMwZC01MGJiZjgyMGI3MDguaHRtbNIBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vc3RyZWV0c2Vuc2VtZWRpYS5vcmcvYXJ0aWNsZS9pbmZvcm1hdGlvbi1kY3MtcmVudC1jb250cm9sLWRlYmF0ZXMv0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMipAFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL25ld3MvbmF0aW9uX3dvcmxkL3JlbnQtY29udHJvbC1hY3RpdmlzdHMtcHJvdGVzdC1hbnRpLXRlbmFudC1jb3Jwb3JhdGUtbGFuZGxvcmQtZnVuZHJhaXNlci9pbWFnZV8yMDExOGNhZC0wODQ4LTUxZjktODMwZC01MGJiZjgyMGI3MDguaHRtbNIBAA",
+                "_": "CBMiSmh0dHBzOi8vc3RyZWV0c2Vuc2VtZWRpYS5vcmcvYXJ0aWNsZS9pbmZvcm1hdGlvbi1kY3MtcmVudC1jb250cm9sLWRlYmF0ZXMv0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Thu, 01 Feb 2024 00:04:36 GMT"
+              "Wed, 21 Jun 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL25ld3MvbmF0aW9uX3dvcmxkL3JlbnQtY29udHJvbC1hY3RpdmlzdHMtcHJvdGVzdC1hbnRpLXRlbmFudC1jb3Jwb3JhdGUtbGFuZGxvcmQtZnVuZHJhaXNlci9pbWFnZV8yMDExOGNhZC0wODQ4LTUxZjktODMwZC01MGJiZjgyMGI3MDguaHRtbNIBAA?oc=5\" target=\"_blank\">Rent Control Activists Protest Anti-tenant Corporate Landlord Fundraiser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bluefield Daily Telegraph</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vc3RyZWV0c2Vuc2VtZWRpYS5vcmcvYXJ0aWNsZS9pbmZvcm1hdGlvbi1kY3MtcmVudC1jb250cm9sLWRlYmF0ZXMv0gEA?oc=5\" target=\"_blank\">How a lack of information is influencing DC's rent control debates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Street Sense Media</font>"
             ],
             "source": [
               {
-                "_": "Bluefield Daily Telegraph",
+                "_": "Street Sense Media",
                 "$": {
-                  "url": "https://www.bdtonline.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Residents rally at the state Capitol for rent control - Blackchronicle"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYmxhY2tjaHJvbmljbGUuY29tL25ld3MvcmVzaWRlbnRzLXJhbGx5LWF0LXRoZS1zdGF0ZS1jYXBpdG9sLWZvci1yZW50LWNvbnRyb2wv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiVmh0dHBzOi8vYmxhY2tjaHJvbmljbGUuY29tL25ld3MvcmVzaWRlbnRzLXJhbGx5LWF0LXRoZS1zdGF0ZS1jYXBpdG9sLWZvci1yZW50LWNvbnRyb2wv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 19:24:53 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYmxhY2tjaHJvbmljbGUuY29tL25ld3MvcmVzaWRlbnRzLXJhbGx5LWF0LXRoZS1zdGF0ZS1jYXBpdG9sLWZvci1yZW50LWNvbnRyb2wv0gEA?oc=5\" target=\"_blank\">Residents rally at the state Capitol for rent control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blackchronicle</font>"
-            ],
-            "source": [
-              {
-                "_": "Blackchronicle",
-                "$": {
-                  "url": "https://blackchronicle.com"
+                  "url": "https://streetsensemedia.org"
                 }
               }
             ]
@@ -2163,6 +2193,36 @@
           },
           {
             "title": [
+              "Residents rally at the state Capitol for rent control - Blackchronicle"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYmxhY2tjaHJvbmljbGUuY29tL25ld3MvcmVzaWRlbnRzLXJhbGx5LWF0LXRoZS1zdGF0ZS1jYXBpdG9sLWZvci1yZW50LWNvbnRyb2wv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vYmxhY2tjaHJvbmljbGUuY29tL25ld3MvcmVzaWRlbnRzLXJhbGx5LWF0LXRoZS1zdGF0ZS1jYXBpdG9sLWZvci1yZW50LWNvbnRyb2wv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 19:24:53 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYmxhY2tjaHJvbmljbGUuY29tL25ld3MvcmVzaWRlbnRzLXJhbGx5LWF0LXRoZS1zdGF0ZS1jYXBpdG9sLWZvci1yZW50LWNvbnRyb2wv0gEA?oc=5\" target=\"_blank\">Residents rally at the state Capitol for rent control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blackchronicle</font>"
+            ],
+            "source": [
+              {
+                "_": "Blackchronicle",
+                "$": {
+                  "url": "https://blackchronicle.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Lawmakers advance bill allowing Iowa cities to cap rent costs - The Gazette"
             ],
             "link": [
@@ -2223,36 +2283,6 @@
           },
           {
             "title": [
-              "What rent control could mean for Massachusetts - Spectrum News 1"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vbWEvd29yY2VzdGVyL25ld3MvMjAyMy8wOS8wOC93aGF0LXJlbnQtY29udHJvbC1jb3VsZC1tZWFuLWZvci1tYXNzYWNodXNldHRz0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiZWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vbWEvd29yY2VzdGVyL25ld3MvMjAyMy8wOS8wOC93aGF0LXJlbnQtY29udHJvbC1jb3VsZC1tZWFuLWZvci1tYXNzYWNodXNldHRz0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 08 Sep 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vbWEvd29yY2VzdGVyL25ld3MvMjAyMy8wOS8wOC93aGF0LXJlbnQtY29udHJvbC1jb3VsZC1tZWFuLWZvci1tYXNzYWNodXNldHRz0gEA?oc=5\" target=\"_blank\">What rent control could mean for Massachusetts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
-            ],
-            "source": [
-              {
-                "_": "Spectrum News 1",
-                "$": {
-                  "url": "https://spectrumnews1.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "With ballot question off the table, rent control supporters make their case to lawmakers - GBH News"
             ],
             "link": [
@@ -2283,30 +2313,30 @@
           },
           {
             "title": [
-              "Rent Control, Collective Bargaining, Class Action Lawsuits -- Virginia's Business Climate in The Crosshairs - The Roanoke Star"
+              "What rent control could mean for Massachusetts - Spectrum News 1"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3RoZXJvYW5va2VzdGFyLmNvbS8yMDI0LzAxLzMxL3JlbnQtY29udHJvbC1jb2xsZWN0aXZlLWJhcmdhaW5pbmctY2xhc3MtYWN0aW9uLWxhd3N1aXRzLXZpcmdpbmlhcy1idXNpbmVzcy1jbGltYXRlLWluLXRoZS1jcm9zc2hhaXJzL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vbWEvd29yY2VzdGVyL25ld3MvMjAyMy8wOS8wOC93aGF0LXJlbnQtY29udHJvbC1jb3VsZC1tZWFuLWZvci1tYXNzYWNodXNldHRz0gEA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMijAFodHRwczovL3RoZXJvYW5va2VzdGFyLmNvbS8yMDI0LzAxLzMxL3JlbnQtY29udHJvbC1jb2xsZWN0aXZlLWJhcmdhaW5pbmctY2xhc3MtYWN0aW9uLWxhd3N1aXRzLXZpcmdpbmlhcy1idXNpbmVzcy1jbGltYXRlLWluLXRoZS1jcm9zc2hhaXJzL9IBAA",
+                "_": "CBMiZWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vbWEvd29yY2VzdGVyL25ld3MvMjAyMy8wOS8wOC93aGF0LXJlbnQtY29udHJvbC1jb3VsZC1tZWFuLWZvci1tYXNzYWNodXNldHRz0gEA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 31 Jan 2024 18:51:08 GMT"
+              "Fri, 08 Sep 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3RoZXJvYW5va2VzdGFyLmNvbS8yMDI0LzAxLzMxL3JlbnQtY29udHJvbC1jb2xsZWN0aXZlLWJhcmdhaW5pbmctY2xhc3MtYWN0aW9uLWxhd3N1aXRzLXZpcmdpbmlhcy1idXNpbmVzcy1jbGltYXRlLWluLXRoZS1jcm9zc2hhaXJzL9IBAA?oc=5\" target=\"_blank\">Rent Control, Collective Bargaining, Class Action Lawsuits -- Virginia's Business Climate in The Crosshairs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Roanoke Star</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vbWEvd29yY2VzdGVyL25ld3MvMjAyMy8wOS8wOC93aGF0LXJlbnQtY29udHJvbC1jb3VsZC1tZWFuLWZvci1tYXNzYWNodXNldHRz0gEA?oc=5\" target=\"_blank\">What rent control could mean for Massachusetts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 1</font>"
             ],
             "source": [
               {
-                "_": "The Roanoke Star",
+                "_": "Spectrum News 1",
                 "$": {
-                  "url": "https://theroanokestar.com"
+                  "url": "https://spectrumnews1.com"
                 }
               }
             ]
@@ -2403,6 +2433,36 @@
           },
           {
             "title": [
+              "Rent Control, Collective Bargaining, Class Action Lawsuits -- Virginia's Business Climate in The Crosshairs - The Roanoke Star"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3RoZXJvYW5va2VzdGFyLmNvbS8yMDI0LzAxLzMxL3JlbnQtY29udHJvbC1jb2xsZWN0aXZlLWJhcmdhaW5pbmctY2xhc3MtYWN0aW9uLWxhd3N1aXRzLXZpcmdpbmlhcy1idXNpbmVzcy1jbGltYXRlLWluLXRoZS1jcm9zc2hhaXJzL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3RoZXJvYW5va2VzdGFyLmNvbS8yMDI0LzAxLzMxL3JlbnQtY29udHJvbC1jb2xsZWN0aXZlLWJhcmdhaW5pbmctY2xhc3MtYWN0aW9uLWxhd3N1aXRzLXZpcmdpbmlhcy1idXNpbmVzcy1jbGltYXRlLWluLXRoZS1jcm9zc2hhaXJzL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 18:51:08 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3RoZXJvYW5va2VzdGFyLmNvbS8yMDI0LzAxLzMxL3JlbnQtY29udHJvbC1jb2xsZWN0aXZlLWJhcmdhaW5pbmctY2xhc3MtYWN0aW9uLWxhd3N1aXRzLXZpcmdpbmlhcy1idXNpbmVzcy1jbGltYXRlLWluLXRoZS1jcm9zc2hhaXJzL9IBAA?oc=5\" target=\"_blank\">Rent Control, Collective Bargaining, Class Action Lawsuits -- Virginia's Business Climate in The Crosshairs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Roanoke Star</font>"
+            ],
+            "source": [
+              {
+                "_": "The Roanoke Star",
+                "$": {
+                  "url": "https://theroanokestar.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Amid Boston Area Housing Crisis, Rent Control Gains Momentum, But Troubled Cambridge Legacy Poses Obstacles ... - Harvard Crimson"
             ],
             "link": [
@@ -2493,36 +2553,6 @@
           },
           {
             "title": [
-              "Black Atlanta Wants Rent Control. Will State Lawmakers Help Them Get It? - Capital B Atlanta"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vYXRsYW50YS5jYXBpdGFsYm5ld3Mub3JnL2dlbmVyYWwtYXNzZW1ibHktcmVudC1jb250cm9sL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiP2h0dHBzOi8vYXRsYW50YS5jYXBpdGFsYm5ld3Mub3JnL2dlbmVyYWwtYXNzZW1ibHktcmVudC1jb250cm9sL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 12 Jan 2024 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vYXRsYW50YS5jYXBpdGFsYm5ld3Mub3JnL2dlbmVyYWwtYXNzZW1ibHktcmVudC1jb250cm9sL9IBAA?oc=5\" target=\"_blank\">Black Atlanta Wants Rent Control. Will State Lawmakers Help Them Get It?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital B Atlanta</font>"
-            ],
-            "source": [
-              {
-                "_": "Capital B Atlanta",
-                "$": {
-                  "url": "https://atlanta.capitalbnews.org"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Top 5 housing stories of 2023: Shakopee intrigue, Minneapolis rent control - Sahan Journal"
             ],
             "link": [
@@ -2547,6 +2577,36 @@
                 "_": "Sahan Journal",
                 "$": {
                   "url": "https://sahanjournal.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Black Atlanta Wants Rent Control. Will State Lawmakers Help Them Get It? - Capital B Atlanta"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vYXRsYW50YS5jYXBpdGFsYm5ld3Mub3JnL2dlbmVyYWwtYXNzZW1ibHktcmVudC1jb250cm9sL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiP2h0dHBzOi8vYXRsYW50YS5jYXBpdGFsYm5ld3Mub3JnL2dlbmVyYWwtYXNzZW1ibHktcmVudC1jb250cm9sL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 12 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vYXRsYW50YS5jYXBpdGFsYm5ld3Mub3JnL2dlbmVyYWwtYXNzZW1ibHktcmVudC1jb250cm9sL9IBAA?oc=5\" target=\"_blank\">Black Atlanta Wants Rent Control. Will State Lawmakers Help Them Get It?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital B Atlanta</font>"
+            ],
+            "source": [
+              {
+                "_": "Capital B Atlanta",
+                "$": {
+                  "url": "https://atlanta.capitalbnews.org"
                 }
               }
             ]
@@ -2607,36 +2667,6 @@
                 "_": "The Local France",
                 "$": {
                   "url": "https://www.thelocal.fr"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Rent Control Rules To Blame For Soaring Shelter Inflation - Storeys"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vc3RvcmV5cy5jb20vY2FuYWRpYW4taW5mbGF0aW9uLXJlbnQtY29udHJvbC1ydWxlcy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiOmh0dHBzOi8vc3RvcmV5cy5jb20vY2FuYWRpYW4taW5mbGF0aW9uLXJlbnQtY29udHJvbC1ydWxlcy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 04 Jan 2024 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vc3RvcmV5cy5jb20vY2FuYWRpYW4taW5mbGF0aW9uLXJlbnQtY29udHJvbC1ydWxlcy_SAQA?oc=5\" target=\"_blank\">Rent Control Rules To Blame For Soaring Shelter Inflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Storeys</font>"
-            ],
-            "source": [
-              {
-                "_": "Storeys",
-                "$": {
-                  "url": "https://storeys.com"
                 }
               }
             ]
@@ -2847,36 +2877,6 @@
                 "_": "NOW Toronto",
                 "$": {
                   "url": "https://nowtoronto.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Rent control not a good fit in village, New Paltz trustees decide - Hudson Valley One"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vaHVkc29udmFsbGV5b25lLmNvbS8yMDIzLzEyLzEwL3JlbnQtY29udHJvbC1ub3QtYS1nb29kLWZpdC1pbi12aWxsYWdlLW5ldy1wYWx0ei10cnVzdGVlcy1kZWNpZGUv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiaGh0dHBzOi8vaHVkc29udmFsbGV5b25lLmNvbS8yMDIzLzEyLzEwL3JlbnQtY29udHJvbC1ub3QtYS1nb29kLWZpdC1pbi12aWxsYWdlLW5ldy1wYWx0ei10cnVzdGVlcy1kZWNpZGUv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sun, 10 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vaHVkc29udmFsbGV5b25lLmNvbS8yMDIzLzEyLzEwL3JlbnQtY29udHJvbC1ub3QtYS1nb29kLWZpdC1pbi12aWxsYWdlLW5ldy1wYWx0ei10cnVzdGVlcy1kZWNpZGUv0gEA?oc=5\" target=\"_blank\">Rent control not a good fit in village, New Paltz trustees decide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hudson Valley One</font>"
-            ],
-            "source": [
-              {
-                "_": "Hudson Valley One",
-                "$": {
-                  "url": "https://hudsonvalleyone.com"
                 }
               }
             ]

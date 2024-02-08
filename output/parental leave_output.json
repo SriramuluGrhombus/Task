@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:22 GMT"
         ],
         "description": [
           "Google News"
@@ -63,7 +63,7 @@
           },
           {
             "title": [
-              "3 lessons from MP Karina Gould's parental leave that could help all Canadian families - The Conversation Indonesia"
+              "3 lessons from MP Karina Gould's parental leave that could help all Canadian families - The Conversation"
             ],
             "link": [
               "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS8zLWxlc3NvbnMtZnJvbS1tcC1rYXJpbmEtZ291bGRzLXBhcmVudGFsLWxlYXZlLXRoYXQtY291bGQtaGVscC1hbGwtY2FuYWRpYW4tZmFtaWxpZXMtMjIyMDQ10gEA?oc=5"
@@ -80,11 +80,11 @@
               "Sun, 04 Feb 2024 13:33:40 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS8zLWxlc3NvbnMtZnJvbS1tcC1rYXJpbmEtZ291bGRzLXBhcmVudGFsLWxlYXZlLXRoYXQtY291bGQtaGVscC1hbGwtY2FuYWRpYW4tZmFtaWxpZXMtMjIyMDQ10gEA?oc=5\" target=\"_blank\">3 lessons from MP Karina Gould's parental leave that could help all Canadian families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation Indonesia</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS8zLWxlc3NvbnMtZnJvbS1tcC1rYXJpbmEtZ291bGRzLXBhcmVudGFsLWxlYXZlLXRoYXQtY291bGQtaGVscC1hbGwtY2FuYWRpYW4tZmFtaWxpZXMtMjIyMDQ10gEA?oc=5\" target=\"_blank\">3 lessons from MP Karina Gould's parental leave that could help all Canadian families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>"
             ],
             "source": [
               {
-                "_": "The Conversation Indonesia",
+                "_": "The Conversation",
                 "$": {
                   "url": "https://theconversation.com"
                 }
@@ -137,7 +137,7 @@
               }
             ],
             "pubDate": [
-              "Tue, 30 Jan 2024 01:11:33 GMT"
+              "Tue, 30 Jan 2024 07:16:27 GMT"
             ],
             "description": [
               "<a href=\"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJiYy5jb20vd29ya2xpZmUvYXJ0aWNsZS8yMDI0MDEzMC1zd2VkZW4td2hlcmUtaXRzLXRhYm9vLWZvci1kYWRzLXRvLXNraXAtcGFyZW50YWwtbGVhdmXSAQA?oc=5\" target=\"_blank\">Sweden: Where it's taboo for dads to skip parental leave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC.com</font>"
@@ -147,6 +147,36 @@
                 "_": "BBC.com",
                 "$": {
                   "url": "https://www.bbc.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Lawmakers urge OPM to update parental leave policy docs - Government Executive"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmdvdmV4ZWMuY29tL3BheS1iZW5lZml0cy8yMDI0LzAyL2xhd21ha2Vycy11cmdlLW9wbS11cGRhdGUtbGVhdmUtcG9saWN5LWRvY3MvMzkzOTY1L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiYGh0dHBzOi8vd3d3LmdvdmV4ZWMuY29tL3BheS1iZW5lZml0cy8yMDI0LzAyL2xhd21ha2Vycy11cmdlLW9wbS11cGRhdGUtbGVhdmUtcG9saWN5LWRvY3MvMzkzOTY1L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 19:45:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmdvdmV4ZWMuY29tL3BheS1iZW5lZml0cy8yMDI0LzAyL2xhd21ha2Vycy11cmdlLW9wbS11cGRhdGUtbGVhdmUtcG9saWN5LWRvY3MvMzkzOTY1L9IBAA?oc=5\" target=\"_blank\">Lawmakers urge OPM to update parental leave policy docs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government Executive</font>"
+            ],
+            "source": [
+              {
+                "_": "Government Executive",
+                "$": {
+                  "url": "https://www.govexec.com"
                 }
               }
             ]
@@ -207,36 +237,6 @@
                 "_": "KSLTV",
                 "$": {
                   "url": "https://ksltv.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Lawmakers urge OPM to update parental leave policy docs - Government Executive"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmdvdmV4ZWMuY29tL3BheS1iZW5lZml0cy8yMDI0LzAyL2xhd21ha2Vycy11cmdlLW9wbS11cGRhdGUtbGVhdmUtcG9saWN5LWRvY3MvMzkzOTY1L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiYGh0dHBzOi8vd3d3LmdvdmV4ZWMuY29tL3BheS1iZW5lZml0cy8yMDI0LzAyL2xhd21ha2Vycy11cmdlLW9wbS11cGRhdGUtbGVhdmUtcG9saWN5LWRvY3MvMzkzOTY1L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 19:45:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmdvdmV4ZWMuY29tL3BheS1iZW5lZml0cy8yMDI0LzAyL2xhd21ha2Vycy11cmdlLW9wbS11cGRhdGUtbGVhdmUtcG9saWN5LWRvY3MvMzkzOTY1L9IBAA?oc=5\" target=\"_blank\">Lawmakers urge OPM to update parental leave policy docs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government Executive</font>"
-            ],
-            "source": [
-              {
-                "_": "Government Executive",
-                "$": {
-                  "url": "https://www.govexec.com"
                 }
               }
             ]
@@ -393,6 +393,36 @@
           },
           {
             "title": [
+              "Onoco Reveals Surprising Truths About Modern Fatherhood: Are Dads Doing Enough? - IT News Online"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lml0bmV3c29ubGluZS5jb20vUFJOZXdzd2lyZS9Pbm9jby1SZXZlYWxzLVN1cnByaXNpbmctVHJ1dGhzLUFib3V0LU1vZGVybi1GYXRoZXJob29kLUFyZS1EYWRzLURvaW5nLUVub3VnaC85NzAzMzTSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifGh0dHBzOi8vd3d3Lml0bmV3c29ubGluZS5jb20vUFJOZXdzd2lyZS9Pbm9jby1SZXZlYWxzLVN1cnByaXNpbmctVHJ1dGhzLUFib3V0LU1vZGVybi1GYXRoZXJob29kLUFyZS1EYWRzLURvaW5nLUVub3VnaC85NzAzMzTSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 08:27:15 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lml0bmV3c29ubGluZS5jb20vUFJOZXdzd2lyZS9Pbm9jby1SZXZlYWxzLVN1cnByaXNpbmctVHJ1dGhzLUFib3V0LU1vZGVybi1GYXRoZXJob29kLUFyZS1EYWRzLURvaW5nLUVub3VnaC85NzAzMzTSAQA?oc=5\" target=\"_blank\">Onoco Reveals Surprising Truths About Modern Fatherhood: Are Dads Doing Enough?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT News Online</font>"
+            ],
+            "source": [
+              {
+                "_": "IT News Online",
+                "$": {
+                  "url": "https://www.itnewsonline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Lack Of Paternity Leave Is Negating The Purpose Of Maternity Leave - Live Law - Indian Legal News"
             ],
             "link": [
@@ -453,36 +483,6 @@
           },
           {
             "title": [
-              "Shared parental leave: tackling the resourcing challenges - Personnel Today"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnBlcnNvbm5lbHRvZGF5LmNvbS9oci9zaGFyZWQtcGFyZW50YWwtbGVhdmUtcmVzb3VyY2luZy1jaGFsbGVuZ2VzL9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiTmh0dHBzOi8vd3d3LnBlcnNvbm5lbHRvZGF5LmNvbS9oci9zaGFyZWQtcGFyZW50YWwtbGVhdmUtcmVzb3VyY2luZy1jaGFsbGVuZ2VzL9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Feb 2024 07:18:54 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnBlcnNvbm5lbHRvZGF5LmNvbS9oci9zaGFyZWQtcGFyZW50YWwtbGVhdmUtcmVzb3VyY2luZy1jaGFsbGVuZ2VzL9IBAA?oc=5\" target=\"_blank\">Shared parental leave: tackling the resourcing challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Personnel Today</font>"
-            ],
-            "source": [
-              {
-                "_": "Personnel Today",
-                "$": {
-                  "url": "https://www.personneltoday.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "UK: New Regulations Will Extend Current Redundancy Protections for Individuals Who Are Pregnant or on Maternity ... - JD Supra"
             ],
             "link": [
@@ -513,30 +513,30 @@
           },
           {
             "title": [
-              "Rights of self-employed workers set to expand - In-Cyprus"
+              "Standard Chartered Bank announces 20-week paternity and adoption leave benefit for staff - BusinessLine"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vaW4tY3lwcnVzLnBoaWxlbmV3cy5jb20vbG9jYWwvcmlnaHRzLW9mLXNlbGYtZW1wbG95ZWQtd29ya2Vycy1zZXQtdG8tZXhwYW5kL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vbW9uZXktYW5kLWJhbmtpbmcvc3RhbmRhcmQtY2hhcnRlcmVkLWJhbmstYW5ub3VuY2VzLTIwLXdlZWstcGF0ZXJuaXR5LWFuZC1hZG9wdGlvbi1sZWF2ZS1iZW5lZml0LWZvci1zdGFmZi9hcnRpY2xlNjcyNTQ0OTIuZWNl0gGoAWh0dHBzOi8vd3d3LnRoZWhpbmR1YnVzaW5lc3NsaW5lLmNvbS9tb25leS1hbmQtYmFua2luZy9zdGFuZGFyZC1jaGFydGVyZWQtYmFuay1hbm5vdW5jZXMtMjAtd2Vlay1wYXRlcm5pdHktYW5kLWFkb3B0aW9uLWxlYXZlLWJlbmVmaXQtZm9yLXN0YWZmL2FydGljbGU2NzI1NDQ5Mi5lY2UvYW1wLw?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiVGh0dHBzOi8vaW4tY3lwcnVzLnBoaWxlbmV3cy5jb20vbG9jYWwvcmlnaHRzLW9mLXNlbGYtZW1wbG95ZWQtd29ya2Vycy1zZXQtdG8tZXhwYW5kL9IBAA",
+                "_": "CBMiowFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vbW9uZXktYW5kLWJhbmtpbmcvc3RhbmRhcmQtY2hhcnRlcmVkLWJhbmstYW5ub3VuY2VzLTIwLXdlZWstcGF0ZXJuaXR5LWFuZC1hZG9wdGlvbi1sZWF2ZS1iZW5lZml0LWZvci1zdGFmZi9hcnRpY2xlNjcyNTQ0OTIuZWNl0gGoAWh0dHBzOi8vd3d3LnRoZWhpbmR1YnVzaW5lc3NsaW5lLmNvbS9tb25leS1hbmQtYmFua2luZy9zdGFuZGFyZC1jaGFydGVyZWQtYmFuay1hbm5vdW5jZXMtMjAtd2Vlay1wYXRlcm5pdHktYW5kLWFkb3B0aW9uLWxlYXZlLWJlbmVmaXQtZm9yLXN0YWZmL2FydGljbGU2NzI1NDQ5Mi5lY2UvYW1wLw",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 07 Feb 2024 06:45:16 GMT"
+              "Thu, 31 Aug 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vaW4tY3lwcnVzLnBoaWxlbmV3cy5jb20vbG9jYWwvcmlnaHRzLW9mLXNlbGYtZW1wbG95ZWQtd29ya2Vycy1zZXQtdG8tZXhwYW5kL9IBAA?oc=5\" target=\"_blank\">Rights of self-employed workers set to expand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">In-Cyprus</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vbW9uZXktYW5kLWJhbmtpbmcvc3RhbmRhcmQtY2hhcnRlcmVkLWJhbmstYW5ub3VuY2VzLTIwLXdlZWstcGF0ZXJuaXR5LWFuZC1hZG9wdGlvbi1sZWF2ZS1iZW5lZml0LWZvci1zdGFmZi9hcnRpY2xlNjcyNTQ0OTIuZWNl0gGoAWh0dHBzOi8vd3d3LnRoZWhpbmR1YnVzaW5lc3NsaW5lLmNvbS9tb25leS1hbmQtYmFua2luZy9zdGFuZGFyZC1jaGFydGVyZWQtYmFuay1hbm5vdW5jZXMtMjAtd2Vlay1wYXRlcm5pdHktYW5kLWFkb3B0aW9uLWxlYXZlLWJlbmVmaXQtZm9yLXN0YWZmL2FydGljbGU2NzI1NDQ5Mi5lY2UvYW1wLw?oc=5\" target=\"_blank\">Standard Chartered Bank announces 20-week paternity and adoption leave benefit for staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessLine</font>"
             ],
             "source": [
               {
-                "_": "In-Cyprus",
+                "_": "BusinessLine",
                 "$": {
-                  "url": "https://in-cyprus.philenews.com"
+                  "url": "https://www.thehindubusinessline.com"
                 }
               }
             ]
@@ -567,36 +567,6 @@
                 "_": "BBC.com",
                 "$": {
                   "url": "https://www.bbc.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Standard Chartered Bank announces 20-week paternity and adoption leave benefit for staff - BusinessLine"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vbW9uZXktYW5kLWJhbmtpbmcvc3RhbmRhcmQtY2hhcnRlcmVkLWJhbmstYW5ub3VuY2VzLTIwLXdlZWstcGF0ZXJuaXR5LWFuZC1hZG9wdGlvbi1sZWF2ZS1iZW5lZml0LWZvci1zdGFmZi9hcnRpY2xlNjcyNTQ0OTIuZWNl0gGoAWh0dHBzOi8vd3d3LnRoZWhpbmR1YnVzaW5lc3NsaW5lLmNvbS9tb25leS1hbmQtYmFua2luZy9zdGFuZGFyZC1jaGFydGVyZWQtYmFuay1hbm5vdW5jZXMtMjAtd2Vlay1wYXRlcm5pdHktYW5kLWFkb3B0aW9uLWxlYXZlLWJlbmVmaXQtZm9yLXN0YWZmL2FydGljbGU2NzI1NDQ5Mi5lY2UvYW1wLw?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiowFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vbW9uZXktYW5kLWJhbmtpbmcvc3RhbmRhcmQtY2hhcnRlcmVkLWJhbmstYW5ub3VuY2VzLTIwLXdlZWstcGF0ZXJuaXR5LWFuZC1hZG9wdGlvbi1sZWF2ZS1iZW5lZml0LWZvci1zdGFmZi9hcnRpY2xlNjcyNTQ0OTIuZWNl0gGoAWh0dHBzOi8vd3d3LnRoZWhpbmR1YnVzaW5lc3NsaW5lLmNvbS9tb25leS1hbmQtYmFua2luZy9zdGFuZGFyZC1jaGFydGVyZWQtYmFuay1hbm5vdW5jZXMtMjAtd2Vlay1wYXRlcm5pdHktYW5kLWFkb3B0aW9uLWxlYXZlLWJlbmVmaXQtZm9yLXN0YWZmL2FydGljbGU2NzI1NDQ5Mi5lY2UvYW1wLw",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 31 Aug 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vbW9uZXktYW5kLWJhbmtpbmcvc3RhbmRhcmQtY2hhcnRlcmVkLWJhbmstYW5ub3VuY2VzLTIwLXdlZWstcGF0ZXJuaXR5LWFuZC1hZG9wdGlvbi1sZWF2ZS1iZW5lZml0LWZvci1zdGFmZi9hcnRpY2xlNjcyNTQ0OTIuZWNl0gGoAWh0dHBzOi8vd3d3LnRoZWhpbmR1YnVzaW5lc3NsaW5lLmNvbS9tb25leS1hbmQtYmFua2luZy9zdGFuZGFyZC1jaGFydGVyZWQtYmFuay1hbm5vdW5jZXMtMjAtd2Vlay1wYXRlcm5pdHktYW5kLWFkb3B0aW9uLWxlYXZlLWJlbmVmaXQtZm9yLXN0YWZmL2FydGljbGU2NzI1NDQ5Mi5lY2UvYW1wLw?oc=5\" target=\"_blank\">Standard Chartered Bank announces 20-week paternity and adoption leave benefit for staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessLine</font>"
-            ],
-            "source": [
-              {
-                "_": "BusinessLine",
-                "$": {
-                  "url": "https://www.thehindubusinessline.com"
                 }
               }
             ]
@@ -687,6 +657,36 @@
                 "_": "Built In",
                 "$": {
                   "url": "https://builtin.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Rights of self-employed workers set to expand - In-Cyprus"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vaW4tY3lwcnVzLnBoaWxlbmV3cy5jb20vbG9jYWwvcmlnaHRzLW9mLXNlbGYtZW1wbG95ZWQtd29ya2Vycy1zZXQtdG8tZXhwYW5kL9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVGh0dHBzOi8vaW4tY3lwcnVzLnBoaWxlbmV3cy5jb20vbG9jYWwvcmlnaHRzLW9mLXNlbGYtZW1wbG95ZWQtd29ya2Vycy1zZXQtdG8tZXhwYW5kL9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 07 Feb 2024 06:45:16 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vaW4tY3lwcnVzLnBoaWxlbmV3cy5jb20vbG9jYWwvcmlnaHRzLW9mLXNlbGYtZW1wbG95ZWQtd29ya2Vycy1zZXQtdG8tZXhwYW5kL9IBAA?oc=5\" target=\"_blank\">Rights of self-employed workers set to expand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">In-Cyprus</font>"
+            ],
+            "source": [
+              {
+                "_": "In-Cyprus",
+                "$": {
+                  "url": "https://in-cyprus.philenews.com"
                 }
               }
             ]
@@ -1203,36 +1203,6 @@
           },
           {
             "title": [
-              "LSU promised paid family leave to all employees. Not everyone’s getting it. - Louisana Illuminator"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbGFpbGx1bWluYXRvci5jb20vMjAyNC8wMi8wNi9sc3UtcHJvbWlzZWQtcGFpZC1mYW1pbHktbGVhdmUtdG8tYWxsLWVtcGxveWVlcy1ub3QtZXZlcnlvbmVzLWdldHRpbmctaXQv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMibmh0dHBzOi8vbGFpbGx1bWluYXRvci5jb20vMjAyNC8wMi8wNi9sc3UtcHJvbWlzZWQtcGFpZC1mYW1pbHktbGVhdmUtdG8tYWxsLWVtcGxveWVlcy1ub3QtZXZlcnlvbmVzLWdldHRpbmctaXQv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 11:03:50 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbGFpbGx1bWluYXRvci5jb20vMjAyNC8wMi8wNi9sc3UtcHJvbWlzZWQtcGFpZC1mYW1pbHktbGVhdmUtdG8tYWxsLWVtcGxveWVlcy1ub3QtZXZlcnlvbmVzLWdldHRpbmctaXQv0gEA?oc=5\" target=\"_blank\">LSU promised paid family leave to all employees. Not everyone’s getting it.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisana Illuminator</font>"
-            ],
-            "source": [
-              {
-                "_": "Louisana Illuminator",
-                "$": {
-                  "url": "https://lailluminator.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Time ripe for paternity leave legislation in pvt sector: HC - Times of India"
             ],
             "link": [
@@ -1533,6 +1503,36 @@
           },
           {
             "title": [
+              "LSU promised paid family leave to all employees. Not everyone’s getting it. - Louisana Illuminator"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbGFpbGx1bWluYXRvci5jb20vMjAyNC8wMi8wNi9sc3UtcHJvbWlzZWQtcGFpZC1mYW1pbHktbGVhdmUtdG8tYWxsLWVtcGxveWVlcy1ub3QtZXZlcnlvbmVzLWdldHRpbmctaXQv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMibmh0dHBzOi8vbGFpbGx1bWluYXRvci5jb20vMjAyNC8wMi8wNi9sc3UtcHJvbWlzZWQtcGFpZC1mYW1pbHktbGVhdmUtdG8tYWxsLWVtcGxveWVlcy1ub3QtZXZlcnlvbmVzLWdldHRpbmctaXQv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 11:03:50 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbGFpbGx1bWluYXRvci5jb20vMjAyNC8wMi8wNi9sc3UtcHJvbWlzZWQtcGFpZC1mYW1pbHktbGVhdmUtdG8tYWxsLWVtcGxveWVlcy1ub3QtZXZlcnlvbmVzLWdldHRpbmctaXQv0gEA?oc=5\" target=\"_blank\">LSU promised paid family leave to all employees. Not everyone’s getting it.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisana Illuminator</font>"
+            ],
+            "source": [
+              {
+                "_": "Louisana Illuminator",
+                "$": {
+                  "url": "https://lailluminator.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Record number of fathers apply for parental leave in 2022: Report - Focus Taiwan"
             ],
             "link": [
@@ -1803,7 +1803,7 @@
           },
           {
             "title": [
-              "Shared parental leave has failed because it doesn't make financial or emotional sense - The Conversation Indonesia"
+              "Shared parental leave has failed because it doesn't make financial or emotional sense - The Conversation"
             ],
             "link": [
               "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9zaGFyZWQtcGFyZW50YWwtbGVhdmUtaGFzLWZhaWxlZC1iZWNhdXNlLWl0LWRvZXNudC1tYWtlLWZpbmFuY2lhbC1vci1lbW90aW9uYWwtc2Vuc2UtMjA2MTUy0gEA?oc=5"
@@ -1820,43 +1820,13 @@
               "Mon, 21 Aug 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9zaGFyZWQtcGFyZW50YWwtbGVhdmUtaGFzLWZhaWxlZC1iZWNhdXNlLWl0LWRvZXNudC1tYWtlLWZpbmFuY2lhbC1vci1lbW90aW9uYWwtc2Vuc2UtMjA2MTUy0gEA?oc=5\" target=\"_blank\">Shared parental leave has failed because it doesn't make financial or emotional sense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation Indonesia</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9zaGFyZWQtcGFyZW50YWwtbGVhdmUtaGFzLWZhaWxlZC1iZWNhdXNlLWl0LWRvZXNudC1tYWtlLWZpbmFuY2lhbC1vci1lbW90aW9uYWwtc2Vuc2UtMjA2MTUy0gEA?oc=5\" target=\"_blank\">Shared parental leave has failed because it doesn't make financial or emotional sense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>"
             ],
             "source": [
               {
-                "_": "The Conversation Indonesia",
+                "_": "The Conversation",
                 "$": {
                   "url": "https://theconversation.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Henkel Announces Fully Paid Gender-Neutral Parental Leave | ESM Magazine - ESM – European Supermarket Magazine"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzbW1hZ2F6aW5lLmNvbS9hLWJyYW5kcy9oZW5rZWwtYW5ub3VuY2VzLWZ1bGx5LXBhaWQtZ2VuZGVyLW5ldXRyYWwtcGFyZW50YWwtbGVhdmUtMjU4NTUx0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiZWh0dHBzOi8vd3d3LmVzbW1hZ2F6aW5lLmNvbS9hLWJyYW5kcy9oZW5rZWwtYW5ub3VuY2VzLWZ1bGx5LXBhaWQtZ2VuZGVyLW5ldXRyYWwtcGFyZW50YWwtbGVhdmUtMjU4NTUx0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 11:17:30 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzbW1hZ2F6aW5lLmNvbS9hLWJyYW5kcy9oZW5rZWwtYW5ub3VuY2VzLWZ1bGx5LXBhaWQtZ2VuZGVyLW5ldXRyYWwtcGFyZW50YWwtbGVhdmUtMjU4NTUx0gEA?oc=5\" target=\"_blank\">Henkel Announces Fully Paid Gender-Neutral Parental Leave | ESM Magazine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESM – European Supermarket Magazine</font>"
-            ],
-            "source": [
-              {
-                "_": "ESM – European Supermarket Magazine",
-                "$": {
-                  "url": "https://www.esmmagazine.com"
                 }
               }
             ]
@@ -1887,6 +1857,36 @@
                 "_": "HR Brew",
                 "$": {
                   "url": "https://www.hr-brew.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Henkel Announces Fully Paid Gender-Neutral Parental Leave | ESM Magazine - ESM – European Supermarket Magazine"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzbW1hZ2F6aW5lLmNvbS9hLWJyYW5kcy9oZW5rZWwtYW5ub3VuY2VzLWZ1bGx5LXBhaWQtZ2VuZGVyLW5ldXRyYWwtcGFyZW50YWwtbGVhdmUtMjU4NTUx0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmVzbW1hZ2F6aW5lLmNvbS9hLWJyYW5kcy9oZW5rZWwtYW5ub3VuY2VzLWZ1bGx5LXBhaWQtZ2VuZGVyLW5ldXRyYWwtcGFyZW50YWwtbGVhdmUtMjU4NTUx0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 11:17:30 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzbW1hZ2F6aW5lLmNvbS9hLWJyYW5kcy9oZW5rZWwtYW5ub3VuY2VzLWZ1bGx5LXBhaWQtZ2VuZGVyLW5ldXRyYWwtcGFyZW50YWwtbGVhdmUtMjU4NTUx0gEA?oc=5\" target=\"_blank\">Henkel Announces Fully Paid Gender-Neutral Parental Leave | ESM Magazine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESM – European Supermarket Magazine</font>"
+            ],
+            "source": [
+              {
+                "_": "ESM – European Supermarket Magazine",
+                "$": {
+                  "url": "https://www.esmmagazine.com"
                 }
               }
             ]
@@ -1983,36 +1983,6 @@
           },
           {
             "title": [
-              "Federal workers failing to take paid family leave, lawmakers say - Federal Times"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mZWRlcmFsdGltZXMuY29tL21hbmFnZW1lbnQvcGF5LWJlbmVmaXRzLzIwMjQvMDIvMDYvZmVkZXJhbC13b3JrZXJzLWZhaWxpbmctdG8tdGFrZS1wYWlkLWZhbWlseS1sZWF2ZS1sYXdtYWtlcnMtc2F5L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMigAFodHRwczovL3d3dy5mZWRlcmFsdGltZXMuY29tL21hbmFnZW1lbnQvcGF5LWJlbmVmaXRzLzIwMjQvMDIvMDYvZmVkZXJhbC13b3JrZXJzLWZhaWxpbmctdG8tdGFrZS1wYWlkLWZhbWlseS1sZWF2ZS1sYXdtYWtlcnMtc2F5L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 20:24:33 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mZWRlcmFsdGltZXMuY29tL21hbmFnZW1lbnQvcGF5LWJlbmVmaXRzLzIwMjQvMDIvMDYvZmVkZXJhbC13b3JrZXJzLWZhaWxpbmctdG8tdGFrZS1wYWlkLWZhbWlseS1sZWF2ZS1sYXdtYWtlcnMtc2F5L9IBAA?oc=5\" target=\"_blank\">Federal workers failing to take paid family leave, lawmakers say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal Times</font>"
-            ],
-            "source": [
-              {
-                "_": "Federal Times",
-                "$": {
-                  "url": "https://www.federaltimes.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Refusing paternity leave amounts to violation of Article 21 of the Constitution: Madras HC - CNBCTV18"
             ],
             "link": [
@@ -2073,36 +2043,6 @@
           },
           {
             "title": [
-              "Shared Parental Leave and Pay (Bereavement) Bill 2023-24 - House of Commons Library - Commons Library"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vY29tbW9uc2xpYnJhcnkucGFybGlhbWVudC51ay9yZXNlYXJjaC1icmllZmluZ3MvY2JwLTk5Mzgv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiQWh0dHBzOi8vY29tbW9uc2xpYnJhcnkucGFybGlhbWVudC51ay9yZXNlYXJjaC1icmllZmluZ3MvY2JwLTk5Mzgv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 24 Jan 2024 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vY29tbW9uc2xpYnJhcnkucGFybGlhbWVudC51ay9yZXNlYXJjaC1icmllZmluZ3MvY2JwLTk5Mzgv0gEA?oc=5\" target=\"_blank\">Shared Parental Leave and Pay (Bereavement) Bill 2023-24 - House of Commons Library</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commons Library</font>"
-            ],
-            "source": [
-              {
-                "_": "Commons Library",
-                "$": {
-                  "url": "https://commonslibrary.parliament.uk"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "South African court rules in favour of gender equality on parental leave - IndustriALL Global Union"
             ],
             "link": [
@@ -2127,6 +2067,36 @@
                 "_": "IndustriALL Global Union",
                 "$": {
                   "url": "https://www.industriall-union.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Shared Parental Leave and Pay (Bereavement) Bill 2023-24 - House of Commons Library - Commons Library"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vY29tbW9uc2xpYnJhcnkucGFybGlhbWVudC51ay9yZXNlYXJjaC1icmllZmluZ3MvY2JwLTk5Mzgv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiQWh0dHBzOi8vY29tbW9uc2xpYnJhcnkucGFybGlhbWVudC51ay9yZXNlYXJjaC1icmllZmluZ3MvY2JwLTk5Mzgv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 24 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vY29tbW9uc2xpYnJhcnkucGFybGlhbWVudC51ay9yZXNlYXJjaC1icmllZmluZ3MvY2JwLTk5Mzgv0gEA?oc=5\" target=\"_blank\">Shared Parental Leave and Pay (Bereavement) Bill 2023-24 - House of Commons Library</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commons Library</font>"
+            ],
+            "source": [
+              {
+                "_": "Commons Library",
+                "$": {
+                  "url": "https://commonslibrary.parliament.uk"
                 }
               }
             ]
@@ -2187,6 +2157,36 @@
                 "_": "NDTV",
                 "$": {
                   "url": "https://www.ndtv.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Federal workers failing to take paid family leave, lawmakers say - Federal Times"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mZWRlcmFsdGltZXMuY29tL21hbmFnZW1lbnQvcGF5LWJlbmVmaXRzLzIwMjQvMDIvMDYvZmVkZXJhbC13b3JrZXJzLWZhaWxpbmctdG8tdGFrZS1wYWlkLWZhbWlseS1sZWF2ZS1sYXdtYWtlcnMtc2F5L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL3d3dy5mZWRlcmFsdGltZXMuY29tL21hbmFnZW1lbnQvcGF5LWJlbmVmaXRzLzIwMjQvMDIvMDYvZmVkZXJhbC13b3JrZXJzLWZhaWxpbmctdG8tdGFrZS1wYWlkLWZhbWlseS1sZWF2ZS1sYXdtYWtlcnMtc2F5L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 20:24:33 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mZWRlcmFsdGltZXMuY29tL21hbmFnZW1lbnQvcGF5LWJlbmVmaXRzLzIwMjQvMDIvMDYvZmVkZXJhbC13b3JrZXJzLWZhaWxpbmctdG8tdGFrZS1wYWlkLWZhbWlseS1sZWF2ZS1sYXdtYWtlcnMtc2F5L9IBAA?oc=5\" target=\"_blank\">Federal workers failing to take paid family leave, lawmakers say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal Times</font>"
+            ],
+            "source": [
+              {
+                "_": "Federal Times",
+                "$": {
+                  "url": "https://www.federaltimes.com"
                 }
               }
             ]
@@ -2523,30 +2523,30 @@
           },
           {
             "title": [
-              "Newton teacher union pushes for paid parental leave - The Boston Globe"
+              "Is Gender-Equal Parental Leave the Fairest Policy? - The Atlantic"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS8yMDI0LzAyLzA2L21ldHJvL25ld3Rvbi1zdHJpa2UtdXBkYXRlLXRlYWNoZXItdW5pb25zLXBhaWQtcGFyZW50YWwtbGVhdmUv0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9mYW1pbHkvYXJjaGl2ZS8yMDIzLzA2L3BhcmVudGFsLWxlYXZlLWV1cm9wZS1mYXRoZXItcXVvdGEtZmVtaW5pc20vNjc0Mzc0L9IBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiZWh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS8yMDI0LzAyLzA2L21ldHJvL25ld3Rvbi1zdHJpa2UtdXBkYXRlLXRlYWNoZXItdW5pb25zLXBhaWQtcGFyZW50YWwtbGVhdmUv0gEA",
+                "_": "CBMiZmh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9mYW1pbHkvYXJjaGl2ZS8yMDIzLzA2L3BhcmVudGFsLWxlYXZlLWV1cm9wZS1mYXRoZXItcXVvdGEtZmVtaW5pc20vNjc0Mzc0L9IBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 06 Feb 2024 11:37:00 GMT"
+              "Mon, 12 Jun 2023 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS8yMDI0LzAyLzA2L21ldHJvL25ld3Rvbi1zdHJpa2UtdXBkYXRlLXRlYWNoZXItdW5pb25zLXBhaWQtcGFyZW50YWwtbGVhdmUv0gEA?oc=5\" target=\"_blank\">Newton teacher union pushes for paid parental leave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Boston Globe</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9mYW1pbHkvYXJjaGl2ZS8yMDIzLzA2L3BhcmVudGFsLWxlYXZlLWV1cm9wZS1mYXRoZXItcXVvdGEtZmVtaW5pc20vNjc0Mzc0L9IBAA?oc=5\" target=\"_blank\">Is Gender-Equal Parental Leave the Fairest Policy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font>"
             ],
             "source": [
               {
-                "_": "The Boston Globe",
+                "_": "The Atlantic",
                 "$": {
-                  "url": "https://www.bostonglobe.com"
+                  "url": "https://www.theatlantic.com"
                 }
               }
             ]
@@ -2577,36 +2577,6 @@
                 "_": "TriNet",
                 "$": {
                   "url": "https://www.trinet.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Is Gender-Equal Parental Leave the Fairest Policy? - The Atlantic"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9mYW1pbHkvYXJjaGl2ZS8yMDIzLzA2L3BhcmVudGFsLWxlYXZlLWV1cm9wZS1mYXRoZXItcXVvdGEtZmVtaW5pc20vNjc0Mzc0L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiZmh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9mYW1pbHkvYXJjaGl2ZS8yMDIzLzA2L3BhcmVudGFsLWxlYXZlLWV1cm9wZS1mYXRoZXItcXVvdGEtZmVtaW5pc20vNjc0Mzc0L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 12 Jun 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9mYW1pbHkvYXJjaGl2ZS8yMDIzLzA2L3BhcmVudGFsLWxlYXZlLWV1cm9wZS1mYXRoZXItcXVvdGEtZmVtaW5pc20vNjc0Mzc0L9IBAA?oc=5\" target=\"_blank\">Is Gender-Equal Parental Leave the Fairest Policy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font>"
-            ],
-            "source": [
-              {
-                "_": "The Atlantic",
-                "$": {
-                  "url": "https://www.theatlantic.com"
                 }
               }
             ]
@@ -2697,36 +2667,6 @@
                 "_": "Shoosmiths",
                 "$": {
                   "url": "https://www.shoosmiths.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Workplace Discrimination Challenges for Fathers Seeking Family Involvement - BNN Breaking"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudNIBb2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMib2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudNIBb2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 14:28:32 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudNIBb2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudA?oc=5\" target=\"_blank\">Workplace Discrimination Challenges for Fathers Seeking Family Involvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNN Breaking</font>"
-            ],
-            "source": [
-              {
-                "_": "BNN Breaking",
-                "$": {
-                  "url": "https://bnnbreaking.com"
                 }
               }
             ]
@@ -2853,6 +2793,36 @@
           },
           {
             "title": [
+              "Newton teacher union pushes for paid parental leave - The Boston Globe"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS8yMDI0LzAyLzA2L21ldHJvL25ld3Rvbi1zdHJpa2UtdXBkYXRlLXRlYWNoZXItdW5pb25zLXBhaWQtcGFyZW50YWwtbGVhdmUv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiZWh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS8yMDI0LzAyLzA2L21ldHJvL25ld3Rvbi1zdHJpa2UtdXBkYXRlLXRlYWNoZXItdW5pb25zLXBhaWQtcGFyZW50YWwtbGVhdmUv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 11:37:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS8yMDI0LzAyLzA2L21ldHJvL25ld3Rvbi1zdHJpa2UtdXBkYXRlLXRlYWNoZXItdW5pb25zLXBhaWQtcGFyZW50YWwtbGVhdmUv0gEA?oc=5\" target=\"_blank\">Newton teacher union pushes for paid parental leave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Boston Globe</font>"
+            ],
+            "source": [
+              {
+                "_": "The Boston Globe",
+                "$": {
+                  "url": "https://www.bostonglobe.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Elon Musk reduces Twitter's parental leave to 14 days, angers users on social media - Moneycontrol"
             ],
             "link": [
@@ -2877,6 +2847,36 @@
                 "_": "Moneycontrol",
                 "$": {
                   "url": "https://www.moneycontrol.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Workplace Discrimination Challenges for Fathers Seeking Family Involvement - BNN Breaking"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudNIBb2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudNIBb2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 14:28:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudNIBb2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2Jubi1uZXdzcm9vbS93b3JrcGxhY2UtZGlzY3JpbWluYXRpb24tY2hhbGxlbmdlcy1mb3ItZmF0aGVycy1zZWVraW5nLWZhbWlseS1pbnZvbHZlbWVudA?oc=5\" target=\"_blank\">Workplace Discrimination Challenges for Fathers Seeking Family Involvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNN Breaking</font>"
+            ],
+            "source": [
+              {
+                "_": "BNN Breaking",
+                "$": {
+                  "url": "https://bnnbreaking.com"
                 }
               }
             ]

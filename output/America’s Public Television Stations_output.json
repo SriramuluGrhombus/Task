@@ -25,42 +25,12 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
         ],
         "item": [
-          {
-            "title": [
-              "APTS Summit To Feature Tech Future Panel - TV Technology"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnR2dGVjaG5vbG9neS5jb20vbmV3cy9hcHRzLXN1bW1pdC10by1mZWF0dXJlLXRlY2gtZnV0dXJlLXBhbmVs0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiSmh0dHBzOi8vd3d3LnR2dGVjaG5vbG9neS5jb20vbmV3cy9hcHRzLXN1bW1pdC10by1mZWF0dXJlLXRlY2gtZnV0dXJlLXBhbmVs0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 16:42:52 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnR2dGVjaG5vbG9neS5jb20vbmV3cy9hcHRzLXN1bW1pdC10by1mZWF0dXJlLXRlY2gtZnV0dXJlLXBhbmVs0gEA?oc=5\" target=\"_blank\">APTS Summit To Feature Tech Future Panel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV Technology</font>"
-            ],
-            "source": [
-              {
-                "_": "TV Technology",
-                "$": {
-                  "url": "https://www.tvtechnology.com"
-                }
-              }
-            ]
-          },
           {
             "title": [
               "Pat Butler will retire from America's Public Television Stations - Current"
@@ -87,6 +57,36 @@
                 "_": "Current",
                 "$": {
                   "url": "https://current.org"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "APTS Summit To Feature Tech Future Panel - TV Technology"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnR2dGVjaG5vbG9neS5jb20vbmV3cy9hcHRzLXN1bW1pdC10by1mZWF0dXJlLXRlY2gtZnV0dXJlLXBhbmVs0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiSmh0dHBzOi8vd3d3LnR2dGVjaG5vbG9neS5jb20vbmV3cy9hcHRzLXN1bW1pdC10by1mZWF0dXJlLXRlY2gtZnV0dXJlLXBhbmVs0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 16:42:52 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnR2dGVjaG5vbG9neS5jb20vbmV3cy9hcHRzLXN1bW1pdC10by1mZWF0dXJlLXRlY2gtZnV0dXJlLXBhbmVs0gEA?oc=5\" target=\"_blank\">APTS Summit To Feature Tech Future Panel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV Technology</font>"
+            ],
+            "source": [
+              {
+                "_": "TV Technology",
+                "$": {
+                  "url": "https://www.tvtechnology.com"
                 }
               }
             ]

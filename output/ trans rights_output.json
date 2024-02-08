@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 07:16:42 GMT"
+          "Wed, 07 Feb 2024 08:29:23 GMT"
         ],
         "description": [
           "Google News"
@@ -36,11 +36,11 @@
               "Largest survey of transgender people in the US reveals key insights at a time when trans rights are under attack - CNN"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMi8wNy91cy91cy10cmFuc2dlbmRlci0yMDIyLXN1cnZleS1yZWFqL2luZGV4Lmh0bWzSAVBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAyLzA3L3VzL3VzLXRyYW5zZ2VuZGVyLTIwMjItc3VydmV5LXJlYWovaW5kZXguaHRtbA?oc=5"
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMi8wNy91cy91cy10cmFuc2dlbmRlci0yMDIyLXN1cnZleS1yZWFqL2luZGV4Lmh0bWzSAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMi8wNy91cy91cy10cmFuc2dlbmRlci0yMDIyLXN1cnZleS1yZWFqL2luZGV4Lmh0bWzSAVBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAyLzA3L3VzL3VzLXRyYW5zZ2VuZGVyLTIwMjItc3VydmV5LXJlYWovaW5kZXguaHRtbA",
+                "_": "CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMi8wNy91cy91cy10cmFuc2dlbmRlci0yMDIyLXN1cnZleS1yZWFqL2luZGV4Lmh0bWzSAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
@@ -50,7 +50,7 @@
               "Wed, 07 Feb 2024 05:15:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMi8wNy91cy91cy10cmFuc2dlbmRlci0yMDIyLXN1cnZleS1yZWFqL2luZGV4Lmh0bWzSAVBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAyLzA3L3VzL3VzLXRyYW5zZ2VuZGVyLTIwMjItc3VydmV5LXJlYWovaW5kZXguaHRtbA?oc=5\" target=\"_blank\">Largest survey of transgender people in the US reveals key insights at a time when trans rights are under attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMi8wNy91cy91cy10cmFuc2dlbmRlci0yMDIyLXN1cnZleS1yZWFqL2luZGV4Lmh0bWzSAQA?oc=5\" target=\"_blank\">Largest survey of transgender people in the US reveals key insights at a time when trans rights are under attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
             ],
             "source": [
               {
@@ -123,36 +123,6 @@
           },
           {
             "title": [
-              "Anti-trans bills: Proposals in 2024 show no sign of slowing down - USA TODAY"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzAyLzA2L2FudGktdHJhbnMtYmlsbHMtZ3Jvdy0yMDI0LzcyMzUzNzE2MDA3L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiXWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzAyLzA2L2FudGktdHJhbnMtYmlsbHMtZ3Jvdy0yMDI0LzcyMzUzNzE2MDA3L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 15:06:26 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzAyLzA2L2FudGktdHJhbnMtYmlsbHMtZ3Jvdy0yMDI0LzcyMzUzNzE2MDA3L9IBAA?oc=5\" target=\"_blank\">Anti-trans bills: Proposals in 2024 show no sign of slowing down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
-            ],
-            "source": [
-              {
-                "_": "USA TODAY",
-                "$": {
-                  "url": "https://www.usatoday.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Trans rights: Can free education replace the demand for quota? - Hindustan Times"
             ],
             "link": [
@@ -177,6 +147,36 @@
                 "_": "Hindustan Times",
                 "$": {
                   "url": "https://www.hindustantimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Anti-trans bills: Proposals in 2024 show no sign of slowing down - USA TODAY"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzAyLzA2L2FudGktdHJhbnMtYmlsbHMtZ3Jvdy0yMDI0LzcyMzUzNzE2MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiXWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzAyLzA2L2FudGktdHJhbnMtYmlsbHMtZ3Jvdy0yMDI0LzcyMzUzNzE2MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 15:06:26 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzAyLzA2L2FudGktdHJhbnMtYmlsbHMtZ3Jvdy0yMDI0LzcyMzUzNzE2MDA3L9IBAA?oc=5\" target=\"_blank\">Anti-trans bills: Proposals in 2024 show no sign of slowing down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA TODAY</font>"
+            ],
+            "source": [
+              {
+                "_": "USA TODAY",
+                "$": {
+                  "url": "https://www.usatoday.com"
                 }
               }
             ]
@@ -273,36 +273,6 @@
           },
           {
             "title": [
-              "Tuesday's letters: No need for 'state' intrusion in gender identity - Edmonton Journal"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR50gGZAWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR5L3djbS80OTc1ZTVhNy0wYTExLTRjODUtYTc1My0zYmE3OTM0ZDJkNWYvYW1wLw?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMia2h0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR50gGZAWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR5L3djbS80OTc1ZTVhNy0wYTExLTRjODUtYTc1My0zYmE3OTM0ZDJkNWYvYW1wLw",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 11:04:51 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR50gGZAWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR5L3djbS80OTc1ZTVhNy0wYTExLTRjODUtYTc1My0zYmE3OTM0ZDJkNWYvYW1wLw?oc=5\" target=\"_blank\">Tuesday's letters: No need for 'state' intrusion in gender identity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Edmonton Journal</font>"
-            ],
-            "source": [
-              {
-                "_": "Edmonton Journal",
-                "$": {
-                  "url": "https://edmontonjournal.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Trans rights leader Kris Hayashi to lead advocacy department at National LGBTQ Task Force (exclusive) - Advocate.com"
             ],
             "link": [
@@ -327,6 +297,36 @@
                 "_": "Advocate.com",
                 "$": {
                   "url": "https://www.advocate.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tuesday's letters: No need for 'state' intrusion in gender identity - Edmonton Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR50gGZAWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR5L3djbS80OTc1ZTVhNy0wYTExLTRjODUtYTc1My0zYmE3OTM0ZDJkNWYvYW1wLw?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMia2h0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR50gGZAWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR5L3djbS80OTc1ZTVhNy0wYTExLTRjODUtYTc1My0zYmE3OTM0ZDJkNWYvYW1wLw",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 11:04:51 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR50gGZAWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9vcGluaW9uL2xldHRlcnMvdHVlc2RheXMtbGV0dGVycy1uby1uZWVkLWZvci1zdGF0ZS1pbnRydXNpb24taW4tZ2VuZGVyLWlkZW50aXR5L3djbS80OTc1ZTVhNy0wYTExLTRjODUtYTc1My0zYmE3OTM0ZDJkNWYvYW1wLw?oc=5\" target=\"_blank\">Tuesday's letters: No need for 'state' intrusion in gender identity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Edmonton Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Edmonton Journal",
+                "$": {
+                  "url": "https://edmontonjournal.com"
                 }
               }
             ]
@@ -393,36 +393,6 @@
           },
           {
             "title": [
-              "Women’s Bill of Rights could impact transgender individuals - WDAM"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LndkYW0uY29tLzIwMjQvMDIvMDMvd29tZW5zLWJpbGwtcmlnaHRzLWNvdWxkLWltcGFjdC10cmFuc2dlbmRlci1pbmRpdmlkdWFscy_SAWdodHRwczovL3d3dy53ZGFtLmNvbS8yMDI0LzAyLzAzL3dvbWVucy1iaWxsLXJpZ2h0cy1jb3VsZC1pbXBhY3QtdHJhbnNnZW5kZXItaW5kaXZpZHVhbHMvP291dHB1dFR5cGU9YW1w?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiWGh0dHBzOi8vd3d3LndkYW0uY29tLzIwMjQvMDIvMDMvd29tZW5zLWJpbGwtcmlnaHRzLWNvdWxkLWltcGFjdC10cmFuc2dlbmRlci1pbmRpdmlkdWFscy_SAWdodHRwczovL3d3dy53ZGFtLmNvbS8yMDI0LzAyLzAzL3dvbWVucy1iaWxsLXJpZ2h0cy1jb3VsZC1pbXBhY3QtdHJhbnNnZW5kZXItaW5kaXZpZHVhbHMvP291dHB1dFR5cGU9YW1w",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sat, 03 Feb 2024 08:37:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LndkYW0uY29tLzIwMjQvMDIvMDMvd29tZW5zLWJpbGwtcmlnaHRzLWNvdWxkLWltcGFjdC10cmFuc2dlbmRlci1pbmRpdmlkdWFscy_SAWdodHRwczovL3d3dy53ZGFtLmNvbS8yMDI0LzAyLzAzL3dvbWVucy1iaWxsLXJpZ2h0cy1jb3VsZC1pbXBhY3QtdHJhbnNnZW5kZXItaW5kaXZpZHVhbHMvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">Women’s Bill of Rights could impact transgender individuals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDAM</font>"
-            ],
-            "source": [
-              {
-                "_": "WDAM",
-                "$": {
-                  "url": "https://www.wdam.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Whoever wins US election, fight for trans rights will go on - openDemocracy"
             ],
             "link": [
@@ -453,30 +423,60 @@
           },
           {
             "title": [
-              "Stop pretending that trans persecution is helping kids – New Hampshire Bulletin - New Hampshire Bulletin"
+              "Women’s Bill of Rights could impact transgender individuals - WDAM"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmV3aGFtcHNoaXJlYnVsbGV0aW4uY29tLzIwMjQvMDIvMDIvc3RvcC1wcmV0ZW5kaW5nLXRoYXQtdHJhbnMtcGVyc2VjdXRpb24taXMtaGVscGluZy1raWRzL9IBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LndkYW0uY29tLzIwMjQvMDIvMDMvd29tZW5zLWJpbGwtcmlnaHRzLWNvdWxkLWltcGFjdC10cmFuc2dlbmRlci1pbmRpdmlkdWFscy_SAWdodHRwczovL3d3dy53ZGFtLmNvbS8yMDI0LzAyLzAzL3dvbWVucy1iaWxsLXJpZ2h0cy1jb3VsZC1pbXBhY3QtdHJhbnNnZW5kZXItaW5kaXZpZHVhbHMvP291dHB1dFR5cGU9YW1w?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiY2h0dHBzOi8vbmV3aGFtcHNoaXJlYnVsbGV0aW4uY29tLzIwMjQvMDIvMDIvc3RvcC1wcmV0ZW5kaW5nLXRoYXQtdHJhbnMtcGVyc2VjdXRpb24taXMtaGVscGluZy1raWRzL9IBAA",
+                "_": "CBMiWGh0dHBzOi8vd3d3LndkYW0uY29tLzIwMjQvMDIvMDMvd29tZW5zLWJpbGwtcmlnaHRzLWNvdWxkLWltcGFjdC10cmFuc2dlbmRlci1pbmRpdmlkdWFscy_SAWdodHRwczovL3d3dy53ZGFtLmNvbS8yMDI0LzAyLzAzL3dvbWVucy1iaWxsLXJpZ2h0cy1jb3VsZC1pbXBhY3QtdHJhbnNnZW5kZXItaW5kaXZpZHVhbHMvP291dHB1dFR5cGU9YW1w",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Fri, 02 Feb 2024 10:00:32 GMT"
+              "Sat, 03 Feb 2024 08:37:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmV3aGFtcHNoaXJlYnVsbGV0aW4uY29tLzIwMjQvMDIvMDIvc3RvcC1wcmV0ZW5kaW5nLXRoYXQtdHJhbnMtcGVyc2VjdXRpb24taXMtaGVscGluZy1raWRzL9IBAA?oc=5\" target=\"_blank\">Stop pretending that trans persecution is helping kids – New Hampshire Bulletin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Hampshire Bulletin</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LndkYW0uY29tLzIwMjQvMDIvMDMvd29tZW5zLWJpbGwtcmlnaHRzLWNvdWxkLWltcGFjdC10cmFuc2dlbmRlci1pbmRpdmlkdWFscy_SAWdodHRwczovL3d3dy53ZGFtLmNvbS8yMDI0LzAyLzAzL3dvbWVucy1iaWxsLXJpZ2h0cy1jb3VsZC1pbXBhY3QtdHJhbnNnZW5kZXItaW5kaXZpZHVhbHMvP291dHB1dFR5cGU9YW1w?oc=5\" target=\"_blank\">Women’s Bill of Rights could impact transgender individuals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDAM</font>"
             ],
             "source": [
               {
-                "_": "New Hampshire Bulletin",
+                "_": "WDAM",
                 "$": {
-                  "url": "https://newhampshirebulletin.com"
+                  "url": "https://www.wdam.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "WHO announces the development of a guideline on the health of trans and gender diverse people - World Health Organization (WHO)"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy53aG8uaW50L25ld3MvaXRlbS8xOC0xMi0yMDIzLXdoby1hbm5vdW5jZXMtdGhlLWRldmVsb3BtZW50LW9mLWEtZ3VpZGVsaW5lLW9uLXRoZS1oZWFsdGgtb2YtdHJhbnMtYW5kLWdlbmRlci1kaXZlcnNlLXBlb3BsZdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMihgFodHRwczovL3d3dy53aG8uaW50L25ld3MvaXRlbS8xOC0xMi0yMDIzLXdoby1hbm5vdW5jZXMtdGhlLWRldmVsb3BtZW50LW9mLWEtZ3VpZGVsaW5lLW9uLXRoZS1oZWFsdGgtb2YtdHJhbnMtYW5kLWdlbmRlci1kaXZlcnNlLXBlb3BsZdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 18 Dec 2023 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy53aG8uaW50L25ld3MvaXRlbS8xOC0xMi0yMDIzLXdoby1hbm5vdW5jZXMtdGhlLWRldmVsb3BtZW50LW9mLWEtZ3VpZGVsaW5lLW9uLXRoZS1oZWFsdGgtb2YtdHJhbnMtYW5kLWdlbmRlci1kaXZlcnNlLXBlb3BsZdIBAA?oc=5\" target=\"_blank\">WHO announces the development of a guideline on the health of trans and gender diverse people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Health Organization (WHO)</font>"
+            ],
+            "source": [
+              {
+                "_": "World Health Organization (WHO)",
+                "$": {
+                  "url": "https://www.who.int"
                 }
               }
             ]
@@ -573,66 +573,6 @@
           },
           {
             "title": [
-              "WHO announces the development of a guideline on the health of trans and gender diverse people - World Health Organization (WHO)"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy53aG8uaW50L25ld3MvaXRlbS8xOC0xMi0yMDIzLXdoby1hbm5vdW5jZXMtdGhlLWRldmVsb3BtZW50LW9mLWEtZ3VpZGVsaW5lLW9uLXRoZS1oZWFsdGgtb2YtdHJhbnMtYW5kLWdlbmRlci1kaXZlcnNlLXBlb3BsZdIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMihgFodHRwczovL3d3dy53aG8uaW50L25ld3MvaXRlbS8xOC0xMi0yMDIzLXdoby1hbm5vdW5jZXMtdGhlLWRldmVsb3BtZW50LW9mLWEtZ3VpZGVsaW5lLW9uLXRoZS1oZWFsdGgtb2YtdHJhbnMtYW5kLWdlbmRlci1kaXZlcnNlLXBlb3BsZdIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 18 Dec 2023 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy53aG8uaW50L25ld3MvaXRlbS8xOC0xMi0yMDIzLXdoby1hbm5vdW5jZXMtdGhlLWRldmVsb3BtZW50LW9mLWEtZ3VpZGVsaW5lLW9uLXRoZS1oZWFsdGgtb2YtdHJhbnMtYW5kLWdlbmRlci1kaXZlcnNlLXBlb3BsZdIBAA?oc=5\" target=\"_blank\">WHO announces the development of a guideline on the health of trans and gender diverse people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Health Organization (WHO)</font>"
-            ],
-            "source": [
-              {
-                "_": "World Health Organization (WHO)",
-                "$": {
-                  "url": "https://www.who.int"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Alberta restrictions for transgender youth 'extremely dangerous' -Canada minister - Reuters Canada"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2FsYmVydGEtcmVzdHJpY3Rpb25zLXRyYW5zZ2VuZGVyLXlvdXRoLWV4dHJlbWVseS1kYW5nZXJvdXMtY2FuYWRhLW1pbmlzdGVyLTIwMjQtMDItMDEv0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2FsYmVydGEtcmVzdHJpY3Rpb25zLXRyYW5zZ2VuZGVyLXlvdXRoLWV4dHJlbWVseS1kYW5nZXJvdXMtY2FuYWRhLW1pbmlzdGVyLTIwMjQtMDItMDEv0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Feb 2024 21:24:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2FsYmVydGEtcmVzdHJpY3Rpb25zLXRyYW5zZ2VuZGVyLXlvdXRoLWV4dHJlbWVseS1kYW5nZXJvdXMtY2FuYWRhLW1pbmlzdGVyLTIwMjQtMDItMDEv0gEA?oc=5\" target=\"_blank\">Alberta restrictions for transgender youth 'extremely dangerous' -Canada minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters Canada</font>"
-            ],
-            "source": [
-              {
-                "_": "Reuters Canada",
-                "$": {
-                  "url": "https://www.reuters.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Trans rights in Europe: Where does your country stand? - Euronews"
             ],
             "link": [
@@ -657,6 +597,36 @@
                 "_": "Euronews",
                 "$": {
                   "url": "https://www.euronews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Alberta restrictions for transgender youth 'extremely dangerous' -Canada minister - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2FsYmVydGEtcmVzdHJpY3Rpb25zLXRyYW5zZ2VuZGVyLXlvdXRoLWV4dHJlbWVseS1kYW5nZXJvdXMtY2FuYWRhLW1pbmlzdGVyLTIwMjQtMDItMDEv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2FsYmVydGEtcmVzdHJpY3Rpb25zLXRyYW5zZ2VuZGVyLXlvdXRoLWV4dHJlbWVseS1kYW5nZXJvdXMtY2FuYWRhLW1pbmlzdGVyLTIwMjQtMDItMDEv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 21:24:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2FsYmVydGEtcmVzdHJpY3Rpb25zLXRyYW5zZ2VuZGVyLXlvdXRoLWV4dHJlbWVseS1kYW5nZXJvdXMtY2FuYWRhLW1pbmlzdGVyLTIwMjQtMDItMDEv0gEA?oc=5\" target=\"_blank\">Alberta restrictions for transgender youth 'extremely dangerous' -Canada minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
                 }
               }
             ]
@@ -693,36 +663,6 @@
           },
           {
             "title": [
-              "CTV National News: Rally for trans rights - CTV News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvdmlkZW8vYzI4NjAzMjMtY3R2LW5hdGlvbmFsLW5ld3MtLXJhbGx5LWZvci10cmFucy1yaWdodHM_cGxheWxpc3RJZD0xLjY3NTUwNzkmYmluSWQ9MS44MTA0MTXSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMic2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvdmlkZW8vYzI4NjAzMjMtY3R2LW5hdGlvbmFsLW5ld3MtLXJhbGx5LWZvci10cmFucy1yaWdodHM_cGxheWxpc3RJZD0xLjY3NTUwNzkmYmluSWQ9MS44MTA0MTXSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sun, 04 Feb 2024 19:52:58 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvdmlkZW8vYzI4NjAzMjMtY3R2LW5hdGlvbmFsLW5ld3MtLXJhbGx5LWZvci10cmFucy1yaWdodHM_cGxheWxpc3RJZD0xLjY3NTUwNzkmYmluSWQ9MS44MTA0MTXSAQA?oc=5\" target=\"_blank\">CTV National News: Rally for trans rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>"
-            ],
-            "source": [
-              {
-                "_": "CTV News",
-                "$": {
-                  "url": "https://www.ctvnews.ca"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Transgender Awareness Week: Trans rights under attack. What's next? - USA TODAY"
             ],
             "link": [
@@ -747,6 +687,36 @@
                 "_": "USA TODAY",
                 "$": {
                   "url": "https://www.usatoday.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "CTV National News: Rally for trans rights - CTV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvdmlkZW8vYzI4NjAzMjMtY3R2LW5hdGlvbmFsLW5ld3MtLXJhbGx5LWZvci10cmFucy1yaWdodHM_cGxheWxpc3RJZD0xLjY3NTUwNzkmYmluSWQ9MS44MTA0MTXSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMic2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvdmlkZW8vYzI4NjAzMjMtY3R2LW5hdGlvbmFsLW5ld3MtLXJhbGx5LWZvci10cmFucy1yaWdodHM_cGxheWxpc3RJZD0xLjY3NTUwNzkmYmluSWQ9MS44MTA0MTXSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 04 Feb 2024 19:52:58 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvdmlkZW8vYzI4NjAzMjMtY3R2LW5hdGlvbmFsLW5ld3MtLXJhbGx5LWZvci10cmFucy1yaWdodHM_cGxheWxpc3RJZD0xLjY3NTUwNzkmYmluSWQ9MS44MTA0MTXSAQA?oc=5\" target=\"_blank\">CTV National News: Rally for trans rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News",
+                "$": {
+                  "url": "https://www.ctvnews.ca"
                 }
               }
             ]
@@ -1053,36 +1023,6 @@
           },
           {
             "title": [
-              "Trans rights rally scheduled for Wednesday at Highland Square library - Akron Beacon Journal"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5iZWFjb25qb3VybmFsLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjQvMDEvMjIvdHJhbnMtcmlnaHRzLXJhbGx5LXNjaGVkdWxlZC1mb3Itd2VkbmVzZGF5LWF0LWhpZ2hsYW5kLXNxdWFyZS1saWJyYXJ5LzcyMzE0MjE2MDA3L9IBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMijAFodHRwczovL3d3dy5iZWFjb25qb3VybmFsLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjQvMDEvMjIvdHJhbnMtcmlnaHRzLXJhbGx5LXNjaGVkdWxlZC1mb3Itd2VkbmVzZGF5LWF0LWhpZ2hsYW5kLXNxdWFyZS1saWJyYXJ5LzcyMzE0MjE2MDA3L9IBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 22 Jan 2024 08:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5iZWFjb25qb3VybmFsLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjQvMDEvMjIvdHJhbnMtcmlnaHRzLXJhbGx5LXNjaGVkdWxlZC1mb3Itd2VkbmVzZGF5LWF0LWhpZ2hsYW5kLXNxdWFyZS1saWJyYXJ5LzcyMzE0MjE2MDA3L9IBAA?oc=5\" target=\"_blank\">Trans rights rally scheduled for Wednesday at Highland Square library</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Akron Beacon Journal</font>"
-            ],
-            "source": [
-              {
-                "_": "Akron Beacon Journal",
-                "$": {
-                  "url": "https://www.beaconjournal.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Trans rights groups condemn Britain's new schools guidance as 'cruel' - Euronews"
             ],
             "link": [
@@ -1107,6 +1047,36 @@
                 "_": "Euronews",
                 "$": {
                   "url": "https://www.euronews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Trans rights rally scheduled for Wednesday at Highland Square library - Akron Beacon Journal"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5iZWFjb25qb3VybmFsLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjQvMDEvMjIvdHJhbnMtcmlnaHRzLXJhbGx5LXNjaGVkdWxlZC1mb3Itd2VkbmVzZGF5LWF0LWhpZ2hsYW5kLXNxdWFyZS1saWJyYXJ5LzcyMzE0MjE2MDA3L9IBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMijAFodHRwczovL3d3dy5iZWFjb25qb3VybmFsLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjQvMDEvMjIvdHJhbnMtcmlnaHRzLXJhbGx5LXNjaGVkdWxlZC1mb3Itd2VkbmVzZGF5LWF0LWhpZ2hsYW5kLXNxdWFyZS1saWJyYXJ5LzcyMzE0MjE2MDA3L9IBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Mon, 22 Jan 2024 08:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5iZWFjb25qb3VybmFsLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjQvMDEvMjIvdHJhbnMtcmlnaHRzLXJhbGx5LXNjaGVkdWxlZC1mb3Itd2VkbmVzZGF5LWF0LWhpZ2hsYW5kLXNxdWFyZS1saWJyYXJ5LzcyMzE0MjE2MDA3L9IBAA?oc=5\" target=\"_blank\">Trans rights rally scheduled for Wednesday at Highland Square library</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Akron Beacon Journal</font>"
+            ],
+            "source": [
+              {
+                "_": "Akron Beacon Journal",
+                "$": {
+                  "url": "https://www.beaconjournal.com"
                 }
               }
             ]
@@ -1173,36 +1143,6 @@
           },
           {
             "title": [
-              "Iowa House lawmakers reject bill to remove gender identity protections from Iowa civil rights law - Iowa Capital Dispatch"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMijQFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDEvMzEvaW93YS1ob3VzZS1sYXdtYWtlcnMtcmVqZWN0LWJpbGwtdG8tcmVtb3ZlLWdlbmRlci1pZGVudGl0eS1wcm90ZWN0aW9ucy1mcm9tLWlvd2EtY2l2aWwtcmlnaHRzLWxhdy_SAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMijQFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDEvMzEvaW93YS1ob3VzZS1sYXdtYWtlcnMtcmVqZWN0LWJpbGwtdG8tcmVtb3ZlLWdlbmRlci1pZGVudGl0eS1wcm90ZWN0aW9ucy1mcm9tLWlvd2EtY2l2aWwtcmlnaHRzLWxhdy_SAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Wed, 31 Jan 2024 23:39:19 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDEvMzEvaW93YS1ob3VzZS1sYXdtYWtlcnMtcmVqZWN0LWJpbGwtdG8tcmVtb3ZlLWdlbmRlci1pZGVudGl0eS1wcm90ZWN0aW9ucy1mcm9tLWlvd2EtY2l2aWwtcmlnaHRzLWxhdy_SAQA?oc=5\" target=\"_blank\">Iowa House lawmakers reject bill to remove gender identity protections from Iowa civil rights law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Iowa Capital Dispatch</font>"
-            ],
-            "source": [
-              {
-                "_": "Iowa Capital Dispatch",
-                "$": {
-                  "url": "https://iowacapitaldispatch.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Kaiser Chiefs star praised for wearing trans T-shirt on BBC show: \"icon behaviour\" - PinkNews"
             ],
             "link": [
@@ -1233,30 +1173,30 @@
           },
           {
             "title": [
-              "'Butt out': Poilievre criticizes Trudeau, feds on Alberta's planned transgender rules - CTV News"
+              "Iowa House lawmakers reject bill to remove gender identity protections from Iowa civil rights law - Iowa Capital Dispatch"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3MvYnV0dC1vdXQtcG9pbGlldnJlLWNyaXRpY2l6ZXMtdHJ1ZGVhdS1mZWRzLW9uLWFsYmVydGEtcy1wbGFubmVkLXRyYW5zZ2VuZGVyLXJ1bGVzLTEuNjc1ODUyONIBAA?oc=5"
+              "https://news.google.com/rss/articles/CBMijQFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDEvMzEvaW93YS1ob3VzZS1sYXdtYWtlcnMtcmVqZWN0LWJpbGwtdG8tcmVtb3ZlLWdlbmRlci1pZGVudGl0eS1wcm90ZWN0aW9ucy1mcm9tLWlvd2EtY2l2aWwtcmlnaHRzLWxhdy_SAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMie2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3MvYnV0dC1vdXQtcG9pbGlldnJlLWNyaXRpY2l6ZXMtdHJ1ZGVhdS1mZWRzLW9uLWFsYmVydGEtcy1wbGFubmVkLXRyYW5zZ2VuZGVyLXJ1bGVzLTEuNjc1ODUyONIBAA",
+                "_": "CBMijQFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDEvMzEvaW93YS1ob3VzZS1sYXdtYWtlcnMtcmVqZWN0LWJpbGwtdG8tcmVtb3ZlLWdlbmRlci1pZGVudGl0eS1wcm90ZWN0aW9ucy1mcm9tLWlvd2EtY2l2aWwtcmlnaHRzLWxhdy_SAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 06 Feb 2024 21:51:56 GMT"
+              "Wed, 31 Jan 2024 23:39:19 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3MvYnV0dC1vdXQtcG9pbGlldnJlLWNyaXRpY2l6ZXMtdHJ1ZGVhdS1mZWRzLW9uLWFsYmVydGEtcy1wbGFubmVkLXRyYW5zZ2VuZGVyLXJ1bGVzLTEuNjc1ODUyONIBAA?oc=5\" target=\"_blank\">'Butt out': Poilievre criticizes Trudeau, feds on Alberta's planned transgender rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMijQFodHRwczovL2lvd2FjYXBpdGFsZGlzcGF0Y2guY29tLzIwMjQvMDEvMzEvaW93YS1ob3VzZS1sYXdtYWtlcnMtcmVqZWN0LWJpbGwtdG8tcmVtb3ZlLWdlbmRlci1pZGVudGl0eS1wcm90ZWN0aW9ucy1mcm9tLWlvd2EtY2l2aWwtcmlnaHRzLWxhdy_SAQA?oc=5\" target=\"_blank\">Iowa House lawmakers reject bill to remove gender identity protections from Iowa civil rights law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Iowa Capital Dispatch</font>"
             ],
             "source": [
               {
-                "_": "CTV News",
+                "_": "Iowa Capital Dispatch",
                 "$": {
-                  "url": "https://www.ctvnews.ca"
+                  "url": "https://iowacapitaldispatch.com"
                 }
               }
             ]
@@ -1287,6 +1227,36 @@
                 "_": "DW (English)",
                 "$": {
                   "url": "https://www.dw.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "'Butt out': Poilievre criticizes Trudeau, feds on Alberta's planned transgender rules - CTV News"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3MvYnV0dC1vdXQtcG9pbGlldnJlLWNyaXRpY2l6ZXMtdHJ1ZGVhdS1mZWRzLW9uLWFsYmVydGEtcy1wbGFubmVkLXRyYW5zZ2VuZGVyLXJ1bGVzLTEuNjc1ODUyONIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMie2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3MvYnV0dC1vdXQtcG9pbGlldnJlLWNyaXRpY2l6ZXMtdHJ1ZGVhdS1mZWRzLW9uLWFsYmVydGEtcy1wbGFubmVkLXRyYW5zZ2VuZGVyLXJ1bGVzLTEuNjc1ODUyONIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 21:51:56 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3MvYnV0dC1vdXQtcG9pbGlldnJlLWNyaXRpY2l6ZXMtdHJ1ZGVhdS1mZWRzLW9uLWFsYmVydGEtcy1wbGFubmVkLXRyYW5zZ2VuZGVyLXJ1bGVzLTEuNjc1ODUyONIBAA?oc=5\" target=\"_blank\">'Butt out': Poilievre criticizes Trudeau, feds on Alberta's planned transgender rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>"
+            ],
+            "source": [
+              {
+                "_": "CTV News",
+                "$": {
+                  "url": "https://www.ctvnews.ca"
                 }
               }
             ]
@@ -2013,36 +1983,6 @@
           },
           {
             "title": [
-              "Alberta’s new trans policies continue to raise issues of rights and harm: expert - Global News"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL9IBUmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL2FtcC8?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiTmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL9IBUmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL2FtcC8",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Fri, 02 Feb 2024 20:51:46 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL9IBUmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL2FtcC8?oc=5\" target=\"_blank\">Alberta’s new trans policies continue to raise issues of rights and harm: expert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
-            ],
-            "source": [
-              {
-                "_": "Global News",
-                "$": {
-                  "url": "https://globalnews.ca"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "The Transgender Laws States Passed This Year - The New York Times"
             ],
             "link": [
@@ -2103,30 +2043,30 @@
           },
           {
             "title": [
-              "Bill removing gender identity from Iowa civil rights law won't advance - Des Moines Register"
+              "Alberta’s new trans policies continue to raise issues of rights and harm: expert - Global News"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2JpbGwtcmVtb3ZpbmctZ2VuZGVyLWlkZW50aXR5LXRyYW5zZ2VuZGVyLXByb3RlY3Rpb25zLWZyb20taW93YS1jaXZpbC1yaWdodHMtbGF3LXdvbnQtYWR2YW5jZS83MjQwNjgwMTAwNy_SAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL9IBUmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL2FtcC8?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiqwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2JpbGwtcmVtb3ZpbmctZ2VuZGVyLWlkZW50aXR5LXRyYW5zZ2VuZGVyLXByb3RlY3Rpb25zLWZyb20taW93YS1jaXZpbC1yaWdodHMtbGF3LXdvbnQtYWR2YW5jZS83MjQwNjgwMTAwNy_SAQA",
+                "_": "CBMiTmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL9IBUmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL2FtcC8",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Wed, 31 Jan 2024 22:07:30 GMT"
+              "Fri, 02 Feb 2024 20:51:46 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2JpbGwtcmVtb3ZpbmctZ2VuZGVyLWlkZW50aXR5LXRyYW5zZ2VuZGVyLXByb3RlY3Rpb25zLWZyb20taW93YS1jaXZpbC1yaWdodHMtbGF3LXdvbnQtYWR2YW5jZS83MjQwNjgwMTAwNy_SAQA?oc=5\" target=\"_blank\">Bill removing gender identity from Iowa civil rights law won't advance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Des Moines Register</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL9IBUmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjY5MTA4L2FsYmVydGEtdHJhbnMtcG9saWNpZXMtcmlnaHRzLWhhcm0taXNzdWVzL2FtcC8?oc=5\" target=\"_blank\">Alberta’s new trans policies continue to raise issues of rights and harm: expert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>"
             ],
             "source": [
               {
-                "_": "Des Moines Register",
+                "_": "Global News",
                 "$": {
-                  "url": "https://www.desmoinesregister.com"
+                  "url": "https://globalnews.ca"
                 }
               }
             ]
@@ -2163,6 +2103,36 @@
           },
           {
             "title": [
+              "Bill removing gender identity from Iowa civil rights law won't advance - Des Moines Register"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2JpbGwtcmVtb3ZpbmctZ2VuZGVyLWlkZW50aXR5LXRyYW5zZ2VuZGVyLXByb3RlY3Rpb25zLWZyb20taW93YS1jaXZpbC1yaWdodHMtbGF3LXdvbnQtYWR2YW5jZS83MjQwNjgwMTAwNy_SAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiqwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2JpbGwtcmVtb3ZpbmctZ2VuZGVyLWlkZW50aXR5LXRyYW5zZ2VuZGVyLXByb3RlY3Rpb25zLWZyb20taW93YS1jaXZpbC1yaWdodHMtbGF3LXdvbnQtYWR2YW5jZS83MjQwNjgwMTAwNy_SAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Wed, 31 Jan 2024 22:07:30 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5kZXNtb2luZXNyZWdpc3Rlci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDI0LzAxLzMxL2JpbGwtcmVtb3ZpbmctZ2VuZGVyLWlkZW50aXR5LXRyYW5zZ2VuZGVyLXByb3RlY3Rpb25zLWZyb20taW93YS1jaXZpbC1yaWdodHMtbGF3LXdvbnQtYWR2YW5jZS83MjQwNjgwMTAwNy_SAQA?oc=5\" target=\"_blank\">Bill removing gender identity from Iowa civil rights law won't advance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Des Moines Register</font>"
+            ],
+            "source": [
+              {
+                "_": "Des Moines Register",
+                "$": {
+                  "url": "https://www.desmoinesregister.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Trans policies out of 'concern of what will happen': Smith - CTV News"
             ],
             "link": [
@@ -2187,36 +2157,6 @@
                 "_": "CTV News",
                 "$": {
                   "url": "https://www.ctvnews.ca"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Advocating Inclusive Elections: Transgender Rights in Focus - TRIBAL NEWS NETWORK"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdG5uZW5nbGlzaC5jb20vYWR2b2NhdGluZy1pbmNsdXNpdmUtZWxlY3Rpb25zLXRyYW5zZ2VuZGVyLXJpZ2h0cy1pbi1mb2N1cy_SAVJodHRwczovL3RubmVuZ2xpc2guY29tL2Fkdm9jYXRpbmctaW5jbHVzaXZlLWVsZWN0aW9ucy10cmFuc2dlbmRlci1yaWdodHMtaW4tZm9jdXMv?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiUmh0dHBzOi8vdG5uZW5nbGlzaC5jb20vYWR2b2NhdGluZy1pbmNsdXNpdmUtZWxlY3Rpb25zLXRyYW5zZ2VuZGVyLXJpZ2h0cy1pbi1mb2N1cy_SAVJodHRwczovL3RubmVuZ2xpc2guY29tL2Fkdm9jYXRpbmctaW5jbHVzaXZlLWVsZWN0aW9ucy10cmFuc2dlbmRlci1yaWdodHMtaW4tZm9jdXMv",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 06 Feb 2024 13:18:32 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdG5uZW5nbGlzaC5jb20vYWR2b2NhdGluZy1pbmNsdXNpdmUtZWxlY3Rpb25zLXRyYW5zZ2VuZGVyLXJpZ2h0cy1pbi1mb2N1cy_SAVJodHRwczovL3RubmVuZ2xpc2guY29tL2Fkdm9jYXRpbmctaW5jbHVzaXZlLWVsZWN0aW9ucy10cmFuc2dlbmRlci1yaWdodHMtaW4tZm9jdXMv?oc=5\" target=\"_blank\">Advocating Inclusive Elections: Transgender Rights in Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRIBAL NEWS NETWORK</font>"
-            ],
-            "source": [
-              {
-                "_": "TRIBAL NEWS NETWORK",
-                "$": {
-                  "url": "https://tnnenglish.com"
                 }
               }
             ]
@@ -2373,36 +2313,6 @@
           },
           {
             "title": [
-              "The cruelty and calm of Alberta's attack on trans rights - Xtra Magazine"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9oZWFsdGgvdHJhbnMtaGVhbHRoL2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcG9saWN5LXRyYW5zLTI2MjUwMNIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiV2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9oZWFsdGgvdHJhbnMtaGVhbHRoL2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcG9saWN5LXRyYW5zLTI2MjUwMNIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Feb 2024 21:15:27 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9oZWFsdGgvdHJhbnMtaGVhbHRoL2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcG9saWN5LXRyYW5zLTI2MjUwMNIBAA?oc=5\" target=\"_blank\">The cruelty and calm of Alberta's attack on trans rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xtra Magazine</font>"
-            ],
-            "source": [
-              {
-                "_": "Xtra Magazine",
-                "$": {
-                  "url": "https://xtramagazine.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "UK: UN view on trans rights is 'much-needed common sense' - Amnesty International UK"
             ],
             "link": [
@@ -2427,6 +2337,66 @@
                 "_": "Amnesty International UK",
                 "$": {
                   "url": "https://www.amnesty.org.uk"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Advocating Inclusive Elections: Transgender Rights in Focus - TRIBAL NEWS NETWORK"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdG5uZW5nbGlzaC5jb20vYWR2b2NhdGluZy1pbmNsdXNpdmUtZWxlY3Rpb25zLXRyYW5zZ2VuZGVyLXJpZ2h0cy1pbi1mb2N1cy_SAVJodHRwczovL3RubmVuZ2xpc2guY29tL2Fkdm9jYXRpbmctaW5jbHVzaXZlLWVsZWN0aW9ucy10cmFuc2dlbmRlci1yaWdodHMtaW4tZm9jdXMv?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiUmh0dHBzOi8vdG5uZW5nbGlzaC5jb20vYWR2b2NhdGluZy1pbmNsdXNpdmUtZWxlY3Rpb25zLXRyYW5zZ2VuZGVyLXJpZ2h0cy1pbi1mb2N1cy_SAVJodHRwczovL3RubmVuZ2xpc2guY29tL2Fkdm9jYXRpbmctaW5jbHVzaXZlLWVsZWN0aW9ucy10cmFuc2dlbmRlci1yaWdodHMtaW4tZm9jdXMv",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 06 Feb 2024 13:18:32 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdG5uZW5nbGlzaC5jb20vYWR2b2NhdGluZy1pbmNsdXNpdmUtZWxlY3Rpb25zLXRyYW5zZ2VuZGVyLXJpZ2h0cy1pbi1mb2N1cy_SAVJodHRwczovL3RubmVuZ2xpc2guY29tL2Fkdm9jYXRpbmctaW5jbHVzaXZlLWVsZWN0aW9ucy10cmFuc2dlbmRlci1yaWdodHMtaW4tZm9jdXMv?oc=5\" target=\"_blank\">Advocating Inclusive Elections: Transgender Rights in Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRIBAL NEWS NETWORK</font>"
+            ],
+            "source": [
+              {
+                "_": "TRIBAL NEWS NETWORK",
+                "$": {
+                  "url": "https://tnnenglish.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Why Scotland and Westminster are going to war over trans rights - POLITICO Europe"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvc2NvdGxhbmQtd2VzdG1pbnN0ZXItZGlzcHV0ZS1jb3VydC10cmFuc2dlbmRlci1yaWdodHMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvc2NvdGxhbmQtd2VzdG1pbnN0ZXItZGlzcHV0ZS1jb3VydC10cmFuc2dlbmRlci1yaWdodHMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 19 Sep 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvc2NvdGxhbmQtd2VzdG1pbnN0ZXItZGlzcHV0ZS1jb3VydC10cmFuc2dlbmRlci1yaWdodHMv0gEA?oc=5\" target=\"_blank\">Why Scotland and Westminster are going to war over trans rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO Europe</font>"
+            ],
+            "source": [
+              {
+                "_": "POLITICO Europe",
+                "$": {
+                  "url": "https://www.politico.eu"
                 }
               }
             ]
@@ -2463,30 +2433,30 @@
           },
           {
             "title": [
-              "Why Scotland and Westminster are going to war over trans rights - POLITICO Europe"
+              "The cruelty and calm of Alberta's attack on trans rights - Xtra Magazine"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvc2NvdGxhbmQtd2VzdG1pbnN0ZXItZGlzcHV0ZS1jb3VydC10cmFuc2dlbmRlci1yaWdodHMv0gEA?oc=5"
+              "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9oZWFsdGgvdHJhbnMtaGVhbHRoL2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcG9saWN5LXRyYW5zLTI2MjUwMNIBAA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvc2NvdGxhbmQtd2VzdG1pbnN0ZXItZGlzcHV0ZS1jb3VydC10cmFuc2dlbmRlci1yaWdodHMv0gEA",
+                "_": "CBMiV2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9oZWFsdGgvdHJhbnMtaGVhbHRoL2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcG9saWN5LXRyYW5zLTI2MjUwMNIBAA",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Tue, 19 Sep 2023 07:00:00 GMT"
+              "Thu, 01 Feb 2024 21:15:27 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvc2NvdGxhbmQtd2VzdG1pbnN0ZXItZGlzcHV0ZS1jb3VydC10cmFuc2dlbmRlci1yaWdodHMv0gEA?oc=5\" target=\"_blank\">Why Scotland and Westminster are going to war over trans rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO Europe</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiV2h0dHBzOi8veHRyYW1hZ2F6aW5lLmNvbS9oZWFsdGgvdHJhbnMtaGVhbHRoL2RhbmllbGxlLXNtaXRoLWFsYmVydGEtcG9saWN5LXRyYW5zLTI2MjUwMNIBAA?oc=5\" target=\"_blank\">The cruelty and calm of Alberta's attack on trans rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xtra Magazine</font>"
             ],
             "source": [
               {
-                "_": "POLITICO Europe",
+                "_": "Xtra Magazine",
                 "$": {
-                  "url": "https://www.politico.eu"
+                  "url": "https://xtramagazine.com"
                 }
               }
             ]
@@ -2703,6 +2673,36 @@
           },
           {
             "title": [
+              "Listen: Trans scholar and activist explains why trans rights are under attack - The Conversation"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9saXN0ZW4tdHJhbnMtc2Nob2xhci1hbmQtYWN0aXZpc3QtZXhwbGFpbnMtd2h5LXRyYW5zLXJpZ2h0cy1hcmUtdW5kZXItYXR0YWNrLTIwNjI1OdIBAA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMib2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9saXN0ZW4tdHJhbnMtc2Nob2xhci1hbmQtYWN0aXZpc3QtZXhwbGFpbnMtd2h5LXRyYW5zLXJpZ2h0cy1hcmUtdW5kZXItYXR0YWNrLTIwNjI1OdIBAA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Jun 2023 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9saXN0ZW4tdHJhbnMtc2Nob2xhci1hbmQtYWN0aXZpc3QtZXhwbGFpbnMtd2h5LXRyYW5zLXJpZ2h0cy1hcmUtdW5kZXItYXR0YWNrLTIwNjI1OdIBAA?oc=5\" target=\"_blank\">Listen: Trans scholar and activist explains why trans rights are under attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>"
+            ],
+            "source": [
+              {
+                "_": "The Conversation",
+                "$": {
+                  "url": "https://theconversation.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Steelworkers: New Alberta anti-trans legislation abusive towards vulnerable children - USW Canada"
             ],
             "link": [
@@ -2733,36 +2733,6 @@
           },
           {
             "title": [
-              "Listen: Trans scholar and activist explains why trans rights are under attack - The Conversation Indonesia"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9saXN0ZW4tdHJhbnMtc2Nob2xhci1hbmQtYWN0aXZpc3QtZXhwbGFpbnMtd2h5LXRyYW5zLXJpZ2h0cy1hcmUtdW5kZXItYXR0YWNrLTIwNjI1OdIBAA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMib2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9saXN0ZW4tdHJhbnMtc2Nob2xhci1hbmQtYWN0aXZpc3QtZXhwbGFpbnMtd2h5LXRyYW5zLXJpZ2h0cy1hcmUtdW5kZXItYXR0YWNrLTIwNjI1OdIBAA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 01 Jun 2023 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9saXN0ZW4tdHJhbnMtc2Nob2xhci1hbmQtYWN0aXZpc3QtZXhwbGFpbnMtd2h5LXRyYW5zLXJpZ2h0cy1hcmUtdW5kZXItYXR0YWNrLTIwNjI1OdIBAA?oc=5\" target=\"_blank\">Listen: Trans scholar and activist explains why trans rights are under attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation Indonesia</font>"
-            ],
-            "source": [
-              {
-                "_": "The Conversation Indonesia",
-                "$": {
-                  "url": "https://theconversation.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Governor's latest attack on trans Iowans can't be constitutional - Bleeding Heartland"
             ],
             "link": [
@@ -2787,6 +2757,36 @@
                 "_": "Bleeding Heartland",
                 "$": {
                   "url": "https://www.bleedingheartland.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Conservatives tell MPs not to comment on Alberta transgender policies, prioritize parental rights, internal e-mail shows - The Globe and Mail"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vcG9saXRpY3MvYXJ0aWNsZS1jb25zZXJ2YXRpdmVzLXRlbGwtbXBzLW5vdC10by1jb21tZW50LW9uLWFsYmVydGEtdHJhbnNnZW5kZXItcG9saWNpZXMv0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMid2h0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vcG9saXRpY3MvYXJ0aWNsZS1jb25zZXJ2YXRpdmVzLXRlbGwtbXBzLW5vdC10by1jb21tZW50LW9uLWFsYmVydGEtdHJhbnNnZW5kZXItcG9saWNpZXMv0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 01 Feb 2024 22:12:27 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vcG9saXRpY3MvYXJ0aWNsZS1jb25zZXJ2YXRpdmVzLXRlbGwtbXBzLW5vdC10by1jb21tZW50LW9uLWFsYmVydGEtdHJhbnNnZW5kZXItcG9saWNpZXMv0gEA?oc=5\" target=\"_blank\">Conservatives tell MPs not to comment on Alberta transgender policies, prioritize parental rights, internal e-mail shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>"
+            ],
+            "source": [
+              {
+                "_": "The Globe and Mail",
+                "$": {
+                  "url": "https://www.theglobeandmail.com"
                 }
               }
             ]
