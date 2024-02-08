@@ -25,7 +25,7 @@
           "2024 Google Inc."
         ],
         "lastBuildDate": [
-          "Wed, 07 Feb 2024 08:29:22 GMT"
+          "Thu, 08 Feb 2024 13:47:51 GMT"
         ],
         "description": [
           "Google News"
@@ -57,6 +57,36 @@
                 "_": "Drug Store News",
                 "$": {
                   "url": "https://drugstorenews.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "HC refuses to stop Sun Pharmaceuticals from using word 'Respules' - ETHealthWorld"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMigAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcGhhcm1hL2hjLXJlZnVzZXMtdG8tc3RvcC1zdW4tcGhhcm1hY2V1dGljYWxzLWZyb20tdXNpbmctd29yZC1yZXNwdWxlcy85MjgxODcwMdIBhAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL2FtcC9uZXdzL3BoYXJtYS9oYy1yZWZ1c2VzLXRvLXN0b3Atc3VuLXBoYXJtYWNldXRpY2Fscy1mcm9tLXVzaW5nLXdvcmQtcmVzcHVsZXMvOTI4MTg3MDE?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMigAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcGhhcm1hL2hjLXJlZnVzZXMtdG8tc3RvcC1zdW4tcGhhcm1hY2V1dGljYWxzLWZyb20tdXNpbmctd29yZC1yZXNwdWxlcy85MjgxODcwMdIBhAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL2FtcC9uZXdzL3BoYXJtYS9oYy1yZWZ1c2VzLXRvLXN0b3Atc3VuLXBoYXJtYWNldXRpY2Fscy1mcm9tLXVzaW5nLXdvcmQtcmVzcHVsZXMvOTI4MTg3MDE",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Tue, 12 Jul 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMigAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcGhhcm1hL2hjLXJlZnVzZXMtdG8tc3RvcC1zdW4tcGhhcm1hY2V1dGljYWxzLWZyb20tdXNpbmctd29yZC1yZXNwdWxlcy85MjgxODcwMdIBhAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL2FtcC9uZXdzL3BoYXJtYS9oYy1yZWZ1c2VzLXRvLXN0b3Atc3VuLXBoYXJtYWNldXRpY2Fscy1mcm9tLXVzaW5nLXdvcmQtcmVzcHVsZXMvOTI4MTg3MDE?oc=5\" target=\"_blank\">HC refuses to stop Sun Pharmaceuticals from using word 'Respules'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETHealthWorld</font>"
+            ],
+            "source": [
+              {
+                "_": "ETHealthWorld",
+                "$": {
+                  "url": "https://health.economictimes.indiatimes.com"
                 }
               }
             ]
@@ -273,36 +303,6 @@
           },
           {
             "title": [
-              "Sun versus Cipla: Madras HC refuses to stop Sun Pharma from using word 'Respules' - Medical Dialogues"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMihQFodHRwczovL21lZGljYWxkaWFsb2d1ZXMuaW4vbmV3cy9pbmR1c3RyeS9waGFybWEvc3VuLXZlcnN1cy1jaXBsYS1tYWRyYXMtaGMtcmVmdXNlcy10by1zdG9wLXN1bi1waGFybWEtZnJvbS11c2luZy13b3JkLXJlc3B1bGVzLTk1ODUx0gGJAWh0dHBzOi8vbWVkaWNhbGRpYWxvZ3Vlcy5pbi9hbXAvbmV3cy9pbmR1c3RyeS9waGFybWEvc3VuLXZlcnN1cy1jaXBsYS1tYWRyYXMtaGMtcmVmdXNlcy10by1zdG9wLXN1bi1waGFybWEtZnJvbS11c2luZy13b3JkLXJlc3B1bGVzLTk1ODUx?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMihQFodHRwczovL21lZGljYWxkaWFsb2d1ZXMuaW4vbmV3cy9pbmR1c3RyeS9waGFybWEvc3VuLXZlcnN1cy1jaXBsYS1tYWRyYXMtaGMtcmVmdXNlcy10by1zdG9wLXN1bi1waGFybWEtZnJvbS11c2luZy13b3JkLXJlc3B1bGVzLTk1ODUx0gGJAWh0dHBzOi8vbWVkaWNhbGRpYWxvZ3Vlcy5pbi9hbXAvbmV3cy9pbmR1c3RyeS9waGFybWEvc3VuLXZlcnN1cy1jaXBsYS1tYWRyYXMtaGMtcmVmdXNlcy10by1zdG9wLXN1bi1waGFybWEtZnJvbS11c2luZy13b3JkLXJlc3B1bGVzLTk1ODUx",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Tue, 12 Jul 2022 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMihQFodHRwczovL21lZGljYWxkaWFsb2d1ZXMuaW4vbmV3cy9pbmR1c3RyeS9waGFybWEvc3VuLXZlcnN1cy1jaXBsYS1tYWRyYXMtaGMtcmVmdXNlcy10by1zdG9wLXN1bi1waGFybWEtZnJvbS11c2luZy13b3JkLXJlc3B1bGVzLTk1ODUx0gGJAWh0dHBzOi8vbWVkaWNhbGRpYWxvZ3Vlcy5pbi9hbXAvbmV3cy9pbmR1c3RyeS9waGFybWEvc3VuLXZlcnN1cy1jaXBsYS1tYWRyYXMtaGMtcmVmdXNlcy10by1zdG9wLXN1bi1waGFybWEtZnJvbS11c2luZy13b3JkLXJlc3B1bGVzLTk1ODUx?oc=5\" target=\"_blank\">Sun versus Cipla: Madras HC refuses to stop Sun Pharma from using word 'Respules'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Dialogues</font>"
-            ],
-            "source": [
-              {
-                "_": "Medical Dialogues",
-                "$": {
-                  "url": "https://medicaldialogues.in"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Are Wet Nebulizers Better Than Metered-Dose Inhalers? - Verywell Health"
             ],
             "link": [
@@ -483,36 +483,6 @@
           },
           {
             "title": [
-              "Actavis to Re-launch Generic Pulmicort RESPULES® Following Favorable Appeals Court Ruling - PR Newswire"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FjdGF2aXMtdG8tcmUtbGF1bmNoLWdlbmVyaWMtcHVsbWljb3J0LXJlc3B1bGVzLWZvbGxvd2luZy1mYXZvcmFibGUtYXBwZWFscy1jb3VydC1ydWxpbmctMzAwMDc5NzgzLmh0bWzSAQA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMikAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FjdGF2aXMtdG8tcmUtbGF1bmNoLWdlbmVyaWMtcHVsbWljb3J0LXJlc3B1bGVzLWZvbGxvd2luZy1mYXZvcmFibGUtYXBwZWFscy1jb3VydC1ydWxpbmctMzAwMDc5NzgzLmh0bWzSAQA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Thu, 07 May 2015 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FjdGF2aXMtdG8tcmUtbGF1bmNoLWdlbmVyaWMtcHVsbWljb3J0LXJlc3B1bGVzLWZvbGxvd2luZy1mYXZvcmFibGUtYXBwZWFscy1jb3VydC1ydWxpbmctMzAwMDc5NzgzLmh0bWzSAQA?oc=5\" target=\"_blank\">Actavis to Re-launch Generic Pulmicort RESPULES® Following Favorable Appeals Court Ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
-            ],
-            "source": [
-              {
-                "_": "PR Newswire",
-                "$": {
-                  "url": "https://www.prnewswire.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
               "Pulmicort and dosage: Strengths, forms, when to use, and more - Medical News Today"
             ],
             "link": [
@@ -537,36 +507,6 @@
                 "_": "Medical News Today",
                 "$": {
                   "url": "https://www.medicalnewstoday.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "Pulmicort Interactions: Other Medications, Alcohol, and More - Healthline"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC9kcnVncy9wdWxtaWNvcnQtaW50ZXJhY3Rpb25z0gEA?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMiPmh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC9kcnVncy9wdWxtaWNvcnQtaW50ZXJhY3Rpb25z0gEA",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Sun, 14 Aug 2022 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC9kcnVncy9wdWxtaWNvcnQtaW50ZXJhY3Rpb25z0gEA?oc=5\" target=\"_blank\">Pulmicort Interactions: Other Medications, Alcohol, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthline</font>"
-            ],
-            "source": [
-              {
-                "_": "Healthline",
-                "$": {
-                  "url": "https://www.healthline.com"
                 }
               }
             ]
@@ -633,6 +573,36 @@
           },
           {
             "title": [
+              "Pulmicort Interactions: Other Medications, Alcohol, and More - Healthline"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC9kcnVncy9wdWxtaWNvcnQtaW50ZXJhY3Rpb25z0gEA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiPmh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC9kcnVncy9wdWxtaWNvcnQtaW50ZXJhY3Rpb25z0gEA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Sun, 14 Aug 2022 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmhlYWx0aGxpbmUuY29tL2hlYWx0aC9kcnVncy9wdWxtaWNvcnQtaW50ZXJhY3Rpb25z0gEA?oc=5\" target=\"_blank\">Pulmicort Interactions: Other Medications, Alcohol, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthline</font>"
+            ],
+            "source": [
+              {
+                "_": "Healthline",
+                "$": {
+                  "url": "https://www.healthline.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
               "Madras HC refuses to stop Sun Pharma from using word 'Respules' - Medical Dialogues"
             ],
             "link": [
@@ -657,6 +627,36 @@
                 "_": "Medical Dialogues",
                 "$": {
                   "url": "https://medicaldialogues.in"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Actavis to Re-launch Generic Pulmicort RESPULES® Following Favorable Appeals Court Ruling - PR Newswire"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FjdGF2aXMtdG8tcmUtbGF1bmNoLWdlbmVyaWMtcHVsbWljb3J0LXJlc3B1bGVzLWZvbGxvd2luZy1mYXZvcmFibGUtYXBwZWFscy1jb3VydC1ydWxpbmctMzAwMDc5NzgzLmh0bWzSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMikAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FjdGF2aXMtdG8tcmUtbGF1bmNoLWdlbmVyaWMtcHVsbWljb3J0LXJlc3B1bGVzLWZvbGxvd2luZy1mYXZvcmFibGUtYXBwZWFscy1jb3VydC1ydWxpbmctMzAwMDc5NzgzLmh0bWzSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Thu, 07 May 2015 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2FjdGF2aXMtdG8tcmUtbGF1bmNoLWdlbmVyaWMtcHVsbWljb3J0LXJlc3B1bGVzLWZvbGxvd2luZy1mYXZvcmFibGUtYXBwZWFscy1jb3VydC1ydWxpbmctMzAwMDc5NzgzLmh0bWzSAQA?oc=5\" target=\"_blank\">Actavis to Re-launch Generic Pulmicort RESPULES® Following Favorable Appeals Court Ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+            ],
+            "source": [
+              {
+                "_": "PR Newswire",
+                "$": {
+                  "url": "https://www.prnewswire.com"
                 }
               }
             ]
@@ -873,30 +873,30 @@
           },
           {
             "title": [
-              "AstraZeneca settles U.S. pricing lawsuit for $103 mln - Reuters"
+              "These 300 medicines have been finalised for QR code - Medical Dialogues"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2FydGljbGUvYXN0cmF6ZW5lY2Etc2V0dGxlbWVudC1pZFVTTjE4MTg2ODU2MjAxMDA2MTjSAQA?oc=5"
+              "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbWVkaWNhbGRpYWxvZ3Vlcy5pbi9uZXdzL2luZHVzdHJ5L3BoYXJtYS90aGVzZS0zMDAtbWVkaWNpbmVzLWhhdmUtYmVlbi1maW5hbGlzZWQtZm9yLXFyLWNvZGUtOTQ2NTLSAW5odHRwczovL21lZGljYWxkaWFsb2d1ZXMuaW4vYW1wL25ld3MvaW5kdXN0cnkvcGhhcm1hL3RoZXNlLTMwMC1tZWRpY2luZXMtaGF2ZS1iZWVuLWZpbmFsaXNlZC1mb3ItcXItY29kZS05NDY1Mg?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMiTGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2FydGljbGUvYXN0cmF6ZW5lY2Etc2V0dGxlbWVudC1pZFVTTjE4MTg2ODU2MjAxMDA2MTjSAQA",
+                "_": "CBMiamh0dHBzOi8vbWVkaWNhbGRpYWxvZ3Vlcy5pbi9uZXdzL2luZHVzdHJ5L3BoYXJtYS90aGVzZS0zMDAtbWVkaWNpbmVzLWhhdmUtYmVlbi1maW5hbGlzZWQtZm9yLXFyLWNvZGUtOTQ2NTLSAW5odHRwczovL21lZGljYWxkaWFsb2d1ZXMuaW4vYW1wL25ld3MvaW5kdXN0cnkvcGhhcm1hL3RoZXNlLTMwMC1tZWRpY2luZXMtaGF2ZS1iZWVuLWZpbmFsaXNlZC1mb3ItcXItY29kZS05NDY1Mg",
                 "$": {
                   "isPermaLink": "false"
                 }
               }
             ],
             "pubDate": [
-              "Fri, 18 Jun 2010 07:00:00 GMT"
+              "Fri, 17 Jun 2022 07:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2FydGljbGUvYXN0cmF6ZW5lY2Etc2V0dGxlbWVudC1pZFVTTjE4MTg2ODU2MjAxMDA2MTjSAQA?oc=5\" target=\"_blank\">AstraZeneca settles U.S. pricing lawsuit for $103 mln</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbWVkaWNhbGRpYWxvZ3Vlcy5pbi9uZXdzL2luZHVzdHJ5L3BoYXJtYS90aGVzZS0zMDAtbWVkaWNpbmVzLWhhdmUtYmVlbi1maW5hbGlzZWQtZm9yLXFyLWNvZGUtOTQ2NTLSAW5odHRwczovL21lZGljYWxkaWFsb2d1ZXMuaW4vYW1wL25ld3MvaW5kdXN0cnkvcGhhcm1hL3RoZXNlLTMwMC1tZWRpY2luZXMtaGF2ZS1iZWVuLWZpbmFsaXNlZC1mb3ItcXItY29kZS05NDY1Mg?oc=5\" target=\"_blank\">These 300 medicines have been finalised for QR code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Dialogues</font>"
             ],
             "source": [
               {
-                "_": "Reuters",
+                "_": "Medical Dialogues",
                 "$": {
-                  "url": "https://www.reuters.com"
+                  "url": "https://medicaldialogues.in"
                 }
               }
             ]
@@ -927,6 +927,36 @@
                 "_": "NBT नवभारत टाइम्स (Navbharat Times)",
                 "$": {
                   "url": "https://navbharattimes.indiatimes.com"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "AstraZeneca settles U.S. pricing lawsuit for $103 mln - Reuters"
+            ],
+            "link": [
+              "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2FydGljbGUvYXN0cmF6ZW5lY2Etc2V0dGxlbWVudC1pZFVTTjE4MTg2ODU2MjAxMDA2MTjSAQA?oc=5"
+            ],
+            "guid": [
+              {
+                "_": "CBMiTGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2FydGljbGUvYXN0cmF6ZW5lY2Etc2V0dGxlbWVudC1pZFVTTjE4MTg2ODU2MjAxMDA2MTjSAQA",
+                "$": {
+                  "isPermaLink": "false"
+                }
+              }
+            ],
+            "pubDate": [
+              "Fri, 18 Jun 2010 07:00:00 GMT"
+            ],
+            "description": [
+              "<a href=\"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2FydGljbGUvYXN0cmF6ZW5lY2Etc2V0dGxlbWVudC1pZFVTTjE4MTg2ODU2MjAxMDA2MTjSAQA?oc=5\" target=\"_blank\">AstraZeneca settles U.S. pricing lawsuit for $103 mln</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+            ],
+            "source": [
+              {
+                "_": "Reuters",
+                "$": {
+                  "url": "https://www.reuters.com"
                 }
               }
             ]
@@ -1023,14 +1053,14 @@
           },
           {
             "title": [
-              "నెబ్యులైజర్ వాడుతున్నారా.. అయితే ఇవి తెలుసుకోండి. - సమయం తెలుగు (Samayam Telugu)"
+              "Nebulizer Uses,నెబ్యులైజర్ వాడుతున్నారా.. అయితే ఇవి తెలుసుకోండి. - what is a nebulizer know here uses and defination types - సమయం తెలుగు (Samayam Telugu)"
             ],
             "link": [
-              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vdGVsdWd1LnNhbWF5YW0uY29tL2xpZmVzdHlsZS9oZWFsdGgvd2hhdC1pcy1hLW5lYnVsaXplci1rbm93LWhlcmUtdXNlcy1hbmQtZGVmaW5hdGlvbi10eXBlcy9hcnRpY2xlc2hvdy84MDQ3NTcyNi5jbXPSAYABaHR0cHM6Ly90ZWx1Z3Uuc2FtYXlhbS5jb20vbGlmZXN0eWxlL2hlYWx0aC93aGF0LWlzLWEtbmVidWxpemVyLWtub3ctaGVyZS11c2VzLWFuZC1kZWZpbmF0aW9uLXR5cGVzL2FtcF9hcnRpY2xlc2hvdy84MDQ3NTcyNi5jbXM?oc=5"
+              "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vdGVsdWd1LnNhbWF5YW0uY29tL2xpZmVzdHlsZS9oZWFsdGgvd2hhdC1pcy1hLW5lYnVsaXplci1rbm93LWhlcmUtdXNlcy1hbmQtZGVmaW5hdGlvbi10eXBlcy9hcnRpY2xlc2hvdy84MDQ3NTcyNi5jbXPSAQA?oc=5"
             ],
             "guid": [
               {
-                "_": "CBMifGh0dHBzOi8vdGVsdWd1LnNhbWF5YW0uY29tL2xpZmVzdHlsZS9oZWFsdGgvd2hhdC1pcy1hLW5lYnVsaXplci1rbm93LWhlcmUtdXNlcy1hbmQtZGVmaW5hdGlvbi10eXBlcy9hcnRpY2xlc2hvdy84MDQ3NTcyNi5jbXPSAYABaHR0cHM6Ly90ZWx1Z3Uuc2FtYXlhbS5jb20vbGlmZXN0eWxlL2hlYWx0aC93aGF0LWlzLWEtbmVidWxpemVyLWtub3ctaGVyZS11c2VzLWFuZC1kZWZpbmF0aW9uLXR5cGVzL2FtcF9hcnRpY2xlc2hvdy84MDQ3NTcyNi5jbXM",
+                "_": "CBMifGh0dHBzOi8vdGVsdWd1LnNhbWF5YW0uY29tL2xpZmVzdHlsZS9oZWFsdGgvd2hhdC1pcy1hLW5lYnVsaXplci1rbm93LWhlcmUtdXNlcy1hbmQtZGVmaW5hdGlvbi10eXBlcy9hcnRpY2xlc2hvdy84MDQ3NTcyNi5jbXPSAQA",
                 "$": {
                   "isPermaLink": "false"
                 }
@@ -1040,7 +1070,7 @@
               "Wed, 27 Jan 2021 08:00:00 GMT"
             ],
             "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vdGVsdWd1LnNhbWF5YW0uY29tL2xpZmVzdHlsZS9oZWFsdGgvd2hhdC1pcy1hLW5lYnVsaXplci1rbm93LWhlcmUtdXNlcy1hbmQtZGVmaW5hdGlvbi10eXBlcy9hcnRpY2xlc2hvdy84MDQ3NTcyNi5jbXPSAYABaHR0cHM6Ly90ZWx1Z3Uuc2FtYXlhbS5jb20vbGlmZXN0eWxlL2hlYWx0aC93aGF0LWlzLWEtbmVidWxpemVyLWtub3ctaGVyZS11c2VzLWFuZC1kZWZpbmF0aW9uLXR5cGVzL2FtcF9hcnRpY2xlc2hvdy84MDQ3NTcyNi5jbXM?oc=5\" target=\"_blank\">నెబ్యులైజర్ వాడుతున్నారా.. అయితే ఇవి తెలుసుకోండి.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">సమయం తెలుగు (Samayam Telugu)</font>"
+              "<a href=\"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vdGVsdWd1LnNhbWF5YW0uY29tL2xpZmVzdHlsZS9oZWFsdGgvd2hhdC1pcy1hLW5lYnVsaXplci1rbm93LWhlcmUtdXNlcy1hbmQtZGVmaW5hdGlvbi10eXBlcy9hcnRpY2xlc2hvdy84MDQ3NTcyNi5jbXPSAQA?oc=5\" target=\"_blank\">Nebulizer Uses,నెబ్యులైజర్ వాడుతున్నారా.. అయితే ఇవి తెలుసుకోండి. - what is a nebulizer know here uses and defination types</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">సమయం తెలుగు (Samayam Telugu)</font>"
             ],
             "source": [
               {
@@ -1137,36 +1167,6 @@
                 "_": "HealthJockey.com",
                 "$": {
                   "url": "https://www.healthjockey.com"
-                }
-              }
-            ]
-          },
-          {
-            "title": [
-              "शिशुओं और बच्चों के लिए नेबुलाइजेशन - Firstcry"
-            ],
-            "link": [
-              "https://news.google.com/rss/articles/CBMi9gJodHRwczovL2hpbmRpcGFyZW50aW5nLmZpcnN0Y3J5LmNvbS9hcnRpY2xlcy9jaG90ZS1hdXItYmFkZS1iYWNjaG8ta2UtbGl5ZS1uZWJ1bGlzYXRpb24tJUUwJUE0JTlCJUUwJUE1JThCJUUwJUE0JTlGJUUwJUE1JTg3LSVFMCVBNCU5NCVFMCVBNCVCMC0lRTAlQTQlQUMlRTAlQTUlOUMlRTAlQTUlODctJUUwJUE0JUFDJUUwJUE0JTlBJUUwJUE1JThEJUUwJUE0JTlBJUUwJUE1JThCJUUwJUE0JTgyLSVFMCVBNCU5NSVFMCVBNSU4Ny0lRTAlQTQlQjIlRTAlQTQlQkYlRTAlQTQlOEYtJUUwJUE0JUE4JUUwJUE1JTg3JUUwJUE0JUFDJUUwJUE1JTgxJUUwJUE0JUIyJUUwJUE0JUJFJUUwJUE0JTg3JUUwJUE0JTlDJUUwJUE1JTg3JUUwJUE0JUI2JUUwJUE0JUE4L9IB-gJodHRwczovL2hpbmRpcGFyZW50aW5nLmZpcnN0Y3J5LmNvbS9hcnRpY2xlcy9jaG90ZS1hdXItYmFkZS1iYWNjaG8ta2UtbGl5ZS1uZWJ1bGlzYXRpb24tJUUwJUE0JTlCJUUwJUE1JThCJUUwJUE0JTlGJUUwJUE1JTg3LSVFMCVBNCU5NCVFMCVBNCVCMC0lRTAlQTQlQUMlRTAlQTUlOUMlRTAlQTUlODctJUUwJUE0JUFDJUUwJUE0JTlBJUUwJUE1JThEJUUwJUE0JTlBJUUwJUE1JThCJUUwJUE0JTgyLSVFMCVBNCU5NSVFMCVBNSU4Ny0lRTAlQTQlQjIlRTAlQTQlQkYlRTAlQTQlOEYtJUUwJUE0JUE4JUUwJUE1JTg3JUUwJUE0JUFDJUUwJUE1JTgxJUUwJUE0JUIyJUUwJUE0JUJFJUUwJUE0JTg3JUUwJUE0JTlDJUUwJUE1JTg3JUUwJUE0JUI2JUUwJUE0JUE4L2FtcC8?oc=5"
-            ],
-            "guid": [
-              {
-                "_": "CBMi9gJodHRwczovL2hpbmRpcGFyZW50aW5nLmZpcnN0Y3J5LmNvbS9hcnRpY2xlcy9jaG90ZS1hdXItYmFkZS1iYWNjaG8ta2UtbGl5ZS1uZWJ1bGlzYXRpb24tJUUwJUE0JTlCJUUwJUE1JThCJUUwJUE0JTlGJUUwJUE1JTg3LSVFMCVBNCU5NCVFMCVBNCVCMC0lRTAlQTQlQUMlRTAlQTUlOUMlRTAlQTUlODctJUUwJUE0JUFDJUUwJUE0JTlBJUUwJUE1JThEJUUwJUE0JTlBJUUwJUE1JThCJUUwJUE0JTgyLSVFMCVBNCU5NSVFMCVBNSU4Ny0lRTAlQTQlQjIlRTAlQTQlQkYlRTAlQTQlOEYtJUUwJUE0JUE4JUUwJUE1JTg3JUUwJUE0JUFDJUUwJUE1JTgxJUUwJUE0JUIyJUUwJUE0JUJFJUUwJUE0JTg3JUUwJUE0JTlDJUUwJUE1JTg3JUUwJUE0JUI2JUUwJUE0JUE4L9IB-gJodHRwczovL2hpbmRpcGFyZW50aW5nLmZpcnN0Y3J5LmNvbS9hcnRpY2xlcy9jaG90ZS1hdXItYmFkZS1iYWNjaG8ta2UtbGl5ZS1uZWJ1bGlzYXRpb24tJUUwJUE0JTlCJUUwJUE1JThCJUUwJUE0JTlGJUUwJUE1JTg3LSVFMCVBNCU5NCVFMCVBNCVCMC0lRTAlQTQlQUMlRTAlQTUlOUMlRTAlQTUlODctJUUwJUE0JUFDJUUwJUE0JTlBJUUwJUE1JThEJUUwJUE0JTlBJUUwJUE1JThCJUUwJUE0JTgyLSVFMCVBNCU5NSVFMCVBNSU4Ny0lRTAlQTQlQjIlRTAlQTQlQkYlRTAlQTQlOEYtJUUwJUE0JUE4JUUwJUE1JTg3JUUwJUE0JUFDJUUwJUE1JTgxJUUwJUE0JUIyJUUwJUE0JUJFJUUwJUE0JTg3JUUwJUE0JTlDJUUwJUE1JTg3JUUwJUE0JUI2JUUwJUE0JUE4L2FtcC8",
-                "$": {
-                  "isPermaLink": "false"
-                }
-              }
-            ],
-            "pubDate": [
-              "Mon, 26 Apr 2021 07:00:00 GMT"
-            ],
-            "description": [
-              "<a href=\"https://news.google.com/rss/articles/CBMi9gJodHRwczovL2hpbmRpcGFyZW50aW5nLmZpcnN0Y3J5LmNvbS9hcnRpY2xlcy9jaG90ZS1hdXItYmFkZS1iYWNjaG8ta2UtbGl5ZS1uZWJ1bGlzYXRpb24tJUUwJUE0JTlCJUUwJUE1JThCJUUwJUE0JTlGJUUwJUE1JTg3LSVFMCVBNCU5NCVFMCVBNCVCMC0lRTAlQTQlQUMlRTAlQTUlOUMlRTAlQTUlODctJUUwJUE0JUFDJUUwJUE0JTlBJUUwJUE1JThEJUUwJUE0JTlBJUUwJUE1JThCJUUwJUE0JTgyLSVFMCVBNCU5NSVFMCVBNSU4Ny0lRTAlQTQlQjIlRTAlQTQlQkYlRTAlQTQlOEYtJUUwJUE0JUE4JUUwJUE1JTg3JUUwJUE0JUFDJUUwJUE1JTgxJUUwJUE0JUIyJUUwJUE0JUJFJUUwJUE0JTg3JUUwJUE0JTlDJUUwJUE1JTg3JUUwJUE0JUI2JUUwJUE0JUE4L9IB-gJodHRwczovL2hpbmRpcGFyZW50aW5nLmZpcnN0Y3J5LmNvbS9hcnRpY2xlcy9jaG90ZS1hdXItYmFkZS1iYWNjaG8ta2UtbGl5ZS1uZWJ1bGlzYXRpb24tJUUwJUE0JTlCJUUwJUE1JThCJUUwJUE0JTlGJUUwJUE1JTg3LSVFMCVBNCU5NCVFMCVBNCVCMC0lRTAlQTQlQUMlRTAlQTUlOUMlRTAlQTUlODctJUUwJUE0JUFDJUUwJUE0JTlBJUUwJUE1JThEJUUwJUE0JTlBJUUwJUE1JThCJUUwJUE0JTgyLSVFMCVBNCU5NSVFMCVBNSU4Ny0lRTAlQTQlQjIlRTAlQTQlQkYlRTAlQTQlOEYtJUUwJUE0JUE4JUUwJUE1JTg3JUUwJUE0JUFDJUUwJUE1JTgxJUUwJUE0JUIyJUUwJUE0JUJFJUUwJUE0JTg3JUUwJUE0JTlDJUUwJUE1JTg3JUUwJUE0JUI2JUUwJUE0JUE4L2FtcC8?oc=5\" target=\"_blank\">शिशुओं और बच्चों के लिए नेबुलाइजेशन</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firstcry</font>"
-            ],
-            "source": [
-              {
-                "_": "Firstcry",
-                "$": {
-                  "url": "https://hindiparenting.firstcry.com"
                 }
               }
             ]
