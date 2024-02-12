@@ -96,7 +96,7 @@ async function startServer() {
   });
 }
 
-startServer()
+//startServer()
 
 async function startClient() {
   const connection = await amqp.connect('amqp://localhost');
@@ -155,9 +155,56 @@ function generateUuid() {
          Math.random().toString();
 }
 
-startClient();
+//startClient();
 
 
+const server = async () => {
+  const connection = await amqp.connect('amqp://localhost');
+  const channel = await connection.createChannel();
 
+  const senderQueue = channel.assertQueue('termQueue', {durable: true});
+  const replyQueue = channel.assertQueue('', {durable: true});
 
+  channel.consume(replyQueue, (msg) => {
+    console.log(msg);
+    parseString(JSON.parse(msg.content), (err, result) => {
+      if (err) {
+        console.error(`Error converting XML to JSON for term "${term}":`, err);
+        return;
+      }
+      const jsonData = JSON.stringify(result, null, 2);
+      const outputFilePath = `${outputDirectory}/${term}_output.json`;
+      fs.writeFileSync(outputFilePath, jsonData);
+
+      console.log(`Data for term "${term}" successfully converted to JSON and saved to ${outputFilePath}`);
+    });
+  });
+
+  channel.sendToQueue(senderQueue, Buffer.from(JSON.stringify(msg)), {
+    correlationId:'',
+    replyTo: replyQueue
+  });
+}
+
+server();
+
+const consumer = async () => {
+  const connection = await amqp.connect('amqp://localhost');
+  const channel = await connection.createChannel();
+
+  const senderQueue = channel.assertQueue('termQueue', {durable: true});
+
+  JSON.parse(queryTerms).forEach(term => {
+    console.log(term);
+    axios.get(`https://news.google.com/rss/search?q=${term}&hl=en-IN&gl=IN&ceid=IN%3Aen`).then(response => {
+      console.log(response.data);
+      channel.consume('termQueue', (msg) => {
+        channel.sendToQueue(msg.properties.replyTo, response, {});
+        channel.ack(msg);
+      });
+    });
+  })
+}
+
+consumer();
 
